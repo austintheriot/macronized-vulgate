@@ -2,7 +2,7 @@ use std::fs::{self, OpenOptions};
 use std::io::Write;
 use std::path::Path;
 
-use clap::{arg, Parser};
+use clap::{arg, Parser, Subcommand};
 use exitfailure::ExitFailure;
 use reqwest::Url;
 use select::document::Document;
@@ -13,10 +13,26 @@ use serde_derive::{Deserialize, Serialize};
 #[derive(Parser, Debug)]
 #[command(version, about, long_about = None)]
 struct Args {
-    #[arg(short, long)]
-    book: String,
-    #[arg(short, long)]
-    chapter: u32,
+    #[command(subcommand)]
+    command: Command,
+}
+
+#[derive(Subcommand, Debug)]
+enum Command {
+    /// macronize a bible chapter directly from local json files
+    Json {
+        #[arg(short, long)]
+        book: String,
+        #[arg(short, long)]
+        chapter: u32,
+    },
+    /// specify a filepath to macronize
+    Path {
+        #[arg(short, long)]
+        input_path: String,
+        #[arg(short, long)]
+        output_path: String,
+    },
 }
 
 #[derive(Serialize, Deserialize, Debug)]
@@ -47,10 +63,7 @@ struct Verse {
     text_latin: String,
 }
 
-#[tokio::main]
-async fn main() -> Result<(), ExitFailure> {
-    let args = Args::parse();
-
+async fn get_unmacronized_chapter(book: &str, chapter: u32) -> Result<String, ExitFailure> {
     let old_testament_file_path = Path::new("../../unmacronized-json/old_testament.json");
     let new_testament_file_path = Path::new("../../unmacronized-json/new_testament.json");
 
@@ -63,19 +76,19 @@ async fn main() -> Result<(), ExitFailure> {
     let book = old_testament
         .0
         .into_iter()
-        .find(|book| book.title == args.book)
+        .find(|maybe_book| maybe_book.title == book)
         .or_else(|| {
             new_testament
                 .0
                 .into_iter()
-                .find(|book| book.title == args.book)
+                .find(|maybe_book| maybe_book.title == book)
         })
         .expect("Finding matching book");
 
     let chapter = book
         .chapters
         .into_iter()
-        .find(|chapter| chapter.chapter_number == args.chapter)
+        .find(|maybe_chapter| maybe_chapter.chapter_number == chapter)
         .expect("Finding matching chapter");
 
     let final_verse_index = chapter.verses.len() - 1;
@@ -92,13 +105,31 @@ async fn main() -> Result<(), ExitFailure> {
         })
         .collect();
 
+    Ok(latin_only_text)
+}
+
+async fn get_unmacronized_text_from_file(input_path: &str) -> Result<String, ExitFailure> {
+    let file_string = fs::read_to_string(input_path)?;
+    Ok(file_string)
+}
+
+#[tokio::main]
+async fn main() -> Result<(), ExitFailure> {
+    let args = Args::parse();
+
+    let text_to_macronize = match args.command {
+        Command::Json { ref book, chapter } => get_unmacronized_chapter(book, chapter).await,
+        Command::Path { ref input_path, .. } => get_unmacronized_text_from_file(input_path).await,
+    }
+    .expect("Getting text to macronize");
+
     let macronizer_url = Url::parse("https://alatius.com/macronizer/")?;
 
     let client = reqwest::Client::new();
     let body = client
         .post(macronizer_url)
         .form(&[
-            ("textcontent", latin_only_text.as_str()),
+            ("textcontent", text_to_macronize.as_str()),
             ("macronize", "on"),
             ("scan", "0"),
         ])
@@ -137,11 +168,17 @@ async fn main() -> Result<(), ExitFailure> {
     }
     .expect("Parsing API results into String");
 
-    let path = format!("../../macronized-md/{}/{}.md", args.book, args.chapter);
-    let path = Path::new(&path);
+    let output_path_string = match args.command {
+        Command::Json { book, chapter } => {
+            format!("../../macronized-md/{}/{}.md", book, chapter)
+        }
+        Command::Path { output_path, .. } => output_path,
+    };
+
+    let output_path = Path::new(&output_path_string);
 
     // Create the parent directories if they don't exist
-    if let Some(parent) = path.parent() {
+    if let Some(parent) = output_path.parent() {
         fs::create_dir_all(parent)?;
     }
 
@@ -149,10 +186,11 @@ async fn main() -> Result<(), ExitFailure> {
         .write(true)
         .create(true) // Create the file if it doesn't exist
         .truncate(true) // Truncate the file if it already exists
-        .open(path)?;
+        .open(output_path)?;
 
     // Write the string content to the file
     file.write_all(macronized_text.as_bytes())?;
 
+    println!("File successfully written to {output_path_string}");
     Ok(())
 }
