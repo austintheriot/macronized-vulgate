@@ -139,7 +139,7 @@ async fn get_unmacronized_chapter(book: &str, chapter: u32) -> Result<String, Ex
         .enumerate()
         .map(|(i, verse)| {
             if i != final_verse_index {
-                format!("{} {}\n", verse.verse_number, verse.text_latin)
+                format!("{} {}\n\n", verse.verse_number, verse.text_latin)
             } else {
                 format!("{} {}", verse.verse_number, verse.text_latin)
             }
