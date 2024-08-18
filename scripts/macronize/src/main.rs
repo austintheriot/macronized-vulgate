@@ -14,8 +14,6 @@ use serde_derive::{Deserialize, Serialize};
 #[command(version, about, long_about = None)]
 struct Args {
     #[arg(short, long)]
-    testament: String,
-    #[arg(short, long)]
     book: String,
     #[arg(short, long)]
     chapter: u32,
@@ -53,20 +51,25 @@ struct Verse {
 async fn main() -> Result<(), ExitFailure> {
     let args = Args::parse();
 
-    let file_path = if args.testament == "new" {
-        Path::new("../../unmacronized-json/new_testament.json")
-    } else {
-        Path::new("../../unmacronized-json/old_testament.json")
-    };
+    let old_testament_file_path = Path::new("../../unmacronized-json/old_testament.json");
+    let new_testament_file_path = Path::new("../../unmacronized-json/new_testament.json");
 
-    let text_to_macronize = fs::read_to_string(file_path)?;
+    let old_testament_string = fs::read_to_string(old_testament_file_path)?;
+    let new_testament_string = fs::read_to_string(new_testament_file_path)?;
 
-    let testament: Testament = serde_json::from_str(&text_to_macronize)?;
+    let old_testament: Testament = serde_json::from_str(&old_testament_string)?;
+    let new_testament: Testament = serde_json::from_str(&new_testament_string)?;
 
-    let book = testament
+    let book = old_testament
         .0
         .into_iter()
         .find(|book| book.title == args.book)
+        .or_else(|| {
+            new_testament
+                .0
+                .into_iter()
+                .find(|book| book.title == args.book)
+        })
         .expect("Finding matching book");
 
     let chapter = book
@@ -134,7 +137,7 @@ async fn main() -> Result<(), ExitFailure> {
     }
     .expect("Parsing API results into String");
 
-    let path = format!("../../macronized-json/{}/{}.md", args.book, args.chapter);
+    let path = format!("../../macronized-md/{}/{}.md", args.book, args.chapter);
     let path = Path::new(&path);
 
     // Create the parent directories if they don't exist
