@@ -1,4 +1,5 @@
-use std::fs;
+use std::fs::{self, OpenOptions};
+use std::io::Write;
 use std::path::Path;
 
 use clap::{arg, Parser};
@@ -150,7 +151,25 @@ async fn main() -> Result<(), ExitFailure> {
         chapter_number: args.chapter,
     };
 
-    println!("{:?}", chapter);
+    let path = format!("../../macronized-json/{}/{}.json", args.book, args.chapter);
+    let path = Path::new(&path);
+
+    // Create the parent directories if they don't exist
+    if let Some(parent) = path.parent() {
+        fs::create_dir_all(parent)?;
+    }
+
+    let mut file = OpenOptions::new()
+        .write(true)
+        .create(true) // Create the file if it doesn't exist
+        .truncate(true) // Truncate the file if it already exists
+        .open(path)?;
+
+    // serialize the chapter as json
+    let chapter_json = serde_json::to_string(&chapter)?;
+
+    // Write the string content to the file
+    file.write_all(chapter_json.as_bytes())?;
 
     Ok(())
 }
