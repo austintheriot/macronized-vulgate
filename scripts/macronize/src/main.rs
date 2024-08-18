@@ -82,9 +82,9 @@ async fn main() -> Result<(), ExitFailure> {
         .enumerate()
         .map(|(i, verse)| {
             if i != final_verse_index {
-                verse.text_latin + "\n"
+                format!("{} {}\n", verse.verse_number, verse.text_latin)
             } else {
-                verse.text_latin
+                format!("{} {}", verse.verse_number, verse.text_latin)
             }
         })
         .collect();
@@ -134,24 +134,7 @@ async fn main() -> Result<(), ExitFailure> {
     }
     .expect("Parsing API results into String");
 
-    let verses: Vec<&str> = macronized_text.split("\n").collect();
-
-    let verses: Vec<Verse> = verses
-        .into_iter()
-        .enumerate()
-        .map(|(i, verse_text)| Verse {
-            text_latin: verse_text.to_string(),
-            text: None,
-            verse_number: (i as u32) + 1,
-        })
-        .collect();
-
-    let chapter = Chapter {
-        verses,
-        chapter_number: args.chapter,
-    };
-
-    let path = format!("../../macronized-json/{}/{}.json", args.book, args.chapter);
+    let path = format!("../../macronized-json/{}/{}.md", args.book, args.chapter);
     let path = Path::new(&path);
 
     // Create the parent directories if they don't exist
@@ -165,11 +148,8 @@ async fn main() -> Result<(), ExitFailure> {
         .truncate(true) // Truncate the file if it already exists
         .open(path)?;
 
-    // serialize the chapter as json
-    let chapter_json = serde_json::to_string(&chapter)?;
-
     // Write the string content to the file
-    file.write_all(chapter_json.as_bytes())?;
+    file.write_all(macronized_text.as_bytes())?;
 
     Ok(())
 }
