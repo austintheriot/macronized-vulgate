@@ -12,7 +12,7 @@ use serde_derive::{Deserialize, Serialize};
 
 #[derive(Parser, Debug)]
 #[command(version, about, long_about = None)]
-struct Args {
+struct Cli {
     #[command(subcommand)]
     command: Command,
 }
@@ -61,6 +61,47 @@ struct Verse {
     text: Option<String>,
     #[serde(rename(deserialize = "textLatin"))]
     text_latin: String,
+}
+
+#[tokio::main]
+async fn main() -> Result<(), ExitFailure> {
+    let cli = Cli::parse();
+
+    let text_to_macronize = match cli.command {
+        Command::Json { ref book, chapter } => get_unmacronized_chapter(book, chapter).await,
+        Command::Path { ref input_path, .. } => get_unmacronized_text_from_file(input_path).await,
+    }
+    .expect("Getting text to macronize");
+
+    let macronized_text = macronize_text(text_to_macronize.as_str())
+        .await
+        .expect("Macronizing text");
+
+    let output_path_string = match cli.command {
+        Command::Json { book, chapter } => {
+            format!("../../macronized-md/{}/{}.md", book, chapter)
+        }
+        Command::Path { output_path, .. } => output_path,
+    };
+
+    let output_path = Path::new(&output_path_string);
+
+    // Create the parent directories if they don't exist
+    if let Some(parent) = output_path.parent() {
+        fs::create_dir_all(parent)?;
+    }
+
+    let mut file = OpenOptions::new()
+        .write(true)
+        .create(true) // Create the file if it doesn't exist
+        .truncate(true) // Truncate the file if it already exists
+        .open(output_path)?;
+
+    // Write the string content to the file
+    file.write_all(macronized_text.as_bytes())?;
+
+    println!("File successfully written to {output_path_string}");
+    Ok(())
 }
 
 async fn get_unmacronized_chapter(book: &str, chapter: u32) -> Result<String, ExitFailure> {
@@ -113,23 +154,14 @@ async fn get_unmacronized_text_from_file(input_path: &str) -> Result<String, Exi
     Ok(file_string)
 }
 
-#[tokio::main]
-async fn main() -> Result<(), ExitFailure> {
-    let args = Args::parse();
-
-    let text_to_macronize = match args.command {
-        Command::Json { ref book, chapter } => get_unmacronized_chapter(book, chapter).await,
-        Command::Path { ref input_path, .. } => get_unmacronized_text_from_file(input_path).await,
-    }
-    .expect("Getting text to macronize");
-
+async fn macronize_text(text_to_macronize: &str) -> Result<String, ExitFailure> {
     let macronizer_url = Url::parse("https://alatius.com/macronizer/")?;
 
     let client = reqwest::Client::new();
     let body = client
         .post(macronizer_url)
         .form(&[
-            ("textcontent", text_to_macronize.as_str()),
+            ("textcontent", text_to_macronize),
             ("macronize", "on"),
             ("scan", "0"),
         ])
@@ -168,29 +200,5 @@ async fn main() -> Result<(), ExitFailure> {
     }
     .expect("Parsing API results into String");
 
-    let output_path_string = match args.command {
-        Command::Json { book, chapter } => {
-            format!("../../macronized-md/{}/{}.md", book, chapter)
-        }
-        Command::Path { output_path, .. } => output_path,
-    };
-
-    let output_path = Path::new(&output_path_string);
-
-    // Create the parent directories if they don't exist
-    if let Some(parent) = output_path.parent() {
-        fs::create_dir_all(parent)?;
-    }
-
-    let mut file = OpenOptions::new()
-        .write(true)
-        .create(true) // Create the file if it doesn't exist
-        .truncate(true) // Truncate the file if it already exists
-        .open(output_path)?;
-
-    // Write the string content to the file
-    file.write_all(macronized_text.as_bytes())?;
-
-    println!("File successfully written to {output_path_string}");
-    Ok(())
+    Ok(macronized_text)
 }
