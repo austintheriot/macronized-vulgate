@@ -1,9 +1,12 @@
+use std::fs;
+
 use clap::{arg, Parser};
 use exitfailure::ExitFailure;
 use reqwest::Url;
 use select::document::Document;
 use select::node::Node;
 use select::predicate::{Attr, Name, Predicate};
+use serde_derive::{Deserialize, Serialize};
 
 /// Simple program to greet a person
 #[derive(Parser, Debug)]
@@ -11,23 +14,53 @@ use select::predicate::{Attr, Name, Predicate};
 struct Args {
     /// Name of the person to greet
     #[arg(short, long)]
-    file: String,
+    path: String,
 }
 
-impl Args {
-    fn new(file: String) -> Self {
-        Self { file }
-    }
+#[derive(Serialize, Deserialize, Debug)]
+struct Testament(Vec<Book>);
+
+#[derive(Serialize, Deserialize, Debug)]
+struct Book {
+    testament: String,
+    title: String,
+    #[serde(rename(deserialize = "bookNumber"))]
+    book_number: u32,
+    chapters: Vec<Chapter>,
+}
+
+#[derive(Serialize, Deserialize, Debug)]
+struct Chapter {
+    #[serde(rename(deserialize = "chapterNumber"))]
+    chapter_number: u32,
+    verses: Vec<Verse>,
+}
+
+#[derive(Serialize, Deserialize, Debug)]
+struct Verse {
+    #[serde(rename(deserialize = "verseNumber"))]
+    verse_number: u32,
+    text: String,
+    #[serde(rename(deserialize = "textLatin"))]
+    text_latin: String,
 }
 
 #[tokio::main]
 async fn main() -> Result<(), ExitFailure> {
     let args = Args::parse();
 
+    let text_to_macronize = fs::read_to_string(args.path)?;
+
+    let testament: Testament = serde_json::from_str(&text_to_macronize)?;
+
+    println!("{:?}", testament);
+
+    return Ok(());
+
     let url = Url::parse("https://alatius.com/macronizer/")?;
 
     let params = [
-        ("textcontent", test_text),
+        ("textcontent", text_to_macronize.as_str()),
         ("macronize", "on"),
         ("scan", "0"),
     ];
