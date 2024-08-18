@@ -43,7 +43,7 @@ struct Chapter {
 struct Verse {
     #[serde(rename(deserialize = "verseNumber"))]
     verse_number: u32,
-    text: String,
+    text: Option<String>,
     #[serde(rename(deserialize = "textLatin"))]
     text_latin: String,
 }
@@ -74,10 +74,18 @@ async fn main() -> Result<(), ExitFailure> {
         .find(|chapter| chapter.chapter_number == args.chapter)
         .expect("Finding matching chapter");
 
+    let final_verse_index = chapter.verses.len() - 1;
     let latin_only_text: String = chapter
         .verses
         .into_iter()
-        .map(|verse| verse.text_latin + "\n")
+        .enumerate()
+        .map(|(i, verse)| {
+            if i != final_verse_index {
+                verse.text_latin + "\n"
+            } else {
+                verse.text_latin
+            }
+        })
         .collect();
 
     let macronizer_url = Url::parse("https://alatius.com/macronizer/")?;
@@ -125,7 +133,24 @@ async fn main() -> Result<(), ExitFailure> {
     }
     .expect("Parsing API results into String");
 
-    println!("{:?}", macronized_text);
+    let verses: Vec<&str> = macronized_text.split("\n").collect();
+
+    let verses: Vec<Verse> = verses
+        .into_iter()
+        .enumerate()
+        .map(|(i, verse_text)| Verse {
+            text_latin: verse_text.to_string(),
+            text: None,
+            verse_number: (i as u32) + 1,
+        })
+        .collect();
+
+    let chapter = Chapter {
+        verses,
+        chapter_number: args.chapter,
+    };
+
+    println!("{:?}", chapter);
 
     Ok(())
 }
