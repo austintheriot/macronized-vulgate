@@ -1,4 +1,5 @@
 use std::fs;
+use std::path::Path;
 
 use clap::{arg, Parser};
 use exitfailure::ExitFailure;
@@ -12,9 +13,12 @@ use serde_derive::{Deserialize, Serialize};
 #[derive(Parser, Debug)]
 #[command(version, about, long_about = None)]
 struct Args {
-    /// Name of the person to greet
     #[arg(short, long)]
-    path: String,
+    testament: String,
+    #[arg(short, long)]
+    book: String,
+    #[arg(short, long)]
+    chapter: u32,
 }
 
 #[derive(Serialize, Deserialize, Debug)]
@@ -49,52 +53,80 @@ struct Verse {
 async fn main() -> Result<(), ExitFailure> {
     let args = Args::parse();
 
-    let text_to_macronize = fs::read_to_string(args.path)?;
+    let file_path = if args.testament == "new" {
+        Path::new("../../unmacronized-json/new_testament.json")
+    } else {
+        Path::new("../../unmacronized-json/old_testament.json")
+    };
+
+    let text_to_macronize = fs::read_to_string(&file_path)?;
 
     let testament: Testament = serde_json::from_str(&text_to_macronize)?;
 
-    println!("{:?}", testament);
+    let book = testament
+        .0
+        .into_iter()
+        .find(|book| book.title == args.book)
+        .expect("Finding matching book");
 
-    return Ok(());
+    let chapter = book
+        .chapters
+        .into_iter()
+        .find(|chapter| chapter.chapter_number == args.chapter)
+        .expect("Finding matching chapter");
 
-    let url = Url::parse("https://alatius.com/macronizer/")?;
+    let latin_only_text: String = chapter
+        .verses
+        .into_iter()
+        .map(|verse| format!("{}\n", verse.text_latin))
+        .collect();
 
-    let params = [
-        ("textcontent", text_to_macronize.as_str()),
-        ("macronize", "on"),
-        ("scan", "0"),
-    ];
+    let macronizer_url = Url::parse("https://alatius.com/macronizer/")?;
+
     let client = reqwest::Client::new();
-    let body = client.post(url).form(&params).send().await?.text().await?;
+    let body = client
+        .post(macronizer_url)
+        .form(&[
+            ("textcontent", latin_only_text.as_str()),
+            ("macronize", "on"),
+            ("scan", "0"),
+        ])
+        .send()
+        .await?
+        .text()
+        .await?;
 
     // Parse the HTML
     let document = Document::from(body.as_str());
 
     // Find the div with id="selectme"
-    if let Some(div) = document
+    let macronized_text = if let Some(div) = document
         .find(Name("div").and(Attr("id", "selectme")))
         .next()
     {
+        // find any spans that are marked as ambiguous
         let ambiguous_predicate =
             |node: &Node| node.attr("class").unwrap_or_default().contains("ambig");
 
-        let mut result = String::new();
+        let mut macronized_result = String::new();
 
         // Extract and print the text content
         div.children().into_iter().for_each(|node| {
-            let content = node.text().to_string();
-
+            let string_content = node.text().to_string();
             if ambiguous_predicate(&node) {
-                result.push_str(&format!("**{}**", content));
+                macronized_result.push_str(&format!("**{}**", string_content));
             } else {
-                result.push_str(&content);
+                macronized_result.push_str(&string_content);
             }
         });
 
-        println!("{:?}", result);
+        Some(macronized_result)
     } else {
-        println!("Div with id 'selectme' not found.");
+        None
     }
+    .expect("Parsing API results into String");
+
+    println!("{:?}", macronized_text);
 
     Ok(())
 }
