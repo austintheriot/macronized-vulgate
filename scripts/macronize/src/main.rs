@@ -9,7 +9,6 @@ use select::node::Node;
 use select::predicate::{Attr, Name, Predicate};
 use serde_derive::{Deserialize, Serialize};
 
-/// Simple program to greet a person
 #[derive(Parser, Debug)]
 #[command(version, about, long_about = None)]
 struct Args {
@@ -59,7 +58,7 @@ async fn main() -> Result<(), ExitFailure> {
         Path::new("../../unmacronized-json/old_testament.json")
     };
 
-    let text_to_macronize = fs::read_to_string(&file_path)?;
+    let text_to_macronize = fs::read_to_string(file_path)?;
 
     let testament: Testament = serde_json::from_str(&text_to_macronize)?;
 
@@ -78,7 +77,7 @@ async fn main() -> Result<(), ExitFailure> {
     let latin_only_text: String = chapter
         .verses
         .into_iter()
-        .map(|verse| format!("{}\n", verse.text_latin))
+        .map(|verse| verse.text_latin + "\n")
         .collect();
 
     let macronizer_url = Url::parse("https://alatius.com/macronizer/")?;
@@ -111,7 +110,7 @@ async fn main() -> Result<(), ExitFailure> {
         let mut macronized_result = String::new();
 
         // Extract and print the text content
-        div.children().into_iter().for_each(|node| {
+        div.children().for_each(|node| {
             let string_content = node.text().to_string();
             if ambiguous_predicate(&node) {
                 macronized_result.push_str(&format!("**{}**", string_content));
