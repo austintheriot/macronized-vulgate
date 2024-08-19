@@ -1,5 +1,5 @@
 1
-**Locūtus**que **est** Dominus ad Moysēn in dēsertō Sināī in tabernāculō **conventus**, **prīmā** **diē** **mēnsis** secundī, annō alterō ēgressiōnis eōrum ex Aegyptō, dīcēns:
+**Locūtus** que **est** Dominus ad Moysēn in dēsertō Sināī in tabernāculō **conventus**, **prīmā** **diē** **mēnsis** secundī, annō alterō ēgressiōnis eōrum ex Aegyptō, dīcēns:
 2 “ Tollite summam ūniversae congregātiōnis fīliōrum Isrāēl per cognātiōnēs et domōs suās et **nōmina** singulōrum, quidquid **sexus** **est** masculīnī
 3 ā vīcēsimō annō et suprā omnium ex Isrāēl, quī possunt ad **bella** **prōcēdere**, et numerābitis eōs per turmās suās, tū et Aarōn.
 4 Eritque vōbīscum vir per tribum, prīnceps **domūs** patrum suōrum,
