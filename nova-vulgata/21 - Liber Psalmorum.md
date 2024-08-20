@@ -1,4 +1,17 @@
-PSALMUS 1
+# LIBER PSALMŌRUM
+
+[LIBER I (Psalmī 1-41)](#liber-i-(psalmī-1-41))
+LIBER II (Psalmī 42-72)
+LIBER III (Psalmī 73-89)
+LIBER IV (Psalmī 90-106)
+LIBER V (Psalmī 107-150)
+
+## LIBER I (Psalmī 1-41)
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41
+
+### PSALMUS 1
 
 1 Beātus vir, quī nōn abiit in cōnsiliō impiōruma
 
@@ -30,8 +43,7 @@ neque peccātōrēs in conciliō iūstōrum.
 
 et iter impiōrum perībit.
 
-
-PSALMUS 2
+### PSALMUS 2
 
 1 Quārē fremuērunt gentēs,
 
@@ -87,8 +99,7 @@ cum exārserit in brevī īra eius.
 
 Beātī omnēs, quī cōnfīdunt in eō.
 
-
-PSALMUS 3
+### PSALMUS 3
 
 1 PSALMUS. Dāvīd, cum fūgit ā fīliō suō Absalom.
 
@@ -124,8 +135,7 @@ dentēs peccātōrum contrīvistī.
 
 et super populum tuum benedictiō tua.
 
-
-PSALMUS 4
+### PSALMUS 4
 
 1 Magistrō chorī. Fidibus. PSALMUS. Dāvīd.
 
@@ -165,8 +175,7 @@ quam cum multiplicantur frūmentum et vīnum eōrum.
 
 quoniam tū, Domine, singulāriter in spē cōnstituistī mē.
 
-
-PSALMUS 5
+### PSALMUS 5
 
 1 Magistrō chorī. Ad tībiās. PSALMUS. Dāvīd.
 
@@ -232,8 +241,7 @@ quī dīligunt nōmen tuum;
 
 quasi scūtō, bonā voluntāte corōnābis eum.
 
-
-PSALMUS 6
+### PSALMUS 6
 
 1 Magistrō chorī. Fidibus. Super octāvam. PSALMUS. Dāvīd.
 
@@ -279,8 +287,7 @@ Dominus ōrātiōnem meam suscēpit.
 
 convertantur et ērubēscant valdē vēlōciter.
 
-
-PSALMUS 7
+### PSALMUS 7
 
 1 Lāmentātiō Dāvīd, quam cantāvit Dominō propter Chus Beniaminitam.
 
@@ -360,8 +367,7 @@ et in verticem ipsīus inīquitās eius dēscendet.
 
 et psallam nōminī Dominī Altissimī.
 
-
-PSALMUS 8
+### PSALMUS 8
 
 1 Magistrō chorī. Ad modum canticī " **Torculāria**... ". PSALMUS. Dāvīd.
 
@@ -405,8 +411,7 @@ quaecumque perambulant sēmitās **maris**.
 
 quam admīrābile **est** **nōmen** tuum in **ūniversā** **terrā**!
 
-
-PSALMUS 9
+### PSALMUS 9
 
 1 Magistrō chorī. Ad modum canticī " Mut labben ". PSALMUS. Dāvīd.
 
@@ -494,8 +499,7 @@ iūdicentur gentēs in cōnspectū tuō.
 
 sciant gentēs quoniam hominēs sunt.
 
-
-PSALMUS 10 (Vg 9, 22-39)
+### PSALMUS 10 (Vg 9, 22-39)
 
 1 LAMED. Ut quid, Domine, stās ā **longē**,
 
@@ -581,8 +585,7 @@ cōnfirmābis cor eōrum, intendēs aurem tuam
 
 ut nōn appōnat **ultrā** **indūcere** timōrem homō dē **terrā**.
 
-
-PSALMUS 11 (10)
+### PSALMUS 11 (10)
 
 1 Magistrō chorī. Dāvīd.
 
@@ -620,8 +623,7 @@ et **spīritus** procellārum pars calicis eōrum.
 
 rēctī vidēbunt vultum eius.
 
-
-PSALMUS 12 (11)
+### PSALMUS 12 (11)
 
 1 Magistrō chorī. Super octāvam. PSALMUS. Dāvīd.
 
@@ -663,8 +665,7 @@ In circuitū impiī ambulant,
 
 cum exaltantur sordēs inter fīliōs hominum.
 
-
-PSALMUS 13 (12)
+### PSALMUS 13 (12)
 
 1 Magistrō chorī. PSALMUS. Dāvīd.
 
@@ -692,8 +693,7 @@ Exsultābit cor meum in salūtārī tuō;
 
 cantābō Dominō, quī **bona** tribuit mihi.
 
-
-PSALMUS 14 (13)
+### PSALMUS 14 (13)
 
 1 Magistrō chorī. Dāvīd.
 
@@ -731,8 +731,7 @@ Cum converterit Dominus captīvitātem **plēbis** suae,
 
 exsultābit Iācōb, et laetābitur Isrāēl.
 
-
-PSALMUS 15 (14)
+### PSALMUS 15 (14)
 
 1 PSALMUS. Dāvīd.
 
@@ -762,8 +761,7 @@ et **mūnera** super innocentem nōn accēpit.
 
 Quī facit haec, nōn movēbitur in aeternum.
 
-
-PSALMUS 16 (15)
+### PSALMUS 16 (15)
 
 1 Miktam. Dāvīd.
 
@@ -813,8 +811,7 @@ plēnitūdinem laetitiae cum vultū tuō,
 
 dēlectātiōnēs in **dexterā** **tuā** usque in fīnem.
 
-
-PSALMUS 17 (16)
+### PSALMUS 17 (16)
 
 1 Precātiō. Dāvīd.
 
@@ -886,8 +883,7 @@ saturentur fīliī et dīmittant reliquiās parvulīs **suīs**.
 
 satiābor, cum ēvigilāverō, cōnspectū tuō.
 
-
-PSALMUS 18 (17)
+### PSALMUS 18 (17)
 
 1 Magistrō chorī. Dāvīd, servī Dominī,
 
@@ -1129,8 +1125,7 @@ et faciēns misericordiam chrīstō suō
 
 Dāvīd et sēminī eius usque in saeculum.
 
-
-PSALMUS 19 (18)
+### PSALMUS 19 (18)
 
 1 Magistrō chorī. PSALMUS. Dāvīd.
 
@@ -1198,8 +1193,7 @@ et meditātiō **cordis** meī in cōnspectū tuō.
 
 Domine, adiūtor meus et **redēmptor** meus.
 
-
-PSALMUS 20 (19)
+### PSALMUS 20 (19)
 
 1 Magistrō chorī. PSALMUS. Dāvīd.
 
@@ -1243,8 +1237,7 @@ nōs autem surrēximus et ērēctī sumus.
 
 et exaudī nōs in **diē**, **quā** **invocāverimus** tē.
 
-
-PSALMUS 21 (20)
+### PSALMUS 21 (20)
 
 1 Magistrō chorī. PSALMUS. Dāvīd.
 
@@ -1302,8 +1295,7 @@ cōgitāvērunt **cōnsilia**: nihil potuērunt.
 
 cantābimus et psallēmus virtūtēs tuās.
 
-
-PSALMUS 22 (21)
+### PSALMUS 22 (21)
 
 1 Magistrō chorī. Ad modum canticī " **Cerva** dīlūculō ". PSALMUS. Dāvīd.
 
@@ -1451,8 +1443,7 @@ Nārrābitur dē Dominō generātiōnī ventūrae;
 
 **populō**, quī nāscētur: “ Haec fēcit Dominus! ”.
 
-
-PSALMUS 23 (22)
+### PSALMUS 23 (22)
 
 1 PSALMUS. Dāvīd.
 
@@ -1490,8 +1481,7 @@ et inhabitābō in domō Dominī
 
 in longitūdinem diērum.
 
-
-PSALMUS 24 (23)
+### PSALMUS 24 (23)
 
 1 Dāvīd. PSALMUS.
 
@@ -1543,8 +1533,7 @@ et introībit rēx glōriae.
 
 Dominus virtūtum ipse **est** rēx glōriae.
 
-
-PSALMUS 25 (24)
+### PSALMUS 25 (24)
 
 1 Dāvīd.
 
@@ -1638,8 +1627,7 @@ quia sustinuī tē.
 
 ex omnibus trībulātiōnibus **suīs**.
 
-
-PSALMUS 26 (25)
+### PSALMUS 26 (25)
 
 1 Dāvīd.
 
@@ -1691,8 +1679,7 @@ redime mē et miserēre meī.
 
 in ecclēsiīs **benedīcam** Dominō.
 
-
-PSALMUS 27 (26)
+### PSALMUS 27 (26)
 
 1 Dāvīd.
 
@@ -1776,8 +1763,7 @@ et quī violentiam spīrant.
 
 et cōnfortētur cor tuum, et sustinē Dominum.
 
-
-PSALMUS 28 (27)
+### PSALMUS 28 (27)
 
 1 Dāvīd.
 
@@ -1835,8 +1821,7 @@ et refugium salvātiōnum chrīstī **suī** **est**.
 
 et pāsce eōs et extolle illōs usque in aeternum.
 
-
-PSALMUS 29 (28)
+### PSALMUS 29 (28)
 
 1 PSALMUS. Dāvīd.
 
@@ -1886,8 +1871,7 @@ et sedēbit Dominus rēx in aeternum.
 
 Dominus benedīcet **populō** suō in pāce.
 
-
-PSALMUS 30 (29)
+### PSALMUS 30 (29)
 
 1 PSALMUS. Canticum fēstī Dēdicātiōnis Templī. Dāvīd.
 
@@ -1949,8 +1933,7 @@ cōnscidistī saccum meum et accīnxistī mē **laetitiā**,
 
 Domine Deus meus, in aeternum cōnfitēbor tibi.
 
-
-PSALMUS 31 (30)
+### PSALMUS 31 (30)
 
 1 Magistrō chorī. PSALMUS. Dāvīd.
 
@@ -2084,8 +2067,7 @@ et retribuit abundanter facientibus superbiam.
 
 omnēs, quī **spērātīs** in Dominō.
 
-
-PSALMUS 32 (31)
+### PSALMUS 32 (31)
 
 1 Dāvīd. Maskil.
 
@@ -2143,8 +2125,7 @@ spērantem autem in Dominō **misericordia** circumdabit.
 
 et glōriāminī, omnēs rēctī **corde**.
 
-
-PSALMUS 33 (32)
+### PSALMUS 33 (32)
 
 1 **Exsultāte**, iūstī, in Dominō;
 
@@ -2234,8 +2215,7 @@ et in nōmine sānctō eius spērāvimus.
 
 quemadmodum spērāvimus in tē.
 
-
-PSALMUS 34 (33)
+### PSALMUS 34 (33)
 
 1 Dāvīd, quandō sē mente aliēnātum simulāvit
 
@@ -2329,8 +2309,7 @@ et, quī ōdērunt iūstum, pūnientur.
 
 et nōn pūnientur omnēs, quī spērant in eō.
 
-
-PSALMUS 35 (34)
+### PSALMUS 35 (34)
 
 1 Dāvīd.
 
@@ -2470,8 +2449,7 @@ quī vult pācem servī **suī** ”.
 
 **tōtā** **diē** laudem tuam.
 
-
-PSALMUS 36 (35)
+### PSALMUS 36 (35)
 
 1 Magistrō chorī. Dāvīd, servī Dominī.
 
@@ -2527,8 +2505,7 @@ et **manus** peccātōris nōn moveat mē.
 
 expulsī sunt nec potuērunt stāre.
 
-
-PSALMUS 37 (36)
+### PSALMUS 37 (36)
 
 1 Dāvīd.
 
@@ -2710,8 +2687,7 @@ et ēruet eōs ā peccātōribus et salvābit eōs,
 
 quia spērāvērunt in eō.
 
-
-PSALMUS 38 (37)
+### PSALMUS 38 (37)
 
 1 PSALMUS. Dāvīd. Ad commemorandum.
 
@@ -2809,8 +2785,7 @@ Deus meus, nē **discesserīs** ā mē.
 
 Domine, salūs **mea**.
 
-
-PSALMUS 39 (38)
+### PSALMUS 39 (38)
 
 1 Magistrō chorī, Idithun. PSALMUS. Dāvīd.
 
@@ -2832,7 +2807,7 @@ et in meditātiōne **meā** exārsit **ignis**.
 
 5 **Locūtus** sum in **linguā** **meā**:
 
-“ **Notum** fac mihi, Domine, fīnem meum;
+�� **Notum** fac mihi, Domine, fīnem meum;
 
 et numerum diērum meōrum **quis** **est**,
 
@@ -2886,8 +2861,7 @@ peregrīnus sīcut omnēs patrēs meī.
 
 priusquam abeam et nōn sim amplius.
 
-
-PSALMUS 40 (39)
+### PSALMUS 40 (39)
 
 1 Magistrō chorī. Dāvīd. PSALMUS.
 
@@ -2995,8 +2969,7 @@ Adiūtor meus et līberātor meus tū **es**;
 
 Deus meus, nē **tardāverīs**.
 
-
-PSALMUS 41 (40)
+### PSALMUS 41 (40)
 
 1 Magistrō chorī. PSALMUS. Dāvīd.
 
@@ -3056,18 +3029,13 @@ et statuistī mē in cōnspectū tuō in aeternum.
 
 ā saeculō et usque in saeculum. Fīat, fīat.
 
- 
+## LIBER II (Psalmī 42-72)
 
-
-**LIBER** IĪ (Psalmī 42-72) 
-
-
-42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 
+42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59
 
 60 61 62 63 64 65 66 67 68 69 70 71 72
 
-
-PSALMUS 42 (41)
+### PSALMUS 42 (41)
 
 1 Magistrō chorī. Maskil. Fīliōrum **Corē**.
 
@@ -3133,8 +3101,7 @@ Spērā in Deō, quoniam adhūc cōnfitēbor illī,
 
 salūtāre **vultūs** meī et Deus meus.
 
-
-PSALMUS 43 (42)
+### PSALMUS 43 (42)
 
 1 Iūdicā mē, Deus, et discerne causam meam dē gente nōn **sānctā**;
 
@@ -3164,8 +3131,7 @@ Spērā in Deō, quoniam adhūc cōnfitēbor illī,
 
 salūtāre **vultūs** meī et Deus meus.
 
-
-PSALMUS 44 (43)
+### PSALMUS 44 (43)
 
 1 Magistrō chorī. Fīliōrum **Corē**. Maskil.
 
@@ -3281,8 +3247,7 @@ Exsurge, Domine, adiuvā nōs
 
 et redime nōs propter misericordiam tuam.
 
-
-PSALMUS 45 (44)
+### PSALMUS 45 (44)
 
 1 Magistrō chorī. Secundum " Līlia... ". Fīliōrum **Corē**.
 
@@ -3368,8 +3333,7 @@ proptereā **populī** cōnfitēbuntur tibi in aeternum
 
 et in saeculum saeculī.
 
-
-PSALMUS 46 (45)
+### PSALMUS 46 (45)
 
 1 Magistrō chorī. Fīliōrum **Corē**. Secundum " Virginēs... ". Canticum.
 
@@ -3417,8 +3381,7 @@ exaltābor in gentibus et exaltābor in **terrā**.
 
 refugium nōbīs Deus Iācōb.
 
-
-PSALMUS 47 (46)
+### PSALMUS 47 (46)
 
 1 Magistrō chorī. Fīliōrum **Corē**. PSALMUS.
 
@@ -3462,8 +3425,7 @@ quoniam Deī sunt **scūta** terrae:
 
 vehementer ēlevātus **est**.
 
-
-PSALMUS 48 (47)
+### PSALMUS 48 (47)
 
 1 Canticum. PSALMUS. Fīliōrum **Corē**.
 
@@ -3537,8 +3499,7 @@ in aeternum et in saeculum saeculī;
 
 ipse dūcet nōs in saecula.
 
-
-PSALMUS 49 (48)
+### PSALMUS 49 (48)
 
 1 Magistrō chorī. Fīliōrum **Corē**. PSALMUS.
 
@@ -3634,8 +3595,7 @@ quī in aeternum nōn vidēbunt lūmen.
 
 et **similis** **factus** **est** illīs.
 
-
-PSALMUS 50 (49)
+### PSALMUS 50 (49)
 
 1 PSALMUS. Asaph.
 
@@ -3737,8 +3697,7 @@ nē quandō rapiam, et nōn sit quī ēripiat.
 
 et, quī immaculātus **est** in **viā**, ostendam illī salūtāre Deī ”.
 
-
-PSALMUS 51 (50)
+### PSALMUS 51 (50)
 
 1 Magistrō chorī. PSALMUS. Dāvīd,
 
@@ -3824,8 +3783,7 @@ ut aedificentur mūrī Ierusālem.
 
 tunc impōnent super altāre tuum vitulōs.
 
-
-PSALMUS 52 (51)
+### PSALMUS 52 (51)
 
 1 Magistrō chorī. Maskil. Dāvīd,
 
@@ -3877,8 +3835,7 @@ et exspectābō **nōmen** tuum,
 
 quoniam bonum **est**, in cōnspectū sānctōrum tuōrum.
 
-
-PSALMUS 53 (52)
+### PSALMUS 53 (52)
 
 1 Magistrō chorī. Secundum " Mahalat ". Maskil. Dāvīd.
 
@@ -3914,8 +3871,7 @@ Cum converterit Deus captīvitātem **plēbis** suae,
 
 exsultābit Iācōb, et laetābitur Isrāēl.
 
-
-PSALMUS 54 (53)
+### PSALMUS 54 (53)
 
 1 Magistrō chorī. Fidibus. Maskil. Dāvīd,
 
@@ -3951,8 +3907,7 @@ cōnfitēbor nōminī tuō, Domine, quoniam bonum **est**;
 
 et super inimīcōs meōs dēspexit oculus meus.
 
-
-PSALMUS 55 (54)
+### PSALMUS 55 (54)
 
 1 Magistrō chorī. Fidibus. Maskil. Dāvīd.
 
@@ -4066,8 +4021,7 @@ nōn dabit in aeternum flūctuātiōnem iūstō.
 
 ego autem spērābō in tē, Domine.
 
-
-PSALMUS 56 (55)
+### PSALMUS 56 (55)
 
 1 Magistrō chorī. Secundum " Ionat ēlem rehoqim ".
 
@@ -4135,8 +4089,7 @@ et **pedēs** meōs dē lāpsū,
 
 ut ambulem **cōram** Deō in lūmine vīventium.
 
-
-PSALMUS 57 (56)
+### PSALMUS 57 (56)
 
 1 Magistrō chorī. Secundum " Nē **dēstrūxerīs** ". Dāvīd.
 
@@ -4204,8 +4157,7 @@ et usque ad nūbēs **vēritās** **tua**.
 
 super omnem terram **glōria** **tua**.
 
-
-PSALMUS 58 (57)
+### PSALMUS 58 (57)
 
 1 Magistrō chorī. Secundum " Nē **dēstrūxerīs** ".
 
@@ -4253,8 +4205,7 @@ sīcut vīventēs, sīcut ārdor īrae absorbet eōs.
 
 utique **est** Deus iūdicāns eōs in **terrā** ”.
 
-
-PSALMUS 59 (58)
+### PSALMUS 59 (58)
 
 1 Magistrō chorī. Secundum " Nē **dēstrūxerīs** ".
 
@@ -4344,8 +4295,7 @@ quia, Deus, praesidium meum **es**:
 
 Deus meus **misericordia** **mea**.
 
-
-PSALMUS 60 (59)
+### PSALMUS 60 (59)
 
 1 Magistrō chorī. Secundum " Līlium praeceptī ".
 
@@ -4409,8 +4359,7 @@ Dā nōbīs auxilium dē trībulātiōne, quia **vāna** salūs hominis.
 
 et ipse conculcābit trībulantēs nōs.
 
-
-PSALMUS 61 (60)
+### PSALMUS 61 (60)
 
 1 Magistrō chorī. Fidibus. Dāvīd.
 
@@ -4448,8 +4397,7 @@ annōs eius usque in diem generātiōnis et generātiōnis.
 
 ut reddam **vōta** **mea** dē **diē** in diem.
 
-
-PSALMUS 62 (61)
+### PSALMUS 62 (61)
 
 1 Magistrō chorī. Secundum Iduthun. PSALMUS. Dāvīd.
 
@@ -4509,8 +4457,7 @@ quia potestās Deō **est**,
 
 quia tū reddēs ūnīcuique iuxtā **opera** **sua**.
 
-
-PSALMUS 63 (62)
+### PSALMUS 63 (62)
 
 1 PSALMUS. Dāvīd, cum in dēsertō Iūdae commorārētur.
 
@@ -4564,8 +4511,7 @@ glōriābuntur omnēs, quī iūrant in eō,
 
 quia obstrūctum **est** **os** loquentium **inīqua**.
 
-
-PSALMUS 64 (63)
+### PSALMUS 64 (63)
 
 1 Magistrō chorī. PSALMUS. Dāvīd.
 
@@ -4613,8 +4559,7 @@ et **facta** eius intellegent.
 
 et glōriābuntur omnēs rēctī **corde**.
 
-
-PSALMUS 65 (64)
+### PSALMUS 65 (64)
 
 1 Magistrō chorī. PSALMUS. Dāvīd. Canticum.
 
@@ -4684,8 +4629,7 @@ et **vallēs** abundābunt frūmentō;
 
 clāmābunt, etenim hymnum **dīcent**.
 
-
-PSALMUS 66 (65)
+### PSALMUS 66 (65)
 
 1 Magistrō chorī. Canticum. PSALMUS.
 
@@ -4773,8 +4717,7 @@ attendit vōcī dēprecātiōnis meae.
 
 et misericordiam suam ā mē.
 
-
-PSALMUS 67 (66)
+### PSALMUS 67 (66)
 
 1 Magistrō chorī. Fidibus. PSALMUS. Canticum.
 
@@ -4808,8 +4751,7 @@ benedīcat nōs Deus, Deus noster,
 
 et metuant eum omnēs fīnēs terrae.
 
-
-PSALMUS 68 (67)
+### PSALMUS 68 (67)
 
 1 Magistrō chorī. Dāvīd. PSALMUS. Canticum.
 
@@ -4979,8 +4921,7 @@ Deus Isrāēl ipse tribuet virtūtem et fortitūdinem plēbī suae.
 
 Benedictus Deus!
 
-
-PSALMUS 69 (68)
+### PSALMUS 69 (68)
 
 1 Magistrō chorī. Secundum " Līlia... ". Dāvīd.
 
@@ -5150,8 +5091,7 @@ et inhabitābunt ibi et possidēbunt eam.
 
 et, quī dīligunt **nōmen** eius, habitābunt in **eā**.
 
-
-PSALMUS 70 (69)
+### PSALMUS 70 (69)
 
 1 Magistrō chorī. Dāvīd. Ad commemorandum.
 
@@ -5185,8 +5125,7 @@ Adiūtor meus et līberātor meus **es** tū;
 
 Domine, nē **moreris**.
 
-
-PSALMUS 71 (70)
+### PSALMUS 71 (70)
 
 1 In tē, Domine, spērāvī,
 
@@ -5276,7 +5215,7 @@ dōnec annūntiem brāchium tuum
 
 generātiōnī omnī, quae **ventūra** **est**.
 
-**Potentia** **tua** 
+**Potentia** **tua**
 
 19 et **iūstitiā** **tuā**, Deus,
 
@@ -5306,8 +5245,7 @@ et **anima** **mea**, quam redēmistī;
 
 cum cōnfūsī et reveritī fuerint, quī quaerunt **mala** mihi.
 
-
-PSALMUS 72 (71)
+### PSALMUS 72 (71)
 
 1 Salomōnis.
 
@@ -5399,17 +5337,11 @@ quī facit mīrābilia **sōlus**.
 
 et replēbitur maiestāte eius **omnis** **terra**. Fīat, fīat.
 
-
- 
-
-
-**LIBER** IĪĪ (Psalmī 73-89) 
-
+## LIBER III (Psalmī 73-89)
 
 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89
 
-
-PSALMUS 73 (72)
+### PSALMUS 73 (72)
 
 1 PSALMUS. Asaph.
 
@@ -5529,8 +5461,7 @@ ut annūntiem omnēs operātiōnēs tuās
 
 in portīs fīliae **Sīōn**.
 
-
-PSALMUS 74 (73)
+### PSALMUS 74 (73)
 
 1 Maskil. Asaph.
 
@@ -5636,8 +5567,7 @@ quae ab īnsipiente fīunt **tōtā** **diē**.
 
 **tumultus** adversāriōrum tuōrum ascendit semper.
 
-
-PSALMUS 75 (74)
+### PSALMUS 75 (74)
 
 1 Magistrō chorī. Secundum " Nē **dēstrūxerīs** ".
 
@@ -5691,8 +5621,7 @@ cantābō Deō Iācōb.
 
 et exaltābuntur cornua iūstī.
 
-
-PSALMUS 76 (75)
+### PSALMUS 76 (75)
 
 1 Magistrō chorī. Fidibus. PSALMUS. Asaph. Canticum.
 
@@ -5744,8 +5673,7 @@ omnēs in circuitū eius afferant **mūnera** Terribilī,
 
 terribilī apud **rēgēs** terrae.
 
-
-PSALMUS 77 (76)
+### PSALMUS 77 (76)
 
 1 Magistrō chorī. Secundum Idithun. Asaph. PSALMUS.
 
@@ -5837,8 +5765,7 @@ et vestīgia **tua** nōn cognōscuntur.
 
 in manū Moȳsī et Aarōn.
 
-
-PSALMUS 78 (77)
+### PSALMUS 78 (77)
 
 1 Maskil. Asaph.
 
@@ -6168,8 +6095,7 @@ et Isrāēl hērēditātem suam.
 
 et in **prūdentiā** manuum suārum dēdūxit eōs.
 
-
-PSALMUS 79 (78)
+### PSALMUS 79 (78)
 
 1 PSALMUS. Asaph.
 
@@ -6237,8 +6163,7 @@ cōnfitēbimur tibi in saeculum;
 
 in generātiōnem et generātiōnem annūntiābimus laudem tuam.
 
-
-PSALMUS 80 (79)
+### PSALMUS 80 (79)
 
 1 Magistrō chorī. Secundum " Līlium praeceptī ".
 
@@ -6324,8 +6249,7 @@ et **nōmen** tuum invocābimus.
 
 et illūstrā faciem tuam, et salvī erimus.
 
-
-PSALMUS 81 (80)
+### PSALMUS 81 (80)
 
 1 Magistrō chorī. Secundum " **Torculāria**... ". Asaph.
 
@@ -6399,8 +6323,7 @@ et **esset** sors eōrum in saecula;
 
 et dē **petrā** melle saturārem eōs ”.
 
-
-PSALMUS 82 (81)
+### PSALMUS 82 (81)
 
 1 PSALMUS. Asaph.
 
@@ -6436,8 +6359,7 @@ et sīcut ūnus dē prīncipibus cadētis.
 
 quoniam tū hērēditābis in omnibus gentibus.
 
-
-PSALMUS 83 (82)
+### PSALMUS 83 (82)
 
 1 Canticum. PSALMUS. Asaph.
 
@@ -6513,8 +6435,7 @@ et cōnfundantur et pereant;
 
 tū **sōlus** Altissimus super omnem terram.
 
-
-PSALMUS 84 (83)
+### PSALMUS 84 (83)
 
 1 Magistrō chorī. Secundum " **Torculāria** ".
 
@@ -6574,8 +6495,7 @@ quī ambulant in **innocentiā**.
 
 13 Domine virtūtum, beātus homō, quī spērat in tē.
 
-
-PSALMUS 85 (84)
+### PSALMUS 85 (84)
 
 1 Magistrō chorī. Fīliōrum **Corē**. PSALMUS.
 
@@ -6633,8 +6553,7 @@ et **terrā** **nostrā** dabit frūctum suum.
 
 et pōnet in **viā** **gressūs** suōs.
 
-
-PSALMUS 86 (85)
+### PSALMUS 86 (85)
 
 1 Precātiō. Dāvīd.
 
@@ -6716,8 +6635,7 @@ ut videant, quī ōdērunt mē, et cōnfundantur,
 
 quoniam tū, Domine, adiūvistī mē et cōnsōlātus **es** mē.
 
-
-PSALMUS 87 (86)
+### PSALMUS 87 (86)
 
 1 Fīliōrum **Corē**. PSALMUS. Canticum.
 
@@ -6747,8 +6665,7 @@ et ipse firmāvit eam Altissimus ”.
 
 “ Omnēs fontēs meī in tē ”.
 
-
-PSALMUS 88 (87)
+### PSALMUS 88 (87)
 
 1 Canticum. PSALMUS. Fīliōrum **Corē**. Magistrō chorī.
 
@@ -6834,8 +6751,7 @@ circumdedērunt mē simul.
 
 et **nōtī** meī sunt tenebrae.
 
-
-PSALMUS 89 (88)
+### PSALMUS 89 (88)
 
 1 Maskil. Ethan Ezrahitae.
 
@@ -7041,19 +6957,11 @@ quō exprobrāvērunt vestīgia chrīstī tuī.
 
 53 Benedictus Dominus in aeternum. Fīat, fīat.
 
- 
-
-
-**LIBER** IV (Psalmī 90-106) 
-
+## LIBER IV (Psalmī 90-106)
 
 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106
 
-
- 
-
-
-PSALMUS 90 (89)
+### PSALMUS 90 (89)
 
 1 Precātiō. Moysīs **virī** Deī.
 
@@ -7131,8 +7039,7 @@ et **opera** manuum nostrārum cōnfirmā super nōs
 
 et opus manuum nostrārum cōnfirmā.
 
-
-PSALMUS 91 (90)
+### PSALMUS 91 (90)
 
 1 Quī habitat in prōtēctiōne Altissimī,
 
@@ -7204,8 +7111,7 @@ cum ipsō sum in trībulātiōne;
 
 et ostendam illī salūtāre meum.
 
-
-PSALMUS 92 (91)
+### PSALMUS 92 (91)
 
 1 PSALMUS. Canticum. Prō **diē** Sabbatī.
 
@@ -7271,8 +7177,7 @@ in ātriīs Deī nostrī flōrēbunt.
 
 refugium meum, et nōn **est** inīquitās in eō.
 
-
-PSALMUS 93 (92)
+### PSALMUS 93 (92)
 
 1 Dominus rēgnāvit! **Decōrem** **indūtus** **est**;
 
@@ -7302,8 +7207,7 @@ domum tuam decet sānctitūdō Domine,
 
 in longitūdinem diērum.
 
-
-PSALMUS 94 (93)
+### PSALMUS 94 (93)
 
 1 Deus ultiōnum, Domine,
 
@@ -7397,8 +7301,7 @@ et in **malitiā** eōrum disperdet eōs,
 
 24 disperdet illōs Dominus Deus noster.
 
-
-PSALMUS 95 (94)
+### PSALMUS 95 (94)
 
 1 Venīte, exsultēmus Dominō;
 
@@ -7448,8 +7351,7 @@ ideō iūrāvī in **īrā** **meā**:
 
 Nōn introībunt in requiem meam ”.
 
-
-PSALMUS 96 (95)
+### PSALMUS 96 (95)
 
 1 **Cantātē** Dominō canticum novum,
 
@@ -7509,8 +7411,7 @@ Iūdicābit orbem terrae in **iūstitiā**
 
 et **populōs** in vēritāte **suā**.
 
-
-PSALMUS 97 (96)
+### PSALMUS 97 (96)
 
 1 Dominus rēgnāvit! Exsultet **terra**,
 
@@ -7566,8 +7467,7 @@ et rēctīs **corde** **laetitia**.
 
 et cōnfitēminī memoriae sānctitātis eius.
 
-
-PSALMUS 98 (97)
+### PSALMUS 98 (97)
 
 1 PSALMUS.
 
@@ -7617,8 +7517,7 @@ Iūdicābit orbem terrārum in **iūstitiā**
 
 et **populōs** in aequitāte.
 
-
-PSALMUS 99 (98)
+### PSALMUS 99 (98)
 
 1 Dominus rēgnāvit! Commoveantur **populī**
 
@@ -7668,8 +7567,7 @@ et **adōrāte** ad montem sānctum eius,
 
 quoniam sānctus Dominus Deus noster.
 
-
-PSALMUS 100 (99)
+### PSALMUS 100 (99)
 
 1 PSALMUS. Ad grātiārum āctiōnem.
 
@@ -7697,8 +7595,7 @@ in aeternum **misericordiā** eius,
 
 et usque in generātiōnem et generātiōnem **vēritās** eius.
 
-
-PSALMUS 101 (100)
+### PSALMUS 101 (100)
 
 1 Dāvīd. PSALMUS.
 
@@ -7744,8 +7641,7 @@ quī loquitur **inīqua**, nōn stābit in cōnspectū oculōrum meōrum.
 
 ut disperdam dē cīvitāte Dominī omnēs operantēs inīquitātem.
 
-
-PSALMUS 102 (101)
+### PSALMUS 102 (101)
 
 1 Precēs afflīctī, quī dēfessus
 
@@ -7869,8 +7765,7 @@ et sīcut opertōrium mūtābis eōs, et mūtābuntur.
 
 et sēmen eōrum in cōnspectū tuō firmābitur ”.
 
-
-PSALMUS 103 (102)
+### PSALMUS 103 (102)
 
 1 Dāvīd.
 
@@ -7966,8 +7861,7 @@ in omnī locō dominātiōnis eius.
 
 Benedic, **animā** **meā**, Dominō.
 
-
-PSALMUS 104 (103)
+### PSALMUS 104 (103)
 
 1 Benedic, **anima** **mea**, Dominō.
 
@@ -8125,8 +8019,7 @@ et inīquī, **ita** ut nōn sint.
 
 Benedic, **animā** **meā**, Dominō.
 
-
-PSALMUS 105 (104)
+### PSALMUS 105 (104)
 
 1 ALLĒLŪIA.
 
@@ -8312,8 +8205,7 @@ et **lēgēs** eius servent.
 
 ALLĒLŪIA.
 
-
-PSALMUS 106 (105)
+### PSALMUS 106 (105)
 
 1 ALLĒLŪIA.
 
@@ -8529,23 +8421,15 @@ et glōriēmur in laude **tuā**.
 
 Et **dīcet** **omnis** **populus**: “ Fīat, fīat ”.
 
+## LIBER V (Psalmī 107-150)
 
- 
+107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122
 
-**LIBER** V (Psalmī 107-150) 
-
-
-107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122 
-
-123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139 
+123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139
 
 140 141 142 143 144 145 146 147 148 149 150
 
-
- 
-
-
-PSALMUS 107 (106)
+### PSALMUS 107 (106)
 
 1 ALLĒLŪIA.
 
@@ -8725,8 +8609,7 @@ et **omnis** inīquitās oppīlābit **os** suum.
 
 et intelleget misericordiās Dominī?.
 
-
-PSALMUS 108 (107)
+### PSALMUS 108 (107)
 
 1 Canticum. PSALMUS. Dāvīd.
 
@@ -8790,8 +8673,7 @@ quia **vāna** salūs hominis.
 
 et ipse conculcābit inimīcōs nostrōs.
 
-
-PSALMUS 109 (108)
+### PSALMUS 109 (108)
 
 1 Magistrō chorī. Dāvīd. PSALMUS.
 
@@ -8881,7 +8763,7 @@ et quī loquuntur **mala** adversus animam meam.
 
 quia **suāvis** **est** **misericordia** **tua**;
 
-**līberā** mē, 
+**līberā** mē,
 
 22 quia egēnus et pauper ego sum,
 
@@ -8925,8 +8807,7 @@ et in **mediō** multōrum laudābō eum,
 
 ut salvam faceret ā iūdicantibus animam eius.
 
-
-PSALMUS 110 (109)
+### PSALMUS 110 (109)
 
 1 Dāvīd. PSALMUS.
 
@@ -8960,8 +8841,7 @@ conquassābit **capita** in **terrā** **spatiōsā**.
 
 proptereā exaltābit caput.
 
-
-PSALMUS 111 (110)
+### PSALMUS 111 (110)
 
 1 ALLĒLŪIA.
 
@@ -9009,8 +8889,7 @@ SĪN. **intellēctus** bonus omnibus facientibus **ea**;
 
 TAU. laudātiō eius **manet** in saeculum saeculī.
 
-
-PSALMUS 112 (111)
+### PSALMUS 112 (111)
 
 1 ALLĒLŪIA.
 
@@ -9058,8 +8937,7 @@ SĪN. dentibus **suīs** fremet et tābēscet.
 
 TAU. Dēsīderium peccātōrum perībit.
 
-
-PSALMUS 113 (112)
+### PSALMUS 113 (112)
 
 1 ALLĒLŪIA.
 
@@ -9099,8 +8977,7 @@ cum prīncipibus **populī** **suī**.
 
 mātrem fīliōrum laetantem.
 
-
-PSALMUS 114 (113 Ā)
+### PSALMUS 114 (113 Ā)
 
 1 ALLĒLŪIA.
 
@@ -9136,8 +9013,7 @@ et collēs, sīcut agnī ovium?
 
 et silicem in fontēs aquārum.
 
-
-PSALMUS 115 (113 B)
+### PSALMUS 115 (113 B)
 
 1 Nōn nōbīs, Domine, nōn nōbīs,
 
@@ -9219,8 +9095,7 @@ neque omnēs, quī dēscendunt in silentium,
 
 ex **hōc** nunc et usque in saeculum.
 
-
-PSALMUS 116 (114, 1-9; 115)
+### PSALMUS 116 (114, 1-9; 115)
 
 1 ALLĒLŪIA.
 
@@ -9300,8 +9175,7 @@ et **nōmen** Dominī invocābō.
 
 in **mediō** tuī, Ierusālem.
 
-
-PSALMUS 117 (116)
+### PSALMUS 117 (116)
 
 1 ALLĒLŪIA.
 
@@ -9313,8 +9187,7 @@ PSALMUS 117 (116)
 
 et **vēritās** Dominī **manet** in aeternum.
 
-
-PSALMUS 118 (117)
+### PSALMUS 118 (117)
 
 1 ALLĒLŪIA.
 
@@ -9440,8 +9313,7 @@ Deus meus, et exaltābō tē.
 
 quoniam in saeculum **misericordiā** eius.
 
-
-PSALMUS 119 (118)
+### PSALMUS 119 (118)
 
 1 ALLĒLŪIA.
 
@@ -10147,8 +10019,7 @@ et iūdicia **tua** adiuvābunt mē.
 
 quaere servum tuum, quia **praecepta** **tua** nōn sum **oblītus**.
 
-
-PSALMUS 120 (119)
+### PSALMUS 120 (119)
 
 1 Canticum ascēnsiōnum.
 
@@ -10180,8 +10051,7 @@ cum hīs, quī ōdērunt pācem.
 
 cum loquēbar, illī impugnābant mē.
 
-
-PSALMUS 121 (120)
+### PSALMUS 121 (120)
 
 1 Canticum ascēnsiōnum.
 
@@ -10219,8 +10089,7 @@ cūstōdiet animam tuam Dominus.
 
 ex **hōc** nunc et usque in saeculum.
 
-
-PSALMUS 122 (121)
+### PSALMUS 122 (121)
 
 1 Canticum ascēnsiōnum. Dāvīd.
 
@@ -10260,8 +10129,7 @@ loquar: “ Pāx in tē! ”.
 
 exquīram **bona** tibi.
 
-
-PSALMUS 123 (122)
+### PSALMUS 123 (122)
 
 1 Canticum ascēnsiōnum.
 
@@ -10285,8 +10153,7 @@ quia multum replētī sumus dēspectiōne;
 
 dērīsiōne abundantium et dēspectiōne superbōrum.
 
-
-PSALMUS 124 (123)
+### PSALMUS 124 (123)
 
 1 Canticum ascēnsiōnum. Dāvīd.
 
@@ -10326,8 +10193,7 @@ et nōs ēreptī sumus.
 
 quī fēcit caelum et terram.
 
-
-PSALMUS 125 (124)
+### PSALMUS 125 (124)
 
 1 Canticum ascēnsiōnum.
 
@@ -10355,8 +10221,7 @@ addūcet Dominus cum operantibus inīquitātem.
 
 Pāx super Isrāēl!
 
-
-PSALMUS 126 (125)
+### PSALMUS 126 (125)
 
 1 Canticum ascēnsiōnum.
 
@@ -10392,8 +10257,7 @@ venientēs autem venient in exsultātiōne
 
 portantēs manipulōs suōs.
 
-
-PSALMUS 127 (126)
+### PSALMUS 127 (126)
 
 1 Canticum ascēnsiōnum. Salomōnis.
 
@@ -10423,8 +10287,7 @@ mercēs **frūctūs** ventris.
 
 nōn cōnfundētur, cum loquētur inimīcīs **suīs** in **portā**.
 
-
-PSALMUS 128 (127)
+### PSALMUS 128 (127)
 
 1 Canticum ascēnsiōnum.
 
@@ -10458,8 +10321,7 @@ omnibus diēbus vītae tuae;
 
 Pāx super Isrāēl!
 
-
-PSALMUS 129 (128)
+### PSALMUS 129 (128)
 
 1 Canticum ascēnsiōnum.
 
@@ -10497,8 +10359,7 @@ et **sinum** suum, quī manipulōs colligit.
 
 benedīcimus vōbīs in nōmine Dominī ”.
 
-
-PSALMUS 130 (129)
+### PSALMUS 130 (129)
 
 1 Canticum ascēnsiōnum.
 
@@ -10538,8 +10399,7 @@ et **cōpiōsa** apud eum redēmptiō.
 
 ex omnibus inīquitātibus eius.
 
-
-PSALMUS 131 (130)
+### PSALMUS 131 (130)
 
 1 Canticum ascēnsiōnum. Dāvīd.
 
@@ -10563,8 +10423,7 @@ sīcut ablactātus, **ita** in mē **est** **anima** **mea**.
 
 ex **hōc** nunc et usque in saeculum.
 
-
-PSALMUS 132 (131)
+### PSALMUS 132 (131)
 
 1 Canticum ascēnsiōnum.
 
@@ -10648,8 +10507,7 @@ parābō lucernam chrīstō meō.
 
 super ipsum autem efflōrēbit **diadēma** eius ”.
 
-
-PSALMUS 133 (132)
+### PSALMUS 133 (132)
 
 1 Canticum ascēnsiōnum. Dāvīd.
 
@@ -10669,8 +10527,7 @@ quoniam **illīc** mandāvit Dominus benedictiōnem,
 
 vītam usque in saeculum.
 
-
-PSALMUS 134 (133)
+### PSALMUS 134 (133)
 
 1 Canticum ascēnsiōnum.
 
@@ -10688,8 +10545,7 @@ et benedīcite Dominum.
 
 quī fēcit caelum et terram.
 
-
-PSALMUS 135 (134)
+### PSALMUS 135 (134)
 
 1 ALLĒLŪIA.
 
@@ -10783,8 +10639,7 @@ quī timētis Dominum, benedīcite Dominō.
 
 quī habitat in Ierusālem. ALLĒLŪIA.
 
-
-PSALMUS 136 (135)
+### PSALMUS 136 (135)
 
 1 ALLĒLŪIA.
 
@@ -10890,8 +10745,7 @@ quoniam ìn aeternum **misericordiā** eius.
 
 quoniam in aeternum **misericordiā** eius.
 
-
-PSALMUS 137 (136)
+### PSALMUS 137 (136)
 
 1 Super flūmina Babylōnis,
 
@@ -10947,8 +10801,7 @@ quam retribuistī nōbīs;
 
 et allīdet parvulōs tuōs ad petram.
 
-
-PSALMUS 138 (137)
+### PSALMUS 138 (137)
 
 1 Dāvīd.
 
@@ -10994,8 +10847,7 @@ Domine, **misericordia** **tua** in saeculum:
 
 **opera** manuum tuārum nē dēspiciās.
 
-
-PSALMUS 139 (138)
+### PSALMUS 139 (138)
 
 1 Magistrō chorī. Dāvīd. PSALMUS.
 
@@ -11101,8 +10953,7 @@ et inimīcī factī sunt mihi.
 
 et dēdūc mē in **viā** **aeternā**.
 
-
-PSALMUS 140 (139)
+### PSALMUS 140 (139)
 
 1 Magistrō chorī. PSALMUS. Dāvīd.
 
@@ -11158,7 +11009,7 @@ et vindictam pauperum.
 
 et habitābunt rēctī in cōnspectū tuō.
 
-PSALMUS 141 (140)
+### PSALMUS 141 (140)
 
 1 PSALMUS. Dāvīd.
 
@@ -11208,7 +11059,7 @@ et ā scandalīs operantium inīquitātem.
 
 ego autem **ultrā** pertranseam.
 
-PSALMUS 142 (141)
+### PSALMUS 142 (141)
 
 1 Maskil. Dāvīd, cum **esset** in **cavernā**. Precātiō.
 
@@ -11258,8 +11109,7 @@ mē circumdabunt iūstī,
 
 cum **retribuerīs** mihi ”.
 
-
-PSALMUS 143 (142)
+### PSALMUS 143 (142)
 
 1 PSALMUS. Dāvīd.
 
@@ -11327,8 +11177,7 @@ et perdēs omnēs, quī trībulant animam meam,
 
 quoniam ego servus tuus sum.
 
-
-PSALMUS 144 (143)
+### PSALMUS 144 (143)
 
 1 Dāvīd.
 
@@ -11414,8 +11263,7 @@ neque clāmor in **platēīs** nostrīs.
 
 beātus **populus**, cui Dominus **est** Deus.
 
-
-PSALMUS 145 (144)
+### PSALMUS 145 (144)
 
 1 Laudēs. Dāvīd.
 
@@ -11513,8 +11361,7 @@ et benedīcat **omnis** **cārō** nōminī sānctō eius
 
 in saeculum et in saeculum saeculī.
 
-
-PSALMUS 146 (145)
+### PSALMUS 146 (145)
 
 1 ALLĒLŪIA.
 
@@ -11566,8 +11413,7 @@ Deus tuus, **Sīōn**,
 
 in generātiōnem et generātiōnem.
 
-
-PSALMUS 147 (146, 1-11; 147)
+### PSALMUS 147 (146, 1-11; 147)
 
 1 ALLĒLŪIA.
 
@@ -11655,8 +11501,7 @@ iūstitiās et iūdicia **sua** Isrāēl.
 
 et iūdicia **sua** nōn manifestāvit eīs. ALLĒLŪIA.
 
-
-PSALMUS 148
+### PSALMUS 148
 
 1 ALLĒLŪIA.
 
@@ -11720,8 +11565,7 @@ Hymnus omnibus sānctīs eius,
 
 fīliīs Isrāēl, **populō**, quī propinquus **est** **eī**. ALLĒLŪIA.
 
-
-PSALMUS 149
+### PSALMUS 149
 
 1 ALLĒLŪIA.
 
@@ -11761,8 +11605,7 @@ et nōbilēs eōrum in manicīs ferreīs,
 
 **Glōria** haec **est** omnibus sānctīs eius. ALLĒLŪIA.
 
-
-PSALMUS 150
+### PSALMUS 150
 
 1 ALLĒLŪIA.
 
@@ -11789,4 +11632,3 @@ PSALMUS 150
 omne quod spīrat, laudet Dominum. ALLĒLŪIA
 
 [^1]: Sīōn / Siōn
-
