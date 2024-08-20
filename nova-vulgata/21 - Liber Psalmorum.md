@@ -18,7 +18,7 @@
 
 ### PSALMUS 1
 
-1 Beātus vir, quī nōn abiit in cōnsiliō impiōruma
+1 Beātus vir, quī nōn abiit in cōnsiliō impiōrum
 
 et in viā peccātōrum nōn stetit
 
