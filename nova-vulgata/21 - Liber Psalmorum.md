@@ -1,14 +1,15 @@
 # LIBER PSALMŌRUM
 
-[LIBER I (Psalmī 1-41)](#liber-i-(psalmī-1-41))
-LIBER II (Psalmī 42-72)
-LIBER III (Psalmī 73-89)
-LIBER IV (Psalmī 90-106)
-LIBER V (Psalmī 107-150)
+[LIBER I (Psalmī 1-41)](#liber-i)
+[LIBER II (Psalmī 42-72)](#liber-ii)
+[LIBER III (Psalmī 73-89)](#liber-iii)
+[LIBER IV (Psalmī 90-106)](#liber-iv)
+[LIBER V (Psalmī 107-150)](#liber-v)
 
-## LIBER I (Psalmī 1-41)
+## LIBER I
 
 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+
 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41
 
 ### PSALMUS 1
@@ -3029,7 +3030,7 @@ et statuistī mē in cōnspectū tuō in aeternum.
 
 ā saeculō et usque in saeculum. Fīat, fīat.
 
-## LIBER II (Psalmī 42-72)
+## LIBER II
 
 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59
 
@@ -5337,7 +5338,7 @@ quī facit mīrābilia **sōlus**.
 
 et replēbitur maiestāte eius **omnis** **terra**. Fīat, fīat.
 
-## LIBER III (Psalmī 73-89)
+## LIBER III
 
 73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89
 
@@ -6957,7 +6958,7 @@ quō exprobrāvērunt vestīgia chrīstī tuī.
 
 53 Benedictus Dominus in aeternum. Fīat, fīat.
 
-## LIBER IV (Psalmī 90-106)
+## LIBER IV
 
 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106
 
@@ -8421,7 +8422,7 @@ et glōriēmur in laude **tuā**.
 
 Et **dīcet** **omnis** **populus**: “ Fīat, fīat ”.
 
-## LIBER V (Psalmī 107-150)
+## LIBER V
 
 107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122
 
@@ -8499,7 +8500,7 @@ et mīrābilia eius in fīliōs hominum,
 
 et vectēs ferreōs cōnfrēgit.
 
-17 Stultī factī sunt in **viā** inīquitātis suae
+17 Stultī fact�� sunt in **viā** inīquit��tis suae
 
 et propter iniūstitiās suās afflīctī sunt;
 
