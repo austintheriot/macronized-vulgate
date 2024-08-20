@@ -2922,7 +2922,7 @@ et lēx **tua** in praecordiīs meīs ”.
 
 ecce **labia** **mea** nōn prohibēbō, Domine, tū scīstī.
 
-11 I��stitiam tuam nōn abscondī in **corde** meō,
+11 I������stitiam tuam nōn abscondī in **corde** meō,
 
 vēritātem tuam et salūtāre tuum dīxī.
 
@@ -3036,9 +3036,9 @@ et statuistī mē in cōnspectū tuō in aeternum.
 
 ## LIBER II
 
-42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59
+[42](#psalmus-42) [43](#psalmus-43) [44](#psalmus-44) [45](#psalmus-45) [46](#psalmus-46) [47](#psalmus-47) [48](#psalmus-48) [49](#psalmus-49) [50](#psalmus-50) [51](#psalmus-51) [52](#psalmus-52) [53](#psalmus-53) [54](#psalmus-54) [55](#psalmus-55) [56](#psalmus-56) [57](#psalmus-57) [58](#psalmus-58) [59](#psalmus-59)
 
-60 61 62 63 64 65 66 67 68 69 70 71 72
+[60](#psalmus-60) [61](#psalmus-61) [62](#psalmus-62) [63](#psalmus-63) [64](#psalmus-64) [65](#psalmus-65) [66](#psalmus-66) [67](#psalmus-67) [68](#psalmus-68) [69](#psalmus-69) [70](#psalmus-70) [71](#psalmus-71) [72](#psalmus-72)
 
 ### PSALMUS 42
 
@@ -5344,7 +5344,7 @@ et replēbitur maiestāte eius **omnis** **terra**. Fīat, fīat.
 
 ## LIBER III
 
-73 74 75 76 77 78 79 80 81 82 83 84 85 86 87 88 89
+[73](#psalmus-73) [74](#psalmus-74) [75](#psalmus-75) [76](#psalmus-76) [77](#psalmus-77) [78](#psalmus-78) [79](#psalmus-79) [80](#psalmus-80) [81](#psalmus-81) [82](#psalmus-82) [83](#psalmus-83) [84](#psalmus-84) [85](#psalmus-85) [86](#psalmus-86) [87](#psalmus-87) [88](#psalmus-88) [89](#psalmus-89)
 
 ### PSALMUS 73
 
@@ -5856,7 +5856,7 @@ et dēdūxit tamquam flūmina aquās.
 
 17 Et apposuērunt adhūc peccāre **eī**,
 
-in īram excitāvērunt Excelsum in inaquōsō.
+in īram excitāv��runt Excelsum in inaquōsō.
 
 18 Et tentāvērunt Deum in cordibus **suīs**,
 
@@ -6964,7 +6964,7 @@ quō exprobrāvērunt vestīgia chrīstī tuī.
 
 ## LIBER IV
 
-90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106
+[90](#psalmus-90) [91](#psalmus-91) [92](#psalmus-92) [93](#psalmus-93) [94](#psalmus-94) [95](#psalmus-95) [96](#psalmus-96) [97](#psalmus-97) [98](#psalmus-98) [99](#psalmus-99) [100](#psalmus-100) [101](#psalmus-101) [102](#psalmus-102) [103](#psalmus-103) [104](#psalmus-104) [105](#psalmus-105) [106](#psalmus-106)
 
 ### PSALMUS 90
 
@@ -8428,11 +8428,11 @@ Et **dīcet** **omnis** **populus**: “ Fīat, fīat ”.
 
 ## LIBER V
 
-107 108 109 110 111 112 113 114 115 116 117 118 119 120 121 122
+[107](#psalmus-107) [108](#psalmus-108) [109](#psalmus-109) [110](#psalmus-110) [111](#psalmus-111) [112](#psalmus-112) [113](#psalmus-113) [114](#psalmus-114) [115](#psalmus-115) [116](#psalmus-116) [117](#psalmus-117) [118](#psalmus-118) [119](#psalmus-119) [120](#psalmus-120) [121](#psalmus-121) [122](#psalmus-122)
 
-123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138 139
+[123](#psalmus-123) [124](#psalmus-124) [125](#psalmus-125) [126](#psalmus-126) [127](#psalmus-127) [128](#psalmus-128) [129](#psalmus-129) [130](#psalmus-130) [131](#psalmus-131) [132](#psalmus-132) [133](#psalmus-133) [134](#psalmus-134) [135](#psalmus-135) [136](#psalmus-136) [137](#psalmus-137) [138](#psalmus-138) [139](#psalmus-139)
 
-140 141 142 143 144 145 146 147 148 149 150
+[140](#psalmus-140) [141](#psalmus-141) [142](#psalmus-142) [143](#psalmus-143) [144](#psalmus-144) [145](#psalmus-145) [146](#psalmus-146) [147](#psalmus-147) [148](#psalmus-148) [149](#psalmus-149) [150](#psalmus-150)
 
 ### PSALMUS 107
 
@@ -8822,7 +8822,7 @@ dōnec pōnam inimīcōs tuōs scabellum pedum tuōrum ”.
 
 2 Virgam potentiae tuae ēmittet Dominus ex **Sīōn**:
 
-domināre in **mediō** inimīcōrum tuōrum.
+domināre in **medi��** inimīcōrum tuōrum.
 
 3 Tēcum **prīncipātus** in **diē** **virtūtis** tuae,
 
