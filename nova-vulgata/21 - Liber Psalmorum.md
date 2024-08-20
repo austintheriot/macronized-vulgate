@@ -1,9 +1,13 @@
 # LIBER PSALMŌRUM
 
 [LIBER I (Psalmī 1-41)](#liber-i)
+
 [LIBER II (Psalmī 42-72)](#liber-ii)
+
 [LIBER III (Psalmī 73-89)](#liber-iii)
+
 [LIBER IV (Psalmī 90-106)](#liber-iv)
+
 [LIBER V (Psalmī 107-150)](#liber-v)
 
 ## LIBER I
