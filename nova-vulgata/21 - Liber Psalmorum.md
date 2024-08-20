@@ -12,9 +12,9 @@
 
 ## LIBER I
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+[1](#psalmus-1) [2](#psalmus-2) [3](#psalmus-3) [4](#psalmus-4) [5](#psalmus-5) [6](#psalmus-6) [7](#psalmus-7) [8](#psalmus-8) [9](#psalmus-9) [10](#psalmus-10) [11](#psalmus-11) [12](#psalmus-12) [13](#psalmus-13) [14](#psalmus-14) [15](#psalmus-15) [16](#psalmus-16) [17](#psalmus-17) [18](#psalmus-18) [19](#psalmus-19) [20](#psalmus-20) [21](#psalmus-21)
 
-22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41
+[22](#psalmus-22) [23](#psalmus-23) [24](#psalmus-24) [25](#psalmus-25) [26](#psalmus-26) [27](#psalmus-27) [28](#psalmus-28) [29](#psalmus-29) [30](#psalmus-30) [31](#psalmus-31) [32](#psalmus-32) [33](#psalmus-33) [34](#psalmus-34) [35](#psalmus-35) [36](#psalmus-36) [37](#psalmus-37) [38](#psalmus-38) [39](#psalmus-39) [40](#psalmus-40) [41](#psalmus-41)
 
 ### PSALMUS 1
 
@@ -5592,7 +5592,7 @@ ego iūstitiās iūdicābō.
 
 ego cōnfirmāvī columnās eius.
 
-5 Dīxī glōriantibus: “ Nōlīte glōriārī! ”
+5 Dīxī glōriantibus: “ Nōlīte gl��riārī! ”
 
 et dēlinquentibus: “Nōlīte exaltāre **cornū**!
 
@@ -5872,7 +5872,7 @@ et torrentēs inundāvērunt.
 
 “ Numquid et pānem poterit dare
 
-aut parāre carnēs **populō** suō? ”.
+aut parāre carnēs **popul��** suō? ”.
 
 21 Ideō audīvit Dominus et exārsit,
 
