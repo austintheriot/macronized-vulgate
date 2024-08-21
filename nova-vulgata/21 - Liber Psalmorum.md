@@ -374,13 +374,13 @@ et psallam nōminī Dominī Altissimī.
 
 ### PSALMUS 8
 
-1 Magistrō chorī. Ad modum canticī " **Torculāria**... ". PSALMUS. Dāvīd.
+1 Magistrō chorī. Ad modum canticī " Torculāria... ". PSALMUS. Dāvīd.
 
 2 Domine, Dominus noster,
 
-quam admīrābile **est** **nōmen** tuum in **ūniversā** **terrā**,
+quam admīrābile est nōmen tuum in ūniversā terrā,
 
-quoniam **ēlevāta** **est** **magnificentia** **tua** super caelōs.
+quoniam ēlevāta est magnificentia tua super caelōs.
 
 3 Ex ōre īnfantium et lactantium perfēcistī laudem
 
@@ -388,19 +388,19 @@ propter inimīcōs tuōs,
 
 ut dēstruās inimīcum et ultōrem.
 
-4 Quandō videō caelōs tuōs, **opera** digitōrum tuōrum,
+4 Quandō videō caelōs tuōs, opera digitōrum tuōrum,
 
 lūnam et stēllās, quae tū fundāstī,
 
-5 quid **est** homō, quod memor **es** eius,
+5 quid est homō, quod memor es eius,
 
 aut fīlius hominis, quoniam vīsitās eum?
 
 6 Minuistī eum paulō minus ab angelīs,
 
-**glōriā** et **honōre** corōnāstī eum
+glōriā et honōre corōnāstī eum
 
-7 et cōnstituistī eum super **opera** manuum tuārum.
+7 et cōnstituistī eum super opera manuum tuārum.
 
 Omnia subiēcistī sub pedibus eius:
 
@@ -408,13 +408,13 @@ Omnia subiēcistī sub pedibus eius:
 
 īnsuper et pecora campī,
 
-9 volucrēs caelī et piscēs **maris**,
+9 volucrēs caelī et piscēs maris,
 
-quaecumque perambulant sēmitās **maris**.
+quaecumque perambulant sēmitās maris.
 
 10 Domine, Dominus noster,
 
-quam admīrābile **est** **nōmen** tuum in **ūniversā** **terrā**!
+quam admīrābile est nōmen tuum in ūniversā terrā!
 
 ### PSALMUS 9
 
@@ -2786,7 +2786,7 @@ prō eō quod sequēbar bonit��tem.
 
 Deus meus, nē **discesserīs** �� mē.
 
-23 **Festīna** in adiūtōrium meum,
+23 **Festīna** in adiūt��rium meum,
 
 Domine, salūs **mea**.
 
