@@ -252,37 +252,37 @@ quasi scūtō, bonā voluntāte corōnābis eum.
 
 2 Domine, nē in furōre tuō arguās mē
 
-neque in **īrā** **tuā** corripiās mē.
+neque in īrā tuā corripiās mē.
 
 3 Miserēre meī, Domine, quoniam īnfirmus sum;
 
-**sānā** mē, Domine, quoniam **conturbāta** sunt ossa **mea**.
+sānā mē, Domine, quoniam conturbāta sunt ossa mea.
 
-4 Et **anima** **mea** **turbāta** **est** valdē,
+4 Et anima mea turbāta est valdē,
 
 sed tū, Domine, usquequō?
 
-5 **Convertēre**, Domine, ēripe animam meam;
+5 Convertere, Domine, ēripe animam meam;
 
 salvum mē fac propter misericordiam tuam.
 
-6 Quoniam nōn **est** in morte, quī memor sit tuī;
+6 Quoniam nōn est in morte, quī memor sit tuī;
 
-in īnfernō autem **quis** cōnfitēbitur tibi?
+in īnfernō autem quis cōnfitēbitur tibi?
 
 7 Labōrāvī in gemitū meō,
 
-lavābam per singulās noctēs **lectum** meum;
+lavābam per singulās noctēs lectum meum;
 
 lacrimīs meīs strātum meum rigābam.
 
-8 Turbātus **est** ā maerōre oculus meus,
+8 Turbātus est ā maerōre oculus meus,
 
 inveterāvī inter omnēs inimīcōs meōs.
 
 9 Discēdite ā mē, omnēs, quī operāminī inīquitātem,
 
-quoniam exaudīvit Dominus **vōcem** **flētūs** meī.
+quoniam exaudīvit Dominus vōcem flētūs meī.
 
 10 Exaudīvit Dominus dēprecātiōnem meam,
 
@@ -294,65 +294,65 @@ convertantur et ērubēscant valdē vēlōciter.
 
 ### PSALMUS 7
 
-1 Lāmentātiō Dāvīd, quam cantāvit Dominō propter Chus Beniaminitam.
+1 Lāmentātiō Dāvīd, quam cantāvit Dominō propter Chūs Beniamīnitam.
 
 2 Domine Deus meus, in tē spērāvī;
 
-salvum mē fac ex omnibus persequentibus mē et **līberā** mē,
+salvum mē fac ex omnibus persequentibus mē et līberā mē,
 
-3 nē quandō rapiat ut **leō** animam meam
+3 nē quandō rapiat ut leō animam meam
 
-discerpēns, dum nōn **est** quī salvum faciat.
+discerpēns, dum nōn est quī salvum faciat.
 
 4 Domine Deus meus, sī fēcī istud,
 
-sī **est** inīquitās in manibus meīs,
+sī est inīquitās in manibus meīs,
 
-5 sī reddidī retribuentī mihi **mala**
+5 sī reddidī retribuentī mihi mala
 
 et exspoliāvī inimīcum meum dīmittēns inānem,
 
 6 persequātur inimīcus animam meam et comprehendat
 
-et conculcet in **terrā** vītam meam
+et conculcet in terrā vītam meam
 
 et glōriam meam in pulverem dēdūcat.
 
-7 Exsurge, Domine, in **īrā** **tuā**
+7 Exsurge, Domine, in īrā tuā
 
 et exaltāre contrā indignātiōnem inimīcōrum meōrum
 
 et exsurge, Deus meus, in iūdiciō, quod mandāstī.
 
-8 Et **synagōga** **populōrum** circumdabit tē,
+8 Et synagōga populōrum circumdabit tē,
 
 et super hanc in altum regredere:
 
-9 Dominus iūdicat **populōs**.
+9 Dominus iūdicat populōs.
 
 Iūdicā mē, Domine, secundum iūstitiam meam
 
-et secundum innocentiam meam, quae **est** in mē.
+et secundum innocentiam meam, quae est in mē.
 
-10 Cōnsūmātur **nēquitia** peccātōrum;
+10 Cōnsūmātur nēquitia peccātōrum;
 
 et iūstum cōnfirmā:
 
-scrūtāns **corda** et **rēnēs** Deus iūstus.
+scrūtāns corda et rēnēs Deus iūstus.
 
 11 Adiūtōrium meum apud Deum,
 
-quī salvōs facit rēctōs **corde**.
+quī salvōs facit rēctōs corde.
 
 12 Deus iūdex iūstus,
 
-**fortis**, īrāscēns per singulōs diēs.
+fortis, īrāscēns per singulōs diēs.
 
-13 **Nōnne** iterum gladium suum exacuit,
+13 Nōnne iterum gladium suum exacuit,
 
 arcum suum tetendit et parāvit illum?
 
-14 Et parāvit sibi vāsa **mortis**,
+14 Et parāvit sibi vāsa mortis,
 
 sagittās suās ārdentēs effēcit.
 
@@ -360,9 +360,9 @@ sagittās suās ārdentēs effēcit.
 
 concēpit dolōrem et peperit inīquitātem;
 
-16 lacum aperuit et **effōdit** eum
+16 lacum aperuit et effōdit eum
 
-et **incīdit** in foveam, quam fēcit.
+et incidit in foveam, quam fēcit.
 
 17 Convertētur dolor eius in caput eius,
 
@@ -2780,11 +2780,11 @@ et multiplicātī sunt, quī ōdērunt mē **inīquē**.
 
 21 Retribuentēs **mala** prō bonīs dētrahēbant mihi,
 
-prō eō quod sequēbar bonitātem.
+prō eō quod sequēbar bonit��tem.
 
 22 Nē dērelinquās mē, Domine;
 
-Deus meus, nē **discesserīs** ā mē.
+Deus meus, nē **discesserīs** �� mē.
 
 23 **Festīna** in adiūtōrium meum,
 
@@ -2922,7 +2922,7 @@ et lēx **tua** in praecordiīs meīs ”.
 
 ecce **labia** **mea** nōn prohibēbō, Domine, tū scīstī.
 
-11 I������stitiam tuam nōn abscondī in **corde** meō,
+11 I��������stitiam tuam nōn abscond�� in **corde** meō,
 
 vēritātem tuam et salūtāre tuum dīxī.
 
@@ -8822,9 +8822,9 @@ dōnec pōnam inimīcōs tuōs scabellum pedum tuōrum ”.
 
 2 Virgam potentiae tuae ēmittet Dominus ex **Sīōn**:
 
-domināre in **medi��** inimīcōrum tuōrum.
+domināre in **medi��** inimīc��rum tuōrum.
 
-3 Tēcum **prīncipātus** in **diē** **virtūtis** tuae,
+3 T��cum **prīncipātus** in **diē** **virtūtis** tuae,
 
 in splendōribus sānctīs,
 
