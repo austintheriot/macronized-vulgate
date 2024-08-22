@@ -420,7 +420,7 @@ quam admīrābile est nōmen tuum in ūniversā terrā!
 
 1 Magistrō chorī. Ad modum canticī " Mut labben ". PSALMUS. Dāvīd.
 
-2 ALEPH. Cōnfitēbor tibi, Domine, in tōtō corde meō,
+2 ĀLEPH. Cōnfitēbor tibi, Domine, in tōtō corde meō,
 
 nārrābō omnia mīrābilia tua.
 
@@ -428,7 +428,7 @@ nārrābō omnia mīrābilia tua.
 
 psallam nōminī tuō, Altissime.
 
-4 BETH. Cum convertuntur inimīcī meī retrōrsum,
+4 BĒTH. Cum convertuntur inimīcī meī retrōrsum,
 
 īnfirmantur et pereunt ā faciē tuā.
 
@@ -436,13 +436,13 @@ psallam nōminī tuō, Altissime.
 
 sēdistī super thronum, quī iūdicās iūstitiam.
 
-6 GHIMEL. Increpāstī gentēs, perdidistī impium;
+6 GHĪMEL. Increpāstī gentēs, perdidistī impium;
 
-**nōmen** eōrum dēlēstī in aeternum et in saeculum saeculī.
+nōmen eōrum dēlēstī in aeternum et in saeculum saeculī.
 
 7 Inimīcī dēfēcērunt, sōlitūdinēs sempiternae factae sunt;
 
-et cīvitātēs dēstrūxistī: periit **memoriā** eōrum cum ipsīs.
+et cīvitātēs dēstrūxistī: periit memoria eōrum cum ipsīs.
 
 8 HĒ. Dominus autem in aeternum sedēbit,
 
@@ -452,7 +452,7 @@ parāvit in iūdicium thronum suum;
 
 iūdicābit **populōs** in aequitāte.
 
-10 VAŪ. Et erit Dominus refugium oppressō,
+10 VAU. Et erit Dominus refugium oppressō,
 
 refugium in opportūnitātibus, in trībulātiōne.
 
@@ -460,7 +460,7 @@ refugium in opportūnitātibus, in trībulātiōne.
 
 quoniam nōn dērelīquistī quaerentēs tē, Domine.
 
-12 ZAIN. Psallite Dominō, quī habitat in **Sīōn**;
+12 ZAĪN. Psallite Dominō, quī habitat in **Sīōn**;
 
 **annūntiāte** inter gentēs studia eius.
 
@@ -468,7 +468,7 @@ quoniam nōn dērelīquistī quaerentēs tē, Domine.
 
 nōn **est** **oblītus** clāmōrem pauperum.
 
-14 HETH. Miserēre meī, Domine;
+14 HĒTH. Miserēre meī, Domine;
 
 vidē afflīctiōnem meam dē inimīcīs meīs,
 
@@ -478,7 +478,7 @@ quī exaltās mē dē portīs **mortis**,
 
 exsultem in salūtārī tuō.
 
-16 TETH. Īnfīxae sunt gentēs in **foveā**, quam fēcērunt;
+16 TĒTH. Īnfīxae sunt gentēs in **foveā**, quam fēcērunt;
 
 in laqueō istō, quem abscondērunt,
 
@@ -492,7 +492,7 @@ in operibus manuum suārum comprehēnsus **est** peccātor.
 
 omnēs gentēs, quae oblīvīscuntur Deum.
 
-19 CAPH. Quoniam nōn in fīnem oblīviō erit **pauperis**;
+19 CĀPH. Quoniam nōn in fīnem oblīviō erit **pauperis**;
 
 exspectātiō pauperum nōn perībit in aeternum.
 
@@ -506,7 +506,7 @@ sciant gentēs quoniam hominēs sunt.
 
 ### PSALMUS 10
 
-1 LAMED. Ut quid, Domine, stās ā **longē**,
+1 LĀMED. Ut quid, Domine, stās ā **longē**,
 
 abscondis tē in opportūnitātibus, in trībulātiōne?
 
@@ -518,7 +518,7 @@ comprehendantur in cōnsiliīs, quae cōgitant.
 
 et avārus sibi benedīcit.
 
-4 NUN. Spernit Dominum peccātor in **arrogantiā** **suā**:
+4 NŪN. Spernit Dominum peccātor in **arrogantiā** **suā**:
 
 “ Nōn requīret; nōn **est** Deus ”.
 
@@ -542,7 +542,7 @@ sub **linguā** eius **labor** et **nēquitia**.
 
 in occultīs interficit innocentem.
 
-9 SĀDE. Oculī eius in pauperem respiciunt;
+9 SĀDĒ. Oculī eius in pauperem respiciunt;
 
 īnsidiātur in absconditō quasi **leō** in **spēluncā** **suā**.
 
@@ -558,7 +558,7 @@ in fortitūdine brāchiōrum eius.
 
 āvertit faciem suam, nōn vidēbit in fīnem ”. -
 
-12 COPH. Exsurge, Domine Deus, exaltā **manum** tuam,
+12 CŌPH. Exsurge, Domine Deus, exaltā **manum** tuam,
 
 nē oblīvīscāris pauperum.
 
@@ -582,7 +582,7 @@ quaerēs peccātum illīus et nōn inveniēs.
 
 periērunt gentēs dē **terrā** illīus.
 
-17 TAŪ. Dēsīderium pauperum exaudīstī, Domine;
+17 TAU. Dēsīderium pauperum exaudīstī, Domine;
 
 cōnfirmābis cor eōrum, intendēs aurem tuam
 
@@ -1542,17 +1542,17 @@ Dominus virtūtum ipse **est** rēx glōriae.
 
 1 Dāvīd.
 
-ALEPH. Ad tē, Domine, **levāvī** animam meam,
+ĀLEPH. Ad tē, Domine, **levāvī** animam meam,
 
-2 BETH. Deus meus, in tē cōnfīdō; nōn ērubēscam.
+2 BĒTH. Deus meus, in tē cōnfīdō; nōn ērubēscam.
 
 Neque exsultent super mē inimīcī meī,
 
-3 GHIMEL. etenim ūniversī, quī sustinent tē, nōn cōnfundentur.
+3 GHĪMEL. etenim ūniversī, quī sustinent tē, nōn cōnfundentur.
 
 Cōnfundantur īnfidēliter agentēs propter vānitātem.
 
-4 DALETH. Viās tuās, Domine, dēmōnstrā mihi
+4 DĀLETH. Viās tuās, Domine, dēmōnstrā mihi
 
 et sēmitās tuās ēdocē mē.
 
@@ -1560,19 +1560,19 @@ et sēmitās tuās ēdocē mē.
 
 quia tū **es** Deus **salūtis** meae,
 
-VAŪ. et tē sustinuī **tōtā** **diē**.
+VAU. et tē sustinuī **tōtā** **diē**.
 
-6 ZAIN. **Reminīscere** miserātiōnum tuārum, Domine,
+6 ZAĪN. **Reminīscere** miserātiōnum tuārum, Domine,
 
 et misericordiārum tuārum, quoniam ā saeculō sunt.
 
-7 HETH. **Peccāta** **iuventūtis** meae et **dēlicta** **mea** nē **meminerīs**;
+7 HĒTH. **Peccāta** **iuventūtis** meae et **dēlicta** **mea** nē **meminerīs**;
 
 secundum misericordiam tuam mementō meī tū,
 
 propter bonitātem tuam, Domine.
 
-8 TETH. **Dulcis** et rēctus Dominus,
+8 TĒTH. **Dulcis** et rēctus Dominus,
 
 propter **hōc** peccātōrēs viam docēbit;
 
@@ -1580,27 +1580,27 @@ propter **hōc** peccātōrēs viam docēbit;
 
 docēbit mītēs viās suās.
 
-10 CAPH. Ūniversae viae Dominī **misericordia** et **vēritās**
+10 CĀPH. Ūniversae viae Dominī **misericordia** et **vēritās**
 
 cūstōdientibus testāmentum eius et testimōnia eius.
 
-11 LAMED. Propter **nōmen** tuum, Domine,
+11 LĀMED. Propter **nōmen** tuum, Domine,
 
 propitiāberis peccātō meō: multum **est** enim.
 
-12 MEM. **Quis** **est** homō, quī timet Dominum?
+12 MĒM. **Quis** **est** homō, quī timet Dominum?
 
 Docēbit eum viam, quam ēligat.
 
-13 NUN. **Anima** eius in bonīs dēmorābitur,
+13 NŪN. **Anima** eius in bonīs dēmorābitur,
 
 et sēmen eius hērēditābit terram.
 
-14 SAMECH. Familiāriter aget Dominus cum timentibus eum,
+14 SĀMECH. Familiāriter aget Dominus cum timentibus eum,
 
 ut testāmentum suum manifestet illīs.
 
-15 **AIN**. Oculī meī semper ad Dominum,
+15 AIN. Oculī meī semper ad Dominum,
 
 quoniam ipse ēvellet dē laqueō **pedēs** meōs.
 
@@ -1608,7 +1608,7 @@ quoniam ipse ēvellet dē laqueō **pedēs** meōs.
 
 quia ūnicus et pauper sum ego.
 
-17 SĀDE. Dīlātā angustiās **cordis** meī
+17 SĀDĒ. Dīlātā angustiās **cordis** meī
 
 et dē necessitātibus meīs erue mē.
 
@@ -1624,7 +1624,7 @@ et **odiō** crūdēlī ōdērunt mē.
 
 nōn ērubēscam, quoniam spērāvī in tē.
 
-21 TAŪ. **Innocentia** et aequitās cūstōdiant mē,
+21 TAU. **Innocentia** et aequitās cūstōdiant mē,
 
 quia sustinuī tē.
 
@@ -2226,19 +2226,19 @@ quemadmodum spērāvimus in tē.
 
 **cōram** Abimelech et, ab illō dīmissus, abiit.
 
-2 ALEPH. **Benedīcam** Dominum in omnī tempore,
+2 ĀLEPH. **Benedīcam** Dominum in omnī tempore,
 
 semper laus eius in ōre meō.
 
-3 BETH. In Dominō glōriābitur **anima** **mea**,
+3 BĒTH. In Dominō glōriābitur **anima** **mea**,
 
 audiant mānsuētī et laetentur.
 
-4 GHIMEL. **Magnificāte** Dominum mēcum,
+4 GHĪMEL. **Magnificāte** Dominum mēcum,
 
 et exaltēmus **nōmen** eius in idipsum.
 
-5 DALETH. Exquīsīvī Dominum, et exaudīvit mē
+5 DĀLETH. Exquīsīvī Dominum, et exaudīvit mē
 
 et ex omnibus terrōribus meīs ēripuit mē.
 
@@ -2246,15 +2246,15 @@ et ex omnibus terrōribus meīs ēripuit mē.
 
 et faciēs vestrae nōn cōnfundentur.
 
-7 ZAIN. Iste pauper clāmāvit, et Dominus exaudīvit eum
+7 ZAĪN. Iste pauper clāmāvit, et Dominus exaudīvit eum
 
 et dē omnibus trībulātiōnibus eius salvāvit eum.
 
-8 HETH. Vāllābit angelus Dominī in circuitū timentēs eum
+8 HĒTH. Vāllābit angelus Dominī in circuitū timentēs eum
 
 et ēripiet eōs.
 
-9 TETH. **Gustāte** et vidēte quoniam **suāvis** **est** Dominus;
+9 TĒTH. **Gustāte** et vidēte quoniam **suāvis** **est** Dominus;
 
 beātus vir, quī spērat in eō.
 
@@ -2262,27 +2262,27 @@ beātus vir, quī spērat in eō.
 
 quoniam nōn **est** **inopiā** timentibus eum.
 
-11 CAPH. Dīvitēs eguērunt et ēsuriērunt,
+11 CĀPH. Dīvitēs eguērunt et ēsuriērunt,
 
 inquīrentēs autem Dominum nōn dēficient omnī bonō.
 
-12 LAMED. Venīte, fīliī, **audīte** mē:
+12 LĀMED. Venīte, fīliī, **audīte** mē:
 
 timōrem Dominī docēbō vōs.
 
-13 MEM. **Quis** **est** homō, quī vult vītam,
+13 MĒM. **Quis** **est** homō, quī vult vītam,
 
 dīligit diēs, ut videat bonum? -
 
-14 NUN. Prohibē linguam tuam ā **mālō**,
+14 NŪN. Prohibē linguam tuam ā **mālō**,
 
 et **labia** **tua**, nē loquantur dolum.
 
-15 SAMECH. Dīverte ā **mālō** et fac bonum,
+15 SĀMECH. Dīverte ā **mālō** et fac bonum,
 
 inquīre pācem et **persequere** eam.
 
-16 **AIN**. Oculī Dominī super iūstōs,
+16 AIN. Oculī Dominī super iūstōs,
 
 et aurēs eius in clāmōrem eōrum.
 
@@ -2290,11 +2290,11 @@ et aurēs eius in clāmōrem eōrum.
 
 ut perdat dē **terrā** memoriam eōrum.
 
-18 SĀDE. Clāmāvērunt, et Dominus exaudīvit
+18 SĀDĒ. Clāmāvērunt, et Dominus exaudīvit
 
 et ex omnibus trībulātiōnibus eōrum līberāvit eōs.
 
-19 COPH. Iuxtā **est** Dominus iīs, quī contrītō sunt **corde**,
+19 CŌPH. Iuxtā **est** Dominus iīs, quī contrītō sunt **corde**,
 
 et **cōnfrāctōs** spīritū salvābit.
 
@@ -2306,7 +2306,7 @@ et dē omnibus hīs līberābit eōs Dominus.
 
 ūnum ex hīs nōn conterētur.
 
-22 TAŪ. Interficiet peccātōrem **malitiā**;
+22 TAU. Interficiet peccātōrem **malitiā**;
 
 et, quī ōdērunt iūstum, pūnientur.
 
@@ -2514,7 +2514,7 @@ expulsī sunt nec potuērunt stāre.
 
 1 Dāvīd.
 
-ALEPH. Nōlī aemulārī in malignantibus
+ĀLEPH. Nōlī aemulārī in malignantibus
 
 neque **zēlāverīs** facientēs inīquitātem,
 
@@ -2522,7 +2522,7 @@ neque **zēlāverīs** facientēs inīquitātem,
 
 et quemadmodum **herba** virēns **dēcident**.
 
-3 BETH. Spērā in Dominō et fac bonitātem,
+3 BĒTH. Spērā in Dominō et fac bonitātem,
 
 et inhabitābis terram et **pāsceris** in **fide**.
 
@@ -2530,7 +2530,7 @@ et inhabitābis terram et **pāsceris** in **fide**.
 
 et dabit tibi petītiōnēs **cordis** tuī.
 
-5 GHIMEL. Committe Dominō viam tuam et spērā in eō,
+5 GHĪMEL. Committe Dominō viam tuam et spērā in eō,
 
 et ipse faciet;
 
@@ -2538,7 +2538,7 @@ et ipse faciet;
 
 et iūdicium tuum tamquam merīdiem.
 
-7 DALETH. Quiēsce in Dominō et exspectā eum;
+7 DĀLETH. Quiēsce in Dominō et exspectā eum;
 
 nōlī aemulārī in eō, quī prōsperātur in **viā** **suā**,
 
@@ -2552,7 +2552,7 @@ nōlī aemulārī, quod vertit ad **malum**,
 
 sustinentēs autem Dominum ipsī hērēditābunt terram.
 
-10 VAŪ. Et adhūc pusillum et nōn erit peccātor,
+10 VAU. Et adhūc pusillum et nōn erit peccātor,
 
 et quaerēs locum eius et nōn inveniēs.
 
@@ -2560,7 +2560,7 @@ et quaerēs locum eius et nōn inveniēs.
 
 et dēlectābuntur in multitūdine **pācis**.
 
-12 ZAIN. Īnsidiābitur peccātor iūstō
+12 ZAĪN. Īnsidiābitur peccātor iūstō
 
 et strīdēbit super eum dentibus **suīs**.
 
@@ -2568,7 +2568,7 @@ et strīdēbit super eum dentibus **suīs**.
 
 quoniam prōspicit quod veniet diēs eius.
 
-14 HETH. Gladium ēvāgīnāvērunt peccātōrēs,
+14 HĒTH. Gladium ēvāgīnāvērunt peccātōrēs,
 
 intendērunt arcum suum,
 
@@ -2580,7 +2580,7 @@ ut trucīdent **rēctē** ambulantēs in **viā**.
 
 et **arcus** eōrum cōnfringētur.
 
-16 TETH. **Melius** **est** modicum iūstō
+16 TĒTH. **Melius** **est** modicum iūstō
 
 super dīvitiās peccātōrum multās,
 
@@ -2596,13 +2596,13 @@ et hērēditās eōrum in aeternum erit.
 
 et in diēbus **famis** saturābuntur.
 
-20 CAPH. Quia peccātōrēs perībunt,
+20 CĀPH. Quia peccātōrēs perībunt,
 
 inimīcī vērō Dominī ut decor campōrum dēficient,
 
 quemadmodum fūmus dēficient.
 
-21 LAMED. Mūtuātur peccātor et nōn solvet,
+21 LĀMED. Mūtuātur peccātor et nōn solvet,
 
 iūstus autem miserētur et tribuet.
 
@@ -2610,7 +2610,7 @@ iūstus autem miserētur et tribuet.
 
 maledictī autem eius exterminābuntur.
 
-23 MEM. Ā Dominō **gressūs** hominis cōnfirmantur,
+23 MĒM. Ā Dominō **gressūs** hominis cōnfirmantur,
 
 et viam eius volet.
 
@@ -2618,7 +2618,7 @@ et viam eius volet.
 
 quia Dominus sustentat **manum** eius.
 
-25 NUN. Iūnior fuī et senuī
+25 NŪN. Iūnior fuī et senuī
 
 et nōn vīdī iūstum dērelictum
 
@@ -2628,7 +2628,7 @@ nec sēmen eius quaerēns pānem.
 
 et sēmen illīus in benedictiōne erit.
 
-27 SAMECH. Dēclīnā ā **mālō** et fac bonum,
+27 SĀMECH. Dēclīnā ā **mālō** et fac bonum,
 
 et inhabitābis in saeculum saeculī,
 
@@ -2636,7 +2636,7 @@ et inhabitābis in saeculum saeculī,
 
 et nōn dērelinquet sānctōs suōs.
 
-**AIN**. Iniūstī in aeternum disperībunt,
+AIN. Iniūstī in aeternum disperībunt,
 
 et sēmen impiōrum exterminābitur.
 
@@ -2652,7 +2652,7 @@ et **linguā** eius loquētur iūdicium;
 
 et nōn vacillābunt **gressūs** eius.
 
-32 SĀDE. Cōnsīderat peccātor iūstum
+32 SĀDĒ. Cōnsīderat peccātor iūstum
 
 et quaerit mortificāre eum;
 
@@ -2660,7 +2660,7 @@ et quaerit mortificāre eum;
 
 nec damnābit eum, cum iūdicābitur illī.
 
-34 COPH. Exspectā Dominum et cūstōdī viam eius,
+34 CŌPH. Exspectā Dominum et cūstōdī viam eius,
 
 et exaltābit tē, ut **hērēditātē** capiās terram;
 
@@ -2682,7 +2682,7 @@ quoniam **est** posteritās hominī pācificō.
 
 posteritās impiōrum exterminābitur.
 
-39 TAŪ. **Salūs** autem iūstōrum ā Dominō,
+39 TAU. **Salūs** autem iūstōrum ā Dominō,
 
 et prōtēctor eōrum in tempore trībulātiōnis.
 
@@ -8850,43 +8850,43 @@ proptereā exaltābit caput.
 
 1 ALLĒLŪIA.
 
-ALEPH. Cōnfitēbor Dominō in **tōtō** **corde** meō,
+ĀLEPH. Cōnfitēbor Dominō in **tōtō** **corde** meō,
 
-BETH. in cōnsiliō iūstōrum et congregātiōne.
+BĒTH. in cōnsiliō iūstōrum et congregātiōne.
 
-2 GHIMEL. **Magna** **opera** Dominī,
+2 GHĪMEL. **Magna** **opera** Dominī,
 
-DALETH. **exquīrenda** omnibus, quī cupiunt **ea**.
+DĀLETH. **exquīrenda** omnibus, quī cupiunt **ea**.
 
 3 HĒ. Decor et **magnificentia** opus eius,
 
-VAŪ. et **iūstitia** eius **manet** in saeculum saeculī.
+VAU. et **iūstitia** eius **manet** in saeculum saeculī.
 
-4 ZAIN. Memoriam fēcit mīrābilium suōrum,
+4 ZAĪN. Memoriam fēcit mīrābilium suōrum,
 
-HETH. misericors et miserātor Dominus.
+HĒTH. misericors et miserātor Dominus.
 
-5 TETH. Ēscam **dedit** timentibus sē;
+5 TĒTH. Ēscam **dedit** timentibus sē;
 
 IOD. memor erit in saeculum testāmentī **suī**.
 
-6 CAPH. Virtūtem operum suōrum annūntiāvit **populō** suō,
+6 CĀPH. Virtūtem operum suōrum annūntiāvit **populō** suō,
 
-LAMED. ut det illīs hērēditātem gentium;
+LĀMED. ut det illīs hērēditātem gentium;
 
-7 MEM. **opera** manuum eius **vēritās** et iūdicium.
+7 MĒM. **opera** manuum eius **vēritās** et iūdicium.
 
-NUN. **Fidēlia** omnia **mandāta** eius,
+NŪN. **Fidēlia** omnia **mandāta** eius,
 
-8 SAMECH. **cōnfirmāta** in saeculum saeculī,
+8 SĀMECH. **cōnfirmāta** in saeculum saeculī,
 
-**AIN**. **facta** in vēritāte et aequitāte.
+AIN. **facta** in vēritāte et aequitāte.
 
 9 PHĒ. Redēmptiōnem mīsit **populō** suō,
 
-SĀDE. mandāvit in aeternum testāmentum suum.
+SĀDĒ. mandāvit in aeternum testāmentum suum.
 
-COPH. Sānctum et terribile **nōmen** eius.
+CŌPH. Sānctum et terribile **nōmen** eius.
 
 10 RĒS. Initium sapientiae timor Dominī,
 
@@ -8898,43 +8898,43 @@ TAU. laudātiō eius **manet** in saeculum saeculī.
 
 1 ALLĒLŪIA.
 
-ALEPH. Beātus vir, quī timet Dominum,
+ĀLEPH. Beātus vir, quī timet Dominum,
 
-BETH. in **mandātīs** eius cupit nimis.
+BĒTH. in **mandātīs** eius cupit nimis.
 
-2 GHIMEL. Potēns in **terrā** erit sēmen eius,
+2 GHĪMEL. Potēns in **terrā** erit sēmen eius,
 
-DALETH. generātiō rēctōrum benedīcētur.
+DĀLETH. generātiō rēctōrum benedīcētur.
 
 3 HĒ. **Glōria** et dīvitiae in domō eius,
 
-VAŪ. et **iūstitia** eius **manet** in saeculum saeculī.
+VAU. et **iūstitia** eius **manet** in saeculum saeculī.
 
-4 ZAIN. Exortum **est** in tenebrīs lūmen rēctīs,
+4 ZAĪN. Exortum **est** in tenebrīs lūmen rēctīs,
 
-HETH. misericors et miserātor et iūstus.
+HĒTH. misericors et miserātor et iūstus.
 
-5 TETH. Iūcundus homō, quī miserētur et commodat,
+5 TĒTH. Iūcundus homō, quī miserētur et commodat,
 
 IOD. dispōnet rēs suās in iūdiciō,
 
-6 CAPH. quia in aeternum nōn commovēbitur.
+6 CĀPH. quia in aeternum nōn commovēbitur.
 
-LAMED. In **memoriā** **aeternā** erit iūstus,
+LĀMED. In **memoriā** **aeternā** erit iūstus,
 
-7 MEM. ab audītiōne **malā** nōn timēbit.
+7 MĒM. ab audītiōne **malā** nōn timēbit.
 
-NUN. Parātum cor eius, spērāns in Dominō,
+NŪN. Parātum cor eius, spērāns in Dominō,
 
-8 SAMECH. cōnfirmātum **est** cor eius, nōn timēbit,
+8 SĀMECH. cōnfirmātum **est** cor eius, nōn timēbit,
 
-**AIN**. dōnec dēspiciat inimīcōs suōs.
+AIN. dōnec dēspiciat inimīcōs suōs.
 
 9 PHĒ. Distribuit, **dēdit** pauperibus;
 
-SĀDE. **iūstitia** eius **manet** in saeculum saeculī,
+SĀDĒ. **iūstitia** eius **manet** in saeculum saeculī,
 
-COPH. **cornū** eius exaltābitur in **glōriā**.
+CŌPH. **cornū** eius exaltābitur in **glōriā**.
 
 10 RĒS. Peccātor vidēbit et īrāscētur,
 
@@ -9322,7 +9322,7 @@ quoniam in saeculum **misericordiā** eius.
 
 1 ALLĒLŪIA.
 
-ALEPH. Beātī immaculātī in **viā**,
+ĀLEPH. Beātī immaculātī in **viā**,
 
 quī ambulant in **lēge** Dominī.
 
@@ -9354,7 +9354,7 @@ in eō quod didicī iūdicia iūstitiae tuae.
 
 nōn mē dērelinquās usquequaque.
 
-9 BETH. In quō mundābit adulescentior viam suam?
+9 BĒTH. In quō mundābit adulescentior viam suam?
 
 In cūstōdiendō sermōnēs tuōs.
 
@@ -9386,7 +9386,7 @@ et cōnsīderābō viās tuās.
 
 nōn oblīvīscar sermōnem tuum.
 
-17 GHIMEL. Benefāc servō tuō, et vīvam
+17 GHĪMEL. Benefāc servō tuō, et vīvam
 
 et cūstōdiam sermōnem tuum.
 
@@ -9418,7 +9418,7 @@ servus tamen tuus exercētur in iūstificātiōnibus tuīs.
 
 et cōnsilium meum iūstificātiōnēs tuae.
 
-25 DALETH. Adhaesit pulverī **anima** **mea**;
+25 DĀLETH. Adhaesit pulverī **anima** **mea**;
 
 **vīvificā** mē secundum verbum tuum.
 
@@ -9482,7 +9482,7 @@ quia iūdicia **tua** **iūcunda**.
 
 in **iūstitiā** **tuā** **vīvificā** mē.
 
-41 VAŪ. Et veniat super mē **misericordia** **tua**, Domine,
+41 VAU. Et veniat super mē **misericordia** **tua**, Domine,
 
 salūtāre tuum secundum ēloquium tuum.
 
@@ -9514,7 +9514,7 @@ quae dīlēxī.
 
 et exercēbor in iūstificātiōnibus tuīs. -
 
-49 ZAIN. Memor **estō** verbī tuī servō tuō,
+49 ZAĪN. Memor **estō** verbī tuī servō tuō,
 
 in quō mihi spem dedistī.
 
@@ -9546,7 +9546,7 @@ et cūstōdiam lēgem tuam.
 
 quia **mandāta** **tua** servāvī.
 
-57 HETH. Portiō **mea** Dominus:
+57 HĒTH. Portiō **mea** Dominus:
 
 dīxī cūstōdīre verba **tua**.
 
@@ -9578,7 +9578,7 @@ et cūstōdientium **mandāta** **tua**.
 
 iūstificātiōnēs tuās docē mē.
 
-65 TETH. Bonitātem fēcistī cum servō tuō, Domine,
+65 TĒTH. Bonitātem fēcistī cum servō tuō, Domine,
 
 secundum verbum tuum.
 
@@ -9642,7 +9642,7 @@ et quī nōvērunt testimōnia **tua**.
 
 ut nōn cōnfundar.
 
-81 CAPH. Dēfēcit in salūtāre tuum **anima** **mea**,
+81 CĀPH. Dēfēcit in salūtāre tuum **anima** **mea**,
 
 et in verbum tuum superspērāvī.
 
@@ -9674,7 +9674,7 @@ ego autem nōn dērelīquī **mandāta** **tua**.
 
 et cūstōdiam testimōnia **ōris** tuī. -
 
-89 LAMED. In aeternum, Domine,
+89 LĀMED. In aeternum, Domine,
 
 verbum tuum cōnstitūtum **est** in caelō.
 
@@ -9706,7 +9706,7 @@ testimōnia **tua** intellēxī.
 
 lātum praeceptum tuum nimis.
 
-97 MEM. Quōmodo dīlēxī lēgem tuam, Domine;
+97 MĒM. Quōmodo dīlēxī lēgem tuam, Domine;
 
 **tōtā** **diē** meditātiō **mea** **est**.
 
@@ -9738,7 +9738,7 @@ super mel **ōrī** meō.
 
 proptereā ōdīvī omnem viam mendāciī.
 
-105 NUN. **Lucerna** pedibus meīs verbum tuum
+105 NŪN. **Lucerna** pedibus meīs verbum tuum
 
 et lūmen sēmitīs meīs.
 
@@ -9770,7 +9770,7 @@ quia exsultātiō **cordis** meī sunt.
 
 in aeternum, in fīnem.
 
-113 SAMECH. Duplicēs **cordē** **odiō** habuī
+113 SĀMECH. Duplicēs **cordē** **odiō** habuī
 
 et lēgem tuam dīlēxī.
 
@@ -9802,7 +9802,7 @@ ideō dīlēxī testimōnia **tua**.
 
 ā iūdiciīs enim tuīs timuī.
 
-121 **AIN**. Fēcī iūdicium et iūstitiam;
+121 AIN. Fēcī iūdicium et iūstitiam;
 
 nōn trādās mē calumniantibus mē.
 
@@ -9834,7 +9834,7 @@ super aurum et obryzum.
 
 omnem viam mendāciī **odiō** habuī. -
 
-129 PHE. Mīrābilia testimōnia **tua**,
+129 PHĒ. Mīrābilia testimōnia **tua**,
 
 ideō servāvit **eā** **animā** **meā**.
 
@@ -9866,7 +9866,7 @@ et docē mē iūstificātiōnēs tuās.
 
 quia nōn cūstōdiērunt lēgem tuam.
 
-137 SĀDE. Iūstus **es**, Domine,
+137 SĀDĒ. Iūstus **es**, Domine,
 
 et rēctum iūdicium tuum.
 
@@ -9898,7 +9898,7 @@ et lēx **tua** **vēritās**.
 
 intellēctum dā mihi, et vīvam.
 
-145 COPH. Clāmāvī in **tōtō** **corde**, exaudī mē, Domine;
+145 CŌPH. Clāmāvī in **tōtō** **corde**, exaudī mē, Domine;
 
 iūstificātiōnēs tuās servābō.
 
@@ -9992,7 +9992,7 @@ et dīlēxī **ea** vehementer.
 
 quia omnēs viae meae in cōnspectū tuō.
 
-169 TAŪ. Appropinquet dēprecātiō **mea** in cōnspectū tuō, Domine;
+169 TAU. Appropinquet dēprecātiō **mea** in cōnspectū tuō, Domine;
 
 iuxtā verbum tuum dā mihi intellēctum.
 
@@ -11272,23 +11272,23 @@ beātus **populus**, cui Dominus **est** Deus.
 
 1 Laudēs. Dāvīd.
 
-ALEPH. Exaltābō tē, Deus meus, rēx,
+ĀLEPH. Exaltābō tē, Deus meus, rēx,
 
 et **benedicam** nōminī tuō
 
 in saeculum et in saeculum saeculī.
 
-2 BETH. Per singulōs diēs **benedīcam** tibi
+2 BĒTH. Per singulōs diēs **benedīcam** tibi
 
 et laudābō **nōmen** tuum
 
 in saeculum et in saeculum saeculī.
 
-3 GHIMEL. Magnus Dominus et **laudābilis** nimis,
+3 GHĪMEL. Magnus Dominus et **laudābilis** nimis,
 
 et magnitūdinis eius nōn **est** investīgātiō.
 
-4 DALETH. Generātiō generātiōnī laudābit **opera** **tua**,
+4 DĀLETH. Generātiō generātiōnī laudābit **opera** **tua**,
 
 et potentiam tuam prōnūntiābunt.
 
@@ -11296,19 +11296,19 @@ et potentiam tuam prōnūntiābunt.
 
 et mīrābilia **tua** ēnārrābunt.
 
-6 VAŪ. Et virtūtem terribilium tuōrum **dīcent**
+6 VAU. Et virtūtem terribilium tuōrum **dīcent**
 
 et magnitūdinem tuam nārrābunt.
 
-7 ZAIN. Memoriam abundantiae suāvitātis tuae ēructābunt
+7 ZAĪN. Memoriam abundantiae suāvitātis tuae ēructābunt
 
 et **iūstitiā** **tuā** exsultābunt.
 
-8 HETH. Miserātor et misericors Dominus,
+8 HĒTH. Miserātor et misericors Dominus,
 
 **longanimis** et multae misericordiae.
 
-9 TETH. **Suāvis** Dominus ūniversīs,
+9 TĒTH. **Suāvis** Dominus ūniversīs,
 
 et miserātiōnēs eius super omnia **opera** eius.
 
@@ -11316,27 +11316,27 @@ et miserātiōnēs eius super omnia **opera** eius.
 
 et sānctī tuī benedīcant tibi.
 
-11 CAPH. Glōriam rēgnī tuī **dīcant**
+11 CĀPH. Glōriam rēgnī tuī **dīcant**
 
 et potentiam tuam loquantur,
 
-12 LAMED. ut **nōtās** faciant fīliīs hominum potentiās tuās
+12 LĀMED. ut **nōtās** faciant fīliīs hominum potentiās tuās
 
 et glōriam magnificentiae rēgnī tuī.
 
-13 MEM. Rēgnum tuum rēgnum omnium saeculōrum,
+13 MĒM. Rēgnum tuum rēgnum omnium saeculōrum,
 
 et dominātiō **tua** in omnem generātiōnem et generātiōnem.
 
-NUN. **Fidēlis** Dominus in omnibus verbīs **suīs**
+NŪN. **Fidēlis** Dominus in omnibus verbīs **suīs**
 
 et sānctus in omnibus operibus **suīs**.
 
-14 SAMECH. **Allevat** Dominus omnēs, quī corruunt,
+14 SĀMECH. **Allevat** Dominus omnēs, quī corruunt,
 
 et ērigit omnēs dēpressōs.
 
-15 **AIN**. Oculī omnium in tē spērant,
+15 AIN. Oculī omnium in tē spērant,
 
 et tū dās illīs ēscam in tempore opportūnō.
 
@@ -11344,11 +11344,11 @@ et tū dās illīs ēscam in tempore opportūnō.
 
 et implēs omne animal in benēplacitō.
 
-17 SĀDE. Iūstus Dominus in omnibus viīs **suīs**
+17 SĀDĒ. Iūstus Dominus in omnibus viīs **suīs**
 
 et sānctus in omnibus operibus **suīs**.
 
-18 COPH. Prope **est** Dominus omnibus invocantibus eum,
+18 CŌPH. Prope **est** Dominus omnibus invocantibus eum,
 
 omnibus invocantibus eum in vēritāte.
 
@@ -11360,7 +11360,7 @@ et dēprecātiōnem eōrum exaudiet et salvōs faciet eōs.
 
 et omnēs peccātōrēs disperdet.
 
-21 TAŪ. Laudātiōnem Dominī loquētur **os** meum,
+21 TAU. Laudātiōnem Dominī loquētur **os** meum,
 
 et benedīcat **omnis** **cārō** nōminī sānctō eius
 
