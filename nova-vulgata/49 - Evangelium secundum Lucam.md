@@ -1,8 +1,8 @@
 # ĒVANGELIUM SECUNDUM LŪCAM
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24)
 
-1
+## 1
 
 1 Quoniam quidem multī cōnātī sunt ōrdināre nārrātiōnem, quae in nōbīs complētae sunt, rērum,
 
@@ -206,7 +206,7 @@ ad dīrigendōs **pedēs** nostrōs in viam **pācis** ”.
 
 80 Puer autem crēscēbat et cōnfortābātur spīritū et erat in dēsertō usque in diem ostēnsiōnis suae ad Isrāēl.
 
-2
+## 2
 
 1 Factum **est** autem, in diēbus illīs exiit ēdictum ā Caesare Augustō, ut dēscrīberētur ūniversus **orbis**.
 
@@ -322,7 +322,7 @@ et glōriam **plēbis** tuae Isrāēl ”.
 
 52 Et **Iēsus** prōficiēbat **sapientiā** et aetāte et **grātiā** apud Deum et hominēs.
 
-3
+## 3
 
 1 Annō autem quīntō decimō imperiī Tiberiī Caesaris, prōcūrante Pontiō Pīlātō Iūdaeam, **tetrarcha** autem Galilaeae Hērōde, Philippō autem frātre eius **tetrarcha** Itūraeae et Trachonitidis regiōnis, et Lysānia Abilīnae **tetrarcha**,
 
@@ -412,7 +412,7 @@ et **aspera** in viās plānās:
 
 38 quī fuit Ēnōs, quī fuit Seth, quī fuit Adam, quī fuit Deī.
 
-4
+## 4
 
 1 **Iēsus** autem plēnus Spīritū Sānctō **regressus** **est** ab Iordāne et agēbātur in Spīritū in dēsertō
 
@@ -520,7 +520,7 @@ et caecīs vīsum,
 
 44 Et erat praedicāns in synagōgīs Iūdaeae.
 
-5
+## 5
 
 1 Factum **est** autem, cum **turba** urgēret illum et audīret verbum Deī, et ipse stābat secus **stāgnum** Genesareth
 
@@ -600,7 +600,7 @@ et caecīs vīsum,
 
 39 Et nēmō bibēns vetus vult novum; dīcit enim: “Vetus melius **est**!” ”.
 
-6
+## 6
 
 1 Factum **est** autem in sabbatō, cum trānsīret per **sata**, et velle bant discipulī eius spīcās et mandūcābant cōnfricantēs manibus.
 
@@ -706,7 +706,7 @@ Vae vōbīs, quī rīdētis nunc, quia lūgēbitis et flēbitis!
 
 49 Quī autem audīvit et nōn fēcit, **similis** **est** hominī aedificantī domum suam suprā terram **sine** fundāmentō; in quam **illīsus** **est** fluvius, et continuō **cecidit**, et **facta** **est** **ruīnā** **domus** illīus **magna** ”.
 
-7
+## 7
 
 1 Cum autem implēsset omnia verba **sua** in aurēs **plēbis**, intrāvit Capharnāum.
 
@@ -816,7 +816,7 @@ lāmentāvimus, et nōn plōrāstis!”.
 
 50 Dīxit autem ad mulierem: “ **Fidēs** **tua** tē salvam fēcit; **vāde** in pāce! ”.
 
-8
+## 8
 
 1 Et factum **est** deinceps, et ipse iter faciēbat per cīvitātem et castellum praedicāns et ēvangelīzāns rēgnum Deī; et Duodecim cum illō
 
@@ -930,7 +930,7 @@ lāmentāvimus, et nōn plōrāstis!”.
 
 56 Et stupuērunt **parentēs** eius, quibus praecēpit, nē alicui dīcerent, quod factum erat.
 
-9
+## 9
 
 1 **Convocātīs** autem Duodecim, **dedit** illīs virtūtem et potestātem super omnia daemonia, et ut languōrēs cūrārent,
 
@@ -1058,7 +1058,7 @@ Omnibusque mīrantibus in omnibus, quae faciēbat, dīxit ad discipulōs suōs:
 
 62 Ait ad illum **Iēsus**: “ Nēmō mittēns **manum** suam in arātrum et aspiciēns retrō, aptus **est** rēgnō Deī ”.
 
-10
+## 10
 
 1 Post haec autem dēsignāvit Dominus aliōs septuāgintā duōs et mīsit illōs bīnōs ante faciem suam in omnem cīvitātem et locum, quō erat ipse ventūrus.
 
@@ -1144,7 +1144,7 @@ Omnibusque mīrantibus in omnibus, quae faciēbat, dīxit ad discipulōs suōs:
 
 42 porrō ūnum **est** necessārium; **Maria** enim optimam partem ēlēgit, quae nōn auferētur ab **eā** ”.
 
-11
+## 11
 
 1 Et factum **est** cum **esset** in locō quōdam ōrāns, ut **cessa** vit, dīxit ūnus ex discipulīs eius ad eum: “ Domine, docē nōs **ōrāre**, sīcut et Iōannēs docuit discipulōs suōs ”.
 
@@ -1260,7 +1260,7 @@ et nē nōs indūcās in tentātiōnem ”.
 
 54 īnsidiantēs **eī**, ut caperent aliquid ex ōre eius.
 
-12
+## 12
 
 1 Intereā multīs turbīs circumstantibus, **ita** ut sē invicem conculcārent, coepit **dīcere** ad discipulōs suōs prīmum: “ Attendite ā fermentō **pharīsaeōrum**, quod **est** **hypocrisis**.
 
@@ -1380,7 +1380,7 @@ et nē nōs indūcās in tentātiōnem ”.
 
 59 **Dīcō** tibi: Nōn exiēs inde, dōnec etiam novissimum minūtum reddās ”.
 
-13
+## 13
 
 1 Aderant autem quīdam ipsō in tempore nūntiantēs illī dē **Galilaeīs**, quōrum sanguinem Pīlātus miscuit cum sacrificiīs eōrum.
 
@@ -1452,7 +1452,7 @@ et nē nōs indūcās in tentātiōnem ”.
 
 35 Ecce relinquitur vōbīs **domus** **vestra**. **Dīcō** autem vōbīs: Nōn vidēbitis mē, dōnec veniat cum **dicētis**: “Benedictus, quī **venit** in nōmine Dominī” ”.
 
-14
+## 14
 
 1 Et factum **est**, cum intrāret in domum cuiusdam prīncipis **pharīsaeōrum** sabbatō mandūcāre pānem, et ipsī observābant eum.
 
@@ -1524,7 +1524,7 @@ et nē nōs indūcās in tentātiōnem ”.
 
 35 Neque in terram neque in sterquilīnium ūtile **est**, sed forās prōiciunt illud. Quī habet aurēs audiendī, audiat ”.
 
-15
+## 15
 
 1 Erant autem appropinquantēs **eī** omnēs pūblicānī et peccātōrēs, ut audīrent illum.
 
@@ -1592,7 +1592,7 @@ Cum autem adhūc **longē** **esset**, vīdit illum pater ipsīus et **misericor
 
 32 epulārī autem et gaudēre oportēbat, quia frāter tuus **hic** mortuus erat et revīxit, perierat et **inventus** **est**” ”.
 
-16
+## 16
 
 1 Dīcēbat autem et ad discipulōs: “ Homō quīdam erat dīves, quī habēbat vīlicum, et **hic** diffāmātus **est** apud illum quasi dissipāsset **bona** ipsīus.
 
@@ -1656,7 +1656,7 @@ Cum autem adhūc **longē** **esset**, vīdit illum pater ipsīus et **misericor
 
 31 Ait autem illī: “Sī Moysen et Prophētās nōn audiunt, neque sī **quis** ex mortuīs resurrēxerit, crēdent” ”.
 
-17
+## 17
 
 1 Et ad discipulōs suōs ait: “ Impossibile **est** ut nōn veniant scandala; vae autem illī, per quem veniunt!
 
@@ -1734,7 +1734,7 @@ Sī peccāverit frāter tuus, increpā illum et, sī paenitentiam ēgerit, dīmi
 
 (36) 37 Respondentēs dīcunt illī: “ **Ubi**, Domine? ”. Quī dīxit eīs: “ Ubicumque fuerit corpus, illūc congregābuntur et aquilae ”.
 
-18
+## 18
 
 1 Dīcēbat autem parabolam ad illōs, quoniam oportet semper **ōrāre** et nōn dēficere,
 
@@ -1820,7 +1820,7 @@ Sī peccāverit frāter tuus, increpā illum et, sī paenitentiam ēgerit, dīmi
 
 42 Et **Iēsus** dīxit illī: “ Respice! **Fidēs** **tua** tē salvum fēcit ”. 43 Et cōnfestim vīdit et sequēbātur illum magnificāns Deum. Et **omnis** plēbs, ut vīdit, **dedit** laudem Deō.
 
-19
+## 19
 
 1 Et **ingressus** perambulābat Ierichō.
 
@@ -1922,7 +1922,7 @@ Pāx in caelō, et **glōria** in excelsīs! ”.
 
 48 et nōn inveniēbant quid facerent; **omnis** enim **populus** suspēnsus erat audiēns illum.
 
-20
+## 20
 
 1 Et factum **est** in **ūnā** diērum, docente illō **populum** in templō et ēvangelīzante, supervēnērunt prīncipēs sacerdōtum et scrībae cum seniōribus
 
@@ -2026,7 +2026,7 @@ Quō audītō, dīxērunt: “ Absit! ”.
 
 47 quī dēvorant domōs viduārum et simulant longam ōrātiōnem. Hī accipient damnātiōnem maiōrem ”.
 
-21
+## 21
 
 1 Respiciēns autem vīdit eōs, quī mittēbant **mūnera** **sua** in gazophylacium, dīvitēs.
 
@@ -2104,7 +2104,7 @@ Quō audītō, dīxērunt: “ Absit! ”.
 
 38 Et **omnis** **populus** mānicābat ad eum in templō audīre eum.
 
-22
+## 22
 
 1 Appropinquābat autem diēs fēstus Azȳmōrum, quī dīcitur **Pascha**.
 
@@ -2248,7 +2248,7 @@ Quō audītō, dīxērunt: “ Absit! ”.
 
 71 At illī dīxērunt: “ Quid adhūc dēsīderāmus testimōnium? Ipsī enim audīvimus dē ōre eius! ”.
 
-23
+## 23
 
 1 Et surgēns **omnis** multitūdō eōrum dūxērunt illum ad Pīlātum.
 
@@ -2364,7 +2364,7 @@ Dīvidentēs vērō vestīmenta eius mīsērunt sortēs.
 
 56 et revertentēs parāvērunt arōmata et **unguenta** et sabbatō quidem siluērunt secundum mandātum.
 
-24
+## 24
 
 1 **Prīma** autem sabbatōrum, valdē dīlūculō vēnērunt ad monumentum portantēs, quae parāverant, arōmata.
 
@@ -2471,3 +2471,6 @@ Dīvidentēs vērō vestīmenta eius mīsērunt sortēs.
 52 Et ipsī adōrāvērunt eum et regressī sunt in Ierusālem cum gaudiō magnō
 
 53 et erant semper in templō benedīcentēs Deum.
+
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24)
+
