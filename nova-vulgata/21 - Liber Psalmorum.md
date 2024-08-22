@@ -420,9 +420,9 @@ quam admīrābile est nōmen tuum in ūniversā terrā!
 
 1 Magistrō chorī. Ad modum canticī " Mut labben ". PSALMUS. Dāvīd.
 
-2 ALEPH. Cōnfitēbor tibi, Domine, in **tōtō** **corde** meō,
+2 ALEPH. Cōnfitēbor tibi, Domine, in tōtō corde meō,
 
-nārrābō omnia mīrābilia **tua**.
+nārrābō omnia mīrābilia tua.
 
 3 Laetābor et exsultābō in tē,
 
@@ -430,7 +430,7 @@ psallam nōminī tuō, Altissime.
 
 4 BETH. Cum convertuntur inimīcī meī retrōrsum,
 
-īnfirmantur et pereunt ā faciē **tuā**.
+īnfirmantur et pereunt ā faciē tuā.
 
 5 Quoniam fēcistī iūdicium meum et causam meam,
 
