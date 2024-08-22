@@ -674,29 +674,29 @@ cum exaltantur sordēs inter fīliōs hominum.
 
 1 Magistrō chorī. PSALMUS. Dāvīd.
 
-2 Usquequō, Domine, **oblīvīsceris** mē in fīnem?
+2 Usquequō, Domine, oblīvīscēris mē in fīnem?
 
 Usquequō āvertēs faciem tuam ā mē?
 
-3 Usquequō pōnam **cōnsilia** in **animā** **meā**,
+3 Usquequō pōnam cōnsilia in animā meā,
 
-dolōrem in **corde** meō per diem?
+dolōrem in corde meō per diem?
 
 Usquequō exaltābitur inimīcus meus super mē?
 
 4 Respice et exaudī mē, Domine Deus meus.
 
-**Illūminā** oculōs meōs, nē quandō obdormiam in morte,
+Illūminā oculōs meōs, nē quandō obdormiam in morte,
 
-5 nē quandō **dīcat** inimīcus meus: “ Praevaluī adversus eum! ”;
+5 nē quandō dīcat inimīcus meus: “ Praevaluī adversus eum! ”;
 
-neque exsultent, quī trībulant mē, sī **mōtus** fuerō.
+neque exsultent, quī trībulant mē, sī mōtus fuerō.
 
-6 Ego autem in **misericordiā** **tuā** spērāvī.
+6 Ego autem in misericordiā tuā spērāvī.
 
 Exsultābit cor meum in salūtārī tuō;
 
-cantābō Dominō, quī **bona** tribuit mihi.
+cantābō Dominō, quī bona tribuit mihi.
 
 ### PSALMUS 14
 
