@@ -72,7 +72,7 @@ Dominus subsannābit eōs.
 
 et in furōre suō conturbābit eōs:
 
-6 “Ego autem cōnstituī rēgem meum super Sīon[^1], montem sānctum meum!”.
+6 “Ego autem cōnstituī rēgem meum super Sīon, montem sānctum meum!”.
 
 7 Praedicābō dēcrētum eius.
 
@@ -418,7 +418,7 @@ quam admīrābile est nōmen tuum in ūniversā terrā!
 
 ### PSALMUS 9
 
-1 Magistrō chorī. Ad modum canticī " Mut labben ". PSALMUS. Dāvīd.
+1 Magistrō chorī. Ad modum canticī "Mut labben"[^1]. PSALMUS. Dāvīd.
 
 2 ĀLEPH. Cōnfitēbor tibi, Domine, in tōtō corde meō,
 
@@ -5872,7 +5872,7 @@ et torrentēs inundāvērunt.
 
 “ Numquid et pānem poterit dare
 
-aut parāre carnēs **popul��** suō? ”.
+aut parāre carn��s **popul��** suō? ”.
 
 21 Ideō audīvit Dominus et exārsit,
 
@@ -11434,7 +11434,7 @@ dispersōs Israelīs congregābit.
 
 et alligat **plāgās** eōrum;
 
-4 quī numerat multitūdinem stēllārum
+4 qu�� numerat multitūdinem stēllārum
 
 et omnibus eīs **nōmina** vocat.
 
@@ -11635,3 +11635,5 @@ et nōbilēs eōrum in manicīs ferreīs,
 **laudātē** eum in cymbalīs iūbilātiōnis:
 
 omne quod spīrat, laudet Dominum. ALLĒLŪIA
+
+[^1] "Mut labben" - vowel length uncertain
