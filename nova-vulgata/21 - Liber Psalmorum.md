@@ -72,7 +72,7 @@ Dominus subsannābit eōs.
 
 et in furōre suō conturbābit eōs:
 
-6 “Ego autem cōnstituī rēgem meum super Sīōn[^1], montem sānctum meum!”.
+6 “Ego autem cōnstituī rēgem meum super Sīon[^1], montem sānctum meum!”.
 
 7 Praedicābō dēcrētum eius.
 
@@ -448,51 +448,51 @@ et cīvitātēs dēstrūxistī: periit memoria eōrum cum ipsīs.
 
 parāvit in iūdicium thronum suum;
 
-9 et ipse iūdicābit orbem terrae in **iūstitiā**,
+9 et ipse iūdicābit orbem terrae in iūstitiā,
 
-iūdicābit **populōs** in aequitāte.
+iūdicābit populōs in aequitāte.
 
 10 VAU. Et erit Dominus refugium oppressō,
 
 refugium in opportūnitātibus, in trībulātiōne.
 
-11 Et spērent in tē, quī nōvērunt **nōmen** tuum,
+11 Et spērent in tē, quī nōvērunt nōmen tuum,
 
 quoniam nōn dērelīquistī quaerentēs tē, Domine.
 
-12 ZAĪN. Psallite Dominō, quī habitat in **Sīōn**;
+12 ZAĪN. Psallite Dominō, quī habitat in Sīon;
 
-**annūntiāte** inter gentēs studia eius.
+annūntiāte inter gentēs studia eius.
 
-13 Quoniam requīrēns sanguinem **recordātus** **est** eōrum,
+13 Quoniam requīrēns sanguinem recordātus est eōrum,
 
-nōn **est** **oblītus** clāmōrem pauperum.
+nōn est oblītus clāmōrem pauperum.
 
 14 HĒTH. Miserēre meī, Domine;
 
 vidē afflīctiōnem meam dē inimīcīs meīs,
 
-quī exaltās mē dē portīs **mortis**,
+quī exaltās mē dē portīs mortis,
 
-15 ut annūntiem omnēs laudātiōnēs tuās in portīs fīliae **Sīōn**,
+15 ut annūntiem omnēs laudātiōnēs tuās in portīs fīliae Sīon,
 
 exsultem in salūtārī tuō.
 
-16 TĒTH. Īnfīxae sunt gentēs in **foveā**, quam fēcērunt;
+16 TĒTH. Īnfīxae sunt gentēs in foveā, quam fēcērunt;
 
 in laqueō istō, quem abscondērunt,
 
-comprehēnsus **est** pēs eōrum.
+comprehēnsus est pēs eōrum.
 
 17 Manifestāvit sē Dominus iūdicium faciēns;
 
-in operibus manuum suārum comprehēnsus **est** peccātor.
+in operibus manuum suārum comprehēnsus est peccātor.
 
 18 IOD. Convertentur peccātōrēs in īnfernum,
 
 omnēs gentēs, quae oblīvīscuntur Deum.
 
-19 CĀPH. Quoniam nōn in fīnem oblīviō erit **pauperis**;
+19 CĀPH. Quoniam nōn in fīnem oblīviō erit pauperis;
 
 exspectātiō pauperum nōn perībit in aeternum.
 
@@ -730,7 +730,7 @@ quoniam Deus cum generātiōne **iūstā** **est**.
 
 Dominus autem spēs eius **est**.
 
-7 **Quis** dabit ex **Sīōn** salūtāre Isrāēl?
+7 **Quis** dabit ex Sīon salūtāre Isrāēl?
 
 Cum converterit Dominus captīvitātem **plēbis** suae,
 
@@ -1208,7 +1208,7 @@ prōtegat tē **nōmen** Deī Iācōb.
 
 3 Mittat tibi auxilium dē sānctō
 
-et dē **Sīōn** tueātur tē.
+et dē Sīon tueātur tē.
 
 4 Memor sit **omnis** sacrificiī tuī
 
@@ -3442,7 +3442,7 @@ in cīvitāte Deī nostrī.
 
 exsultātiō ūniversae terrae.
 
-Mōns **Sīōn**, **extrēma** aquilōnis,
+Mōns Sīon, **extrēma** aquilōnis,
 
 cīvitās **rēgis** magnī.
 
@@ -3484,11 +3484,11 @@ sīc et laus **tua** in fīnēs terrae;
 
 **iūstitiā** **plēnā** **est** **dexterā** **tuā**.
 
-12 Laetētur mōns **Sīōn**, et exsultent fīliae Iūdae
+12 Laetētur mōns Sīon, et exsultent fīliae Iūdae
 
 propter iūdicia **tua**.
 
-13 **Circumdate** **Sīōn** et complectiminī eam,
+13 **Circumdate** Sīon et complectiminī eam,
 
 **numerātē** turrēs eius.
 
@@ -3608,7 +3608,7 @@ Deus deōrum, Dominus, **locūtus** **est**
 
 et vocāvit terram ā **sōlis** ortū usque ad occāsum.
 
-2 Ex **Sīōn** **speciōsa** **decōrē** Deus illūxit,
+2 Ex Sīon **speciōsa** **decōrē** Deus illūxit,
 
 3 Deus noster veniet et nōn silēbit:
 
@@ -3780,7 +3780,7 @@ holocaustum, sī offeram, nōn placēbit.
 
 cor contrītum et humiliātum, Deus, nōn dēspiciēs.
 
-20 **Benignē** fac, Domine, in **bonā** voluntāte **tua** **Sīōn**,
+20 **Benignē** fac, Domine, in **bonā** voluntāte **tua** Sīon,
 
 ut aedificentur mūrī Ierusālem.
 
@@ -3870,7 +3870,7 @@ Quoniam Deus dissipāvit ossa eōrum, quī tē **obsīdēbant**,
 
 cōnfūsī sunt, quoniam Deus sprēvit eōs. -
 
-7 **Quis** dabit ex **Sīōn** salūtāre Isrāēl?
+7 **Quis** dabit ex Sīon salūtāre Isrāēl?
 
 Cum converterit Deus captīvitātem **plēbis** suae,
 
@@ -4568,7 +4568,7 @@ et glōriābuntur omnēs rēctī **corde**.
 
 1 Magistrō chorī. PSALMUS. Dāvīd. Canticum.
 
-2 Tē decet hymnus, Deus, in **Sīōn**;
+2 Tē decet hymnus, Deus, in Sīon;
 
 et tibi reddētur vōtum in Ierusālem.
 
@@ -5086,7 +5086,7 @@ et vīnctōs suōs nōn dēspexit.
 
 maria et omnia rēptilia in eīs.
 
-36 Quoniam Deus salvam faciet **Sīōn**
+36 Quoniam Deus salvam faciet Sīon
 
 et aedificābit cīvitātēs Iūdae;
 
@@ -5464,7 +5464,7 @@ perdidistī omnēs, quī fornicantur abs tē.
 
 ut annūntiem omnēs operātiōnēs tuās
 
-in portīs fīliae **Sīōn**.
+in portīs fīliae Sīon.
 
 ### PSALMUS 74
 
@@ -5478,7 +5478,7 @@ Ut quid, Deus, reppulistī in fīnem,
 
 quam possēdistī ab initiō.
 
-Redēmistī virgam **hērēditātis** tuae: mōns **Sīōn**, in quō habitāstī.
+Redēmistī virgam **hērēditātis** tuae: mōns Sīon, in quō habitāstī.
 
 3 **Levā** **gressūs** tuōs in ruīnās sempiternās:
 
@@ -5636,7 +5636,7 @@ in Isrāēl magnum **nōmen** eius.
 
 3 Et **est** in Salem tabernāculum eius,
 
-et habitātiō eius in **Sīōn**.
+et habitātiō eius in Sīon.
 
 4 Ibi cōnfrēgit coruscātiōnēs **arcus**,
 
@@ -6080,7 +6080,7 @@ et tribum Ephraim nōn ēlēgit,
 
 68 sed ēlēgit tribum Iūdae,
 
-montem **Sīōn**, quem dīlēxit.
+montem Sīon, quem dīlēxit.
 
 69 Et aedificāvit sīcut excelsum sānctuārium suum,
 
@@ -6474,7 +6474,7 @@ etenim benedictiōnibus vestiet eam **pluvia** **mātūtīna**.
 
 8 Ībunt dē virtūte in virtūtem,
 
-vidēbitur Deus deōrum in **Sīōn**.
+vidēbitur Deus deōrum in Sīon.
 
 9 Domine, Deus virtūtum, exaudī ōrātiōnem meam;
 
@@ -6646,7 +6646,7 @@ quoniam tū, Domine, adiūvistī mē et cōnsōlātus **es** mē.
 
 Fundāmenta eius in montibus sānctīs;
 
-2 dīligit Dominus portās **Sīōn**
+2 dīligit Dominus portās Sīon
 
 super omnia tabernācula Iācōb.
 
@@ -6658,7 +6658,7 @@ ecce **Philistaea** et **Tyrus** cum **Aethiopia**:
 
 hī **nātī** sunt **illīc**.
 
-5 Et dē **Sīōn** **dīcētur**: “ **Hic** et ille **nātus** **est** in **eā**;
+5 Et dē Sīon **dīcētur**: “ **Hic** et ille **nātus** **est** in **eā**;
 
 et ipse firmāvit eam Altissimus ”.
 
@@ -7448,7 +7448,7 @@ et quī glōriantur in simulācrīs **suīs**.
 
 **Adōrāte** eum, omnēs angelī eius.
 
-8 Audīvit et **laetāta** **est** **Sīōn**,
+8 Audīvit et **laetāta** **est** Sīon,
 
 et exsultāvērunt fīliae Iūdae
 
@@ -7528,7 +7528,7 @@ et **populōs** in aequitāte.
 
 **sedet** super cherubim, moveātur **terra**.
 
-2 Dominus in **Sīōn** magnus
+2 Dominus in Sīon magnus
 
 et excelsus super omnēs **populōs**.
 
@@ -7704,7 +7704,7 @@ et ego sīcut fēnum aruī.
 
 et memoriāle tuum in generātiōnem et generātiōnem.
 
-14 Tū exsurgēns miserēberis **Sīōn**,
+14 Tū exsurgēns miserēberis Sīon,
 
 quia tempus miserendī eius,
 
@@ -7718,7 +7718,7 @@ et pulveris eius miserentur.
 
 et omnēs **rēgēs** terrae glōriam tuam,
 
-17 quia aedificāvit Dominus **Sīōn**
+17 quia aedificāvit Dominus Sīon
 
 et appāruit in **glōriā** **suā**.
 
@@ -7736,7 +7736,7 @@ Dominus dē caelō in terram aspexit,
 
 21 ut audīret **gemitus** compeditorum, ut solveret fīliōs **mortis**;
 
-22 ut annūntient in **Sīōn** **nōmen** Dominī
+22 ut annūntient in Sīon **nōmen** Dominī
 
 et laudem eius in Ierusālem,
 
@@ -8820,7 +8820,7 @@ Dīxit Dominus Dominō meō: “ **Sēde** ā dextrīs meīs,
 
 dōnec pōnam inimīcōs tuōs scabellum pedum tuōrum ”.
 
-2 Virgam potentiae tuae ēmittet Dominus ex **Sīōn**:
+2 Virgam potentiae tuae ēmittet Dominus ex Sīon:
 
 domināre in **medi��** inimīc��rum tuōrum.
 
@@ -10202,7 +10202,7 @@ quī fēcit caelum et terram.
 
 1 Canticum ascēnsiōnum.
 
-Quī cōnfīdunt in Dominō, sīcut mōns **Sīōn**:
+Quī cōnfīdunt in Dominō, sīcut mōns Sīon:
 
 nōn commovēbitur, in aeternum **manet**.
 
@@ -10230,7 +10230,7 @@ Pāx super Isrāēl!
 
 1 Canticum ascēnsiōnum.
 
-In convertendō Dominus captīvitātem **Sīōn**,
+In convertendō Dominus captīvitātem Sīon,
 
 factī sumus quasi somniantēs.
 
@@ -10316,7 +10316,7 @@ in circuitū mēnsae tuae.
 
 quī timet Dominum.
 
-5 Benedīcat tibi Dominus ex **Sīōn**,
+5 Benedīcat tibi Dominus ex Sīon,
 
 et videās **bona** Ierusālem
 
@@ -10348,7 +10348,7 @@ prolongāvērunt sulcōs suōs.
 
 5 Cōnfundantur et convertantur retrōrsum
 
-omnēs, quī ōdērunt **Sīōn**.
+omnēs, quī ōdērunt Sīon.
 
 6 Fīant sīcut fēnum tēctōrum,
 
@@ -10488,7 +10488,7 @@ fīliī eōrum usque in saeculum
 
 sedēbunt super sēdem tuam ”.
 
-13 Quoniam ēlēgit Dominus **Sīōn**,
+13 Quoniam ēlēgit Dominus Sīon,
 
 dēsīderāvit eam in habitātiōnem sibi:
 
@@ -10526,7 +10526,7 @@ quod dēscendit in barbam, barbam Aarōn,
 
 quod dēscendit in ōram vestīmentī eius;
 
-3 sīcut rōs **Hermōn**, quī dēscendit in montēs **Sīōn**,
+3 sīcut rōs **Hermōn**, quī dēscendit in montēs Sīon,
 
 quoniam **illīc** mandāvit Dominus benedictiōnem,
 
@@ -10546,7 +10546,7 @@ quī **stātis** in domō Dominī per noctēs.
 
 et benedīcite Dominum.
 
-3 Benedīcat tē Dominus ex **Sīōn**,
+3 Benedīcat tē Dominus ex Sīon,
 
 quī fēcit caelum et terram.
 
@@ -10640,7 +10640,7 @@ et omnēs, quī cōnfīdunt in eīs.
 
 quī timētis Dominum, benedīcite Dominō.
 
-21 Benedictus Dominus ex **Sīōn**,
+21 Benedictus Dominus ex Sīon,
 
 quī habitat in Ierusālem. ALLĒLŪIA.
 
@@ -10756,7 +10756,7 @@ quoniam in aeternum **misericordiā** eius.
 
 **illīc** sēdimus et flēvimus,
 
-cum recordārēmur **Sīōn**.
+cum recordārēmur Sīon.
 
 2 In salicibus in **mediō** eius
 
@@ -10770,7 +10770,7 @@ verba cantiōnum,
 
 et, quī afflīgēbant nōs, laetitiam:
 
-“ **Cantāte** nōbīs dē canticīs **Sīōn** ”.
+“ **Cantāte** nōbīs dē canticīs Sīon ”.
 
 4 Quōmodo cantābimus canticum Dominī
 
@@ -11414,7 +11414,7 @@ et viam peccātōrum disperdit.
 
 10 Rēgnābit Dominus in saecula,
 
-Deus tuus, **Sīōn**,
+Deus tuus, Sīon,
 
 in generātiōnem et generātiōnem.
 
@@ -11472,7 +11472,7 @@ et in eīs, quī spērant super **misericordiā** eius.
 
 12 **Lauda**, Ierusālem, Dominum;
 
-collaudā Deum tuum, **Sīōn**.
+collaudā Deum tuum, Sīon.
 
 13 Quoniam cōnfortāvit **serās** portārum tuārum,
 
@@ -11580,7 +11580,7 @@ laus eius in **ecclēsiā** sānctōrum.
 
 2 Laetētur Isrāēl in eō, quī fēcit eum,
 
-et fīliī **Sīōn** exsultent in **rēge** suō.
+et fīliī Sīon exsultent in **rēge** suō.
 
 3 Laudent **nōmen** eius in chorō,
 
