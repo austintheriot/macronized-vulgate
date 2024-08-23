@@ -24,7 +24,7 @@
 
 10 Cumque intuērentur in caelum, eunte illō, ecce duo virī astitērunt iuxtā illōs in vestibus albīs,
 
-11 quī et dīxērunt: “**Virī** **Galilaeī**, quid **stātis** aspicientēs in caelum? **Hic** Iēsūs, quī assūmptus **est** ā vōbīs in caelum, sīc veniet quemadmodum vīdistis eum euntem in caelum”.
+11 quī et dīxērunt: “Virī Galīlaeī, quid **stātis** aspicientēs in caelum? **Hic** Iēsūs, quī assūmptus **est** ā vōbīs in caelum, sīc veniet quemadmodum vīdistis eum euntem in caelum”.
 
 12 Tunc reversī sunt in Ierusālem ā monte, quī vocātur Olīvētī, quī **est** iuxtā Ierusālem sabbatī habēns iter.
 
