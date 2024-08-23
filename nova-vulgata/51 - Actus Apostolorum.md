@@ -12,17 +12,17 @@
 
 4 Et convēscēns praecēpit eīs ab Hierosolymīs nē discēderent, sed exspectārent prōmissiōnem Patrīs: “Quam audīstis ā mē,
 
-5 quia Iōannēs quidem baptīzāvit **aquā**, vōs autem baptīzābiminī in Spīritū Sānctō nōn post multōs hōs diēs”.
+5 quia Iōannēs quidem baptīzāvit aquā, vōs autem baptīzābiminī in Spīritū Sānctō nōn post multōs hōs diēs”.
 
-6 Igitur quī convēnerant, interrogābant eum dīcentēs: “Domine, sī in tempore **hoc** restituēs rēgnum Israēlī?”.
+6 Igitur quī convēnerant, interrogābant eum dīcentēs: “Domine, sī in tempore hōc restituēs rēgnum Israēlī?”.
 
-7 Dīxit autem eīs: “Nōn **est** vestrum nōsse tempora vel mōmenta, quae Pater posuit in **suā** potestāte,
+7 Dīxit autem eīs: “Nōn est vestrum nōsse tempora vel mōmenta, quae Pater posuit in suā potestāte,
 
-8 sed accipiētis virtūtem, superveniente Sānctō Spīritū in vōs, et eritis mihi testēs et in Ierusālem et in omnī **Iūdaeā** et **Samarīā** et usque ad ultimum terrae”.
+8 sed accipiētis virtūtem, superveniente Sānctō Spīritū in vōs, et eritis mihi testēs et in Ierusālem et in omnī Iūdaeā et Samarīā et usque ad ultimum terrae”.
 
-9 Et cum haec dīxisset, videntibus illīs, ēlevātus **est**, et nūbēs suscēpit eum ab oculīs eōrum.
+9 Et cum haec dīxisset, videntibus illīs, ēlevātus est, et nūbēs suscēpit eum ab oculīs eōrum.
 
-10 Cumque **intuērentur** in caelum, eunte illō, ecce duo **virī** astitērunt iuxtā illōs in vestibus albīs,
+10 Cumque intuērentur in caelum, eunte illō, ecce duo virī astitērunt iuxtā illōs in vestibus albīs,
 
 11 quī et dīxērunt: “**Virī** **Galilaeī**, quid **stātis** aspicientēs in caelum? **Hic** Iēsūs, quī assūmptus **est** ā vōbīs in caelum, sīc veniet quemadmodum vīdistis eum euntem in caelum”.
 
