@@ -24,13 +24,13 @@
 
 10 Cumque intuērentur in caelum, eunte illō, ecce duo virī astitērunt iuxtā illōs in vestibus albīs,
 
-11 quī et dīxērunt: “Virī Galīlaeī, quid **stātis** aspicientēs in caelum? **Hic** Iēsūs, quī assūmptus **est** ā vōbīs in caelum, sīc veniet quemadmodum vīdistis eum euntem in caelum”.
+11 quī et dīxērunt: “Virī Galīlaeī, quid stātis aspicientēs in caelum? Hic Iēsūs, quī assūmptus est ā vōbīs in caelum, sīc veniet quemadmodum vīdistis eum euntem in caelum”.
 
-12 Tunc reversī sunt in Ierusālem ā monte, quī vocātur Olīvētī, quī **est** iuxtā Ierusālem sabbatī habēns iter.
+12 Tunc reversī sunt in Ierusālem ā monte, quī vocātur Olīvētī, quī est iuxtā Ierusālem sabbatī habēns iter.
 
 13 Et cum introīssent, in cēnāculum ascendērunt, ubi manēbant et Petrus et Iōannēs et Iacobus et Andreās, Philippus et Thomās, Bartholomaeus et Matthaeus, Iacobus Alphaēī et Simōn Zēlōtēs et Iūdās Iacobī.
 
-14 Hī omnēs erant persevērantēs ūnanimiter in ōrātiōne cum mulieribus et **Mariā** mātre **Iēsu** et frātribus eius.
+14 Hī omnēs erant persevērantēs ūnanimiter in ōrātiōne cum mulieribus et Marīā mātre Iēsū* et frātribus eius.
 
 15 Et in diēbus illīs exsurgēns Petrus in **mediō** frātrum dīxit — erat autem **turba** hominum simul **ferē** centum vīgintī C:
 
