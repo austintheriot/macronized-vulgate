@@ -14,7 +14,7 @@
 
 5 quia Iōannēs quidem baptīzāvit aquā, vōs autem baptīzābiminī in Spīritū Sānctō nōn post multōs hōs diēs”.
 
-6 Igitur quī convēnerant, interrogābant eum dīcentēs: “Domine, sī in tempore hōc restituēs rēgnum Israēlī?”.
+6 Igitur quī convēnerant, interrogābant eum dīcentēs: “Domine, sī in tempore hōc restituēs rēgnum Isrāēlī?”.
 
 7 Dīxit autem eīs: “Nōn est vestrum nōsse tempora vel mōmenta, quae Pater posuit in suā potestāte,
 
@@ -28,7 +28,7 @@
 
 12 Tunc reversī sunt in Ierusālem ā monte, quī vocātur Olīvētī, quī est iuxtā Ierusālem sabbatī habēns iter.
 
-13 Et cum introīssent, in cēnāculum ascendērunt, ubi manēbant et Petrus et Iōannēs et Iacobus et Andreās, Philippus et Thomās, Bartholomaeus et Matthaeus, Iacobus Alphaēī et Simōn Zēlōtēs et Iūdās Iacobī.
+13 Et cum introīssent, in cēnāculum ascendērunt, ubi manēbant et Petrus et Iōannēs et Iacōbus et Andreās, Philippus et Thōmās, Bartholomaeus et Matthaeus, Iacōbus Alphaeī et Simon Zēlōtēs et Iūdās Iacōbī.
 
 14 Hī omnēs erant persevērantēs ūnanimiter in ōrātiōne cum mulieribus et Marīā mātre Iēsū et frātribus eius.
 
@@ -218,7 +218,7 @@ replēbis mē iūcunditāte cum faciē **tuā**”.
 
 12 Vidēns autem Petrus respondit ad **populum**: “**Virī** Isrāēlītae, quid mīrāminī in **hōc** aut nōs quid intuēminī, quasi **nostrā** virtūte aut pietāte **fēcerīmus** hunc ambulāre?
 
-13 Deus Abraham et Deus Isaac et Deus Iācōb, Deus patrum nostrōrum, glōrificāvit puerum suum Iēsum, quem vōs quidem trādidistis et negāstis ante faciem Pīlātī, iūdicante illō dīmittī;
+13 Deus Abraham et Deus Isaac et Deus Iacōb, Deus patrum nostrōrum, glōrificāvit puerum suum Iēsum, quem vōs quidem trādidistis et negāstis ante faciem Pīlātī, iūdicante illō dīmittī;
 
 14 vōs autem Sānctum et Iūstum negāstis et petīstis **virum** homicīdam dōnārī vōbīs,
 
@@ -468,7 +468,7 @@ Cōnsēnsērunt autem illī
 
 7 et gentem, cui servierint, iūdicābō ego, dīxit Deus; et post haec exībunt et dēservient mihi in locō istō”.
 
-8 Et **dedit** illī testāmentum circumcīsiōnis; et sīc genuit Isaac et circumcīdit eum **diē** **octāva**, et Isaac Iācōb, et Iācōb duodecim patriarchās.
+8 Et **dedit** illī testāmentum circumcīsiōnis; et sīc genuit Isaac et circumcīdit eum **diē** **octāva**, et Isaac Iacōb, et Iacōb duodecim patriarchās.
 
 9 Et patriarchae aemulantēs Iōsēph vēndidērunt in Aegyptum; et erat Deus cum eō
 
@@ -476,13 +476,13 @@ Cōnsēnsērunt autem illī
 
 11 **Venit** autem famēs in ūniversam Aegyptum et Chanaan et trībulātiō **magna**, et nōn inveniēbant cibōs patrēs nostrī.
 
-12 Cum audīsset autem Iācōb **esse** frūmentum in Aegyptō, mīsit patrēs nostrōs prīmum;
+12 Cum audīsset autem Iacōb **esse** frūmentum in Aegyptō, mīsit patrēs nostrōs prīmum;
 
 13 et in secundō **cognitus** **est** Iōsēph ā frātribus **suīs**, et manifestātum **est** pharaōnī **genus** Iōsēph.
 
-14 Mittēns autem Iōsēph accersīvit Iācōb patrem suum et omnem cognātiōnem in animābus septuāgintā quīnque;
+14 Mittēns autem Iōsēph accersīvit Iacōb patrem suum et omnem cognātiōnem in animābus septuāgintā quīnque;
 
-15 et dēscendit Iācōb in Aegyptum. Et **dēfūnctus** **est** ipse et patrēs nostrī;
+15 et dēscendit Iacōb in Aegyptum. Et **dēfūnctus** **est** ipse et patrēs nostrī;
 
 16 et trānslātī sunt in Sichem et positī sunt in sepulcrō, quod **emit** Abraham pretiō argentī ā fīliīs Hemmor in Sichem.
 
@@ -516,7 +516,7 @@ Cōnsēnsērunt autem illī
 
 31 Moysēs autem vidēns admīrābātur vīsum; accēdente autem illō, ut cōnsīderāret, **facta** **est** vōx Dominī:
 
-32 “Ego Deus patrum tuōrum, Deus Abraham et Isaac et Iācōb”. Tremefactus autem Moysēs nōn audēbat cōnsīderāre.
+32 “Ego Deus patrum tuōrum, Deus Abraham et Isaac et Iacōb”. Tremefactus autem Moysēs nōn audēbat cōnsīderāre.
 
 33 Dīxit autem illī Dominus: “Solve calceāmentum pedum tuōrum; locus enim, in quō stās, **terrā** **sānctā** **est**.
 
@@ -554,7 +554,7 @@ Et trānsferam vōs trāns Babylōnem”.
 
 45 quod et indūxērunt suscipientēs patrēs nostrī cum **Iēsu** in possessiōnem gentium, quās expulit Deus ā faciē patrum nostrōrum, usque in diēbus Dāvīd,
 
-46 quī **invēnit** grātiam ante Deum et petiit, ut invenīret tabernāculum domuī Iācōb.
+46 quī **invēnit** grātiam ante Deum et petiit, ut invenīret tabernāculum domuī Iacōb.
 
 47 Salomōn autem aedificāvit illī domum.
 
@@ -608,7 +608,7 @@ aut **quis** locus requiētiōnis meae?
 
 8 Factum **est** autem magnum gaudium in **illā** cīvitāte.
 
-9 Vir autem quīdam nōmine Simōn iamprīdem erat in cīvitāte magīās faciēns et dēmentāns gentem Samarīae, dīcēns **esse** sē aliquem magnum;
+9 Vir autem quīdam nōmine Simon iamprīdem erat in cīvitāte magīās faciēns et dēmentāns gentem Samarīae, dīcēns **esse** sē aliquem magnum;
 
 10 cui attendēbant omnēs ā minimō usque ad maximum dīcentēs: “**Hic** **est** virtūs Deī, quae vocātur **Magna**”.
 
@@ -616,7 +616,7 @@ aut **quis** locus requiētiōnis meae?
 
 12 Cum vērō crēdidissent Philippō ēvangelīzantī dē rēgnō Deī et nōmine **Iēsu** Chrīstī, baptīzābantur **virī** ac mulierēs.
 
-13 Tunc Simōn et ipse crēdidit et, cum baptīzātus **esset**, adhaerēbat Philippō; vidēns etiam **signa** et virtūtēs magnās fierī stupēns admīrābātur.
+13 Tunc Simon et ipse crēdidit et, cum baptīzātus **esset**, adhaerēbat Philippō; vidēns etiam **signa** et virtūtēs magnās fierī stupēns admīrābātur.
 
 14 Cum autem audīssent apostolī, quī erant Hierosolymīs, quia recēpit **Samarīa** verbum Deī, mīsērunt ad illōs Petrum et Iōannem;
 
@@ -626,7 +626,7 @@ aut **quis** locus requiētiōnis meae?
 
 17 Tunc imposuērunt **manūs** super illōs, et accipiēbant Spīritum Sānctum.
 
-18 Cum vīdisset autem Simōn quia per impositiōnem manuum apostolōrum darētur **Spīritus**, obtulit eīs pecūniam
+18 Cum vīdisset autem Simon quia per impositiōnem manuum apostolōrum darētur **Spīritus**, obtulit eīs pecūniam
 
 19 dīcēns: “**Date** et mihi hanc potestātem, ut cuicumque imposuerō **manūs**, accipiat Spīritum Sānctum”.
 
@@ -638,7 +638,7 @@ aut **quis** locus requiētiōnis meae?
 
 23 in felle enim amāritūdinis et obligātiōne inīquitātis videō tē **esse**”.
 
-24 Respondēns autem Simōn dīxit: “Precāminī vōs prō mē ad Dominum, ut nihil veniat super mē hōrum, quae dīxistis”.
+24 Respondēns autem Simon dīxit: “Precāminī vōs prō mē ad Dominum, ut nihil veniat super mē hōrum, quae dīxistis”.
 
 25 Et illī quidem testificātī et locūtī verbum Dominī, redībant Hierosolymam et multīs **vīcīs** Samarītānōrum ēvangelīzābant.
 
@@ -806,7 +806,7 @@ Fuit autem cum discipulīs, quī erant Damascī, per diēs aliquot;
 
 17 Et dum intrā sē haesitāret Petrus quidnam **esset** **vīsiō**, quam vīdisset, ecce **virī**, quī missī erant ā Cornēliō, inquīrentēs domum Simōnis astitērunt ad iānuam
 
-18 et, cum vocāssent, interrogābant sī Simōn, quī cognōminātur Petrus, **illīc** habēret hospitium.
+18 et, cum vocāssent, interrogābant sī Simon, quī cognōminātur Petrus, **illīc** habēret hospitium.
 
 19 **Petrō** autem cōgitante dē vīsiōne, dīxit **Spīritus** **eī**: “Ecce **virī** trēs quaerunt tē;
 
@@ -1188,7 +1188,7 @@ ut sīs in salūtem usque ad extrēmum terrae””.
 
 12 Tacuit autem **omnis** multitūdō, et audiēbant Barnabam et Paulum nārrantēs **quanta** fēcisset Deus **signa** et prōdigia in gentibus per eōs.
 
-13 Et postquam tacuērunt, respondit Iacobus dīcēns: “**Virī** frātrēs, **audītē** mē.
+13 Et postquam tacuērunt, respondit Iacōbus dīcēns: “**Virī** frātrēs, **audītē** mē.
 
 14 Simeōn nārrāvit quemadmodum prīmum Deus vīsitāvit **sūmere** ex gentibus **populum** nōminī suō;
 
