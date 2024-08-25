@@ -56,11 +56,11 @@ et: “Epīscopātum eius accipiat alius”.
 
 23 Et statuērunt duōs, Iōsēph, quī vocābātur Barsabbās, quī cognōminātus est Iūstus, et Matthiam.
 
-24 Et ōrantēs dīxērunt: “Tū, Domine, quī corda nōstī omnium, ostende quem **ēlēgerīs** ex hīs duōbus ūnum
+24 Et ōrantēs dīxērunt: “Tū, Domine, quī corda nōstī omnium, ostende quem ēlēgerīs ex hīs duōbus ūnum
 
-25 accipere locum ministeriī huius et **apostolātus**, dē quō praevāricātus est* Iūdās, ut abīret in locum suum”.
+25 accipere locum ministeriī huius et apostolātūs, dē quō praevāricātus est Iūdās, ut abīret in locum suum”.
 
-26 Et dedērunt sortēs eīs, et **cecidit** sors super Matthiam, et annumerātus est cum ūndecim apostolīs.
+26 Et dedērunt sortēs eīs, et cecidit sors super Matthiam, et annumerātus est cum ūndecim apostolīs.
 
 ## 2
 
