@@ -644,11 +644,11 @@ in labiīs dolōsīs, in duplicī corde locūtī sunt.
 
 et linguam magniloquam.
 
-5 Quī dīxērunt: “**Linguā** **nostrā** magnificābimur,
+5 Quī dīxērunt: “Linguā nostrā magnificābimur,
 
-**labia** **nostra** ā nōbīs sunt;
+labia nostra ā nōbīs sunt;
 
-**quis** noster dominus **est**?”.
+quis noster dominus est?”.
 
 6 “Propter miseriam inopum et gemitum pauperum,
 
@@ -656,9 +656,9 @@ nunc exsurgam, dīcit Dominus;
 
 pōnam in salūtārī illum, quem dēspiciunt”.
 
-7 Ēloquia Dominī ēloquia **casta**,
+7 Ēloquia Dominī ēloquia casta,
 
-argentum igne exāminātum, sēparātum ā **terrā**,
+argentum igne exāminātum, sēparātum ā terrā,
 
 pūrgātum septuplum.
 
@@ -702,21 +702,21 @@ cantābō Dominō, quī bona tribuit mihi.
 
 1 Magistrō chorī. Dāvīd.
 
-Dīxit īnsipiēns in **corde** suō: “Nōn **est** Deus”.
+Dīxit īnsipiēns in corde suō: “Nōn est Deus”.
 
 Corruptī sunt et abōminātiōnēs operātī sunt;
 
-nōn **est** quī faciat bonum.
+nōn est quī faciat bonum.
 
 2 Dominus dē caelō prōspexit super fīliōs hominum,
 
-ut vidēret sī **est** intellegēns aut requīrēns Deum.
+ut vidēret sī est intellegēns aut requīrēns Deum.
 
 3 Omnēs dēclīnāvērunt, simul corruptī sunt;
 
-nōn **est** quī faciat bonum, nōn **est** usque ad ūnum.
+nōn est quī faciat bonum, nōn est usque ad ūnum.
 
-4 **Nōnne** scient omnēs, quī operantur inīquitātem,
+4 Nōnne scient omnēs, quī operantur inīquitātem,
 
 quī dēvorant plēbem meam sīcut ēscam **pānis**?
 
