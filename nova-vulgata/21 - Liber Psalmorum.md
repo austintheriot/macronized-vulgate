@@ -718,7 +718,7 @@ nōn est quī faciat bonum, nōn est usque ad ūnum.
 
 4 Nōnne scient omnēs, quī operantur inīquitātem,
 
-quī dēvorant plēbem meam sīcut ēscam **pānis**?
+quī dēvorant plēbem meam sīcut ēscam pānis?
 
 Dominum nōn invocāvērunt;
 
