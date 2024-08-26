@@ -636,11 +636,11 @@ rēctī vidēbunt vultum eius.
 
 quoniam dēminūtī sunt fidēlēs ā fīliīs hominum.
 
-3 **Vāna** locūtī sunt ūnusquisque ad proximum suum;
+3 Vāna locūtī sunt ūnusquisque ad proximum suum;
 
-in labiīs dolōsīs, in duplicī **corde** locūtī sunt.
+in labiīs dolōsīs, in duplicī corde locūtī sunt.
 
-4 Disperdat Dominus **ūniversa** **labiā** **dolōsā**
+4 Disperdat Dominus ūniversa labia dolōsa
 
 et linguam magniloquam.
 
