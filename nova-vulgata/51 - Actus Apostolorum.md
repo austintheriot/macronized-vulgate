@@ -24,15 +24,15 @@
 
 10 Cumque intuērentur in caelum, eunte illō, ecce duo virī astitērunt iuxtā illōs in vestibus albīs,
 
-11 quī et dīxērunt: “Virī Galilaeī[^1], quid stātis aspicientēs in caelum? Hic Iēsūs, quī assūmptus est ā vōbīs in caelum, sīc veniet quemadmodum vīdistis eum euntem in caelum”.
+11 quī et dīxērunt: “Virī Galilaeī^[*][galilaei]^, quid stātis aspicientēs in caelum? Hic Iēsūs, quī assūmptus est ā vōbīs in caelum, sīc veniet quemadmodum vīdistis eum euntem in caelum”.
 
 12 Tunc reversī sunt in Ierūsalēm ā monte, quī vocātur Olīvētī, quī est iuxtā Ierūsalem sabbatī habēns iter.
 
-13 Et cum introīssent, in cēnāculum ascendērunt, ubi manēbant et Petrus et Iōannēs et Iācōbus[^2] et Andrēās[^3], Philippus et Thōmās, Bartholomaeus et Matthaeus, Iācōbus Alphaeī et Simōn Zēlōtēs et Iūdās Iācōbī.
+13 Et cum introīssent, in cēnāculum ascendērunt, ubi manēbant et Petrus et Iōannēs et Iācōbus^[*][jacob]^ et Andrēās^[*][andreas]^, Philippus et Thōmās, Bartholomaeus et Matthaeus, Iācōbus Alphaeī et Simōn Zēlōtēs et Iūdās Iācōbī.
 
 14 Hī omnēs erant persevērantēs ūnanimiter in ōrātiōne cum mulieribus et Marīā mātre Iēsū et frātribus eius.
 
-15 Et in diēbus illīs exsurgēns Petrus in mediō frātrum dīxit — erat autem turba hominum simul fere[^4] centum vīgintī C:
+15 Et in diēbus illīs exsurgēns Petrus in mediō frātrum dīxit — erat autem turba hominum simul fere^[*][fere]^ centum vīgintī C:
 
 16 “Virī frātrēs, oportēbat implērī Scrīptūram, quam praedīxit Spīritus Sānctus per ōs Dāvīd dē Iūdā, quī fuit dux eōrum, quī comprehendērunt Iēsum,
 
@@ -2184,8 +2184,8 @@ et sānābō illōs”.
 
 [1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27) [28](#28)
 
-[^1]: Galilae- (Gaffiot) / Galīlae- (Lewis & Short)
-[^2]: Iācōb, Iācōbus (Gaffiot) / Iacōb, Iacōbus (Greek length)
-[^3]: Andrēās (Gaffiot) / Andreas (Greek length)
-[^4]: ferē (Classical) / fere (Late Latin)
-[^5]: Matthīās (Gaffiot) / Matthiās (Latin Wictionary) / Matthias (Greek length)
+[andreas]: ./00 - Ambiguous Forms.md#anreas
+[fere]: ./00 - Ambiguous Forms.md#fere
+[galilaei]: ./00 - Ambiguous Forms.md#galilaei
+[jacob]: ./00 - Ambiguous Forms.md#jacob
+[matthias]: ./00 - Ambiguous Forms.md#matthias
