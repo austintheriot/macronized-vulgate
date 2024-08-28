@@ -54,7 +54,7 @@ et: “Epīscopātum eius accipiat alius”.
 
 22 incipiēns ā baptismate Iōannis usque in diem, quā assūmptus est ā nōbīs, testem resurrēctiōnis eius nōbīscum fierī ūnum ex istīs”.
 
-23 Et statuērunt duōs, Iōsēph, quī vocābātur Barsabbās, quī cognōminātus est Iūstus, et Matthīam [*](./00 - Ambiguous Forms.md#mathias).
+23 Et statuērunt duōs, Iōsēph, quī vocābātur Barsabbās, quī cognōminātus est Iūstus, et Matthīam [*]("./00 - Ambiguous Forms.md#mathias").
 
 24 Et ōrantēs dīxērunt: “Tū, Domine, quī corda nōstī omnium, ostende quem ēlēgerīs ex hīs duōbus ūnum
 
