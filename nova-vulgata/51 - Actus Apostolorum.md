@@ -54,13 +54,13 @@ et: “Epīscopātum eius accipiat alius”.
 
 22 incipiēns ā baptismate Iōannis usque in diem, quā assūmptus est ā nōbīs, testem resurrēctiōnis eius nōbīscum fierī ūnum ex istīs”.
 
-23 Et statuērunt duōs, Iōsēph, quī vocābātur Barsabbās, quī cognōminātus est Iūstus, et Matthīam[*][mathias].
+23 Et statuērunt duōs, Iōsēph, quī vocābātur Barsabbās, quī cognōminātus est Iūstus, et Matthīam[*][matthias].
 
 24 Et ōrantēs dīxērunt: “Tū, Domine, quī corda nōstī omnium, ostende quem ēlēgerīs ex hīs duōbus ūnum
 
 25 accipere locum ministeriī huius et apostolātūs, dē quō praevāricātus est Iūdās, ut abīret in locum suum”.
 
-26 Et dedērunt sortēs eīs, et cecidit sors super Matthīam[*][mathias], et annumerātus est cum ūndecim apostolīs.
+26 Et dedērunt sortēs eīs, et cecidit sors super Matthīam[*][matthias], et annumerātus est cum ūndecim apostolīs.
 
 ## 2
 
