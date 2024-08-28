@@ -80,11 +80,11 @@ et: “Epīscopātum eius accipiat alius”.
 
 8 Et quōmodo nōs audīmus ūnusquisque **propriā** **linguā** **nostrā**, in **quā** **nātī** sumus?
 
-9 Parthī et Mēdī et Elamitae et quī habitant Mesopotamiam, Iūdaeam **quoque** et Cappadociam, Pontum et Asiam,
+9 Parthī et Mēdī et Elamītae et quī habitant Mesopotamiam, Iūdaeam **quoque** et Cappadociam, Pontum et Asiam,
 
-10 Phrygiam **quoque** et Pamphȳliam, Aegyptum et partēs **Libyae**, quae **est** circā Cȳrēnēm, et advenae Rōmānī,
+10 Phrygiam **quoque** et Pamphȳliam, Aegyptum et partēs Libyae, quae **est** circā Cȳrēnēm, et advenae Rōmānī,
 
-11 Iūdaeī **quoque** et prosēlytī, Crētēs et Ārabēs, audīmus loquentēs eōs nostrīs linguīs magnālia Deī”.
+11 Iūdaeī **quoque** et prosēlytī, Crētes et Arabes, audīmus loquentēs eōs nostrīs linguīs magnālia Deī”.
 
 12 Stupēbant autem omnēs et haesitābant ad invicem dīcentēs: “Quidnam **hoc** vult **esse**?”;
 
@@ -178,7 +178,7 @@ replēbis mē iūcunditāte cum faciē **tuā**”.
 
 40 **Aliīs** etiam verbīs plūribus testificātus **est** et exhortābātur eōs dīcēns: “Salvāminī ā generātiōne **ista** **prāva**”.
 
-41 Quī ergō, receptō sermōne eius, baptīzātī sunt; et appositae sunt in il lā **diē** animae circiter tria **mīlia**.
+41 Quī ergō, receptō sermōne eius, baptīzātī sunt; et appositae sunt in illā **diē** animae circiter tria **mīlia**.
 
 42 Erant autem persevērantēs in **doctrīnā** apostolōrum et commūnicātiōne, in frāctiōne **pānis** et ōrātiōnibus.
 
