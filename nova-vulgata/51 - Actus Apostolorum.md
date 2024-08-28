@@ -24,15 +24,15 @@
 
 10 Cumque intuērentur in caelum, eunte illō, ecce duo virī astitērunt iuxtā illōs in vestibus albīs,
 
-11 quī et dīxērunt: “Virī Galilaeī^[*][galilaei]^, quid stātis aspicientēs in caelum? Hic Iēsūs, quī assūmptus est ā vōbīs in caelum, sīc veniet quemadmodum vīdistis eum euntem in caelum”.
+11 quī et dīxērunt: “Virī Galilaeī [*][galilaei], quid stātis aspicientēs in caelum? Hic Iēsūs, quī assūmptus est ā vōbīs in caelum, sīc veniet quemadmodum vīdistis eum euntem in caelum”.
 
 12 Tunc reversī sunt in Ierūsalēm ā monte, quī vocātur Olīvētī, quī est iuxtā Ierūsalem sabbatī habēns iter.
 
-13 Et cum introīssent, in cēnāculum ascendērunt, ubi manēbant et Petrus et Iōannēs et Iācōbus^[*][jacob]^ et Andrēās^[*][andreas]^, Philippus et Thōmās, Bartholomaeus et Matthaeus, Iācōbus Alphaeī et Simōn Zēlōtēs et Iūdās Iācōbī.
+13 Et cum introīssent, in cēnāculum ascendērunt, ubi manēbant et Petrus et Iōannēs et Iācōbus [*][jacob] et Andrēās [*][andreas], Philippus et Thōmās, Bartholomaeus et Matthaeus, Iācōbus Alphaeī et Simōn Zēlōtēs et Iūdās Iācōbī.
 
 14 Hī omnēs erant persevērantēs ūnanimiter in ōrātiōne cum mulieribus et Marīā mātre Iēsū et frātribus eius.
 
-15 Et in diēbus illīs exsurgēns Petrus in mediō frātrum dīxit — erat autem turba hominum simul fere^[*][fere]^ centum vīgintī C:
+15 Et in diēbus illīs exsurgēns Petrus in mediō frātrum dīxit — erat autem turba hominum simul fere [*][fere] centum vīgintī C:
 
 16 “Virī frātrēs, oportēbat implērī Scrīptūram, quam praedīxit Spīritus Sānctus per ōs Dāvīd dē Iūdā, quī fuit dux eōrum, quī comprehendērunt Iēsum,
 
