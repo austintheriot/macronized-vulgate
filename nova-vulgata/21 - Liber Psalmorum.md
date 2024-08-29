@@ -770,51 +770,51 @@ Quī facit haec, nōn movēbitur in aeternum.
 
 1 Miktam. Dāvīd.
 
-**Cōnservā** mē, Deus, quoniam spērāvī in tē.
+Cōnservā mē, Deus, quoniam spērāvī in tē.
 
-2 Dīxī Dominō: “Dominus meus **es** tū, bonum mihi nōn **est** **sine** tē”.
+2 Dīxī Dominō: “Dominus meus es tū, bonum mihi nōn est sine tē”.
 
-3 In sānctōs, quī sunt in **terrā**, inclitōs virōs,
+3 In sānctōs, quī sunt in terrā, inclitōs virōs,
 
-**omnis** voluntās **mea** in eōs.
+omnis voluntās mea in eōs.
 
 4 Multiplicantur dolōrēs eōrum, quī post deōs aliēnōs accelerāvērunt.
 
 Nōn effundam lībātiōnēs eōrum dē sanguinibus
 
-neque assūmam **nōmina** eōrum in labiīs meīs.
+neque assūmam nōmina eōrum in labiīs meīs.
 
-5 Dominus pars **hērēditātis** meae et calicis meī:
+5 Dominus pars hērēditātis meae et calicis meī:
 
-tū **es** quī dētinēs sortem meam.
+tū es quī dētinēs sortem meam.
 
-6 Fūnēs **cecidērunt** mihi in praeclārīs;
+6 Fūnēs cecidērunt mihi in praeclārīs;
 
-īnsuper et hērēditās **mea** **speciōsa** **est** mihi.
+īnsuper et hērēditās mea speciōsa est mihi.
 
-7 **Benedicam** Dominum, quī tribuit mihi intellēctum;
+7 Benedīcam Dominum, quī tribuit mihi intellēctum;
 
-īnsuper et in noctibus ērudiērunt mē **rēnēs** meī.
+īnsuper et in noctibus ērudiērunt mē rēnēs meī.
 
 8 Prōpōnēbam Dominum in cōnspectū meō semper;
 
-quoniam ā dextrīs **est** mihi, nōn commovēbor.
+quoniam ā dextrīs est mihi, nōn commovēbor.
 
-9 Propter **hoc** laetātum **est** cor meum,
+9 Propter hoc laetātum est cor meum,
 
-et exsultāvērunt praecordia **mea**;
+et exsultāvērunt praecordia mea;
 
-īnsuper et **carō** **mea** requiēscet in spē.
+īnsuper et carō mea requiēscet in spē.
 
 10 Quoniam nōn dērelinquēs animam meam in īnfernō
 
-nec dabis sānctum tuum **vidēre** corruptiōnem.
+nec dabis sānctum tuum vidēre corruptiōnem.
 
-11 **Nōtās** mihi faciēs viās vītae,
+11 Nōtās mihi faciēs viās vītae,
 
 plēnitūdinem laetitiae cum vultū tuō,
 
-dēlectātiōnēs in **dexterā** **tuā** usque in fīnem.
+dēlectātiōnēs in dexterā tuā usque in fīnem.
 
 ### PSALMUS 17
 
