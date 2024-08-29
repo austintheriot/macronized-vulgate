@@ -1839,3 +1839,5 @@ Et mīlitēs quidem haec fēcērunt.
 24 **Hic** **est** discipulus, quī testimōnium perhibet dē hīs et scrīpsit haec; et scīmus quia vērum **est** testimōnium eius.
 
 25 Sunt autem et **alia** **multa**, quae fēcit **Iēsus**; quae, sī scrībantur per **singula**, nec ipsum arbitror mundum capere eōs, quī scrībendī sunt, librōs.
+
+

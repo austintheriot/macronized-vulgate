@@ -166,8 +166,6 @@ rēctās facite sēmitās eius!" ”.
 
 mihi complacuī ”.
 
-
-
 4
 
 1 Tunc **Iēsus** **ductus** **est** in dēsertum ā Spīritū, ut tentārētur ā Diabolō.
@@ -2341,4 +2339,5 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 19 Euntēs ergō docēte omnēs gentēs, baptīzantēs eōs in nōmine Patrīs et Fīliī et **Spīritus** Sānctī,
 
 20 docentēs eōs servāre omnia, quaecumque mandāvī vōbīs. Et ecce ego vōbīscum sum omnibus diēbus usque ad cōnsummātiōnem saeculī ”.
+
 

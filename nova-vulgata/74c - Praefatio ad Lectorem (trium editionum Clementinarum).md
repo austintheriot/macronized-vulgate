@@ -1,6 +1,7 @@
 APPENDIX 
 
 PRAEFATIO AD LECTOREM 
+
 (TRIUM EDITIONUM CLEMENTINARUM)
 
 In multis, magnisque beneficiis, quae per sacram Tridentinam Synodum Ecclesiae suae Deus contulit, id in primis numerandum videtur, quod inter tot Latinas editiones Divinarum Scripturarum, solam veterem ac vulgatam, quae longo tot saeculorum usu in Ecclesia probata fuerat, gravissimo Decreto authenticam declaravit. Nam, ut illud omittamus, quod ex recentibus editionibus non paucae ad haereses huius temporis confirmandas licenter detortae videbantur: ipsa certe tanta versionum varietas, atque diversitas magnam in Ecclesia Dei confusionem parere potuisset. Iam enim hac nostra aetate illud fere evenisse constat, quod sanctus Hieronymus tempore suo accidisse testatus est, tot scilicet fuisse exemplaria, quot codices; cum unusquisque pro arbitrio suo adderet, vel detraheret.
@@ -18,3 +19,5 @@ Accipe igitur, Christiane Lector, eodem Clemente Summo Pontifice annuente, ex Va
 Porro in hac Editione nihil non canonicum, nihil adscititium, nihil extraneum apponere visum est: atque ea causa fuit, cur Liber tertius et quartus Esdrae inscripti, quos inter Canonicos libros sacra Tridentina Synodus non annumeravit, ipsa etiam Manassae regis Oratio, quae neque Hebraice, neque Graece quidem exstat, neque ín manuscriptis antiquioribus invenitur, neque pars est ullius Canonici libri, extra Canonicae Scripturae seriem posita sint: et nullae ad marginem concordantiae (quae posthac inibi apponi non prohibentur), nullae notae, nullae variae lectiones, nullae denique praefationes, nulla argumenta ad librorum initia conspiciantur.
 
 Sed sicut Apostolica Sedes industriam eorum non damnat, qui concordantias locorum, varias lectiones, praefationes sancti Hieronymi, et alia id genus in aliis editionibus inseruerunt; ita quoque non prohibet, quin alio genere characteris in hac ipsa Vaticana editione eiusmodi adiumenta pro studiosorum commoditate, atque utilitate in posterum adiiciantur; ita tamen, ut lectiones variae ad marginem ipsius Textus minime annotentur.
+
+

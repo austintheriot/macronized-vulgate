@@ -1417,3 +1417,5 @@ sinistrīs eius.
 19 Et Dominus quidem **Iēsus**, postquam **locūtus** **est** eīs, assūmptus **est** in caelum et sēdit ā dextrīs Deī.
 
 20 Illī autem **profectī** praedicāvērunt ubīque, Dominō cooperante et sermōnem cōnfirmante, sequentibus signīs.
+
+

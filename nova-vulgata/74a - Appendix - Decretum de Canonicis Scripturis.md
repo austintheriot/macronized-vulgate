@@ -11,3 +11,5 @@ Testamenti Veteris: Quinque Moysis, id est Genesis, Exodus, Leviticus, Numeri, D
 Testamenti Novi: Quattuor Evangelia, secundum Matthaeum, Marcum, Lucam, Ioannem; Actus Apostolorum a Luca Evangelista conscripti; quattuordecim epistulae Pauli Apostoli: ad Romanos, duae ad Corinthios, ad Galatas, ad Ephesios, ad Philippenses, ad Colossenses, duae ad Thessalonicenses, duae ad Timotheum, ad Titum, ad Philemonem, ad Hebraeos; Petri Apostoli duae; Ioannis Apostoli tres; Iacobi Apostoli una; Iudae Apostoli una et Apocalypsis Ioannis Apostoli.
 
 Si quis autem libros ipsos integros cum omnibus suis partibus, prout in Ecclesia catholica legi consueverunt, et in veteri vulgata latina editione habentur, pro sacris et canonicis non susceperit, et traditiones praedictas sciens et prudens contempserit, anathema sit.
+
+
