@@ -2184,8 +2184,8 @@ et sānābō illōs”.
 
 [1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27) [28](#28)
 
-[andreas]: <./00 - Ambiguous Forms.md#andreas>
-[fere]: <./00 - Ambiguous Forms.md#fere>
-[galilaea]: <./00 - Ambiguous Forms.md#galilaea>
-[jacob]: <./00 - Ambiguous Forms.md#jacob>
-[matthias]: <./00 - Ambiguous Forms.md#matthias>
+[andreas]: <Ambiguous Forms.md#andreas>
+[fere]: <Ambiguous Forms.md#fere>
+[galilaea]: <Ambiguous Forms.md#galilaea>
+[jacob]: <Ambiguous Forms.md#jacob>
+[matthias]: <Ambiguous Forms.md#matthias>

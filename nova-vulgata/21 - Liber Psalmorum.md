@@ -11638,5 +11638,5 @@ omne quod spīrat, laudet Dominum. ALLĒLŪIA
 
 [^1] "Mut labben" - vowel length uncertain
 
-[jacob]: <./00 - Ambiguous Forms.md#jacob>
+[jacob]: <Ambiguous Forms.md#jacob>
 
