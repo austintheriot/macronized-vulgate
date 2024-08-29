@@ -722,19 +722,19 @@ quī dēvorant plēbem meam sīcut ēscam pānis?
 
 Dominum nōn invocāvērunt;
 
-5 **illīc** trepidāvērunt timōre,
+5 illīc trepidāvērunt timōre,
 
-quoniam Deus cum generātiōne **iūstā** **est**.
+quoniam Deus cum generātiōne iūstā est.
 
-6 Vōs cōnsilium **inopis** cōnfundētis,
+6 Vōs cōnsilium inopis cōnfundētis,
 
-Dominus autem spēs eius **est**.
+Dominus autem spēs eius est.
 
-7 **Quis** dabit ex Sīōn salūtāre Isrāēl?
+7 Quis dabit ex Sīōn salūtāre Isrāēl?
 
-Cum converterit Dominus captīvitātem **plēbis** suae,
+Cum converterit Dominus captīvitātem plēbis suae,
 
-exsultābit Iācōb, et laetābitur Isrāēl.
+exsultābit Iācōb[*][jacob], et laetābitur Isrāēl.
 
 ### PSALMUS 15
 
@@ -1204,7 +1204,7 @@ Domine, adiūtor meus et **redēmptor** meus.
 
 2 Exaudiat tē Dominus in **diē** trībulātiōnis,
 
-prōtegat tē **nōmen** Deī Iācōb.
+prōtegat tē **nōmen** Deī Iācōb[*][jacob].
 
 3 Mittat tibi auxilium dē sānctō
 
@@ -1404,7 +1404,7 @@ in **mediō** ecclēsiae laudābō tē.
 
 24 Quī timētis Dominum, **laudātē** eum;
 
-ūniversum sēmen Iācōb, **glōrificātē** eum.
+ūniversum sēmen Iācōb[*][jacob], **glōrificātē** eum.
 
 Metuat eum omne sēmen Isrāēl,
 
@@ -1514,7 +1514,7 @@ et iūstificātiōnem ā Deō salūtārī suō.
 
 6 Haec **est** generātiō quaerentium eum,
 
-quaerentium faciem Deī Iācōb.
+quaerentium faciem Deī Iācōb[*][jacob].
 
 7 Attollite, portae, **capita** **vestra**,
 
@@ -3162,7 +3162,7 @@ quoniam complacuistī in eīs.
 
 5 Tū **es** rēx meus et Deus meus,
 
-quī mandās salūtēs Iācōb.
+quī mandās salūtēs Iācōb[*][jacob].
 
 6 In tē inimīcōs nostrōs prōiēcimus,
 
@@ -3366,7 +3366,7 @@ adiuvābit eam Deus **manē** dīlūculō.
 
 8 Dominus virtūtum nōbīscum,
 
-refugium nōbīs Deus Iācōb.
+refugium nōbīs Deus Iācōb[*][jacob].
 
 9 Venīte et vidēte **opera** Dominī,
 
@@ -3384,7 +3384,7 @@ exaltābor in gentibus et exaltābor in **terrā**.
 
 12 Dominus virtūtum nōbīscum,
 
-refugium nōbīs Deus Iācōb.
+refugium nōbīs Deus Iācōb[*][jacob].
 
 ### PSALMUS 47
 
@@ -3404,7 +3404,7 @@ et gentēs sub pedibus nostrīs.
 
 5 Ēlēgit nōbīs hērēditātem nostram,
 
-glōriam Iācōb, quem dīlēxit.
+glōriam Iācōb[*][jacob], quem dīlēxit.
 
 6 Ascendit Deus in iūbilō,
 
@@ -3874,7 +3874,7 @@ cōnfūsī sunt, quoniam Deus sprēvit eōs. -
 
 Cum converterit Deus captīvitātem **plēbis** suae,
 
-exsultābit Iācōb, et laetābitur Isrāēl.
+exsultābit Iācōb[*][jacob], et laetābitur Isrāēl.
 
 ### PSALMUS 54
 
@@ -4276,7 +4276,7 @@ Propter exsecrātiōnem et mendācium, quod loquuntur,
 
 cōnsūme, et nōn erunt;
 
-et scient quia Deus dominābitur Iācōb et fīnium terrae.
+et scient quia Deus dominābitur Iācōb[*][jacob] et fīnium terrae.
 
 15 Revertentur ad vesperam et lātrābunt ut **canēs**
 
@@ -5620,7 +5620,7 @@ bibent omnēs peccātōrēs terrae.
 
 10 Ego autem annūntiābō in saeculum,
 
-cantābō Deō Iācōb.
+cantābō Deō Iācōb[*][jacob].
 
 11 Et omnia cornua peccātōrum cōnfringam,
 
@@ -5650,7 +5650,7 @@ scūtum, gladium et bellum.
 
 et nōn invēnērunt omnēs **virī** fortēs **manūs** suās.
 
-7 Ab increpātiōne **tuā**, Deus Iācōb,
+7 Ab increpātiōne **tuā**, Deus Iācōb[*][jacob],
 
 dormītāvērunt **aurīga** et equus.
 
@@ -5742,7 +5742,7 @@ et in adinventiōnibus tuīs exercēbor.
 
 16 Redēmistī in brāchiō tuō **populum** tuum,
 
-fīliōs Iācōb et Ioseph.
+fīliōs Iācōb[*][jacob] et Ioseph.
 
 17 Vīdērunt tē aquae, Deus,
 
@@ -5794,7 +5794,7 @@ laudēs Dominī et virtūtēs eius
 
 et mīrābilia eius, quae fēcit.
 
-5 Cōnstituit testimōnium in Iācōb
+5 Cōnstituit testimōnium in Iācōb[*][jacob]
 
 et lēgem posuit in Isrāēl;
 
@@ -5876,7 +5876,7 @@ aut parāre carn��s **popul��** suō?”.
 
 21 Ideō audīvit Dominus et exārsit,
 
-et **ignis** **accēnsus** **est** in Iācōb,
+et **ignis** **accēnsus** **est** in Iācōb[*][jacob],
 
 et **īra** ascendit in Isrāēl.
 
@@ -6092,7 +6092,7 @@ et sustulit eum dē gregibus ovium,
 
 71 dē post fētantēs accēpit eum:
 
-**pāscere** Iācōb **populum** suum
+**pāscere** Iācōb[*][jacob] **populum** suum
 
 et Isrāēl hērēditātem suam.
 
@@ -6130,7 +6130,7 @@ Accendētur velut **ignis** zēlus tuus?
 
 et in **rēgna**, quae **nōmen** tuum nōn invocāvērunt,
 
-7 quia comēdērunt Iācōb
+7 quia comēdērunt Iācōb[*][jacob]
 
 et sēdem eius dēsōlāvērunt.
 
@@ -6260,7 +6260,7 @@ et illūstrā faciem tuam, et salvī erimus.
 
 2 **Exsultātē** Deō adiūtōrī nostrō;
 
-**iūbilātē** Deō Iācōb.
+**iūbilātē** Deō Iācōb[*][jacob].
 
 3 Sūmite psalmum et **date** tympanum,
 
@@ -6272,7 +6272,7 @@ in **diē** plēnae lūnae, in sollemnitāte **nostrā**.
 
 5 Quia praeceptum in Isrāēl **est**,
 
-et iūdicium Deō Iācōb.
+et iūdicium Deō Iācōb[*][jacob].
 
 6 Testimōnium in Ioseph posuit illud,
 
@@ -6478,7 +6478,7 @@ vidēbitur Deus deōrum in Sīōn.
 
 9 Domine, Deus virtūtum, exaudī ōrātiōnem meam;
 
-auribus percipe, Deus Iācōb.
+auribus percipe, Deus Iācōb[*][jacob].
 
 10 Prōtēctor noster aspice, Deus,
 
@@ -6506,7 +6506,7 @@ quī ambulant in **innocentiā**.
 
 2 Complacuistī tibi, Domine, in **terrā** **tuā**,
 
-convertistī captīvitātem Iācōb.
+convertistī captīvitātem Iācōb[*][jacob].
 
 3 Remīsistī inīquitātem **plēbis** tuae,
 
@@ -6648,7 +6648,7 @@ Fundāmenta eius in montibus sānctīs;
 
 2 dīligit Dominus portās Sīōn
 
-super omnia tabernācula Iācōb.
+super omnia tabernācula Iācōb[*][jacob].
 
 3 **Glōriōsa** **dicta** sunt dē tē, cīvitās Deī! -
 
@@ -7240,7 +7240,7 @@ et pūpillōs **occīdunt**.
 
 7 Et dīxērunt: “Nōn vidēbit Dominus,
 
-nec intelleget Deus Iācōb”.
+nec intelleget Deus Iācōb[*][jacob]”.
 
 8 Intellegite, īnsipientēs in **populō**;
 
@@ -7540,7 +7540,7 @@ quoniam sānctum **est**.
 
 tū statuistī, quae **rēcta** sunt,
 
-iūdicium et iūstitiam in Iācōb tū fēcistī.
+iūdicium et iūstitiam in Iācōb[*][jacob] tū fēcistī.
 
 5 **Exaltāte** Dominum Deum nostrum
 
@@ -8050,7 +8050,7 @@ prōdigia eius et iūdicia **ōris** eius,
 
 6 sēmen Abraham, servī eius,
 
-fīliī Iācōb, ēlēctī eius.
+fīliī Iācōb[*][jacob], ēlēctī eius.
 
 7 Ipse Dominus Deus noster;
 
@@ -8064,7 +8064,7 @@ verbī, quod mandāvit in mīlle generātiōnēs,
 
 et iūrāmentī **suī** ad Isaac.
 
-10 Et statuit illud Iācōb in praeceptum
+10 Et statuit illud Iācōb[*][jacob] in praeceptum
 
 et Isrāēl in testāmentum aeternum
 
@@ -8118,7 +8118,7 @@ et senēs eius prūdentiam docēret.
 
 23 Et intrāvit Isrāēl in Aegyptum,
 
-et Iācōb peregrīnus fuit in **terrā** Cham.
+et Iācōb[*][jacob] peregrīnus fuit in **terrā** Cham.
 
 24 Et auxit **populum** suum vehementer
 
@@ -8988,7 +8988,7 @@ mātrem fīliōrum laetantem.
 
 In exitū Isrāēl dē Aegyptō,
 
-**domus** Iācōb dē **populō** barbarō,
+**domus** Iācōb[*][jacob] dē **populō** barbarō,
 
 2 **factus** **est** **Iūda** sānctuārium eius,
 
@@ -9012,7 +9012,7 @@ et collēs, sīcut agnī ovium?
 
 7 Ā faciē Dominī contremīsce, **terra**,
 
-ā faciē Deī Iācōb,
+ā faciē Deī Iācōb[*][jacob],
 
 8 quī convertit petram in **stāgna** aquārum
 
@@ -10438,7 +10438,7 @@ et **omnis** mānsuētūdinis eius,
 
 2 quia iūrāvit Dominō,
 
-vōtum vōvit Potentī Iācōb:
+vōtum vōvit Potentī Iācōb[*][jacob]:
 
 3 “Nōn introībō in tabernāculum **domūs** meae,
 
@@ -10450,7 +10450,7 @@ et palpebrīs meīs dormītātiōnem,
 
 5 dōnec inveniam locum Dominō,
 
-tabernāculum Potentī Iācōb”.
+tabernāculum Potentī Iācōb[*][jacob]”.
 
 6 Ecce audīvimus eam **esse** in Ephrathā,
 
@@ -10566,7 +10566,7 @@ in ātriīs **domūs** Deī nostrī.
 
 psallite nōminī eius, quoniam suāve.
 
-4 Quoniam Iācōb ēlēgit sibi Dominus,
+4 Quoniam Iācōb[*][jacob] ēlēgit sibi Dominus,
 
 Isrāēl in pecūlium sibi.
 
@@ -11384,7 +11384,7 @@ in fīliīs hominum, in quibus nōn **est** salūs.
 
 in **illā** **diē** perībunt cōgitātiōnēs eōrum.
 
-5 Beātus, cuius Deus Iācōb **est** adiūtor,
+5 Beātus, cuius Deus Iācōb[*][jacob] **est** adiūtor,
 
 cuius spēs in Dominō Deō suō,
 
@@ -11498,7 +11498,7 @@ ante faciem **frīgoris** eius **quis** sustinēbit?
 
 flābit **spīritus** eius, et fluent aquae.
 
-19 Quī annūntiat verbum suum Iācōb,
+19 Quī annūntiat verbum suum Iācōb[*][jacob],
 
 iūstitiās et iūdicia **sua** Isrāēl.
 
@@ -11637,3 +11637,6 @@ et nōbilēs eōrum in manicīs ferreīs,
 omne quod spīrat, laudet Dominum. ALLĒLŪIA
 
 [^1] "Mut labben" - vowel length uncertain
+
+[jacob]: <./00 - Ambiguous Forms.md#jacob>
+
