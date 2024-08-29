@@ -1,3 +1,7 @@
+LIBER IOSUE 
+
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+
 1
 
 1 Et factum **est**, ut post mortem Moȳsī servī Dominī loquerētur Dominus ad **Iōs**ue fīlium Nun ministrum Moȳsī et dīceret **eī**:

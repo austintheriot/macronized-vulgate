@@ -1,3 +1,7 @@
+LIBER RUTH
+
+1 2 3 4
+
 1
 
 1 In diēbus, quandō iūdicēs praeerant, **facta** **est** famēs in **terrā**. Abiitque homō dē Bethlehem Iūdae, ut peregrīnārētur in regiōne Moabitidē cum uxōre **suā** ac duōbus **līberīs**.
