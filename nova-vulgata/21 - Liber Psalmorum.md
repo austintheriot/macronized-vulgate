@@ -740,29 +740,29 @@ exsultābit Iācōb[*][jacob], et laetābitur Isrāēl.
 
 1 PSALMUS. Dāvīd.
 
-Domine, **quis** habitābit in tabernāculō tuō?
+Domine, quis habitābit in tabernāculō tuō?
 
-**Quis** requiēscet in monte sānctō tuō?
+Quis requiēscet in monte sānctō tuō?
 
-2 Quī ingreditur **sine** **maculā** et operātur iūstitiam,
+2 Quī ingreditur sine maculā et operātur iūstitiam,
 
-quī loquitur vēritātem in **corde** suō,
+quī loquitur vēritātem in corde suō,
 
-3 quī nōn ēgit dolum in **linguā** **suā**
+3 quī nōn ēgit dolum in linguā suā
 
-nec fēcit proximō suō **malum**
+nec fēcit proximō suō malum
 
 et opprobrium nōn intulit proximō suō.
 
-4 Ad nihilum reputātus **est** in cōnspectū eius malignus,
+4 Ad nihilum reputātus est in cōnspectū eius malignus,
 
 timentēs autem Dominum glōrificat.
 
 Quī iūrāvit in dētrīmentum suum et nōn mūtat,
 
-5 quī pecūniam suam nōn **dēdit** ad ūsūram
+5 quī pecūniam suam nōn dedit ad ūsūram
 
-et **mūnera** super innocentem nōn accēpit.
+et mūnera super innocentem nōn accēpit.
 
 Quī facit haec, nōn movēbitur in aeternum.
 
