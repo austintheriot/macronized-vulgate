@@ -892,7 +892,7 @@ satiābor, cum ēvigilāverō, cōnspectū tuō.
 
 1 Magistrō chorī. Dāvīd, servī Dominī,
 
-quī **locūtus** **est** ad Dominum verba huius canticī,
+quī locūtus est ad Dominum verba huius canticī,
 
 quandō Dominus eum līberāverat
 
@@ -900,27 +900,27 @@ quandō Dominus eum līberāverat
 
 2 et ē manū Saūl. Dīxit igitur:
 
-Dīligam tē, Domine, fortitūdō **mea**.
+Dīligam tē, Domine, fortitūdō mea.
 
 3 Domine, firmāmentum meum et refugium meum et līberātor meus;
 
 Deus meus, adiūtor meus, et spērābō in eum;
 
-prōtēctor meus et **cornū** **salūtis** meae et susceptor meus.
+prōtēctor meus et cornū salūtis meae et susceptor meus.
 
 4 Laudābilem invocābō Dominum,
 
-et ab inimīcīs meīs salvus **erō**.
+et ab inimīcīs meīs salvus erō.
 
-5 Circumdedērunt mē **flūctus** **mortis**,
+5 Circumdedērunt mē flūctūs mortis,
 
-et torrentēs Belial conturbāvērunt mē;
+et torrentēs Bēlial conturbāvērunt mē;
 
 6 fūnēs īnfernī circumdedērunt mē,
 
-praeoccupāvērunt mē laqueī **mortis**.
+praeoccupāvērunt mē laqueī mortis.
 
-7 In trībulātiōne **meā** invocāvī Dominum
+7 In trībulātiōne meā invocāvī Dominum
 
 et ad Deum meum clāmāvī;
 

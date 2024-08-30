@@ -1556,13 +1556,13 @@ Porrō Benadad fugiēns **ingressus** **est** cīvitātem in cubiculum, quod era
 
 9 Litterārum autem haec erat **sententia**: “ **Praedicāte** ieiūnium et **sēdēre** facite Naboth in **capite** **populī**
 
-10 et submittite duōs virōs fīliōs Belial contrā eum, et testimōnium **dīcant**: “Maledīxistī Deum et rēgem”; et ēdūcite eum et **lapidāte**, sīcque moriātur ”.
+10 et submittite duōs virōs fīliōs Bēlial contrā eum, et testimōnium **dīcant**: “Maledīxistī Deum et rēgem”; et ēdūcite eum et **lapidāte**, sīcque moriātur ”.
 
 11 Fēcērunt ergō cīvēs eius maiōrēs nātū et optimātēs, quī habitābant cum eō in urbe, sīcut praecēperat eīs Iezabel et sīcut scrīptum erat in litterīs, quās **mīserat** ad eōs.
 
 12 Praedicāvērunt ieiūnium et **sedēre** fēcērunt Naboth in **capite** **populī**;
 
-13 et ingressī duo **virī** fīliī Belial sēdērunt contrā eum et illī, ut **virī** diabolicī, dīxērunt contrā eum testimōnium **cōram** multitūdine: “ Maledīxit Naboth Deum et rēgem ”. Quam ob rem ēdūxērunt eum extrā cīvitātem et lapidibus interfēcērunt;
+13 et ingressī duo **virī** fīliī Bēlial sēdērunt contrā eum et illī, ut **virī** diabolicī, dīxērunt contrā eum testimōnium **cōram** multitūdine: “ Maledīxit Naboth Deum et rēgem ”. Quam ob rem ēdūxērunt eum extrā cīvitātem et lapidibus interfēcērunt;
 
 14 mīsēruntque ad Iezabel dīcentēs: “ Lapidātus **est** Naboth et mortuus **est** ”.
 

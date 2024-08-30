@@ -581,7 +581,7 @@ Et erat bellum inter Abiam et Ieroboam.
 
 6 Et surrēxit Ieroboam fīlius Nābat servus Salomōnis fīliī Dāvīd et rebellāvit contrā dominum suum;
 
-7 congregātīque sunt ad eum **virī** vānissimī, fīliī Belial, et praevaluērunt contrā Roboam fīlium Salomōnis. Porrō Roboam erat **iuvenis** et **corde** pavidō nec potuit **resistere** eīs.
+7 congregātīque sunt ad eum **virī** vānissimī, fīliī Bēlial, et praevaluērunt contrā Roboam fīlium Salomōnis. Porrō Roboam erat **iuvenis** et **corde** pavidō nec potuit **resistere** eīs.
 
 8 Nunc ergō vōs dīcitis quod **resistere** possītis rēgnō Dominī, quod **possidet** per fīliōs Dāvīd, habētisque grandem **populī** multitūdinem atque vitulōs aureōs, quōs fēcit vōbīs Ieroboam in deōs.
 

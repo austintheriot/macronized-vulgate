@@ -35,7 +35,7 @@
 
 15 Respondēns **Annā**: “ Nēquāquam, inquit, domine mī; nam mulier īnfēlīx nimis ego sum: vīnumque et omne, quod inēbriāre potest, nōn bibī, sed effūdī animam meam in cōnspectū Dominī.
 
-16 Nē reputēs ancillam tuam quasi ūnam dē fīliābus Belial, quia ex multitūdine dolōris et maerōris meī **locūta** sum usque in praesēns ”.
+16 Nē reputēs ancillam tuam quasi ūnam dē fīliābus Bēlial, quia ex multitūdine dolōris et maerōris meī **locūta** sum usque in praesēns ”.
 
 17 Tunc Heli ait **eī**: “ **Vade** in pāce, et Deus Isrāēl det tibi petītiōnem, quam rogāstī eum ”.
 
@@ -137,7 +137,7 @@ et sublīmābit **cornū** chrīstī **suī** ”.
 
 11 Et abiit Elcana in Ramā in domum suam. Puer autem erat minister in cōnspectū Dominī ante faciem Hēlī **sacerdōtis**.
 
-12 Porrō fīliī Hēlī fīliī Belial nescientēs Dominum
+12 Porrō fīliī Hēlī fīliī Bēlial nescientēs Dominum
 
 13 neque officium sacerdōtum ad **populum**, sed, quīcumque immolāsset victimam, veniēbat puer **sacerdōtis**, dum coquerentur carnēs, et habēbat fuscinulam tridentem in manū **suā**
 
@@ -551,7 +551,7 @@ Quī dīxērunt:
 
 26 Sed et Saūl abiit in domum suam in Gabaā; et abiērunt cum eō **virī** fortēs, quōrum tetigerat Deus **corda**.
 
-27 Fīliī vērō Belial dīxērunt: “ Num salvāre nōs poterit iste? ”. Et dēspexērunt eum et nōn attulērunt **eī** **mūnera**; ille vērō dissimulābat sē audīre.
+27 Fīliī vērō Bēlial dīxērunt: “ Num salvāre nōs poterit iste? ”. Et dēspexērunt eum et nōn attulērunt **eī** **mūnera**; ille vērō dissimulābat sē audīre.
 
 ## 11
 
@@ -1469,7 +1469,7 @@ Cōnsurgēnsque Dāvīd dēscendit in dēsertum Maon.
 
 16 Prō mūrō erant nōbīs tam in nocte quam in **diē** omnibus diēbus, quibus **pavīmus** apud eōs gregēs.
 
-17 Quam ob rem cōnsīderā et recōgitā quid faciās, quoniam **malum** dēcrētum **est** adversus dominum nostrum et adversus domum eius ūniversam. Et ipse fīlius Belial **est**, **ita** ut nēmō **eī** possit loquī ”.
+17 Quam ob rem cōnsīderā et recōgitā quid faciās, quoniam **malum** dēcrētum **est** adversus dominum nostrum et adversus domum eius ūniversam. Et ipse fīlius Bēlial **est**, **ita** ut nēmō **eī** possit loquī ”.
 
 18 Festīnāvit igitur Abigail et tulit ducentōs pānēs et duōs utrēs vīnī et quīnque arietēs coctōs et quīnque **sata** frūmentī tostī et centum ligātūrās ūvae passae et ducentās massās cāricārum et imposuit super asinōs.
 

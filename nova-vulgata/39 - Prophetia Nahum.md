@@ -104,7 +104,7 @@ Celebrā, **Iūda**, fēstīvitātēs tuās
 
 et redde **vōta** **tua**,
 
-quia nōn adiciet **ultrā** ut pertranseat in tē Belial:
+quia nōn adiciet **ultrā** ut pertranseat in tē Bēlial:
 
 **tōtus** interiit.
 
@@ -381,5 +381,3 @@ plaudent manibus super tē,
 quia super quem nōn trānsiit
 
 **malitia** **tua** semper? ”.
-
-

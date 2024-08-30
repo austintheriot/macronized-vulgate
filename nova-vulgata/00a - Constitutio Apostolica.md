@@ -23,9 +23,3 @@ Volumus denique, ut haec Constitutio Nostra firma et efficax semper sit et ab om
 Datum Romae, apud S. Petrum, die XXV mensis APRILIS in festo s. Marci Evangelistae, anno MCMLXXIX, Pontificatus Nostri primo.
 
 IOANNES PAULUS PP. II
-
- 
-
- 
-
- 

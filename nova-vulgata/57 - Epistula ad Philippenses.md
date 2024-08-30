@@ -1,5 +1,7 @@
 # AD PHILIPPĒNSĒS **EPISTULĀ** SĀNCTĪ PAULĪ APOSTOLĪ
 
+[1](#1) [2](#2) [3](#3) [4](#4)
+
 ## 1
 
 1 Paulus et Tīmotheus servī Chrīstī **Iēsu** omnibus sānctīs in Chrīstō **Iēsu**, quī sunt Philippīs, cum epīscopīs et diāconīs:

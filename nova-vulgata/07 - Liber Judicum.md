@@ -1166,7 +1166,7 @@ In diēbus illīs nōn erat rēx in Isrāēl.
 
 21 Intrōdūxitque eum in domum suam et commixtum migma asinīs praebuit; ac, postquam lāvērunt **pedēs** suōs, recēpit eōs in convīvium.
 
-22 Illīs laetō **corde** epulantibus, vēnērunt **virī** cīvitātis illīus fīliī Belial et circumdantēs domum **senis** forēs pulsāre coepērunt clāmantēs ad dominum **domūs** atque dīcentēs: “ Ēdūc **virum**, quī **ingressus** **est** domum tuam, ut abūtāmur eō ”.
+22 Illīs laetō **corde** epulantibus, vēnērunt **virī** cīvitātis illīus fīliī Bēlial et circumdantēs domum **senis** forēs pulsāre coepērunt clāmantēs ad dominum **domūs** atque dīcentēs: “ Ēdūc **virum**, quī **ingressus** **est** domum tuam, ut abūtāmur eō ”.
 
 23 **Ēgressus**que **est** ad eōs senex et ait: “ Nōlīte, frātrēs, nōlīte facere **mālum** **hoc**, quia **ingressus** **est** homō hospitium meum, et **cessātē** ab hāc **stultitiā**.
 
@@ -1210,7 +1210,7 @@ In diēbus illīs nōn erat rēx in Isrāēl.
 
 12 et mīsērunt nūntiōs ad omnem tribum Beniamin, quī dīcerent: “ Quāle nefās in vōbīs repertum **est**!
 
-13 **Trādite** hominēs fīliōs Belial in Gabaā, quī **hoc** flāgitium perpetrārunt, ut moriantur, et auferātur **malum** dē Isrāēl ”.
+13 **Trādite** hominēs fīliōs Bēlial in Gabaā, quī **hoc** flāgitium perpetrārunt, ut moriantur, et auferātur **malum** dē Isrāēl ”.
 
 Quī nōluērunt frātrum suōrum fīliōrum Isrāēl audīre mandātum,
 
@@ -1335,4 +1335,3 @@ Quī nōluērunt frātrum suōrum fīliōrum Isrāēl audīre mandātum,
 24 Fīliī **quoque** Isrāēl reversī sunt inde illō tempore ūnusquisque ad tribum et familiam suam in possessiōnem suam.
 
 25 In diēbus illīs nōn erat rēx in Isrāēl, sed ūnusquisque, quod sibi rēctum vidēbātur, **hoc** faciēbat.
-
