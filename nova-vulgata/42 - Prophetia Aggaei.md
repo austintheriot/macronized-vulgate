@@ -1,8 +1,8 @@
-**PROPHĒTĪA** AGGAĒĪ
+# **PROPHĒTĪA** AGGAĒĪ
 
-1 2
+[1](#1) [2](#2)
 
-1 
+## 1
 
 1 In annō secundō **Darīī** **rēgis**, in **mēnse** sextō, in **diē** **prīmā** **mēnsīs**, factum **est** verbum Dominī in manū Aggaēī prophētae ad Zorobabel fīlium Salathiel ducem Iūdae et ad Iesuā fīlium Iosedec sacerdōtem magnum dīcēns:
 
@@ -34,7 +34,7 @@
 
 15 In **diē** **vīcēsimā** et **quārta** **mēnsis**, in sextō **mēnse**, in annō secundō **Darīī** **rēgis**.
 
-2
+## 2
 
 1 In septimō **mēnse**, **vīcēsima** et **prīma** **mēnsis**, factum **est** vēr bum Dominī in manū Aggaēī prophētae dīcēns:
 

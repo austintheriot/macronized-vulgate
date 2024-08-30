@@ -1,8 +1,8 @@
-**PROPHĒTĪA** ZACHARĪAE
+# **PROPHĒTĪA** ZACHARĪAE
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14)
 
-1 
+## 1
 
 1 In **mēnse** octāvō, in annō secundō **Dārīī**, factum **est** verbum Dominī ad Zacharīam fīlium Barachiae fīliī Addō prophētam dīcēns:
 
@@ -38,7 +38,7 @@
 
 17 Adhūc clāmā dīcēns: Haec dīcit Dominus exercituum: Adhūc affluent cīvitātēs meae bonīs, et cōnsōlābitur adhūc Dominus **Sīōn** et ēliget adhūc Ierusālem”.
 
-2
+## 2
 
 1 Et **levāvī** oculōs meōs et vīdī, et ecce quattuor cornua;
 
@@ -96,7 +96,7 @@ et ēliget adhūc Ierusālem.
 
 quia cōnsurrēxit dē habitāculō sānctō suō”.
 
-3
+## 3
 
 1 Et ostendit mihi Iesua sacerdōtem magnum stantem **cōram** angelō Dominī; et **Satān** stābat ā dextrīs eius, ut adversārētur **eī**.
 
@@ -118,7 +118,7 @@ quia cōnsurrēxit dē habitāculō sānctō suō”.
 
 10 In **diē** **illa**, ōrāculum Dominī exercituum, vocābit vir amīcum suum subter vītem et subter fīcum”.
 
-4
+## 4
 
 1 Et reversus **est** angelus, quī loquēbātur in mē, et excitāvit mē quasi **virum**, quī excitātur dē somnō suō.
 
@@ -148,7 +148,7 @@ quia cōnsurrēxit dē habitāculō sānctō suō”.
 
 14 Et dīxit: “Istī sunt duo fīliī oleī, quī assistunt Dominātōrī ūniversae terrae”.
 
-5
+## 5
 
 1 Et conversus sum et **levāvī** oculōs meōs et vīdī: et ecce volūmen volāns.
 
@@ -172,7 +172,7 @@ quia cōnsurrēxit dē habitāculō sānctō suō”.
 
 11 Et dīxit ad mē: “Ut aedificētur **eī** **domus** in **terrā** Sennaar; et, postquam **cōnstrūcta** fuerit, pōnētur ibi super basem suam”.
 
-6
+## 6
 
 1 Et rūrsus **levāvī** oculōs meōs et vīdī: et ecce quattuor quadrīgae ēgredientēs dē **mediō** duōrum montium; et montēs, montēs aereī.
 
@@ -204,7 +204,7 @@ quia cōnsurrēxit dē habitāculō sānctō suō”.
 
 15 Et quī procul sunt, venient et aedificābunt in templō Dominī; et sciētis quia Dominus exercituum mīsit mē ad vōs. Erit autem **hoc**, sī **oboedieritis** vōcī Dominī Deī vestrī” ”.
 
-7
+## 7
 
 1 Et factum **est** in annō quārtō **Darīī** **rēgis**, factum **est** verbum Dominī ad Zacharīam in **quārtā** **mēnsis** nōnī, quī **est** Casleu.
 
@@ -234,7 +234,7 @@ quia cōnsurrēxit dē habitāculō sānctō suō”.
 
 14 Et disperdam eōs per omnēs gentēs, quās nesciunt; et **terra** **dēsōlāta** **est** post eōs, **ita** ut nōn **esset** trānsiēns et revertēns. Et posuērunt terram dēsīderābilem in dēsertum ”.
 
-8
+## 8
 
 1 Et factum **est** verbum Dominī exercituum dīcēns:
 
@@ -324,7 +324,7 @@ reliquiās **populī** huius
 
 23 Haec dīcit Dominus exercituum: In diēbus illīs apprehendent decem hominēs ex omnibus linguīs gentium, apprehendent fimbriam **virī** Iūdaeī dīcentēs: “Ībimus vōbīscum; audīvimus enim quoniam Deus vōbīscum **est**” ”.
 
-9
+## 9
 
 1 Ōrāculum.
 
@@ -466,7 +466,7 @@ Frūmentum **succrēscere** facit iuvenēs,
 
 et mustum virginēs.
 
-10  
+## 10
 
 1 **Petite** ā Dominō pluviam
 
@@ -570,7 +570,7 @@ et in nōmine eius ambulābunt ”,
 
 dīcit Dominus.
 
-11
+## 11
 
 1 Aperī, **Libane**, portās tuās,
 
@@ -644,7 +644,7 @@ brāchium eius āriditāte siccētur,
 
 et oculus dexter eius tenebrēscēns obscūrētur ”.
 
-12
+## 12
 
 1 Ōrāculum. Verbum Dominī super Isrāēl et super Iūdam. Ōrāculum Dominī, quī extendit caelum et fundat terram et fingit spīritum hominis in eō:
 
@@ -690,7 +690,7 @@ et mulierēs eōrum seorsum;
 
 et mulierēs eōrum seorsum.
 
-13
+## 13
 
 1 In **diē** **illa** erit fōns patēns domuī Dāvīd et habitantibus Ierusālem prō **peccātīs** et **immunditiā**.
 
@@ -736,7 +736,7 @@ et ego exaudiam eum.
 
 et ipse **dīcet**: “Dominus **est** Deus meus”.
 
-14
+## 14
 
 1 Ecce **venit** diēs Dominō, et dīvidentur **spolia** **tua** in **mediō** tuī,
 

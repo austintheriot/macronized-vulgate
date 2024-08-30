@@ -1,9 +1,9 @@
-**LIBER** SECUNDUS PARALIPOMENON
+# **LIBER** SECUNDUS PARALIPOMENON
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 
-28 29 30 31 32 33 34 35 36  
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27)
+[28](#28) [29](#29) [30](#30) [31](#31) [32](#32) [33](#33) [34](#34) [35](#35) [36](#36)
 
-1 
+## 1
 
 1 Cōnfortātus **est** ergō Salomōn fīlius Dāvīd in rēgnō suō, et Dominus Deus eius erat cum eō et magnificāvit eum in excelsum.
 
@@ -41,7 +41,7 @@
 
 18 Dēcrēvit autem Salomōn aedificāre domum nōminī Dominī et palātium sibi.
 
-2
+## 2
 
 1 Et numerāvit septuāgintā **mīlia** **virōrum** portantium **umerīs** et octōgintā **mīlia**, quī caederent lapidēs in montibus, praepositōsque eōrum tria **mīlia** sēscentōs.
 
@@ -77,7 +77,7 @@
 
 17 Fēcitque ex eīs septuāgintā **mīlia**, quī **umerīs** **onera** portārent, et octōgintā **mīlia**, quī lapidēs in montibus caederent; tria autem **mīlia** et sēscentōs praepositōs operum **populī**.
 
-3
+## 3
 
 1 Et coepit Salomōn aedificāre domum Dominī in Ierusālem in monte Mōria, quī dēmōnstrātus fuerat ā Dāvīd patre eius, in locō, quem parāverat Dāvīd in **āreā** **Ōrnān** Iebusaēī.
 
@@ -113,7 +113,7 @@
 
 17 Ipsās **quoque** columnās posuit ante faciem templī, ūnam ā dextrīs et alteram ā sinistrīs; eam, quae ā dextrīs erat, vocāvit Iachin et, quae ad laevam, Booz.
 
-4
+## 4
 
 1 Fēcit **quoque** altāre aēneum vīgintī cubitōrum longitūdinis et vīgintī cubitōrum lātitūdinis et decem cubitōrum
 
@@ -159,7 +159,7 @@
 
 22 cultrōs **quoque** et phialās et sartāginēs et tūribula ex aurō pūrissimō. Et ōstia templī interiōra in **sāncta** sānctōrum et ōstia templī forīnsecus **aurea**.
 
-5
+## 5
 
 1 Sīcque complētum **est** omne opus, quod fēcit Salomōn in domō Dominī. Intulit igitur Salomōn omnia, quae vōverat Dāvīd pater suus, argentum et aurum, et **ūniversa** vāsa posuit in thēsaurīs **domus** Deī.
 
@@ -189,7 +189,7 @@
 
 14 nec potuērunt sacerdōtēs stāre et ministrāre propter nūbem; complēverat enim **glōria** Dominī domum Deī.
 
-6
+## 6
 
 1 Tunc Salomōn ait: “ Dominus pollicitus **est**, ut habitāret in cālīgine;
 
@@ -275,7 +275,7 @@
 
 42 Domine Deus, nē **āverteris** faciem chrīstī tuī; mementō misericordiārum Dāvīd servī tuī ”.
 
-7
+## 7
 
 1 Cumque complēsset Salomōn fundēns precēs, **ignis** dēscendit dē caelō et dēvorāvit holocaustum et victimās, et maiestās Dominī implēvit domum.
 
@@ -321,7 +321,7 @@
 
 22 Respondēbuntque: “Quia dērelīquērunt Dominum, Deum patrum suōrum, quī ēdūxit eōs dē **terrā** Aegyptī, et apprehendērunt deōs aliēnōs et adōrāvērunt eōs et coluērunt, idcircō vēnērunt super eōs **ūniversa** haec **mala**” ”.
 
-8
+## 8
 
 1 **Explētīs** autem vīgintī annīs, postquam aedificāvit Salomōn domum Dominī et domum suam,
 
@@ -359,7 +359,7 @@
 
 18 Mīsit autem **eī** Hīram per **manūs** servōrum suōrum nāvēs et nautās gnārōs **maris**; et abiērunt cum servīs Salomōnis in Ophir tulēruntque inde **quadringenta** quīnquāgintā talenta aurī et attulērunt ad rēgem Salomōnem.
 
-9
+## 9
 
 1 **Rēgīna** **quoque** **Saba**, cum audīsset fāmam Salomōnis, **venit**, ut tentāret eum in aenigmatibus in Ierusālem cum magnō comitātū et camēlīs, quī portābant arōmata et aurī plūrimum gemmāsque pretiōsās. Cumque vēnisset ad Salomōnem, **locūta** **est** **eī**, quaecumque erant in **corde** suō.
 
@@ -423,7 +423,7 @@
 
 31 dormīvitque cum patribus **suīs**, et sepeliērunt eum in cīvitāte Dāvīd patris eius. Rēgnāvitque Roboam fīlius eius prō eō.
 
-10
+## 10
 
 1 **Profectus** **est** autem Roboam in Sichem; illūc enim cūnctus Isrāēl convēnerat, ut cōnstituerent eum rēgem.
 
@@ -483,7 +483,7 @@ Et abiit Isrāēl in tabernācula **sua**.
 
 19 Recessitque Isrāēl ā domō Dāvīd usque ad diem hanc.
 
-11
+## 11
 
 1 **Venit** autem Roboam in Ierusālem et convocāvit ūniversam domum Iūdae et Beniamin, centum octōgintā **mīlia** **ēlēctōrum** bellantium, ut dīmicāret contrā Isrāēl et converteret ad sē rēgnum suum.
 
@@ -531,7 +531,7 @@ Et abiit Isrāēl in tabernācula **sua**.
 
 23 Et sapienter fīliōs suōs dispersit in cūnctīs fīnibus Iūdae et Beniamin in ūniversīs cīvitātibus **mūrātis**. Praebuitque eīs **ēscās** plūrimās et multās petīvit uxōrēs.
 
-12
+## 12
 
 1 Cumque rōborātum fuisset rēgnum Roboam et cōnfortā tum, dērelīquit lēgem Dominī, et **omnīs** Isrāēl cum eō.
 
@@ -565,7 +565,7 @@ Et abiit Isrāēl in tabernācula **sua**.
 
 16 Et dormīvit Roboam cum patribus **suīs** sepultusque **est** in cīvitāte Dāvīd; et rēgnāvit Abia fīlius eius prō eō.
 
-13
+## 13
 
 1 Annō octāvō decimō **rēgis** Ieroboam rēgnāvit Abia super Iūdam.
 
@@ -615,7 +615,7 @@ Et erat bellum inter Abiam et Ieroboam.
 
 23 Dormīvit autem Abia cum patribus **suīs**, et sepeliērunt eum in cīvitāte Dāvīd; rēgnāvitque Asa fīlius eius prō eō. In cuius diēbus quiēvit **terra** annīs decem.
 
-14
+## 14
 
 1 Fēcit autem Asa, quod bonum et placitum erat in cōnspectū Dominī Deī **suī**, et subvertit altāria peregrīnī **cultūs** et **excelsa**
 
@@ -645,7 +645,7 @@ Et erat bellum inter Abiam et Ieroboam.
 
 14 Sed et caulās ovium dēstruentēs tulērunt pecorum īnfīnītam multitūdinem et camēlōrum reversīque sunt Ierusālem.
 
-15
+## 15
 
 1 Azarīās autem fīlius Oded, factō in sē spīritū Deī,
 
@@ -685,7 +685,7 @@ Et erat bellum inter Abiam et Ieroboam.
 
 19 Bellum vērō nōn fuit usque ad trīcēsimum quīntum annum rēgnī Asa.
 
-16
+## 16
 
 1 Annō autem trīcēsimō sextō rēgnī eius ascendit Baasā rēx Isrāēl in Iūdam; et mūrō circumdabat Rama, ut nūllus **tūte** posset ēgredī et ingredī dē rēgnō Asa.
 
@@ -715,7 +715,7 @@ Et erat bellum inter Abiam et Ieroboam.
 
 14 Et sepeliērunt eum in sepulcrō suō, quod fōderat sibi in cīvitāte Dāvīd; posuēruntque eum super **lectum** plēnum arōmatibus et variīs unguentīs, quae erant pigmentāriōrum **arte** **cōnfecta**, et fēcērunt in exsequiīs eius combustiōnem splendidam valdē.
 
-17
+## 17
 
 1 Rēgnāvit autem Iosaphat fīlius eius prō eō et invaluit contrā Isrāēl.
 
@@ -755,7 +755,7 @@ Et erat bellum inter Abiam et Ieroboam.
 
 19 Hī omnēs erant ad **manum** **rēgis**, exceptīs aliīs, quōs posuerat in urbibus **mūrātīs** in ūniversō **Iūda**.
 
-18
+## 18
 
 1 Fuit ergō Iosaphat dīves et inclitus multum et affīnitāte **coniūnctus** **est** Achab.
 
@@ -835,7 +835,7 @@ Et dīxit Dominus:
 
 34 Et **aggravāta** **est** **pugna** in **diē** illō; porrō rēx Isrāēl stābat in currū suō contrā **Syrōs** usque ad vesperam et mortuus **est** **occidente** **sōle**.
 
-19
+## 19
 
 1 Reversus **est** autem Iosaphat rēx Iūdae in domum suam **pācificē** in Ierusālem.
 
@@ -859,7 +859,7 @@ Et dīxit Dominus:
 
 11 Amariās autem sacerdōs prīnceps super vōs in omnibus, quae ad Deum pertinent, praesidēbit; porrō Zabadiās fīlius Ismaēl, quī **est** dux in domō Iūdae, super **ea** **opera** erit, quae ad **rēgis** officium pertinent; habētisque Lēvītās **cōram** vōbīs ut scrībās. Cōnfortāminī et agite dīligenter, et sit Dominus cum bonīs ”.
 
-20
+## 20
 
 1 Post haec congregātī sunt fīliī Moab et fīliī Ammōn et cum eīs dē Meunitis ad Iosaphat, ut pugnārent contrā eum.
 
@@ -935,7 +935,7 @@ Et dīxit Dominus:
 
 37 Prophētāvit autem Eliezer fīlius Dōdiae dē Maresā contrā Iosaphat dīcēns: “ Quia habuistī foedus cum Ochozīā, percussit Dominus **opera** **tua** ”. Contrītaeque sunt nāvēs nec potuērunt īre in Tharsīs.
 
-21
+## 21
 
 1 Dormīvit autem Iosaphat cum patribus **suīs** et sepultus **est** cum eīs in cīvitāte Dāvīd; rēgnāvitque Ioram fīlius eius prō eō.
 
@@ -977,7 +977,7 @@ Et dīxit Dominus:
 
 20 Trīgintā duōrum annōrum fuit, cum rēgnāre coepisset, et octo annīs rēgnāvit in Ierusālem. Obiitque nūllō relictō dēsīderiō **suī**; et sepeliērunt eum in cīvitāte Dāvīd, vērumtamen nōn in sepulcrō rēgum.
 
-22
+## 22
 
 1 Cōnstituērunt autem habitātōrēs Ierusālem Ochoziam fīlium eius minimum rēgem prō eō; omnēs enim maiōrēs nātū interfēcerat **turbā**, quae irruerat cum Ārabibus in **castra**. Rēgnāvitque Ochozīās fīlius Ioram **rēgis** Iūdae.
 
@@ -1007,7 +1007,7 @@ Nec erat aliquis dē stirpe Ochoziae, quī posset rēgnāre.
 
 12 Fuit ergō cum eīs in domō Deī absconditus sex annīs, quibus rēgnāvit Athalia super terram.
 
-23
+## 23
 
 1 Annō autem septimō cōnfortātus Ioiadā assūmpsit centuriōnēs, Azariam vidēlicet fīlium Ieroham et Ismaēl fīlium Iohanān, Azariam **quoque** fīlium Obed et Maasiam fīlium Adāiae et Elisaphat fīlium Zechrī, et iniit cum eīs foedus.
 
@@ -1051,7 +1051,7 @@ Nec erat aliquis dē stirpe Ochoziae, quī posset rēgnāre.
 
 21 Laetātusque **est** **omnis** **populus** terrae, et urbs quiēvit; porrō Athalia **interfecta** **est** gladiō.
 
-24
+## 24
 
 1 Septem annōrum erat Ioās, cum rēgnāre coepisset, et quadrāgintā annīs rēgnāvit in Ierusālem. **Nōmen** mātris eius Sebia dē Bersabee.
 
@@ -1107,7 +1107,7 @@ Nec erat aliquis dē stirpe Ochoziae, quī posset rēgnāre.
 
 27 Porrō dē fīliīs eius, dē **summā** tribūtī, quod impositum fuerat sub eō, et dē īnstaurātiōne **domūs** Deī scrīptum **est** in commentāriīs librī rēgum. Rēgnāvitque Amasīās fīlius eius prō eō.
 
-25
+## 25
 
 1 Vīgintī quīnque annōrum erat Amasīās, cum rēgnāre coepisset, et vīgintī novem annīs rēgnāvit in Ierusālem. **Nōmen** mātris eius Ioaden dē Ierusālem.
 
@@ -1165,7 +1165,7 @@ Nec erat aliquis dē stirpe Ochoziae, quī posset rēgnāre.
 
 28 Reportantēsque super equōs sepeliērunt eum cum patribus **suīs** in cīvitāte Dāvīd.
 
-26
+## 26
 
 1 **Omnīs** autem **populus** Iūdae Oziam annōrum sēdecim cōnstituit rēgem prō patre suō **Amasīā**.
 
@@ -1211,7 +1211,7 @@ Nec erat aliquis dē stirpe Ochoziae, quī posset rēgnāre.
 
 23 Dormīvitque Ozīās cum patribus **suīs**, et sepeliērunt eum in agrō rēgālium sepulcrōrum, eō quod dīcēbant: “ Erat leprōsus ”. Rēgnāvitque Ioatham fīlius eius prō eō.
 
-27
+## 27
 
 1 Vīgintī quīnque annōrum erat Ioatham, cum rēgnāre coepisset, et sēdecim annīs rēgnāvit in Ierusālem. **Nōmen** mātris eius Ierūsa **fīlia** Sadoc.
 
@@ -1231,7 +1231,7 @@ Nec erat aliquis dē stirpe Ochoziae, quī posset rēgnāre.
 
 9 Dormīvitque Ioatham cum patribus **suīs**, et sepeliērunt eum in cīvitāte Dāvīd; et rēgnāvit Achaz fīlius eius prō eō.
 
-28
+## 28
 
 1 Vīgintī annōrum erat Achaz, cum rēgnāre coepisset, et sēdecim annīs rēgnāvit in Ierusālem. Nōn fēcit rēctum in cōnspectū Dominī sīcut Dāvīd pater eius,
 
@@ -1287,7 +1287,7 @@ Nec erat aliquis dē stirpe Ochoziae, quī posset rēgnāre.
 
 27 Dormīvitque Achaz cum patribus **suīs**, et sepeliērunt eum in cīvitāte Ierusālem; nōn autem posuērunt eum in sepulcra rēgum Isrāēl. Rēgnāvitque Ezechiās fīlius eius prō eō.
 
-29
+## 29
 
 1 Igitur Ezechiās rēgnāre coepit, cum vīgintī quīnque **esset** annōrum, et vīgintī novem annīs rēgnāvit in Ierusālem. **Nōmen** mātris eius Abī **fīlia** Zacharīae.
 
@@ -1363,7 +1363,7 @@ Restitūtus **est** **ita** **cultūs** **domūs** Dominī.
 
 36 Laetātusque **est** Ezechiās et **omnis** **populus** dē eō, quod parāvit Dominus **populō**; **repente** quippe **hoc** factum **est**.
 
-30
+## 30
 
 1 Mīsit **quoque** Ezechiās ad omnem Isrāēl et Iūdam scrīpsitque et epistulās ad Ephraim et **Mānāssen**, ut venīrent ad domum Dominī in Ierusālem et facerent **Pascha** Dominō, Deō Isrāēl.
 
@@ -1419,7 +1419,7 @@ Restitūtus **est** **ita** **cultūs** **domūs** Dominī.
 
 27 Surrēxērunt autem sacerdōtēs lēvīticī **generis** benedīcentēs **populō**; et **exaudīta** **est** vōx eōrum, **pervēnit**que ōrātiō eōrum in habitāculum sānctum eius in caelum.
 
-31
+## 31
 
 1 Cumque haec fuissent rīte **celebrāta**, **ēgressus** **est** **omnis** Isrāēl, quī **inventus** fuerat in urbibus Iūdae, et frēgērunt simulācra succīdēruntque pālōs, dēmōlītī sunt **excelsa** et altāria dēstrūxērunt nōn **sōlum** dē ūniversō **Iūda** et Beniamin, sed et dē Ephraim **quoque** et Mānāsse, dōnec **penitus** ēverterent. Reversīque sunt omnēs fīliī Isrāēl in possessiōnēs et cīvitātēs suās.
 
@@ -1463,7 +1463,7 @@ Restitūtus **est** **ita** **cultūs** **domūs** Dominī.
 
 21 Et in ūniversō opere, quod coepit in servitiō **domūs** Deī, et iuxtā lēgem et praeceptum volēns **requīrere** Deum suum, in **tōtō** **corde** suō operātus et prōsperātus **est**.
 
-32
+## 32
 
 1 Post quae et huiuscemodī fidem **vēnit** Sennacherib rēx Assyriōrum et **ingressūs** Iūdam obsēdit cīvitātēs mūnītās volēns eās capere.
 
@@ -1531,7 +1531,7 @@ Restitūtus **est** **ita** **cultūs** **domūs** Dominī.
 
 33 Dormīvitque Ezechiās cum patribus **suīs**, et sepeliērunt eum in ascēnsū ad sepulcra fīliōrum Dāvīd; et celebrāvit eius exsequiās ūniversus **Iūda** et omnēs habitātōrēs Ierusālem. Rēgnāvitque Mānāssēs fīlius eius prō eō.
 
-33
+## 33
 
 1 Duodecim annōrum erat Mānāssēs, cum rēgnāre coepisset, et quīnquāgintā quīnque annīs rēgnāvit in Ierusālem.
 
@@ -1583,7 +1583,7 @@ Restitūtus **est** **ita** **cultūs** **domūs** Dominī.
 
 25 Porrō **populus** terrae, caesīs omnibus, quī cōnspīrāverant contrā rēgem Amōn, constī tuit rēgem Iosiam fīlium eius prō eō.
 
-34
+## 34
 
 1 Octo annōrum erat Iosīās, cum rēgnāre coepisset, et trīgintā et ūnō annīs rēgnāvit in Ierusālem.
 
@@ -1653,7 +1653,7 @@ Rettulēruntque itaque **rēgī** **cūncta**, quae dīxerat.
 
 33 Abstulit ergō Iosīās cūnctās abōminātiōnēs dē ūniversīs regiōnibus fīliōrum Isrāēl et fēcit omnēs, quī inventī erant in Isrāēl, servīre Dominō Deō suō. Cūnctīs diēbus eius nōn recessērunt ā Dominō, Deō patrum suōrum.
 
-35
+## 35
 
 1 Fēcit autem Iosiās in Ierusalem **Pascha** Dominō, quod immolātum **est** **quārta** **decima** **diē** **mēnsis** prīmī.
 
@@ -1709,7 +1709,7 @@ Rettulēruntque itaque **rēgī** **cūncta**, quae dīxerat.
 
 27 **gesta** **quoque** illīus **prīma** et **novissima** **scrīpta** sunt in **librō** rēgum Isrāēl et Iūdae.
 
-36
+## 36
 
 1 Tulit ergō **populus** terrae Ioachaz fīlium Iosiae et cōnstituit rēgem prō patre suō in Ierusālem.
 

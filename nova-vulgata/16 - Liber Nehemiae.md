@@ -1,8 +1,8 @@
-**LIBER** NEHĒMIAE 
+# **LIBER** NEHĒMIAE
 
-1 2 3 4 5 6 7 8 9 10 11 12 13
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13)
 
-1 
+## 1
 
 1 Verba Nehēmiae fīliī Hachaliae. Et factum **est** in **mēnse** Casleū, annō vīcēsimō, et ego eram in castrō Sūsan.
 
@@ -26,7 +26,7 @@
 
 11 Obsecrō, Domine, sit **auris** **tua** attendēns ad ōrātiōnem servī tuī et ad ōrātiōnem servōrum tuōrum, quī volunt timēre **nōmen** tuum; et fac servum tuum prōsperārī hodiē et dā **eī** grātiam ante **virum** hunc ”. Ego enim eram **pincerna** **rēgis**.
 
-2
+## 2
 
 1 Factum **est** autem in **mēnse** **Nīsan**, annō vīcēsimō **Artaxerxīs** **rēgis**, dum biberet, **levāvī** vīnum et **dedī** **rēgī**; nōn enim eram ingrātus **cōram** eō.
 
@@ -68,7 +68,7 @@
 
 20 Et **dedī** eīs respōnsum dīcēns: “ Deus caelī ipse nōs facit prōsperārī, et nōs servī eius sumus; surgāmus et aedificēmus. Vōbīs autem nōn **est** pars et iūs et **memoriā** in Ierusālem ”.
 
-3
+## 3
 
 1 Et surrēxit Eliasib sacerdōs magnus et frātrēs eius sacerdōtēs et aedificāvērunt portam Gregis; contignāvērunt eam et statuērunt valvās eius et usque ad turrim Meah et turrim Hananeel.
 
@@ -146,7 +146,7 @@
 
 38 Itaque aedificāvimus mūrum, et compositus **est** **tōtus** mūrus usque ad partem dīmidiam, et **populus** dabat cor suum, ut operārētur.
 
-4
+## 4
 
 1 Factum **est** autem cum audīsset Sanabāllat et Thobīās et Ārabēs et Ammanitae et Azotīī quod prōsperārētur restaurātiō mūrī Ierusālem et quod coepissent **interrupta** conclūdī, īrātī sunt nimis;
 
@@ -182,7 +182,7 @@
 
 17 Ego autem et frātrēs meī et puerī meī et cūstōdēs, quī erant post mē, nōn dēpōnēbāmus vestīmenta **nostra**; ūnusquisque tenēbat gladium in **dexterā** **suā**.
 
-5
+## 5
 
 1 Et **factus** **est** clāmor **populī** et uxōrum eius magnus adversus frātrēs suōs Iūdaeōs.
 
@@ -222,7 +222,7 @@
 
 19 Mementō meī, Deus meus, in bonum, secundum omnia, quae fēcī **populō** huic.
 
-6
+## 6
 
 1 Factum **est** autem cum audīsset Sanabāllat et Thobiās et Gosem Ārabs et cēterī inimīcī nostrī, quod aedificāssem ego mūrum, et nōn **esset** in ipsō **residua** interruptiō — usque ad tempus autem illud valvās nōn posueram in portīs —
 
@@ -262,7 +262,7 @@
 
 19 Sed et laudābant eum **cōram** mē et verba **mea** nūntiābant **eī**; et Thobīās mittēbat epistulās, ut terrēret mē.
 
-7
+## 7
 
 1 Postquam autem aedificātus **est** mūrus, et posuī valvās et recēnsuī iānitōrēs et cantōrēs et Lēvītās,
 
@@ -412,7 +412,7 @@ Numerus **virōrum** **populī** Isrāēl:
 
 Et vēnerat **mēnsis** septimus; fīliī autem Isrāēl erant in cīvitātibus **suīs**.
 
-8
+## 8
 
 1 **Congregātus**que **est** **omnis** **populus** quasi vir ūnus ad **platēam**, quae **est** ante portam Aquārum, et dīxērunt Esdrae scrībae, ut afferret librum **lēgis** Moȳsī, quam praecē perat Dominus Israēlī.
 
@@ -450,7 +450,7 @@ Et vēnerat **mēnsis** septimus; fīliī autem Isrāēl erant in cīvitātibus 
 
 18 **Lēgit** autem in **librō** **lēgis** Deī per diēs singulōs, ā **diē** prīmō usque ad diem novissimum; et fēcērunt sollemnitātem septem diēbus et in **diē** octāvō conventum iuxtā ōrdinātiōnem.
 
-9
+## 9
 
 1 In **diē** autem vīcēsimō quārtō **mēnsis** huius convēnērunt fīliī Isrāēl in ieiūniō et in saccīs, et humus super eōs.
 
@@ -750,7 +750,7 @@ secundum voluntātem suam,
 
 et in trībulātiōne **magnā** sumus ”.
 
-10
+## 10
 
 1 “ Super omnibus ergō hīs nōs ipsī percutimus foedus et scrībimus, et signant prīncipēs nostrī, Lēvītae nostrī et sacerdōtēs nostrī ”.
 
@@ -832,7 +832,7 @@ et in trībulātiōne **magnā** sumus ”.
 
 40 Ad gazophylācium enim dēportābunt fīliī Isrāēl et fīliī **Levī** prīmitiās frūmentī, vīnī et oleī; et ibi erunt vāsa **sānctificāta** et sacerdōtēs, quī ministrābant, et iānitōrēs et cantōrēs. Et nōn dīmittēmus domum Deī nostrī.
 
-11
+## 11
 
 1 Habitāvērunt autem prīncipēs **populī** in Ierusālem; **reliqua** vērō plēbs mīsit sortem, ut addūcerent ūnum **virum** dē decem ad habitandum in Ierusālem cīvitāte **sānctā**, novem vērō partēs in cīvitātibus.
 
@@ -906,7 +906,7 @@ et in trībulātiōne **magnā** sumus ”.
 
 36 Et dē **Lēvītīs** portiōnēs in **Iūda** et Beniamin.
 
-12
+## 12
 
 1 Hī sunt autem sacerdōtēs et Lēvītae, quī ascendērunt cum Zorobabel fīliō Salathiel et Iesua: Sarāia, Iēremīās, Esdrās,
 
@@ -1000,7 +1000,7 @@ et in trībulātiōne **magnā** sumus ”.
 
 47 Et **omnīs** Isrāēl in diēbus Zorobabel et in diēbus Nehemiae dabant partēs cantōribus et iānitōribus per diēs singulōs partem suam et partēs cōnsecrābant **Lēvītīs**, et Lēvītae cōnsecrābant fīliīs Aarōn.
 
-13
+## 13
 
 1 In **diē** autem illō **lectum** **est** in volūmine Moȳsī, audiente **populō**, et inventum **est** scrīptum in eō quod nōn dēbeant introīre Ammonītēs et Mōabītēs in ecclēsiam Deī usque in aeternum,
 

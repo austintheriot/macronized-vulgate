@@ -1,8 +1,8 @@
-AD CORINTHIŌS **EPISTULĀ** IĪ SĀNCTĪ PAULĪ APOSTOLĪ
+# AD CORINTHIŌS **EPISTULĀ** IĪ SĀNCTĪ PAULĪ APOSTOLĪ
 
-1 2 3 4 5 6 7 8 9 10 11 12 13
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13)
 
-1 
+## 1
 
 1 Paulus, apostolus Chrīstī **Iēsu** per voluntātem Deī, et Tīmotheus frāter ecclēsiae Deī, quae **est** Corinthī, cum sānctīs omnibus, quī sunt in **ūniversā** **Achāiā**:
 
@@ -52,7 +52,7 @@ AD CORINTHIŌS **EPISTULĀ** IĪ SĀNCTĪ PAULĪ APOSTOLĪ
 
 24 Nōn quia domināmur fideī vestrae, sed adiūtōrēs sumus gaudiī vestrī, nam **fide** stetistis.
 
-2
+## 2
 
 1 Statuī autem **hoc** ipse apud mē, nē iterum in **trīstitiā** venīrem ad vōs;
 
@@ -88,7 +88,7 @@ AD CORINTHIŌS **EPISTULĀ** IĪ SĀNCTĪ PAULĪ APOSTOLĪ
 
 17 Nōn enim sumus sīcut plūrimī adulterantēs verbum Deī, sed sīcut ex sincēritāte, sed sīcut ex Deō **cōram** Deō in Chrīstō loquimur.
 
-3
+## 3
 
 1 Incipimus iterum nosmetipsōs commendāre? Aut numquid egēmus, sīcut quīdam, commendātīciīs epistulīs ad vōs aut ex vōbīs?
 
@@ -124,11 +124,11 @@ AD CORINTHIŌS **EPISTULĀ** IĪ SĀNCTĪ PAULĪ APOSTOLĪ
 
 17 Dominus autem **Spīritus** **est**; ubi autem **Spīritus** Dominī, ibi lībertās.
 
-18 Nōs vērō omnēs **revēlāta** faciē glōriam Dominī speculantēs, in eandem imāginem trānsfōrmāmur ā clāritāte in clarita tem tamquam ā Dominī Spīritū. 
+18 Nōs vērō omnēs **revēlāta** faciē glōriam Dominī speculantēs, in eandem imāginem trānsfōrmāmur ā clāritāte in clarita tem tamquam ā Dominī Spīritū.
 
- 
 
-4
+
+## 4
 
 1 Ideō habentēs hanc **ministra** tiōnem, iuxtā quod misericor dīam cōnsecūtī sumus, nōn dēficimus,
 
@@ -166,7 +166,7 @@ AD CORINTHIŌS **EPISTULĀ** IĪ SĀNCTĪ PAULĪ APOSTOLĪ
 
 18 nōn contemplantibus nōbīs, quae videntur, sed quae nōn videntur; quae enim videntur, temporālia sunt, quae autem nōn videntur, **aeterna** sunt.
 
-5
+## 5
 
 1 Scīmus enim quoniam, sī terrē stris **domus** **nostra** huius taber nāculī dissolvātur, aedificātiōnem ex Deō habēmus domum nōn manufactam, aeternam in caelīs.
 
@@ -210,7 +210,7 @@ AD CORINTHIŌS **EPISTULĀ** IĪ SĀNCTĪ PAULĪ APOSTOLĪ
 
 21 **Ēum**, quī nōn nōverat peccātum, prō nōbīs peccātum fēcit, ut nōs efficerēmur **iūstitia** Deī in ipsō.
 
-6
+## 6
 
 1 Adiuvantēs autem et exhor tamur, nē in vacuum grātiam Deī recipiātis
 
@@ -268,7 +268,7 @@ et vōs eritis mihi in fīliōs et fīliās,
 
 dīcit Dominus omnipotēns ”.
 
-7
+## 7
 
 1 Hās igitur habentēs prōmissiō nēs, cārissimī, mundēmus nōs ab omnī inquināmentō **carnis** et **spīritūs**, perficientēs sānctificātiōnem in timōre Deī.
 
@@ -302,11 +302,11 @@ In cōnsōlātiōne autem **nostrā** abundantius **magis** gāvīsī sumus supe
 
 15 Et vīscera eius abundantius in vōs sunt, **reminīscentīs** omnium vestrum oboedientiam, quōmodo cum timōre et tremōre excēpistis eum.
 
-16 Gaudeō quod in omnibus cōnfīdō in vōbīs. 
+16 Gaudeō quod in omnibus cōnfīdō in vōbīs.
 
- 
 
-8
+
+## 8
 
 1 **Notam** autem facimus vōbīs, frātrēs, grātiam Deī, quae **data** **est** in ecclēsiīs **Macedoniae**,
 
@@ -356,7 +356,7 @@ In cōnsōlātiōne autem **nostrā** abundantius **magis** gāvīsī sumus supe
 
 24 Ostēnsiōnem ergō, quae **est** cāritātis vestrae et nostrae glōriātiōnis prō vōbīs, in illōs ostendite in faciem ecclēsiārum.
 
-9
+## 9
 
 1 Nam dē ministeriō, quod fit in sānctōs, superfluum **est** mihi **scrībere** vōbīs;
 
@@ -392,7 +392,7 @@ In cōnsōlātiōne autem **nostrā** abundantius **magis** gāvīsī sumus supe
 
 15 **Grātiās** Deō super inēnārrābilī dōnō eius.
 
-10
+## 10
 
 1 Ipse autem ego Paulus obse crō vōs per mānsuētūdinem et modestiam Chrīstī, quī in faciē quidem **humilis** inter vōs, absēns autem cōnfīdō in vōbīs;
 
@@ -430,7 +430,7 @@ In cōnsōlātiōne autem **nostrā** abundantius **magis** gāvīsī sumus supe
 
 18 nōn enim quī sēipsum commendat, ille probātus **est**, sed quem Dominus commendat.
 
-11
+## 11
 
 1 Utinam sustinērētis modī cum quid īnsipientiae meae; sed et **supportāte** mē!
 
@@ -498,7 +498,7 @@ In cōnsōlātiōne autem **nostrā** abundantius **magis** gāvīsī sumus supe
 
 33 et per fenestram in **sportā** dīmissus sum per mūrum et **effūgī** **manūs** eius.
 
-12
+## 12
 
 1 Glōriārī oportet; nōn expedit quidem, veniam autem ad vīsiōnēs et revēlātiōnēs Dominī.
 
@@ -542,7 +542,7 @@ In cōnsōlātiōne autem **nostrā** abundantius **magis** gāvīsī sumus supe
 
 21 nē iterum, cum vēnerō, humiliet mē Deus meus apud vōs, et lūgeam multōs ex hīs, quī ante peccāvērunt et nōn **ēgerunt** paenitentiam super **immunditiā** et fornicātiōne et **impudīcitiā**, quam gessērunt.
 
-13
+## 13
 
 1 Ecce tertiō **hoc** veniō ad vōs; in ōre duōrum vel trium testium stābit omne verbum.
 

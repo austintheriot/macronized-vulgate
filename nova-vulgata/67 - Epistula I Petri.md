@@ -1,8 +1,8 @@
-**EPISTULA** Ī PETRĪ
+# **EPISTULA** Ī PETRĪ
 
-1 2 3 4 5
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5)
 
-1 
+## 1
 
 1 Petrus apostolus **Iēsu** Chrīstī ēlēctīs advenīs dispersiōnis Pontī, Galatiae, Cappadociae, Asiae et Bīthȳniae,
 
@@ -62,7 +62,7 @@ Exāruit fēnum, et flōs **dēcidit**;
 
 **Hoc** **est** autem verbum, quod ēvangelīzātum **est** in vōs.
 
-2
+## 2
 
 1 Dēpōnentēs igitur omnem ma litiam et omnem dolum et simū lātiōnēs et invidiās et omnēs dētractiōnēs,
 
@@ -138,9 +138,9 @@ cuius līvōre sānātī **estis**.
 
 sed conversī **estis** nunc ad pāstōrem et epīscopum animārum vestrārum.
 
- 
 
-3
+
+## 3
 
 1 Similiter mulierēs subditae sint **suīs** **virīs**, ut et sī quī nōn cre dunt verbō, per mulierum conversātiōnem **sine** verbō lucrifīant,
 
@@ -198,7 +198,7 @@ et aurēs eius in precēs eōrum;
 
 22 quī **est** in **dexterā** Deī, **profectus** in caelum, subiectīs sibi angelīs et potestātibus et virtūtibus.
 
-4
+## 4
 
 1 Chrīstō igitur **passō** in carne, et vōs **eādem** cōgitātiōne armamī nī, quia, quī **passus** **est** carne, dēsiit ā peccātō;
 
@@ -240,7 +240,7 @@ impius et peccātor ubi pārēbit? ”.
 
 19 Itaque et hī, quī patiuntur secundum voluntātem Deī, fidēlī Creātōrī commendent animās suās in benefactō.
 
-5
+## 5
 
 1 Seniōrēs ergō, quī in vōbīs sunt, obsecrō, cōnsenior et **testis** Chrī stī passiōnum, quī et eius, quae in futūrō **revēlanda** **est**, glōriae commūnicātor:
 

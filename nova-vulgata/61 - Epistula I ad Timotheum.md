@@ -1,8 +1,8 @@
-AD TĪMOTHEUM **EPISTULA** Ī SĀNCTĪ PAULĪ APOSTOLĪ
+# AD TĪMOTHEUM **EPISTULA** Ī SĀNCTĪ PAULĪ APOSTOLĪ
 
-1 2 3 4 5 6
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6)
 
-1 
+## 1
 
 1 Paulus, apostolus Chrīstī **Iēsu** secundum praeceptum Deī salvātōris nostrī et Chrīstī **Iēsu** speī nostrae,
 
@@ -44,7 +44,7 @@ AD TĪMOTHEUM **EPISTULA** Ī SĀNCTĪ PAULĪ APOSTOLĪ
 
 20 ex quibus **est** **Hymenaeus** et Alexander, quōs trādidī Satānae, ut discant nōn blasphēmāre.
 
-2
+## 2
 
 1 Obsecrō igitur prīmō omnium fierī obsecrātiōnēs, ōrātiōnēs, postulātiōnēs, grātiārum āctiōnēs prō omnibus hominibus,
 
@@ -76,7 +76,7 @@ AD TĪMOTHEUM **EPISTULA** Ī SĀNCTĪ PAULĪ APOSTOLĪ
 
 15 Salvābitur autem per fīliōrum generātiōnem, sī permānserint in **fide** et dīlēctiōne et sānctificātiōne cum sōbrietāte.
 
-3
+## 3
 
 1 **Fidēlis** sermō: sī **quis** epīscō pātum appetit, bonum opus dē sīderat.
 
@@ -122,7 +122,7 @@ crēditus **est** in mumdō,
 
 assūmptus **est** in **glōriā**.
 
-4
+## 4
 
 1 **Spīritus** autem **manifēstē** dīcit, quia in novissimīs temporibus discēdent quīdam ā **fide**, attendentēs spīritibus sēductōribus et doctrīnīs daemoniōrum,
 
@@ -158,7 +158,7 @@ Exercē tēipsum ad pietātem;
 
 16 Attende tibi et doctrīnae; īnstā in illīs; **hoc** enim faciēns et tēipsum salvum faciēs et eōs, quī tē audiunt.
 
-5
+## 5
 
 1 Seniōrem nē **increpāverīs**, sed obsecrā ut patrem, iuvenēs ut frātrēs,
 
@@ -210,7 +210,7 @@ Exercē tēipsum ad pietātem;
 
 25 similiter et **facta** **bona** **manifēsta** sunt, et, quae aliter sē habent, abscondī nōn possunt.
 
-6
+## 6
 
 1 Quīcumque sunt sub iugō, servī dominōs suōs omnī **honōre** dī gnōs arbitrentur, nē **nōmen** Deī et **doctrīna** blasphēmētur.
 

@@ -1,8 +1,8 @@
-AD CORINTHIŌS **EPISTULA** Ī SĀNCTĪ PAULĪ APOSTOLĪ
+# AD CORINTHIŌS **EPISTULA** Ī SĀNCTĪ PAULĪ APOSTOLĪ
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16)
 
-1 
+## 1
 
 1 Paulus, **vocātus** apostolus Chrīstī **Iēsu** per voluntātem Deī, et Sosthēnēs frāter
 
@@ -70,11 +70,11 @@ et prūdentiam prūdentium reprobābō ”.
 
 31 ut quemadmodum scrīptum **est**:
 
-“ Quī glōriātur, in Dominō glōriētur ”. 
+“ Quī glōriātur, in Dominō glōriētur ”.
 
- 
 
-2
+
+## 2
 
 1 Et ego, cum vēnissem ad vōs, frātrēs, **venī** nōn per sublīmitā tem sermōnis aut sapientiae annūntiāns vōbīs mystērium Deī.
 
@@ -112,7 +112,7 @@ quī īnstruat eum?
 
 Nōs autem sēnsum Chrīstī habēmus.
 
-3
+## 3
 
 1 Et ego, frātrēs, nōn **potuī** vōbīs loquī quasi spīritālibus sed **quā** sī carnālibus, tamquam parvulīs in Chrīstō.
 
@@ -166,7 +166,7 @@ quoniam vānae sunt ”.
 
 23 vōs autem Chrīstī, Chrīstus autem Deī.
 
-4
+## 4
 
 1 Sīc nōs exīstimet homō ut mī nistrōs Chrīstī et dispēnsātōrēs mystēriōrum Deī.
 
@@ -210,7 +210,7 @@ quoniam vānae sunt ”.
 
 21 Quid vultis? In **virgā** veniam ad vōs an in cāritāte et spīritū mānsuētūdinis?
 
-5
+## 5
 
 1 Omnīnō audītur inter vōs for nīcātiō, et **tālis** fornicātiō **quālis** nec inter gentēs, **ita** ut uxōrem patris aliquis habeat.
 
@@ -238,7 +238,7 @@ quoniam vānae sunt ”.
 
 13 Nam eōs, quī **foris** sunt, Deus iūdicābit. Auferte **malum** ex vōbīs ipsīs!
 
-6
+## 6
 
 1 Audet aliquis vestrum habēns negōtium adversus alterum iū dicārī apud inīquōs et nōn apud sānctōs?
 
@@ -280,7 +280,7 @@ quoniam vānae sunt ”.
 
 20 Ēmptī enim **estis** pretiō! **Glōrificātē** ergō Deum in corpore vestrō.
 
-7
+## 7
 
 1 Dē quibus autem scrīpsistis, bō num **est** hominī mulierem nōn nōn **tangere**;
 
@@ -362,7 +362,7 @@ quoniam vānae sunt ”.
 
 40 Beātior autem erit, sī sīc permānserit secundum meum cōnsilium; putō autem quod et ego Spīritum Deī habeō.
 
-8
+## 8
 
 1 Dē īdōlothytīs autem, scīmus quia omnēs scientiam habēmus. **Scientia** īnflat, **cāritās** vērō aedificat.
 
@@ -390,7 +390,7 @@ quoniam vānae sunt ”.
 
 13 Quāpropter sī **ēsca** scandalizat frātrem meum, nōn mandūcābō carnem in aeternum, nē frātrem meum scandalizem.
 
-9
+## 9
 
 1 Nōn sum **līber**? Nōn sum apō stolus? **Nōnne** **Iēsum** Dominum nostrum vīdī? Nōn opus meum vōs **estis** in Dominō?
 
@@ -446,7 +446,7 @@ quoniam vānae sunt ”.
 
 27 sed castīgō corpus meum et in servitūtem redigō, nē forte, cum aliīs praedicāverim, ipse reprobus efficiar.
 
-10
+## 10
 
 1 Nōlō enim vōs ignōrāre, fra trēs, quoniam patrēs nostrī omnēs sub nūbe fuērunt et omnēs mare trānsiērunt
 
@@ -514,7 +514,7 @@ quoniam vānae sunt ”.
 
 33 sīcut et ego per omnia omnibus placeō, nōn quaerēns, quod mihi ūtile **est**, sed quod multīs, ut salvī fīant.
 
-11
+## 11
 
 1 Imitātōrēs meī **ēstote**, sīcut et ego Chrīstī.
 
@@ -584,7 +584,7 @@ quoniam vānae sunt ”.
 
 34 Sī **quis** ēsurit, domī mandūcet, ut nōn in iūdicium conveniātis. **Cētera** autem, cum vēnerō, dispōnam.
 
-12
+## 12
 
 1 Dē spīritālibus autem, fra trēs, nōlō vōs ignōrāre.
 
@@ -648,7 +648,7 @@ quoniam vānae sunt ”.
 
 31 Aemulāminī autem charismata maiōra. Et adhūc excellentiōrem viam vōbīs dēmōnstrō.
 
-13
+## 13
 
 1 Sī linguīs hominum loquar et angelōrum, cāritātem autem nōn habeam, **factus** sum velut aes sonāns aut cymbalum tinniēns.
 
@@ -676,7 +676,7 @@ quoniam vānae sunt ”.
 
 13 Nunc autem **manet** **fidēs**, spēs, **cāritās**, tria haec; maior autem ex hīs **est** **cāritās**.
 
-14
+## 14
 
 1 Sectāminī cāritātem, aemulāminī spīritālia, **magis** autem, ut prophetētis.
 
@@ -766,7 +766,7 @@ Sīcut in omnibus ecclēsiīs sānctōrum,
 
 40 omnia autem **honestē** et secundum ōrdinem fīant.
 
-15
+## 15
 
 1 **Notum** autem vōbīs faciō, frātrēs, ēvangelium, quod ēvangelīzāvī vōbīs, quod et accēpistis, in quō et **stātis**,
 
@@ -888,7 +888,7 @@ Sī **est** corpus animāle, **est** et spīritāle.
 
 58 Itaque, frātrēs meī dīlēctī, stabilēs **ēstote**, immōbilēs, abundantēs in opere Dominī semper, scientēs quod **labor** vester nōn **est** **inānis** in Dominō.
 
-16
+## 16
 
 1 Dē collēctīs autem, quae fīunt in sānctōs, sīcut ōrdinā vī ecclēsiīs Galatiae, **ita** et vōs facite.
 

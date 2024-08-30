@@ -1,8 +1,8 @@
-**LIBER** PRĪMUS MACCABAEORUM
+# **LIBER** PRĪMUS MACCABAEORUM
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16  
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16)
 
-1 
+## 1
 
 1 Et factum **est**, postquam percussit Alexander Philippī Macedō, quī prius rēgnāvit in **Graeciā**, **ēgressus** dē **terrā** Cetthim, **Darīum** rēgem Persārum et Mēdōrum,
 
@@ -132,7 +132,7 @@
 
 64 Et **facta** **est** **īra** **magna** super Isrāēl valdē.
 
-2
+## 2
 
 1 In diēbus illīs surrēxit Matthathīās fīlius **Iōannis** fīliī Simeōnis sacerdōs ex fīliīs Ioarib ab Ierusālem et cōnsēdit in **Modīn**.
 
@@ -274,7 +274,7 @@
 
 70 Et **dēfūnctus** **est** annō centēsimō et quadrāgēsimō sextō; et sepultus **est** in sepulcrīs patrum suōrum in **Modīn**, et plānxērunt eum **omnīs** Isrāēl plānctū magnō.
 
-3
+## 3
 
 1 Et surrēxit Iūdās, quī vocābātur Maccabaeus, fīlius eius prō eō.
 
@@ -396,7 +396,7 @@
 
 60 Sīcut autem fuerit voluntās in caelō, sīc faciet ”.
 
-4
+## 4
 
 1 Et assūmpsit Gorgiās quīnque **mīlia** **virōrum** et mīlle equitēs ēlēctōs, et mōvērunt **castra** nocte,
 
@@ -520,7 +520,7 @@
 
 61 Et collocāvit **illīc** **exercitum**, ut servārent eum, et mūnīvit eum ad cūstōdiendam Bethsūram, ut habēret **populus** mūnītiōnem contrā faciem Idūmaeae.
 
-5
+## 5
 
 1 Et factum **est**, ut audiērunt gentēs in circuitū quia aedificātum **est** altāre, et dēdicātum **est** sānctuārium sīcut prius, īrātae sunt valdē
 
@@ -658,7 +658,7 @@
 
 68 Et dēclīnāvit Iūdās in Azōtum terram aliēnigenārum et dīruit **ārās** eōrum et sculptilia deōrum ipsōrum succendit igne et expoliāvit exuviās cīvitātum. Et reversus **est** in terram Iūdae.
 
-6
+## 6
 
 1 Et rēx Antiochus perambulābat superiōrēs regiōnēs et audīvit **esse** Elymāida in **Persidē** cīvitātem glōriōsam dīvitiīs argentō et aurō
 
@@ -786,7 +786,7 @@
 
 63 Et discessit festīnanter et reversus **est** Antiochīam; et **invēnit** Philippum dominantem cīvitātī et pugnāvit adversus eum et occupāvit cīvitātem per vim.
 
-7
+## 7
 
 1 Annō centēsimō quīnquāgēsimō prīmō exiit Dēmētrius Seleucī fīlius ā **Rōmā**; et ascendit cum paucīs **virīs** in cīvitātem maritimam et rēgnāvit **illīc**.
 
@@ -888,7 +888,7 @@
 
 50 Et siluit **terra** Iūdae diēs paucōs.
 
-8
+## 8
 
 1 Et audīvit Iūdās **nōmen** **Rōma** nōrum quia sunt potentēs vīribus et cōnsentiunt omnibus, quae postulantur ab eīs, et, quīcumque accesserint ad eōs, statuērunt cum eīs amīcitiam,
 
@@ -954,7 +954,7 @@
 
 32 Sī ergō iterum adierint nōs adversum tē, faciēmus illīs iūdicium et pugnābimus tēcum marī **terrā**que” ”.
 
-9
+## 9
 
 1 Et audīvit Dēmētrius quia **cecidit** Nīcānor et **exercitus** eius in proeliō et apposuit Bacchidem et Alcimum rūrsum **mittere** in terram Iūdaeae et dextrum **cornū** cum illīs.
 
@@ -1102,7 +1102,7 @@
 
 73 Et cessāvit gladius ex Isrāēl, et habitāvit Ionathās in Machmās; et coepit Ionathās ibi iūdicāre **populum** et exterminābat impiōs ex Isrāēl.
 
-10
+## 10
 
 1 Et annō centēsimō sexāgēsimō ascendit Alexander Antiochī fīlius, Epiphanēs, et occupāvit Ptolemāidam; et recēpērunt eum, et rēgnāvit **illīc**.
 
@@ -1282,7 +1282,7 @@
 
 89 et mīsit **eī** fībulam auream, sīcut cōnsuētūdō **est** darī cognātīs rēgum, et **dedit** **eī** Accārōn et omnēs fīnēs eius in possessiōnem.
 
-11
+## 11
 
 1 Et rēx Aegyptī congregāvit **exercitum** sīcut **arēnā**, quae **est** circā ōram **maris**, et nāvēs multās et quaerēbat obtinēre rēgnum Alexandrī dolō et **addere** illud rēgnō suō.
 
@@ -1432,7 +1432,7 @@
 
 74 Et **cecidērunt** dē aliēnigenīs in **diē** **illa** tria **mīlia** **virōrum**; et reversus **est** Ionathās in Ierusālem.
 
-12
+## 12
 
 1 Et vīdit Ionathās quia tempus eum adiuvat; et ēlēgit virōs et mīsit Rōmam **statuere** et renovāre cum eīs amīcitiam;
 
@@ -1542,7 +1542,7 @@
 
 54 “Nōn habent prīncipem et adiuvantem; nunc ergō expugnēmus illōs et tollāmus dē hominibus memoriam eōrum ”.
 
-13
+## 13
 
 1 Et audīvit Simōn quod cōn gregāvit Tryphōn **exercitum** cōpiōsum, ut venīret in terram Iūdae et attereret eam.
 
@@ -1652,7 +1652,7 @@
 
 54 Et vīdit Simōn Iōannem fīlium suum quod vir **esset** et posuit eum ducem virtūtum ūniversārum; et habitāvit in Gazāris.
 
-14
+## 14
 
 1 Annō centēsimō septuāgēsimō secundō congregāvit rēx Dēmētrius **exercitum** suum et abiit in Mēdiam ad **contrahendā** sibi **auxilia**, ut expugnāret Tryphōnem.
 
@@ -1792,7 +1792,7 @@ et multiplicāvit vāsa sānctōrum.
 
 49 exemplum autem eōrum **pōnere** in aerāriō, ut habeat Simōn et fīliī eius.
 
-15
+## 15
 
 1 Et mīsit rēx Antiochus fīlius Dēmētriī epistulās ab īnsulīs **maris** Simōnī sacerdōtī et prīncipī **gentis** Iūdaeōrum et ūniversae gentī,
 
@@ -1876,7 +1876,7 @@ et multiplicāvit vāsa sānctōrum.
 
 41 Et aedificāvit **Cedrōn** et collocāvit **illīc** equitēs et **exercitum**, ut ēgressī perambulārent viās Iūdaeae, sīcut cōnstituit **eī** rēx.
 
-16
+## 16
 
 1 Et ascendit Iōannēs dē Gazāris et nūntiāvit Simōnī patrī suō, quae fēcit Cendebaeus.
 

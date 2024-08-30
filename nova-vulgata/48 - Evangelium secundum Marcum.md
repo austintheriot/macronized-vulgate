@@ -1,8 +1,8 @@
-ĒVANGELIUM SECUNDUM MARCUM
+# ĒVANGELIUM SECUNDUM MARCUM
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16)
 
-1
+## 1
 
 1 Initium ēvangeliī **Iēsu** Chrīstī Fīliī Deī.
 
@@ -100,7 +100,7 @@ quī praeparābit viam tuam;
 
 45 At ille **ēgressus** coepit **praedicāre** multum et diffāmāre sermōnem, **ita** ut iam nōn posset **manifēstō** in cīvitātem introīre, sed **foris** in dēsertīs locīs erat; et conveniēbant ad eum undique.
 
-2
+## 2
 
 1 Et iterum intrāvit Capharnāum post diēs, et audītum **est** quod in domō **esset**.
 
@@ -158,7 +158,7 @@ quī praeparābit viam tuam;
 
 28 itaque dominus **est** Fīlius hominis etiam sabbatī ”.
 
-3
+## 3
 
 1 Et introīvit iterum in synagōgam. Et erat ibi homō habēns **manum** āridam;
 
@@ -230,7 +230,7 @@ quī praeparābit viam tuam;
 
 35 Quī enim fēcerit voluntātem Deī, **hic** frāter meus et soror **mea** et māter **est** ”.
 
-4
+## 4
 
 1 Et iterum coepit docēre ad mare. Et congregātur ad eum **turba** **plūrima**, **ita** ut in nāvem ascendēns sedēret in marī, et **omnis** **turba** circā mare super terram erant.
 
@@ -320,7 +320,7 @@ et dīmittātur eīs ”.
 
 41 Et timuērunt magnō timōre et dīcēbant ad alterutrum: “ **Quis** putās **est** iste, quia et ventus et mare oboediunt **eī**? ”.
 
-5
+## 5
 
 1 Et vēnērunt trāns **fretum** **maris** in regiōnem Gerasēnōrum.
 
@@ -408,7 +408,7 @@ et dīmittātur eīs ”.
 
 43 Et praecēpit illīs vehementer, ut nēmō id scīret, et dīxit darī illī mandūcāre.
 
-6
+## 6
 
 1 Et **ēgressus** **est** inde et **venit** in patriam suam, et sequuntur illum discipulī **suī**.
 
@@ -524,7 +524,7 @@ Et circumībat castella in circuitū docēns.
 
 56 Et quōcumque introībat in vīcōs aut in cīvitātēs vel in vīllās, in **platēīs** pōnēbant īnfirmōs; et dēprecābantur eum, ut vel fimbriam vestīmentī eius tangerent; et, quotquot tangēbant eum, salvī fīēbant.
 
-7
+## 7
 
 1 Et conveniunt ad eum **pharisaeī** et quīdam dē **scrībīs** venientēs ab Hierosolymīs;
 
@@ -606,7 +606,7 @@ eum coinquināre; sed quae dē homine prōcēdunt, **illa** sunt, quae coinquina
 
 37 Et eō amplius admīrābantur dīcentēs: “ **Bene** omnia fēcit, et surdōs facit audīre et mūtōs loquī! ”.
 
-8
+## 8
 
 1 In illīs diēbus iterum cum **turbā** **multa** **esset** nec habērent, quod mandūcārent, **convocātīs** discipulīs, ait illīs:
 
@@ -684,7 +684,7 @@ eum coinquināre; sed quae dē homine prōcēdunt, **illa** sunt, quae coinquina
 
 38 Quī enim mē cōnfūsus fuerit et **mea** verba in generātiōne **ista** **adulterā** et peccātrīce, et Fīlius hominis cōnfundētur eum, cum vēnerit in **glōriā** Patrīs **suī** cum angelīs sānctīs ”.
 
-9
+## 9
 
 1 Et dīcēbat illīs: “ Āmēn **dīcō** vōbīs: Sunt quīdam dē **hīc** stantibus, quī nōn gustābunt mortem, dōnec videant rēgnum Deī vēnisse in virtūte ”.
 
@@ -786,7 +786,7 @@ quam duōs **pedēs** habentem mittī in gehennam.
 
 50 Bonum **est** sāl; quod sī sāl īnsulsum fuerit, in quō illud condiētis? Habēte in vōbīs sāl et pācem habēte inter vōs ”.
 
-10
+## 10
 
 1 Et inde exsurgēns **venit** in fīnēs Iūdaeae **ultrā** Iordānem; et conveniunt iterum turbae ad eum, et, sīcut cōnsuēverat, iterum docēbat illōs.
 
@@ -892,7 +892,7 @@ quam duōs **pedēs** habentem mittī in gehennam.
 
 52 Et **Iēsus** ait illī: “ **Vāde**; **fidēs** **tua** tē salvum fēcit ”. Et cōnfestim vīdit et sequēbātur eum in **viā**.
 
-11
+## 11
 
 1 Et cum appropinquārent Hierosolymae, Bethphage et Bethāniae ad montem Olīvārum, mittit duōs ex discipulīs **suīs**
 
@@ -960,7 +960,7 @@ Pater vester, quī in caelīs **est**, dīmittat vōbīs **peccāta** **vestra**
 
 33 Et respondentēs dīcunt **Iēsu**: “ Nescīmus ”. Et **Iēsus** ait illīs: “ Neque ego **dīcō** vōbīs in **quā** potestāte haec faciam ”.
 
-12
+## 12
 
 1 Et coepit illīs in parabolīs loquī: “ Vīneam pastināvit homō et **circumdedit** saepem et **fōdit** lacum et aedificāvit turrim et locāvit eam agricolīs et peregrē **profectus** **est**.
 
@@ -1058,7 +1058,7 @@ dōnec pōnam inimīcōs tuōs sub pedibus tuīs”.
 
 44 Omnēs enim ex eō, quod abundābat illīs, mīsērunt; haec vērō dē **pēnūriā** **suā** omnia, quae habuit, mīsit, **tōtum** **vīctum** suum ”.
 
-13
+## 13
 
 1 Et cum ēgrederētur dē templō, ait illī ūnus ex discipulīs **suīs**: “ Magister, aspice quālēs lapidēs et quālēs strūctūrae ”.
 
@@ -1134,7 +1134,7 @@ dōnec pōnam inimīcōs tuōs sub pedibus tuīs”.
 
 37 Quod autem vōbīs **dīcō**, omnibus **dīcō**: **Vigilātē**! ”.
 
-14
+## 14
 
 1 Erat autem **Pascha** et **Azȳma** post bīduum. Et quaerēbant summī sacerdōtēs et scrībae, quōmodo eum dolō tenērent et **occīderent**;
 
@@ -1280,7 +1280,7 @@ dōnec pōnam inimīcōs tuōs sub pedibus tuīs”.
 
 72 Et statim iterum gallus cantāvit; et **recordātus** **est** Petrus verbī, sīcut dīxerat **eī** **Iēsus**: “ Priusquam gallus cantet bis, ter mē negābis ”. Et coepit flēre.
 
-15
+## 15
 
 1 Et cōnfestim **māne** cōnsilium facientēs summī sacerdōtēs cum seniōribus et **scrībīs**, id **est** ūniversum concilium, vincientēs **Iēsum** dūxērunt et trādidērunt Pīlātō.
 
@@ -1376,7 +1376,7 @@ sinistrīs eius.
 
 47 **Maria** autem Magdalēne et **Maria** Iosētis aspiciēbant, ubi **positus** **esset**.
 
-16
+## 16
 
 1 Et cum trānsīsset sabbatum, **Maria** Magdalēne et **Maria** Iacobī et Salōmē ēmērunt arōmata, ut venientēs ungerent eum.
 

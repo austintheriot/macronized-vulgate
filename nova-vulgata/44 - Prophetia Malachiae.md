@@ -1,8 +1,8 @@
-**PROPHĒTĪA** MALACHIAE
+# **PROPHĒTĪA** MALACHIAE
 
-1 2 3
+[1](#1) [2](#2) [3](#3)
 
-1 
+## 1
 
 1 Ōrāculum. Verbum Dominī ad Isrāēl in manū Malachiae.
 
@@ -32,9 +32,9 @@
 
 14 Maledictus dolōsus, quī habet in grege suō masculum et vōtum faciēns immolat dēbile Dominō. Quia Rēx magnus ego, dīcit Dominus exercituum, et **nōmen** meum horribile in gentibus.
 
-2
+## 2
 
-1 Et nunc ad vōs mandātum **hoc**, ō sacerdōtēs. 
+1 Et nunc ad vōs mandātum **hoc**, ō sacerdōtēs.
 
 2 Sī **nōluerītis** audīre et sī **nōluerītis** **pōnere** super cor, ut dētis glōriam nōminī meō, ait Dominus exercituum, mittam in vōs maledictiōnem et **maledīcam** benedictiōnibus vestrīs; et **maledīcam** illīs, quoniam nōn posuistis super cor.
 
@@ -104,7 +104,7 @@ et accēpistis **persōnam** in **lēge**.
 
 17 Labōrāre facitis Dominum in sermōnibus vestrīs et dīcitis: “In quō eum facimus labōrāre?”. In eō quod dīcitis: “**Omnis**, quī facit **malum**, bonus **est** in cōnspectū Dominī, et tālēs **eī** **placent**” aut: “**Ubi** **est** Deus iūdiciī?”.
 
-3
+## 3
 
 1 Ecce ego mittam angelum meum, et praeparābit viam ante faciem meam; et statim veniet ad templum suum Dominātor, quem vōs quaeritis, et angelus testāmentī, quem vōs vultis. Ecce **venit**, dīcit Dominus exercituum;
 

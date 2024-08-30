@@ -1,8 +1,8 @@
-**LIBER** PRĪMUS RĒGUM
+# **LIBER** PRĪMUS RĒGUM
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22)
 
-1 
+## 1
 
 1 Et rēx Dāvīd senuerat habēbat que aetātis plūrimōs diēs; cum que operīrētur vestibus, nōn calefiēbat.
 
@@ -110,7 +110,7 @@
 
 53 Mīsit ergō rēx Salomōn et ēdūxit eum ab altārī, et **ingressus** adōrāvit rēgem Salomōnem; dīxitque **eī** Salomōn: “ **Vade** in domum tuam ”.
 
-2
+## 2
 
 1 Appropinquāverant autem diēs Dāvīd ut morerētur, praecēpit que Salomōnī fīliō suō dīcēns:
 
@@ -204,7 +204,7 @@
 
 46 Iussit itaque rēx Banāiae fīliō Ioiadae, quī **ēgressus** percussit eum, et mortuus **est**. Cōnfirmātum **est** igitur rēgnum in manū Salomōnis.
 
-3
+## 3
 
 1 Et affīnitāte **coniūnctus** **est** pharaōnī **rēgī** Aegyptī. Accēpit namque fīliam eius et addūxit in cīvitātem Dāvīd, dōnec complēret aedificāns domum suam et domum Dominī et mūrum Ierusālem per circuitum.
 
@@ -262,7 +262,7 @@
 
 28 Audīvit itaque **omnis** Isrāēl iūdicium, quod iūdicāsset rēx; et timuērunt rēgem videntēs sapientiam Deī **esse** in eō ad faciendum iūdicium.
 
-4
+## 4
 
 1 Erat autem rēx Salomōn rēgnāns super omnem Isrāēl.
 
@@ -304,7 +304,7 @@
 
 20 **Iūda** et Isrāēl innumerābilēs, sīcut **arēna** **maris** in multitūdine, comedentēs et bibentēs atque laetantēs.
 
-5
+## 5
 
 1 Salomōn autem erat in diciōne **suā** habēns omnia **rēgna** ā Flūmine usque ad terram Philisthim et ad terminum Aegyptī offerentium sibi **mūnera** et servientium **eī** cūnctīs diēbus vītae eius.
 
@@ -370,7 +370,7 @@
 
 32 dolāvērunt ergō caementāriī Salomōnis, caementāriī Hīram et Giblīī ligna et lapidēs et praeparāvērunt ad aedificandam domum.
 
-6
+## 6
 
 1 Factum **est** igitur quadringentēsimō et octōgēsimō annō ēgressiōnis fīliōrum Isrāēl dē **terrā** Aegyptī, in annō quārtō, **mēnsē** Ziv — ipse **est** **mēnsis** secundus — rēgnī Salomōnis super Isrāēl, aedificāre coepit domum Dominō.
 
@@ -448,7 +448,7 @@
 
 38 et in annō ūndecimō, **mēnsē** Bul — ipse **est** **mēnsis** octāvus — **perfecta** **est** **domus** in omnī opere suō et in ūniversīs ūtēnsilibus; aedificāvitque eam annīs septem.
 
-7
+## 7
 
 1 Domum autem suam aedificāvit Salomōn tredecim annīs et ad perfectum usque perdūxit.
 
@@ -552,7 +552,7 @@
 
 51 Et perfēcit omne opus, quod faciēbat Salomōn in domō Dominī, et intulit Salomōn, quae sānctificāverat Dāvīd pater suus, argentum et aurum et vāsa, reposuitque in thēsaurīs **domus** Dominī.
 
-8
+## 8
 
 1 Tunc congregāvit Salomōn omnēs maiōrēs nātū Isrāēl — omnēs prīncipēs tribuum, **ducēs** familiārum fīliōrum Isrāēl ad rēgem Salomōnem — in Ierusālem, ut dēferrent arcam **foederis** Dominī dē cīvitāte Dāvīd, id **est** dē **Sīōn**.
 
@@ -690,7 +690,7 @@ firmissimum solium tuum in sempiternum ”.
 
 66 Et in **diē** **octāvā** dīmīsit **populōs**; quī benedīcentēs **rēgī** **profectī** sunt in tabernācula **sua** laetantēs et alacrī **corde** super omnibus bonīs, quae fēcerat Dominus Dāvīd servō suō et Isrāēl **populō** suō.
 
-9
+## 9
 
 1 Factum **est** autem cum perfēcisset Salomōn aedificium **domus** Dominī et aedificium **rēgis** et omne, quod optāverat et voluerat facere,
 
@@ -748,7 +748,7 @@ firmissimum solium tuum in sempiternum ”.
 
 28 Quī, cum vēnissent in Ophir, sūmptum inde aurum quadringentōrum vīgintī talentōrum dētulērunt ad rēgem Salomōnem.
 
-10
+## 10
 
 1 Sed et **rēgīna** **Saba**, **audīta** **fāma** Salomōnis — in honōrem nōminis Dominī — **venit** tentāre eum in aenigmatibus.
 
@@ -808,7 +808,7 @@ firmissimum solium tuum in sempiternum ”.
 
 29 Cōnstābat autem et ēgrediēbātur quadriga ex Aegyptō sēscentīs siclīs argentī, et equus centum quīnquāgintā; atque in hunc modum cūnctīs rēgibus Hetthaēōrum et **Syriae** per **manūs** suās venundābant.
 
-11
+## 11
 
 1 Rēx autem Salomōn amāvit mulierēs aliēnigenās multās, fīliam **quoque** pharaōnis et Moabitīdās et Ammonitīdās, Idūmaeās et Sīdōniās et Hetthaēās,
 
@@ -896,7 +896,7 @@ firmissimum solium tuum in sempiternum ”.
 
 43 Dormīvitque Salomōn cum patribus **suīs** et sepultus **est** in cīvitāte Dāvīd patris **suī**; rēgnāvitque Roboam fīlius eius prō eō.
 
-12
+## 12
 
 1 **Venit** autem Roboam in Sichem; illūc enim **congregātus** erat **omnis** Isrāēl ad cōnstituendum eum rēgem.
 
@@ -982,7 +982,7 @@ Nunc vidē domum tuam, Dāvīd! ”. Et abiit Isrāēl in tabernācula **sua**.
 
 33 Et ascendit super altāre, quod exstrūxerat in Bethel, **quīntā** **decima** **diē** **mēnsis** octāvī, quem fīnxerat dē **corde** suō; et fēcit sollemnitātem fīliīs Isrāēl et ascendit super altāre, ut adolēret.
 
-13
+## 13
 
 1 Et ecce vir Deī **venit** dē **Iūdā** in sermōne Dominī in Bethel, Ierobōam stante super altāre ad adolendum;
 
@@ -1052,7 +1052,7 @@ Nunc vidē domum tuam, Dāvīd! ”. Et abiit Isrāēl in tabernācula **sua**.
 
 34 Et propter hanc causam peccāvit **domus** Ierobōam, et **ēversa** **est** et **dēlēta** dē superficiē terrae.
 
-14  
+## 14
 
 1 In tempore illō aegrōtāvit Abia fīlius Ieroboam,
 
@@ -1116,7 +1116,7 @@ Nunc vidē domum tuam, Dāvīd! ”. Et abiit Isrāēl in tabernācula **sua**.
 
 31 Dormīvit itaque Roboam cum patribus **suīs** et sepultus **est** cum eīs in cīvitāte Dāvīd; **nōmen** autem mātris eius Naama Ammanītēs. Et rēgnāvit Abiam fīlius eius prō eō.
 
-15
+## 15
 
 1 Igitur in octāvō decimō annō rēgnī Ieroboam fīliī Nābat rēgnāvit Abiam super Iūdam.
 
@@ -1184,7 +1184,7 @@ Nunc vidē domum tuam, Dāvīd! ”. Et abiit Isrāēl in tabernācula **sua**.
 
 34 et fēcit **malum** **cōram** Dominō ambulāvitque in **viā** Ieroboam et in peccātō eius, quō peccāre fēcit Isrāēl.
 
-16
+## 16
 
 1 **Factus** **est** autem sermō Dominī ad Iehū fīlium Hanānī contrā Baasā dīcēns:
 
@@ -1254,7 +1254,7 @@ Nunc vidē domum tuam, Dāvīd! ”. Et abiit Isrāēl in tabernācula **sua**.
 
 34 In diēbus eius aedificāvit Hiēl dē Bethel Ierichō; in Abiram prīmitīvō suō fundāvit eam et in Segub novissimō suō posuit portās eius, iuxtā verbum Dominī, quod **locūtus** fuerat in manū **Ios**ue fīliī Nun.
 
-17
+## 17
 
 1 Et dīxit **Eliās** Thesbītēs dē Thesbī in Galaad ad Achab: “ Vīvit Dominus, Deus Isrāēl, in cuius cōnspectū stō. Nōn erit annīs hīs rōs et **pluvia**, **nisi** iuxtā **ōris** meī verba! ”.
 
@@ -1304,7 +1304,7 @@ Nunc vidē domum tuam, Dāvīd! ”. Et abiit Isrāēl in tabernācula **sua**.
 
 24 Dīxitque mulier ad Eliam: “ Nunc in istō cognōvī quoniam vir Deī **es** tū, et verbum Dominī in ōre tuō vērum **est** ”.
 
-18
+## 18
 
 1 Post diēs multōs factum **est** verbum Dominī ad Eliam in annō tertiō dīcēns: “ **Vāde** et ostende tē Achab, ut dem pluviam super faciem terrae ”.
 
@@ -1402,7 +1402,7 @@ Erat autem famēs vehemēns in **Samarīā**.
 
 46 Et **manus** Dominī **facta** **est** super Eliam; accīnctīsque lumbīs, currēbat ante Achab, dōnec venīret in Iezrahel.
 
-19
+## 19
 
 1 Nūntiāvit autem Achab Iezabel omnia, quae fēcerat **Eliās**, et quōmodo **occīdisset** ūniversōs prophētās gladiō.
 
@@ -1446,7 +1446,7 @@ Erat autem famēs vehemēns in **Samarīā**.
 
 21 Reversus autem ab eō tulit pār boum et mactāvit illud et in iugō boum coxit carnēs et **dedit** **populō**, et comēdērunt. Cōnsurgēnsque abiit et secūtus **est** Eliam et ministrābat **eī**.
 
-20
+## 20
 
 1 Porrō Benadad rēx **Syriae** congregāvit omnem **exercitum** suum et trīgintā duōs **rēgēs** sēcum et equōs et **currūs** et ascendēns pugnābat contrā Samarīam et **obsīdēbat** eam.
 
@@ -1536,7 +1536,7 @@ Porrō Benadad fugiēns **ingressus** **est** cīvitātem in cubiculum, quod era
 
 43 Reversus **est** igitur rēx Isrāēl in domum suam **trīstīs** et indignāns **venit**que in Samarīam.
 
-21
+## 21
 
 1 Posteā autem factum **est** **hoc**. **Vīnea** erat Naboth Iez rahelitae, quae erat in Iezrahel iuxtā palātium Achab **rēgis** Samarīae.
 
@@ -1596,7 +1596,7 @@ Porrō Benadad fugiēns **ingressus** **est** cīvitātem in cubiculum, quod era
 
 29 **Nōnne** vīdistī humiliātum Achab **cōram** mē? Quia igitur humiliātus **est** meī **causā**, nōn indūcam **mālum** in diēbus eius, sed in diēbus fīliī **suī** īnferam **mālum** domuī eius ”.
 
-22
+## 22
 
 1 Trānsiērunt igitur trēs annī absque bellō inter **Syriam** et Isrāēl.
 

@@ -1,8 +1,8 @@
-**LIBER** SECUNDUS MACCABAEORUM 
+# **LIBER** SECUNDUS MACCABAEORUM
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15)
 
-1 
+## 1
 
 1 Frātribus, quī sunt per Aegyptum, Iūdaeīs salūtem dīcunt frātrēs, quī sunt in Hierosolymīs Iūdaeī et quī in regiōne Iūdaeae, pācem bonam.
 
@@ -78,7 +78,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 36 Appellāvērunt autem, quī cum Nehēmiā erant, hunc locum Nephthar, quod interpretātur Pūrificātiō; vocātur autem apud plūrēs Nephthāī.
 
-2
+## 2
 
 1 Invenītur autem in dēscrīptiōnibus quod Iēremīās **prophēta** iussit eōs ignem accipere, quī trānsmigrābant, ut significātum **est**,
 
@@ -144,7 +144,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 32 Hinc ergō nārrātiōnem incipiēmus, praedictīs tantulō subiūnctō; stultum etenim **est** ante historiam efffluere, ipsam autem historiam **concidere**.
 
-3
+## 3
 
 1 Cum **sānctā** cīvitās habitārētur cum omnī pāce, et **lēgēs** quam **optimē** cūstōdīrentur propter Oniae pontificis pietātem et **odium** malitiae,
 
@@ -226,7 +226,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 40 Igitur dē Hēliodōrō et aerāriī **cūstōdia** **ita** rēs prōcessērunt.
 
-4
+## 4
 
 1 Simōn autem praedictus, quī pecūniārum et patriae dēlātor exstitit, **male** loquēbātur dē Ōniā, tamquam ipse Hēliodōrum īnstīgāsset et **malōrum** auctor fuisset;
 
@@ -328,7 +328,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 50 Menelāus autem propter eōrum, quī in **potentiā** erant, avāritiam permanēbat in potestāte, crēscēns in **malitiā** magnus cīvium īnsidiātor cōnstitūtus.
 
-5
+## 5
 
 1 **Circā** **hoc** autem tempus Antiochus secundam profectiōnem parāvit in Aegyptum.
 
@@ -384,7 +384,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 27 Iūdās autem, quī et Maccabaeus, decimus **factus** sēcesserat in erēmum et ferārum **mōre** in montibus vītam cum **suīs** agēbat; et fēnī cibō vēscentēs dēmorābantur, nē participēs **essent** coinquinātiōnis.
 
-6
+## 6
 
 1 Sed nōn post multum temporis mīsit rēx senem quendam Athēniēnsem, quī compelleret Iūdaeōs, ut sē trānsferrent ā patriīs lēgibus et Deī lēgibus nē ūterentur;
 
@@ -448,7 +448,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 31 Et iste quidem **hoc** **modo** **vīta** dēcessit, nōn **sōlum** iuvenibus, sed et plūrimīs ex gente mortem suam ad exemplum fortitūdinis et memoriam **virtūtis** relinquēns.
 
-7
+## 7
 
 1 Contigit autem et septem frātrēs **ūna** cum mātre apprehēnsōs compellī ā **rēge** **attingere** contrā fās carnēs porcīnās, flagrīs et nervīs cruciātōs.
 
@@ -534,7 +534,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 42 Igitur dē sacrificiīs et dē nimiīs crūdēlitātibus **satis** sit dictum.
 
-8
+## 8
 
 1 Iūdās vērō Maccabaeus et, quī cum illō erant, introeuntēs latenter in castella convocābant cognātōs; et eōs, quī permānsērunt in Iūdaismō, assūmentēs, collēgērunt circiter sex **mīlia** **virōrum**.
 
@@ -608,7 +608,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 36 Et, quī Rōmānīs prōmīserat sē tribūtum dē captīvitāte Hierosolymōrum **redigere**, praedicābat prōpugnātōrem habēre Iūdaeōs, et **hoc** **modo** invulnerābilēs **esse**, eō quod sequerentur **lēgēs** ab ipsō cōnstitūtās.
 
-9
+## 9
 
 1 Eōdem autem tempore Antiochus **inhonestē** revertēbātur dē regiōnibus circā Persidem.
 
@@ -668,7 +668,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 29 Trānsferēbat autem corpus Philippus collactāneus eius, quī etiam metuēns fīlium Antiochī ad Ptolemaeum Philomētorem in Aegyptum sē contulit.
 
-10
+## 10
 
 1 Maccabaeus autem et, quī cum eō erant, Dominō eōs praeeunte, templum quidem et cīvitātem recēpērunt;
 
@@ -746,7 +746,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 38 Quibus gestīs, in hymnīs et cōnfessiōnibus benedīcēbant Dominum, quī **magnificē** Isrāēl benefaciēbat et victōriam dabat illīs.
 
-11
+## 11
 
 1 Sed parvō prōrsus post tempore, Lȳsiās prōcūrātor **rēgis** et propinquus ac negōtiōrum praepositus graviter ferēns dē hīs, quae **acciderant**,
 
@@ -824,7 +824,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 38 **Bene** valēte. Annō centēsimō quadrāgēsimō octāvō, **quīntā** **decima** **diē** **mēnsis** Xanthicī ”.
 
-12
+## 12
 
 1 Hīs factīs pactiōnibus, Lȳsiās pergēbat ad rēgem, Iūdaeī autem agricultūrae operam dabant.
 
@@ -918,7 +918,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 46 **sānctā** et **pia** cōgitātiō. Unde prō dēfūnctīs expiātiōnem fēcit, ut ā peccātō solverentur.
 
-13
+## 13
 
 1 Annō centēsimō quadrāgēsimō nōnō hīs, quī erant circā Iūdam, nōtum factum **est** Antiochum Eupatorem venīre cum multitūdine adversus Iūdaeam
 
@@ -972,7 +972,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 26 Accessit Lȳsiās ad tribūnal, exposuit ratiōnem congruenter, persuāsit, sēdāvit, tranquillōs fēcit, **regressus** **est** Antiochīam. **Hoc** **modo** rēs gestae ā **rēge**, **adventūs** et profectiōnis eius, prōcessērunt.
 
-14
+## 14
 
 1 Sed post trienniī tempus cognōvērunt, quī cum **Iūdā** erant, Dēmētrium Seleucī per portum apud Tripolim adnāvigantem cum multitūdine **validā** et nāvibus,
 
@@ -1064,7 +1064,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 46 prōrsus **exsanguis** iam **effectus**, prōferēns **intestīna** et sūmēns utrīsque manibus prōiēcit super turbās et invocāns Dominātōrem vītae ac **spīritūs**, ut haec ipsī iterum redderet, **ita** **vītā** **dēfūnctus** **est**.
 
-15
+## 15
 
 1 Nīcānor autem, ut comperit eōs, quī cum **Iūdā** erant, in locīs **esse** iuxtā Samarīam, cōgitāvit requiētiōnis **diē** cum omnī sēcūritāte eōs aggredī.
 

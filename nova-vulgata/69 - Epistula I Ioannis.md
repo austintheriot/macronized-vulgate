@@ -1,8 +1,8 @@
-**EPISTULA** Ī **IŌANNIS**
+# **EPISTULA** Ī **IŌANNIS**
 
-1 2 3 4 5
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5)
 
-1 
+## 1
 
 1 Quod fuit ab initiō, quod audīvimus, quod vīdimus oculīs nostrīs, quod perspeximus, et **manūs** nostrae contrectāvērunt dē verbō vītae
 
@@ -24,7 +24,7 @@
 
 10 Sī **dīxerīmus** quoniam nōn peccāvimus, mendācem facimus eum, et verbum eius nōn **est** in nōbīs.
 
-2
+## 2
 
 1 Fīliolī meī, haec scrībō vōbīs, ut nōn peccētis. Sed sī **quis** peccā verit, advocātum habēmus ad Patrem, **Iēsum** Chrīstum iūstum;
 
@@ -84,7 +84,7 @@
 
 29 Sī **scītis** quoniam iūstus **est**, scītōte quoniam et **omnis**, quī facit iūstitiam, ex ipsō **nātus** **est**.
 
-3
+## 3
 
 1 Vidēte quālem cāritātem **dedit** nōbīs Pater, ut fīliī Deī nōmine mur, et sumus! Propter **hōc** mundus nōn cognōscit nōs, quia nōn cognōvit eum.
 
@@ -134,7 +134,7 @@
 
 24 Et, quī servat **mandāta** eius, in ipsō **manet**, et ipse in eō; et in **hōc** cognōscimus quoniam **manet** in nōbīs, ex Spīritū, quem nōbīs **dedit**.
 
-4
+## 4
 
 1 Cārissimī, nōlīte omnī spīrituī **crēdere**, sed **probātē** **spīritus** sī ex Deō sint, quoniam multī pseudoprophētae prōdiērunt in mundum.
 
@@ -178,7 +178,7 @@
 
 21 Et **hoc** mandātum habēmus ab eō, ut, quī dīligit Deum, dīligat et frātrem suum.
 
-5
+## 5
 
 1 **Omnis**, quī crēdit quoniam **Iēsus** **est** Chrīstus, ex Deō **nātus** **est**; et **omnis**, quī dīligit Deum, quī genuit, dīligit et eum, quī **nātus** **est** ex eō.
 

@@ -1,8 +1,8 @@
-**LĪBER** ECCLĒSIASTĒS 
+# **LĪBER** ECCLĒSIASTĒS
 
-1 2 3 4 5 6 7 8 9 10 11 12
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12)
 
-1 
+## 1
 
 1 Verba Ecclēsiastēs fīliī Dāvīd **rēgis** Ierusālem.”
 
@@ -82,7 +82,7 @@ et, quod dēficiēns **est**, numerārī nōn potest.
 
 et, quī addit scientiam, addit et labōrem.
 
-2
+## 2
 
 1 Dīxī ego in **corde** meō: “ **Vēnī**, tentābō tē gaudiō: **fruere** bonīs ”; et ecce **hoc** **quoque** vānitās.
 
@@ -144,7 +144,7 @@ et didicī quod ūnus utriusque
 
 26 Quia hominī bonō in cōnspectū suō **dedit** sapientiam et scientiam et laetitiam; peccātōrī autem **dedit** afflīctiōnem colligendī et congregandī, ut trādat **eī**, quī placuit Deō; sed et **hoc** vānitās **est** et afflīctiō **spīritūs**.
 
-3
+## 3
 
 1 Omnia tempus habent,
 
@@ -210,7 +210,7 @@ et in terram omnia pariter revertuntur.
 
 22 Et dēprehendī nihil **esse** melius quam laetārī hominem in opere suō; nam haec **est** pars illīus. **Quis** enim eum addūcet, ut post sē **futūra** cognōscat?
 
-4
+## 4
 
 1 Vertī mē ad **alia** et vīdī calumniās, quae sub **sōle** geruntur, et ecce lacrimae oppressōrum, et nēmō cōnsōlātor; et ex **parte** opprimentium **violentia**, et nēmō cōnsōlātor.
 
@@ -252,7 +252,7 @@ quī iam nescit ērudīrī.
 
 17 Cūstōdī pedem tuum ingrediēns domum Deī, nam **accēdere**, ut audiās, melius **est** quam cum stultī offerunt victimās: multō enim melior **est** **oboedientia** quam stultōrum victimae, quī nesciunt sē **mālum** facere.
 
-5
+## 5
 
 1 Nē temere quid loquāris, neque cor tuum sit vēlōx ad profēren dum sermōnem **cōram** Deō; Deus enim in caelō, et tū super terram: idcircō sint paucī sermōnēs tuī.
 
@@ -300,7 +300,7 @@ nōn sinit eum dormīre.
 
 19 Nōn enim **satis** recordābitur diērum vītae suae, eō quod Deus occupet dēliciīs cor eius.
 
-6
+## 6
 
 1 **Est** et aliud **malum**, quod vīdī sub **sōle**, et quidem grave apud hominēs:
 
@@ -328,7 +328,7 @@ sed **anima** eius nōn implēbitur ”.
 
 12 Quoniam **quis** scit quid hominī bonum sit in **vītā**, in paucīs diēbus vānitātis suae, quōs peragit velut **umbra**? Aut **quis** **eī** poterit **indicāre** quid post eum futūrum sub **sōle** sit?
 
-7
+## 7
 
 1 **Mēlius** **est** **nōmen** bonum quam **unguenta** **pretiōsa**,
 
@@ -426,7 +426,7 @@ Quod fēcerit Deus hominem rēctum,
 
 et ipsī quaesierint **īnfīnītās** quaestiōnēs.
 
-8
+## 8
 
 1 **Quis** **tālis**, ut sapiēns **est**?
 
@@ -468,7 +468,7 @@ et dūritiēs faciēī illīus commūtātur.
 
 17 ecce intellēxī quod omnium operum Deī nūllam possit homō invenīre ratiōnem eōrum, quae fīunt sub **sōle**; et quantō plūs labōrāverit homō ad quaerendum, tantō minus inveniet; etiamsī dīxerit sapiēns sē nōsse, nōn poterit reperīre.
 
-9
+## 9
 
 1 Omnia haec contulī in **corde** meō, ut **cūriōsē** intellegerem quod iūstī atque sapientēs et **opera** eōrum sunt in manū Deī. Utrum amor sit an **odium**, omnīnō nescit homō: **cōram** illīs omnia.
 
@@ -532,7 +532,7 @@ plūs quam clāmor prīncipis inter stultōs.
 
 sed ūnus, quī peccāverit, **multa** **bona** perdet.
 
-10
+## 10
 
 1 Muscae morientēs perdunt et corrumpunt oleum unguentāriī.
 
@@ -610,7 +610,7 @@ quia et avēs caelī portābunt **vōcem** tuam,
 
 et, quī habet pennās, annūntiābit sententiam.
 
-11
+## 11
 
 1 Mitte pānem tuum super trānseuntēs aquās, quia post tempora **multa** inveniēs illum.
 
@@ -668,7 +668,7 @@ et āmovē **malum** ā carne **tuā**;
 
 **adulēscentia** enim et iuventūs vānae sunt.
 
-12
+## 12
 
 1 Mementō Creātōris tuī
 

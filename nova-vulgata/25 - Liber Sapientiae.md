@@ -1,8 +1,8 @@
-**LIBER** SAPIENTIAE 
+# **LIBER** SAPIENTIAE
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19)
 
-1 
+## 1
 
 1 Dīligite iūstitiam, quī **iūdicātis** terram,
 
@@ -90,7 +90,7 @@ et spōnsiōnem posuērunt ad illam,
 
 quoniam dignī sunt, quī sint ex **parte** illīus.
 
-2
+## 2
 
 1 Dīxērunt enim cōgitantēs apud sē nōn **rēctē**:
 
@@ -220,7 +220,7 @@ et imāginem similitūdinis suae fēcit illum;
 
 experiuntur autem illam, quī sunt ex **parte** illīus.
 
-3
+## 3
 
 1 Iūstōrum autem animae in manū Deī sunt,
 
@@ -312,7 +312,7 @@ nec in **diē** agnitiōnis allocūtiōnem:
 
 19 generātiōnis enim inīquae dīrae sunt cōnsummātiōnēs.
 
-4
+## 4
 
 1 **Mēlius** **est** absque **līberīs** **esse** cum virtūte;
 
@@ -422,7 +422,7 @@ et **memoriā** illōrum perībit.
 
 et trādūcent illōs ex adversō inīquitātēs ipsōrum.
 
-5
+## 5
 
 1 Tunc stābit iūstus in **magnā** **cōnstantiā**
 
@@ -556,7 +556,7 @@ Et ad erēmum perdūcet omnem terram inīquitās,
 
 et malignitās ēvertet **sēdēs** potentium.
 
-6
+## 6
 
 1 **Audīte** ergō, **rēgēs**, et intellegite;
 
@@ -674,7 +674,7 @@ et rēx sapiēns stabilīmentum **populī** **est**.
 
 et prōderit vōbīs.
 
-7
+## 7
 
 1 Sum quidem et ego **mortālis** homō **similis** omnibus
 
@@ -826,7 +826,7 @@ lūcī **comparāta** invenītur splendidior:
 
 sapientiam autem nōn vincit **malitia**.
 
-8
+## 8
 
 1 Attingit ergō ā fīne usque ad fīnem fortiter
 
@@ -952,7 +952,7 @@ adiī Dominum et dēprecātus sum illum
 
 et dīxī ex **tōtō** **corde** meō:
 
-9
+## 9
 
 1 “ Deus patrum meōrum et Domine misericordiae,
 
@@ -1050,7 +1050,7 @@ et, quae tibi **placent**, didicērunt hominēs
 
 et salvātī per sapientiam sunt ”.
 
-10
+## 10
 
 1 Haec illum, quī prīmus fōrmātus **est**, pater **orbis** terrārum,
 
@@ -1172,7 +1172,7 @@ et victrīcem **manum** tuam laudāvērunt ūnanimiter,
 
 et linguās īnfantium fēcit disertās.
 
-11
+## 11
 
 1 Dīrēxit **opera** eōrum
 
@@ -1298,7 +1298,7 @@ Aut, quod ā tē vocātum nōn **esset**, cōnservārētur?
 
 Domine, quī amās animās.
 
-12
+## 12
 
 1 **Incorruptibilis** enim **spīritus** tuus **est** in omnibus.
 
@@ -1448,7 +1448,7 @@ illum, quem ōlim negābant sē nōsse, vērum Deum agnōvērunt;
 
 propter quod et **fīnis** condemnātiōnis **venit** super illōs.
 
-13
+## 13
 
 1 Vānī autem sunt **nātūra** omnēs hominēs,
 
@@ -1560,7 +1560,7 @@ et prō itinere petit ab eō, quod ambulāre nōn potest,
 
 petit ūtilitātem ab eō, quod prōrsus inūtile **est** manibus.
 
-14
+## 14
 
 1 Iterum **alius** nāvigāre cōgitāns
 
@@ -1722,7 +1722,7 @@ sed peccantium **poenā**
 
 perambulat semper iniūstōrum praevāricātiōnem.
 
-15
+## 15
 
 1 Tū autem, Deus noster, **suāvis** et vērus **es**,
 
@@ -1844,7 +1844,7 @@ ut fit in animālium cōnspectū;
 
 effūgērunt autem et Deī laudem et benedictiōnem eius.
 
-16
+## 16
 
 1 Propter haec per hīs similia castīgātī sunt **dignē**
 
@@ -2012,7 +2012,7 @@ et ad ortum **lūcis** tē adōrāre.
 
 et disperiet tamquam **aqua** **supervacua**.
 
-17
+## 17
 
 1 **Magna** sunt enim iūdicia **tua** et inēnārrābilia;
 
@@ -2130,7 +2130,7 @@ imāgō tenebrārum, quae illōs receptūrae erant:
 
 ipsī ergō sibi erant graviōrēs tenebrīs.
 
-18
+## 18
 
 1 Sānctīs autem tuīs **maxima** erat lūx;
 
@@ -2272,7 +2272,7 @@ et **parentum** magnālia in quattuor ōrdinum lapidum **sculptūra**, et **magn
 
 erat enim **sōla** tentātiō īrae sufficiēns.
 
-19
+## 19
 
 1 Impiīs autem usque in novissimum **sine** **misericordiā** **īra** **supervenit**;
 

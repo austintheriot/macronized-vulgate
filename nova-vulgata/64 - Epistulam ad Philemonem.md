@@ -1,6 +1,6 @@
-AD PHILEMŌNEM **EPISTULĀ** SĀNCTĪ PAULĪ APOSTOLĪ
+# AD PHILEMŌNEM **EPISTULĀ** SĀNCTĪ PAULĪ APOSTOLĪ
 
-1 Paulus **vīnctus** Chrīstī **Iēsu** et Tīmotheus frāter Philemōnī dīlēctō et adiūtōrī nostrō 
+1 Paulus **vīnctus** Chrīstī **Iēsu** et Tīmotheus frāter Philemōnī dīlēctō et adiūtōrī nostrō
 
 2 et Apphiae sorōrī et Archippō commīlitōnī nostrō et ecclēsiae, quae in domō **tuā** **est**:
 

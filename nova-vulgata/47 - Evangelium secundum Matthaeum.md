@@ -1,10 +1,10 @@
 # ĒVANGELIUM SECUNDUM MATTHAEUM
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16)
 
-17 18 19 20 21 22 23 24 25 26 27 28
+[17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27) [28](#28)
 
-1
+## 1
 
 1 **Liber** generātiōnis **Iēsu** Chrīstī fīliī Dāvīd fīliī Abraham.
 
@@ -60,7 +60,7 @@ Cum **esset** **dēspōnsāta** māter eius **Maria** Ioseph, antequam convenīr
 
 25 et nōn cognōscēbat eam, dōnec peperit fīlium, et vocāvit **nōmen** eius **Iēsum**.
 
-2
+## 2
 
 1 Cum autem **nātus** **esset** **Iēsus** in Bethlehem Iūdaeae in diēbus **Hērōdis** **rēgis**, ecce Magī ab oriente vēnērunt Hierosolymam
 
@@ -122,7 +122,7 @@ et nōluit cōnsōlārī, quia nōn sunt ”.
 
 23 et veniēns habitāvit in cīvitāte, quae vocātur Nazareth, ut adimplērētur, quod dictum **est** per Prophētās: “ Nazaraeus vocābitur ”.
 
-3
+## 3
 
 1 In diēbus autem illīs **venit** Iōannēs **Baptista** praedicāns in dēsertō Iūdaeae
 
@@ -166,7 +166,7 @@ rēctās facite sēmitās eius!" ”.
 
 mihi complacuī ”.
 
-4
+## 4
 
 1 Tunc **Iēsus** **ductus** **est** in dēsertum ā Spīritū, ut tentārētur ā Diabolō.
 
@@ -246,7 +246,7 @@ lūx **orta** **est** eīs ”.
 
 25 Et secūtae sunt eum turbae multae dē **Galilaeā** et Decapōlī et Hierosolymīs et **Iūdaeā** et dē trāns Iordānem.
 
-5
+## 5
 
 1 Vidēns autem turbās, ascendit in montem; et cum sēdisset, accessērunt ad eum discipulī eius;
 
@@ -344,7 +344,7 @@ lūx **orta** **est** eīs ”.
 
 48 **Ēstote** ergō vōs perfectī, sīcut Pater vester **caelestis** **perfectus** **est**.
 
-6
+## 6
 
 1 Attendite, nē iūstitiam vestram faciātis **cōram** hominibus, ut videāminī ab eīs; aliōquīn mercēdem nōn habētis apud Patrem vestrum, quī in caelīs **est**.
 
@@ -426,7 +426,7 @@ sed **līberā** nōs ā **Malō**.
 
 34 Nōlīte ergō **esse** sollicitī in crāstinum; crāstinus enim diēs sollicitus erit sibi ipse. Sufficit diēī **malitiā** **suā**.
 
-7
+## 7
 
 1 Nōlīte iūdicāre, ut nōn iūdice minī;
 
@@ -486,7 +486,7 @@ sed **līberā** nōs ā **Malō**.
 
 29 erat enim docēns eōs sīcut potestātem habēns, et nōn sīcut scrībae eōrum.
 
-8
+## 8
 
 1 Cum autem dēscendisset dē monte, secūtae sunt eum turbae multae.
 
@@ -560,7 +560,7 @@ et aegrōtātiōnēs portāvit ”.
 
 34 Et ecce **tōta** cīvitās exiit obviam **Iēsu**, et vīsō eō rogābant, ut trānsīret ā fīnibus eōrum.
 
-9
+## 9
 
 1 Et ascendēns in nāviculam trānsfretāvit et **vēnit** in cīvitātem suam.
 
@@ -638,7 +638,7 @@ et aegrōtātiōnēs portāvit ”.
 
 38 **rogātē** ergō Dominum **messis**, ut mittat operāriōs in messem suam ”.
 
-10
+## 10
 
 1 Et **convocātīs** Duodecim discipulīs **suīs**, **dedit** illīs potestātem spīrituum immundōrum, ut ēicerent eōs et cūrārent omnem languōrem et omnem īnfirmitātem.
 
@@ -730,7 +730,7 @@ et nurum adversus socrum suam:
 
 42 Et, quīcumque pōtum dederit ūnī ex minimīs istīs calicem aquae frīgidae tantum in nōmine discipulī, āmēn **dīcō** vōbīs: Nōn perdet mercēdem suam ”.
 
-11
+## 11
 
 1 Et factum **est**, cum cōnsummāsset **Iēsus** praecipiēns Duodecim discipulīs **suīs**, trānsiit inde, ut docēret et praedicāret in cīvitātibus eōrum.
 
@@ -800,7 +800,7 @@ lāmentāvimus, et nōn plānxistis”.
 
 30 Iugum enim meum suāve, et onus meum **leve** **est** ”.
 
-12
+## 12
 
 1 In illō tempore abiit **Iēsus** sabbatīs per **sata**; discipulī autem eius ēsuriērunt et coepērunt **vellere** spīcās et mandūcāre.
 
@@ -914,7 +914,7 @@ dōnec ēiciat ad victōriam iūdicium;
 
 50 Quīcumque enim fēcerit voluntātem Patrīs meī, quī in caelīs **est**, ipse meus frāter et soror et māter **est** ”.
 
-13
+## 13
 
 1 In illō **diē** exiēns **Iēsus** dē domō sedēbat secus mare;
 
@@ -1052,7 +1052,7 @@ et sānem eōs".
 
 58 Et nōn fēcit ibi virtūtēs multās propter incrēdulitātem illōrum.
 
-14
+## 14
 
 1 In illō tempore audīvit Hērōdēs **tetrarcha** fāmam **Iēsu**
 
@@ -1126,7 +1126,7 @@ et sānem eōs".
 
 36 et rogābant eum, ut vel fimbriam vestīmentī eius tangerent; et, quīcumque tetigērunt, salvī factī sunt.
 
-15
+## 15
 
 1 Tunc accēdunt ad **Iēsum** ab Hierosolymīs **pharisaeī** et scrībae dīcentēs:
 
@@ -1212,7 +1212,7 @@ Et accēdentēs discipulī eius rogābant eum dīcentēs: “ Dīmitte eam, quia
 
 39 Et dīmissīs turbīs, ascendit in nāviculam et **venit** in fīnēs Magadān.
 
-16
+## 16
 
 1 Et accessērunt ad eum **pharisaeī** et saddūcaeī tentantēs et rogāvērunt eum, ut signum dē caelō ostenderet eīs.
 
@@ -1270,7 +1270,7 @@ Et accēdentēs discipulī eius rogābant eum dīcentēs: “ Dīmitte eam, quia
 
 28 Āmēn **dīcō** vōbīs: Sunt quīdam dē **hīc** stantibus, quī nōn gustābunt mortem, dōnec videant Fīlium hominis venientem in rēgnō suō ”.
 
-17
+## 17
 
 1 Et post diēs sex assūmit **Iēsus** Petrum et Iacobum et Iōannem frātrem eius et dūcit illōs in montem excelsum seorsum.
 
@@ -1326,7 +1326,7 @@ grānum **sināpis**, **dicētis** montī huic: “Trānsī hinc illūc!”, et 
 
 27 Ut autem nōn scandalizēmus eōs, **vāde** ad mare et mitte hāmum; et eum piscem, quī prīmus ascenderit, tolle; et, apertō ōre, eius inveniēs staterem. Illum sūmēns, dā eīs prō mē et tē ”.
 
-18
+## 18
 
 1 In **illā** **hōrā** accessērunt discipulī ad **Iēsum** dīcentēs: “ **Quis** putās maior **est** in rēgnō caelōrum? ”.
 
@@ -1398,7 +1398,7 @@ vident faciem Patrīs meī, quī in caelīs **est**.
 
 35 Sīc et Pater meus **caelestis** faciet vōbīs, sī nōn **remīserītis** ūnusquisque frātrī suō dē cordibus vestrīs ”.
 
-19
+## 19
 
 1 Et factum **est**, cum cōnsummāsset **Iēsus** sermōnēs istōs, migrāvit ā **Galilaeā** et **venit** in fīnēs Iūdaeae trāns Iordānem.
 
@@ -1460,7 +1460,7 @@ vident faciem Patrīs meī, quī in caelīs **est**.
 
 30 Multī autem erunt prīmī novissimī, et novissimī prīmī.
 
-20
+## 20
 
 1 Simile **est** enim rēgnum caelōrum hominī patrī familiās, quī exiit prīmō **manē** **condūcere** operāriōs in vīneam suam;
 
@@ -1530,7 +1530,7 @@ vident faciem Patrīs meī, quī in caelīs **est**.
 
 34 Misertus autem **Iēsus**, tetigit oculōs eōrum; et cōnfestim vīdērunt et secūtī sunt eum.
 
-21
+## 21
 
 1 Et cum appropinquāssent Hierosolymīs et vēnissent Bethfage, ad montem Olīvētī, tunc **Iēsus** mīsit duōs discipulōs
 
@@ -1638,7 +1638,7 @@ et **est** mīrābile in oculīs nostrīs" ?
 
 46 et quaerentēs eum **tenēre**, timuērunt turbās, quoniam sīcut prophētam eum habēbant.
 
-22
+## 22
 
 1 Et respondēns **Iēsus** dīxit iterum in parabolīs eīs dīcēns:
 
@@ -1734,7 +1734,7 @@ dōnec pōnam inimīcōs tuōs sub pedibus tuīs”?
 
 46 Et nēmō poterat respondēre **eī** verbum, neque **ausus** fuit quisquam ex **illā** **diē** eum amplius interrogāre.
 
-23
+## 23
 
 1 Tunc **Iēsus** **locūtus** **est** ad turbās et ad discipulōs suōs
 
@@ -1814,7 +1814,7 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 39 **Dīcō** enim vōbīs: Nōn mē vidēbitis āmodo, dōnec **dicātis**: "Benedictus, quī **venit** in nōmine Dominil" ”.
 
-24
+## 24
 
 1 Et **ēgressus** **Iēsus** dē templō ībat, et accessērunt discipulī eius, ut ostenderent **eī** aedificātiōnēs templī;
 
@@ -1918,7 +1918,7 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 51 et dīvidet eum partemque eius pōnet cum hypocritīs; **illīc** erit **flētus** et strīdor dentium.
 
-25
+## 25
 
 1 Tunc simile erit rēgnum caelōrum decem virginibus, quae accipientēs lampadēs suās exiērunt obviam spōnsō.
 
@@ -2012,7 +2012,7 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 46 Et ībunt hī in supplicium aeternum, iūstī autem in vītam aeternam ”.
 
-26
+## 26
 
 1 Et factum **est**, cum cōnsummāsset **Iēsus** sermōnēs hōs omnēs, dīxit discipulīs **suīs**:
 
@@ -2164,7 +2164,7 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 75 et **recordātus** **est** Petrus verbī **Iēsu**, quod dīxerat: “ Priusquam gallus cantet, ter mē negābis ”. Et **ēgressus** forās plōrāvit **amāre**.
 
-27
+## 27
 
 1 **Māne** autem factō, cōnsilium iniērunt omnēs prīncipēs sacerdōtum et seniōrēs **populī** adversus **Iēsum**, ut eum mortī trāderent.
 
@@ -2298,7 +2298,7 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 66 Illī autem abeuntēs mūniērunt sepulcrum, signantēs lapidem, cum **cūstōdiā**.
 
-28
+## 28
 
 1 **Sērō** autem post sabbatum, cum illūcēsceret in prīmam sabbatī, **venit** **Mariā** Magdālene et **alterā** **Mariā** **vidēre** sepulcrum.
 

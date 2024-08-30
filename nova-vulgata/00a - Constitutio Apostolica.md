@@ -1,16 +1,6 @@
-CONSTITUTIO APOSTOLICA
+# CONSTITUTIO APOSTOLICA QUA NOVA VULGATA BIBLIORUM SACRORUM EDITIO “TYPICA” DECLARATUR ET PROMULGATUR
 
-QUA
-
-NOVA VULGATA BIBLIORUM SACRORUM EDITIO
-
-“TYPICA” DECLARATUR ET PROMULGATUR
-
-IOANNES PAULUS EPISCOPUS
-
-SERVUS SERVORUM DEI
-
-AD PERPETUAM REI MEMORIAM
+## IOANNES PAULUS EPISCOPUS SERVUS SERVORUM DEI AD PERPETUAM REI MEMORIAM
 
 SCRIPTURARUM THESAURUS, quo salvificus nuntius a Deo hominibus datus continetur — ait enim recte s. Augustinus: “ de illa civitate unde peregrinamur, litterae nobis venerunt: ipsae sunt... quae nos hortantur ut bene vivamus ” (Enarr. in ps. XC, s. 2,1: PL 37, 1159) — ab Ecclesia merito semper summo in honore est habitus singularique diligentia custoditus. Quae quidem ab ipsis initiis suis numquam desiit curare, ut populus christianus quam amplissima frueretur facultate Dei verbum percipiendi, praesertim in sacra Liturgia, in qua celebranda “ maximum est sacrae Scripturae momentum ” (Conc. Vat. II, Const. Sacros. Conc., n. 24).
 

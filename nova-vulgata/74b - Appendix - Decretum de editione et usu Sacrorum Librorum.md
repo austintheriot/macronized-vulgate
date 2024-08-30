@@ -1,6 +1,6 @@
-APPENDIX 
+# APPENDIX 
 
-DECRETUM DE EDITIONE ET USU SACRORUM LIBRORUM
+## DECRETUM DE EDITIONE ET USU SACRORUM LIBRORUM
 
 Insuper eadem sacrosancta Synodus, considerans non parum utilitatis accedere posse Ecclesiae Dei, si ex omnibus latinis editionibus, quae circumferuntur sacrorum librorum, quaenam pro authentica habenda sit, innotescat: statuit et declarat, ut haec ipsa vetus et vulgata editio, quae longo tot saeculorum usu in ipsa Ecclesia probata est, in publicis lectionibus, disputationibus, praedicationibus et expositionibus pro authentica habeatur, ut nemo illam reiicere quovis praetextu audeat vel praesumat.
 

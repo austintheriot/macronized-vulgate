@@ -1,8 +1,8 @@
-**EPISTULA** IACOBĪ
+# **EPISTULA** IACOBĪ
 
-1 2 3 4 5
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5)
 
-1 
+## 1
 
 1 Iacobus, Deī et Dominī **Iēsu** Chrīstī servus, duodecim tribubus, quae sunt in dispersiōne, salūtem.
 
@@ -58,7 +58,7 @@
 
 27 Religiō **munda** et **immaculāta** apud Deum et Patrem haec **est**: vīsitāre pūpillōs et viduās in trībulātiōne eōrum, immaculātum sē cūstōdīre ab **hōc** saeculō.
 
-2
+## 2
 
 1 Frātrēs meī, nōlīte in **persōnā** rum acceptiōne habēre fidem Dominī nostrī **Iēsu** Chrīstī glōriae.
 
@@ -112,7 +112,7 @@
 
 26 Sīcut enim corpus **sine** spīritū ēmortuum **est**, **ita** et **fidēs** **sine** operibus **mortua** **est**.
 
-3
+## 3
 
 1 Nōlīte plūrēs magistrī fierī, fra trēs meī, scientēs quoniam maius iūdicium accipiēmus.
 
@@ -150,7 +150,7 @@
 
 18 **frūctus** autem iūstitiae in pāce sēminātur facientibus pācem.
 
-4
+## 4
 
 1 Unde **bella** et unde **lītēs** in vōbīs? **Nōnne** hinc, ex concupī scentīīs vestrīs, quae mīlitant in membrīs vestrīs?
 
@@ -192,7 +192,7 @@ humilibus autem dat grātiam ”.
 
 17 Scientī igitur bonum facere et nōn facientī, peccātum **est** illī!
 
-5
+## 5
 
 1 Age nunc, dīvitēs, **plōrāte** ulū lantēs in miseriīs, quae adve nient vōbīs.
 

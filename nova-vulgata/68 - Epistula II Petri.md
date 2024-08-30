@@ -1,8 +1,8 @@
-**EPISTULA** IĪ PETRĪ
+# **EPISTULA** IĪ PETRĪ
 
-1 2 3
+[1](#1) [2](#2) [3](#3)
 
-1 
+## 1
 
 1 Simōn Petrus servus et apostolus **Iēsu** Chrīstī hīs, quī **cōae** quālem nōbīs sortītī sunt fidem in **iūstitiā** Deī nostrī et salvātōris **Iēsu** Chrīstī:
 
@@ -46,7 +46,7 @@
 
 21 nōn enim voluntāte **hūmānā** prōlātā **est** **prophētīa** aliquandō, sed ā Spīritū Sānctō ductī locūtī sunt ā Deō hominēs.
 
-2
+## 2
 
 1 Fuērunt vērō et pseudoprō phētae in **populō**, sīcut et in vō bis erunt magistrī mendācēs, quī intrōdūcent sectās perditiōnis et eum, quī **emit** eōs, Dominātōrem negantēs superdūcent sibi celerem perditiōnem.
 
@@ -98,7 +98,7 @@ Audācēs, superbī, glōriās nōn metuunt blasphēmantēs,
 
 et “ Sūs lōta in volūtābrō **lutī** ”.
 
-3
+## 3
 
 1 Hanc vōbīs, cārissimī, iam sē cundam scrībō epistulam, in quibus excitō vestram in commonitiōne sincēram mentem,
 

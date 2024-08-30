@@ -1,8 +1,8 @@
-****LĪBER**** SECUNDUS SAMUĒLIS 
+# ****LĪBER**** SECUNDUS SAMUĒLIS
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24)
 
-1  
+## 1
 
 1 Factum ****est**** autem, postquam mortuus ****est**** Saūl, ut Dāvīd rē verterētur ā caede Amalec et manēret in Siceleg diēs duōs.
 
@@ -92,7 +92,7 @@ super amōrem mulierum.
 
 et periērunt ****arma**** ****bellica****! ”.
 
-2
+## 2
 
 1 Igitur post haec cōnsuluit Dāvīd Dominum dīcēns: “ Num ascendam in ūnam dē cīvitātibus Iūdae? ”. Et ait Dominus ad eum: “ Ascende ”. Dīxitque Dāvīd: “ Quō ascendam? ”. Et respondit ****eī****: “ In ****Hebrōn**** ”.
 
@@ -160,7 +160,7 @@ Et nūntiātum ****est**** Dāvīd quod ****virī**** Iabēs Galaad sepelīssent
 
 32 Tulēruntque Asael et sepeliērunt eum in sepulcrō patris ****suī**** in Bethlehem. Et ambulāvērunt ****tōtā**** nocte Ioab et ****virī****, quī erant cum eō, et in ipsō crepusculō pervēnērunt in ****Hebrōn****.
 
-3
+## 3
 
 1 ****Facta**** ****est**** ergō ****longa**** concertātiō inter domum Saūl et inter domum Dāvīd: Dāvīd semper invalēscēns, ****domus**** autem Saūl dēcrēscēns cotīdiē.
 
@@ -252,7 +252,7 @@ Congeminānsque ****omnis**** ****populus**** flēvit super eum.
 
 39 Ego vērō adhūc ****dēbilis**** sum, quamvīs sim ****ūnctus**** rēx; ****virī**** autem istī fīliī Sarviae dūriōrēs sunt quam ego. Retribuat Dominus facientī ****mālum**** iuxtā malitiam suam ”.
 
-4
+## 4
 
 1 Audīvit autem Isbaal fīlius Saūl quod ****cecidisset**** Abner in ****Hebrōn****, et dissolūtae sunt ****manūs**** eius, ****omnis****que Isrāēl perturbātus ****est****.
 
@@ -278,7 +278,7 @@ Congeminānsque ****omnis**** ****populus**** flēvit super eum.
 
 12 Praecēpit itaque Dāvīd puerīs, et interfēcērunt eōs; praecīdentēsque ****manūs**** et ****pedēs**** eōrum suspendērunt eōs super piscīnam in ****Hebrōn****. Caput autem Isbaal tulērunt et sepeliērunt in sepulcrō Abner in ****Hebrōn****.
 
-5
+## 5
 
 1 Et vēnērunt ūniversae ****tribūs**** Isrāēl ad Dāvīd in ****Hebrōn**** dīcentēs: “ Ecce nōs ****os**** tuum et ****cārō**** ****tua**** sumus.
 
@@ -330,7 +330,7 @@ Congeminānsque ****omnis**** ****populus**** flēvit super eum.
 
 25 Fēcit itaque Dāvīd, sīcut praecēperat ****eī**** Dominus; et percussit Philisthim dē Gabaōn usque dum veniās Gazer.
 
-6
+## 6
 
 1 Congregāvit autem rūrsum Dāvīd omnēs ēlēctōs ex Isrāēl trīgintā ****mīlia****.
 
@@ -378,7 +378,7 @@ Congeminānsque ****omnis**** ****populus**** flēvit super eum.
 
 23 Igitur Michol fīliae Saūl nōn ****est**** ****nātus**** fīlius usque ad diem ****mortis**** suae.
 
-7
+## 7
 
 1 Factum ****est**** autem cum sēdisset rēx in domō ****suā****, et Dominus dedisset ****eī**** requiem undique ab ūniversīs inimīcīs ****suīs****,
 
@@ -438,7 +438,7 @@ Congeminānsque ****omnis**** ****populus**** flēvit super eum.
 
 29 dignāre igitur ****benedīcere**** domuī servī tuī, ut sit in sempiternum ****cōram**** tē, quia tū, Domine Deus, ****locūtus**** ****es****, et benedictiōne ****tua**** benedīcētur ****domus**** servī tuī in sempiternum ”.
 
-8
+## 8
 
 1 Factum ****est**** autem post haec, percussit Dāvīd Philisthim et humiliāvit eōs; et tulit Dāvīd Geth et urbēs eius dē manū Philisthim.
 
@@ -476,7 +476,7 @@ Congeminānsque ****omnis**** ****populus**** flēvit super eum.
 
 18 Banaiās autem fīlius Ioiadae super Cherethī et Phelethī; fīliī autem Dāvīd sacerdōtēs erant.
 
-9
+## 9
 
 1 Et dīxit Dāvīd: “ Putāsne ****est**** aliquis, quī remānserit adhūc dē domō Saūl, ut faciam cum eō misericordiam propter ****Ionathān****? ”.
 
@@ -504,7 +504,7 @@ Congeminānsque ****omnis**** ****populus**** flēvit super eum.
 
 13 Porrō Meribbaal habitābat in Ierusālem, quia dē ****mēnsā**** ****rēgis**** iūgiter vēscēbātur; et erat claudus utrōque ****pede****.
 
-10
+## 10
 
 1 Factum ****est**** autem post haec, ut morerētur rēx fīliōrum Ammōn, et rēgnāret Hanōn fīlius eius prō eō.
 
@@ -544,7 +544,7 @@ Congeminānsque ****omnis**** ****populus**** flēvit super eum.
 
 19 Videntēs autem ūniversī ****rēgēs****, quī erant in praesidiō Adadezer, sē ****vīctōs**** ****esse**** ab Isrāēl, fēcērunt pācem cum Isrāēl et serviērunt eīs. Timuēruntque ****Syrī**** auxilium praebēre ****ultrā**** fīliīs Ammōn.
 
-11
+## 11
 
 1 Factum ****est**** autem vertente annō, eō tempore quō ****solent**** ****rēgēs**** ad ****bella**** ****prōcēdere****, mīsit Dāvīd Ioab et servōs suōs cum eō et ūniversum Isrāēl, et vastāvērunt fīliōs Ammōn et obsēdērunt Rabba; Dāvīd autem remānsit in Ierusālem.
 
@@ -600,7 +600,7 @@ Congeminānsque ****omnis**** ****populus**** flēvit super eum.
 
 27 Trānsāctōque lūctū, mīsit Dāvīd et intrōdūxit eam domum suam, et ****facta**** ****est**** ****eī**** uxor peperitque ****eī**** fīlium. Et displicuit, quod fēcerat Dāvīd, ****cōram**** Dominō.
 
-12
+## 12
 
 1 Mīsit ergō Dominus Nathan ad Dāvīd. Quī cum vēnisset ad eum, dīxit ****eī****: “ Duo ****virī**** erant in cīvitāte ****ūna****, ūnus dīves et alter pauper.
 
@@ -666,7 +666,7 @@ Percussitque Dominus parvulum, quem peperat uxor Uriae Dāvīd, et graviter aegr
 
 31 ****populum**** ****quoque**** eius ēdūcēns condemnāvit ad operam lapicīdīnārum et ad secūrēs et dolābrās ferreās et trānstulit eōs ad opus laterum; sīc fēcit ūniversīs cīvitātibus fīliōrum Ammōn. Et reversus ****est**** Dāvīd et ****omnis**** ****exercitus**** Ierusālem.
 
-13
+## 13
 
 1 Factum ****est**** autem post haec, ut Absalom fīliī Dāvīd sorōrem speciōsissimam, vocābulō Thamar, adamāret Amnon fīlius Dāvīd.
 
@@ -750,7 +750,7 @@ Et ****levāvit**** puer speculātor oculōs suōs et aspexit, et ecce ****popul
 
 39 Cessāvitque ****spīritus**** ****rēgis**** adversārī Absalom, eō quod cōnsōlātus ****esset**** super Amnon interitū.
 
-14
+## 14
 
 1 Intellegēns autem Ioab fīlius Sarviae quod cor ****rēgis**** vēr sum ****esset**** ad Absalom,
 
@@ -818,7 +818,7 @@ Et ****levāvit**** puer speculātor oculōs suōs et aspexit, et ecce ****popul
 
 33 ****Ingressus**** Ioab ad rēgem nūntiāvit ****eī****. ****Vocātus****que Absalom intrāvit ad rēgem et adōrāvit super faciem in ****terrā**** ****cōram**** eō; ōsculātusque ****est**** rēx Absalom.
 
-15
+## 15
 
 1 Post haec fēcit sibi Absalom ****currūs**** et equōs et quīnquāgintā virōs, quī praecēderent eum.
 
@@ -894,7 +894,7 @@ Et ****levāvit**** puer speculātor oculōs suōs et aspexit, et ecce ****popul
 
 37 Veniente ergō Chusaī amīcō Dāvīd in cīvitātem, Absalom ****quoque**** ****ingressus**** ****est**** Ierusālem.
 
-16
+## 16
 
 1 Cumque Dāvīd trānsīsset paululum ****montīs**** verticem, appāruit Siba puer Meribbaal in occursum eius cum duōbus asinīs strātīs, quī onerātī erant ****ducentīs**** pānibus et centum alligātūrīs ūvae passae et centum fasciculīs frūctuum aestīvōrum et utre vīnī.
 
@@ -942,7 +942,7 @@ Et ****levāvit**** puer speculātor oculōs suōs et aspexit, et ecce ****popul
 
 23 Cōnsilium autem Achitophel, quod dabat in diēbus illīs, quasi sī ****quis**** cōnsuleret Deum; sīc erat omne cōnsilium Achitophel, et cum ****esset**** cum Dāvīd et cum ****esset**** cum Absalom.
 
-17
+## 17
 
 1 Dīxitque Achitophēl ad Absalom: “ Ēligam mihi duodecim ****mīlia**** ****virōrum**** et cōnsurgēns persequar Dāvīd hāc nocte
 
@@ -1002,7 +1002,7 @@ Et ****levāvit**** puer speculātor oculōs suōs et aspexit, et ecce ****popul
 
 29 et mel et būtȳrum, ovēs et pinguēs vitulōs; dedēruntque Dāvīd et ****populō****, quī cum eō erat, ad vēscendum; suspicātī enim sunt ****populum**** famē et sitī fuisse fatīgātum in dēsertō.
 
-18
+## 18
 
 1 Igitur, recensītō Dāvīd ****populō**** suō, cōnstituit super eum tribūnōs et centuriōnēs.
 
@@ -1068,7 +1068,7 @@ Et ****levāvit**** puer speculātor oculōs suōs et aspexit, et ecce ****popul
 
 32 Dīxit autem rēx ad ****Aethiopem****: “ ****Est****nē pāx puerō Absalom? ”. Cui respondēns ****Aethiops****: “ Fīant, inquit, sīcut puer inimīcī dominī meī ****rēgis**** et ūniversī, quī cōnsurrēxērunt adversus eum in ****malum****! ”.
 
-19
+## 19
 
 1 Contremuit itaque rēx et ascendit cēnāculum portae et flēvit. Et sīc loquēbātur vādēns: “ Fīlī mī Absalom, fīlī mī, fīlī mī Absalom! ****Quis**** mihi tribuat, ut ego moriar prō tē? Absalom fīlī mī, fīlī mī! ”.
 
@@ -1160,7 +1160,7 @@ Isrāēl autem fūgerat in tabernācula ****sua****.
 
 44 Et respondit vir Isrāēl ad ****virum**** Iūdae et ait: “ Decem partēs mihi sunt in ****rēge**** et ideō etiam in Dāvīd. Ego sum potior tē; cūr contempsistī mē? Et nōn ego prior ****locūtus**** sum, ut redūcerem rēgem meum? ”. ****Durius**** autem respondērunt ****virī**** Iūdae ****virīs**** Isrāēl.
 
-20
+## 20
 
 1 ****Accidit**** ****quoque****, ut ibi ****esset**** vir Belial nōmine ****Sēba**** fīlius Bochrī Beniaminītā; et cecinit ****būcina**** et ait:
 
@@ -1220,7 +1220,7 @@ Vir Isrāēl, in tabernācula ****tua****! ”.
 
 26 ****Hīra**** ****quoque**** Iairītēs erat sacerdōs Dāvīd.
 
-21
+## 21
 
 1 ****Facta**** ****est**** famēs in diēbus Dāvīd ****tribūs**** annīs iūgiter. Et cōnsuluit Dāvīd ōrāculum Dominī, dīxitque Dominus: “ Super Saūl et super domum eius ****est**** sanguis, quia ****occīdit**** Gabaonitās ”.
 
@@ -1266,7 +1266,7 @@ Vir Isrāēl, in tabernācula ****tua****! ”.
 
 22 Hī quattuor erant dē genere Rapha ex Geth et ****cecidērunt**** per ****manum**** Dāvīd et servōrum eius.
 
-22
+## 22
 
 1 ****Locūtus**** ****est**** autem Dāvīd Dominō verba carminis huius in ****diē****, ****quā**** līberāvit eum Dominus dē manū omnium inimīcōrum suōrum et dē manū Saūl,
 
@@ -1492,7 +1492,7 @@ et facit misericordiam chrīstō suō Dāvīd
 
 et sēminī eius in sempiternum ”.
 
-23
+## 23
 
 1 Haec autem sunt verba Dāvīd ****novissima****:
 
@@ -1612,7 +1612,7 @@ Iesbaal Hachamōnītēs, prīnceps inter trēs, ipse ****levāvit**** hastam sua
 
 Omnēs trīgintā septem.
 
-24
+## 24
 
 1 Et addidit ****furor**** Dominī īrāscī contrā Isrāēl; commōvit que Dāvīd contrā eōs dīcēns: “ ****Vade****, numerā Isrāēl et Iūdam ”.
 

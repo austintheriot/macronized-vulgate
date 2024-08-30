@@ -1,10 +1,10 @@
-**LĪBER** **ECCLESIASTICUS** 
+# **LĪBER** **ECCLESIASTICUS**
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27)
 
-28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51
+[28](#28) [29](#29) [30](#30) [31](#31) [32](#32) [33](#33) [34](#34) [35](#35) [36](#36) [37](#37) [38](#38) [39](#39) [40](#40) [41](#41) [42](#42) [43](#43) [44](#44) [45](#45) [46](#46) [47](#47) [48](#48) [49](#49) [50](#50) [51](#51)
 
-PROLOGUS
+## PROLOGUS
 
 Cum **multa** nōbīs et **magna** per Lēgem et Prophētās aliōsque, quī secūtī sunt illōs, **data** sint, in quibus oportet laudāre Isrāēl doctrīnae et sapientiae **causā**, cumque nōn **sōlum** ipsōs legentēs necesse sit fierī perītōs, sed etiam extrāneīs posse sapientiae studiōsōs et dīcentēs et scrībentēs ūtilēs fierī, avus meus **Iēsus**, postquam sē amplius **dedit** ad dīligentiam lēctiōnis **Lēgis** et Prophētārum et aliōrum librōrum, quī nōbīs ā **parentibus** nostrīs trāditī sunt, atque in hīs sufficientem ūsum acquīsīvit, voluit et ipse **scrībere** aliquid hōrum, quae ad doctrīnam et sapientiam pertinent, ut dēsīderantēs **discere** et illōrum perītī factī **magis** **magis**que attendant animō et cōnfirmentur per lēgitimam vītam.
 
@@ -12,7 +12,7 @@ Hortor itaque venīre vōs cum **benevolentiā** et attentiōre studiō lēctiō
 
 Nam in octāvō et trīgēsimō annō temporibus Ptolemaeī Ēvergētis **rēgis**, postquam **pervēnī** in Aegyptum et, cum multum temporis ibi fēcissem, **invēnī** ibi exemplar nōn parvae neque contemnendae doctrīnae. Itaque bonum et necessārium putāvī et ipse aliquam **addere** dīligentiam et labōrem interpretandī librum istum; et multam vigiliam attulī et doctrīnam in spatiō temporis, ut perdūcēns ad fīnem, librum istum **ederem** etiam prō illīs, quī in **terrā** **aliēna**, cum iam mōribus īnstitūtī sint, sibi prōposuerint secundum lēgem vītam **agere**.
 
-1 
+## 1
 
 1 **Omnis** **sapientia** ā Dominō Deō **est**
 
@@ -168,7 +168,7 @@ et in **mediō** synagōgae ēlīdat tē;
 
 et cor tuum plēnum **est** dolō et **fallācia**.
 
-2
+## 2
 
 1 Fīlī, accēdēns ad servitūtem Deī
 
@@ -266,7 +266,7 @@ et patientiam habēbunt usque ad īnspectiōnem illīus
 
 sīc et **misericordiā** illīus ”.
 
-3
+## 3
 
 1 Fīliī sapientiae **ecclēsia** iūstōrum,
 
@@ -414,7 +414,7 @@ meminit eius in posterum,
 
 et in tempore **cāsūs** **suī** inveniet firmāmentum.
 
-4
+## 4
 
 1 Fīlī, eleēmosynam **pauperis** nē dēfraudēs
 
@@ -564,7 +564,7 @@ et pavidus et remissus in operibus tuīs.
 
 et ad dandum **collēcta**.
 
-5
+## 5
 
 1 Nē innītāris possessiōnibus tuīs
 
@@ -644,7 +644,7 @@ et dēnotātiō **pessima** super bilinguem,
 
 susurrātōrī autem **odium** et **inimīcitia** et **contumēlia**.
 
-6
+## 6
 
 1 Nec pusillum nec multum noceās
 
@@ -810,7 +810,7 @@ et ipse firmābit tibi cor,
 
 et **concupiscentia** sapientiae dabitur tibi.
 
-7
+## 7
 
 1 Nōlī facere **mala**, et **mala** nōn tē apprehendent;
 
@@ -972,7 +972,7 @@ ex hīs enim in dīlēctiōne firmāberis.
 
 et in aeternum nōn peccābis.
 
-8
+## 8
 
 1 Nōn lītigēs cum homine potente,
 
@@ -1072,7 +1072,7 @@ nescīs enim quid pariet.
 
 nē forte repellās ā tē bonum.
 
-9
+## 9
 
 1 Nōn zēlēs mulierem **sinūs** tuī,
 
@@ -1166,7 +1166,7 @@ in sēnsū vērō seniōrum verbum.
 
 et temerārius in verbō suō **odibilis** erit.
 
-10
+## 10
 
 1 Iūdex sapiēns īnstituet **populum** suum,
 
@@ -1310,7 +1310,7 @@ et **est** homō, quī honōrificātur propter substantiam suam.
 
 Et, quī exhonōrātur in **substantiā**, quantō **magis** in paupertāte!
 
-11
+## 11
 
 1 **Sapientia** humiliātī exaltābit caput illīus
 
@@ -1472,7 +1472,7 @@ nē forte indūcat super tē maculam in perpetuum.
 
 et abaliēnābit tē ā tuīs propriīs.
 
-12
+## 12
 
 1 Sī **benefēcerīs**, scītō cui **fēcerīs**,
 
@@ -1574,7 +1574,7 @@ inveniēs eum **illīc** priōrem,
 
 et **multa** susurrāns commūtābit vultum suum.
 
-13
+## 13
 
 1 Quī tetigerit picem, inquinābitur ab **eā**;
 
@@ -1712,7 +1712,7 @@ sīve in **bona** sīve in **mala**.
 
 difficile inveniēs et cum labōre.
 
-14
+## 14
 
 1 Beātus vir, quī nōn **est** **lāpsus** verbō ex ōre suō
 
@@ -1834,7 +1834,7 @@ et sub rāmīs eius **morābitur**;
 
 et in **glōriā** eius requiēscet.
 
-15
+## 15
 
 1 Quī timet Deum, faciet haec,
 
@@ -1936,7 +1936,7 @@ et nēminī **dedit** spatium peccandī.
 
 22 Nōn concupīscās multitūdinem fīliōrum īnfidēlium et inīquōrum.
 
-16
+## 16
 
 1 Nē iūcundēris in fīliīs impiīs; sī multiplicentur, nōn oblectēris super ipsōs,
 
@@ -2088,7 +2088,7 @@ et complēvit illam bonīs **suīs**;
 
 et in ipsam iterum reversiō illōrum.
 
-17
+## 17
 
 1 Deus creāvit dē **terrā** hominem
 
@@ -2218,7 +2218,7 @@ Et **hoc** arguētur.
 
 et omnēs hominēs **terra** et cinis.
 
-18
+## 18
 
 1 Quī vīvit in aeternum, creāvit omnia simul.
 
@@ -2360,7 +2360,7 @@ cum nihil tibi **est** in sacculō:
 
 **eris** enim invidus vītae tuae.
 
-19
+## 19
 
 1 Operārius ēbriōsus nōn locuplētābitur;
 
@@ -2482,7 +2482,7 @@ et **est** indicium, quod nōn probātur **esse** bonum;
 
 et **est** tacēns, et ipse **est** prūdēns.
 
-20
+## 20
 
 1 Quam bonum **est** **arguere** quam īrāscī,
 
@@ -2616,7 +2616,7 @@ quae ūtilitās in utrīsque?
 
 quam homō, quī abscondit sapientiam suam.
 
-21
+## 21
 
 1 Fīlī, peccāstī? Nōn adiciās iterum,
 
@@ -2744,7 +2744,7 @@ et, quī cum eō mānserit, odiōsus erit:
 
 tacitus et sēnsātus honōrābitur.
 
-22
+## 22
 
 1 Lapidī **lūteō** **comparātus** **est** piger,
 
@@ -2844,7 +2844,7 @@ sīc et quī convīciātur amīcō, dissolvit amīcitiam.
 
 nōn dēspērēs: **est** enim **regressus**;
 
-ad amīcum 
+ad amīcum
 
 27 sī **aperuerīs** **os** trīste,
 
@@ -2882,7 +2882,7 @@ et super **labiā** **meā** signāculum aptum,
 
 ut nōn cadam ab ipsīs, et **lingua** **mea** perdat mē?
 
-23
+## 23
 
 1 Domine, pater et dominātor vītae meae,
 
@@ -3076,7 +3076,7 @@ et nihil dulcius quam **attendere** **mandātīs** Dominī.
 
 longitūdō enim diērum assūmētur ab eō.
 
-24
+## 24
 
 1 Laus sapientiae.
 
@@ -3266,7 +3266,7 @@ et nōn dēsinam in prōgeniēs illōrum usque in aevum sānctum.
 
 sed omnibus exquīrentibus illam.
 
-25
+## 25
 
 1 In **tribus** placitum **est** spīrituī meō,
 
@@ -3400,7 +3400,7 @@ cōnfundet tē in cōnspectū inimīcōrum;
 
 et dīmitte illam dē domō **tuā**.
 
-26
+## 26
 
 1 Mulieris bonae beātus vir:
 
@@ -3508,7 +3508,7 @@ difficile ēruitur negōtiāns ā **neglegentiā**,
 
 et nōn iustificābitur caupō ā **peccātīs**.
 
-27
+## 27
 
 1 Propter lucrum multī dēlīquērunt;
 
@@ -3648,7 +3648,7 @@ dolor autem cōnsūmet illōs, antequam moriantur.
 
 et vir peccātor continēns erit illōrum.
 
-28
+## 28
 
 1 Quī vindicārī vult, ā Dominō inveniet vindictam,
 
@@ -3782,7 +3782,7 @@ nē cadās in cōnspectū inimīcōrum īnsidiantium tibi,
 
 et sit **cāsus** tuus **īnsānābilis** in mortem.
 
-29  
+## 29
 
 1 Quī facit misericordiam, fenērātur proximō suō;
 
@@ -3912,7 +3912,7 @@ Necessitūdine **domūs** meae hospitiō mihi **factus** **est** frāter ”.
 
 obiūrgātiō peregrīnātiōnis et improperium fēnerātōris.
 
-30
+## 30
 
 1 Dē fīliīs.
 
@@ -4032,7 +4032,7 @@ et ante tempus senectam addūcet **cōgitātus**.
 
 epulae enim illīus dīligenter fīunt.
 
-31
+## 31
 
 1 **Vigilia** dīvitis tābefacit carnēs,
 
@@ -4202,7 +4202,7 @@ et nōn dēspiciās eum in iūcunditāte illīus;
 
 et nōn premās illum in repetendō.
 
-32
+## 32
 
 1 Rēctōrem tē posuērunt? Nōlī extollī:
 
@@ -4310,7 +4310,7 @@ haec **est** enim cōnservātiō mandātōrum.
 
 et, quī cōnfīdit in Dominō, nōn minōrābitur.
 
-33
+## 33
 
 1 Timentī Dominum nōn occurrent **mala**,
 
@@ -4464,7 +4464,7 @@ nē in sanguinem animae tuae īrāscāris.
 
 in **quā** **viā** quaerās illum, nescīs.
 
-34
+## 34
 
 1 **Vāna** spēs et mendāx **virō** īnsēnsātō,
 
@@ -4592,7 +4592,7 @@ et iterum vādēns et **eādem** faciēns.
 
 Aut quid prōficit humiliandō sē?
 
-35
+## 35
 
 1 Quī cōnservat lēgem, multiplicat oblātiōnēs:
 
@@ -4696,7 +4696,7 @@ et oblectābit istōs **misericordiā** **suā**.
 
 quasi nūbēs pluviae in tempore siccitātis.
 
-36
+## 36
 
 1 Miserēre nostrī, Deus omnium, et respice nōs
 
@@ -4816,7 +4816,7 @@ et dēflectēns ubicumque obscūrāverit,
 
 quasi succīnctus **latrō** exsiliēns dē cīvitāte in cīvitātem?
 
-37
+## 37
 
 1 **Omnis** amīcus **dīcet**: “ Et ego amīcitiam cōpulāvī! ”;
 
@@ -4974,7 +4974,7 @@ et aviditās appropinquābit usque ad choleram.
 
 quī autem abstinēns **est**, adiciet vītam.
 
-38
+## 38
 
 1 **Honōra** medicum propter necessitātem;
 
@@ -5164,7 +5164,7 @@ et in parabolīs nōn invenientur;
 
 et sollicitūdō illōrum in operātiōne **artis**.
 
-39
+## 39
 
 1 Quī autem accommodat animam suam ad timōrem Deī
 
@@ -5346,7 +5346,7 @@ omnia enim in tempore suō comprobābuntur.
 
 et benedīcite **nōmen** Dominī.
 
-40
+## 40
 
 1 Occupātiō **magna** **creāta** **est** omnibus hominibus,
 
@@ -5488,7 +5488,7 @@ Contāminat enim animam suam cibīs aliēnīs;
 
 et in ventre eius **ignis** ārdēbit.
 
-41
+## 41
 
 1 Ō mors, quam **amārā** **est** **memoriā** **tuā**
 
@@ -5612,7 +5612,7 @@ neque **steterīs** ad **lectum** eius;
 
 et, cum **dederīs**, nē improperēs;
 
-42
+## 42
 
 1 et ab iterātiōne sermōnis **audītūs**
 
@@ -5758,7 +5758,7 @@ et nōn fēcit quidquam dēficiēns.
 
 et **quis** satiābitur vidēns glōriam eius?
 
-43
+## 43
 
 1 **Glōria** altitūdinis firmāmentum pūritātis,
 
@@ -5908,7 +5908,7 @@ Et **quis** magnificābit eum sīcut **est**?
 
 et **piē** agentibus **dedit** sapientiam.
 
-44  
+## 44
 
 1 Laus patrum.
 
@@ -6042,7 +6042,7 @@ et dīvīsit illī partem in tribubus duodecim.
 
 invenientem grātiam in oculīs **omnīs** **carnīs**,
 
-45
+## 45
 
 1 dīlēctum ā Deō et hominibus
 
@@ -6226,7 +6226,7 @@ nē abolērentur **bona** ipsōrum,
 
 et **glōria** ipsōrum in generātiōnēs aeternās.
 
-46
+## 46
 
 1 **Fortis** in bellō **Iēsus** fīlius Nun,
 
@@ -6358,7 +6358,7 @@ et exaltāvit **vōcem** suam dē **terrā** in **prophētīā**
 
 ad dēlendam impietātem **gentis**.
 
-47
+## 47
 
 1 Post hunc surrēxit Nathan
 
@@ -6434,7 +6434,7 @@ et propter illum habitāvit in sēcūritāte.
 
 cui Deus requiem **dedit** in circuitū,
 
-ut conderet domum in nōmine suō et parāret sānctuārium in sempiternum. Quemadmodum **ērudītus** **es** in iuventūte **tuā** 
+ut conderet domum in nōmine suō et parāret sānctuārium in sempiternum. Quemadmodum **ērudītus** **es** in iuventūte **tuā**
 
 16 et implētus **es** quasi flūmen **sapientia**!
 
@@ -6510,7 +6510,7 @@ et **plūrima** redundāvērunt **peccāta** ipsōrum valdē,
 
 usque dum pervenīret super illōs **vindicta**.
 
-48
+## 48
 
 1 Et surrēxit **Ēlias** **prophētā** quasi **ignis**,
 
@@ -6650,7 +6650,7 @@ usque in sempiternum ostendit **futūra**
 
 28 et **abscondita**, antequam ēvenīrent.
 
-49
+## 49
 
 1 **Memoria** Iosiae in compositiōnem **odōris**
 
@@ -6742,7 +6742,7 @@ et post mortem prophetāvērunt.
 
 et super omnem animam in orīgine Adam.
 
-50
+## 50
 
 1 Simōn, Ōniae fīlius, sacerdōs magnus,
 
@@ -6900,7 +6900,7 @@ quī pōnit **illa** in **corde** suō, sapiēns erit semper.
 
 quia timor Dominī vestīgium eius **est**.
 
-51
+## 51
 
 1 Ōrātiō **Iēsu** fīliī Sirach.
 

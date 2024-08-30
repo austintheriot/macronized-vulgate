@@ -1,8 +1,8 @@
-AD HEBRAEŌS **EPISTULA** SĀNCTĪ PAULĪ APOSTOLĪ
+# AD HEBRAEŌS **EPISTULA** SĀNCTĪ PAULĪ APOSTOLĪ
 
-1 2 3 4 5 6 7 8 9 10 11 12 13
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13)
 
-1 
+## 1
 
 1 Multifāriam et multīs modīs ōlim Deus **locūtus** patribus in **prophētīs**,
 
@@ -66,7 +66,7 @@ dōnec pōnam inimīcōs tuōs scabellum pedum tuōrum ”?
 
 14 **Nōnne** omnēs sunt administrātōriī **spīritūs**, quī in ministerium mittuntur propter eōs, quī hērēditātem capient **salūtis**?
 
-2
+## 2
 
 1 Proptereā abundantius oportet observāre nōs **ea**, quae audīvī mūs, nē forte praeterfluāmus.
 
@@ -118,11 +118,11 @@ et iterum: “ Ecce ego et puerī, quōs mihi **dedit** Deus ”.
 
 quae sunt ad Deum, ut repropitiāret **dēlicta** **populī**;
 
-18 in quō enim **passus** **est** ipse tentātus, pō tēns **est** eīs, quī tentantur, auxiliārī. 
+18 in quō enim **passus** **est** ipse tentātus, pō tēns **est** eīs, quī tentantur, auxiliārī.
 
- 
 
-3
+
+## 3
 
 1 Unde, frātrēs sānctī, vocātiōnis **caelestīs** participēs, **cōnsīderātē** apostolum et pontificem cōnfessiōnis nostrae **Iēsum**,
 
@@ -176,7 +176,7 @@ nōlīte obdūrāre **corda** **vestra** quemadmodum in **illā** exacerbātiōn
 
 19 Et vidēmus quia nōn potuērunt introīre propter incrēdulitātem.
 
-4
+## 4
 
 1 Timeāmus ergō, nē forte, **relicta** pollicitātiōne introeundī in rē quiem eius, exīstimētur aliquis ex vōbīs **dēesse**;
 
@@ -220,7 +220,7 @@ nōlīte obdūrāre **corda** **vestra** ”.
 
 16 adeāmus ergō cum **fīdūciā** ad thronum grātiae, ut misericordiam cōnsequāmur et grātiam inveniāmus in auxilium opportūnum.
 
-5
+## 5
 
 1 **Omnīs** namque pontifex ex hominibus assūmptus prō hōmī nibus cōnstituitur in hīs, quae sunt ad Deum, ut offerat **dōna** et sacrificia prō **peccātīs**;
 
@@ -256,7 +256,7 @@ ego hodiē genuī tē ”;
 
 14 perfectōrum autem **est** solidus cibus, eōrum, quī prō cōnsuētūdine exercitātōs habent **sēnsūs** ad discrētiōnem bonī ac **malī**.
 
-6
+## 6
 
 1 Quāpropter praetermittentēs inchoātiōnis Chrīstī sermōnem ad perfectiōnem ferāmur, nōn rūrsum iacientēs fundāmentum paenitentiae ab operibus mortuīs et fideī ad Deum,
 
@@ -298,7 +298,7 @@ ego hodiē genuī tē ”;
 
 20 ubi praecursor prō nōbīs introīvit **Iēsus**, secundum ōrdinem Melchisedech pontifex **factus** in aeternum.
 
-7
+## 7
 
 1 **Hic** enim Melchisedech, rēx Salem, sacerdōs Deī summī, quī ob viāvit Abrahae regressō ā caede rēgum et benedīxit **eī**,
 
@@ -360,7 +360,7 @@ ego hodiē genuī tē ”;
 
 28 Lēx enim hominēs cōnstituit pontificēs īnfirmitātem habentēs; sermō autem iūris iūrandī, quod post lēgem **est**, Fīlium in aeternum cōnsummātum.
 
-8
+## 8
 
 1 Caput autem super **eā**, quae dīcuntur: tālem habēmus pontī ficem, quī cōnsēdit in **dexterā** thronī Maiestātis in caelīs,
 
@@ -388,7 +388,7 @@ ego hodiē genuī tē ”;
 
 13 Dīcendō “ novum ” veterāvit prius; quod autem antīquātur et senēscit, prope interitum **est**.
 
-9
+## 9
 
 1 Habuit ergō et prius **praecepta** **cultūs** et Sānctum huius saeculī.
 
@@ -446,7 +446,7 @@ ego hodiē genuī tē ”;
 
 28 sīc et Chrīstus, semel oblātus ad multōrum **auferenda** **peccāta**, secundō **sine** peccātō appārēbit exspectantibus sē in salūtem.
 
-10
+## 10
 
 1 Umbram enim habēns lēx bonōrum futūrōrum, nōn ip sam imāginem rērum, per singulōs annōs iīsdem ipsīs hostiīs, quās offerunt indēsinenter, numquam potest accēdentēs perfectōs facere.
 
@@ -542,7 +542,7 @@ nōn sibi **complacet** in eō **animā** **meā**.
 
 39 Nōs autem nōn sumus subtractiōnis in perditiōnem, sed fideī in acquīsītiōnem animae.
 
-11
+## 11
 
 1 **Est** autem **fidēs** spērandō rum **substantiā**, rērum argu mentum nōn appārentium.
 
@@ -624,7 +624,7 @@ nōn sibi **complacet** in eō **animā** **meā**.
 
 40 Deō prō nōbīs melius aliquid prōvidente, ut nē **sine** nōbīs cōnsummārentur.
 
-12
+## 12
 
 1 Ideōque et nōs tantam ha bentēs circumpositam nōbīs nūbem testium, dēpōnentēs omne pondus et circumstāns nōs peccātum, per patientiam currāmus prōpositum nōbīs certāmen,
 
@@ -690,7 +690,7 @@ flagellat autem omnem fīlium, quem recipit ”.
 
 29 etenim Deus noster **ignis** cōnsūmēns **est**.
 
-13
+## 13
 
 1 **Cāritās** frāternitātis maneat.
 

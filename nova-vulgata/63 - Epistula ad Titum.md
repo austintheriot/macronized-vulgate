@@ -1,8 +1,8 @@
-AD TITUM **EPISTULĀ** SĀNCTĪ PAULĪ APOSTOLĪ
+# AD TITUM **EPISTULĀ** SĀNCTĪ PAULĪ APOSTOLĪ
 
-1 2 3
+[1](#1) [2](#2) [3](#3)
 
-1 
+## 1
 
 1 Paulus servus Deī, apostolus autem **Iēsu** Chrīstī secundum fidem **ēlēctōrum** Deī et agnitiōnem vēritātis, quae secundum pietātem **est**
 
@@ -34,11 +34,11 @@ AD TITUM **EPISTULĀ** SĀNCTĪ PAULĪ APOSTOLĪ
 
 15 Omnia **munda** mundīs; **coinquinātis** autem et īnfidēlibus nihil mundum, sed inquinātae sunt eōrum et mēns et **cōnscientia**.
 
-16 Cōnfitentur sē nōsse Deum, factīs autem negant, cum sunt abōminātī et inoboedientēs et ad omne opus bonum reprobī. 
+16 Cōnfitentur sē nōsse Deum, factīs autem negant, cum sunt abōminātī et inoboedientēs et ad omne opus bonum reprobī.
 
- 
 
-2
+
+## 2
 
 1 Tū autem **loquere**, quae decent sānam doctrīnam.
 
@@ -70,7 +70,7 @@ AD TITUM **EPISTULĀ** SĀNCTĪ PAULĪ APOSTOLĪ
 
 15 Haec **loquere** et exhortāre et argue cum omnī imperiō. Nēmō tē contemnat!
 
-3
+## 3
 
 1 Admonē illōs prīncipibus, pote statibus subditōs **esse**, dictō oboedīre, ad omne opus bonum parātōs **esse**,
 

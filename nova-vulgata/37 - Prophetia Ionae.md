@@ -1,8 +1,8 @@
-**PROPHĒTĪA** IŌNAE 
+# **PROPHĒTĪA** IŌNAE
 
-1 2 3 4
+[1](#1) [2](#2) [3](#3) [4](#4)
 
-1 
+## 1
 
 1 Et factum **est** verbum Dominī ad Iōnam fīlium Amāthī dīcēns:
 
@@ -36,7 +36,7 @@
 
 16 Et timuērunt **virī** timōre magnō Dominum et immolāvērunt hostiās Dominō et vōvērunt **vōta**.
 
-2
+## 2
 
 1 Et praeparāvit Dominus piscem grandem, ut dēglūtīret Iōnam; et erat **Iōnās** in ventre **piscis** **tribus** diēbus et **tribus** noctibus.
 
@@ -102,7 +102,7 @@ salūs Dominī **est** ”.
 
 11 Et dīxit Dominus piscī, et ēvomuit Iōnam in āridam.
 
-3
+## 3
 
 1 Et factum **est** verbum Dominī ad Iōnam secundō dīcēns:
 
@@ -128,7 +128,7 @@ Et Nineve erat cīvitās **magna** **cōram** Deō, itinere trium diērum.
 
 nōn fēcit.
 
-4
+## 4
 
 1 Et **afflīctus** **est** **Iōnās** afflīctiōne **magnā** et īrātus **est**;
 

@@ -1,8 +1,8 @@
-AD GALĀTĀS **EPISTULA** SANTĪ PAULĪ APOSTOLĪ
+# AD GALĀTĀS **EPISTULA** SANTĪ PAULĪ APOSTOLĪ
 
-1 2 3 4 5 6
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6)
 
-1 
+## 1
 
 1 Paulus apostolus, nōn ab hominibus neque per hominem, sed per **Iēsum** Chrīstum et Deum Patrem, quī suscitāvit eum ā mortuīs,
 
@@ -52,7 +52,7 @@ AD GALĀTĀS **EPISTULA** SANTĪ PAULĪ APOSTOLĪ
 
 24 et in mē glōrificābant Deum.
 
-2
+## 2
 
 1 Deinde post annōs quattuor decim, iterum ascendī Hierosō lymam cum Barnabā, assūmptō et Titō;
 
@@ -96,7 +96,7 @@ AD GALĀTĀS **EPISTULA** SANTĪ PAULĪ APOSTOLĪ
 
 21 Nōn irritam faciō grātiam Deī; sī enim per lēgem **iūstitiā**, ergō Chrīstus grātīs mortuus **est**.
 
-3
+## 3
 
 1 Ō īnsēnsātī Galatae, **quis** vōs fascināvit, ante quōrum oculōs **Iēsus** Chrīstus dēscrīptus **est** crucifīxus?
 
@@ -156,7 +156,7 @@ AD GALĀTĀS **EPISTULA** SANTĪ PAULĪ APOSTOLĪ
 
 29 Sī autem vōs Chrīstī, ergō Abrahae sēmen **estis**, secundum prōmissiōnem hērēdēs.
 
-4
+## 4
 
 1 **Dīcō** autem: Quantō tempore hērēs parvulus **est**, nihil differt ā servō, cum sit dominus omnium,
 
@@ -228,7 +228,7 @@ quia multī fīliī dēsertae
 
 31 Itaque, frātrēs, nōn sumus ancillae fīliī sed līberae.
 
-5
+## 5
 
 1 Hāc lībertāte nōs Chrīstus līberāvit; **statē** igitur et nōlīte iterum iugō **servitūtīs** dētinērī.
 
@@ -282,7 +282,7 @@ quia multī fīliī dēsertae
 
 26 Nōn efficiāmur **inānis** glōriae cupidī, invicem prōvocantēs, invicem invidentēs.
 
-6
+## 6
 
 1 Frātrēs, et sī praeoccupātus fuerit homō in aliquō dēlictō, vōs, quī spīritālēs **estis**, huiusmodī īnstruite in spīritū lēnitātis, cōnsīderāns tēipsum, nē et tū tentēris.
 

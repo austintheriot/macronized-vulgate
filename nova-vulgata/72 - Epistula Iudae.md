@@ -1,4 +1,4 @@
-**EPISTULA** IŪDAE
+# **EPISTULA** IŪDAE
 
 1 Iūdās **Iēsu** Chrīstī servus, frāter autem Iacobī, hīs quī sunt vocātī, in Deō Patre dīlēctī et Chrīstō **Iēsu** cōnservātī:
 

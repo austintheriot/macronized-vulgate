@@ -1,8 +1,8 @@
-LĀMENTĀTIŌNĒS 
+# LĀMENTĀTIŌNĒS
 
-1 2 3 4 5
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5)
 
-1  
+## 1
 
 1 ALEPH. Quōmodo **sedet** **sōla**
 
@@ -270,7 +270,7 @@ multī enim **gemitūs** meī,
 
 et cor meum maerēns ”.
 
-2  
+## 2
 
 1 ALEPH. Quōmodo obtēxit cālīgine in furōre suō
 
@@ -532,7 +532,7 @@ quōs fōvī et ēnūtrīvī,
 
 inimīcus meus cōnsūmpsit eōs ”.
 
-3  
+## 3
 
 1 ALEPH. Ego vir vidēns paupertātem meam
 
@@ -794,7 +794,7 @@ exsecrātiōnem tuam.
 
 sub caelīs tuīs, Domine.
 
-4  
+## 4
 
 1 ALEPH. Quōmodo obscūrātum **est** aurum,
 
@@ -972,7 +972,7 @@ vīsitāvit inīquitātem tuam, **fīlia** Edom,
 
 discooperuit **peccāta** **tua**.
 
-5  
+## 5
 
 1 Recordāre, Domine, quid **acciderit** nōbīs;
 

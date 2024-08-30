@@ -1,8 +1,8 @@
-AD THESSALONĪCĒNSĒS **EPISTULA** Ī SĀNCTĪ PAULĪ APOSTOLĪ
+# AD THESSALONĪCĒNSĒS **EPISTULA** Ī SĀNCTĪ PAULĪ APOSTOLĪ
 
-1 2 3 4 5
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5)
 
-1 
+## 1
 
 1 Paulus et Silvānus et Tīmotheus ecclēsiae Thessalonīcēnsium in Deō Patre et Dominō **Iēsu** Chrīstō: **grātia** vōbīs et pāx.
 
@@ -24,7 +24,7 @@ AD THESSALONĪCĒNSĒS **EPISTULA** Ī SĀNCTĪ PAULĪ APOSTOLĪ
 
 10 et exspectāre Fīlium eius dē caelīs, quem suscitāvit ex mortuīs, **Iēsum**, quī ēripit nōs ab **īrā** **ventūra**.
 
-2
+## 2
 
 1 Nam ipsī **scītis**, frātrēs, introī tum nostrum ad vōs, quia nōn **inānis** fuit;
 
@@ -66,7 +66,7 @@ AD THESSALONĪCĒNSĒS **EPISTULA** Ī SĀNCTĪ PAULĪ APOSTOLĪ
 
 20 Vōs enim **estis** **glōriā** **nostrā** et gaudium.
 
-3
+## 3
 
 1 Propter quod nōn sustinentēs amplius, placuit nōbīs, ut relin querēmur Athēnīs **sōlī**,
 
@@ -94,7 +94,7 @@ AD THESSALONĪCĒNSĒS **EPISTULA** Ī SĀNCTĪ PAULĪ APOSTOLĪ
 
 13 ad **cōnfirmanda** **corda** **vestra** **sine** **querēlā** in sānctitāte ante Deum et Patrem nostrum, in adventū Dominī nostrī **Iēsu** cum omnibus sānctīs eius. Āmēn.
 
-4
+## 4
 
 1 Dē cēterō ergō, frātrēs, rogāmus vōs et obsecrāmus in Dominō **Iēsu**, ut — quemadmodum accēpistis ā nōbīs quōmodo vōs oporteat ambulāre et **placēre** Deō, sīcut et **ambulātis** — ut abundētis **magis**.
 
@@ -132,7 +132,7 @@ AD THESSALONĪCĒNSĒS **EPISTULA** Ī SĀNCTĪ PAULĪ APOSTOLĪ
 
 18 Itaque cōnsōlāminī invicem in verbīs istīs.
 
-5
+## 5
 
 1 Dē temporibus autem et mō **mentis**, frātrēs, nōn indigētis, ut scrībātur vōbīs;
 

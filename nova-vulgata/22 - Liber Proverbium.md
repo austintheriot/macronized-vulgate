@@ -1,10 +1,10 @@
-LIBER PROVERBIORUM  
+# LIBER PROVERBIORUM
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16  
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16)
 
-17 18 19 20 21 22 23 24 25 26 27 28 29 30 31
+[17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27) [28](#28) [29](#29) [30](#30) [31](#31)
 
-1
+## 1
 
 1 Parabolae Salomōnis fīliī Dāvīd **rēgis** Isrāēl
 
@@ -140,7 +140,7 @@ et sēcūritās stultōrum perdet illōs.
 
 et tranquillus erit timōre **malōrum** sublātō.
 
-2
+## 2
 
 1 Fīlī mī, sī **suscēperīs** sermōnēs meōs
 
@@ -230,7 +230,7 @@ et simplicēs permanēbunt in **eā**;
 
 et, quī **inīquē** agunt, auferentur ex **eā**.
 
-3
+## 3
 
 1 Fīlī mī, nē oblīvīscāris **lēgis** meae,
 
@@ -374,7 +374,7 @@ et mānsuētīs dabit grātiam;
 
 stultōrum exaltātiō **ignōminia**.
 
-4
+## 4
 
 1 **Audīte**, fīliī, disciplīnam patris
 
@@ -486,7 +486,7 @@ et omnēs viae tuae stabilientur.
 
 āverte pedem tuum ā **malō**.
 
-5
+## 5
 
 1 Fīlī mī, attende ad sapientiam meam,
 
@@ -582,7 +582,7 @@ et fūnibus peccātōrum suōrum cōnstringētur.
 
 et in multitūdine stultitiae suae dēcipiētur.
 
-6
+## 6
 
 1 Fīlī mī, sī **spoponderīs** prō amīcō tuō,
 
@@ -728,7 +728,7 @@ et nōn parcet in **diē** vindictae
 
 nec suscipiet **dōna** **plūrima**.
 
-7
+## 7
 
 1 Fīlī mī, cūstōdī sermōnēs meōs
 
@@ -840,7 +840,7 @@ et fortissimī quīque interfectī sunt ab **eā**:
 
 penetrantēs in interiōra **mortis**.
 
-8
+## 8
 
 1 Numquid nōn **sapientia** clāmitat,
 
@@ -994,7 +994,7 @@ et hauriet dēliciās ā Dominō.
 
 omnēs, quī mē ōdērunt, dīligunt mortem.
 
-9
+## 9
 
 1 **Sapientia** aedificāvit sibi domum,
 
@@ -1068,7 +1068,7 @@ et **pānis** in absconditō suāvior ”.
 
 et in **profundīs** īnfernī convīvae eius.
 
-10
+## 10
 
 1 Parabolae Salomōnis.
 
@@ -1200,7 +1200,7 @@ impiī autem nōn habitābunt super terram.
 
 et **os** impiōrum **perversā**.
 
-11
+## 11
 
 1 **Statēra** **dolōsa** abōminātiō **est** apud Dominum,
 
@@ -1326,7 +1326,7 @@ et suscipit animās, quī sapiēns **est**.
 
 quantō **magis** impius et peccātor.
 
-12
+## 12
 
 1 Quī dīligit disciplīnam, dīligit scientiam;
 
@@ -1440,7 +1440,7 @@ sed **substantia** **pretiōsa** erit **virō** industriō.
 
 **est** autem etiam iter apertum ad mortem.
 
-13
+## 13
 
 1 Fīlius sapiēns **disciplīna** patris;
 
@@ -1542,7 +1542,7 @@ quī autem dīligit illum, īnstanter ērudit.
 
 venter autem impiōrum **īnsaturābilis**.
 
-14
+## 14
 
 1 **Sapientia** mulierum aedificat domum suam,
 
@@ -1684,7 +1684,7 @@ vituperium autem **populōrum** **est** peccātum.
 
 et **īrācundia** **eī**, quī turpiter agit.
 
-15
+## 15
 
 1 Respōnsiō **mollis** frangit īram,
 
@@ -1818,7 +1818,7 @@ quī autem acquiēscit increpātiōnibus, possessor **est** **cordis**.
 
 et glōriam praecēdit humilitās.
 
-16
+## 16
 
 1 Hominis **est** animum praeparāre,
 
@@ -1952,7 +1952,7 @@ et, quī dominātur animō suō, expugnātōre urbium.
 
 sed ā Dominō temperantur.
 
-17
+## 17
 
 1 Melior **est** **buccella** **sicca** cum pāce
 
@@ -2066,7 +2066,7 @@ et **lēnis** spīritū **est** vir prūdēns.
 
 et, sī compresserit **labiā** **suā**, intellegēns.
 
-18
+## 18
 
 1 Occāsiōnēs quaerit, quī vult **recēdere** ab amīcō;
 
@@ -2164,7 +2164,7 @@ et dīves effābitur **rigidē**.
 
 sed **est** amīcus, quī adhaereat **magis** quam frāter.
 
-19
+## 19
 
 1 Melior **est** pauper, quī ambulat in simplicitāte **suā**,
 
@@ -2284,7 +2284,7 @@ et **os** impiōrum dēvorat inīquitātem.
 
 et **plāgae** stultōrum corporibus.
 
-20
+## 20
 
 1 **Luxuriōsa** rēs vīnum, et **tumultuōsa** sīcera;
 
@@ -2406,7 +2406,7 @@ et honor **senum** cānitiēs.
 
 et **plāgae** in sēcrētiōribus ventris.
 
-21
+## 21
 
 1 Sīcut rīvī aquārum cor **rēgis** in manū Dominī:
 
@@ -2532,7 +2532,7 @@ nōn **est** cōnsilium contrā Dominum.
 
 Dominus autem salūtem tribuit.
 
-22
+## 22
 
 1 **Mēlius** **est** **nōmen** bonum quam dīvitiae multae,
 
@@ -2650,7 +2650,7 @@ quōs posuērunt patrēs tuī.
 
 **cōram** rēgibus stābit nec erit ante ignōbilēs.
 
-23
+## 23
 
 1 Quandō **sedēris**, ut comedās cum prīncipe,
 
@@ -2802,7 +2802,7 @@ percussērunt mē, et ego nōn sēnsī;
 
 quandō ēvigilābō et rūrsus illud requīram? ”.
 
-24
+## 24
 
 1 Nē aemulēris virōs **malōs**
 
@@ -2950,7 +2950,7 @@ pauxillum **manūs** cōnserēs, ut quiēscās,
 
 et mendīcitās quasi vir **armātus** ”.
 
-25
+## 25
 
 1 Hae **quoque** parabolae Salomōnis, quās trānscrīpsērunt **virī** Ezechiae **rēgis** Iūdae.
 
@@ -3070,7 +3070,7 @@ nec **quaestus** glōriae **est** **glōria**.
 
 vir, quī nōn potest cohibēre spīritum suum.
 
-26
+## 26
 
 1 Quōmodo nix in aestāte et **pluviā** in **messe**,
 
@@ -3184,7 +3184,7 @@ et, quī volvit lapidem, revertētur ad eum.
 
 et **os** lūbricum operātur ruīnās.
 
-27
+## 27
 
 1 Nē glōriēris in crāstinum
 
@@ -3296,7 +3296,7 @@ et haedī ad agrī pretium;
 
 et in cibum **domūs** tuae et ad **vīctum** ancillīs tuīs.
 
-28
+## 28
 
 1 **Fugit** impius, nēmine persequente;
 
@@ -3416,7 +3416,7 @@ quī autem occultat oculōs, abundābit maledictīs.
 
 cum illī perierint, multiplicābuntur iūstī.
 
-29
+## 29
 
 1 Vir, quī correptiōnēs **dūrā** cervīce contemnit,
 
@@ -3526,7 +3526,7 @@ et iūdicium ā Dominō ēgreditur singulōrum.
 
 et abōminantur impiī eōs, quī **rēcta** sunt **via**.
 
-30
+## 30
 
 1 Verba Agur fīliī Iacēs ex **Massā**.
 
@@ -3696,7 +3696,7 @@ et, quī vehementer ēmungit nārēs, ēlicit sanguinem,
 
 et, quī prōvocat īrās, prōdūcit discordiās.
 
-31
+## 31
 
 1 Verba Lamuēlis **rēgis** **Massa**, quae ērudīvit eum māter eius.
 

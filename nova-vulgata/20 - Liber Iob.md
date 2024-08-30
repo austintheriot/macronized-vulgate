@@ -1,9 +1,9 @@
-**LIBER** IOB  
+# **LIBER** IOB
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22  
-23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22)
+[23](#23) [24](#24) [25](#25) [26](#26) [27](#27) [28](#28) [29](#29) [30](#30) [31](#31) [32](#32) [33](#33) [34](#34) [35](#35) [36](#36) [37](#37) [38](#38) [39](#39) [40](#40) [41](#41) [42](#42)
 
-1 
+## 1
 
 1 Vir erat in **terrā** Us nōmine Iob, et erat vir ille simplex et rēctus ac timēns Deum et recēdēns ā **malō**.
 
@@ -57,7 +57,7 @@ sit **nōmen** Dominī benedictum ”.
 
 22 In omnibus hīs nōn peccāvit Iob labiīs **suīs** neque stultum quid contrā Deum **locūtus** **est**.
 
-2
+## 2
 
 1 Factum **est** autem, cum quādam **diē** vēnissent fīliī Deī, ut stārent **cōram** Dominō, **venit** **quoque** **Satān** inter eōs, ut stāret in cōnspectū eius.
 
@@ -99,7 +99,7 @@ In omnibus hīs nōn peccāvit Iob labiīs **suīs**.
 
 13 Et sēdērunt cum eō in **terrā** septem diēbus et septem noctibus, et nēmō loquēbātur **eī** verbum; vidēbant enim dolōrem **esse** vehementem.
 
-3
+## 3
 
 1 Post haec aperuit Iob **os** suum et maledīxit diēī suō
 
@@ -207,7 +207,7 @@ et, quod verēbar, **accidit**.
 
 et **venit** super mē indignātiō ”.
 
-4
+## 4
 
 1 Respondēns autem Eliphaz Themanītēs dīxit:
 
@@ -295,7 +295,7 @@ et, quia nūllus intellegit, in aeternum perībunt.
 
 Morientur, et nōn in **sapientiā**.
 
-5
+## 5
 
 1 Vocā ergō, sī **est** quī tibi respondeat!
 
@@ -405,7 +405,7 @@ sīcut īnfertur acervus trīticī in tempore suō.
 
 oboedī illī et tū sapiās tibi ”.
 
-6
+## 6
 
 1 Respondēns autem Iob dīxit:
 
@@ -527,7 +527,7 @@ Revertite! Adhūc praesēns **adest** **iūstitiā** **meā**.
 
 An **palātum** meum nōn discernit nēquitiam?
 
-7
+## 7
 
 1 **Nōnne** **mīlitia** **est** **vīta** hominis super terram,
 
@@ -621,7 +621,7 @@ Ecce, nunc in pulvere dormiam;
 
 et, sī **manē** mē **quaesierīs**, nōn subsistam! ”.
 
-8
+## 8
 
 1 Respondēns autem Baldad Suhītēs dīxit:
 
@@ -711,7 +711,7 @@ et **labia** **tua** iūbilō.
 
 et tabernāculum impiōrum nōn subsistet ”.
 
-9
+## 9
 
 1 Et respondēns Iob ait:
 
@@ -851,7 +851,7 @@ et pavor eius nōn mē terreat.
 
 quia sīc nōn mēcum ipse sum.
 
-10
+## 10
 
 1 Taedet animam meam vītae meae;
 
@@ -953,7 +953,7 @@ ubi **umbra** **mortis** et nūllus ōrdō,
 
 sed sempiternus horror inhabitat ”.
 
-11
+## 11
 
 1 Respondēns autem Sophar Naamathītēs dīxit:
 
@@ -1039,7 +1039,7 @@ et effugium perībit ab eīs;
 
 et spēs illōrum exhālātiō animae ”.
 
-12
+## 12
 
 1 Respondēns autem Iob dīxit:
 
@@ -1141,7 +1141,7 @@ et errāre eōs faciet per invium dēsertum.
 
 et errāre eōs faciet quasi ēbriōs.
 
-13
+## 13
 
 1 Ecce, omnia haec vīdit oculus meus,
 
@@ -1255,7 +1255,7 @@ et vestīgia pedum meōrum cōnsīderāstī.
 
 et quasi vestīmentum, quod comeditur ā **tineā**.
 
-14
+## 14
 
 1 Homō **nātus** dē muliere,
 
@@ -1357,7 +1357,7 @@ sīve ignōbilēs, nōn intellegit.
 
 et **anima** illīus super sēmetipsō lūget ”.
 
-15
+## 15
 
 1 Respondēns autem Eliphaz Themanītēs dīxit:
 
@@ -1499,7 +1499,7 @@ et **ignis** dēvorābit tabernācula eōrum, quī **mūnera** libenter accipiun
 
 et venter eius praeparat dolōs.
 
-16
+## 16
 
 1 Respondēns autem Iob dīxit:
 
@@ -1599,7 +1599,7 @@ sīcut iūdicātur fīlius hominis cum **collēgā** suō.
 
 et sēmitam, per quam nōn revertar, ambulō.
 
-17
+## 17
 
 1 **Spīritus** meus attenuātus **est**,
 
@@ -1667,7 +1667,7 @@ et patientiam meam **quis** cōnsīderat?
 
 simul in pulvere erit requiēs mihi? ”.
 
-18
+## 18
 
 1 Respondēns autem Baldad Suhītēs dīxit:
 
@@ -1753,7 +1753,7 @@ et prīmōs invādet horror.
 
 et iste locus eius, quī ignōrat Deum ”.
 
-19
+## 19
 
 1 Respondēns autem Iob dīxit:
 
@@ -1875,7 +1875,7 @@ quoniam ultor inīquitātum gladius **est**;
 
 et scītōte **esse** iūdicium ”.
 
-20
+## 20
 
 1 Respondēns autem Sophar Naamathītēs dīxit:
 
@@ -1997,7 +1997,7 @@ dētrahētur in **diē** furōris Deī.
 
 et hērēditās verbōrum eius ā Dominō ”.
 
-21
+## 21
 
 1 Respondēns autem Iob dīxit:
 
@@ -2139,7 +2139,7 @@ et ante sē innumerābilēs.
 
 et respōnsiōnis vestrae restat **perfidia**? ”.
 
-22
+## 22
 
 1 Respondēns autem Eliphaz Themanītēs dīxit:
 
@@ -2259,7 +2259,7 @@ et dēmissus oculīs ipse salvābitur.
 
 ēripiētur autem in **munditiā** manuum suārum ”.
 
-23
+## 23
 
 1 Respondēns autem Iob ait:
 
@@ -2327,7 +2327,7 @@ et Omnipotēns conturbāvit mē.
 
 nec faciem meam operuit cālīgō.
 
-24
+## 24
 
 1 Cūr ab Omnipotente nōn sunt **abscondita** tempora,
 
@@ -2451,7 +2451,7 @@ et **pōnere** in nihilum verba **mea**? ”.
 
 
 
-25
+## 25
 
 1 Respondēns autem Baldad Suhītēs dīxit:
 
@@ -2475,7 +2475,7 @@ et stēllae nōn sunt mundae in cōnspectū eius;
 
 et fīlius hominis **vermis** ”.
 
-26
+## 26
 
 1 Respondēns autem Iob dīxit:
 
@@ -2533,7 +2533,7 @@ et, cum vix parvam stillam sermōnis eius **audierīmus**,
 
 **quis** poterit tonitruum magnitūdinis illīus intuērī? ”.
 
-27
+## 27
 
 1 Addidit **quoque** Iob assūmēns parabolam suam et dīxit:
 
@@ -2623,7 +2623,7 @@ dē manū eius fugiēns fugiet.
 
 et sībilābit eum dē locō suō.
 
-28
+## 28
 
 1 Habet argentum vēnārum **prīncipia**
 
@@ -2741,7 +2741,7 @@ et praeparāvit et investīgāvit.
 
 et **recēdere** ā **malō** **intellegentiā**” ”.
 
-29
+## 29
 
 1 Addidit **quoque** Iob assūmēns parabolam suam et dīxit:
 
@@ -2843,7 +2843,7 @@ cumque sedērem quasi rēx, circumstante **exercitū**,
 
 eram tamen maerentium cōnsōlātor.
 
-30
+## 30
 
 1 Nunc autem dērīdent mē
 
@@ -2979,7 +2979,7 @@ et ossa **mea** āruērunt prae caumate.
 
 et organum meum in **vōcem** flentium.
 
-31
+## 31
 
 1 Pepigī foedus cum oculīs meīs
 
@@ -3149,7 +3149,7 @@ et prō hordeō **herba** **foetida**! ”.
 
 **Fīnīta** sunt verba Iob.
 
-32
+## 32
 
 1 Omīsērunt autem trēs **virī** istī respondēre Iob, eō quod iūstus sibi vidērētur.
 
@@ -3237,7 +3237,7 @@ et nūllī hominī blandiar.
 
 quia in brevī tolleret mē Factor meus.
 
-33
+## 33
 
 1 Audī igitur, Iob, ēloquia **mea**
 
@@ -3375,7 +3375,7 @@ et tacē, dum ego loquor.
 
 tacē, et docēbō tē sapientiam ”.
 
-34
+## 34
 
 1 Prōnūntiāns itaque Eliū etiam haec **locūtus** **est**:
 
@@ -3535,7 +3535,7 @@ inter nōs plaudit manibus
 
 et multiplicat sermōnēs suōs contrā Deum ”.
 
-35
+## 35
 
 1 Igitur Eliu haec rūrsum **locūtus** **est**:
 
@@ -3599,7 +3599,7 @@ nec ulcīscitur scelus valdē”,
 
 et absque **scientiā** verba multiplicat ”.
 
-36
+## 36
 
 1 Addēns **quoque** Eliū haec **locūtus** **est**:
 
@@ -3737,7 +3737,7 @@ et praecipit **eī**, ut percutiat.
 
 zēlāns **īrā** contrā inīquitātem.
 
-37
+## 37
 
 1 Super **hōc** expāvit cor meum
 
@@ -3841,7 +3841,7 @@ et iūdicium et multam iūstitiam **dēprimere** nōn potest.
 
 nōn contemplābitur omnēs, quī sibi videntur **corde** sapientēs ”.
 
-38
+## 38
 
 1 Respondēns autem Dominus Iob dē turbine dīxit:
 
@@ -4007,7 +4007,7 @@ quandō pullī eius clāmant ad Deum vagantēs,
 
 eō quod nōn habeant cibōs?
 
-39
+## 39
 
 1 Numquid nōstī tempus **partūs** ībicum in petrīs
 
@@ -4133,7 +4133,7 @@ et dē **longē** oculī eius prōspiciunt.
 
 et, ubicumque cadāver fuerit, statim **adest** ”.
 
-40
+## 40
 
 1 Et respondēns Dominus **locūtus** **est** ad Iob:
 
@@ -4257,7 +4257,7 @@ et iaculō hāmātō piscium caput illīus?
 
 mementō bellī nec **ultrā** addās.
 
-41
+## 41
 
 1 Ecce spēs eius frūstrābitur eum,
 
@@ -4363,7 +4363,7 @@ quī **factus** **est**, ut nūllum timēret.
 
 ipse **est** rēx super ūniversōs fīliōs superbiae ”.
 
-42
+## 42
 
 1 Respondēns autem Iob Dominō dīxit:
 

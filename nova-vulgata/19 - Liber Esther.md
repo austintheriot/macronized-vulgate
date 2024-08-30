@@ -1,8 +1,8 @@
-**LĪBER** ESTHER  
+# **LĪBER** ESTHER
 
-1 2 3 4 5 6 7 8 9 10
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10)
 
-1 
+## 1
 
 1ā Annō secundō, rēgnante Artaxerxe **rēge** magnō, **prīmā** **diē** **mēnsis** **Nīsan** vīdit somnium Mardochaeus fīlius Iair fīliī Semēī fīliī Cīs dē tribū Beniamin,
 
@@ -68,7 +68,7 @@
 
 22 Et mīsit epistulās ad ūniversās prōvinciās rēgnī **suī**, ut quaeque gēns audīre et **legere** poterat, dīversīs linguīs et litterīs, **esse** virōs prīncipēs ac maiōrēs in domibus **suīs** et subditās habēre omnēs mulierēs, quae **essent** cum eīs.
 
-2
+## 2
 
 1 Hīs **ita** gestīs, postquam **rēgis** Asuerī dēferbuerat indignātiō, **recordātus** **est** Vasthī, et quae fēcisset vel quae **passa** **esset**.
 
@@ -116,7 +116,7 @@
 
 23 Quaesītum **est** et inventum, et appēnsus uterque eōrum in patibulō; mandātumque **est** **librō** annālium **cōram** **rēge**.
 
-3
+## 3
 
 1 Post haec rēx Asuerus exaltāvit **Amān** fīlium Amadāthī, quī erat dē stirpe Agag, et posuit solium eius super omnēs prīncipēs, quōs habēbat.
 
@@ -198,7 +198,7 @@ et nōn trādās in īnfāmiam hērēditātem tuam,
 
 ut hostēs dominentur nostrī ”.
 
-4
+## 4
 
 1 Cum comperisset Mardochaeus omnia, quae **acciderant**, scidit vestīmenta **sua** et **indūtus** **est** saccō spargēns cinerem **capitī**. Et in **platēā** mediae cīvitātis vōce **magnā** et **amārā** clāmābat
 
@@ -406,7 +406,7 @@ fac in exemplum.
 
 17kk **Appārē**, Domine; manifestāre, Domine! ”.
 
-5
+## 5
 
 1 Et factum **est** **diē** tertiō, **indūta** Esther rēgālibus vestīmentīs stetit in ātriō **domūs** rēgiae, quod erat interius contrā basilicam **rēgis**. At ille sedēbat super solium suum in cōnsistōriō palātiī contrā ōstium **domūs**.
 
@@ -468,7 +468,7 @@ Vēnērunt itaque rēx et **Amān** ad convīvium, quod eīs **rēgīna** parāv
 
 14 Respondēruntque **eī** Zarēs uxor eius et cēterī **amīcī**: “ Iubē parārī excelsam trabem habentem altitūdinis quīnquāgintā cubitōs et dīc **manē** **rēgī**, ut appendātur super eam Mardochaeus; et sīc ībis cum **rēge** laetus ad convīvium ”. Placuit **eī** cōnsilium et iussit excelsam parārī trabem.
 
-6
+## 6
 
 1 Noctem illam dūxit rēx īnsomnem iussitque afferrī sibi librum memoriālium, annālēs priōrum temporum. Quae cum illō praesente legerentur,
 
@@ -498,7 +498,7 @@ Vēnērunt itaque rēx et **Amān** ad convīvium, quod eīs **rēgīna** parāv
 
 14 Adhūc illīs loquentibus, vēnērunt eunūchī **rēgis** et **cito** eum ad convīvium, quod **rēgīna** parāverat, **pergere** compulērunt.
 
-7
+## 7
 
 1 Intrāvit itaque rēx et **Amān**, ut biberent cum **rēgīnā**.
 
@@ -520,7 +520,7 @@ Vēnērunt itaque rēx et **Amān** ad convīvium, quod eīs **rēgīna** parāv
 
 10 Suspēnsus **est** itaque **Amān** in patibulō, quod parāverat Mardochaeō; et **rēgis** **īra** quiēvit.
 
-8
+## 8
 
 1 **Dīē** illō **dēdit** rēx Asuerus Esther rēgīnae domum **Amān** adversāriī Iūdaeōrum, et Mardochaeus **ingressus** **est** ante faciem **rēgis**; **cōnfessa** **est** enim **eī** Esther quid **esset** sibi.
 
@@ -610,7 +610,7 @@ Vēnērunt itaque rēx et **Amān** ad convīvium, quod eīs **rēgīna** parāv
 
 17 Apud omnēs **populōs**, urbēs atque prōvinciās, quōcumque **rēgis** **iussa** veniēbant, Iūdaeīs fuit exsultātiō, epulae atque convīvia et fēstus diēs, in tantum ut plūrēs alterīus **gentis** et sectae eōrum religiōnī et caeremōniīs iungerentur; **grandīs** enim cūnctōs Iūdaicī nōminis terror invāserat.
 
-9
+## 9
 
 1 Igitur duodecimī **mēnsis** — id **est** Adar — **tertia** **decima** **diē**, quandō verbum et ēdictum **rēgis** explendum erat, et hostēs Iūdaeōrum spērābant quod dominārentur ipsīs, **versā** **vice** Iūdaeī superāvērunt adversāriōs suōs.
 
@@ -678,7 +678,7 @@ Vēnērunt itaque rēx et **Amān** ad convīvium, quod eīs **rēgīna** parāv
 
 32 Et mandātum Esther cōnfirmāvit **praecepta** Phurim et scrīptum **est** in **librō**.
 
-10
+## 10
 
 1 Rēx vērō Asuerus terrae et **maris** īnsulīs imposuit tribūtum.
 

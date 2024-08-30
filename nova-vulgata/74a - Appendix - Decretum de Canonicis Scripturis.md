@@ -1,6 +1,6 @@
-APPENDIX
+# APPENDIX
 
-DECRETUM DE CANONICIS SCRIPTURIS
+## DECRETUM DE CANONICIS SCRIPTURIS
 
 Sacrosancta oecumenica et generalis Tridentina Synodus, in Spiritu Sancto legitime congregata, praesidentibus in ea eisdem tribus Apostolicae Sedis Legatis, hoc sibi perpetuo ante oculos proponens, ut sublatis erroribus, puritas ipsa Evangelii in Ecclesia conservetur: quod promissum ante per Prophetas in Scripturis Sanctis, Dominus noster Iesus Christus, Dei Filius, proprio ore primum promulgavit, deinde per suos Apostolos, tamquam fontem omnis et salutaris veritatis et morum disciplinae, omni creaturae praedicari iussit: perspiciensque hanc veritatem et disciplinam contineri in libris scriptis et sine scripto traditionibus, quae ab ipsius Christi ore ab Apostolis acceptae, aut ab ipsis Apostolis Spiritu Sancto dictante, quasi per manus traditae, ad nos usque pervenerunt: orthodoxorum Patrum exempla secuta, omnes libros tam Veteris quam Novi Testamenti, cum utriusque unus Deus sit auctor, nec non traditiones ipsas, tum ad fidem, tum ad mores pertinentes, tamquam vel oretenus a Christo, vel a Spiritu Sancto dictatas, et continua successione in Ecclesia catholica conservatas, pari pietatis affectu ac reverentia suscipit ac veneratur.
 

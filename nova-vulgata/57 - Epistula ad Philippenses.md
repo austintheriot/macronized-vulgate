@@ -1,6 +1,6 @@
-AD PHILIPPĒNSĒS **EPISTULĀ** SĀNCTĪ PAULĪ APOSTOLĪ
+# AD PHILIPPĒNSĒS **EPISTULĀ** SĀNCTĪ PAULĪ APOSTOLĪ
 
-1 
+## 1
 
 1 Paulus et Tīmotheus servī Chrīstī **Iēsu** omnibus sānctīs in Chrīstō **Iēsu**, quī sunt Philippīs, cum epīscopīs et diāconīs:
 
@@ -62,7 +62,7 @@ AD PHILIPPĒNSĒS **EPISTULĀ** SĀNCTĪ PAULĪ APOSTOLĪ
 
 30 **idem** certāmen habentēs, quāle vīdistis in mē et nunc **audītis** in mē.
 
-2
+## 2
 
 1 Sī **quā** ergō cōnsōlātiō in Chrīstō, sī quod sōlācium **cārī** tatīs, sī **quā** commūniō **spīritūs**, sī quae vīscera et miserātiōnēs,
 
@@ -142,7 +142,7 @@ in glōriam Deī Patrīs.
 
 30 quoniam propter opus Chrīstī usque ad mortem accessit in interitum trādēns animam suam, ut supplēret id, quod vōbīs dēerat ministeriī ergā mē.
 
-3
+## 3
 
 1 Dē cēterō, frātrēs meī, gaudēte in Dominō. **Eadem** vōbīs scrībe rē mihi quidem nōn pigrum, vōbīs autem sēcūrum.
 
@@ -186,7 +186,7 @@ in glōriam Deī Patrīs.
 
 21 quī trānsfigūrābit corpus **humilitātis** nostrae, ut illud cōnfōrme faciat corporī glōriae suae secundum operātiōnem, **quā** possit etiam subicere sibi omnia.
 
-4
+## 4
 
 1 Itaque, frātrēs meī cārissimī et dēsīderātissimī, gaudium et cō rōna **mea**, sīc **statē** in Dominō, cārissimī!
 

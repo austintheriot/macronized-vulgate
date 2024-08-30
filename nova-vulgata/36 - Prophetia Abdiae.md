@@ -1,4 +1,4 @@
-**PROPHĒTĪA** ABDIAE
+# **PROPHĒTĪA** ABDIAE
 
 1 **Visiō** Abdiae.
 
@@ -90,7 +90,7 @@ et extrāneī ingrediēbantur portās eius
 
 et super Ierusālem mittēbant sortem,
 
-tū **quoque** erās quasi ūnus ex eīs ”. 
+tū **quoque** erās quasi ūnus ex eīs ”.
 
 12 Et nōn respiciēs diem frātris tuī,
 

@@ -1,8 +1,8 @@
-**LIBER** SECUNDUS RĒGUM
+# **LIBER** SECUNDUS RĒGUM
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25)
 
-1
+## 1
 
 1 Praevāricātus **est** autem Moab in Isrāēl, postquam mortuus **est** Achab.
 
@@ -40,7 +40,7 @@
 
 18 **Reliqua** autem gestōrum Ochoziae, quae operātus **est**, **nōnne** haec **scrīpta** sunt in **librō** annālium rēgum Isrāēl?
 
-2
+## 2
 
 1 Factum **est** autem cum **levāre** vellet Dominus Eliam per turbinem in caelum, ībant **Ēlias** et Eliseus dē Galgalīs;
 
@@ -92,7 +92,7 @@
 
 25 Abiit autem inde in montem Carmēlī et inde reversus **est** Samarīam.
 
-3
+## 3
 
 1 Ioram vērō fīlius Achab rēgnāvit super Isrāēl in **Samarīā** annō decimō octāvō Iosaphat **rēgis** Iūdae rēgnāvitque duodecim annīs.
 
@@ -148,7 +148,7 @@
 
 27 Arripiēnsque fīlium suum prīmōgenitum, quī rēgnātūrus erat prō eō, obtulit holocaustum super mūrum. Et **facta** **est** indignātiō **magna** super Isrāēl; statimque recessērunt ab eō et reversī sunt in terram suam.
 
-4
+## 4
 
 1 Mulier autem quaedam dē uxōribus fīliōrum prophētārum clāmābat ad Eliseum dīcēns: “ Servus tuus vir meus mortuus **est**, et tū nōstī quia servus tuus fuit timēns Dominum; et ecce crēditor **venit**, ut tollat duōs fīliōs meōs ad serviendum sibi ”.
 
@@ -238,7 +238,7 @@
 
 44 Posuit itaque **cōram** eīs, quī comēdērunt, et superfuit iuxtā verbum Dominī.
 
-5
+## 5
 
 1 Naaman prīnceps mīlitiae **rēgis** **Syriae** erat vir magnus apud dominum suum et honōrātus; per illum enim **dēdit** Dominus salūtem **Syriae**. Erat autem vir **fortis** leprōsus.
 
@@ -294,7 +294,7 @@
 
 27 Sed et **lepra** Naamān adhaerēbit tibi et sēminī tuō in sempiternum ”. Et **ēgressus** **est** ab eō leprōsus quasi nix.
 
-6
+## 6
 
 1 Dīxērunt autem fīliī prophētārum ad Eliseum: “ Ecce locus, in quō habitāmus **cōram** tē, angustus **est** nōbīs.
 
@@ -362,7 +362,7 @@
 
 33 Et adhūc illō loquente eīs, appāruit rēx, quī veniēbat ad eum, et ait: “ Ecce, tantum **malum** ā Dominō **est**; quid amplius exspectābō ā Dominō? ”.
 
-7
+## 7
 
 1 Dīxit autem Eliseus: “ **Audīte** verbum Dominī. Haec dīcit Dominus: In tempore **hoc** crās modius similae ūnō statere erit, et duo modiī **hordeī** statere ūnō in **portā** Samarīae ”.
 
@@ -404,7 +404,7 @@
 
 20 **Ēvēnit** ergō **eī**, sīcut praedictum erat, et conculcāvit eum **populus** in **portā**, et mortuus **est**.
 
-8
+## 8
 
 1 Eliseus autem **locūtus** **est** ad mulierem, cuius **vīvere** fēcerat fīlium, dīcēns: “ Surge, **vāde** tū et **domus** **tua** et peregrīnāre ubicumque **reppererīs**; vocāvit enim Dominus famem, et veniet super terram septem annīs ”.
 
@@ -464,7 +464,7 @@
 
 29 Quī reversus **est**, ut cūrārētur in Iezrahel dē vulneribus, quibus vulnerāverant eum **Syrī** in Ramā proeliantem contrā Hazael rēgem **Syriae**. Porrō Ochoziās fīlius Ioram rēx Iūdae dēscendit **invīsere** Ioram fīlium Achab in Iezrahel, quia aegrōtābat.
 
-9
+## 9
 
 1 Eliseus autem prophētēs vocāvit ūnum dē fīliīs prophētārum et ait illī: “ Accinge lumbōs tuōs et tolle lenticulam oleī hanc in manū **tuā** et **vāde** in Ramoth Galaad.
 
@@ -538,7 +538,7 @@
 
 37 et erit cadāver Iezabel sīcut stercus super faciem terrae in agrō Iezrahel, **ita** ut nōn **dīcātur**: “Haeccīne **est** **illa** Iezabēl” ”.
 
-10
+## 10
 
 1 Erant autem Achab septuāgintā fīliī in **Samarīā**. Scrīpsit ergō Iehū litterās et mīsit in Samarīam ad optimātēs cīvitātis et ad maiōrēs nātū et ad nūtrīciōs fīliōrum Achab dīcēns:
 
@@ -612,7 +612,7 @@
 
 36 Diēs autem, quōs rēgnāvit Iehu super Isrāēl, vīgintī et octo annī sunt, in **Samarīā**.
 
-11
+## 11
 
 1 Athalia vērō māter Ochoziae vidēns mortuum fīlium suum surrēxit et interfēcit omne sēmen rēgium.
 
@@ -656,7 +656,7 @@ Et posuit sacerdōs cūstōdiās in domō Dominī
 
 20 Laetātusque **est** **omnis** **populus** terrae, et cīvitās conquiēvit; Athalia autem **occīsa** **est** gladiō in domō **rēgis**.
 
-12
+## 12
 
 1 Septemque annōrum erat Ioās, cum rēgnāre coepisset.
 
@@ -702,7 +702,7 @@ Et posuit sacerdōs cūstōdiās in domō Dominī
 
 22 Iozachar namque fīlius Semath et Iozabad fīlius Somer servī eius percussērunt eum, et mortuus **est**; et sepeliērunt eum cum patribus **suīs** in cīvitāte Dāvīd. Rēgnāvitque Amasīās fīlius eius prō eō.
 
-13
+## 13
 
 1 Annō vīcēsimō tertiō Ioās fīliī Ochoziae **rēgis** Iūdae rēgnāvit Ioachaz fīlius Iehu super Isrāēl in **Samarīā** decem et septem annīs.
 
@@ -754,7 +754,7 @@ Et posuit sacerdōs cūstōdiās in domō Dominī
 
 25 Porrō Ioās fīlius Ioachaz tulit urbēs dē manū Benadad fīliī Hazael, quās tulerat dē manū Ioachaz patris **suī** iūre proeliī; **tribus** vicibus percussit eum Ioās et reddidit cīvitātēs Israēlī.
 
-14
+## 14
 
 1 Annō secundō Ioās fīliī Ioachaz **rēgis** Isrāēl rēgnāvit Amasīās fīlius Ioās **rēgis** Iūdae.
 
@@ -816,7 +816,7 @@ Ascenditque Ioās rēx Isrāēl, et vīdērunt sē ipse et Amasīās rēx Iūdae
 
 29 Dormīvitque Ieroboam cum patribus **suīs** rēgibus Isrāēl; et rēgnāvit Zacharīās fīlius eius prō eō.
 
-15
+## 15
 
 1 Annō vīcēsimō septimō Ieroboam **rēgis** Isrāēl rēgnāvit Azariās fīlius Amasīae **rēgis** Iūdae.
 
@@ -894,7 +894,7 @@ Ascenditque Ioās rēx Isrāēl, et vīdērunt sē ipse et Amasīās rēx Iūdae
 
 38 Et dormīvit Ioatham cum patribus **suīs** sepultusque **est** cum eīs in cīvitāte Dāvīd patris **suī**; et rēgnāvit Achaz fīlius eius prō eō.
 
-16
+## 16
 
 1 Annō septimō decimō Phacee fīliī Romēliae rēgnāvit Achaz fīlius Ioatham **rēgis** Iūdae.
 
@@ -936,7 +936,7 @@ Ascenditque Ioās rēx Isrāēl, et vīdērunt sē ipse et Amasīās rēx Iūdae
 
 20 Dormīvitque Achaz cum patribus **suīs** et sepultus **est** cum eīs in cīvitāte Dāvīd; et rēgnāvit Ezechiās fīlius eius prō eō.
 
-17
+## 17
 
 1 Annō duodecimō Achaz **rēgis** Iūdae rēgnāvit Oseē fīlius Ela in **Samarīā** super Isrāēl novem annīs.
 
@@ -1020,7 +1020,7 @@ Ascenditque Ioās rēx Isrāēl, et vīdērunt sē ipse et Amasīās rēx Iūdae
 
 41 Fuērunt igitur gentēs istae timentēs quidem Dominum, sed nihilōminus et īdōlīs **suīs** servientēs; nam et fīliī eōrum et nepōtēs, sīcut fēcērunt **parentēs** **suī**, **ita** faciunt usque in praesentem diem.
 
-18
+## 18
 
 1 Annō tertiō Oseē fīliī Ela **rēgis** Isrāēl rēgnāvit Ezechiās fīlius Achaz **rēgis** Iūdae.
 
@@ -1098,7 +1098,7 @@ Rebellāvit **quoque** contrā rēgem Assyriōrum et nōn servīvit **eī**.
 
 37 **Venit**que Eliachim fīlius Helciae praepositus **domus** et Sobna **scrība** et Ioah fīlius Asaph ā commentāriīs ad Ezechiam, **scissīs** vestibus, et nūntiāvērunt **eī** verba Rabsacis.
 
-19
+## 19
 
 1 Quae cum audīsset rēx Ezechiās, scidit vestīmenta **sua** et **opertus** **est** saccō **ingressus**que **est** domum Dominī.
 
@@ -1256,7 +1256,7 @@ propter mē et propter Dāvīd servum meum ”.
 
 37 Cumque adōrāret in templō Nesroch deī **suī**, Adramelech et Sarasar fīliī eius percussērunt eum gladiō fūgēruntque in terram Armeniōrum. Et rēgnāvit Asarhaddōn fīlius eius prō eō.
 
-20
+## 20
 
 1 In diēbus illīs aegrōtāvit Ezechiās usque ad mortem. Et **venit** ad eum Īsaiās fīlius Amōs prophētēs dīxitque **eī**: “ Haec dīcit Dominus: Dispōne domuī tuae, moriēris enim et nōn vīvēs ”.
 
@@ -1300,7 +1300,7 @@ propter mē et propter Dāvīd servum meum ”.
 
 21 Dormīvitque Ezechiās cum patribus **suīs**; et rēgnāvit Mānāssēs fīlius eius prō eō.
 
-21
+## 21
 
 1 Duodecim annōrum erat Mānāssēs, cum rēgnāre coepisset, et quīnquāgintā quīnque annīs rēgnāvit in Ierusālem. **Nōmen** mātris eius Haphsiba.
 
@@ -1354,7 +1354,7 @@ propter mē et propter Dāvīd servum meum ”.
 
 26 Sepeliēruntque eum in sepulcrō suō in hortō Oza; et rēgnāvit Iosīās fīlius eius prō eō.
 
-22
+## 22
 
 1 Octo annōrum erat Iosīās, cum rēgnāre coepisset, et trīgintā et ūnō annō rēgnāvit in Ierusālem. **Nōmen** mātris eius Idida **fīlia** Adaia dē Bascath.
 
@@ -1398,7 +1398,7 @@ Quem cum lēgisset Saphan **cōram** **rēge**,
 
 20 idcircō colligam tē ad patrēs tuōs, et **colligēris** ad sepulcrum tuum in pāce, ut nōn videant oculī tuī omnia **mala**, quae inductūrus sum super locum istum ”. Et renūntiāvērunt **rēgī**, quod dīxerat.
 
-23
+## 23
 
 1 Quī mīsit, et congregātī sunt ad eum omnēs senēs Iūdae et Ierusālem;
 
@@ -1474,7 +1474,7 @@ Quem cum lēgisset Saphan **cōram** **rēge**,
 
 37 Et fēcit **malum** **cōram** Dominō iuxtā omnia, quae fēcerant patrēs eius.
 
-24
+## 24
 
 1 In diēbus eius ascendit Nabuchodonosor rēx Babylōnis, et **factus** **est** **eī** Ioachim servus **tribus** annīs et rūrsum rebellāvit contrā eum.
 
@@ -1518,7 +1518,7 @@ Quem cum lēgisset Saphan **cōram** **rēge**,
 
 Recessitque Sedeciās ā **rēge** Babylōnis.
 
-25
+## 25
 
 1 Factum **est** autem annō nōnō rēgnī eius, **mēnsē** decimō, **decimā** **diē** **mēnsis** **venit** Nabuchodonosor rēx Babylōnis ipse et **omnis** **exercitus** eius in Ierusālem; et circumdedērunt eam et exstrūxērunt in circuitū eius mūnītiōnēs.
 

@@ -1,4 +1,4 @@
-PRAEFATIO AD LECTOREM
+# PRAEFATIO AD LECTOREM
 
 Quoniam sollicitudo pastoralis vera est causa, qua Ecclesia movetur ut id quod fideliter tradit, renovet, Pius XII mente percipiens tempus advenisse ut in Breviario Romano, a sancto Pio V, eius decessore, edito, pro Psalterio Gallicano aliud substitueretur, concessit ut, sive in privata sive in publica recitatione nova interpretatio, a Pontificii Instituti Biblici professoribus confecta, adhiberetur. Quam deliberationem his verbis explicavit: “ ut plenius in dies fidelibus pateat Sacrarum Litterarum sensus a Spiritu Sancto inspirante datus et hagiographi calamo expressus, quemadmodum in Encyclicis Litteris Divino afflante Spiritu haud ita multo ante exposuimus ”.
 

@@ -1,8 +1,8 @@
 # ĒVANGELIUM SECUNDUM IŌANNEM
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21)
 
-1
+## 1
 
 1 In prīncipiō erat Verbum, et Verbum erat apud Deum, et Deus erat Verbum.
 
@@ -112,7 +112,7 @@ sīcut dīxit Īsaiās **prophēta** ”.
 
 51 Et dīcit **eī**: “ Āmēn, āmēn **dīcō** vōbīs: Vidēbitis caelum apertum et angelōs Deī ascendentēs et dēscendentēs suprā Fīlium hominis ”.
 
-2
+## 2
 
 1 Et **diē** tertiō nūptiae factae sunt in **Cānā** Galilaeae, et erat māter **Iēsu** ibi;
 
@@ -164,7 +164,7 @@ sīcut dīxit Īsaiās **prophēta** ”.
 
 25 et quia opus **eī** nōn erat, ut **quis** testimōnium perhibēret dē homine; ipse enim sciēbat quid **esset** in homine.
 
-3
+## 3
 
 1 Erat autem homō ex **pharisaeīs**, Nicodēmus nōmine, prīnceps Iūdaeōrum;
 
@@ -238,7 +238,7 @@ sīcut dīxit Īsaiās **prophēta** ”.
 
 36 Quī crēdit in Fīlium, habet vītam aeternam; quī autem incrēdulus **est** Fīliō, nōn vidēbit vītam, sed **īra** Deī **manet** super eum.
 
-4
+## 4
 
 1 Ut ergō cognōvit **Iēsus** quia audiērunt **pharīsaeī** quia **Iēsus** plūrēs discipulōs facit et baptīzat quam Iōannēs
 
@@ -348,7 +348,7 @@ sīcut dīxit Īsaiās **prophēta** ”.
 
 54 **Hoc** iterum secundum signum fēcit **Iēsus**, cum vēnisset ā **Iūdaeā** in Galilaeam.
 
-5
+## 5
 
 1 Post haec erat diēs fēstus Iūdaeōrum, et ascendit **Iēsus** Hierosolymam.
 
@@ -446,7 +446,7 @@ Erat autem sabbatum in illō **diē**.
 
 47 Sī autem illīus litterīs nōn **crēditis**, quōmodo meīs verbīs crēdētis? ”.
 
-6
+## 6
 
 1 Post haec abiit **Iēsus** trāns mare Galilaeae, quod **est** Tiberiadis.
 
@@ -590,7 +590,7 @@ Erat autem sabbatum in illō **diē**.
 
 71 Dīcēbat autem Iūdam Simōnis Iscariōtis; **hic** enim erat trāditūrus eum, cum **esset** ūnus ex Duodecim.
 
-7
+## 7
 
 1 Et post haec ambulābat **Iēsus** in Galilaeam; nōn enim volēbat in Iūdaeam ambulāre, quia quaerēbant eum Iūdaeī interficere.
 
@@ -698,7 +698,7 @@ Erat autem sabbatum in illō **diē**.
 
 53 Et reversī sunt ūnusquisque in domum suam.
 
-8
+## 8
 
 1 **Iēsus** autem perrēxit in montem Olīvētī.
 
@@ -818,7 +818,7 @@ Erat autem sabbatum in illō **diē**.
 
 59 Tulērunt ergō lapidēs, ut **iacerent** in eum; **Iēsus** autem abscondit sē et exīvit dē templō.
 
-9
+## 9
 
 1 Et praeteriēns vīdit hominem caecum ā nātīvitāte.
 
@@ -902,7 +902,7 @@ Erat autem sabbatum in illō **diē**.
 
 41 Dīxit eīs **Iēsus**: “ Sī caecī **essētis**, nōn habērētis peccātum. Nunc vērō dīcitis: “Vidēmus!”; peccātum vestrum **manet** ”.
 
-10
+## 10
 
 1 “ Āmēn, āmēn **dīcō** vōbīs: Quī nōn intrat per ōstium in ovīle ovium, sed ascendit aliunde, ille fūr **est** et **latrō**;
 
@@ -988,7 +988,7 @@ Erat autem sabbatum in illō **diē**.
 
 42 Et multī crēdidērunt in eum **illīc**.
 
-11
+## 11
 
 1 Erat autem quīdam languēns Lazarus ā Bethāniā, dē castellō **Mariae** et Marthae sorōris eius.
 
@@ -1104,7 +1104,7 @@ Erat autem sabbatum in illō **diē**.
 
 57 Dederant autem pontificēs et **pharīsaeī** mandātum, ut, sī **quis** cognōverit, ubi sit, **indicet**, ut apprehendant eum.
 
-12
+## 12
 
 1 **Iēsus** ergō ante sex diēs Paschae **vēnit** Bethāniam, ubi erat Lazarus, quem suscitāvit ā mortuīs **Iēsus**.
 
@@ -1226,7 +1226,7 @@ et sānem eōs ”.
 
 50 Et sciō quia mandātum eius **vīta** **aeterna** **est**. Quae ergō ego loquor, sīcut dīxit mihi Pater, sīc loquor ”.
 
-13
+## 13
 
 1 Ante diem autem fēstum Paschae, sciēns **Iēsus** quia **venit** eius **hōra**, ut trānseat ex **hōc** mundō ad Patrem, cum dīlēxisset suōs, quī erant in mundō, in fīnem dīlēxit eōs.
 
@@ -1304,7 +1304,7 @@ et sānem eōs ”.
 
 38 Respondet **Iēsus**: “ Animam tuam prō mē pōnēs? Āmēn, āmēn **dīcō** tibi: Nōn cantābit gallus, dōnec mē ter negēs.
 
-14
+## 14
 
 1 Nōn turbētur cor vestrum. **Crēditis** in Deum et in mē **crēdite**.
 
@@ -1368,7 +1368,7 @@ et sānem eōs ”.
 
 31 sed, ut cognōscat mundus quia dīligō Patrem, et sīcut mandātum **dēdit** mihi Pater, sīc faciō. Surgite, eāmus hinc.
 
-15
+## 15
 
 1 Ego sum **vītis** **vēra**, et Pater meus **agricola** **est**.
 
@@ -1424,7 +1424,7 @@ et sānem eōs ”.
 
 27 sed et vōs testimōnium perhibētis, quia ab initiō mēcum **estis**.
 
-16
+## 16
 
 1 Haec **locūtus** sum vōbīs, ut nōn scandalizēminī.
 
@@ -1494,7 +1494,7 @@ et sānem eōs ”.
 
 33 Haec **locūtus** sum vōbīs, ut in mē pācem habeātis; in mundō pressūram habētis, sed cōnfīdite, ego **vīcī** mundum ”.
 
-17
+## 17
 
 1 Haec **locūtus** **est** **Iēsus**; et, **sublevātīs** oculīs **suīs** in caelum, dīxit: “ Pater, **venit** **hōrā**: clārificā Fīlium tuum, ut Fīlius clārificet tē,
 
@@ -1550,7 +1550,7 @@ Pater **sānctē**, **servā** eōs in nōmine tuō, quod dedistī mihi, ut sint
 
 26 et nōtum fēcī eīs **nōmen** tuum et nōtum faciam, ut dīlēctiō, **quā** dīlēxistī mē, in ipsīs sit, et ego in ipsīs ”.
 
-18
+## 18
 
 1 Haec cum dīxisset **Iēsus**, **ēgressus** **est** cum discipulīs **suīs** trāns torrentem **Cedrōn**, ubi erat hortus, in quem introīvit ipse et discipulī eius.
 
@@ -1632,7 +1632,7 @@ Pater **sānctē**, **servā** eōs in nōmine tuō, quod dedistī mihi, ut sint
 
 40 Clāmāvērunt ergō rūrsum dīcentēs: “ Nōn hunc sed Barabbam! ”. Erat autem Barabbās **latrō**.
 
-19
+## 19
 
 1 Tunc ergō apprehendit Pīlātus **Iēsum** et flagellāvit.
 
@@ -1724,7 +1724,7 @@ Et mīlitēs quidem haec fēcērunt.
 
 42 Ibi ergō propter Parascēvēm Iūdaeōrum, quia iuxtā erat monumentum, posuērunt **Iēsum**.
 
-20
+## 20
 
 1 **Prīma** autem sabbatōrum **Mariā** Magdalēne **venit** **manē**, cum adhūc tenebrae **essent**, ad monumentum et videt lapidem sublātum ā monumentō.
 
@@ -1788,7 +1788,7 @@ Et mīlitēs quidem haec fēcērunt.
 
 31 haec autem **scrīpta** sunt, ut crēdātis quia **Iēsus** **est** Chrīstus Fīlius Deī et ut crēdentēs vītam habeātis in nōmine eius.
 
-21
+## 21
 
 1 Posteā manifestāvit sē iterum **Iēsus** discipulīs ad mare Tiberiadis; manifestāvit autem sīc.
 

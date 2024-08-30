@@ -1,8 +1,8 @@
-**PROPHĒTĪA** NAHUM
+# **PROPHĒTĪA** NAHUM
 
-1 2 3
+[1](#1) [2](#2) [3](#3)
 
-1  
+## 1
 
 1 Ōrāculum Nineve. **Liber** vīsiōnis Nahum Elcesaēī.
 
@@ -94,7 +94,7 @@ pōnam sepulcrum tuum,
 
 quia inhonōrātus **es** ”.
 
-2  
+## 2
 
 1 Ecce super montēs **pedēs** **ēvangelīzantis**
 
@@ -178,7 +178,7 @@ et dissolūtiō geniculōrum;
 
 et tremor in cūnctīs rēnibus,
 
-et faciēs omnium eōrum candentēs. 
+et faciēs omnium eōrum candentēs.
 
 12 **Ubi** **est** habitāculum leōnum,
 
@@ -208,7 +208,7 @@ et exterminābō dē **terrā** praedam tuam,
 
 et nōn audiētur **ultrā** vōx nūntiōrum tuōrum ”.
 
-3  
+## 3
 
 1 Vae, cīvitās sanguinum,
 

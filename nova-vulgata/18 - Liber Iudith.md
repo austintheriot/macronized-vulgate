@@ -1,8 +1,8 @@
-**LIBER** IUDITH
+# **LIBER** IUDITH
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16)
 
-1 
+## 1
 
 1 Annō duodecimō rēgnī Nabuchodonosor, quī rēgnāvit in Assyriīs in Nineve cīvitāte **magnā**, in diēbus Arphaxad, quī rēgnāvit in Mēdīs in Ecbatanīs
 
@@ -36,7 +36,7 @@
 
 16 Et reversus **est** posteā in Ninevēn ipse et **commixtūrā** eius, multitūdō hominum pugnātōrum **multa** valdē. Et erat ibi requiēscēns et epulāns ipse et virtūs eius per diēs centum vīgintī.
 
-2
+## 2
 
 1 Et in annō octāvō decimō, secundō et vīcēsimō **diē** **mēnsis** prīmī factum **est** verbum Nabuchodonosor **rēgis** Assyriōrum, ut vindicāret omnem terram, sīcut **locūtus** **est**.
 
@@ -94,7 +94,7 @@
 
 28 Et **incīdit** timor et tremor eius super inhabitantēs maritimam, quī erant in Sidōne et **Tȳrō**, et inhabitantēs Sur et Ochīna et omnēs, quī incolēbant Iamniam; et habitantēs in Azōtō et Ascalōne et **Gāzā** timuērunt eum valdē.
 
-3
+## 3
 
 1 Et mīsērunt ad eum lēgātōs verbīs pācificīs dīcentēs:
 
@@ -116,7 +116,7 @@
 
 10 et **castra** posuērunt inter Gabaā et Scythārum cīvitātem. Et erat ibi mēnsem diērum, ut colligeret omnia ūtēnsilia **virtūtis** suae.
 
-4
+## 4
 
 1 Et audiērunt fīliī Isrāēl, quī habitābant in **Iūdaeā**, omnia, quaecumque fēcerat gentibus Holofernēs prīnceps mīlitiae Nabuchodonosor **rēgis** Assyriōrum, et quemadmodum spoliāverat omnia **sāncta** eōrum et dederat **ea** in exterminium.
 
@@ -148,7 +148,7 @@
 
 15 Et erat cinis super cidarēs eōrum, et clāmābant ad Dominum ex omnī virtūte, ut in bonum vīsitāret omnem domum Isrāēl.
 
-5
+## 5
 
 1 Et renūntiātum **est** Holofernī prīncipī mīlitiae **virtūtis** Assyriae quoniam fīliī Isrāēl praeparāverant sē ad pugnam et **trānsitūs** montānae conclūserant et **mūris** cīnxerant omnem verticem **montis** excelsī et posuerant in campīs offendicula.
 
@@ -198,7 +198,7 @@
 
 24 Propter **hoc** ascendēmus, et erunt in ēscam mīlitiae tuae, dominātor Holofernēs ”.
 
-6
+## 6
 
 1 Et, cum cessāsset **tumultus** **virōrum**, quī erant in circuitū conciliī, dīxit Holofernēs prīnceps mīlitiae **virtūtis** Assyriae ad Achior **cōram** omnī **populō** aliēnigenārum et ad omnēs fīliōs Moab:
 
@@ -244,7 +244,7 @@
 
 Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
-7
+## 7
 
 1 **Crāstina** autem **diē** praecēpit Holofernēs omnī mīlitiae suae et omnī **populō** suō, quī affuērunt in auxilium illīus, ut parārent sē ad Betuliam et **ascēnsūs** montānae praeoccupārent et facerent pugnam adversus fīliōs Isrāēl.
 
@@ -310,7 +310,7 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 32 Et dispersit plēbem ūnumquemque in **castra** **sua**, et super mūrōs et turrēs cīvitātis abiērunt, et mulierēs et fīliōs in **domūs** suās dīmīsērunt; et erant in **magnā** **humilitāte** valdē.
 
-8
+## 8
 
 1 Et erat in cīvitāte commorāns in diēbus illīs Iudith **fīliā** Merārī fīliī Ōx fīliī Ioseph fīliī Oziel fīliī Elchiae fīliī Anāniae fīliī Gedeon fīliī Rafain fīliī Achitob fīliī Eliab fīliī Nathanael fīliī Salamiel fīliī Surisaddāī fīliī Simeōn fīliī Isrāēl.
 
@@ -384,7 +384,7 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 36 Et revertentēs dēscendērunt dē tabernāculō eius et abiērunt ad dispositiōnēs suās.
 
-9
+## 9
 
 1 Iudith autem prōcidit in faciem suam et imposuit cinerem super caput suum et scidit tunicam suam et dēnūdāvit, quod induerat, cilicium; et, in ipsō quod oblātum erat in Ierusālem in domum Deī incēnsum vespere illō, clāmāvit Iudith vōce **magnā** ad Dominum et dīxit:
 
@@ -414,7 +414,7 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 14 Et fac super omnem gentem tuam et omnem tribum scientiam, ut sciant quoniam tū Deus **es** ūniversae potestātis et **virtūtis**, et nōn **est** **alius** dēfēnsor **generis** Isrāēl praeter tē ”.
 
-10
+## 10
 
 1 Et factum **est**, ut cessāvit clāmāns ad Deum Isrāēl et cōnsummāvit omnia verba **ista**,
 
@@ -462,7 +462,7 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 23 Cum autem **venit** contrā faciem eius Iudith et famulōrum eius, laudāvērunt omnēs speciem faciēī eius; prōcidēnsque in faciem adōrāvit eum, et suscitāvērunt eam servī eius.
 
-11
+## 11
 
 1 Dīxitque ad eam Holofernēs: “ Aequō animō **estō**, mulier, et nōlī **pavēre** **corde** tuō, quoniam ego nōn nocuī **virō** cuicumque placuit servīre Nabuchodonosor **rēgī** tōtīus terrae.
 
@@ -510,7 +510,7 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 23 Et nunc tū **es** **speciōsa** in aspectū et **bona** in verbīs tuīs. Quoniam, sī **fēcerīs** secundum quod **locūta** **es**, Deus tuus erit Deus meus, et tū in domō Nabuchodonosor **rēgis** sedēbis et **eris** **nōmināta** per omnem terram ”.
 
-12
+## 12
 
 1 Et iussit intrōdūcī eam, ubi repōnēbātur argentum ipsīus. Et praecēpit sternī **eī** et dare **eī** ex obsōniīs **suīs** et ex vīnō suō **bibere**.
 
@@ -552,7 +552,7 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 20 Et iūcundātus **est** Holofernēs dē **eā** et bibit multum vīnum, quantum numquam bibit in ūnō **diē**, ex quō **nātus** **est**.
 
-13
+## 13
 
 1 Et, ut vesper **factus** **est**, festīnāvērunt servī eius abīre, et Bagōās conclūsit tabernāculum ā **foris** et dīmīsit adstantēs ā faciē dominī **suī**. Et abiērunt omnēs in cubīlia **sua**; erant enim omnēs fatīgātī, quoniam plūrimus **factus** erat **pōtus**.
 
@@ -594,7 +594,7 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 20 Et faciat tibi **ea** Deus in exaltātiōnem aeternam, ut vīsitet tē in bonīs, prō eō quod nōn pepercistī animae tuae propter humilitātem **generis** nostrī, sed prosilīstī in ruīnam nostram in dīrēctum ambulāns in cōnspectū Deī nostrī ”. Et dīxit **omnis** **populus**: “ Fīat, fīat! ”.
 
-14
+## 14
 
 1 Et dīxit Iudith ad illōs: “ **Audīte** mē, frātrēs, et accipientēs caput **hoc** suspendite illud super prōpugnāculum mūrī nostrī.
 
@@ -634,7 +634,7 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 19 Ut autem audiērunt verba haec, prīncipēs **virtūtis** Assyriae scidērunt tunicās suās, et **conturbāta** **est** **anima** eōrum valdē, et **factus** **est** clāmor et **ululātus** magnus in **mediō** castrōrum.
 
-15
+## 15
 
 1 Ut autem audiērunt hī, quī in tabernāculīs erant, obstū puērunt super quod factum erat.
 
@@ -664,7 +664,7 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 14 Et exōrdiēbātur Iudith cōnfessiōnem hanc in omnī Isrāēl, et acclāmābat **omnis** **populus** laudātiōnem hanc Dominī.
 
-16
+## 16
 
 1 Dīxitque Iudith:
 

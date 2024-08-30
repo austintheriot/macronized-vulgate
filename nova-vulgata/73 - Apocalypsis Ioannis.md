@@ -1,8 +1,8 @@
-**APOCALYPSIS** **IŌANNIS**
+# **APOCALYPSIS** **IŌANNIS**
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22)
 
-1 
+## 1
 
 1 **Apocalypsis** **Iēsu** Chrīstī, quam **dedit** illī Deus **palam** facere servīs **suīs**, quae oportet fierī **cito**, et significāvit mittēns per angelum suum servō suō Iōannī,
 
@@ -46,7 +46,7 @@
 
 20 Mystērium septem stēllārum, quās vīdistī ad dexteram meam, et septem candēlābra **aurea**: septem stēllae, angelī sunt septem ecclēsiārum; et candēlābra septem, septem ecclēsiae sunt.
 
-2
+## 2
 
 1 Angelō ecclēsiae, quae **est** Ephesī, scrībe:
 
@@ -114,7 +114,7 @@ tamquam vāsa fictilia cōnfringentur,
 
 29 Quī habet aurem, audiat quid **Spīritus** **dīcat** ecclēsiīs.
 
-3
+## 3
 
 1 Et angelō ecclēsiae, quae **est** Sardīs, scrībe:
 
@@ -166,7 +166,7 @@ Haec dīcit Āmēn, **testis** **fidēlis** et vērus, prīncipium creātūrae D
 
 22 Quī habet aurem, audiat quid **Spīritus** **dīcat** ecclēsiīs ”.
 
-4
+## 4
 
 1 Post haec vīdī: et ecce ōstium apertum in caelō, et vōx **prīma**, quam audīvī, tamquam tubae **loquentis** mēcum dīcēns: “ Ascende hūc, et ostendam tibi, quae oportet fierī post haec ”.
 
@@ -196,7 +196,7 @@ quia tū creāstī omnia,
 
 et propter voluntātem tuam erant et **creāta** sunt ”.
 
-5
+## 5
 
 1 Et vīdī in **dexterā** **sedentis** super thronum librum scrīptum intus et **foris**, signātum sigillīs septem.
 
@@ -240,7 +240,7 @@ et fortitūdinem et honōrem et glōriam et benedictiōnem ”.
 
 14 Et quattuor animālia dīcēbant: “ Āmēn ”; et seniōrēs **cecidērunt** et adōrāvērunt.
 
-6
+## 6
 
 1 Et vīdī, cum aperuisset Agnus ūnum dē septem sigillīs, et audī vī ūnum dē quattuor animālibus dīcēns tamquam vōce tonitruī: “ **Vēnī** ”.
 
@@ -276,7 +276,7 @@ et fortitūdinem et honōrem et glōriam et benedictiōnem ”.
 
 17 quoniam **venit** diēs magnus īrae ipsōrum, et **quis** poterit stāre? ”.
 
-7
+## 7
 
 1 Post haec vīdī quattuor angelōs stantēs super quattuor angulōs terrae tenentēs quattuor ventōs terrae, nē flāret ventus super terram neque super mare neque in ūllam arborem.
 
@@ -314,7 +314,7 @@ et fortitūdinem et honōrem et glōriam et benedictiōnem ”.
 
 17 quoniam Agnus, quī in **mediō** thronī **est**, pāscet illōs et dēdūcet eōs ad vītae fontēs aquārum, et absterget Deus omnem lacrimam ex oculīs eōrum ”.
 
-8
+## 8
 
 1 Et cum aperuisset sigillum septimum, factum **est** silentium in caelō quasi **mediā** **hōrā**.
 
@@ -342,7 +342,7 @@ et fortitūdinem et honōrem et glōriam et benedictiōnem ”.
 
 13 Et vīdī et audīvī ūnam aquilam volantem per **medium** caelum dīcentem vōce **magnā**: “ Vae, vae, vae habitantibus in **terrā** dē cēterīs vōcibus tubae trium angelōrum, quī **tubā** canītūrī sunt!”.
 
-9
+## 9
 
 1 Et quīntus angelus **tubā** cecinit. Et vīdī stēllam dē caelō cecīdis sē in terram, et **data** **est** illī **clāvis** puteī abyssī.
 
@@ -386,7 +386,7 @@ et fortitūdinem et honōrem et glōriam et benedictiōnem ”.
 
 21 et nōn **ēgerunt** paenitentiam ab homicīdiīs **suīs** neque ā venēficiīs **suīs** neque ā fornicātiōne **suā** neque ā fūrtīs **suīs**.
 
-10
+## 10
 
 1 Et vīdī alium angelum for tem dēscendentem dē caelō amictum nūbe, et īrīs super caput, et faciēs eius erat ut sōl, et **pedēs** eius tamquam columnae **ignis**;
 
@@ -410,7 +410,7 @@ et fortitūdinem et honōrem et glōriam et benedictiōnem ”.
 
 11 Et dīcunt mihi: “ Oportet tē iterum prophētāre super **populīs** et gentibus et linguīs et rēgibus multīs ”.
 
-11
+## 11
 
 1 Et **datus** **est** mihi **calamus** **similis** virgae dīcēns: “ Surge et mētīre templum Deī et altāre et adōrantēs in eō.
 
@@ -466,7 +466,7 @@ et extermināre eōs, quī exterminant terram ”.
 
 19 Et apertum **est** templum Deī in caelō, et **vīsa** **est** **arca** testāmentī eius in templō eius; et **facta** sunt **fulgura** et **vōcēs** et **terraemōtus** et grandō **magna**.
 
-12
+## 12
 
 1 Et signum magnum appa ruit in caelō: mulier **amicta** **sōle**, et **lūna** sub pedibus eius, et super caput eius **corōna** stēllārum duodecim;
 
@@ -522,7 +522,7 @@ Vae terrae et marī, quia dēscendit Diabolus ad vōs habēns īram magnam, sci�
 
 18 Et stetit super arēnam **maris**.
 
-13
+## 13
 
 1 Et vīdī dē marī bēstiam ascendentem, habentem cor nua decem et **capita** septem, et super cornua eius decem **diadēmata**, et super **capita** eius **nōmina** blasphēmiae.
 
@@ -570,7 +570,7 @@ oportet eum in gladiō **occīdī**.
 
 18 **Hic** **sapientia** **est**: quī habet intellēctum, computet numerum bēstiae; numerus enim hominis **est**: et numerus eius **est** sēscentī sexāgintā sex.
 
-14
+## 14
 
 1 Et vīdī: et ecce Agnus stāns suprā montem **Sīōn**, et cum illō centum quadrāgintā quattuor **mīlia**, habentēs **nōmen** eius et **nōmen** Patrīs eius scrīptum in frontibus **suīs**.
 
@@ -612,7 +612,7 @@ oportet eum in gladiō **occīdī**.
 
 20 Et **calcātus** **est** **lacus** extrā cīvitātem, et exīvit sanguis dē lacū usque ad frēnōs equōrum per stadia mīlle **sēscenta**.
 
-15
+## 15
 
 1 Et vīdī aliud signum in caelō magnum et mīrābile: angelōs septem habentēs **plāgās** septem novissimās, quoniam in illīs **cōnsummāta** **est** **īra** Deī.
 
@@ -648,7 +648,7 @@ quoniam iūdicia **tua** **manifestāta** sunt ”.
 
 8 Et implētum **est** templum fūmō dē **glōriā** Deī et dē virtūte eius; et nēmō poterat introīre in templum, dōnec cōnsummārentur septem **plāgae** septem angelōrum.
 
-16
+## 16
 
 1 Et audīvī **vōcem** magnam dē templō dīcentem septem an gelīs: “ **Īte** et effundite septem phialās īrae Deī in terram ”.
 
@@ -692,7 +692,7 @@ quoniam iūdicia **tua** **manifestāta** sunt ”.
 
 21 Et grandō **magna** sīcut talentum dēscendit dē caelō in hominēs; et blasphēmāvērunt hominēs Deum propter **plāgam** grandinis, quoniam **magna** **est** **plāga** eius nimis.
 
-17
+## 17
 
 1 Et **venit** ūnus dē septem angelīs, quī habēbant septem phialās, et **locūtus** **est** mēcum dīcēns: “ **Vēnī**, ostendam tibi damnātiōnem meretrīcis magnae, quae **sedet** super aquās multās,
 
@@ -730,7 +730,7 @@ quoniam iūdicia **tua** **manifestāta** sunt ”.
 
 18 Et mulier, quam vīdistī, **est** cīvitās **magna**, quae habet rēgnum super **rēgēs** terrae ”.
 
-18
+## 18
 
 1 Post haec vīdī alium ange lum dēscendentem dē caelō, habentem potestātem magnam; et **terra** **illūmināta** **est** ā clāritāte eius.
 
@@ -782,7 +782,7 @@ Et **omnis** gubernātor et **omnis**, quī in locum nāvigat, et nautae et, quo
 
 24 et in **eā** sanguis prophētārum et sānctōrum **inventus** **est** et omnium, quī interfectī sunt in **terrā**! ”.
 
-19
+## 19
 
 1 Post haec audīvī quasi vō cem magnam turbae multae in caelō dīcentium:
 
@@ -844,7 +844,7 @@ et uxor eius praeparāvit sē.
 
 21 Et cēterī occīsī sunt in gladiō **sedentis** super equum, quī prōcēdit dē ōre ipsīus, et omnēs avēs saturātae sunt carnibus eōrum.
 
-20
+## 20
 
 1 Et vīdī angelum dēscēn dentem dē caelō habentem clāvem abyssī et catēnam magnam in manū **suā**.
 
@@ -876,7 +876,7 @@ et uxor eius praeparāvit sē.
 
 15 Et sī **quis** nōn **est** **inventus** in **librō** vītae **scrīptus**, **missus** **est** in **stāgnum** **ignis**.
 
-21
+## 21
 
 1 Et vīdī caelum novum et ter ram novam; prīmum enim caelum et **prīmā** **terrā** abiērunt, et mare iam nōn **est**.
 
@@ -932,7 +932,7 @@ et uxor eius praeparāvit sē.
 
 27 Nec intrābit in **eā** aliquid coinquinātum et faciēns abōminātiōnem et mendācium, **nisi** quī scrīptī sunt in **librō** vītae Agnī.
 
-22
+## 22
 
 1 Et ostendit mihi fluvium aquae vītae splendidum tamquam crystallum, prōcēdentem dē thronō Deī et Agnī.
 

@@ -1,8 +1,8 @@
-AD COLOSSĒNSĒS **EPISTULĀ** SĀNCTĪ PAULĪ APOSTOLĪ
+# AD COLOSSĒNSĒS **EPISTULĀ** SĀNCTĪ PAULĪ APOSTOLĪ
 
- 1 2 3 4
+[1](#1) [2](#2) [3](#3) [4](#4)
 
-1 
+## 1
 
 1 Paulus, apostolus Chrīstī **Iēsu** per voluntātem Deī, et Tīmotheus frāter
 
@@ -88,7 +88,7 @@ sīve quae in terrīs sīve quae in caelīs sunt.
 
 29 ad quod et labōrō certandō secundum operātiōnem eius, quae operātur in mē in virtūte.
 
-2
+## 2
 
 1 Volō enim vōs scīre quālem sollicitūdinem habeam prō vō bis et prō hīs, quī sunt Laodiciae, et quīcumque nōn vīdērunt faciem meam in carne,
 
@@ -136,7 +136,7 @@ sīve quae in terrīs sīve quae in caelīs sunt.
 
 23 Quae sunt ratiōnem quidem **habentia** sapientiae in superstitiōne et **humilitāte**, et nōn parcendō corporī, nōn in **honōre** aliquō ad saturitātem **carnis**.
 
-3
+## 3
 
 1 Igitur, sī conresurrēxistis Chrī stō, quae sūrsum sunt quaerite, ubi Chrīstus **est** in **dexterā** Deī sedēns;
 
@@ -188,7 +188,7 @@ sīve quae in terrīs sīve quae in caelīs sunt.
 
 25 quī enim iniūriam facit, recipiet id quod **inīquē** gessit, et nōn **est** **persōnārum** acceptiō.
 
-4
+## 4
 
 1 Dominī, quod iūstum **est** et aequum, servīs praestāte, **sciēn** tēs quoniam et vōs Dominum habētis in caelō.
 

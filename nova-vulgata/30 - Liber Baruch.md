@@ -1,8 +1,8 @@
-**LIBER** BARUCH 
+# **LIBER** BARUCH
 
-1 2 3 4 5 6
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6)
 
-1 
+## 1
 
 1 Et haec verba, quae scrīpsit Baruch fīlius **Nēriae** fīliī Maasiae fīliī Sedeciae fīliī Asadēī fīliī Helciae in Babylōne,
 
@@ -50,7 +50,7 @@ Dominō Deō nostrō **iūstitiā**, nōbīs autem cōnfūsiō faciēī, sīcut 
 
 22 et abīvimus ūnusquisque in sēnsū **cordis** nostrī **malī** ad serviendum dīīs aliēnīs, facientēs **mala** sub oculīs Deī nostrī.
 
-2
+## 2
 
 1 Et statuit Dominus verbum suum, quod **locūtus** **est** super nōs et super iūdicēs nostrōs, quī iūdicābant Isrāēl, et super **rēgēs** nostrōs et super prīncipēs nostrōs et super omnem hominem Isrāēl et Iūdae,
 
@@ -122,7 +122,7 @@ Dominō Deō nostrō **iūstitiā**, nōbīs autem cōnfūsiō faciēī, sīcut 
 
 35 et statuam illīs testāmentum aeternum, ut sim illīs in Deum, et ipsī erunt mihi in **populum**, et **ultrā** iam nōn movēbō **populum** meum Isrāēl ā **terrā**, quam **dedī** illīs”.
 
-3
+## 3
 
 1 Domine omnipotēns, Deus Isrāēl, **anima** in angustiīs et spīrī tūs ānxius clāmat ad tē.
 
@@ -282,7 +282,7 @@ et Isrāēl dīlēctō suō.
 
 et inter hominēs **conversāta** **est**.
 
-4
+## 4
 
 1 **Ipsa** **est** **liber** praeceptōrum Deī
 
@@ -470,7 +470,7 @@ veniunt congregātī ab ortū usque ad occāsum
 
 verbō Sānctī, gaudentēs in Deī **glōria**.
 
-5
+## 5
 
 1 Exue tē, Ierusālem, **stola** **lūctūs** et vexātiōnis tuae
 
@@ -524,7 +524,7 @@ cum **misericordiā** et **iūstitiā**,
 
 quae **est** ab ipsō.
 
-6  
+## 6
 
 Exemplum epistulae, quam mī sit Iēremīās ad abdūcendōs captīvōs in Babylōniam ā **rēge** Babylōniōrum, ut nūntiāret illīs secundum quod praeceptum **est** **eī** ā Deō.
 

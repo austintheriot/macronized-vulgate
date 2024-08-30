@@ -1,9 +1,9 @@
-LIBER NUMERI 
+# LIBER NUMERI
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19  
-20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19)
+[20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27) [28](#28) [29](#29) [30](#30) [31](#31) [32](#32) [33](#33) [34](#34) [35](#35) [36](#36)
 
-1
+## 1
 
 **Locūtus** que **est** Dominus ad Moysēn in dēsertō Sināī in tabernāculō **conventus**, **prīmā** **diē** **mēnsis** secundī, annō alterō ēgressiōnis eōrum ex Aegyptō, dīcēns:
 
@@ -111,7 +111,7 @@ LIBER NUMERI
 
 54 Fēcērunt ergō fīliī Isrāēl iuxtā omnia, quae praecēperat Dominus Moȳsī.
 
-2
+## 2
 
 1 **Locūtus**que **est** Dominus ad Moysēn et Aarōn dīcēns:
 
@@ -181,7 +181,7 @@ LIBER NUMERI
 
 34 Fēcēruntque fīliī Isrāēl iuxtā omnia, quae mandāverat Dominus: castramētātī sunt per vēxilla **sua** et **profectī** per **tribus** ad domōs patrum suōrum.
 
-3
+## 3
 
 1 Hae sunt generātiōnēs Aarōn et Moȳsī in **diē**, **quā** **locūtus** **est** Dominus ad Moysēn in monte Sināī.
 
@@ -283,7 +283,7 @@ LIBER NUMERI
 
 51 Et **dedit** eam Aarōn et fīliīs eius iuxtā verbum, quod praecēperat sibi Dominus.
 
-4
+## 4
 
 1 **Locūtus**que **est** Dominus ad Moysēn et Aarōn dīcēns:
 
@@ -381,7 +381,7 @@ LIBER NUMERI
 
 48 fuērunt simul octo **mīlia** quīngentī octōgintā. 49 Iuxtā verbum Dominī per **manum** Moȳsī recēnsuit eōs ūnumquemque iuxtā officium et **onera** **sua**, sīcut praecēperat **eī** Dominus.
 
-5
+## 5
 
 1 **Locūtus**que **est** Dominus ad Moysēn dīcēns:
 
@@ -445,7 +445,7 @@ LIBER NUMERI
 
 31 marītus absque **culpā** erit, et **illa** recipiet inīquitātem suam.
 
-6
+## 6
 
 1 **Locūtus**que **est** Dominus ad Moysēn dīcēns:
 
@@ -501,7 +501,7 @@ LIBER NUMERI
 
 27 Invocābuntque **nōmen** meum super fīliōs Isrāēl, et ego **benedīcam** eīs ”.
 
-7
+## 7
 
 1 Factum **est** autem in **diē**, **quā** complēvit Moysēs habitāculum et ērēxit illud ūnxitque et sānctificāvit cum omnibus **vāsīs** **suīs**, altāre similiter et omnia vāsa eius,
 
@@ -681,7 +681,7 @@ LIBER NUMERI
 
 89 Cumque ingrederētur Moysēs tabernāculum testimōniī, ut cōnsuleret ōrāculum, audiēbat **vōcem** **loquentis** ad sē dē propitiātōriō, quod erat super arcam testimōniī inter duōs cherubim, unde et loquēbātur **eī**.
 
-8
+## 8
 
 1 **Locūtus**que **est** Dominus ad Moysēn dīcēns:
 
@@ -737,7 +737,7 @@ Sīcque pūrificābis et agitābis eōs,
 
 26 eruntque ministrī frātrum suōrum in tabernāculō **conventūs**, ut cūstōdiant, quae sibi fuerint **commendāta**; **opera** autem **ipsa** nōn faciant. Sīc dispōnēs **Lēvītis** in cūstōdiīs **suīs** ”.
 
-9
+## 9
 
 1 **Locūtus** **est** Dominus ad Moysēn in dēsertō Sināī annō secundō, postquam ēgressī sunt dē **terrā** Aegyptī, **mēnsē** prīmō dīcēns:
 
@@ -785,7 +785,7 @@ Sīcque pūrificābis et agitābis eōs,
 
 23 Per verbum Dominī fīgēbant **tentōria** et per verbum illīus proficīscēbantur; erantque in excubiīs Dominī iuxtā imperium eius per **manum** Moȳsī.
 
-10
+## 10
 
 1 **Locūtus**que **est** Dominus ad Moysēn dīcēns:
 
@@ -859,7 +859,7 @@ Sīcque pūrificābis et agitābis eōs,
 
 36 Cum autem dēpōnerētur, aiēbat: “ **Revertēre**, Domine, ad multitūdinem **exercitūs** Isrāēl ”.
 
-11
+## 11
 
 1 Ortum **est** murmur **populī**, quasi dolentium prō labōre, contrā Dominum. Quod cum audīsset Dominus, īrātus **est**, et **accēnsus** in eōs **ignīs** Dominī dēvorāvit extrēmam castrōrum partem.
 
@@ -931,7 +931,7 @@ Sīcque pūrificābis et agitābis eōs,
 
 35 Ēgressī autem dē Cibrottaāvā, vēnērunt in Aseroth et mānsērunt ibi.
 
-12
+## 12
 
 1 **Locūta**que **est** **Maria** et Aarōn contrā Moysēn propter uxōrem eius Aethiopissam
 
@@ -999,7 +999,7 @@ Sī **quis** fuerit inter vōs **prophēta** Dominī,
 
 33 ibi vīdimus gigantēs, fīliōs Enāc dē genere gigantēō, quibus comparātī quasi locustae vidēbāmur ”.
 
-14
+## 14
 
 1 Igitur vōciferāns **omnis** **turba** flēvit nocte **illa**,
 
@@ -1091,7 +1091,7 @@ Sī **quis** fuerit inter vōs **prophēta** Dominī,
 
 45 Dēscenditque Amalecītēs et Chananaeus, quī habitābat in monte, et percutiēns eōs atque **concidēns** persecūtus **est** eōs usque Horma.
 
-15
+## 15
 
 1 **Locūtus** **est** Dominus ad Moysēn dīcēns:
 
@@ -1175,7 +1175,7 @@ Sī **quis** fuerit inter vōs **prophēta** Dominī,
 
 41 Ego Dominus Deus vester, quī ēdūxī vōs dē **terrā** Aegyptī, ut essem Deus vester. Ego Dominus Deus vester ”.
 
-16
+## 16
 
 1 Ecce autem **Corē** fīlius Isaār fīliī Caath fīliī **Levī** et Dathān atque Abīram fīliī Eliab, **Hōn** **quoque** fīlius Pheleth dē fīliīs Ruben
 
@@ -1247,7 +1247,7 @@ Sī **quis** fuerit inter vōs **prophēta** Dominī,
 
 35 Sed et **ignis** **ēgressus** ā Dominō interfēcit ducentōs quīnquāgintā virōs, quī offerēbant incēnsum.
 
-17
+## 17
 
 1 **Locūtus**que **est** Dominus ad Moysēn dīcēns:
 
@@ -1305,7 +1305,7 @@ Sī **quis** fuerit inter vōs **prophēta** Dominī,
 
 28 Quīcumque accēdit ad habitāculum Dominī, moritur. Num usque ad interneciōnem cūnctī dēlendī sumus? ”.
 
-18
+## 18
 
 1 Dīxitque Dominus ad Aarōn: “ Tū et fīliī tuī et **domus** patris tuī tēcum portābitis inīquitātem sānctuāriī; et tū et fīliī tuī simul sustinēbitis **peccāta** sacerdōtiī vestrī.
 
@@ -1371,7 +1371,7 @@ Sī **quis** fuerit inter vōs **prophēta** Dominī,
 
 32 Et nōn peccābitis super **hōc** **ēgregia** vōbīs et pinguia reservantēs, nē polluātis oblātiōnēs fīliōrum Isrāēl et moriāminī ”.
 
-19
+## 19
 
 1 **Locūtus**que **est** Dominus ad Moysēn et Aarōn dīcēns:
 
@@ -1417,7 +1417,7 @@ Sī **quis** fuerit inter vōs **prophēta** Dominī,
 
 22 Quidquid tetigerit immundus, immundum erit, et **anima**, quae hōrum quippiam tetigerit, **immunda** erit usque ad vesperum ”.
 
-20
+## 20
 
 1 Vēnēruntque fīliī Isrāēl et **omnis** congregātiō in dēsertum Sīn **mēnsē** prīmō, et mānsit **populus** in Cadēs. **Mortua**que **est** ibi **Maria** et **sepulta** in eōdem locō.
 
@@ -1477,7 +1477,7 @@ Sī **quis** fuerit inter vōs **prophēta** Dominī,
 
 29 **Omnis** autem congregātiō vidēns occubuisse Aarōn flēvit super eō trīgintā diēbus **tōta** **domus** Isrāēl.
 
-21
+## 21
 
 1 Quod cum audīsset Chananaeus rēx Arad, quī habitābat in Nageb, vēnisse scīlicet Isrāēl per viam Atarim, pugnāvit contrā illum et dūxit ex eō captīvōs.
 
@@ -1589,7 +1589,7 @@ et usque Medaba ”.
 
 35 Percussērunt igitur et hunc cum fīliīs **suīs** ūniversumque **populum** eius usque ad interneciōnem; et possēdērunt terram illīus.
 
-22
+## 22
 
 1 **Profectī**que castramētātī sunt fīliī Isrāēl in campestribus Moab, ubi trāns Iordānem Ierichō **sita** **est**.
 
@@ -1675,7 +1675,7 @@ Balac fīlius Sephor erat eō tempore rēx in Moab.
 
 41 **Māne** autem factō, dūxit eum ad **excelsa** Baal et **intuitus** **est** extrēmam partem **populī**.
 
-23
+## 23
 
 1 Dīxitque Balaam ad Balac: “ Aedificā mihi **hic** septem **ārās** et **para** totidem vitulōs eiusdemque numerī arietēs ”.
 
@@ -1791,7 +1791,7 @@ et occīsōrum sanguinem bibat ”.
 
 30 Fēcit Balac, ut Balaam dīxerat, imposuitque vitulōs et arietēs per singulās **ārās**.
 
-24
+## 24
 
 1 Cumque vīdisset Balaam quod placēret Dominō, ut benedīceret Israeli, nēquāquam abiit, ut ante perrēxerat, ut augurium quaereret; sed dīrigēns contrā dēsertum vultum suum
 
@@ -1919,7 +1919,7 @@ et ad extrēmum etiam ipsī perībunt ”.
 
 Surrēxitque Balaam et reversus **est** in locum suum; Balac **quoque** **via**, **quā** vēnerat, rediit.
 
-25
+## 25
 
 1 **Morābātur** autem Isrāēl in Settim, et incēpit **populus** fornicārī cum fīliābus Moab,
 
@@ -1957,7 +1957,7 @@ Surrēxitque Balaam et reversus **est** in locum suum; Balac **quoque** **via**,
 
 18 quia ipsī hostīliter **ēgerunt** contrā vōs et dēcēpēre īnsidiīs per īdōlum Phegor et in negōtiō Cozbī fīliae **dūcis** Madiān sorōris eōrum, quae **percussa** **est** in **diē** **plāgae** prō sacrilegiō Phegor ”.
 
-26
+## 26
 
 1 Post hanc **plāgam** dīxit Dominus ad Moysēn et Eleazārum fīlium Aarōn sacerdōtem:
 
@@ -2091,7 +2091,7 @@ Fīliōrum Isrāēl, quī ēgressī sunt dē **terrā** Aegyptī, iste **est** n
 
 65 praedīxerat enim Dominus quod omnēs morerentur in sōlitūdine; nūllusque remānsit ex eīs, **nisi** Chaleb fīlius Iephōnne et **Iōs**ue fīlius Nun.
 
-27
+## 27
 
 1 Accessērunt autem fīliae Salphaad fīliī Hepher fīliī Galaad fīliī Machir fīliī Mānāsse, ē cognātiōnibus Mānāsse, quī fuit fīlius Ioseph, quārum sunt **nōmina**: Maala et Noa et Hegla et Melcha et Thersa.
 
@@ -2139,7 +2139,7 @@ Fīliōrum Isrāēl, quī ēgressī sunt dē **terrā** Aegyptī, iste **est** n
 
 23 et, impositīs **capitī** eius manibus, cōnstituit eum, sīcut mandāverat Dominus per **manum** Moȳsī.
 
-28
+## 28
 
 1 Dīxit **quoque** Dominus ad Moysēn:
 
@@ -2203,7 +2203,7 @@ Fīliōrum Isrāēl, quī ēgressī sunt dē **terrā** Aegyptī, iste **est** n
 
 31 praeter holocaustum sempiternum et oblātiōnem eius. **Immaculāta** offerētis omnia cum lībātiōnibus **suīs**.
 
-29
+## 29
 
 1 **Mēnsis** etiam septimī **prīmā** **diē** **conventus** sānctus erit vōbīs; omne opus servīle nōn faciētis in **eā**, quia diēs clangōris **est** et tubārum.
 
@@ -2283,7 +2283,7 @@ Fīliōrum Isrāēl, quī ēgressī sunt dē **terrā** Aegyptī, iste **est** n
 
 39 Haec offerētis Dominō in sollemnitātibus vestrīs, praeter **vōta** et oblātiōnēs spontāneās in holocaustīs, in oblātiōnibus, in lībāminibus et in hostiīs pācificīs ”.
 
-30
+## 30
 
 1 Nārrāvitque Moysēs fīliīs Isrāēl omnia, quae **eī** Dominus imperārat,
 
@@ -2319,7 +2319,7 @@ Fīliōrum Isrāēl, quī ēgressī sunt dē **terrā** Aegyptī, iste **est** n
 
 17 Istae sunt **lēgēs**, quās cōnstituit Dominus Moȳsī inter **virum** et uxōrem, inter patrem et fīliam, quae in puellārī adhūc aetāte **manet** in **parentīs** domō.
 
-31
+## 31
 
 1 **Locūtus**que **est** Dominus ad Moysēn dīcēns:
 
@@ -2429,7 +2429,7 @@ Fīliōrum Isrāēl, quī ēgressī sunt dē **terrā** Aegyptī, iste **est** n
 
 54 Et susceptum intulērunt in tabernāculum **conventūs** in monumentum fīliōrum Isrāēl **cōram** Dominō.
 
-32
+## 32
 
 1 Fīliī autem Ruben et Gad habēbant pecora **multa**, et erat illīs in iūmentīs **īnfīnīta** **substantia**. Cumque vīdissent Iazer et Galaad aptās animālibus alendīs terrās,
 
@@ -2515,7 +2515,7 @@ Fīliōrum Isrāēl, quī ēgressī sunt dē **terrā** Aegyptī, iste **est** n
 
 42 Nobē **quoque** perrēxit et apprehendit Canath cum vīculīs **suīs** vocāvitque eam ex nōmine suō Nobe.
 
-33
+## 33
 
 1 Hae sunt mānsiōnēs fīliōrum Isrāēl, quī ēgressī sunt dē Aegyptō per turmās suās in manū Moȳsī et Aarōn,
 
@@ -2629,7 +2629,7 @@ Fīliōrum Isrāēl, quī ēgressī sunt dē **terrā** Aegyptī, iste **est** n
 
 56 et, quidquid illīs cōgitāveram facere, vōbīs faciam ”.
 
-34
+## 34
 
 1 **Locūtus**que **est** Dominus ad Moysēn dīcēns:
 
@@ -2691,7 +2691,7 @@ Hanc habēbitis terram per fīnēs suōs in circuitū ”.
 
 29 Hī sunt, quibus praecēpit Dominus, ut dīviderent fīliīs Isrāēl terram Chanaan.
 
-35
+## 35
 
 1 Haec **quoque** **locūtus** **est** Dō minus ad Moysēn in campestribus Moab suprā Iordānem contrā Ierichō:
 
@@ -2761,7 +2761,7 @@ Hanc habēbitis terram per fīnēs suōs in circuitū ”.
 
 34 Nōn maculābitis terram habitātiōnis vestrae, mē commorante vōbīscum. Ego enim sum Dominus, quī habitō inter fīliōs Isrāēl ”.
 
-36
+## 36
 
 1 Accessērunt autem et prīncipēs familiārum **tribus** fīliōrum Galaad fīliī Machir fīliī Mānāsse dē stirpe fīliōrum Ioseph; locūtīque sunt Moȳsī **cōram** prīncipibus familiārum Isrāēl
 

@@ -1,9 +1,9 @@
-LIBER DEUTERONOMII
+# LIBER DEUTERONOMII
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 
-18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17)
+[18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27) [28](#28) [29](#29) [30](#30) [31](#31) [32](#32) [33](#33) [34](#34)
 
-1
+## 1
 
 1 Haec sunt verba, quae **locūtus** **est** Moysēs ad omnem Isrāēl trāns Iordānem in sōlitūdine, in **Arabā** contrā Suph, inter Pharān et Thophel et **Labān** et Aseroth et Dizahab.
 
@@ -97,7 +97,7 @@ LIBER DEUTERONOMII
 
 46 Sēdistis ergō in Cadēs multō illō tempore, dum ibi mānsistis.
 
-2
+## 2
 
 1 **Profectī**que inde **vēnimus** in sōlitūdinem per viam **maris** Rubrī, sīcut mihi dīxerat Dominus; et circuīvimus montem Seir longō tempore.
 
@@ -173,7 +173,7 @@ LIBER DEUTERONOMII
 
 37 absque **terrā** fīliōrum Ammōn, ad quam nōn accessistī, cūnctīs, quae adiacent torrentī Iaboc, et urbibus montānīs ūniversīsque locīs, ā quibus nōs prohibuit Dominus Deus noster.
 
-3
+## 3
 
 1 Itaque conversī ascendimus per iter Basān; **ēgressus**que **est** Og rēx Basan in occursum nōbīs cum omnī **populō** suō ad bellandum in Edrāī.
 
@@ -233,7 +233,7 @@ LIBER DEUTERONOMII
 
 29 Mānsimusque in **valle** contrā Bethphegor.
 
-4
+## 4
 
 1 Et nunc, Isrāēl, audī **praecepta** et iūdicia, quae ego doceō vōs, ut facientēs **ea** **vīvātis** et ingredientēs possideātis terram, quam Dominus, Deus patrum vestrōrum, datūrus **est** vōbīs.
 
@@ -333,7 +333,7 @@ LIBER DEUTERONOMII
 
 49 omnem Arabam trāns Iordānem ad orientālem **plāgam** usque ad mare Arabae et usque ad rādīcēs **montis** Phasgā.
 
-5
+## 5
 
 1 Vocāvitque Moysēs omnem Israēlem et dīxit ad eōs: “ Audī, Isrāēl, **praecepta** atque iūdicia, quae ego loquor in auribus vestrīs hodiē; discite **ea** et opere **complētē**.
 
@@ -401,7 +401,7 @@ LIBER DEUTERONOMII
 
 33 sed per **tōtam** viam, quam praecēpit Dominus Deus vester, ambulābitis, ut **vīvātis**, et **bene** sit vōbīs, et prōtēlentur diēs in **terrā** possessiōnis vestrae.
 
-6
+## 6
 
 1 Haec sunt **mandāta** et **praecepta** atque iūdicia, quae mandāvit Dominus Deus vester, ut docērem vōs, et faciātis **ea** in **terrā**, ad quam trānsgrediminī **possidendam**;
 
@@ -453,7 +453,7 @@ LIBER DEUTERONOMII
 
 25 Eritque **iūstitiā** nōbīs, sī **cūstōdierīmus** et **fēcerīmus** omnia **mandāta** haec **cōram** Dominō Deō nostrō, sīcut mandāvit nōbīs”.
 
-7
+## 7
 
 1 Cum intrōdūxerit tē Dominus Deus tuus in terram, quam possessūrus ingrediēris, et dēlēverit gentēs multās **cōram** tē, Hetthaeum et Gergesaeum et Amorraeum, Chananaeum et Pherezaeum et Hevaeum et Iebusaeum, septem gentēs multō maiōris numerī quam tū **es** et rōbustiōrēs tē,
 
@@ -507,7 +507,7 @@ LIBER DEUTERONOMII
 
 26 Nec īnferēs abōminātiōnem in domum tuam, nē fīās **anathēma** sīcut et **illa** **est**; quasi spurcitiam dētestāberis et velut inquināmentum ac sordēs abōminātiōnī habēbis, quia **anathēma** **est**.
 
-8
+## 8
 
 1 Omne mandātum, quod ego praecipiō tibi hodiē, **cave** dīligenter ut faciās, ut possītis **vīvere** et multiplicēminī ingressīque possideātis terram, prō **quā** iūrāvit Dominus patribus vestrīs.
 
@@ -549,7 +549,7 @@ LIBER DEUTERONOMII
 
 20 sīcut gentēs, quās dēlēvit Dominus in introitū vestrō, **ita** et vōs perībitis, sī inoboedientēs **fuerītis** vōcī Dominī Deī vestrī.
 
-9
+## 9
 
 1 Audī, Isrāēl: Tū trānsgrediēris hodiē Iordānem, ut possideās nātiōnēs maximās et fortiōrēs tē, cīvitātēs ingentēs et ad caelum usque mūrātās,
 
@@ -609,7 +609,7 @@ LIBER DEUTERONOMII
 
 29 Attamen ipsī sunt **populus** tuus et hērēditās **tua**, quōs ēdūxistī in fortitūdine **tuā** **magna** et in brāchiō tuō extentō.
 
-10
+## 10
 
 1 In tempore illō dīxit Dominus ad mē: “Dolā tibi duās tabulās lapideās, sīcut priōrēs fuērunt, et ascende ad mē in montem faciēsque tibi arcam ligneam.
 
@@ -655,7 +655,7 @@ LIBER DEUTERONOMII
 
 22 In septuāgintā animābus dēscendērunt patrēs tuī in Aegyptum; et ecce nunc multiplicāvit tē Dominus Deus tuus sīcut astra caelī.
 
-11
+## 11
 
 1 Amā itaque Dominum Deum tuum et cūstōdī observātiōnem eius et **praecepta**, iūdicia atque **mandāta** omnī tempore.
 
@@ -721,7 +721,7 @@ LIBER DEUTERONOMII
 
 32 Vidēte ergō ut impleātis omnia **praecepta** atque iūdicia, quae ego hodiē pōnam in cōnspectū vestrō.
 
-12
+## 12
 
 1 Haec sunt **praecepta** atque iūdicia, quae facere dēbētis in **terrā**, quam Dominus, Deus patrum tuōrum, datūrus **est** tibi, ut possideās eam cūnctīs diēbus, quibus super humum gradiēris.
 
@@ -785,7 +785,7 @@ LIBER DEUTERONOMII
 
 31 Nōn faciēs similiter Dominō Deō tuō; omnēs enim abōminātiōnēs, quās āversātur Dominus, fēcērunt dīīs **suīs** offerentēs etiam fīliōs et fīliās et combūrentēs igne.
 
-13
+## 13
 
 1 Quod praecipiō vōbīs, **hoc** **cūstōdīte** et facite, nec addās quidquam nec minuās.
 
@@ -811,7 +811,7 @@ LIBER DEUTERONOMII
 
 20 Nec ēlevētur cor eius in superbiam super frātrēs suōs neque dēclīnet ā **mandātīs** in partem dexteram vel sinistram, ut longō tempore rēgnet ipse et fīliī eius in **mediō** Isrāēl.
 
-18
+## 18
 
 1 Nōn habēbunt sacerdōtēs le vītae, **omnis** **tribus** **Levī**, partem et hērēditātem cum reliquō Isrāēl; dē sacrificiīs Dominī et **hērēditāte** eius comedent
 
@@ -857,7 +857,7 @@ LIBER DEUTERONOMII
 
 22 **hoc** habēbis signum: quod in nōmine Dominī **prophēta** ille praedīxerit, et nōn ēvēnerit, **hoc** Dominus nōn **est** **locūtus**, sed per tumōrem animī **suī** **prophēta** cōnfīnxit; et idcircō nōn timēbis eum.
 
-19
+## 19
 
 1 Cum disperderit Dominus Deus tuus gentēs, quārum tibi trāditūrus **est** terram, et **possēderīs** eam **habitāverīs**que in urbibus eius et in aedibus,
 
@@ -901,7 +901,7 @@ LIBER DEUTERONOMII
 
 21 Nōn miserēberis eius, sed animam prō **animā**, oculum prō oculō, dentem prō dente, **manum** prō manū, pedem prō **pede** exigēs.
 
-20
+## 20
 
 1 Sī **exierīs** ad bellum contrā hostēs tuōs et **vidēris** **equitātūs** et **currūs** et maiōrem, quam tū habēs, adversāriī **exercitūs** multitūdinem, nōn timēbis eōs, quia Dominus Deus tuus tēcum **est**, quī ēdūxit tē dē **terrā** Aegyptī.
 
@@ -943,7 +943,7 @@ LIBER DEUTERONOMII
 
 20 Sī **quā** autem ligna nōn sunt **pōmifera**, **succīde** **illa** et exstrue māchinās, dōnec capiās cīvitātem, quae contrā tē dīmicat.
 
-21
+## 21
 
 1 Quandō inventum fuerit in **terrā**, quam Dominus Deus tuus datūrus **est** tibi, hominis cadāver occīsī, et ignōrātur **caedis** reus,
 
@@ -991,7 +991,7 @@ LIBER DEUTERONOMII
 
 23 nōn permanēbit cadāver eius in lignō; sed in **eādem** **diē** sepeliētur, quia maledictus ā Deō **est**, quī pendet in lignō; et nēquāquam contāminābis terram tuam, quam Dominus Deus tuus dederit tibi in possessiōnem.
 
-22
+## 22
 
 1 Nōn vidēbis bovem frātris tuī aut ovem errantem et praeterībis, sed **redūcēs** frātrī tuō;
 
@@ -1051,7 +1051,7 @@ LIBER DEUTERONOMII
 
 29 dabit, quī dormīvit cum **eā**, patrī puellae quīnquāgintā siclōs argentī et habēbit eam uxōrem, quia humiliāvit illam: nōn poterit **dīmittere** eam cūnctīs diēbus vītae suae.
 
-23
+## 23
 
 1 Nōn accipiet homō uxōrem patris **suī** nec revēlābit operī mentum eius.
 
@@ -1105,7 +1105,7 @@ LIBER DEUTERONOMII
 
 26 Sī **intrāverīs** in segetem **amīcī** tuī, frangēs spīcās manū; falce autem nōn **mētēs**.
 
-24
+## 24
 
 1 Sī accēperit homō uxōrem et habuerit eam, et nōn invēnerit grātiam ante oculōs eius propter aliquam foeditātem, et scrīpserit libellum repudiī dederitque in manū illīus et dīmīserit eam dē domō **suā**,
 
@@ -1151,7 +1151,7 @@ LIBER DEUTERONOMII
 
 22 Mementō quod et tū **servierīs** in Aegyptō; et idcircō praecipiō tibi, ut faciās hanc rem.
 
-25
+## 25
 
 1 Sī fuerit **causa** inter aliquōs, et interpellāverint iūdicēs, quem iūstum **esse** perspexerint, illī iūstitiae palmam dabunt; quem impium, condemnābunt impietātis.
 
@@ -1191,7 +1191,7 @@ LIBER DEUTERONOMII
 
 19 Cum ergō Dominus Deus tuus dederit tibi requiem ā cūnctīs per circuitum inimīcīs tuīs in **terrā**, quam tibi datūrus **est**, dēlēbis **nōmen** Amalec sub caelō: **cave**, nē oblīvīscāris!
 
-26
+## 26
 
 1 Cumque **intrāverīs** terram, quam Dominus Deus tuus tibi datūrus **est** **possidendam**, et **obtinuerīs** eam atque **habitāverīs** in **illā**,
 
@@ -1231,7 +1231,7 @@ LIBER DEUTERONOMII
 
 19 et faciat tē excelsiōrem cūnctīs gentibus, quās creāvit in laudem et **nōmen** et glōriam suam, ut sīs **populus** sānctus Dominī Deī tuī, sīcut **locūtus** **est** ”.
 
-27
+## 27
 
 1 Praecēpit autem Moysēs et seniōrēs Isrāēl **populō** dīcentēs: “ **Cūstōdīte** omne mandātum, quod praecipiō vōbīs hodiē.
 
@@ -1285,7 +1285,7 @@ LIBER DEUTERONOMII
 
 26 “Maledictus, quī nōn **permanet** in sermōnibus **lēgis** huius nec eōs opere perficit”. Et **dīcet** **omnis** **populus**: “Āmēn”.
 
-28
+## 28
 
 1 Sīn **audierīs** **vōcem** Dominī Deī tuī, ut faciās atque cūstōdiās omnia **mandāta** eius, quae ego praecipiō tibi hodiē, faciet tē Dominus Deus tuus excelsiōrem cūnctīs gentibus, quae versantur in **terrā**,
 
@@ -1425,7 +1425,7 @@ LIBER DEUTERONOMII
 
 69 Haec sunt verba **foederis**, quod praecēpit Dominus Moȳsī, ut ferīret cum fīliīs Isrāēl in **terrā** Moab, praeter illud foedus, quod cum eīs pepigit in Horeb.
 
-29
+## 29
 
 1 Vocāvitque Moysēs omnem Isrāēl et dīxit ad eōs: “ Vōs vīdistis **ūniversa**, quae fēcit Dominus **cōram** vōbīs in **terrā** Aegyptī pharaōnī et omnibus servīs eius ūniversaeque terrae illīus,
 
@@ -1483,7 +1483,7 @@ LIBER DEUTERONOMII
 
 28 **Absconditā** Dominō Deō nostrō, **manifēsta** autem nōbīs et fīliīs nostrīs usque in sempiternum, ut faciāmus **ūniversa** verba **lēgis** huius.
 
-30
+## 30
 
 1 Cum ergō vēnerint super tē omnēs sermōnēs istī, benedictiō et maledictiō, quās prōposuī in cōnspectū tuō, et **ductus** paenitūdine **cordis** tuī in ūniversīs gentibus, in quās disperserit tē Dominus Deus tuus,
 
@@ -1525,7 +1525,7 @@ LIBER DEUTERONOMII
 
 20 et dīligās Dominum Deum tuum atque oboediās vōcī eius et illī adhaereās — ipse **est** enim **vīta** **tua** et longitūdō diērum tuōrum — ut habitēs in **terrā**, prō **quā** iūrāvit Dominus patribus tuīs, Abraham, Isaac et Iācōb, ut daret eam illīs ”.
 
-31
+## 31
 
 1 Abiit itaque Moysēs et **locūtus** **est** omnia verba haec ad ūniversum Isrāēl
 
@@ -1673,7 +1673,7 @@ et propitius erit terrae **populī** **suī** ”.
 
 52 Ē contrā vidēbis terram et nōn ingrediēris in eam, quam ego dabō fīliīs Isrāēl ”.
 
-33
+## 33
 
 1 Haec **est** benedictiō, **quā** benedīxit Moysēs homō Deī fīliīs Isrāēl ante mortem suam.
 
@@ -1897,7 +1897,7 @@ Blandientur tibi inimīcī tuī,
 
 et tū eōrum altitūdinēs calcābis ”.
 
-34
+## 34
 
 1 Ascendit ergō Moysēs dē campestribus Moab super montem Nābō in verticem Phasgā contrā Ierichō; ostenditque **eī** Dominus omnem terram Galaad usque **Dān**
 

@@ -1,8 +1,8 @@
-**PROPHĒTĪA** IOEL
+# **PROPHĒTĪA** IOEL
 
-1 2 3 4  
+[1](#1) [2](#2) [3](#3) [4](#4)
 
-1  
+## 1
 
 1 Verbum Dominī, quod factum **est** ad Ioel fīlium Phatuel.
 
@@ -168,7 +168,7 @@ et **ignis** dēvorāvit
 
 **pāscua** dēsertī.
 
-2  
+## 2
 
 1 Canite **tubā** in **Sīōn**,
 
@@ -412,7 +412,7 @@ et nōn **est** amplius;
 
 et nōn cōnfundētur **populus** meus in aeternum ”.
 
-3  
+## 3
 
 1 Et erit post haec:
 
@@ -450,7 +450,7 @@ erit salvātiō, sīcut dīxit Dominus,
 
 et in residuīs, quōs Dominus vocāverit.
 
-4  
+## 4
 
 1 Quia ecce in diēbus illīs
 
@@ -478,13 +478,13 @@ et dedērunt puerum prō meretrīce
 
 et puellam vēndidērunt prō vīnō, ut biberent.
 
-4 Vērum quid vōbīs et mihi, **Tyrus** et Sidōn et omnēs terminī Philisthaeae? Numquid ultiōnem vōs reddētis mihi? Et sī ulcīsciminī vōs contrā mē, **cito** vēlōciter reddam ultiōnem vestram super caput vestrum. 
+4 Vērum quid vōbīs et mihi, **Tyrus** et Sidōn et omnēs terminī Philisthaeae? Numquid ultiōnem vōs reddētis mihi? Et sī ulcīsciminī vōs contrā mē, **cito** vēlōciter reddam ultiōnem vestram super caput vestrum.
 
-5 Argentum enim meum et aurum tulistis et **pretiōsa** **bona** **mea** intulistis in dēlūbra **vestra**. 
+5 Argentum enim meum et aurum tulistis et **pretiōsa** **bona** **mea** intulistis in dēlūbra **vestra**.
 
 6 Et fīliōs Iūdae et fīliōs Ierusālem vēndidistis fīliīs Graecōrum, ut **longē** facerētis eōs dē fīnibus **suīs**.
 
-7 Ecce ego suscitābō eōs dē locō, in quō vēndidistis eōs, et reddam ultiōnem vestram in caput vestrum. 
+7 Ecce ego suscitābō eōs dē locō, in quō vēndidistis eōs, et reddam ultiōnem vestram in caput vestrum.
 
 8 Et vēndam fīliōs vestrōs et fīliās vestrās in manibus fīliōrum Iūdae; et vēnumdābunt eōs Sabaeīs, gentī longinquae, quia Dominus **locūtus** **est**.
 

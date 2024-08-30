@@ -1,8 +1,8 @@
-**EPISTULA** SĀNCTĪ PAULĪ APOSTOLĪ AD EPHESIŌ
+# **EPISTULA** SĀNCTĪ PAULĪ APOSTOLĪ AD EPHESIŌ
 
-1 2 3 4 5 6
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6)
 
-1 
+## 1
 
 1 Paulus, apostolus Chrīstī **Iēsu** per voluntātem Deī, sānctīs, quī sunt Ephesī, et fidēlibus in Chrīstō **Iēsu**:
 
@@ -72,7 +72,7 @@ quae in caelīs et quae in **terrā**, in ipsō;
 
 23 quae **est** corpus ipsīus, plēnitūdō eius, quī omnia in omnibus adimplētur.
 
-2
+## 2
 
 1 Et vōs, cum **essētis** mortuī dē lictīs et **peccātīs** vestrīs,
 
@@ -118,7 +118,7 @@ quae in caelīs et quae in **terrā**, in ipsō;
 
 22 in quō et vōs coaedificāminī in habitāculum Deī in Spīritū.
 
-3
+## 3
 
 1 Huius reī **grātia**, ego Paulus, **vīnctus** Chrīstī **Iēsu** prō vōbīs gentibus —
 
@@ -162,7 +162,7 @@ quae in caelīs et quae in **terrā**, in ipsō;
 
 21 ipsī **glōria** in **ecclēsiā** et in Chrīstō **Iēsu** in omnēs generātiōnēs saeculī saeculōrum. Āmēn.
 
-4
+## 4
 
 1 Obsecrō itaque vōs ego, **vīnctus** in Dominō, ut **dignē** ambulētis vocātiōne, **quā** vocātī **estis**,
 
@@ -230,7 +230,7 @@ quae in caelīs et quae in **terrā**, in ipsō;
 
 32 **Ēstote** autem invicem benignī, misericordēs, dōnantēs invicem, sīcut et Deus in Chrīstō dōnāvit vōbīs.
 
-5
+## 5
 
 1 **Estōte** ergō imitātōrēs Deī, sīcut fīliī cārissimī,
 
@@ -298,7 +298,7 @@ quae in caelīs et quae in **terrā**, in ipsō;
 
 33 Vērumtamen et vōs singulī ūnusquisque suam uxōrem sīcut sēipsum dīligat; uxor autem timeat **virum**.
 
-6
+## 6
 
 1 Fīliī, **oboedītē** **parentibus** vestrīs in Dominō; **hoc** enim **est** iū stum.
 

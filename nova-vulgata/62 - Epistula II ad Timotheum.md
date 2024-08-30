@@ -1,8 +1,8 @@
-AD TĪMOTHEUM **EPISTULĀ** IĪ SĀNCTĪ PAULĪ APOSTOLĪ
+# AD TĪMOTHEUM **EPISTULĀ** IĪ SĀNCTĪ PAULĪ APOSTOLĪ
 
-1 2 3 4
+[1](#1) [2](#2) [3](#3) [4](#4)
 
-1 
+## 1
 
 1 Paulus, apostolus Chrīstī **Iēsu** per voluntātem Deī secundum prōmissiōnem vītae, quae **est** in Chrīstō **Iēsu**,
 
@@ -40,7 +40,7 @@ AD TĪMOTHEUM **EPISTULĀ** IĪ SĀNCTĪ PAULĪ APOSTOLĪ
 
 18 — det illī Dominus invenīre misericordiam ā Dominō in **illā** **diē** — et **quanta** Ephesī ministrāvit, melius tū nōstī.
 
-2
+## 2
 
 1 Tū ergō, fīlī mī, cōnfortāre in **grātiā**, quae **est** in Chrīstō **Iēsu**;
 
@@ -94,7 +94,7 @@ AD TĪMOTHEUM **EPISTULĀ** IĪ SĀNCTĪ PAULĪ APOSTOLĪ
 
 26 et resipīscant ā Diabolī laqueō, ā quō captī tenentur ad ipsīus voluntātem.
 
-3
+## 3
 
 1 **Hoc** autem scītō, quod in nō vissīmīs diēbus īnstābunt tem pora **perīculōsa**.
 
@@ -130,7 +130,7 @@ AD TĪMOTHEUM **EPISTULĀ** IĪ SĀNCTĪ PAULĪ APOSTOLĪ
 
 17 ut **perfectus** sit homō Deī, ad omne opus bonum **īnstrūctus**.
 
-4
+## 4
 
 1 Testificor **cōram** Deō et Chrīstō **Iēsu**, quī iūdicātūrus **est** vīvōs ac mortuōs, per adventum ipsīus et rēgnum eius:
 

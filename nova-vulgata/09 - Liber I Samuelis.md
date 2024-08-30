@@ -1,9 +1,9 @@
-**LIBER** PRĪMUS SAMUĒLIS
+# **LIBER** PRĪMUS SAMUĒLIS
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17  
-8 19 20 21 22 23 24 25 26 27 28 29 30 31 
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17)
+[8](#8) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27) [28](#28) [29](#29) [30](#30) [31](#31)
 
-1 
+## 1
 
 1 Fuit vir ūnus dē Ramathaim Suphitā dē monte Ephraim, et **nōmen** eius Elcāna fīlius Ieroham fīliī Eliu fīliī Thohu fīliī Suph, Ephrathaeus.
 
@@ -65,7 +65,7 @@ Reversīque sunt et vēnērunt in domum suam in Ramā. Cognōvit autem Elcāna A
 
 Et adōrāvērunt ibi Dominum.
 
-2
+## 2
 
 1 Et ōrāvit **Annā** et ait:
 
@@ -195,7 +195,7 @@ Et nōn audiērunt **vōcem** patris **suī**, quia voluit Dominus **occīdere**
 
 36 Futūrum **est** autem ut quīcumque remānserit in domō **tuā**, veniat, ut prōcidat ante illum prō nummō argenteō et **torta** **pānis** **dīcat**que: “Dīmitte mē, obsecrō, ad ūnam partem sacerdōtālem, ut comedam buccellam **pānis**” ”.
 
-3
+## 3
 
 1 Puer autem Samuel ministrābat Dominō **cōram** Hēlī. Et sermō Dominī erat pretiōsus in diēbus illīs: nōn erat **vīsiō** frequēns.
 
@@ -239,7 +239,7 @@ Et nōn audiērunt **vōcem** patris **suī**, quia voluit Dominus **occīdere**
 
 21 Et addidit Dominus ut **appārēret** in Sīlō, quoniam revēlātus fuerat Dominus Samuēlī in Sīlō iuxtā verbum Dominī. Et **ēvenit** sermō Samuēlis ūniversō Israēlī.
 
-4
+## 4
 
 1 Et factum **est** in diēbus illīs, convēnērunt Philisthim in pugnam; et **ēgressus** **est** Isrāēl obviam Philisthim in proelium et castramētātus **est** iuxtā Abenezer. Porrō Philisthim vēnērunt in Aphec
 
@@ -285,7 +285,7 @@ Et nōn audiērunt **vōcem** patris **suī**, quia voluit Dominus **occīdere**
 
 22 Et ait: “ **Trānslāta** **est** **glōria** ab Isrāēl, eō quod **captā** **est** **arca** Deī! ”.
 
-5
+## 5
 
 1 Philisthim autem tulērunt arcam Deī et asportāvērunt eam ā Abenezer in Azōtum.
 
@@ -307,13 +307,13 @@ Et nōn audiērunt **vōcem** patris **suī**, quia voluit Dominus **occīdere**
 
 10 Mīsērunt ergō arcam Deī in Accārōn.
 
-Cumque vēnisset **arca** Deī in Accārōn, exclāmāvērunt Accarōnītae dīcentēs: “ Addūxērunt ad nōs arcam Deī Isrāēl, ut interficiat nōs et **populum** nostrum! ”. 
+Cumque vēnisset **arca** Deī in Accārōn, exclāmāvērunt Accarōnītae dīcentēs: “ Addūxērunt ad nōs arcam Deī Isrāēl, ut interficiat nōs et **populum** nostrum! ”.
 
 11 Mīsērunt itaque et congregāvērunt omnēs prīncipēs Philisthinōrum et dīxērunt: “ Dīmittite arcam Deī Isrāēl, et revertātur in locum suum et nōn interficiat nōs cum **populō** nostrō ”.
 
 12 Fīēbat enim pavor **mortis** in **tōtā** cīvitāte, et **gravissima** valdē **manus** Deī. **Virī** **quoque**, quī mortuī nōn fuerant, percutiēbantur tumōribus, et ascendēbat **ululātus** cīvitātis in caelum.
 
-6
+## 6
 
 1 Fuit ergō **arca** Dominī in regiōne Philisthinōrum septem mēnsibus;
 
@@ -359,7 +359,7 @@ Quī dīxērunt:
 
 21 Mīsēruntque nūntiōs ad habitātōrēs Cariathiarim dīcentēs: “ Redūxērunt Philisthim arcam Dominī. Dēscendite et dūcite eam sūrsum ad vōs ”.
 
-7
+## 7
 
 1 Vēnērunt ergō **virī** Cariathiarim et dūxērunt arcam Dominī sūrsum et intulērunt eam in domum Abinadab in colle; Eleazarum autem fīlium eius sānctificāvērunt, ut cūstōdīret arcam Dominī.
 
@@ -393,7 +393,7 @@ Quī dīxērunt:
 
 16 et ībat per singulōs annōs circumiēns Bethel et Galgala et Maspha et iūdicābat Israēlem in supradictīs locīs. Revertēbāturque in Ramā; ibi enim erat **domus** eius, et ibi iūdicābat Israēlem. Aedificāvit etiam ibi altāre Dominō.
 
-8
+## 8
 
 1 Factum **est** autem cum senuīs set, Samuel posuit fīliōs suōs iūdicēs Isrāēl.
 
@@ -439,7 +439,7 @@ Quī dīxērunt:
 
 22 Dīxit autem Dominus ad Samuel: “ Audī **vōcem** eōrum et cōnstitue super eōs rēgem ”. Et ait Samuel ad virōs Isrāēl: “ **Vadat** ūnusquisque in cīvitātem suam ”.
 
-9
+## 9
 
 1 Et erat vir dē Beniamin nōmine Cīs fīlius Abiel fīliī **Seror** fīliī Bechorath fīliī Aphia, Beniaminita vir potēns.
 
@@ -495,7 +495,7 @@ Quī dīxērunt:
 
 27 Cumque dēscenderent in **extrēmā** **parte** cīvitātis, Samuel dīxit ad Saūl: “ Dīc puerō, ut antecēdat nōs — et ille antecessit C; tū autem subsiste paulisper, ut indicem tibi verbum Dominī ”.
 
-10
+## 10
 
 1 Tulit autem Samuel lenticulam oleī et effūdit super caput eius et deōsculātus eum ait: “ Ecce ūnxit tē Dominus in prīncipem super **populum** suum, super Isrāēl. Et tū domināberis **populō** Dominī et tū līberābis eum dē manū inimīcōrum eius, quī in circuitū eius sunt. Et **hoc** tibi signum quia ūnxit tē Deus in prīncipem super hērēditātem suam:
 
@@ -553,7 +553,7 @@ Quī dīxērunt:
 
 27 Fīliī vērō Belial dīxērunt: “ Num salvāre nōs poterit iste? ”. Et dēspexērunt eum et nōn attulērunt **eī** **mūnera**; ille vērō dissimulābat sē audīre.
 
-11
+## 11
 
 1 Ascendit autem Naās Ammōnītēs et pugnāre coepit ad versum Iabēs Galaad. Dīxēruntque omnēs **virī** Iabēs ad Naās: “ Habētō nōs foederātōs, et serviēmus tibi ”.
 
@@ -585,7 +585,7 @@ Quī dīxērunt:
 
 15 Et perrēxit **omnis** **populus** in Galgala, et fēcērunt ibi rēgem Saūl **cōram** Dominō in Galgala; et immolāvērunt ibi victimās pācificās **cōram** Dominō. Et laetātus **est** ibi Saūl et cūnctī **virī** Isrāēl nimis.
 
-12
+## 12
 
 1 Dīxit autem Samuel ad ūniversum Isrāēl: “ Ecce audīvī **vōcem** vestram iuxtā omnia, quae locūtī **estis** ad mē, et cōnstituī super vōs rēgem;
 
@@ -637,7 +637,7 @@ Quī dīxērunt:
 
 25 Quod sī **persevērāveritis** in **malitiā**, et vōs et rēx vester pariter perībitis ”.
 
-13
+## 13
 
 1 Fīlius annōrum Saūl, cum rēgnāre coepisset; duōbus autem annīs rēgnāvit super Isrāēl.
 
@@ -687,7 +687,7 @@ Cumque adhūc **esset** Saūl in Galgalīs, ūniversus **populus** perterritus *
 
 23 **Ēgressa** **est** autem statiō Philisthim ad faucēs Machmās.
 
-14
+## 14
 
 1 Et **accidit** quādam **diē**, ut dīceret **Ionathān** fīlius Saūl ad adulēscentem armigerum suum: “ **Vēnī**, et trānseāmus ad statiōnem Philisthim, quae **est** ibi ex adversō ”. Patrī autem suō **hoc** ipsum nōn indicāvit.
 
@@ -793,7 +793,7 @@ Cumque adhūc **esset** Saūl in Galgalīs, ūniversus **populus** perterritus *
 
 52 Erat autem bellum potēns adversum Philisthaēōs omnibus diēbus Saūl; nam, quemcumque vīderat Saūl **virum** fortem et aptum ad proelium, sociābat eum sibi.
 
-15
+## 15
 
 1 Et dīxit Samuel ad Saūl: “ Mē mīsit Dominus, ut ungerem tē in rēgem super **populum** eius Isrāēl. Nunc ergō audī **vōcem** Dominī.
 
@@ -865,7 +865,7 @@ Cumque adhūc **esset** Saūl in Galgalīs, ūniversus **populus** perterritus *
 
 35 Et nōn vīdit Samuel **ultrā** Saūl usque ad diem **mortis** suae; vērumtamen lūgēbat Samuel Saūl, quoniam Dominum paenitēbat quod cōnstituisset Saūl rēgem super Isrāēl.
 
-16
+## 16
 
 1 Dīxitque Dominus ad Samuēlem: “ Usquequō tū lūgēs Saūl, cum ego prōiēcerim eum, nē rēgnet super Isrāēl? Implē **cornū** tuum oleō et **vēnī**, ut mittam tē ad Isāī Bethlehemītēm; **prōvidī** enim in fīliīs eius mihi rēgem ”.
 
@@ -913,7 +913,7 @@ Cumque adhūc **esset** Saūl in Galgalīs, ūniversus **populus** perterritus *
 
 23 Igitur, quandōcumque **spīritus** Deī arripiēbat Saūl, Dāvīd tollēbat citharam et percutiēbat manū **suā**; et refocillābātur Saūl et **levius** habēbat: recēdēbat enim ab eō **spīritus** **malus**.
 
-17
+## 17
 
 1 Congregantēs vērō Philisthim agmina **sua** in proelium, convēnērunt in Sochō Iūdae et castramētātī sunt inter Sochō et Azēcā in Aphesdommim.
 
@@ -1033,7 +1033,7 @@ Videntēs autem Philisthim quod mortuus **esset** fortissimus eōrum fūgērunt.
 
 58 Et ait ad eum Saūl: “ Dē **quā** prōgeniē **es**, ō adulēscēns? ”. Dīxitque Dāvīd: “ Fīlius servī tuī Isāī Bethlehemītae ego sum ”.
 
-18
+## 18
 
 1 Et factum **est** cum complēsset loquī ad Saūl, **anima** **Ionathān** **colligāta** **est** animae Dāvīd, et dīlēxit eum **Ionathān** quasi animam suam.
 
@@ -1101,7 +1101,7 @@ et Dāvīd decem **mīlia** **suā** ”.
 
 30 Et ēgressī sunt prīncipēs Philisthinōrum; et, quotiēscumque ēgrediēbantur, **prōsperē** agēbat Dāvīd **magis** quam omnēs servī Saūl, et celebre factum **est** **nōmen** eius nimis.
 
-19
+## 19
 
 1 **Locūtus** **est** autem Saūl ad **Ionathān** fīlium suum et ad omnēs servōs suōs dē occīsiōne Dāvīd; porrō **Ionathān** fīlius Saūl dīligēbat Dāvīd valdē.
 
@@ -1153,7 +1153,7 @@ Quod cum annūntiāsset Dāvīd Michol uxor **suā** dīcēns: “ **Nīsī** **
 
 24 Et exspoliāvit sē etiam ipse vestīmentīs **suīs** et vāticinātus **est** cum cēterīs **cōram** Samuel; et **cecidit** nūdus **tōtā** **diē** **illa** et nocte, unde et exīvit prōverbium: “ Num et Saūl inter prophētās? ”.
 
-20
+## 20
 
 1 **Fugit** autem Dāvīd dē Naioth, quae **est** in Ramā, veniēnsque **locūtus** **est** **cōram** **Ionathān**: “ Quid fēcī? Quae **est** inīquitās **mea** et quod peccātum meum in patrem tuum, quia quaerit animam meam? ”.
 
@@ -1239,7 +1239,7 @@ Quod cum annūntiāsset Dāvīd Michol uxor **suā** dīcēns: “ **Nīsī** **
 
 42 Dīxit ergō **Ionathān** ad Dāvīd: “ **Vade** in pāce; iūrāvimus enim ambō in nōmine Dominī dīcentēs: Dominus erit inter mē et tē et inter sēmen meum et sēmen tuum usque in sempiternum ”.
 
-21
+## 21
 
 1 Et surrēxit Dāvīd et abiit; sed et **Ionathān** **ingressus** **est** cīvitātem.
 
@@ -1273,7 +1273,7 @@ Quod cum annūntiāsset Dāvīd Michol uxor **suā** dīcēns: “ **Nīsī** **
 
 16 An dēsunt nōbīs furiōsī, quod intrōdūxistis istum, ut fureret, mē praesente? **Hīcine** ingrediētur domum meam? ”.
 
-22
+## 22
 
 1 Abiit ergō inde Dāvīd et **fūgit** in spēluncam Odollam; quod cum audīssent frātrēs eius et **omnis** **domus** patris eius, dēscendērunt ad eum illūc.
 
@@ -1321,7 +1321,7 @@ Quod cum annūntiāsset Dāvīd Michol uxor **suā** dīcēns: “ **Nīsī** **
 
 23 **Manē** mēcum, nē timeās; quī enim quaerit animam meam, quaerit et animam tuam, mēcumque servāberis ”.
 
-23
+## 23
 
 1 Et nūntiāvērunt Dāvīd dīcentēs: “ Ecce Philisthim oppugnant Ceila et dīripiunt āreās ”.
 
@@ -1381,7 +1381,7 @@ Dāvīd autem et **virī** eius erant in dēsertō Maon, in **Arabā** ad merīd
 
 28 Reversus **est** ergō Saūl dēsistēns persequī Dāvīd; et perrēxit in occursum Philisthinōrum. Propter **hōc** vocāvērunt locum illum: “ **Petram** dīvidentem ”.
 
-24
+## 24
 
 1 Ascendit ergō Dāvīd inde et habitāvit in locīs tūtissimīs Engaddī.
 
@@ -1433,7 +1433,7 @@ Porrō Saūl exsurgēns dē **spēluncā** pergēbat coeptō itinere.
 
 23 Et iūrāvit Dāvīd **Saulī**. Abiit ergō Saūl in domum suam, et Dāvīd et **virī** eius ascendērunt ad praesidium.
 
-25
+## 25
 
 1 Mortuus **est** autem Samuel; et **congregātus** **est** ūniversus Isrāēl, et plānxērunt eum et sepeliērunt eum in domō **suā** in Ramā.
 
@@ -1527,7 +1527,7 @@ Mīsit ergō Dāvīd et **locūtus** **est** ad Abigail, ut sūmeret eam sibi in
 
 44 Saūl autem **dedit** Michol fīliam suam uxōrem Dāvīd Phaltī fīliō Lais, quī erat dē Gallim.
 
-26
+## 26
 
 1 Et vēnērunt Ziphaēī ad Saūl in Gabaā dīcentēs: “ Ecce Dāvīd absconditus **est** in colle Hachila, quae **est** ex adversō sōlitūdinis ”.
 
@@ -1579,7 +1579,7 @@ Mīsit ergō Dāvīd et **locūtus** **est** ad Abigail, ut sūmeret eam sibi in
 
 25 Ait ergō Saūl ad Dāvīd: “ Benedictus tū, fīlī mī Dāvīd; et quidem faciēns faciēs et potēns **poteris** ”. Abiit autem Dāvīd in viam suam, et Saūl reversus **est** in locum suum.
 
-27
+## 27
 
 1 Et ait Dāvīd in **corde** suō: “ Aliquandō **incīdam** in ūnō **diē** in manū Saūl; **nōnne** melius **est** ut fugiam et salver in **terrā** Philisthinōrum, ut dēspēret Saūl cessetque mē **quaerere** in cūnctīs fīnibus Isrāēl? Fugiam ergō **manūs** eius ”.
 
@@ -1611,7 +1611,7 @@ igitur mihi servus sempiternus ”.
 
 
 
-28
+## 28
 
 1 Factum **est** autem in diēbus illīs, congregāvērunt Philisthim agmina **sua**, ut praeparārentur ad bellum contrā Isrāēl. Dīxitque Achis ad Dāvīd: “ Sciēns nunc scītō quoniam mēcum ēgrediēris in castrīs tū et **virī** tuī ”.
 
@@ -1663,7 +1663,7 @@ igitur mihi servus sempiternus ”.
 
 25 Et posuit ante Saūl et ante servōs eius. Quī cum comēdissent, surrēxērunt et abiērunt hāc **eadem** nocte.
 
-29
+## 29
 
 1 **Congregāta** sunt ergō Philisthim **ūniversa** agmina in Aphec; sed et Isrāēl castramētātus **est** super fontem, quī erat in Iezrahel.
 
@@ -1687,7 +1687,7 @@ igitur mihi servus sempiternus ”.
 
 11 Surrēxit itaque dē nocte Dāvīd ipse et **virī** eius, ut proficīscerentur **māne** et reverterentur ad terram Philisthim. Philisthim autem ascendērunt in Iezrahel.
 
-30
+## 30
 
 1 Cumque vēnissent Dāvīd et **virī** eius in Siceleg **diē** **tertia**, Amalecitae impetum fēcerant contrā Nageb et contrā Siceleg et percusserant Siceleg et succenderant eam ignī;
 
@@ -1751,7 +1751,7 @@ igitur mihi servus sempiternus ”.
 
 31 et quī in **Hebrōn** et reliquīs locīs, in quibus commorātus fuerat Dāvīd ipse et **virī** eius.
 
-31
+## 31
 
 1 Philisthim autem pugnābant adversum Isrāēl; et fūgērunt **virī** Isrāēl ante faciem Philisthim et **cecidērunt** interfectī in monte Gelboē.
 

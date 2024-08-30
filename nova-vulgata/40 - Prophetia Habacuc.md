@@ -1,8 +1,8 @@
-**PROPHĒTĪA** HABACUC
+# **PROPHĒTĪA** HABACUC
 
-1 2 3
+[1](#1) [2](#2) [3](#3)
 
-1  
+## 1
 
 1 Ōrāculum, quod vīdit Habacuc **prophēta**.
 
@@ -120,7 +120,7 @@ et cibus eius **pinguis**.
 
 ut interficiat gentēs **sine** **misericordiā**?
 
-2  
+## 2
 
 1 Super cūstōdiam meam stābō
 
@@ -254,7 +254,7 @@ et **omnis** **spīritus** nōn **est** in vīsceribus eius.
 
 20 Dominus autem in templō sānctō suō; sileat ā faciē eius **omnis** **terra**.
 
-3  
+## 3
 
 1 Ōrātiō Habacuc prophētae.
 
@@ -286,7 +286,7 @@ ibi **abscondita** **est** fortitūdō eius.
 
 5 Ante faciem eius ībit mors,
 
-et ēgrediētur **pestis** post **pedēs** eius. 
+et ēgrediētur **pestis** post **pedēs** eius.
 
 6 Stetit et concussit terram,
 
@@ -348,7 +348,7 @@ dēnūdāstī fundāmentum usque ad petram. — Selah.
 
 venientium ut turbō ad dispergendum mē;
 
-exsultātiō eōrum, sīcut eius, quī dēvorat pauperem in absconditō. 
+exsultātiō eōrum, sīcut eius, quī dēvorat pauperem in absconditō.
 
 15 Viam fēcistī in marī equīs tuīs,
 
@@ -376,7 +376,7 @@ et nōn **est** armentum in praesēpibus.
 
 18 Ego autem in Dominō gaudēbō
 
-et exsultābō in Deō salvātōre meō. 
+et exsultābō in Deō salvātōre meō.
 
 19 Dominus Deus fortitūdō **mea**
 

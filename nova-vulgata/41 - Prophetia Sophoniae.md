@@ -1,8 +1,8 @@
-**PROPHĒTĪA** SOPHŌNIAE
+# **PROPHĒTĪA** SOPHŌNIAE
 
-1 2 3
+[1](#1) [2](#2) [3](#3)
 
-1  
+## 1
 
 1 Verbum Dominī, quod factum **est** ad Sophōniam fīlium Chusī fīliī Godoliae fīliī Amāriae fīliī Ezechiae, in diēbus Iosiae fīliī Amōn **rēgis** Iūdae.
 
@@ -160,7 +160,7 @@ quia cōnsummātiōnem cum festīnātiōne faciet
 
 cūnctīs habitantibus terram.
 
-2  
+## 2
 
 1 Convenīte, congregāminī,
 
@@ -300,7 +300,7 @@ cubīle bēstiae?
 
 sībilābit et movēbit **manum** suam.
 
-3  
+## 3
 
 1 Vae, prōvocātrīx et **inquināta**,
 

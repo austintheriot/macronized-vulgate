@@ -1,8 +1,8 @@
-**PROPHĒTĪA** AMŌS 
+# **PROPHĒTĪA** AMŌS
 
-1 2 3 4 5 6 7 8 9
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9)
 
-1 
+## 1
 
 1 Verba Amos, quī fuit in pāstōribus dē Thecuā; quae vīdit super Isrāēl in diēbus Oziae **rēgis** Iūdae et in diēbus Ieroboam fīliī Ioās **rēgis** Isrāēl, duōbus annīs ante terraemōtum.
 
@@ -116,7 +116,7 @@ ipse et prīncipēs eius simul ”,
 
 dīcit Dominus.
 
-2 
+## 2
 
 1 Haec dīcit Dominus:
 
@@ -244,9 +244,9 @@ nūdus fugiet in **illā** **diē** ”,
 
 dīcit Dominus.
 
-3 
+## 3
 
-1 **Audīte** verbum **hoc**, quod **locūtus** **est** Dominus super vōs, fīliī Isrāēl, super omnem cognātiōnem, quam ēdūxī dē **terrā** Aegyptī, dīcēns: 
+1 **Audīte** verbum **hoc**, quod **locūtus** **est** Dominus super vōs, fīliī Isrāēl, super omnem cognātiōnem, quam ēdūxī dē **terrā** Aegyptī, dīcēns:
 
 2 “ Tantummodo vōs cognōvī
 
@@ -354,7 +354,7 @@ et dissipābuntur aedēs magnae ”,
 
 dīcit Dominus.
 
-4 
+## 4
 
 1 **Audīte** verbum **hoc**,
 
@@ -420,7 +420,7 @@ et pluī super ūnam cīvitātem
 
 et super alteram cīvitātem nōn pluī: pars **ūna** complūta **est**,
 
-et pars, super quam nōn pluī, aruit. 
+et pars, super quam nōn pluī, aruit.
 
 8 Tunc fugiēbant duae, trēs cīvitātēs
 
@@ -488,7 +488,7 @@ et gradiēns super **excelsa** terrae;
 
 Dominus, Deus exercituum, **nōmen** eius.
 
-5 
+## 5
 
 1 **Audīte** verbum istud,
 
@@ -674,7 +674,7 @@ sīdus deōrum vestrōrum, quae fēcistis vōbīs.
 
 dīcit Dominus; Deus exercituum **nōmen** eius.
 
-6 
+## 6
 
 1 Vae, quī tranquillī sunt in **Sīōn**
 
@@ -778,7 +778,7 @@ et oppriment vōs ab introitū Emath
 
 usque ad torrentem Arabae ”.
 
-7 
+## 7
 
 1 Haec ostendit mihi Dominus Deus: et ecce, ipse fōrmābat locustās in prīncipiō, cum germinārent sērōtinae frūgēs; et ecce frūgēs sērōtinae post frūgēs dēmessās **regis**.
 
@@ -826,7 +826,7 @@ et dīxit Dominus ad mē:
 
 17 Propter **hoc** haec dīcit Dominus: “Uxor **tua** in cīvitāte fornicābitur, et fīliī tuī et fīliae tuae in gladiō cadent, et humus **tua** fūniculō mētiētur; et tū in **terrā** **pollūtā** moriēris, et Isrāēl captīvus migrābit dē **terrā** **suā**” ”.
 
-8
+## 8
 
 1 Haec ostendit mihi Dominus Deus:
 
@@ -932,7 +932,7 @@ et “ Vīvit **via**, Bersabee! ”,
 
 et cadent et nōn resurgent **ultrā**.
 
-9
+## 9
 
 1 Vīdī Dominum
 

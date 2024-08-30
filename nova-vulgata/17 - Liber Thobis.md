@@ -1,8 +1,8 @@
-**LĪBER** THOBIS 
+# **LĪBER** THOBIS
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14)
 
-1 
+## 1
 
 1 **Liber** sermōnum Thobis fīliī Thobiel fīliī Ananiel fīliī Aduel fīliī Gabael fīliī Raphael fīliī Raguel ex sēmine Asiel, ex tribū Nephthālī,
 
@@ -48,7 +48,7 @@
 
 22 Tunc petiit Achicarus prō mē, et dēscendī in Ninevēn. Achicarus enim erat praepositus pincernārum et super ānulum et prōcūrātor et exāctor sub Sennacherib **rēge** Assyriōrum; et cōnstituit illum Asarhaddōn. Erat enim ex frātribus meīs et ex cognātiōne **meā**.
 
-2
+## 2
 
 1 Et sub Asarhaddon **rēge** dēscendī in domum meam, et **reddita** **est** mihi uxor **mea** **Annā** et fīlius meus Thobiās. In Pentēcostē, **diē** fēstō nostrō, quī **est** sānctus ā Septimānīs, factum **est** mihi prandium bonum, et discubuī, ut prandērem.
 
@@ -82,7 +82,7 @@ et omnia **cantica** **vestra** in lāmentātiōnem ”.
 
 14 Et **illa** mihi dīxit: “ Mūnere mihi **datus** **est** suprā mercēdem ”. Et ego nōn crēdēbam **eī**, sed dīcēbam, ut restitueret illum dominīs, et ērubēscēbam **cōram** **illā** huius reī **causa**. Et respondēns dīxit mihi: “ Et ubi sunt eleēmosynae tuae? **Ubi** sunt iūstitiae tuae? Ecce, omnia tibi **nōta** sunt ”.
 
-3
+## 3
 
 1 Et contrīstātus animō et suspīrāns plōrāvī et coepī **ōrāre** cum gemitibus:
 
@@ -118,7 +118,7 @@ et omnia **cantica** **vestra** in lāmentātiōnem ”.
 
 17 et **missus** **est** Raphaēl angelus sānāre duōs, Thobin desquāmāre ab albūginibus oculōrum eius, ut vidēret oculīs lūmen Deī, et Saram fīliam Raguel dare Thobiae fīliō Thobis uxōrem, et colligāre Asmodeum daemonium nēquissimum, quoniam Thobiae contigit **possidēre** eam prae omnibus, quī volēbant accipere eam. In illō tempore reversus **est** Thobi dē ātriō in domum suam; et **Sarā** **fīlia** Raguel dēscendit et **ipsa** dē locō superiōrī.
 
-4
+## 4
 
 1 In **illā** **diē** rememorātus **est** Thobī pecūniae, quam commendāverat Gabaēl in Ragēs Mēdiae.
 
@@ -162,7 +162,7 @@ et omnia **cantica** **vestra** in lāmentātiōnem ”.
 
 21 Nōlī verērī, fīlī, quia pauperem vītam gessimus. Habēs **multa** **bona**, sī **timuerīs** Deum et **recesserīs** ab omnī peccātō et **bene** **ēgerīs** in cōnspectū Dominī Deī tuī ”.
 
-5
+## 5
 
 1 Tunc Thobīās respondēns Thobī patrī suō dīxit: “ Omnia, quaecumque mihi praecēpistī, pater, faciam.
 
@@ -210,7 +210,7 @@ Et exiit, ut īret viam suam, et ōsculātus **est** patrem suum et mātrem. Et 
 
 22 Angelus enim bonus ībit cum illō, et **bene** dispōnētur **via** illīus, et revertētur sānus ”.
 
-6
+## 6
 
 1 Et cessāvit plōrāre.
 
@@ -248,7 +248,7 @@ Et exiit, ut īret viam suam, et ōsculātus **est** patrem suum et mātrem. Et 
 
 18 Et, cum **coeperis** **esse** cum **illā**, surgite prīmum ambō et **ōrāte** et dēprecāminī Dominum caelī, ut dētur vōbīs **misericordia** et sānitās. Nōlī timēre; tibi enim **dēstināta** **est** ante saeculum, et tū illam sānābis, et ībit tēcum, et crēdō quoniam habēbis ex **illa** fīliōs, et erunt tibi sīcut frātrēs. Nōlī computāre ”. Et cum audīsset Thobīās sermōnēs Raphael quoniam soror **est** illīus et dē sēmine patris illīus, dīlēxit eam valdē, et cor eius haesit illī.
 
-7
+## 7
 
 1 Et cum vēnisset in **Ecbatanā**, dīxit illī: “ Azariā frāter, dūc mē ad Raguel, frātrem nostrum, viam rēctam ”. Et dūxit eum ad domum Raguel, et invēnērunt illum sedentem circā ōstium ātriī **suī** et salūtāvērunt illum priōrēs. Et ille dīxit eīs: “ **Bene** valeātis, frātrēs, **intrātē** salvī et sānī ”. Et indūxit eōs in domum suam.
 
@@ -284,7 +284,7 @@ Et exiit, ut īret viam suam, et ōsculātus **est** patrem suum et mātrem. Et 
 
 17 “ Fortī animō **estō**, **fīlia**. Dominus caelī det tibi gaudium prō taediō tuō. Fortī animō **estō**! ”. Et exiit.
 
-8
+## 8
 
 1 Et, cum cōnsummāvērunt mandūcāre et **bibere**, voluērunt dormīre et dēdūxērunt iuvenem et indūxērunt eum in cubiculum.
 
@@ -330,7 +330,7 @@ Et surgēns Raguel accersīvit servōs sēcum, et abiērunt et fōdērunt foveam
 
 21 Et ex eō, quod possideō, accipe partem dīmidiam et **vāde** sānus ad patrem tuum. Et **alia** **dīmidia** pars, cum mortuī **fuerīmus** ego et uxor **mea**, **vestra** erit. Fortī animō **ēsto**, fīlī! Ego pater tuus sum et Edna māter **tua**; et tuī sumus nōs et sorōris tuae āmodo et in perpetuum. Fortī animō **ēsto**, fīlī! ”.
 
-9
+## 9
 
 1 Tunc accersīvit Thobīās Raphael et dīxit illī:
 
@@ -344,7 +344,7 @@ Et surgēns Raguel accersīvit servōs sēcum, et abiērunt et fōdērunt foveam
 
 6 Et vigilāvērunt simul et vēnērunt ad nūptiās et intrāvērunt in **eā**, quae Raguel, et invēnērunt Thobiam discumbentem. Et exsiliit et salūtāvit illum et lacrimātus **est** et benedīxit eum et dīxit illī Gabaēl: “ Benedictus Dominus, quī **dēdit** tibi pācem, quoniam bonī et optimī et iūstī **virī** et eleēmosynās **facientīs** fīlius **es**! Det tibi benedictiōnem Dominus caelī et uxōrī tuae et patrī tuō et mātrī tuae et patrī et mātrī uxōris tuae. Et benedictus Deus, quoniam videō Thobiam cōnsōbrīnum meum similem illī! ”.
 
-10
+## 10
 
 1 Et cotīdiē ex illō **diē** computābat Thobī diēs, in quibus īret et in quibus reverterētur fīlius eius. Et, postquam cōnsummātī sunt diēs, et fīlius eius nōn veniēbat,
 
@@ -374,7 +374,7 @@ Et, ut cōnsummātī sunt quattuordecim diēs nūptiārum, quōs iūrāverat Rag
 
 13 Et discessit Thobīās ā Raguel gaudēns et benedīcēns Dominum caelī et terrae, rēgem omnium, quia dīrēxerat viam eius. Et benedīxit Raguel et Ednae uxōrī eius et dīxit eīs: “ Fīat mihi honōrāre vōs tamquam **parentēs** meōs omnibus diēbus vītae vestrae ”.
 
-11
+## 11
 
 1 Et abiērunt viam suam et pervēnērunt Charrān, quae **est** contrā Ninevēn.
 
@@ -412,7 +412,7 @@ Et, ut cōnsummātī sunt quattuordecim diēs nūptiārum, quōs iūrāverat Rag
 
 18 Et vēnērunt Achicarus et Nadab ex frātribus illīus gaudentēs ad Thobiam. Et cōnsummātae sunt nūptiae cum gaudiō septem diēbus, et **data** sunt illī **mūnera** **multa**.
 
-12
+## 12
 
 1 Et, postquam cōnsummātae sunt nūptiae, vocāvit Thobi fīlium suum Thobiam et dīxit illī: “ Hominī illī, quī tēcum īvit, reddāmus honōrem et adiciāmus ad mercēdem suam ”.
 
@@ -458,7 +458,7 @@ Et, ut cōnsummātī sunt quattuordecim diēs nūptiārum, quōs iūrāverat Rag
 
 22 Et benedīcēbant et dēcantābant Deō et cōnfitēbantur illī in omnibus hīs magnīs operibus illīus, quia appāruerat illīs angelus Deī.
 
-13
+## 13
 
 1 Et scrīpsit ōrātiōnem Thobī in laetitiam et dīxit:
 
@@ -604,7 +604,7 @@ et benedictī, quī benedīcent **nōmen** sānctum,
 
 in aeternum et adhūc!” ”.
 
-14
+## 14
 
 1 Et cōnsummātī sunt sermōnēs cōnfessiōnis Thobis.
 

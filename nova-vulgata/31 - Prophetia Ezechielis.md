@@ -1,10 +1,10 @@
-**PROPHĒTĪA** EZECHIĒLIS
+# **PROPHĒTĪA** EZECHIĒLIS
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26)
 
-27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48
+[27](#27) [28](#28) [29](#29) [30](#30) [31](#31) [32](#32) [33](#33) [34](#34) [35](#35) [36](#36) [37](#37) [38](#38) [39](#39) [40](#40) [41](#41) [42](#42) [43](#43) [44](#44) [45](#45) [46](#46) [47](#47) [48](#48)
 
-1 
+## 1
 
 1 Et factum **est** in trīcēsimō annō, in quārtō **mēnse**, in **quīntā** **mēnsīs**, cum essem in **mediō** captīvōrum iuxtā fluvium Chobar, apertī sunt caelī, et vīdī vīsiōnēs Deī.
 
@@ -62,7 +62,7 @@
 
 28 Velut **aspectus** **arcus**, cum fuerit in nūbe in **diē** pluviae: sīc erat **aspectus** splendōris per gȳrum. Haec **vīsiō** similitūdinis glōriae Dominī. Et vīdī et **cecidī** in faciem meam et audīvī **vōcem** **loquentis**.
 
-2
+## 2
 
 1 Et dīxit ad mē: “ Fīlī hominis, stā super **pedēs** tuōs, et loquar tēcum ”.
 
@@ -82,7 +82,7 @@
 
 9 Et vīdī: et ecce **manūs** **missa** ad mē, in **quā** erat involūtus **liber**; et expandit illum **cōram** mē, quī erat **scrīptus** intus et **foris**, et scrīptae erant in eō lāmentātiōnēs et **gemitūs** et vae.
 
-3
+## 3
 
 1 Et dīxit ad mē: “ Fīlī hominis, quodcumque **invēnerīs**, comede; comede volūmen istud et vādēns **loquere** ad fīliōs Isrāēl ”.
 
@@ -138,7 +138,7 @@
 
 27 Cum autem **locūtus** fuerō tibi, aperiam **os** tuum, et **dīcēs** ad eōs: Haec dīcit Dominus Deus. Quī audit, audiat; et, quī contemnit, contemnat, quia **domus** exasperāns **est** ”.
 
-4
+## 4
 
 1 “ Et tū, fīlī hominis, sūme tibi **laterem** et pōnēs eum **cōram** tē et dēscrībēs in eō cīvitātem Ierusālem.
 
@@ -174,7 +174,7 @@
 
 17 ut, dēficientibus pāne et **aquā**, dēsōlētur ūnusquisque cum frātre suō, et contābēscant in inīquitātibus **suīs**.
 
-5
+## 5
 
 1 Et tū, fīlī hominis, sūme tibi gladium acūtum rādentem **pilōs** et assūmēs eum et **dūcēs** per caput tuum et per barbam tuam et assūmēs tibi statēram ponderis et dīvidēs eōs.
 
@@ -210,7 +210,7 @@
 
 17 et immittam in vōs famem et bēstiās pessimās, et absque **līberīs** facient tē, et **pestilentia** et sanguis trānsībunt per tē, et gladium indūcam super tē. Ego Dominus **locūtus** sum ”.
 
-6
+## 6
 
 1 Et **factus** **est** sermō Dominī ad mē dīcēns:
 
@@ -240,7 +240,7 @@
 
 14 Et extendam **manum** meam super eōs et faciam terram dēsōlātam et dēstitūtam ā dēsertō usque Rebla in omnibus habitātiōnibus eōrum, et scient quia ego Dominus ”.
 
-7
+## 7
 
 1 Et **factus** **est** sermō Dominī ad mē dīcēns:
 
@@ -296,7 +296,7 @@
 
 27 Rēx lūgēbit, et prīnceps induētur horrōre, et **manus** **populī** terrae conturbābuntur. Secundum viam eōrum faciam eīs et secundum iūdicia eōrum iūdicābō eōs, et scient quia ego Dominus ”.
 
-8
+## 8
 
 1 Et factum **est** in annō sextō, in sextō **mēnse**, in **quīntā** **mēnsīs**, ego sedēbam in domō **meā**, et senēs Iūdae sedēbant **cōram** mē, et **cecidit** super mē ibi **manus** Dominī Deī,
 
@@ -334,7 +334,7 @@
 
 18 Ergō et ego faciam in furōre: nōn parcet oculus meus, nec miserēbor et, cum clāmāverint ad aurēs meās vōce **magnā**, nōn exaudiam eōs ”.
 
-9
+## 9
 
 1 Et clāmāvit in auribus meīs vōce **magnā** dīcēns: “ Appropinquāvērunt vīsitātiōnēs **urbis**, et ūnusquisque **vas** interfectiōnis habet in manū **suā** ”.
 
@@ -358,7 +358,7 @@
 
 11 Et ecce vir, quī **indūtus** erat līneīs, quī habēbat ātrāmentārium in lumbīs **suīs**, respondit verbum dīcēns: “ Fēcī, sīcut praecēpistī mihi ”.
 
-10
+## 10
 
 1 Et vīdī: et ecce super firmāmentum, quod erat super caput cherubim, quasi **lapis** sapphīrus, quasi speciēs similitūdinis soliī appāruit super **eā**.
 
@@ -404,7 +404,7 @@
 
 22 et similitūdō vultuum eōrum, ipsī **vultūs** quōrum aspectum vīderam iuxtā fluvium Chobar. Et singulī ante faciem suam gradiēbantur.
 
-11
+## 11
 
 1 Et ēlevāvit mē **spīritus** et dūxit mē ad portam **domūs** Dominī orientālem, quae respicit **sōlis** ortum; et ecce in introitū portae vīgintī quīnque **virī**, et vīdī in **mediō** eōrum Iezōniam fīlium Azur et Pheltiam fīlium Banāiae, prīncipēs **populī**.
 
@@ -456,7 +456,7 @@
 
 25 Et **locūtus** sum ad trānsmigrātiōnem omnia verba Dominī, quae ostenderat mihi.
 
-12
+## 12
 
 1 Et **factus** **est** sermō Dominī ad mē dīcēns:
 
@@ -514,7 +514,7 @@
 
 28 proptereā dīc ad eōs: Haec dīcit Dominus Deus: Nōn differētur **ultrā** **omnis** sermō meus; verbum, quod **locūtus** fuerō, complēbitur ”, dīcit Dominus Deus.
 
-13
+## 13
 
 1 Et **factus** **est** sermō Dominī ad mē dīcēns:
 
@@ -560,7 +560,7 @@
 
 23 proptereā **vāna** nōn vidēbitis et dīvīnātiōnēs nōn dīvīnābitis amplius, et ēruam **populum** meum dē manū **vestrā**, et sciētis quia ego Dominus ”.
 
-14
+## 14
 
 1 Et vēnērunt ad mē **virī** seniōrum Isrāēl et sēdērunt **cōram** mē.
 
@@ -608,7 +608,7 @@
 
 23 Et cōnsōlābuntur vōs, cum **vīderītis** viam eōrum et **opera** eōrum, et cognōscētis quod nōn frūstrā fēcerim omnia, quae fēcī in **eā** ”, ait Dominus Deus.
 
-15
+## 15
 
 1 Et **factus** **est** sermō Dominī ad mē dīcēns:
 
@@ -666,7 +666,7 @@ eō quod praevāricātōrēs exstiterint ”,
 
 dīcit Dominus Deus.
 
-16
+## 16
 
 1 Et **factus** **est** sermō Dominī ad mē dīcēns:
 
@@ -794,7 +794,7 @@ dīcit Dominus Deus.
 
 63 ut recordēris et cōnfundāris, et nōn sit tibi **ultrā** aperīre **os** prae cōnfūsiōne **tuā**, cum plācātus fuerō tibi in omnibus, quae fēcistī ”, ait Dominus Deus.
 
-17
+## 17
 
 1 Et factum **est** verbum Dominī ad mē dīcēns:
 
@@ -946,13 +946,13 @@ et siccāvī lignum viride
 
 et frondēre fēcī lignum āridum.
 
-Ego Dominus **locūtus** sum et fēcī ”. 
+Ego Dominus **locūtus** sum et fēcī ”.
 
- 
 
-18
 
-1 Et **factus** **est** sermō Dominī ad mē dīcēns: 
+## 18
+
+1 Et **factus** **est** sermō Dominī ad mē dīcēns:
 
 2 “Quid **est** vōbīs quod vulgō dīcitis prōverbium istud in **terrā** Isrāēl dīcentēs:
 
@@ -1020,7 +1020,7 @@ et dentēs fīliōrum obstupēscunt”?
 
 32 Quia nōlō mortem **morientīs**, dīcit Dominus Deus. Revertiminī et vīvite.
 
-19
+## 19
 
 1 Et tū, assūme plānctum super prīncipēs Isrāēl
 
@@ -1136,7 +1136,7 @@ scēptrum rēgnī ”.
 
 **Plānctus** **est**, et erit in plānctum.
 
-20
+## 20
 
 1 Et factum **est** in annō septimō, in quīntō **mēnse**, in **decimā** **mēnsīs**, vēnērunt **virī** dē seniōribus Isrāēl, ut interrogārent Dominum, et sēdērunt **cōram** mē.
 
@@ -1226,7 +1226,7 @@ scēptrum rēgnī ”.
 
 44 Et sciētis quia ego Dominus, cum benefēcerō vōbīs propter **nōmen** meum, nōn secundum viās vestrās **malās** neque secundum **scelera** **vestra** **pessima**, **domus** Isrāēl ”, ait Dominus Deus.
 
-21
+## 21
 
 1 Et **factus** **est** sermō Dominī ad mē dīcēns:
 
@@ -1348,7 +1348,7 @@ ego Dominus **locūtus** sum ”.
 
 37 Ignī **eris** cibus, sanguis tuus erit in **mediō** terrae; oblīviōnī **trāderis**, quia ego Dominus **locūtus** sum ”.
 
-22
+## 22
 
 1 Et factum **est** verbum Dominī ad mē dīcēns:
 
@@ -1412,7 +1412,7 @@ ego Dominus **locūtus** sum ”.
 
 31 Et effūdī super eōs indignātiōnem meam, in igne īrae meae cōnsūmpsī eōs, viam eōrum in caput eōrum reddidī ”, ait Dominus Deus.
 
-23
+## 23
 
 1 Et **factus** **est** sermō Dominī ad mē dīcēns:
 
@@ -1532,7 +1532,7 @@ ait Dominus Deus.
 
 49 et dabunt scelus vestrum super vōs, et **peccāta** īdōlōrum vestrōrum portābitis et sciētis quia ego Dominus Deus ”.
 
-24
+## 24
 
 1 Et factum **est** verbum Dominī ad mē in annō nōnō, in **mēnse** decimō, **decimā** **mēnsis**, dīcēns:
 
@@ -1644,7 +1644,7 @@ neque per ignem.
 
 27 in **diē**, inquam, **illa** aperiētur **os** tuum cum eō, quī **fugit**; et **loqueris** et nōn silēbis **ultrā** **eris**que eīs in portentum, et scient quia ego Dominus ”.
 
-25
+## 25
 
 1 Et **factus** **est** sermō Dominī ad mē dīcēns:
 
@@ -1682,7 +1682,7 @@ Haec dīcit Dominus Deus: Prō eō quod dīxistī: “Eugē!” super sānctuār
 
 17 faciamque in eīs ultiōnēs magnās, arguēns in furōre, et scient quia ego Dominus, cum dederō vindictam meam super eōs ”.
 
-26
+## 26
 
 1 Et factum **est** in ūndecimō annō, **prīma** **mēnsis**, **factus** **est** sermō Dominī ad mē dīcēns:
 
@@ -1834,7 +1834,7 @@ ob exitum tuum”.
 
 21 in nihilum redigam tē, et nōn **eris** et **requīsīta** nōn inveniēris **ultrā** in sempiternum ”, dīcit Dominus Deus.
 
-27
+## 27
 
 1 Et factum **est** verbum Dominī ad mē dīcēns:
 
@@ -2026,7 +2026,7 @@ In horrōrem **facta** **es**
 
 et nōn **eris** usque in perpetuum” ”.
 
-28
+## 28
 
 1 Et **factus** **est** sermō Dominī ad mē dīcēns:
 
@@ -2196,7 +2196,7 @@ et scient quia ego Dominus.
 
 26 et habitābunt in **eā** **secūrī** et aedificābunt domōs plantābuntque vīneās et habitābunt cōnfīdenter, cum fēcerō iūdicia in omnibus, quī adversantur eīs per circuitum, et scient quia ego Dominus Deus eōrum ”.
 
-29
+## 29
 
 1 In annō decimō, in decimō **mēnse**, **duodecimā** **mēnsīs**, factum **est** verbum Dominī ad mē dīcēns:
 
@@ -2282,7 +2282,7 @@ et dissolvistī omnēs lumbōs eōrum.
 
 21 In **diē** illō germināre faciam **cornū** domuī Isrāēl, et tibi dabō apertum **os** in **mediō** eōrum, et scient quoniam ego Dominus ”.
 
-30
+## 30
 
 1 Et factum **est** verbum Dominī ad mē dīcēns:
 
@@ -2376,7 +2376,7 @@ et faciam iūdicia in Nō.
 
 26 Et dispergam Aegyptum in nātiōnēs et ventilābō eōs in terrās, et scient quia ego Dominus ”.
 
-31
+## 31
 
 1 Et factum **est** in annō ūndecimō, in tertiō, **ūna** **mēnsis**, factum **est** verbum Dominī ad mē dīcēns:
 
@@ -2500,7 +2500,7 @@ ad eōs, quī dēscendunt in lacum.
 
 18 Cui assimilātus **es**, ō **inclitē** atque **sublīmis** inter ligna **Ēden**? Et ecce **dēductus** **es** cum lignīs **Ēden** ad īnferiōra terrae; in **mediō** incircumcīsōrum dormiēs cum hīs, quī interfectī sunt gladiō. Ipse **est** pharaō et **omnis** **pompa** eius ”, dīcit Dominus Deus.
 
-32
+## 32
 
 1 Et factum **est** duodecimō annō, in **mēnse** duodecimō, in **ūnā** **mēnsīs**, factum **est** verbum Dominī ad mē dīcēns:
 
@@ -2630,7 +2630,7 @@ Dēscende et dormī cum incircumcīsīs.
 
 32 quia **dedī** terrōrem meum in **terrā** vīventium; et prōstrātus **est** in **mediō** incircumcīsōrum cum interfectīs gladiō pharaōnis et **omnis** **pompa** eius ”, ait Dominus Deus.
 
-33
+## 33
 
 1 Et factum **est** verbum Dominī ad mē dīcēns:
 
@@ -2698,7 +2698,7 @@ Dēscende et dormī cum incircumcīsīs.
 
 33 Et cum vēnerit, quod praedictum **est** — ecce enim **venit** — tunc scient quod prophetēs fuerit inter eōs ”.
 
-34
+## 34
 
 1 Et factum **est** verbum Dominī ad mē dīcēns:
 
@@ -2762,7 +2762,7 @@ Dēscende et dormī cum incircumcīsīs.
 
 31 Vōs autem grex meus, grex pāscuae meae vōs, et ego Dominus Deus vester ”, dīcit Dominus Deus.
 
-35
+## 35
 
 1 Et **factus** **est** sermō Dominī ad mē dīcēns:
 
@@ -2804,7 +2804,7 @@ et sciēs quia ego Dominus.
 
 15 sīcuti gāvīsus **es** super hērēditātem **domūs** Isrāēl, eō quod fuerit **dissipāta**, sīc faciam tibi: dissipātus **eris**, mōns Seir, et **Idūmaea** **omnis**, et scient quia ego Dominus.
 
-36
+## 36
 
 1 Tū autem, fīlī hominis, **prophēta** super montēs Isrāēl et **dīcēs**: Montēs Isrāēl, **audītē** verbum Dominī.
 
@@ -2844,7 +2844,7 @@ et sciēs quia ego Dominus.
 
 19 Et dispersī eōs in gentēs, et ventilātī sunt in terrās; iuxtā viās eōrum et iuxtā **opera** eōrum iūdicāvī eōs.
 
-20 Et ingressī sunt ad gentēs, ad quās introiērunt, et polluērunt **nōmen** sānctum meum, cum dīcerētur dē eīs: “**Populus** Dominī iste **est**, et dē **terrā** eius ēgressī sunt”. 
+20 Et ingressī sunt ad gentēs, ad quās introiērunt, et polluērunt **nōmen** sānctum meum, cum dīcerētur dē eīs: “**Populus** Dominī iste **est**, et dē **terrā** eius ēgressī sunt”.
 
 21 Et pepercī nōminī meō sānctō, quod polluerat **domus** Isrāēl in gentibus, ad quās ingressī sunt.
 
@@ -2882,7 +2882,7 @@ et sciēs quia ego Dominus.
 
 38 ut gregem sānctum, ut gregem Ierusālem in sollemnitātibus eius; sīc erunt cīvitātēs dēsertae plēnae gregibus hominum, et scient quia ego Dominus ”.
 
-37
+## 37
 
 1 **Facta** **est** super mē **manus** Dominī et ēdūxit mē in spīritū Dominī et posuit mē in **mediō** campī, quī erat plēnus ossibus,
 
@@ -2940,7 +2940,7 @@ et sciēs quia ego Dominus.
 
 28 et scient gentēs quia ego Dominus sānctificātor Isrāēl, cum fuerit sānctuārium meum in **mediō** eōrum in perpetuum ”.
 
-38
+## 38
 
 1 Et **factus** **est** sermō Dominī ad mē dīcēns:
 
@@ -2988,7 +2988,7 @@ et sciēs quia ego Dominus.
 
 23 et magnificābor et sānctificābor et nōtus **erō** in oculīs multārum gentium, et scient quia ego Dominus.
 
-39
+## 39
 
 1 Tū autem, fīlī hominis, vāticināre adversum Gog et **dīcēs**: Haec dīcit Dominus Deus: Ecce ego super tē, Gog, prīncipem summum Mosoch ē Thubal;
 
@@ -3048,7 +3048,7 @@ et sciēs quia ego Dominus.
 
 29 Et nōn abscondam **ultrā** faciem meam ab eīs, eō quod effūderim spīritum meum super domum Isrāēl ”, ait Dominus Deus.
 
-40
+## 40
 
 1 In vīcēsimō et quīntō annō trānsmigrātiōnis nostrae, in exōrdiō annī, **decima** **mēnsis**, quārtō decimō annō, postquam **percussa** **est** cīvitās, in **ipsā** hāc **diē** **facta** **est** super mē **manus** Dominī et addūxit mē illūc.
 
@@ -3148,7 +3148,7 @@ et sciēs quia ego Dominus.
 
 49 longitūdinem autem vestibulī vīgintī cubitōrum et lātitūdinem duodecim cubitōrum, et decem gradibus ascendēbātur ad illud, et columnae erant in postibus, **ūna** hinc et **altera** inde.
 
-41
+## 41
 
 1 Et intrōdūxit mē in templum et mēnsus **est** postēs: sex cubitōs lātitūdinis hinc et sex cubitōs lātitūdinis inde.
 
@@ -3202,7 +3202,7 @@ et sciēs quia ego Dominus.
 
 26 Et fenestrae marginātae et similitūdō palmārum hinc atque inde in lateribus vestibulī et in cubiculīs adiacentibus **domūs**.
 
-42
+## 42
 
 1 Et ēdūxit mē in ātrium exterius per viam dūcentem ad aquilōnem; et dūxit mē ad exedram, quae erat contrā āream sēparātam, et contrā aedem ad aquilōnem.
 
@@ -3244,7 +3244,7 @@ et sciēs quia ego Dominus.
 
 20 Per quattuor ventōs mēnsus **est** illud; mūrus **eī** erat undique per circuitum longitūdine quīngentōrum cubitōrum et lātitūdine quīngentōrum cubitōrum, dīvidēns inter sānctuārium et locum profānum.
 
-43
+## 43
 
 1 Et dūxit mē ad portam, quae respiciēbat ad viam orientālem,
 
@@ -3300,7 +3300,7 @@ et sciēs quia ego Dominus.
 
 27 **Explētis** autem diēbus, in **diē** **octāvā** et **ultrā** facient sacerdōtēs super altāre holocausta **vestra** et **pācifica**, et plācātus **erō** vōbīs ”, ait Dominus Deus.
 
-44
+## 44
 
 1 Et convertit mē ad viam portae sānctuāriī exteriōris, quae respiciēbat ad orientem, et erat **clausa**;
 
@@ -3364,7 +3364,7 @@ et sciēs quia ego Dominus.
 
 31 Omne morticīnum et captum ā **bēstiā** dē avibus et dē pecoribus nōn comedent sacerdōtēs.
 
-45
+## 45
 
 1 Cumque **coeperītis** terram **dīvidere** sortītō, **sēparātē** oblātiōnem Dominō sānctificātum dē **terrā**, longitūdine vīgintī quīnque **mīlia** et lātitūdine vīgintī **mīlia**: sānctificātum erit in omnī terminō suō per circuitum;
 
@@ -3416,7 +3416,7 @@ et sciēs quia ego Dominus.
 
 25 Septimō **mēnse**, **quīntā** **decima** **diē** **mēnsis**, in sollemnitāte faciet, sīcut suprā **dicta** sunt, per septem diēs, tam prō peccātō quam prō holocaustō et in oblātiōne et in oleō.
 
-46
+## 46
 
 1 Haec dīxit Dominus Deus: **Porta** ātriī interiōris, quae respicit ad orientem, erit **clausa** sex diēbus, in quibus opus fit; **diē** autem sabbatī aperiētur, sed et in **diē** calendārum aperiētur,
 
@@ -3466,7 +3466,7 @@ et sciēs quia ego Dominus.
 
 24 Et dīxit ad mē: “Hae sunt **domus** culīnārum, in quibus coquent ministrī **domus** Dominī victimās **populī** ”.
 
-47
+## 47
 
 1 Et convertit mē ad portam **domūs**, et ecce aquae egre diēbantur subter līmen **domūs** ad orientem; faciēs enim **domus** respiciēbat ad orientem, aquae autem dēscendēbant ā **latere** templī dextrō ā merīdiē **altāris**.
 
@@ -3514,7 +3514,7 @@ et sciēs quia ego Dominus.
 
 23 in tribū autem quācumque fuerit **advena**, ibi dabitis possessiōnem illī, ait Dominus Deus.
 
-48
+## 48
 
 1 Et haec **nōmina** tribuum: in fīnibus aquilōnis iuxtā viam Hethalon ad introitum Emath, Asarenon — fīnēs Damascī ad aquilōnem iuxtā Emath — erit ā **plāgā** orientālī usque ad mare, **Dān** pars **ūna**.
 
@@ -3585,9 +3585,3 @@ et sciēs quia ego Dominus.
 34 Et ad **plāgam** occidentālem quīngentōrum et quattuor **mīlium**, portae trēs: **porta** Gad **ūna**, **porta** Aser **ūna**, **porta** Nephthālī **ūna**.
 
 35 Per circuitum decem et octo **mīlia**, et **nōmen** cīvitātis ex **illā** **diē**: Dominus ibīdem ”.
-
- 
-
- 
-
-

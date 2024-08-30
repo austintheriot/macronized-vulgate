@@ -1,8 +1,8 @@
-LIBER IUDICUM 
+# LIBER IUDICUM
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21)
 
-1
+## 1
 
 1 Post mortem **Iōs**ue cōnsuluērunt fīliī Isrāēl Dominum dīcentēs: “ **Quis** nostrum prīmus ascendet ad Chananaeum ad pugnandum contrā eum? ”.
 
@@ -76,7 +76,7 @@ LIBER IUDICUM
 
 36 Fuit autem terminus Amorraēī ab ascēnsū Acrabbim ad **Petram** et superiōra **loca**.
 
-2
+## 2
 
 1 Ascenditque angelus Dominī dē Galgalīs in Bochim et ait: “ Ēdūxī vōs dē Aegyptō et intrōdūxī in terram, prō **quā** iūrāvī patribus vestrīs et pollicitus sum, ut nōn facerem irritum **pactum** meum vōbīscum in sempiternum,
 
@@ -124,7 +124,7 @@ LIBER IUDICUM
 
 23 Dīmīsit ergō Dominus hās nātiōnēs et **cito** **expellere** nōluit nec trādidit in manibus **Ios**ue.
 
-3
+## 3
 
 1 Hae sunt gentēs, quās Dominus dērelīquit, ut ērudīret in eīs Israēlem, omnēs, quī nōn nōverant **bella** Chananaēōrum,
 
@@ -188,7 +188,7 @@ LIBER IUDICUM
 
 31 Post hunc fuit Samgar fīlius Anath, quī percussit dē Philisthim sēscentōs virōs stimulō boum; et ipse **quoque** salvum fēcit Isrāēl.
 
-4
+## 4
 
 1 Addidēruntque fīliī Isrāēl facere **mālum** in cōnspectū Dominī post mortem Aod,
 
@@ -240,7 +240,7 @@ Surrēxit itaque Debōra et perrēxit cum Barac in Cēdēs.
 
 24 quī crēscēbant cotīdiē et fortī manū opprimēbant Iabin rēgem Chanaan, dōnec dēlērent eum.
 
-5
+## 5
 
 1 Cecinēruntque Debōra et Barāc fīlius Abinoem in **diē** illō dīcentēs:
 
@@ -422,7 +422,7 @@ sīcut sōl in ortū suō splendet ”.
 
 32 Quiēvitque **terra** per quadrāgintā annōs.
 
-6
+## 6
 
 1 Fēcērunt autem fīliī Isrāēl **malum** in cōnspectū Dominī, quī trādidit eōs in manū Madian septem annīs.
 
@@ -504,7 +504,7 @@ sīcut sōl in ortū suō splendet ”.
 
 40 Fēcitque Deus nocte **illa**, ut postulāverat; et fuit siccitās in **solō** **vellere**, et rōs in omnī **terrā**.
 
-7
+## 7
 
 1 Igitur Ierobbaal, quī et Gedeōn, dē nocte cōnsurgēns et **omnis** **populus** cum eō castramētātī sunt ad fontem, quī vocātur Harad. Erant autem **castra** Madiān in **valle** ad septentriōnālem **plāgam** **collis** Moreh.
 
@@ -556,7 +556,7 @@ sīcut sōl in ortū suō splendet ”.
 
 25 Apprehēnsōsque duōs prīncipēs Madiān Oreb et Zeb interfēcit Oreb in **Petrā** Oreb, Zeb vērō in Torculārī Zeb; et persecūtī sunt Madiān **capita** Oreb et Zeb portantēs ad Gedeon trāns **fluenta** **Iordānis**.
 
-8
+## 8
 
 1 Dīxēruntque ad eum **virī** Ephraim: “ Quid **est** **hoc** quod nōbīs facere voluistī, ut nōn nōs vocārēs, cum ad pugnam pergerēs contrā Madiān? ”, iūrgantēs fortiter et prope vim īnferentēs.
 
@@ -628,7 +628,7 @@ sīcut sōl in ortū suō splendet ”.
 
 35 nec fēcērunt misericordiam cum domō Ierobbaal Gedeon iuxtā omnia **bona**, quae fēcerat Israēlī.
 
-9
+## 9
 
 1 Abiit autem Abimelech fīlius Ierobbaal in Sichem ad frātrēs mātris suae et **locūtus** **est** ad eōs et ad omnem cognātiōnem familiae mātris suae dīcēns:
 
@@ -744,7 +744,7 @@ sīcut sōl in ortū suō splendet ”.
 
 57 Sichimitis **quoque**, quod operātī erant, retribūtum **est**, et **venit** super eōs maledictiō Ioatham fīliī Ierobbaal.
 
-10
+## 10
 
 1 Post Abimelech surrēxit dux ad salvandum Isrāēl Thola fīlius Phua fīliī Dōdō, vir dē Issachar, quī habitāvit in Samir **montis** Ephraim.
 
@@ -782,7 +782,7 @@ sīcut sōl in ortū suō splendet ”.
 
 18 Dīxēruntque **populus**, prīncipēs Galaad, singulī ad proximōs suōs: “ Quī prīmus contrā fīliōs Ammōn coeperit dīmicāre, erit dux omnium habitātōrum Galaad ”.
 
-11
+## 11
 
 1 Fuit Iephtē Galaadītēs vir fortissimus, fīlius meretrīcis mulieris, quem genuit Galaad.
 
@@ -864,7 +864,7 @@ sīcut sōl in ortū suō splendet ”.
 
 40 ut post annī circulum conveniant in ūnum fīliae Isrāēl et plangant fīliam Iephte Galaaditae diēbus quattuor.
 
-12
+## 12
 
 1 Ecce autem convocātus vir Ephraim trānsiit contrā aquilōnem, et dīxērunt ad Iephte: “ Quārē vādēns ad pugnam contrā fīliōs Ammōn vocāre nōs nōluistī, ut pergerēmus tēcum? Igitur incendēmus domum tuam super tē ”.
 
@@ -890,13 +890,13 @@ sīcut sōl in ortū suō splendet ”.
 
 12 mortuusque **est** ac sepultus in Ahialon terrae **Zabulōn**.
 
-13 Post hunc iūdicāvit Isrāēl Abdōn 
+13 Post hunc iūdicāvit Isrāēl Abdōn
 
 19 Irruit itaque in eō **spīritus** Dominī, dēscenditque Ascalōnem et percussit ibi trīgintā virōs, quōrum ablātās vestēs **dedit** iīs, quī problēma solverant; īrātusque nimis ascendit in domum patris **suī**.
 
 20 Uxor autem eius accēpit marītum ūnum dē **amīcīs** eius, quī erat prōnubus.
 
-15
+## 15
 
 1 Post aliquantum autem temporis, cum diēs trīticeae **messis** īnstārent, **venit** Samsōn **invīsere** volēns uxōrem suam et attulit **eī** haedum dē caprīs. Cumque ad eam vellet intrāre, prohibuit eum pater illīus
 
@@ -946,7 +946,7 @@ percussī mīlle virōs! ”.
 
 20 Iūdicāvitque Isrāēl in diēbus Philisthim vīgintī annīs.
 
-16
+## 16
 
 1 Abiit Samsōn in Gāzam et vīdit ibi meretrīcem mulierem **ingressus**que **est** ad eam.
 
@@ -1024,7 +1024,7 @@ et **occīdit** plūrimōs nostrum ”.
 
 31 Dēscendentēs autem frātrēs eius et **ūniversa** cognātiō tulērunt corpus eius et sepeliērunt inter Saraā et Esthaol in sepulcrō patris **suī** Mānue; iūdicāvitque Isrāēl vīgintī annīs.
 
-17
+## 17
 
 1 Fuit vir quīdam dē monte Ephraim nōmine Michās,
 
@@ -1052,7 +1052,7 @@ et **occīdit** plūrimōs nostrum ”.
 
 13 “ nunc sciō, dīcēns, quod benefaciet mihi Dominus habentī lēvīticī **generis** sacerdōtem ”.
 
-18
+## 18
 
 1 In diēbus illīs nōn erat rēx in Isrāēl, et **tribus** **Dān** quaerēbat possessiōnem sibi, ut habitāret in **eā**; usque ad illum enim diem inter cēterās **tribūs** sortem nōn accēperat.
 
@@ -1120,7 +1120,7 @@ Erat autem cīvitās **sita** in regiōne Rohob; quam rūrsum exstruentēs habit
 
 31 mānsitque apud eōs īdōlum Michae omnī tempore, quō fuit **domus** Deī in Sīlō.
 
-19  
+## 19
 
 In diēbus illīs nōn erat rēx in Isrāēl.
 
@@ -1184,7 +1184,7 @@ In diēbus illīs nōn erat rēx in Isrāēl.
 
 30 Quod cum vīdissent singulī, conclāmābant: “ Numquam rēs **tālis** **facta** et **vīsa** **est** in Isrāēl ex eō **diē**, quō ascendērunt patrēs nostrī dē Aegyptō, usque in praesēns tempus! ”. Praecēperat enim **virīs**, quōs **mīserat**, dīcēns: “ Haec dīcite omnī **virō** Isrāēl: Sī factum **est** quidquam tāle ex **diē**, quō ascendērunt fīliī Isrāēl dē **terrā** Aegyptī, usque ad praesentem diem? Attendite ad **hōc**, cōnsiliāminī et dēcernite quid factō opus sit!”.
 
-20
+## 20
 
 1 Ēgressī sunt itaque omnēs fīliī Isrāēl et pariter congregātī, quasi vir ūnus, dē **Dān** usque Bersabeē et **terra** Galaad ad Dominum in Masphā.
 
@@ -1284,7 +1284,7 @@ Quī nōluērunt frātrum suōrum fīliōrum Isrāēl audīre mandātum,
 
 48 Regressī autem fīliī Isrāēl ex cīvitātibus ā **virīs** usque ad iūmenta, usque ad omne, quod invenīrī poterat, gladiō percussērunt, cūnctāsque urbēs et vīculōs Beniamin vorāx **flamma** cōnsūmpsit.
 
-21
+## 21
 
 1 Iūrāvērunt autem fīliī Isrāēl in Masphā et dīxērunt: “ Nūllus nostrum dabit fīliīs Beniamin dē fīliābus **suīs** uxōrem ”.
 

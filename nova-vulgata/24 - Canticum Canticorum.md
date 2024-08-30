@@ -1,8 +1,8 @@
-CANTICUM CANTICŌRUM 
+# CANTICUM CANTICŌRUM
 
-1 2 3 4 5 6 7 8
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8)
 
-1 
+## 1
 
 1 Canticum Canticōrum Salomōnis.
 
@@ -104,7 +104,7 @@ Lectulus noster flōridus,
 
 laqueāria **nostra** **cupressina**.
 
-2
+## 2
 
 1 Ego flōs campī
 
@@ -222,7 +222,7 @@ et festīnent umbrae.
 
 hinnulōque cervōrum super montēs Bether.
 
-3
+## 3
 
 1 In lectulō meō per noctēs
 
@@ -310,7 +310,7 @@ in **diē** dēspōnsātiōnis illīus
 
 et in **diē** laetitiae **cordis** eius.
 
-4
+## 4
 
 1 Quam **pulchra** **es**, **amīca** **mea**,
 
@@ -434,7 +434,7 @@ perflā hortum meum,
 
 et fluant arōmata illīus.
 
-5
+## 5
 
 1 Veniat **dīlēctus** meus in hortum suum
 
@@ -460,7 +460,7 @@ Vōx dīlēctī meī **pulsantis**:
 
 **columba** **mea**, **immaculāta** **mea**,
 
-quia caput meum plēnum **est** rōre, et cincinnī meī guttīs noctium ”. 
+quia caput meum plēnum **est** rōre, et cincinnī meī guttīs noctium ”.
 
 3 “ Exspoliāvī mē **tunicā** **meā**,
 
@@ -568,7 +568,7 @@ et **tōtus** **dēsīderābilis**.
 
 fīliae Ierusālem.
 
-6
+## 6
 
 1 Quō abiit **dīlēctus** tuus,
 
@@ -652,7 +652,7 @@ et germināssent **mala** **pūnica**.
 
 cum posuit mē in quadrīgās prīncipis **populī** meī.
 
-7
+## 7
 
 1 **Convertēre**, **convertere**, Sulamitis;
 
@@ -746,7 +746,7 @@ in portīs nostrīs omnia pōma **optima**,
 
 **dīlēcte** mī, servāvī tibi.
 
-8
+## 8
 
 1 **Quis** mihi det tē frātrem meum,
 

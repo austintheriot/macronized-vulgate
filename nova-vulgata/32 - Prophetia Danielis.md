@@ -1,8 +1,8 @@
-**PROPHĒTĪA** DANIĒLIS
+# **PROPHĒTĪA** DANIĒLIS
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14)
 
-1 
+## 1
 
 1 Annō tertiō rēgnī Ioachim **rēgis** Iūdae **venit** Nabuchodonosor rēx Babylōnis Ierusālem et obsēdit eam;
 
@@ -46,7 +46,7 @@
 
 21 Fuit autem Daniēl usque ad annum prīmum Cȳrī **rēgis**.
 
-2
+## 2
 
 1 In annō secundō rēgnī Nabuchodonosor vīdit Nabuchodonosor somnium, et conterritus **est** **spīritus** eius, et somnus eius **fugit** ab eō.
 
@@ -168,7 +168,7 @@ quia sermōnem **rēgis** aperuistī nōbīs ”.
 
 49 Daniēl autem postulāvit ā **rēge** et cōnstituit super **opera** prōvinciae Babylōnis Sedrac, Misac et Abdenagō; ipse autem Daniēl erat in foribus **rēgis**.
 
-3
+## 3
 
 1 Nabuchodonosor rēx fēcit statuam auream altitūdine cubitōrum sexāgintā, lātitūdine cubitōrum sex; et statuit eam in campō **Dūra** in **prōvinciā** Babylōnis.
 
@@ -554,7 +554,7 @@ Et rēgnum eius rēgnum sempiternum,
 
 et potestās eius in generātiōnem et generātiōnem ”.
 
-4
+## 4
 
 1 Ego Nabuchodonosor quiētus eram in domō **meā** et flōrēns in **palātiō** meō;
 
@@ -684,7 +684,7 @@ et **dīcat** **eī**: “Quid **facis**?”.
 
 34 Nunc igitur ego Nabuchodonosor laudō et magnificō et glōrificō Rēgem caelī, quia omnia **opera** eius **veritās**, et viae eius iūdicium, et gradientēs in **superbiā** potest humiliāre ”.
 
-5
+## 5
 
 1 Balthasar rēx fēcit grande convīvium optimātibus **suīs** mīlle et **cōram** hīs mīlibus vīnum bibēbat.
 
@@ -746,7 +746,7 @@ et **dīcat** **eī**: “Quid **facis**?”.
 
 30 **Eādem** nocte interfectus **est** Balthasar rēx Chaldaeōrum.
 
-6
+## 6
 
 1 Et **Darīus** Mēdus successit in rēgnum annōs **nātūs** sexāgintā duōs.
 
@@ -822,7 +822,7 @@ dē manū leōnum ”.
 
 29 Porrō Daniēl prōsperātus **est** in rēgnō **Dārīī** et in rēgnō Cȳrī Persae.
 
-7
+## 7
 
 1 Annō prīmō Balthasar **rēgis** Babylōnis Daniēl somnium vīdit et vīsiōnem **capitis** eius in cubīlī suō; tunc et somnium scrīpsit. Caput verbōrum, quae **locūtus** **est**.
 
@@ -920,7 +920,7 @@ et rēgnum eius, quod nōn corrumpētur.
 
 28 Hucusque **fīnis** verbī. Ego Daniēl multum cōgitātiōnibus meīs conturbābar, et faciēs **mea** **mūtātā** **est** in mē; verbum autem in **corde** meō cōnservāvī.
 
-8
+## 8
 
 1 Annō tertiō rēgnī Balthasar **rēgis** **visiō** appāruit mihi, ego Daniēl, post id quod mihi appāruerat in prīncipiō.
 
@@ -976,7 +976,7 @@ et rēgnum eius, quod nōn corrumpētur.
 
 27 Et ego Daniēl languī et aegrōtāvī per diēs; cumque surrēxissem, faciēbam **opera** **rēgis** et stupēbam ad vīsiōnem, et nōn erat quī intellegeret.
 
-9
+## 9
 
 1 In annō prīmō **Darīī** fīliī Asuerī dē sēmine Mēdōrum, quī imperāvit super rēgnum Chaldaeōrum,
 
@@ -1088,7 +1088,7 @@ et usquedum cōnsummātiō et dēcrētum
 
 effundantur super vastātōrem ”.
 
-10
+## 10
 
 1 Annō tertiō Cȳrī **rēgis** Persārum verbum revēlātum **est** Daniēlī cognōmentō Baltassar, et vērum verbum et aciēs **magna**; intellēxitque sermōnem, **intellegentia** enim fuit **eī** in vīsiōne.
 
@@ -1132,7 +1132,7 @@ effundantur super vastātōrem ”.
 
 21 Vērumtamen annūntiābō tibi, quod expressum **est** in **scrīptūrā** vēritātis; et nēmō **est** adiūtor meus adversus hōs, **nisi** Michael prīnceps vester.
 
-11
+## 11
 
 1 Ego autem ab annō prīmō **Dārīī** Mēdī astābam **eī**, ut cōnfortārētur et rōborārētur.
 
@@ -1224,7 +1224,7 @@ effundantur super vastātōrem ”.
 
 45 et fīget tabernācula palātiī **suī** inter maria super montem sānctum **decōris**; et veniet usque ad summitātem eius, et nēmō auxiliābitur **eī**.
 
-12
+## 12
 
 1 In tempore autem illō cōnsurget Michaēl, prīnceps magnus, quī stat prō fīliīs **populī** tuī, et erit tempus angustiae, quāle nōn fuit ab eō, quō gentēs **esse** coepērunt, usque ad tempus illud. Et in tempore illō salvābitur **populus** tuus, **omnis**, quī **inventus** fuerit **scrīptus** in **librō**.
 
@@ -1254,7 +1254,7 @@ effundantur super vastātōrem ”.
 
 (Hucusque Daniēl in Hebraēō volūmine **lēgimus**. **Cētera**, quae sequuntur usque ad fīnem librī, dē Theodotionīs ēditiōne **trānslāta** sunt).
 
-13
+## 13
 
 1 Et erat vir habitāns in Babylōne, et **nōmen** eius Ioachim;
 
@@ -1386,7 +1386,7 @@ Quī ait: “ Sub prīnō ”.
 
 64 Daniēl autem **factus** **est** magnus in cōnspectū **populī** ā **diē** **illa** et deinceps.
 
-14
+## 14
 
 1 Et rēx Astyagēs **appositus** **est** ad patrēs suōs, et suscēpit Cȳrus Persēs rēgnum eius.
 

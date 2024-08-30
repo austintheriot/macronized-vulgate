@@ -1,8 +1,8 @@
-APOSTOLĪ AD RŌMĀNŌS **EPISTULA** SĀNCTĪ PAULĪ
+# APOSTOLĪ AD RŌMĀNŌS **EPISTULA** SĀNCTĪ PAULĪ
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16)
 
-1 
+## 1
 
 1 Paulus servus Chrīstī **Iēsu**, **vocātūs** apostolus, sēgregātus in ēvangelium Deī,
 
@@ -68,7 +68,7 @@ APOSTOLĪ AD RŌMĀNŌS **EPISTULA** SĀNCTĪ PAULĪ
 
 32 Quī cum iūdicium Deī cognōvissent, quoniam quī tālia agunt, dignī sunt morte, nōn **sōlum** **ea** faciunt, sed et cōnsentiunt facientibus.
 
-2
+## 2
 
 1 Propter quod **inexcūsābilis** **es**, ō homō **omnis**, quī iūdicās. In quō enim iūdicās alterum, tēipsum condemnās; **eadem** enim agis, quī iūdicās.
 
@@ -128,7 +128,7 @@ APOSTOLĪ AD RŌMĀNŌS **EPISTULA** SĀNCTĪ PAULĪ
 
 29 sed quī in absconditō Iūdaeus **est**, et circumcīsiō **cordis** in spīritū nōn **littera**, cuius laus nōn ex hominibus sed ex Deō **est**.
 
-3
+## 3
 
 1 Quid ergō amplius **est** Iūdaeō, aut quae ūtilitās circumcīsiōnis?
 
@@ -200,7 +200,7 @@ venēnum aspidum sub labiīs eōrum,
 
 31 Lēgem ergō dēstruimus per fidem? Absit, sed lēgem statuimus.
 
-4
+## 4
 
 1 Quid ergō **dicēmus** invēnisse Abraham prōgenitōrem nō strum secundum carnem?
 
@@ -254,7 +254,7 @@ et quōrum **tēcta** sunt **peccāta**.
 
 25 quī **trāditus** **est** propter **dēlicta** **nostra** et suscitātus **est** propter iūstificātiōnem nostram.
 
-5
+## 5
 
 1 **Iūstificātī** igitur ex **fide**, pācem habēmus ad Deum per Domī num nostrum **Iēsum** Chrīstum,
 
@@ -298,7 +298,7 @@ et quōrum **tēcta** sunt **peccāta**.
 
 21 ut sīcut rēgnāvit peccātum in morte, **ita** et **grātia** rēgnet per iūstitiam in vītam aeternam per **Iēsum** Chrīstum Dominum nostrum.
 
-6
+## 6
 
 1 Quid ergō **dīcēmus**? Perma nēbimus in peccātō, ut **grātia** abundet?
 
@@ -346,7 +346,7 @@ et quōrum **tēcta** sunt **peccāta**.
 
 23 **Stīpendia** enim peccātī mors, dōnum autem Deī **vītā** **aeternā** in Chrīstō **Iēsu** Dominō nostrō.
 
-7
+## 7
 
 1 An **ignōrātis**, frātrēs — scientī bus enim lēgem loquor — quia lēx in homine dominātur, quantō tempore vīvit?
 
@@ -398,7 +398,7 @@ et quōrum **tēcta** sunt **peccāta**.
 
 25 **Grātiās** autem Deō per **Iēsum** Chrīstum Dominum nostrum! Igitur ego ipse mente serviō **legī** Deī, carne autem **lēgī** peccātī.
 
-8
+## 8
 
 1 Nihil ergō nunc damnātiōnis **est** hīs, quī sunt in Chrīstō **Iēsu**;
 
@@ -482,7 +482,7 @@ aestimātī sumus ut ovēs occīsiōnis ”.
 
 39 neque altitūdō neque profundum neque **alia** quaelibet **creātūra** poterit nōs sēparāre ā cāritāte Deī, quae **est** in Chrīstō **Iēsu** Dominō nostrō.
 
-9
+## 9
 
 1 Vēritātem **dīcō** in Chrīstō, nōn mentior, testimōnium mihi per hibente **cōnscientia** **mea** in Spīritū Sānctō,
 
@@ -568,7 +568,7 @@ et sīcut **Gomorrā** similēs fuissēmus ”.
 
 et, quī crēdit in eō, nōn cōnfundētur ”.
 
-10
+## 10
 
 1 Frātrēs, voluntās quidem **cordis** meī et obsecrātiō ad Deum prō illīs in salūtem.
 
@@ -626,7 +626,7 @@ per gentem īnsipientem ad īram vōs prōvocābō ”.
 
 21 Ad Isrāēl autem dīcit: “ **Tōtā** **diē** expandī **manūs** meās ad **populum** nōn crēdentem et contrādīcentem ”.
 
-11
+## 11
 
 1 **Dīcō** ergō: Numquid repulit Deus **populum** suum? Absit! Nam et ego Israelitā sum, ex sēmine Abraham, tribū Beniamin.
 
@@ -724,7 +724,7 @@ et retribuētur **eī**?
 
 36 Quoniam ex ipsō et per ipsum et in ipsum omnia. Ipsī **glōria** in saecula. Āmēn.
 
-12
+## 12
 
 1 Obsecrō itaque vōs, frātrēs, per misericordiam Deī, ut exhibeātis **corpora** **vestra** hostiam vīventem, sānctam, Deō placentem, ratiōnābile obsequium vestrum;
 
@@ -768,7 +768,7 @@ et retribuētur **eī**?
 
 21 Nōlī vincī ā **mālō**, sed vince in bonō **mālum**.
 
-13
+## 13
 
 1 **Omnis** **anima** potestātibus sublīmiōribus **subdita** sit. Nōn **est** enim potestās **nisi** ā Deō; quae autem sunt, ā Deō ōrdinātae sunt.
 
@@ -798,7 +798,7 @@ et retribuētur **eī**?
 
 14 sed induite Dominum **Iēsum** Chrīstum et **carnīs** cūram nē **fēcerītis** in concupiscentiīs.
 
-14
+## 14
 
 1 Īnfirmum autem in **fide** assūmite, nōn in disceptātiō nibus cōgitātiōnum.
 
@@ -850,7 +850,7 @@ et **omnis** **lingua** cōnfitēbitur Deō ”.
 
 23 Quī autem discernit sī mandūcāverit, damnātus **est**, quia nōn ex **fide**; omne autem, quod nōn ex **fide**, peccātum **est**.
 
-15
+## 15
 
 1 Dēbēmus autem nōs fir miōrēs imbēcillitātēs infir mōrum sustinēre et nōn nōbīs **placēre**.
 
@@ -934,7 +934,7 @@ et, quī nōn audiērunt, intellegent ”.
 
 33 Deus autem **pācis** sit cum omnibus vōbīs. Āmēn.
 
-16
+## 16
 
 1 Commendō autem vōbīs Phoebēm sorōrem nostram, quae **est** **ministra** ecclēsiae, quae **est** **Cenchrēis**,
 

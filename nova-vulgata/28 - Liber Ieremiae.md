@@ -1,14 +1,14 @@
-**LIBER** IĒREMĪAE 
+# **LIBER** IĒREMĪAE
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27)
 
-28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52
+[28](#28) [29](#29) [30](#30) [31](#31) [32](#32) [33](#33) [34](#34) [35](#35) [36](#36) [37](#37) [38](#38) [39](#39) [40](#40) [41](#41) [42](#42) [43](#43) [44](#44) [45](#45) [46](#46) [47](#47) [48](#48) [49](#49) [50](#50) [51](#51) [52](#52)
 
-1 
+## 1
 
-1 Verba Iēremīae fīliī Helciae dē sacerdōtibus, quī fuērunt in Anathoth in **terrā** Beniamin. 
+1 Verba Iēremīae fīliī Helciae dē sacerdōtibus, quī fuērunt in Anathoth in **terrā** Beniamin.
 
-2 Quod factum **est** verbum Dominī ad eum in diēbus Iosiae fīliī Amōn **rēgis** Iūdae, in tertiō decimō annō rēgnī eius. 
+2 Quod factum **est** verbum Dominī ad eum in diēbus Iosiae fīliī Amōn **rēgis** Iūdae, in tertiō decimō annō rēgnī eius.
 
 3 Et factum **est** in diēbus Ioachim fīliī Iosiae **rēgis** Iūdae, usque ad cōnsummātiōnem ūndecimī annī Sedeciae fīliī Iosiae **rēgis** Iūdae, usque ad trānsmigrātiōnem Ierusālem in **mēnse** quīntō.
 
@@ -114,7 +114,7 @@ ait Dominus,
 
 ut ēripiam tē ”.
 
-2
+## 2
 
 1 Et factum **est** verbum Dominī ad mē dīcēns:
 
@@ -418,7 +418,7 @@ quoniam obtrīvit Dominus illōs, quibus cōnfīsus **es**,
 
 et nihil habēbis prōsperum in eīs.
 
-3
+## 3
 
 1 Sī dīmīserit vir uxōrem suam,
 
@@ -580,7 +580,7 @@ ab **adulēscentiā** **nostrā** usque ad hanc diem
 
 et nōn audīvimus **vōcem** Dominī Deī nostrī ”.
 
-4
+## 4
 
 1 “ Sī **converteris**, Isrāēl,
 
@@ -836,7 +836,7 @@ vōx fīliae **Sīōn**
 
 propter interfectōrēs! ”.
 
-5
+## 5
 
 1 **Circuīte** viās Ierusālem
 
@@ -1072,7 +1072,7 @@ et **populus** meus dīlēxit tālia.
 
 Quid igitur faciētis in novissimō eius?
 
-6
+## 6
 
 1 **Fugite**, fīliī Beniamin,
 
@@ -1316,7 +1316,7 @@ scōriae enim nōn sunt sēparātae.
 
 quia Dominus prōiēcit illōs.
 
-7
+## 7
 
 1 Verbum, quod factum **est** ad Iēremīam ā Dominō dīcēns:
 
@@ -1394,7 +1394,7 @@ et prōiēcit generātiōnem furōris **suī**.
 
 34 Et **quiēscere** faciam dē urbibus Iūdae et dē **platēīs** Ierusālem **vōcem** gaudiī et **vōcem** laetitiae, **vōcem** spōnsī et **vōcem** spōnsae: in dēsōlātiōnem enim erit **terra** ”.
 
-8
+## 8
 
 1 “ In illō tempore, ait Dominus, ēicient ossa rēgum Iūdae et ossa prīncipum eius et ossa sacerdōtum et ossa prophētārum et ossa eōrum, quī habitāvērunt Ierusālem dē sepulcrīs **suīs**;
 
@@ -1576,7 +1576,7 @@ et plōrābō **diē** ac nocte
 
 interfectōs fīliae **populī** meī?
 
-9
+## 9
 
 1 **Quis** dabit mihi in sōlitūdine dēversōrium viātōrum,
 
@@ -1756,7 +1756,7 @@ ait Dominus.
 
 25 super Aegyptum et super Iūdam et super Edom et super fīliōs Ammōn et super Moab et super omnēs, quī attōnsī sunt in **comam**, habitantēs in dēsertō, quia omnēs gentēs habent praepūtium, **omnis** autem **domus** Isrāēl incircumcīsī sunt **corde** ”.
 
-10
+## 10
 
 1 **Audīte** verbum, quod **locūtus** **est** Dominus super vōs, **domus** Isrāēl.
 
@@ -1932,7 +1932,7 @@ et cōnsūmpsērunt illum
 
 et **pāscua** eius dissipāvērunt.
 
-11
+## 11
 
 1 Verbum, quod factum **est** ad Iēremīam ā Dominō dīcēns:
 
@@ -2004,7 +2004,7 @@ tibi enim revēlāvī causam meam.
 
 23 et reliquiae nōn erunt eīs; indūcam enim **malum** super virōs Anathoth, annum vīsitātiōnis eōrum ”.
 
-12
+## 12
 
 1 Iūstus quidem tū **es**, Domine, sī disputem tēcum;
 
@@ -2118,7 +2118,7 @@ propter īram furōris Dominī.
 
 17 Quod sī nōn audierint, ēvellam gentem illam ēvulsiōne et perditiōne ”, ait Dominus.
 
-13
+## 13
 
 1 Haec dīxit Dominus ad mē: “ **Vāde** et **possidē** tibi lumbāre līneum et pōnēs illud super lumbōs tuōs et in aquam nōn īnferēs illud ”.
 
@@ -2256,7 +2256,7 @@ Vae tibi, Ierusālem! Nōn mundāberis;
 
 usquequō adhūc? ”.
 
-14
+## 14
 
 1 Quod factum **est** verbum Dominī ad Iēremīam dē sīc **citātē**.
 
@@ -2396,7 +2396,7 @@ quem exspectāmus?
 
 Tū enim fēcistī omnia haec.
 
-15
+## 15
 
 1 Et dīxit Dominus ad mē: “ Sī steterit Moysēs et Samuel **cōram** mē, nōn **est** **anima** **mea** ad **populum** istum; ēice illōs ā faciē **meā**, et ēgrediantur.
 
@@ -2568,7 +2568,7 @@ dīcit Dominus.
 
 et redimam tē dē manū fortium ”.
 
-16
+## 16
 
 1 Et factum **est** verbum Dominī ad mē dīcēns:
 
@@ -2626,7 +2626,7 @@ ostendam eīs **manum** meam et virtūtem meam,
 
 et scient quia **nōmen** mihi Dominus ”.
 
-17
+## 17
 
 1 Peccātum Iūdae scrīptum **est** stilō ferreō,
 
@@ -2780,7 +2780,7 @@ et duplicī contrītiōne contere eōs.
 
 27 Sī autem nōn **audierītis** mē, ut sānctificētis diem sabbatī et nē portētis onus intrantēs per portās Ierusālem in **diē** sabbatī, succendam ignem in portīs eius, et dēvorābit domōs Ierusālem et nōn exstinguētur ”.
 
-18
+## 18
 
 1 Verbum, quod factum **est** ad Iēremīam ā Dominō dīcēns:
 
@@ -2894,7 +2894,7 @@ Fīant corruentēs in cōnspectū tuō;
 
 in tempore furōris tuī **abūtere** eīs.
 
-19
+## 19
 
 1 Haec dīcit Dominus: “ **Vāde** et eme lagunculam figulī testeam et accipe dē seniōribus **populī** et dē seniōribus sacerdōtum
 
@@ -2926,7 +2926,7 @@ in tempore furōris tuī **abūtere** eīs.
 
 15 “ Haec dīcit Dominus exercituum, Deus Isrāēl: Ecce ego indūcam super cīvitātem hanc et super omnēs urbēs eius **ūniversa** **mala**, quae **locūtus** sum adversum eam, quoniam indūrāvērunt cervīcem suam, ut nōn audīrent sermōnēs meōs ”.
 
-20
+## 20
 
 1 Et audīvit Phassur fīlius Emmer sacerdōs, quī cōnstitūtus erat prīnceps in domō Dominī, Iēremīam prophetantem sermōnēs istōs;
 
@@ -3036,7 +3036,7 @@ ut vidērem labōrem et dolōrem,
 
 et cōnsūmerentur in cōnfūsiōne diēs meī?
 
-21
+## 21
 
 1 Verbum, quod factum **est** ad Iēremīam ā Dominō, quandō mīsit ad eum rēx Sedecīās Phassur fīlium Melchiae et Sophoniam fīlium Maasiae sacerdōtem dīcēns:
 
@@ -3092,7 +3092,7 @@ et succendam ignem in saltū eius,
 
 et dēvorābit omnia in circuitū eius ”.
 
-22
+## 22
 
 1 Haec dīcit Dominus: “ Dēscende in domum **rēgis** Iūdae et **loqueris** ibi verbum **hoc**
 
@@ -3246,7 +3246,7 @@ quasi dolōrēs **parturientis**!
 
 30 Haec dīcit Dominus: “ Scrībite **virum** istum sterilem, **virum**, quī in diēbus **suīs** nōn prōsperābitur; nec enim erit dē sēmine eius vir, quī sedeat super solium Dāvīd et potestātem habeat **ultrā** in **Iūdā** ”.
 
-23
+## 23
 
 1 “Vae pāstōribus, quī disperdunt et dissipant gregem pāscuae meae!, dīcit Dominus.
 
@@ -3440,7 +3440,7 @@ et quasi malleus conterēns petram?
 
 40 et dabō vōs in opprobrium sempiternum et in ignōminiam aeternam, quae numquam oblīviōne dēlēbitur ”.
 
-24
+## 24
 
 1 Ostendit mihi Dominus, et ecce duo calathī plēnī fīcīs positī ante templum Dominī, postquam trānstulit Nabuchodonosor rēx Babylōnis Iechoniam fīlium Ioachim rēgem Iūdae et prīncipēs eius et fabrum et inclūsōrem dē Ierusālem et addūxit eōs in Babylōnem.
 
@@ -3462,7 +3462,7 @@ et quasi malleus conterēns petram?
 
 10 Et mittam in eīs gladium et famem et pestem, dōnec cōnsūmantur dē **terrā**, quam **dedī** eīs et patribus eōrum ”.
 
-25
+## 25
 
 1 Verbum, quod factum **est** ad Iēremīam dē omnī **populō** Iūdae in annō quārtō Ioachim fīliī Iosiae **rēgis** Iūdae — ipse **est** annus prīmus Nabuchodonosor **rēgis** Babylōnis —
 
@@ -3582,7 +3582,7 @@ quia **facta** **est** **terra** eōrum in dēsōlātiōnem,
 
 et ā faciē īrae furōris Dominī.
 
-26
+## 26
 
 1 In prīncipiō rēgnī Ioachim fīliī Iosiae **rēgis** Iūdae factum **est** verbum istud ā Dominō dīcēns:
 
@@ -3640,7 +3640,7 @@ et mōns **domūs** in **excelsa** silvārum”.
 
 24 Igitur **manus** Ahicam fīliī Saphān fuit cum **Iēremīā**, ut nōn trāderētur in **manūs** **populī**, et interficerent eum.
 
-27
+## 27
 
 1 In prīncipiō rēgnī Sedeciae fīliī Iosiae **rēgis** Iūdae factum **est** verbum istud ad Iēremīam ā Dominō dīcēns:
 
@@ -3686,7 +3686,7 @@ et mōns **domūs** in **excelsa** silvārum”.
 
 22 “In Babylōnem trānsferentur et ibi erunt usque ad diem vīsitātiōnis eōrum, dīcit Dominus; et afferrī faciam **ea** et restituī in locō istō ”.
 
-28
+## 28
 
 1 Et factum **est** in annō illō, in prīncipiō rēgnī Sedeciae **rēgis** Iūdae, in annō quārtō in **mēnse** quīntō, dīxit ad mē Hanāniās fīlius Azur **prophēta** dē Gabaōn in domō Dominī **cōram** sacerdōtibus et omnī **populō** dīcēns:
 
@@ -3722,7 +3722,7 @@ et mōns **domūs** in **excelsa** silvārum”.
 
 17 Et mortuus **est** Hanāniās **prophēta** in annō illō, **mēnsē** septimō.
 
-29
+## 29
 
 1 Et haec sunt verba epistulae, quam mīsit Iēremīās **prophēta** dē Ierusālem ad reliquiās seniōrum trānsmigrātiōnis et ad sacerdōtēs et ad prophētās et ad omnem **populum**, quem trādūxerat Nabuchodonosor dē Ierusālem in Babylōnem,
 
@@ -3788,7 +3788,7 @@ et mōns **domūs** in **excelsa** silvārum”.
 
 32 idcircō haec dīcit Dominus: Ecce ego vīsitābō super Semeiam Nehelamiten et super sēmen eius; nōn erit **eī** vir sedēns in **mediō** **populī** huius, et nōn vidēbit bonum, quod ego faciam **populō** meō, ait Dominus, quia praevāricātiōnem **locūtus** **est** adversus Dominum ”.
 
-30
+## 30
 
 1 Verbum, quod factum **est** ad Iēremīam ā Dominō dīcēns:
 
@@ -3954,7 +3954,7 @@ cōgitātiōnēs **cordis** **suī**;
 
 in novissimō diērum intellegētis **ea**.
 
-31
+## 31
 
 1 In tempore illō,
 
@@ -4214,7 +4214,7 @@ dīcit Dominus.
 
 40 et **omnis** **vallis** cadāverum et cineris et **ūniversa** **regiō** usque ad torrentem **Cedrōn** et usque ad angulum portae Equōrum **orientālis** sānctum Dominī; nōn ēvellētur et nōn dēstruētur **ultrā** in perpetuum ”.
 
-32
+## 32
 
 1 Verbum, quod factum **est** ad Iēremīam ā Dominō in annō decimō Sedeciae **rēgis** Iūdae; ipse **est** annus decimus octāvus Nabuchodonosor.
 
@@ -4304,7 +4304,7 @@ dīcit Dominus.
 
 44 Agrī ementur **pecūniā** et scrībentur in **librō**, et imprimētur signum, et testēs adhibēbuntur in **terrā** Beniamin et in circuitū Ierusālem, in cīvitātibus Iūdae et in cīvitātibus montānīs et in cīvitātibus Sephēlae et in cīvitātibus, quae ad austrum sunt, quia convertam sortem eōrum ”, ait Dominus.
 
-33
+## 33
 
 1 Et factum **est** verbum Dominī ad Iēremīam secundō, cum adhūc clausus **esset** in ātriō cūstōdiae, dīcēns:
 
@@ -4364,7 +4364,7 @@ et portantium **vōta** in domum Dominī; redūcam enim sortem terrae sīcut ā 
 
 26 equidem et sēmen Iācōb et Dāvīd servī meī prōiciam, ut nōn assūmam dē sēmine eius prīncipēs sēminis Abraham et Isaac et Iācōb; redūcam enim sortem eōrum et miserēbor eīs ”.
 
-34
+## 34
 
 1 Verbum, quod factum **est** ad Iēremīam ā Dominō, quandō Nabuchodonosor rēx Babylōnis et **omnīs** **exercitūs** eius **ūniversa**que **rēgna** terrae, quae erant sub potestāte **manūs** eius, et omnēs **populī** bellābant contrā Ierusālem et contrā omnēs urbēs eius, dīcēns:
 
@@ -4410,7 +4410,7 @@ et portantium **vōta** in domum Dominī; redūcam enim sortem terrae sīcut ā 
 
 22 Ecce ego praecipiō, dīcit Dominus, et redūcam eōs in cīvitātem hanc; et proeliābuntur adversus eam et capient eam et incendent ignī; et cīvitātēs Iūdae dabō in sōlitūdinem, eō quod nōn sit habitātor ”.
 
-35
+## 35
 
 1 Verbum, quod factum **est** ad Iēremīam ā Dominō in diēbus Ioachim fīliī Iosiae **rēgis** Iūdae dīcēns:
 
@@ -4450,7 +4450,7 @@ et portantium **vōta** in domum Dominī; redūcam enim sortem terrae sīcut ā 
 
 19 proptereā haec dīcit Dominus exercituum, Deus Isrāēl: Nōn dēficiet vir dē stirpe Ionadab fīliī Rechab stāns in cōnspectū meō cūnctīs diēbus ”.
 
-36
+## 36
 
 1 Et factum **est** in annō quārtō Ioachim fīliī Iosiae **rēgis** Iūdae, factum **est** verbum **hoc** ad Iēremīam ā Dominō dīcēns:
 
@@ -4516,7 +4516,7 @@ et portantium **vōta** in domum Dominī; redūcam enim sortem terrae sīcut ā 
 
 32 Iēremīās autem tulit volūmen aliud et **dedit** illud Baruch fīliō **Nēriae** scrībae; quī scrīpsit in eō ex ōre Iēremīae omnēs sermōnēs librī, quem combusserat Ioachim rēx Iūdae ignī; et īnsuper additī sunt multī sermōnēs similēs illīs.
 
-37
+## 37
 
 1 Et rēgnāvit rēx Sedecīās fīlius Iosiae prō Iechōniā fīliō Ioachim; quem cōnstituit rēgem Nabuchodonosor rēx Babylōnis in **terrā** Iūdae.
 
@@ -4560,7 +4560,7 @@ et portantium **vōta** in domum Dominī; redūcam enim sortem terrae sīcut ā 
 
 21 Praecēpit ergō rēx Sedecīās, ut trāderētur Iēremīās in vestibulō cūstōdiae, et darētur **eī** **torta** **pānis** cotīdiē ex vīcō Pistōrum, dōnec cōnsūmerentur omnēs pānēs dē cīvitāte. Et mānsit Iēremīās in vestibulō cūstōdiae.
 
-38
+## 38
 
 1 Audīvit autem Saphatiās fīlius Matthān et Godoliās fīlius Phassur et Iuchal fīlius Selēmiae et Phassur fīlius Melchiae sermōnēs, quōs Iēremīās loquēbātur ad omnem **populum** dīcēns:
 
@@ -4628,7 +4628,7 @@ illī autem recessērunt ā tē”.
 
 Et factum **est** ut caperētur Ierusālem.
 
-39
+## 39
 
 1 Annō nōnō Sedeciae **rēgis** Iūdae, **mēnsē** decimō, **venit** Nabuchodonosor rēx Babylōnis et **omnis** **exercitus** eius ad Ierusālem et **obsīdēbant** eam.
 
@@ -4666,7 +4666,7 @@ Et factum **est** ut caperētur Ierusālem.
 
 18 sed ēruēns līberābō tē, et gladiō nōn cadēs, sed erit tibi **anima** **tua** quasi spolium, quia in mē habuistī fīdūciam ”, ait Dominus.
 
-40
+## 40
 
 1 Sermō, quī **factus** **est** ad Iēremīam ā Dominō, postquam dīmissus **est** ā Nabuzardān magistrō satellitum dē Ramā, quandō tulit eum vīnctum catēnīs in **mediō** omnium, quī migrābant dē Ierusālem et **Iūda** et dūcēbantur in Babylōnem.
 
@@ -4700,7 +4700,7 @@ Et factum **est** ut caperētur Ierusālem.
 
 16 Et ait Godolīās fīlius Ahicam ad Iohanān fīlium Cāree: “ Nōlī facere verbum **hoc**; falsum enim tū **loqueris** dē Ismaēl ”.
 
-41
+## 41
 
 1 Et factum **est** in **mēnse** septimō, **venit** Ismaēl fīlius Nathāniae fīliī Elisāmā dē sēmine rēgālī et optimātēs **regis** et decem **virī** cum eō ad Godoliam fīlium Ahicam in Masphā; et comēdērunt ibi pānēs simul in Masphā.
 
@@ -4738,7 +4738,7 @@ Et factum **est** ut caperētur Ierusālem.
 
 18 ā faciē Chaldaeōrum; timēbant enim eōs, quia percusserat Ismaēl fīlius Nathāniae Godoliam fīlium Ahicam, quem praeposuerat rēx Babylōnis in regiōne.
 
-42
+## 42
 
 1 Et accessērunt omnēs princī pēs bellātōrum, scīlicet Iohanan fīlius Cāree et Iezoniās fīlius Osāiae et ūniversum vulgus, ā parvō usque ad magnum,
 
@@ -4784,7 +4784,7 @@ Et factum **est** ut caperētur Ierusālem.
 
 22 Nunc ergō scientēs sciētis quia gladiō et famē et peste moriēminī in locō, ad quem voluistis intrāre et ibi peregrīnārī ”.
 
-43
+## 43
 
 1 Factum **est** autem, cum complēsset Iēremīās loquēns ad **populum** ūniversōs sermōnēs Dominī Deī eōrum, prō quibus **miserat** eum Dominus Deus eōrum ad illōs omnia verba haec,
 
@@ -4812,7 +4812,7 @@ Et factum **est** ut caperētur Ierusālem.
 
 13 et conteret statuās **domūs** Solīs, quae sunt in **terrā** Aegyptī, et dēlūbra deōrum Aegyptī combūret ignī ”.
 
-44
+## 44
 
 1 Verbum, quod factum **est** per Iēremīam ad omnēs Iūdaeōs, quī habitābant in **terrā** Aegyptī, habitantēs in Magdolō et in Taphnīs et in Memphī et in **terrā** Phaturēs, dīcēns:
 
@@ -4874,7 +4874,7 @@ Et factum **est** ut caperētur Ierusālem.
 
 30 Haec dīcit Dominus: Ecce ego trādam pharaōnem Ophree, rēgem Aegyptī, in manū inimīcōrum eius et in manū quaerentium animam illīus, sīcut trādidī Sedeciam rēgem Iūdae in manū Nabuchodonosor **rēgis** Babylōnis inimīcī **suī** et **quaerentis** animam eius ”.
 
-45
+## 45
 
 1 Verbum, quod **locūtus** **est** Iēremīās **prophēta** ad Baruch fīlium **Nēriae**, cum scrīberet verba haec in **librō** ex ōre Iēremīae, annō quārtō Ioachim fīliī Iosiae **rēgis** Iūdae, dīcēns:
 
@@ -4886,7 +4886,7 @@ Et factum **est** ut caperētur Ierusālem.
 
 5 et tū quaeris tibi grandia? Nōlī **quaerere**, quia ecce ego addūcam **mālum** super omnem carnem, ait Dominus, et dabō tibi animam tuam quasi spolium in omnibus locīs, ad quaecumque **perrēxerīs** ”.
 
-46
+## 46
 
 1 Quod factum **est** verbum Dominī ad Iēremīam prophētam contrā gentēs.
 
@@ -5076,7 +5076,7 @@ sed castīgābō tē in iūdiciō
 
 nec quasi innocentī parcam tibi ”.
 
-47
+## 47
 
 1 Quod factum **est** verbum Dominī ad Iēremīam prophētam contrā Philisthim, antequam percuteret pharaō Gāzam.
 
@@ -5134,7 +5134,7 @@ et adversus maritimās regiōnēs
 
 ibique condīxerit illī? ”.
 
-48
+## 48
 
 1 Ad Moab.
 
@@ -5404,7 +5404,7 @@ ait Dominus.
 
 Hūcusque iūdicia Moab.
 
-49
+## 49
 
 1 Ad fīliōs Ammōn.
 
@@ -5694,7 +5694,7 @@ convertam sortem Elam ”,
 
 dīcit Dominus.
 
-50
+## 50
 
 1 Verbum, quod **locūtus** **est** Dominus dē Babylōne et dē **terrā** Chaldaeōrum in manū Iēremīae prophētae:
 
@@ -5968,7 +5968,7 @@ et in portentīs īnsāniunt.
 
 46 Ā vōce captīvitātis Babylōnis **commōta** **est** **terra**, et clāmor inter gentēs **audītus** **est**.
 
-51
+## 51
 
 1 Haec dīcit Dominus:
 
@@ -6352,7 +6352,7 @@ et gentēs prō ignī lassātae sunt ”.
 
 Hūcusque verba Iēremīae.
 
-52
+## 52
 
 1 Fīlius vīgintī et ūnīus annī erat Sedecīās, cum rēgnāre coepisset, et ūndecim annīs rēgnāvit in Ierusālem; et **nōmen** mātris eius Amital **fīlia** Iēremīae dē Lobnā.
 

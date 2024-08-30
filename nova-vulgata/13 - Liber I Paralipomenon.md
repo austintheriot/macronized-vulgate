@@ -1,8 +1,8 @@
-**LIBER** PRĪMUS PARALIPOMENON  
+# **LIBER** PRĪMUS PARALIPOMENON
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27) [28](#28) [29](#29)
 
-1 
+## 1
 
 1 Adam, Seth, Enos,
 
@@ -112,7 +112,7 @@
 
 54 dux Magdiēl, dux Īram. Hī **ducēs** Edom.
 
-2
+## 2
 
 1 Fīliī autem Isrāēl: Ruben, Simeon, **Levī**, **Iūda**, Issachar et **Zabulōn**,
 
@@ -226,7 +226,7 @@ Fīliī Hur prīmōgenitī Ephratha: Sobal pater Cariathiarim,
 
 55 cognātiōnēs **quoque** dē Cariathsepher habitantēs in Iabēs: Therathaēī, Semathaēī et Suchathaēī. Hī sunt Cinaēī, quī ortī sunt dē Ammath patre **domūs** Rechab.
 
-3
+## 3
 
 1 Dāvīd vērō hōs habuit fīliōs, quī **eī** **nātī** sunt in **Hebrōn**: prīmōgenitum Amnon ex Achinoam Iezrahelitīde, secundum Daniēl dē Abigail dē Carmel,
 
@@ -276,7 +276,7 @@ Fīliī Hur prīmōgenitī Ephratha: Sobal pater Cariathiarim,
 
 24 Fīliī Elioenāī: Odovia et Eliasib et Phelēia et Accub et Iohanan et Dalāia et Anānī, septem.
 
-4
+## 4
 
 1 Fīliī Iūdae: Phārēs, Esrom et Charmī et Hur et Sobal.
 
@@ -366,7 +366,7 @@ Fīliī Hur prīmōgenitī Ephratha: Sobal pater Cariathiarim,
 
 43 et percussērunt reliquiās, quae **ēvādere** potuerant Amalecītārum, et habitāvērunt ibi prō eīs usque ad diem hanc.
 
-5
+## 5
 
 1 Fīliī **quoque** Ruben prīmōgenitī Isrāēl: ipse quippe fuit prīmōgenitus eius, sed, cum violāsset torum patris **suī**, **data** sunt **prīmōgenita** eius fīliīs Ioseph fīliī Isrāēl, ut nōn computārētur in prīmōgenitum,
 
@@ -450,7 +450,7 @@ Fīliī Hur prīmōgenitī Ephratha: Sobal pater Cariathiarim,
 
 41 porrō Iosedec **ēgressus** **est**, quandō trānstulit Dominus Iūdam et Ierusālem per **manūs** Nabuchodonosor.
 
-6
+## 6
 
 1 Fīliī ergō **Levī**: Gerson, Caath et Merārī.
 
@@ -586,7 +586,7 @@ Hae autem cognātiōnēs **Levī** secundum familiās eōrum:
 
 66 sed et Hesebōn cum suburbānīs eius, et Iazer cum suburbānīs **suīs**.
 
-7
+## 7
 
 1 Porrō fīliī Issachar: Thola et Phua, Iasub et Semrōn, quattuor.
 
@@ -668,7 +668,7 @@ Hae autem cognātiōnēs **Levī** secundum familiās eōrum:
 
 40 Omnēs hī fīliī Aser, prīncipēs familiārum ēlēctī atque fortissimī, **capita** prīncipum; numerus autem eōrum, quī īnscrīptī erant in **exercitū** ad bellum, vīgintī sex **mīlia**.
 
-8
+## 8
 
 1 Beniamin autem genuit Bēla prīmōgenitum suum, Asbel secundum, Ahara tertium,
 
@@ -750,7 +750,7 @@ Hae autem cognātiōnēs **Levī** secundum familiās eōrum:
 
 40 Fuēruntque fīliī Ulam **virī** rōbustissimī ad bellum et magnō rōbore tendentēs arcum et multōs habentēs fīliōs ac nepōtēs usque ad centum quīnquāgintā. Omnēs hī fīliī Beniamin.
 
-9
+## 9
 
 1 Ūniversus ergō Isrāēl dīnumerātus **est**, et **summa** eōrum **scrīpta** **est** in **librō** rēgum Isrāēl et Iūdae. Trānslātīque sunt in Babylōnem propter dēlictum suum.
 
@@ -840,7 +840,7 @@ Hae autem cognātiōnēs **Levī** secundum familiās eōrum:
 
 44 Porrō Asēl sex fīliōs habuit hīs nōminibus: Ezricam prīmōgenitus eius, Ismaēl, Sāria, Azariās, Obdia, Hanan; hī fīliī Asel.
 
-10
+## 10
 
 1 Philisthim autem pugnābant contrā Isrāēl, fūgēruntque **virī** Isrāēl ā faciē Philisthim et **cecidērunt** vulnerātī in monte Gelboē;
 
@@ -870,7 +870,7 @@ Hae autem cognātiōnēs **Levī** secundum familiās eōrum:
 
 14 nec quaesierit Dominum; propter quod et interfēcit eum et trānstulit rēgnum eius ad Dāvīd fīlium Isāī.
 
-11
+## 11
 
 1 **Congregātus** **est** igitur **omnis** Isrāēl ad Dāvīd in **Hebrōn** dīcēns: “ **Os** tuum sumus et **carō** **tua**.
 
@@ -966,7 +966,7 @@ Hae autem cognātiōnēs **Levī** secundum familiās eōrum:
 
 47 Eliel et Obed et Iasiel dē Sobā.
 
-12
+## 12
 
 1 Hī **quoque** vēnērunt ad Dāvīd in Siceleg, cum adhūc fugeret Saūl fīlium Cīs; quī erant fortissimī et ēgregiī pugnātōrēs
 
@@ -1062,7 +1062,7 @@ Suscēpit ergō eōs Dāvīd et cōnstituit prīncipēs turmae.
 
 41 Sed et quī iuxtā eōs erant, usque ad Issachar et **Zabulōn** et Nephthālī, afferēbant pānēs in asinīs et camēlīs et mūlīs et bōbus, ēscam farīnae, palathās, ūvam passam, vīnum, oleum, bovēs, ovēs ad omnem cōpiam; gaudium quippe erat in Isrāēl.
 
-13
+## 13
 
 1 Iniit autem cōnsilium Dāvīd cum tribūnīs et centuriōnibus et ūniversīs prīncipibus
 
@@ -1092,7 +1092,7 @@ Suscēpit ergō eōs Dāvīd et cōnstituit prīncipēs turmae.
 
 14 Mānsit ergō **arca** Deī apud domum Obededom **tribus** mēnsibus; et benedīxit Dominus domuī eius et omnibus quae habēbat.
 
-14
+## 14
 
 1 Mīsit **quoque** Hīram rēx Tyrī nūntiōs ad Dāvīd et ligna **cedrina** et artificēs parietum lignōrumque, ut aedificārent **eī** domum.
 
@@ -1128,7 +1128,7 @@ Suscēpit ergō eōs Dāvīd et cōnstituit prīncipēs turmae.
 
 17 Dīvulgātumque **est** **nōmen** Dāvīd in ūniversīs regiōnibus, et Dominus **dedit** pavōrem eius super omnēs gentēs.
 
-15
+## 15
 
 1 Fēcit **quoque** sibi domōs in cīvitāte Dāvīd et praeparāvit locum arcae Deī tetenditque **eī** tabernāculum.
 
@@ -1188,7 +1188,7 @@ Suscēpit ergō eōs Dāvīd et cōnstituit prīncipēs turmae.
 
 29 Cumque pervēnisset **arca** **foederis** Dominī usque ad cīvitātem Dāvīd, Michol **fīliā** Saūl prōspiciēns per fenestram vīdit rēgem Dāvīd saltantem atque lūdentem et dēspexit eum in **corde** suō.
 
-16
+## 16
 
 1 Attulērunt igitur arcam Deī et cōnstituērunt eam in **mediō** tabernāculī, quod tetenderat **eī** Dāvīd, et obtulērunt holocausta et **pācifica** **cōram** Deō.
 
@@ -1338,7 +1338,7 @@ Et dīxit **omnis** **populus**: “ Āmēn! ” et “ Laus Dominō! ”.
 
 43 Reversusque **est** **omnis** **populus** ūnusquisque in domum suam et Dāvīd, ut benedīceret etiam domuī suae.
 
-17
+## 17
 
 1 Cum autem habitāret Dāvīd in domō **suā**, dīxit ad Nathan prophētam: “ Ecce ego habitō in domō **cedrinā**, **arcā** autem **foederis** Dominī sub pellibus **est** ”.
 
@@ -1394,7 +1394,7 @@ Et dīxit **omnis** **populus**: “ Āmēn! ” et “ Laus Dominō! ”.
 
 27 et coepistī **benedīcere** domuī servī tuī, ut sit semper **cōram** tē: tē enim, Domine, benedīcente, **benedicta** erit in perpetuum ”.
 
-18
+## 18
 
 1 Factum **est** autem post haec, ut percuteret Dāvīd Philisthim et humiliāret eōs et tolleret Geth et fīliās eius dē manū Philisthim
 
@@ -1430,7 +1430,7 @@ Et dīxit **omnis** **populus**: “ Āmēn! ” et “ Laus Dominō! ”.
 
 17 Banaiās vērō fīlius Ioiadae super legiōnēs Cherethī et Phelethī; porrō fīliī Dāvīd prīmī ad **manum** **rēgis**.
 
-19
+## 19
 
 1 **Accidit** autem post haec, ut morerētur Naās rēx fīliōrum Ammōn, et rēgnāret fīlius eius prō eō.
 
@@ -1470,7 +1470,7 @@ Et dīxit **omnis** **populus**: “ Āmēn! ” et “ Laus Dominō! ”.
 
 19 Videntēs autem servī Adadezer sē ab Isrāēl **esse** superātōs, fēcērunt pācem cum Dāvīd et serviērunt **eī**; nōluitque **ultrā** **Syria** auxilium praebēre fīliīs Ammōn.
 
-20
+## 20
 
 1 Factum **est** autem post annī circulum, eō tempore, quō **solent** **rēgēs** ad **bella** **prōcēdere**, ēdūxit Ioab rōbur **exercitūs** et vastāvit terram fīliōrum Ammōn; perrēxitque et obsēdit Rabba. Porrō Dāvīd manēbat in Ierusālem, quandō Ioab percussit Rabba et dēstrūxit eam.
 
@@ -1486,7 +1486,7 @@ Et dīxit **omnis** **populus**: “ Āmēn! ” et “ Laus Dominō! ”.
 
 7 **hic** blasphēmāvit Isrāēl, et percussit eum **Ionathān** fīlius Samma frātris Dāvīd. Hī sunt fīliī Rapha in Geth, quī **cecidērunt** in manū Dāvīd et servōrum eius.
 
-21
+## 21
 
 1 Cōnsurrēxit autem **Satān** contrā Isrāēl et incitāvit Dāvīd, ut numerāret Isrāēl.
 
@@ -1550,7 +1550,7 @@ Porrō angelus Dominī stābat iuxtā āream **Ōrnān** Iebusaēī.
 
 30 et nōn praevaluit Dāvīd īre, ut ibi obsecrāret Deum; nimiō enim fuerat timōre perterritus vidēns gladium angelī Dominī.
 
-22
+## 22
 
 1 Dīxitque Dāvīd: “ Haec **est** **domus** Dominī Deī, et **hoc** **est** altāre holocaustī prō Isrāēl ”.
 
@@ -1590,7 +1590,7 @@ Porrō angelus Dominī stābat iuxtā āream **Ōrnān** Iebusaēī.
 
 19 Praebēte igitur **corda** **vestra** et animās vestrās, ut quaerātis Dominum Deum vestrum; et cōnsurgite et **aedificāte** sānctuārium Dominī Deī, ut intrōdūcātur **arca** **foederis** Dominī et vāsa Deō **cōnsecrāta** in domum, quae aedificātur nōminī Dominī ”.
 
-23
+## 23
 
 1 Igitur Dāvīd senex et plēnus diērum rēgem cōnstituit Salomōnem fīlium suum super Isrāēl
 
@@ -1656,7 +1656,7 @@ Porrō angelus Dominī stābat iuxtā āream **Ōrnān** Iebusaēī.
 
 32 Et cūstōdiant observātiōnēs tabernāculī **conventūs** et rītum sānctuāriī et observātiōnem fīliōrum Aarōn frātrum suōrum, ut ministrent in domō Dominī ”.
 
-24
+## 24
 
 1 Porrō fīliīs Aarōn hae partiōnēs erant.
 
@@ -1724,7 +1724,7 @@ Istī fīliī **Levī** secundum familiās suās.
 
 31 Ipsī **quoque** mīsērunt sortēs sīcut frātrēs **suī**, fīliī Aarōn **cōram** Dāvīd **rēge** et Sadoc et Achimelech et prīncipibus familiārum sacerdōtālium et lēvīticārum tam maiōrēs quam minōrēs; omnēs sors aequāliter dīvidēbat.
 
-25
+## 25
 
 1 Igitur Dāvīd et **magistrātūs** **exercitūs** sēgregāvērunt in ministerium fīliōs Asaph et Heman et Idithun, quī prophetārent in citharīs et psaltēriīs et cymbalīs, secundum numerum suum dēdicātō sibi officiō servientēs.
 
@@ -1788,7 +1788,7 @@ Istī fīliī **Levī** secundum familiās suās.
 
 31 **Vīcēsima** **quārta** Romemthiezer, fīliīs et frātribus eius, duodecim.
 
-26
+## 26
 
 1 Dīvīsiōnēs autem iānitōrum.
 
@@ -1856,7 +1856,7 @@ Dē Coritis: Meselemia fīlius **Corē** dē fīliīs Abiasaph.
 
 32 frātrēsque eius **virī** strēnuī duo **mīlia** septingentī prīncipēs familiārum; praeposuit autem eōs Dāvīd rēx Rubenitis et Gadditis et dīmidiō **tribūs** Mānāsse in omne ministerium Deī et **rēgis**.
 
-27
+## 27
 
 1 Fīliī autem Isrāēl secundum numerum suum, prīncipēs familiārum, tribūnī et centuriōnēs et praefectī, quī ministrābant **rēgī** iuxtā turmās suās ingredientēs et ēgredientēs per singulōs mēnsēs in annō, **ūnā**quaeque **turmā** vīgintī quattuor **mīlia**.
 
@@ -1922,7 +1922,7 @@ Dē Coritis: Meselemia fīlius **Corē** dē fīliīs Abiasaph.
 
 34 post Achitophel fuit Ioiada fīlius Banāiae et Abiathar. Prīnceps autem **exercitus** **rēgis** erat Ioab.
 
-28
+## 28
 
 1 Convocāvit igitur Dāvīd omnēs prīncipēs Isrāēl, **ducēs** tribuum et praepositōs turmārum, quī ministrābant **rēgī**, tribūnōs **quoque** et centuriōnēs et, quī praeerant substantiae et gregibus **rēgis** fīliōrumque suōrum, cum eunūchīs et fortibus et rōbustissimīs quibusque in **exercitū** Ierusālem.
 
@@ -1966,7 +1966,7 @@ Dē Coritis: Meselemia fīlius **Corē** dē fīliīs Abiasaph.
 
 21 Ecce dīvīsiōnēs sacerdōtum et Lēvītārum: parātī erunt in omne ministerium **domūs** Deī; et assistet tibi in omnī opere quisquis in **sapientiā** ad omne ministerium **prōmptus** fuerit, prīncipēs **quoque** et ūniversus **populus** in negōtiīs tuīs ”.
 
-29
+## 29
 
 1 **Locūtus**que **est** Dāvīd rēx ad omnem ecclēsiam: “ Salomōnem fīlium meum ūnum ēlēgit Deus adhūc puerum et tenellum; opus autem grande **est**: neque enim hominī praeparātur habitātiō sed Dominō Deō.
 

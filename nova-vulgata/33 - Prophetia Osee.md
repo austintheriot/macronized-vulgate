@@ -1,8 +1,8 @@
-**PROPHĒTĪA** OSEĒ 
+# **PROPHĒTĪA** OSEĒ
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14)
 
-1  
+## 1
 
 1 Verbum Dominī, quod factum **est** ad Osee fīlium Beērī in diēbus Oziae, Ioatham, Achaz, Ezechiae rēgum Iūdae, et in diēbus Ieroboam fīliī Ioās **rēgis** Isrāēl.
 
@@ -14,21 +14,21 @@ et fīliōs fornicātiōnum,
 
 quia fornicāns fornicātur **terra** ā Dominō ”.
 
-3 Et abiit et accēpit Gomer fīliam Debelaim, quae concēpit et peperit **eī** fīlium. 
+3 Et abiit et accēpit Gomer fīliam Debelaim, quae concēpit et peperit **eī** fīlium.
 
-4 Et dīxit Dominus ad eum: “ Vocā **nōmen** eius 'Iezrahēl', quoniam adhūc modicum et vīsitābō sanguinem Iezrahel super domum Iehu et cessāre faciam rēgnum **domūs** Isrāēl; 
+4 Et dīxit Dominus ad eum: “ Vocā **nōmen** eius 'Iezrahēl', quoniam adhūc modicum et vīsitābō sanguinem Iezrahel super domum Iehu et cessāre faciam rēgnum **domūs** Isrāēl;
 
 5 et in **illā** **diē** conteram arcum Isrāēl in **valle** Iezrahel ”.
 
-6 Et concēpit adhūc et peperit fīliam; et dīxit **eī**: “ Vocā **nōmen** eius “Absque **misericordiā**”, quia nōn addam **ultrā** miserērī domuī Isrāēl, ut ignōscam eīs. 
+6 Et concēpit adhūc et peperit fīliam; et dīxit **eī**: “ Vocā **nōmen** eius “Absque **misericordiā**”, quia nōn addam **ultrā** miserērī domuī Isrāēl, ut ignōscam eīs.
 
-7 Et domuī Iūdae miserēbor et salvābō eōs in Dominō Deō suō et nōn salvābō eōs in arcū et gladiō et in bellō et in equīs et in equitibus ”. 
+7 Et domuī Iūdae miserēbor et salvābō eōs in Dominō Deō suō et nōn salvābō eōs in arcū et gladiō et in bellō et in equīs et in equitibus ”.
 
-8 Et ablactāvit eam, quae erat 'Absque **misericordiā**', et concēpit et peperit fīlium. 
+8 Et ablactāvit eam, quae erat 'Absque **misericordiā**', et concēpit et peperit fīlium.
 
 9 Et dīxit: “ Vocā **nōmen** eius 'Nōn **populus** meus', quia vōs nōn **populus** meus, et ego 'Nōn sum' vōbīs.
 
-2  
+## 2
 
 1 Et erit numerus fīliōrum Isrāēl
 
@@ -234,19 +234,19 @@ et miserēbor eius, quae fuit “Absque **misericordiā**”;
 
 et ipse **dīcet**: “Deus meus **es** tū” ”.
 
-3  
+## 3
 
 1 Et dīxit Dominus ad mē: “ Adhūc **vāde**, dīlige mulierem dīlēctam amīcō et adulteram, sīcut dīligit Dominus fīliōs Isrāēl, et ipsī respectant ad deōs aliēnōs et dīligunt placentās ūvārum ”.
 
-2 Et **ēmī** eam mihi quīndecim argenteīs et chorō **hordēī** et dīmidiō chorō **hordeī**. 
+2 Et **ēmī** eam mihi quīndecim argenteīs et chorō **hordēī** et dīmidiō chorō **hordeī**.
 
-3 Et dīxī ad eam: “ Diēs multōs exspectābis mē; nōn fornicāberis et nōn **eris** **virō**, neque ībō ego ad tē ”. 
+3 Et dīxī ad eam: “ Diēs multōs exspectābis mē; nōn fornicāberis et nōn **eris** **virō**, neque ībō ego ad tē ”.
 
-4 Quia diēs multōs sedēbunt fīliī Isrāēl **sine** **rēge** et **sine** prīncipe et **sine** sacrificiō et **sine** lapide et **sine** ephod et **sine** theraphim. 
+4 Quia diēs multōs sedēbunt fīliī Isrāēl **sine** **rēge** et **sine** prīncipe et **sine** sacrificiō et **sine** lapide et **sine** ephod et **sine** theraphim.
 
 5 Et post haec revertentur fīliī Isrāēl et quaerent Dominum Deum suum et Dāvīd rēgem suum et pavēbunt ad Dominum et ad bonum eius in fīne diērum.
 
-4  
+## 4
 
 1 “ **Audīte** verbum Dominī,
 
@@ -390,7 +390,7 @@ ignōminiam impudīcitiae.
 
 et cōnfundentur ā sacrificiīs **suīs**.
 
-5  
+## 5
 
 1 **Audīte** **hoc**, sacerdōtēs,
 
@@ -502,7 +502,7 @@ et quaerant faciem meam,
 
 in trībulātiōne **suā** mē **dēsidērent**.
 
-6  
+## 6
 
 1 “Venīte, et revertāmur ad Dominum,
 
@@ -570,7 +570,7 @@ contāminātus **est** Isrāēl.
 
 cum converterō sortem **populī** meī.
 
-7  
+## 7
 
 1 Cum sānāre vellem Isrāēl,
 
@@ -684,7 +684,7 @@ cadent in gladiō prīncipēs eōrum
 
 propter execrātiōnem linguae suae: **ista** subsannātiō eōrum in **terrā** Aegyptī.
 
-8  
+## 8
 
 1 In gutture tuō sit **tubā**!
 
@@ -786,7 +786,7 @@ Et mittam ignem in cīvitātēs eius,
 
 et dēvorābit aedēs illīus.
 
-9  
+## 9
 
 1 Nōlī laetārī, Isrāēl;
 
@@ -926,7 +926,7 @@ quia nōn audiērunt eum;
 
 et erunt **vagī** in nātiōnibus.
 
-10  
+## 10
 
 1 **Vītīs** **frondōsa** Isrāēl,
 
@@ -1060,7 +1060,7 @@ propter maximam nēquitiam vestram.
 
 **Manē** interībit rēx Isrāēl.
 
-11  
+## 11
 
 1 Cum puer **esset** Isrāēl, dīlēxī eum
 
@@ -1144,7 +1144,7 @@ et collocābō eōs in domibus **suīs**,
 
 dīcit Dominus.
 
-12  
+## 12
 
 1 **Circumdedit** mē in fraude Ephraim,
 
@@ -1246,7 +1246,7 @@ sed sanguinem eius super eum relinquet
 
 et opprobrium eius retribuet **eī** Dominus suus.
 
-13  
+## 13
 
 1 Loquente Ephraim, horror **factus** **est**;
 
@@ -1358,7 +1358,7 @@ Ipse dīripiet thēsaurum,
 
 omne **vās** dēsīderābile.
 
-14  
+## 14
 
 1 Poenās solvet **Samarīa**,
 

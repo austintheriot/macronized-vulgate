@@ -1,8 +1,8 @@
-LIBER RUTH
+# LIBER RUTH
 
-1 2 3 4
+[1](#1) [2](#2) [3](#3) [4](#4)
 
-1
+## 1
 
 1 In diēbus, quandō iūdicēs praeerant, **facta** **est** famēs in **terrā**. Abiitque homō dē Bethlehem Iūdae, ut peregrīnārētur in regiōne Moabitidē cum uxōre **suā** ac duōbus **līberīs**.
 
@@ -48,7 +48,7 @@ LIBER RUTH
 
 22 **Venit** ergō Noēmī cum Ruth Moabitide nurū **suā** dē **terrā** peregrīnātiōnis suae ac reversā **est** in Bethlehem, quandō hordea **metere** incipiēbant.
 
-2
+## 2
 
 1 Erat autem Noēmī consanguī neus **virī** **suī** homō potēns et **fortis** nōmine Booz.
 
@@ -96,7 +96,7 @@ LIBER RUTH
 
 23 **Iūncta** **est** itaque puellīs Booz usque ad fīnem **messis** **hordeī** et trīticī; et mānsit cum socrū **suā**.
 
-3
+## 3
 
 1 Et dīxit ad eam Noemī **socrūs** **sua**: “ **Fīlia** **mea**, quaeram tibi requiem et prōvidēbō, ut **bene** sit tibi.
 
@@ -134,7 +134,7 @@ LIBER RUTH
 
 18 Dīxitque Noemī: “ Exspectā, **fīlia**, dōnec videāmus quem rēs exitum habeat; neque enim cessābit homō, **nisi** complēverit hodiē, quod **locūtus** **est** ”.
 
-4
+## 4
 
 1 Ascendit ergō Booz ad portam et sēdit ibi. Cumque vīdisset propinquum praeterīre, dē quō **locūtus** erat, dīxit ad eum: “ Dēclīnā paulisper et **sēde** **hic** ”, vocāns eum nōmine suō. Quī dīvertit et sēdit.
 

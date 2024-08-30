@@ -1,8 +1,8 @@
-LIBER IOSUE 
+# LIBER IOSUE
 
-1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24)
 
-1
+## 1
 
 1 Et factum **est**, ut post mortem Moȳsī servī Dominī loquerētur Dominus ad **Iōs**ue fīlium Nun ministrum Moȳsī et dīceret **eī**:
 
@@ -40,7 +40,7 @@ LIBER IOSUE
 
 18 Quīcumque contrādīxerit **ōrī** tuō et nōn oboedierit cūnctīs sermōnibus, quōs **praecēperīs** **eī**, moriātur; tū tantum cōnfortāre et virīliter age ”.
 
-2
+## 2
 
 1 Mīsit ergō **Iōs**ue fīlius Nun dē Settim duōs virōs explōrātōrēs in absconditō et dīxit eīs; “**Īte** et **cōnsīderāte** terram urbemque Ierichō ”. Quī pergentēs ingressī sunt domum mulieris meretrīcis nōmine Rahab et quiēvērunt ibi.
 
@@ -90,7 +90,7 @@ LIBER IOSUE
 
 24 atque dīxērunt: “ Trādidit Dominus in **manūs** nostrās omnem terram, et timōre prōstrātī sunt cūnctī habitātōrēs eius in cōnspectū nostrō ”.
 
-3
+## 3
 
 1 Igitur **Ios**ue dē nocte cōnsurgēns mōvit **castra**. Ēgredientēs que dē Settim vēnērunt ad Iordānem, ipse et omnēs fīliī Isrāēl; et **morātī** sunt ibi, antequam trānsīrent.
 
@@ -126,7 +126,7 @@ LIBER IOSUE
 
 17 **Populus** autem incēdēbat contrā Ierichō, et sacerdōtēs, quī portābant arcam **foederis** Dominī, stābant super siccam humum in **mediō** **Iordānis** firmiter, dōnec **omnis** Isrāēl complēret per ārentem alveum trānsitum **Iordānis**.
 
-4
+## 4
 
 1 Quibus trānsgressīs, dīxit Dominus ad **Iōs**ue:
 
@@ -178,7 +178,7 @@ LIBER IOSUE
 
 25 ut cognōscant omnēs terrārum **populī** fortissimam Dominī **manum**, et ut vōs timeātis Dominum Deum vestrum omnī tempore ”.
 
-5
+## 5
 
 1 Postquam ergō audiērunt omnēs **rēgēs** Amorraēōrum, quī habitābant trāns Iordānem ad occidentālem **plāgam**, et cūnctī **rēgēs** Chanaan, quī **propinquā** **possidēbant** Magnō marī **loca**, quod siccāsset Dominus **fluenta** **Iordānis** **cōram** fīliīs Isrāēl, dōnec trānsīrent, dissolūtum **est** cor eōrum, et nōn remānsit in eīs **spīritūs** **cōram** fīliīs Isrāēl.
 
@@ -212,7 +212,7 @@ LIBER IOSUE
 
 16 Et dīxit prīnceps **exercitūs** Dominī ad **Ios**ue: “ Solve calceāmentum dē pedibus tuīs; locus enim, in quō stās, sānctus **est** ”. Fēcitque **Ios**ue, ut sibi fuerat imperātum.
 
-6
+## 6
 
 1 Ierichō autem erat **mūnīta** et **clausa** **cōram** fīliīs Isrāēl, et nūllus ēgredī audēbat aut ingredī.
 
@@ -270,7 +270,7 @@ In tempore illō imprecātus **est** **Ios**ue dīcēns:
 
 27 Fuit ergō Dominus cum **Ios**ue, et **nōmen** eius in omnī **terrā** vulgātum **est**.
 
-7
+## 7
 
 1 Fīliī autem Isrāēl praevāricātī sunt mandātum et ūsūrpāvērunt dē **anathēmate**: nam Achan fīlius Charmī fīliī Zabdī fīliī Zarae dē tribū Iūdae tulit aliquid dē **anathēmate**. Īrātusque **est** Dominus contrā fīliōs Isrāēl.
 
@@ -324,7 +324,7 @@ In tempore illō imprecātus **est** **Ios**ue dīcēns:
 
 26 Congregāvērunt **quoque** super eum acervum magnum lapidum, quī **permanet** usque in praesentem diem. Et āversus **est** **furor** Dominī ab eīs; vocātumque **est** **nōmen** locī illīus **vallis** Achor usque hodiē.
 
-8
+## 8
 
 1 Dīxit autem Dominus ad **Iōs**ue: “ Nē timeās neque formīdēs; tolle tēcum omnem multitūdinem pugnātōrum et cōnsurgēns ascende in oppidum Hāī: ecce trādidī in manū **tuā** rēgem eius et **populum** urbemque et terram eius.
 
@@ -396,7 +396,7 @@ In tempore illō imprecātus **est** **Ios**ue dīcēns:
 
 35 Nihil ex hīs, quae Moysēs iusserat, omīsit **legere**, sed **ūniversa** replicāvit **cōram** omnī congregātiōne Isrāēl, mulieribus ac parvulīs et advenīs, quī inter eōs **morābantur**.
 
-9
+## 9
 
 1 Quibus **audītis**, cūnctī **rēgēs**, quī trāns Iordānem versābantur in montānīs et in Sephēla, in omnī lītore **maris** Magnī, hī **quoque**, quī habitābant usque ad **Libanum**, Hetthaeus et Amorraeus, Chananaeus, Pherezaeus et Hevaeus et Iebusaeus
 
@@ -454,7 +454,7 @@ Quibus haec loquentibus,
 
 27 Dēcrēvitque in illō **diē** **esse** eōs in ministerium cūnctī **populī** et **altāris** Dominī caedentēs ligna et aquās comportantēs usque in praesēns tempus prō locō, quem Dominus ēlēgisset.
 
-10
+## 10
 
 1 Quae cum audīsset Adonisedec rēx Ierusālem, quod scīlicet cēpisset **Ios**ue Hāī et subvertisset eam — sīcut enim fēcerat Ierichō et **rēgī** eius, sīc fēcit Hāī et **rēgī** illīus — et quod pācem fēcissent Gabaōnītae cum Isrāēl et **essent** in **mediō** eōrum,
 
@@ -550,7 +550,7 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 43 Reversusque **est** **Ios**ue cum omnī Isrāēl ad locum castrōrum in Galgala.
 
-11
+## 11
 
 1 Quae cum audīsset Iabin rēx Āsor, mīsit ad Iobab rēgem Madon et ad regern Semeron atque ad rēgem Achsaph,
 
@@ -598,7 +598,7 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 23 Cēpit ergō **Ios**ue omnem terram, sīcut **locūtus** **est** Dominus ad Moysēn, et trādidit eam in possessiōnem fīliīs Isrāēl secundum partēs et **tribūs** suās; quiēvitque **terra** ā proeliīs.
 
-12
+## 12
 
 1 Hī sunt **rēgēs**, quōs percussērunt fīliī Isrāēl et possēdērunt terram eōrum trāns Iordānem ad **sōlis** ortum, ā torrente **Arnōn** usque ad montem **Hermōn** et omnem orientālem **plāgam** Arabae.
 
@@ -648,7 +648,7 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 24 rēx Thersa ūnus: omnēs **rēgēs** trīgintā ūnus.
 
-13
+## 13
 
 1 **Ios**ue senex prōvectaeque aetātis erat, et dīxit Dominus ad eum: “ Senuistī et longaevus **es**; **terra**que **lātissima** adhūc superest, quae necdum **occupāta** **est**.
 
@@ -716,7 +716,7 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 33 Tribuī autem **Levī** nōn **dedit** possessiōnem, quoniam Dominus, Deus Isrāēl, ipse **est** possessiō eius, ut **locūtus** **est** illī.
 
-14
+## 14
 
 1 **Hoc** **est**, quod hērēditāvērunt fīliī Isrāēl in **terrā** Chanaan, quod dedērunt eīs Eleazar sacerdōs et **Ios**ue fīlius Nun et prīncipēs familiārum tribuum Isrāēl,
 
@@ -748,7 +748,7 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 15 **Nōmen** **Hebrōn** anteā vocābātur Cariatharbē (id **est** cīvitās Arbe), hominis maximī inter Enacim. Et **terra** cessāvit ā proeliīs.
 
-15
+## 15
 
 1 Sors **tribus** fīliōrum Iūdae per cognātiōnēs suās **ista** fuit: usque ad terminum Edom, ad dēsertum Sīn contrā Nageb, usque ad extrēmam partem **austrālis** **plāgae**.
 
@@ -864,7 +864,7 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 51 Hae sunt possessiōnēs, quās sorte dīvīsērunt Eleazar sacerdōs et **Ios**ue fīlius Nun et prīncipēs familiārum tribuum fīliōrum Isrāēl in Sīlō **cōram** Dominō ad ōstium tabernāculī **conventūs**; complēvēruntque partīrī terram.
 
-20
+## 20
 
 1 Et **locūtus** **est** Dominus ad **Iōs**ue dīcēns: “ **Loquēre** fīliīs Isrāēl et dīc eīs:
 
@@ -884,7 +884,7 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 9 Hae cīvitātēs cōnstitūtae sunt cūnctīs fīliīs Isrāēl et advenīs, quī habitant inter eōs, ut fugeret ad eās, quī animam nescius percussisset et nōn morerētur in manū proximī **effūsum** sanguinem vindicāre **cupientīs**, dōnec stāret ante **populum** expositūrus causam suam.
 
-21
+## 21
 
 1 Accessēruntque prīncipēs familiārum **Levī** ad Eleazārum sacerdōtem et **Ios**ue fīlium Nun et ad **ducēs** cognātiōnum per singulās **tribūs** fīliōrum Isrāēl
 
@@ -976,7 +976,7 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 45 Nē ūnum quidem verbum bonum, quod **locūtus** **est** ad domum Isrāēl, irritum fuit, sed rēbus **explēta** sunt omnia.
 
-22
+## 22
 
 1 Tunc vocāvit **Iōs**ue Rubenītās et Gadītās et dīmidiam tribum Mānāsse
 
@@ -1046,7 +1046,7 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 34 Vocāvēruntque fīliī Ruben et fīliī Gad altāre, quod exstrūxerant, Testem; dīxērunt enim: “ **Testīs** **est** inter nōs quod Dominus ipse sit Deus ”.
 
-23
+## 23
 
 1 Ēvolūtō autem multō tempore, postquam pācem Dominus dederat Israēlī ab omnibus in gȳrō nātiōnibus et **Ios**ue iam longaevō et **persenīlis** aetātis,
 
@@ -1080,7 +1080,7 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 16 Sī **praeterieritis** **pactum** Dominī Deī vestrī, quod mandāvit vōbīs, et **servieritis** dīīs aliēnīs et **adōrāverītis** eōs, cōnsurget in vōs **furor** Dominī, et **cito** perībitis ab hāc **terrā** **optimā**, quam trādidit vōbīs ”.
 
-24
+## 24
 
 1 Congregāvitque **Ios**ue omnēs **tribus** Isrāēl in Sichem et vocāvit maiōrēs nātū ac prīncipēs et iūdicēs et praefectōs, stetēruntque in cōnspectū Deī;
 

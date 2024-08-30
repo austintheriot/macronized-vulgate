@@ -1,8 +1,8 @@
-**PROPHĒTĪA** MICHAEAE
+# **PROPHĒTĪA** MICHAEAE
 
-1 2 3 4 5 6 7
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7)
 
-1  
+## 1
 
 1 Verbum Dominī, quod factum **est** ad Michaeam Morasthitēn in diēbus Ioatham, Achaz, Ezechiae rēgum Iūdae, quod vīdit super Samarīam et Ierusālem.
 
@@ -126,7 +126,7 @@ super fīliōs dēliciārum tuārum;
 
 dīlātā calvitium tuum sīcut **aquila**, quoniam captīvī ductī sunt ex tē.
 
-2  
+## 2
 
 1 Vae, quī cōgitant inīquitātem
 
@@ -244,7 +244,7 @@ Et trānsībit rēx eōrum **cōram** eīs,
 
 et Dominus in **capite** eōrum.
 
-3  
+## 3
 
 1 Et dīxī:
 
@@ -346,7 +346,7 @@ et Ierusālem quasi acervus lapidum erit,
 
 et mōns templī in **excelsa** silvārum.
 
-4  
+## 4
 
 1 Et erit in novissimīs diēbus:
 
@@ -486,7 +486,7 @@ in **virgā** percutiunt
 
 māxillam iūdicis Isrāēl.
 
-5  
+## 5
 
 1 Sed tū, Bethlehem Ephratha,
 
@@ -544,7 +544,7 @@ et quasi imbrēs super herbam,
 
 quae nōn exspectat **virum**
 
-et nōn praestōlātur fīliōs hōmī num. 
+et nōn praestōlātur fīliōs hōmī num.
 
 7 Et erunt reliquiae Iācōb in gentibus,
 
@@ -598,7 +598,7 @@ in omnibus gentibus,
 
 quae nōn audiērunt ”.
 
-6  
+## 6
 
 1 **Audīte**, quae Dominus loquitur:
 
@@ -692,7 +692,7 @@ et sordēs tuae in **mediō** tuī.
 
 Tū removēbis et nōn salvābis;
 
-et, quōs **salvāverīs**, in gladium dabō. 
+et, quōs **salvāverīs**, in gladium dabō.
 
 15 Tū sēminābis et nōn **mētēs**,
 
@@ -712,7 +712,7 @@ et habitantēs tuōs in sībilum:
 
 et opprobrium **populōrum** portābitis ”.
 
-7  
+## 7
 
 1 Vae mihi, quia factum **est** mihi
 

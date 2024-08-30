@@ -1,8 +1,8 @@
-**LIBER** ESDRAE  
+# **LIBER** ESDRAE
 
-1 2 3 4 5 6 7 8 9 10
+[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10)
 
-1 
+## 1
 
 1 In annō prīmō Cȳrī **rēgis** Persārum, ut complērētur verbum Dominī ex ōre Iēremīae, suscitāvit Dominus spīritum Cȳrī **rēgis** Persārum, quī ēmīsit ēdictum in omnī rēgnō suō etiam per scrīptūram dīcēns:
 
@@ -24,7 +24,7 @@
 
 10 scyphī **quoque** argenteī quadringentī decem, vāsa **alia** **plūrima**; 11 omnia vāsa **aurea** et **argentea** quīnque **milia** **quadringenta**. **Ūniversa** tulit Sasabassar cum hīs, quī ascendēbant dē trānsmigrātiōne Babylōnis in Ierusālem.
 
-2
+## 2
 
 1 Hī sunt autem prōvinciae fīliī, quī ascendērunt dē captīvitāte migrantium, quōs trānstulerat Nabuchodonosor rēx Babylōnis in Babylōnem, et reversī sunt in Ierusālem et Iūdam, ūnusquisque in cīvitātem suam.
 
@@ -166,7 +166,7 @@ Numerus **virōrum** **populī** Isrāēl:
 
 70 Habitāvērunt ergō ibi sacerdōtēs et Lēvītae et quīdam dē **populō**; cantōrēs autem et iānitōrēs et oblātī in urbibus **suīs**, ūniversusque Isrāēl in cīvitātibus **suīs**.
 
-3
+## 3
 
 1 Iamque vēnerat **mēnsis** septimus, et erant fīliī Isrāēl in cīvitātibus **suīs**. **Congregātus** **est** ergō **populus** quasi vir ūnus in Ierusālem.
 
@@ -194,7 +194,7 @@ Numerus **virōrum** **populī** Isrāēl:
 
 13 Nec poterat quisquam **agnōscere** **vōcem** clāmōris laetantium et **vōcem** **flētūs** **populī**, quoniam **populus** vōciferābātur clāmōre magnō, et **strepitus** audiēbātur procul.
 
-4
+## 4
 
 1 Audiērunt autem hostēs Iūdae et Beniamin, quia fīliī captīvitātis aedificārent templum Dominō, Deō Isrāēl,
 
@@ -246,7 +246,7 @@ Numerus **virōrum** **populī** Isrāēl:
 
 24 Tunc intermissum **est** opus **domūs** Dominī in Ierusālem et nōn fīēbat usque ad annum secundum rēgnī **Dārīī** **rēgis** Persārum.
 
-5
+## 5
 
 1 Prophētae autem Aggaeus et Zacharīās fīlius Addō prophetāvērunt ad Iūdaeōs, quī erant in **Iūdaeā** et Ierusālem, in nōmine Deī Isrāēl, quod erat super eōs.
 
@@ -284,7 +284,7 @@ Numerus **virōrum** **populī** Isrāēl:
 
 17 Nunc ergō, sī vidētur **rēgī** bonum, recēnseat in aerāriō **rēgis**, quod **est** in Babylōne, utrumnam ā Cȳrō **rēge** potestās **data** fuerit, ut aedificārētur **domus** Deī in Ierusālem, et voluntātem **rēgis** super hāc rē mittat ad nōs ”.
 
-6
+## 6
 
 1 Tunc **Dārīus** rēx praecēpit, et recēnsuērunt in tabulīs aerāriī, quod **est** in Babylōne,
 
@@ -330,7 +330,7 @@ Numerus **virōrum** **populī** Isrāēl:
 
 22 Et fēcērunt sollemnitātem Azȳmōrum septem diēbus in **laetitiā**, quoniam laetificāverat eōs Dominus et converterat cor **rēgis** Assyriae ad eōs, ut adiuvāret **manūs** eōrum in opere **domūs** Dominī, Deī Isrāēl.
 
-7
+## 7
 
 1 Post haec autem in rēgnō **Artaxerxīs** **rēgis** Persārum, Esdras fīlius Sarāiae fīliī Azāriae fīliī Helciae
 
@@ -388,7 +388,7 @@ Numerus **virōrum** **populī** Isrāēl:
 
 28 et in mē inclīnāvit misericordiam **rēgis** et cōnsiliāriōrum eius et cūnctōrum prīncipum eius potentium. Et ego cōnfortātus manū Dominī Deī meī, quae erat in mē, congregāvī dē Isrāēl prīncipēs, quī ascenderent mēcum.
 
-8
+## 8
 
 1 Hī sunt ergō prīncipēs familiārum et **geneālogia** eōrum, quī ascendērunt mēcum in rēgnō **Artaxerxīs** **rēgis** dē Babylōne:
 
@@ -462,7 +462,7 @@ Numerus **virōrum** **populī** Isrāēl:
 
 36 Dedērunt autem **ēdicta** **rēgis** satrapīs **rēgis** et ducibus trāns flūmen et sublevāvērunt **populum** et domum Deī.
 
-9
+## 9
 
 1 Postquam autem haec **complēta** sunt, accessērunt ad mē prīncipēs dīcentēs: “ Nōn **est** **sēparātus** **populus** Isrāēl, sacerdōtēs et Lēvītae ā **populīs** terrārum et abōminātiōnibus eōrum, Chananaēī vidēlicet et Hetthaēī et Pherezaēī et Iebusaēī et Ammonītārum et Mōabītārum et Aegyptiōrum et Amorraēōrum.
 
@@ -494,7 +494,7 @@ Numerus **virōrum** **populī** Isrāēl:
 
 15 Domine, Deus Isrāēl, **tua** **clēmentia** superstitēs sumus sīcut **diē** hāc! Ecce **cōram** tē sumus in dēlictō nostrō; nōn enim stārī potest **cōram** tē propter **hōc** ”.
 
-10
+## 10
 
 1 Dum ergō ōrāret Esdrās et implōrāret flēns et prōstrātus ante templum Deī, **collēctus** **est** ad eum dē Isrāēl **coetūs** **grandīs** nimis **virōrum** et mulierum et puerōrum; et flēvit **populus** flētū multō.
 
