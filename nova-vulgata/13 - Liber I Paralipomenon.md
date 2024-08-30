@@ -348,7 +348,7 @@ Fīliī Hur prīmōgenitī Ephratha: Sobal pater Cariathiarim,
 
 34 Masobab **quoque** et Iemlech et Iōsa fīlius Amasīae
 
-35 et Ioel et Iehū fīlius Iosabiae fīliī Sarāiae fīliī Asiel
+35 et Ioēl et Iehū fīlius Iosabiae fīliī Sarāiae fīliī Asiel
 
 36 et Elioenāī et Iacoba et Isuhāia et Asāia et Adiel et Isimiel et Banāia,
 
@@ -374,7 +374,7 @@ Fīliī Hur prīmōgenitī Ephratha: Sobal pater Cariathiarim,
 
 3 Fīliī ergō Ruben prīmōgenitī Isrāēl: Henoch et Phallu, Hesron et Charmī.
 
-4 Fīliī Ioel: Semēia fīlius eius, Gog fīlius eius, Semēī fīlius eius,
+4 Fīliī Ioēl: Semēia fīlius eius, Gog fīlius eius, Semēī fīlius eius,
 
 5 Micha fīlius eius, Reaia fīlius eius, Baal fīlius eius,
 
@@ -382,7 +382,7 @@ Fīliī Hur prīmōgenitī Ephratha: Sobal pater Cariathiarim,
 
 7 Frātrēs autem eius in cognātiōnibus eius, quandō numerābantur in geneālogiīs **suīs**, erant: caput Iehiel, deinde Zacharīās;
 
-8 porrō Bela fīlius Azaz fīliī Samma fīliī Ioel, ipse habitāvit in Aroer usque ad Nābō et Baalmeōn.
+8 porrō Bela fīlius Azaz fīliī Samma fīliī Ioēl, ipse habitāvit in Aroer usque ad Nābō et Baalmeōn.
 
 9 Contrā orientālem **quoque** **plāgam** habitāvit usque ad introitum erēmī, quae **est** inde ā flūmine Euphrāte; multum quippe gregum eōrum numerus crēverat in **terrā** Galaad.
 
@@ -390,7 +390,7 @@ Fīliī Hur prīmōgenitī Ephratha: Sobal pater Cariathiarim,
 
 11 Fīliī vērō Gad ē regiōne eōrum habitāvērunt in **terrā** Basān usque Salchā:
 
-12 Ioel in **capite** et Sapham secundus, porrō Ianāī et Saphat in Basān;
+12 Ioēl in **capite** et Sapham secundus, porrō Ianāī et Saphat in Basān;
 
 13 frātrēs vērō eōrum secundum familiās suās: Michael et Mosollam et **Sēba** et Iorāī et Iachan et Ziē et Heber, septem.
 
@@ -488,13 +488,13 @@ Hae autem cognātiōnēs **Levī** secundum familiās eōrum:
 
 17 et ministrābant **cōram** habitātiōne tabernāculī **conventūs** **canentēs**, dōnec aedificāret Salomōn domum Dominī in Ierusālem; stābant autem iuxtā ōrdinem suum in ministeriō.
 
-18 Hī vērō sunt, quī assistēbant cum fīliīs **suīs**. Dē fīliīs Caath: Heman cantor fīlius Ioel fīliī Samuel
+18 Hī vērō sunt, quī assistēbant cum fīliīs **suīs**. Dē fīliīs Caath: Heman cantor fīlius Ioēl fīliī Samuel
 
 19 fīliī Elcāna fīliī Ieroham fīliī Eliēl fīliī Thohu
 
 20 fīliī Suph fīliī Elcānā fīliī Mahath fīliī Amasai
 
-21 fīliī Elcana fīliī Ioel fīliī Azāriae fīliī Sophōniae
+21 fīliī Elcana fīliī Ioēl fīliī Azāriae fīliī Sophōniae
 
 22 fīliī Thahath fīliī Asir fīliī Abiasaph fīliī **Corē**
 
@@ -592,7 +592,7 @@ Hae autem cognātiōnēs **Levī** secundum familiās eōrum:
 
 2 Fīliī Thola: Ozī et Raphaia et Ieriel et Iemāī et Iebsem et Samuel, prīncipēs familiārum suārum; dē stirpe Thola **virī** fortissimī numerātī sunt iuxtā geneālogiās suās in diēbus Dāvīd vīgintī duo **mīlia** sēscentī.
 
-3 Fīliī Ozī: Izrahia, dē quō **nātī** sunt Michael et Obadia et Ioel et Iēsia, quīnque prīncipēs omnēs.
+3 Fīliī Ozī: Izrahia, dē quō **nātī** sunt Michael et Obadia et Ioēl et Iēsia, quīnque prīncipēs omnēs.
 
 4 Cumque eīs erant secundum geneālogiās familiārum suārum turmae accīnctae ad proelium, **virī** fortissimī, trīgintā sex **mīlia**; multās enim habuēre uxōrēs et fīliōs.
 
@@ -946,7 +946,7 @@ Hae autem cognātiōnēs **Levī** secundum familiās eōrum:
 
 37 Hesrō dē Carmel, Naaraī fīlius Azbāī,
 
-38 Ioel frāter Nathan, Mibahar fīlius Agarāī,
+38 Ioēl frāter Nathan, Mibahar fīlius Agarāī,
 
 39 Selec Ammonītēs, Naharāī Berothītēs armiger Ioab fīliī Sarviae,
 
@@ -1142,7 +1142,7 @@ Suscēpit ergō eōs Dāvīd et cōnstituit prīncipēs turmae.
 
 6 dē fīliīs Merārī Asāia prīnceps et frātrēs eius **ducentī** vīgintī;
 
-7 dē fīliīs Gerson Ioel prīnceps et frātrēs eius centum trīgintā;
+7 dē fīliīs Gerson Ioēl prīnceps et frātrēs eius centum trīgintā;
 
 8 dē fīliīs Elisaphān Semeiās prīnceps et frātrēs eius **ducentī**;
 
@@ -1150,7 +1150,7 @@ Suscēpit ergō eōs Dāvīd et cōnstituit prīncipēs turmae.
 
 10 dē fīliīs Oziel Aminadab prīnceps et frātrēs eius centum duodecim.
 
-11 Vocāvitque Dāvīd Sadoc et Abiathar sacerdōtēs et Lēvītās Uriel, Asāiam, Ioel, Semeiam, Eliel et Aminadab
+11 Vocāvitque Dāvīd Sadoc et Abiathar sacerdōtēs et Lēvītās Uriel, Asāiam, Ioēl, Semeiam, Eliel et Aminadab
 
 12 et dīxit ad eōs: “ Vōs, quī **estis** prīncipēs familiārum Lēvīticārum, sānctificāminī cum frātribus vestrīs et afferte arcam Dominī, Deī Isrāēl, ad locum, quem praeparāvī.
 
@@ -1162,7 +1162,7 @@ Suscēpit ergō eōs Dāvīd et cōnstituit prīncipēs turmae.
 
 16 Dīxitque Dāvīd prīncipibus Lēvītārum, ut cōnstituerent dē frātribus **suīs** cantōrēs in organīs mūsicōrum, nablīs vidēlicet et lyrīs et cymbalīs, ut resonāret fortiter **sonitus** laetitiae.
 
-17 Cōnstituēruntque Lēvītae Heman fīlium Ioel et dē frātribus eius Asaph fīlium Barachiae, dē fīliīs vērō Merārī frātribus eōrum Ethān fīlium Casāiae
+17 Cōnstituēruntque Lēvītae Heman fīlium Ioēl et dē frātribus eius Asaph fīlium Barachiae, dē fīliīs vērō Merārī frātribus eōrum Ethān fīlium Casāiae
 
 18 et cum eīs frātrēs eōrum in secundō ōrdine Zacharīam et Bānī et Iaziel et Semiramoth et Iahiel et Anī, Eliab et Banāiam et Maasiam et Matthathiam et Eliphalu et Macēniam et Obededom et Iehiel iānitōrēs.
 
@@ -1606,7 +1606,7 @@ Porrō angelus Dominī stābat iuxtā āream **Ōrnān** Iebusaēī.
 
 7 Fīliī Gerson: Lādān et Semēī.
 
-8 Fīliī Lādān: prīnceps Iahiel et Zetham et Ioel, trēs.
+8 Fīliī Lādān: prīnceps Iahiel et Zetham et Ioēl, trēs.
 
 9 Fīliī Semēī: Salomith et Hoziel et **Āran**, trēs; istī prīncipēs familiārum Lādān.
 
@@ -1834,7 +1834,7 @@ Dē Coritis: Meselemia fīlius **Corē** dē fīliīs Abiasaph.
 
 21 Dē fīliīs Lādān Gersonitae prīncipēs familiārum Lādān Gersonitae erant Iahielitae.
 
-22 Fīliī Iahiel et Zetham et Ioel frātrum eius erant super thēsaurōs **domūs** Dominī.
+22 Fīliī Iahiel et Zetham et Ioēl frātrum eius erant super thēsaurōs **domūs** Dominī.
 
 23 Dē Amramitis et Isaaritis et Hebronitis et Ozielitis:
 
@@ -1892,7 +1892,7 @@ Dē Coritis: Meselemia fīlius **Corē** dē fīliīs Abiasaph.
 
 19 **Zabulōn** Iesmaiās fīlius Abdiae; Nephthalī Ierimoth fīlius Azriel;
 
-20 fīliīs Ephraim Oseē fīlius Ozaziu; dīmidiō **tribūs** Mānāsse Ioel fīlius Phadāiae;
+20 fīliīs Ephraim Oseē fīlius Ozaziu; dīmidiō **tribūs** Mānāsse Ioēl fīlius Phadāiae;
 
 21 et dīmidiō **tribūs** Mānāsse in Galaad Iaddō fīlius Zacharīae; Beniamin autem Iasiel fīlius Abner;
 

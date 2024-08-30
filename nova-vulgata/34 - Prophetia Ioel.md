@@ -4,7 +4,7 @@
 
 ## 1
 
-1 Verbum Dominī, quod factum **est** ad Ioel fīlium Phatuel.
+1 Verbum Dominī, quod factum **est** ad Ioēl fīlium Phatuel.
 
 2 **Audīte** **hoc**, senēs,
 

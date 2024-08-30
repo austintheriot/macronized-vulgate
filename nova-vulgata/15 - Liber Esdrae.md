@@ -562,7 +562,7 @@ Numerus **virōrum** **populī** Isrāēl:
 
 33 Et dē fīliīs Hasum: Matthanaī, Matthatha, Zabad, Eliphalet, Iermai, Mānāsse, Semēī.
 
-34 Dē fīliīs Bānī: Maaddi, Amram et Ioel,
+34 Dē fīliīs Bānī: Maaddi, Amram et Ioēl,
 
 35 Banaia et Badaīās, Cheliau,
 
@@ -580,7 +580,7 @@ Numerus **virōrum** **populī** Isrāēl:
 
 42 Sellum, Amāria, Ioseph.
 
-43 Dē fīliīs Nābō: Iehiel, Matthathiās, Zabad, Zabīna, Ieddu et Ioel et Banāia.
+43 Dē fīliīs Nābō: Iehiel, Matthathiās, Zabad, Zabīna, Ieddu et Ioēl et Banāia.
 
 44 Omnēs hī accēperant uxōrēs aliēnigenās et dīmīsērunt uxōrēs et fīliōs.
 

@@ -397,7 +397,7 @@ Quī dīxērunt:
 
 1 Factum **est** autem cum senuīs set, Samuel posuit fīliōs suōs iūdicēs Isrāēl.
 
-2 Fuitque **nōmen** fīliī eius prīmōgenitī Ioel et **nōmen** secundī Abia; iūdicābant in Bersabee.
+2 Fuitque **nōmen** fīliī eius prīmōgenitī Ioēl et **nōmen** secundī Abia; iūdicābant in Bersabee.
 
 3 Et nōn ambulāvērunt fīliī illīus in viīs eius, sed dēclīnāvērunt post avāritiam accēpēruntque **mūnera** et pervertērunt iūdicium.
 

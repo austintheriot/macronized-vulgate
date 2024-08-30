@@ -66,35 +66,35 @@ et: “Epīscopātum eius accipiat alius”.
 
 1 Et cum complērētur diēs Pentēcostēs, erant omnēs pariter in eōdem locō.
 
-2 Et **factus** **est** **repente** dē caelō **sonūs** tamquam **advenientīs** **spīritūs** **vehementīs** et replēvit **tōtam** domum, ubi erant sedentēs.
+2 Et factus est repente dē caelō sonus tamquam advenientis spīritūs vehementis et replēvit tōtam domum, ubi erant sedentēs.
 
-3 Et appāruērunt illīs dispertītae linguae tamquam **ignis**, sēditque suprā singulōs eōrum;
+3 Et appāruērunt illīs dispertītae linguae tamquam ignis, sēditque suprā singulōs eōrum;
 
-4 et replētī sunt omnēs Spīritū Sānctō et coepērunt loquī aliīs linguīs, prout **Spīritus** dabat ēloquī illīs.
+4 et replētī sunt omnēs Spīritū Sānctō et coepērunt loquī aliīs linguīs, prout Spīritus dabat ēloquī illīs.
 
-5 Erant autem in Ierūsalēm habitantēs Iūdaeī, **virī** religiōsī ex omnī nātiōne, quae sub caelō **est**;
+5 Erant autem in Ierūsalēm habitantēs Iūdaeī, virī religiōsī ex omnī nātiōne, quae sub caelō est;
 
-6 **facta** autem hāc vōce, **convenit** multitūdō et **cōnfūsa** **est**, quoniam audiēbat ūnusquisque **linguā** **suā** illōs loquentēs.
+6 factā autem hāc vōce, convēnit multitūdō et cōnfūsa est, quoniam audiēbat ūnusquisque linguā suā illōs loquentēs.
 
-7 Stupēbant autem et mīrābantur dīcentēs: “**Nōnne** ecce omnēs istī, quī loquuntur, Galilaeī[*][galilaea] sunt?
+7 Stupēbant autem et mīrābantur dīcentēs: “Nōnne ecce omnēs istī, quī loquuntur, Galilaeī[*][galilaea] sunt?
 
-8 Et quōmodo nōs audīmus ūnusquisque **propriā** **linguā** **nostrā**, in **quā** **nātī** sumus?
+8 Et quōmodo nōs audīmus ūnusquisque propriā linguā nostrā, in quā nātī sumus?
 
-9 Parthī et Mēdī et Elamītae et quī habitant Mesopotamiam, Iūdaeam **quoque** et Cappadociam, Pontum et Asiam,
+9 Parthī et Mēdī et Elamītae et quī habitant Mesopotamiam, Iūdaeam quoque et Cappadociam, Pontum et Asiam,
 
-10 Phrygiam **quoque** et Pamphȳliam, Aegyptum et partēs Libyae, quae **est** circā Cȳrēnēm, et advenae Rōmānī,
+10 Phrygiam quoque et Pamphȳliam, Aegyptum et partēs Libyae, quae est circā Cȳrēnēm, et advenae Rōmānī,
 
-11 Iūdaeī **quoque** et prosēlytī, Crētes et Arabes, audīmus loquentēs eōs nostrīs linguīs magnālia Deī”.
+11 Iūdaeī quoque et prosēlytī, Crētes et Arabes, audīmus loquentēs eōs nostrīs linguīs magnālia Deī”.
 
-12 Stupēbant autem omnēs et haesitābant ad invicem dīcentēs: “Quidnam **hoc** vult **esse**?”;
+12 Stupēbant autem omnēs et haesitābant ad invicem dīcentēs: “Quidnam hoc vult esse?”;
 
 13 aliī autem irrīdentēs dīcēbant: “Mustō plēnī sunt istī”.
 
-14 Stāns autem Petrus cum Ūndecim **levāvit** **vōcem** suam et **locūtus** **est** eīs: “**Virī** Iūdaeī et quī **habitātis** Ierūsalēm ūniversī, **hoc** vōbīs nōtum sit, et auribus percipite verba **mea**.
+14 Stāns autem Petrus cum Ūndecim levāvit vōcem suam et locūtus est eīs: “Virī Iūdaeī et quī habitātis Ierūsalēm ūniversī, hoc vōbīs nōtum sit, et auribus percipite verba mea.
 
-15 Nōn enim, sīcut vōs **aestimātis**, hī ēbriī sunt, **est** enim **hōra** diēī **tertia**;
+15 Nōn enim, sīcut vōs aestimātis, hī ēbriī sunt, est enim hōra diēī tertia;
 
-16 sed **hoc** **est**, quod dictum **est** per prophētam Ioel:
+16 sed hoc est, quod dictum est per prophētam Ioēl:
 
 17 “Et erit: in novissimīs diēbus, dīcit Deus,
 
@@ -104,7 +104,7 @@ et prophetābunt fīliī vestrī et fīliae vestrae,
 
 et iuvenēs vestrī vīsiōnēs vidēbunt,
 
-et seniōrēs vestrī **somnia** somniābunt;
+et seniōrēs vestrī somnia somniābunt;
 
 18 et quidem super servōs meōs et super ancillās meās
 
@@ -112,13 +112,13 @@ in diēbus illīs effundam dē Spīritū meō,
 
 et prophetābunt.
 
-19 Et dabō prōdigia in caelō sūrsum et **signa** in **terrā** deorsum,
+19 Et dabō prōdigia in caelō sūrsum et signa in terrā deorsum,
 
 sanguinem et ignem et vapōrem fūmī;
 
 20 sōl convertētur in tenebrās,
 
-et **lūna** in sanguinem,
+et lūna in sanguinem,
 
 antequam veniat diēs Dominī
 
@@ -126,11 +126,11 @@ magnus et manifēstus.
 
 21 Et erit:
 
-**omnis** quīcumque invocāverit **nōmen** Dominī, salvus erit”.
+omnis quīcumque invocāverit nōmen Dominī, salvus erit”.
 
-22 **Virī** Isrāēlītae, **audītē** verba haec: Iēsum Nazarēnum, **virum** approbātum ā Deō apud vōs virtūtibus et prōdigiīs et signīs, quae fēcit per illum Deus in **mediō** vestrī, sīcut ipsī **scītis**,
+22 Virī Isrāēlītae, audīte verba haec: Iēsum Nazarēnum, virum approbātum ā Deō apud vōs virtūtibus et prōdigiīs et signīs, quae fēcit per illum Deus in mediō vestrī, sīcut ipsī scītis,
 
-23 hunc dēfīnītō cōnsiliō et **praescientiā** Deī trāditum per **manum** inīquōrum affīgentēs interēmistis,
+23 hunc dēfīnītō cōnsiliō et praescientiā Deī trāditum per manum inīquōrum affīgentēs interēmistis,
 
 24 quem Deus suscitāvit, solūtīs dolōribus **mortis**, iuxtā quod impossibile erat **tenērī** illum ab **eā**.
 
@@ -138,25 +138,25 @@ magnus et manifēstus.
 
 “Prōvidēbam Dominum **cōram** mē semper, quoniam ā dextrīs meīs **est**, nē commovear.
 
-26 Propter **hoc** laetātum **est** cor meum,
+26 Propter hoc laetātum est cor meum,
 
-et exsultāvit **lingua** **mea**;
+et exsultāvit lingua mea;
 
-īnsuper et **carō** **mea** requiēscet in spē.
+īnsuper et carō mea requiēscet in spē.
 
 27 Quoniam nōn dērelinquēs animam meam in īnfernō
 
 neque dabis Sānctum tuum **vidēre** corruptiōnem.
 
-28 **Nōtās** fēcistī mihi viās vītae,
+28 Nōtās fēcistī mihi viās vītae,
 
 replēbis mē iūcunditāte cum faciē **tuā**”.
 
-29 **Virī** frātrēs, liceat aūdenter **dīcere** ad vōs dē **patriarchā** Dāvīd, quoniam et **dēfūnctus** **est** et sepultus **est**, et sepulcrum eius **est** apud nōs usque in hodiernum diem;
+29 Virī frātrēs, liceat aūdenter **dīcere** ad vōs dē **patriarchā** Dāvīd, quoniam et **dēfūnctus** est et sepultus est, et sepulcrum eius est apud nōs usque in hodiernum diem;
 
-30 **prophēta** igitur cum **esset** et scīret quia iūre iūrandō iūrāsset illī Deus dē frūctū lumbī eius **sēdēre** super sēdem eius,
+30 **prophēta** igitur cum esset et scīret quia iūre iūrandō iūrāsset illī Deus dē frūctū lumbī eius **sēdēre** super sēdem eius,
 
-31 prōvidēns **locūtus** **est** dē resurrēctiōne Chrīstī, quia neque dērelictus **est** in īnfernō, neque **carō** eius vīdit corruptiōnem.
+31 prōvidēns locūtus est dē resurrēctiōne Chrīstī, quia neque dērelictus est in īnfernō, neque **carō** eius vīdit corruptiōnem.
 
 32 Hunc Iēsum resuscitāvit Deus, cuius omnēs nōs testēs sumus.
 
@@ -164,7 +164,7 @@ replēbis mē iūcunditāte cum faciē **tuā**”.
 
 34 Nōn enim Dāvīd ascendit in caelōs; dīcit autem ipse:
 
-“Dīxit Dominus Dominō meō: **Sēde** ā dextrīs meīs,
+“Dīxit Dominus Dominō meō: Sedē ā dextrīs meīs,
 
 35 dōnec pōnam inimīcōs tuōs scabellum pedum tuōrum”.
 

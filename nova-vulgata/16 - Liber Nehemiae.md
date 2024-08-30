@@ -850,7 +850,7 @@ et in trībulātiōne **magnā** sumus ”.
 
 8 et frātrēs eius **virī** fortēs, nōngentī vīgintī octo.
 
-9 Et Ioel fīlius Zechrī praepositus eōrum, et Iūdās fīlius Asāna super cīvitātem secundus.
+9 Et Ioēl fīlius Zechrī praepositus eōrum, et Iūdās fīlius Asāna super cīvitātem secundus.
 
 10 Et dē sacerdōtibus: Iedaia fīlius Ioiarib fīlius
 

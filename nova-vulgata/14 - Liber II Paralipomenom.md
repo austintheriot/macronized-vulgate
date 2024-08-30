@@ -1311,7 +1311,7 @@ Nec erat aliquis dē stirpe Ochoziae, quī posset rēgnāre.
 
 11 Fīliī meī, nōlīte **neglegere**; vōs enim ēlēgit Dominus, ut stētis **cōram** eō et ministrētis illī **colātis**que eum et adoleātis ”.
 
-12 Surrēxērunt ergō Lēvītae, Mahath fīlius Amasāī et Ioel fīlius Azāriae dē fīliīs Caath; porrō dē fīliīs Merārī Cīs fīlius Abdī et Azariās fīlius Iallelel; dē fīliīs autem Gersōn Ioah fīlius Zimma et **Ēden** fīlius Ioah;
+12 Surrēxērunt ergō Lēvītae, Mahath fīlius Amasāī et Ioēl fīlius Azāriae dē fīliīs Caath; porrō dē fīliīs Merārī Cīs fīlius Abdī et Azariās fīlius Iallelel; dē fīliīs autem Gersōn Ioah fīlius Zimma et **Ēden** fīlius Ioah;
 
 13 at vērō dē fīliīs Elisaphān Semrī et Iehiel; dē fīliīs **quoque** Asaph Zacharīās et Matthāniās;
 
