@@ -1,8 +1,8 @@
-AD THESSALONĪCĒNSĒS **EPISTULA** IĪ SĀNCTĪ PAULĪ APOSTOLĪ
+# AD THESSALONĪCĒNSĒS **EPISTULA** IĪ SĀNCTĪ PAULĪ APOSTOLĪ
 
-1 2 3
+[1](#1) [2](#2) [3](#3)
 
-1 
+## 1
 
 1 Paulus et Silvānus et Tīmotheus ecclēsiae Thessalonīcēnsium in Deō Patre nostrō et Dominō **Iēsu** Chrīstō:
 
@@ -28,7 +28,7 @@ AD THESSALONĪCĒNSĒS **EPISTULA** IĪ SĀNCTĪ PAULĪ APOSTOLĪ
 
 12 ut glōrificētur **nōmen** Dominī nostrī **Iēsu** Chrīstī in vōbīs, et vōs in illō, secundum grātiam Deī nostrī et Dominī **Iēsu** Chrīstī.
 
-2
+## 2
 
 1 Rogāmus autem vōs, frātrēs, circā adventum Dominī nostrī **Iēsu** Chrīstī et nostram congregātiōnem in ipsum,
 
@@ -64,7 +64,7 @@ AD THESSALONĪCĒNSĒS **EPISTULA** IĪ SĀNCTĪ PAULĪ APOSTOLĪ
 
 17 cōnsōlētur **corda** **vestra** et cōnfirmet in omnī opere et sermōne bonō.
 
-3
+## 3
 
 1 Dē cēterō, frātrēs, **ōrātē** prō nōbīs, ut sermō Dominī currat et glōrificētur sīcut et apud vōs,
 
