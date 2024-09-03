@@ -1028,7 +1028,7 @@ Ascenditque Ioās rēx Isrāēl, et vīdērunt sē ipse et Amasīās rēx Iūdae
 
 3 Fēcitque, quod erat bonum **cōram** Dominō, iuxtā omnia, quae fēcerat Dāvīd pater suus.
 
-4 Ipse dissipāvit **excelsa** et contrīvit lapidēs et succīdit pālum cōnfrēgitque serpentem aēneum, quem fēcerat Moysēs; siquidem usque ad illud tempus fīliī Isrāēl adolēbant **eī**; vocābātur Nohestan.
+4 Ipse dissipāvit **excelsa** et contrīvit lapidēs et succīdit pālum cōnfrēgitque serpentem aēneum, quem fēcerat Moȳsēs[\*][moyses]; siquidem usque ad illud tempus fīliī Isrāēl adolēbant **eī**; vocābātur Nohestan.
 
 5 In Dominō, Deō Isrāēl, spērāvit. Itaque post eum nōn fuit **similis** **eī** dē cūnctīs rēgibus Iūdae sed neque in hīs, quī ante eum fuērunt.
 
@@ -1046,7 +1046,7 @@ Rebellāvit **quoque** contrā rēgem Assyriōrum et nōn servīvit **eī**.
 
 11 Et trānstulit rēx Assyriōrum Isrāēl in Assur collocāvitque eōs in **Hala** et Habor iuxtā fluvium Gozān et in cīvitātibus Mēdōrum,
 
-12 quia nōn audiērunt **vōcem** Dominī Deī **suī**, sed praetergressī sunt **pactum** eius; omnia, quae praecēperat Moysēs servus Dominī, nōn audiērunt neque fēcērunt.
+12 quia nōn audiērunt **vōcem** Dominī Deī **suī**, sed praetergressī sunt **pactum** eius; omnia, quae praecēperat Moȳsēs[\*][moyses] servus Dominī, nōn audiērunt neque fēcērunt.
 
 13 Annō quārtō decimō **rēgis** Ezechiae ascendit Sennacherib rēx Assyriōrum ad ūniversās cīvitātēs Iūdae mūnītās et cēpit eās.
 
@@ -1316,7 +1316,7 @@ propter mē et propter Dāvīd servum meum ”.
 
 7 Posuit **quoque** pālum Aserae, quem fēcerat, in templō, super quō **locūtus** **est** Dominus ad Dāvīd et ad Salomōnem fīlium eius: “ In templō **hoc** et in Ierusālem, quam **elegī** dē cūnctīs tribubus Isrāēl, pōnam **nōmen** meum in sempiternum;
 
-8 et **ultrā** nōn faciam commovērī pedem Isrāēl dē **terrā**, quam **dedī** patribus eōrum, sīc tamen sī cūstōdierint opere omnia, quae praecēpī eīs, et ūniversam lēgem, quam mandāvit eīs servus meus Moysēs ”.
+8 et **ultrā** nōn faciam commovērī pedem Isrāēl dē **terrā**, quam **dedī** patribus eōrum, sīc tamen sī cūstōdierint opere omnia, quae praecēpī eīs, et ūniversam lēgem, quam mandāvit eīs servus meus Moȳsēs[\*][moyses] ”.
 
 9 Illī vērō nōn audiērunt, sed sēductī sunt ā Mānāsse, ut facerent **mālum** plūs quam gentēs, quās contrīvit Dominus ā faciē fīliōrum Isrāēl.
 
@@ -1582,3 +1582,4 @@ Et **trānslātus** **est** **Iūda** dē **terrā** **suā**.
 
 30 Annōnam **quoque** cōnstituit **eī** absque intermissiōne, quae et dabātur **eī** ā **rēge** per singulōs diēs omnibus diēbus vītae suae.
 
+[moyses]: <Ambiguous Forms.md#moyses>

@@ -98,7 +98,7 @@ sīcut dīxit Īsaiās **prophēta** ”.
 
 44 Erat autem Philippus ā Bethsaīdā, cīvitāte Andreae et Petrī.
 
-45 **Invenit** Philippus Nathanael et dīcit **eī**: “ Quem scrīpsit Moysēs in **Lēge** et Prophētae **invēnimus**, **Iēsum** fīlium Ioseph ā Nazareth ”.
+45 **Invenit** Philippus Nathanael et dīcit **eī**: “ Quem scrīpsit Moȳsēs[\*][moyses] in **Lēge** et Prophētae **invēnimus**, **Iēsum** fīlium Ioseph ā Nazareth ”.
 
 46 Et dīxit **eī** Nathanaēl: “ Ā Nazareth potest aliquid bonī **esse**? ”. Dīcit **eī** Philippus: “ **Vēnī** et vidē ”.
 
@@ -192,7 +192,7 @@ sīcut dīxit Īsaiās **prophēta** ”.
 
 13 Et nēmō ascendit in caelum, **nisi** quī dēscendit dē caelō, Fīlius hominis.
 
-14 Et sīcut Moysēs exaltāvit serpentem in dēsertō, **ita** exaltārī oportet Fīlium hominis,
+14 Et sīcut Moȳsēs[\*][moyses] exaltāvit serpentem in dēsertō, **ita** exaltārī oportet Fīlium hominis,
 
 15 ut **omnis**, quī crēdit, in ipsō habeat vītam aeternam ”.
 
@@ -440,7 +440,7 @@ Erat autem sabbatum in illō **diē**.
 
 44 Quōmodo potestis vōs **crēdere**, quī glōriam ab invicem accipitis, et glōriam, quae ā **solō** **est** Deō, nōn quaeritis?
 
-45 Nōlīte putāre quia ego accūsātūrus sim vōs apud Patrem; **est** quī accūset vōs: Moysēs, in quō vōs **spērātis**.
+45 Nōlīte putāre quia ego accūsātūrus sim vōs apud Patrem; **est** quī accūset vōs: Moȳsēs[\*][moyses], in quō vōs **spērātis**.
 
 46 Sī enim crēderētis Moȳsī, crēderētis forsitan et mihi; dē mē enim ille scrīpsit.
 
@@ -510,7 +510,7 @@ Erat autem sabbatum in illō **diē**.
 
 31 Patrēs nostrī **manna** mandūcāvērunt in dēsertō, sīcut scrīptum **est**: “Pānem dē caelō **dēdit** eīs mandūcāre” ”.
 
-32 Dīxit ergō eīs **Iēsus**: “ Āmēn, āmēn **dīcō** vōbīs: Nōn Moysēs **dēdit** vōbīs pānem dē caelō, sed Pater meus dat vōbīs pānem dē caelō vērum;
+32 Dīxit ergō eīs **Iēsus**: “ Āmēn, āmēn **dīcō** vōbīs: Nōn Moȳsēs[\*][moyses] **dēdit** vōbīs pānem dē caelō, sed Pater meus dat vōbīs pānem dē caelō vērum;
 
 33 **pānis** enim Deī **est**, quī dēscendit dē caelō et dat vītam mundō ”.
 
@@ -628,13 +628,13 @@ Erat autem sabbatum in illō **diē**.
 
 18 Quī ā sēmetipsō loquitur, glōriam propriam quaerit; quī autem quaerit glōriam eius, quī mīsit illum, **hīc** vērāx **est**, et **iniūstitia** in illō nōn **est**.
 
-19 **Nōnne** Moysēs **dēdit** vōbīs lēgem? Et nēmō ex vōbīs facit lēgem. Quid mē quaeritis interficere? ”.
+19 **Nōnne** Moȳsēs[\*][moyses] **dēdit** vōbīs lēgem? Et nēmō ex vōbīs facit lēgem. Quid mē quaeritis interficere? ”.
 
 20 Respondit **turba**: “ Daemonium habēs! **Quis** tē quaerit interficere? ”.
 
 21 Respondit **Iēsus** et dīxit eīs: “ Ūnum opus fēcī, et omnēs mīrāminī.
 
-22 Proptereā Moysēs **dēdit** vōbīs circumcīsiōnem — nōn quia ex Moyse **est** sed ex patribus — et in sabbatō circumcīditis hominem.
+22 Proptereā Moȳsēs[\*][moyses] **dēdit** vōbīs circumcīsiōnem — nōn quia ex Moyse **est** sed ex patribus — et in sabbatō circumcīditis hominem.
 
 23 Sī circumcīsiōnem accipit homō in sabbatō, ut nōn solvātur lēx Moysis, mihi indignāminī, quia **tōtum** hominem sānum fēcī in sabbatō?
 
@@ -708,7 +708,7 @@ Erat autem sabbatum in illō **diē**.
 
 4 et dīcunt **eī**: “ Magister, haec mulier **manifēstō** **dēprehēnsa** **est** in adulteriō.
 
-5 In **lēge** autem Moysēs mandāvit nōbīs huiusmodī lapidāre; tū ergō quid **dīcis**? ”.
+5 In **lēge** autem Moȳsēs[\*][moyses] mandāvit nōbīs huiusmodī lapidāre; tū ergō quid **dīcis**? ”.
 
 6 **Hoc** autem dīcēbant tentantēs eum, ut possent accūsāre eum. **Iēsus** autem inclīnāns sē deorsum digitō scrībēbat in **terrā**.
 
@@ -1840,4 +1840,4 @@ Et mīlitēs quidem haec fēcērunt.
 
 25 Sunt autem et **alia** **multa**, quae fēcit **Iēsus**; quae, sī scrībantur per **singula**, nec ipsum arbitror mundum capere eōs, quī scrībendī sunt, librōs.
 
-
+[moyses]: <Ambiguous Forms.md#moyses>

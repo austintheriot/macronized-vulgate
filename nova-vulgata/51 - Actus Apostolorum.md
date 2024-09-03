@@ -24,15 +24,15 @@
 
 10 Cumque intuērentur in caelum, eunte illō, ecce duo virī astitērunt iuxtā illōs in vestibus albīs,
 
-11 quī et dīxērunt: “Virī Galilaeī[*][galilaea], quid stātis aspicientēs in caelum? Hic Iēsūs, quī assūmptus est ā vōbīs in caelum, sīc veniet quemadmodum vīdistis eum euntem in caelum”.
+11 quī et dīxērunt: “Virī Galilaeī[\*][galilaea], quid stātis aspicientēs in caelum? Hic Iēsūs, quī assūmptus est ā vōbīs in caelum, sīc veniet quemadmodum vīdistis eum euntem in caelum”.
 
 12 Tunc reversī sunt in Ierūsalēm ā monte, quī vocātur Olīvētī, quī est iuxtā Ierūsalem sabbatī habēns iter.
 
-13 Et cum introīssent, in cēnāculum ascendērunt, ubi manēbant et Petrus et Iōannēs et Iācōbus[*][jacob] et Andrēās[*][andreas], Philippus et Thōmās, Bartholomaeus et Matthaeus, Iācōbus[*][jacob] Alphaeī et Simōn Zēlōtēs et Iūdās Iācōbī[*][jacob].
+13 Et cum introīssent, in cēnāculum ascendērunt, ubi manēbant et Petrus et Iōannēs et Iācōbus[\*][jacob] et Andrēās[\*][andreas], Philippus et Thōmās, Bartholomaeus et Matthaeus, Iācōbus[\*][jacob] Alphaeī et Simōn Zēlōtēs et Iūdās Iācōbī[\*][jacob].
 
 14 Hī omnēs erant persevērantēs ūnanimiter in ōrātiōne cum mulieribus et Marīā mātre Iēsū et frātribus eius.
 
-15 Et in diēbus illīs exsurgēns Petrus in mediō frātrum dīxit — erat autem turba hominum simul fere[*][fere] centum vīgintī C:
+15 Et in diēbus illīs exsurgēns Petrus in mediō frātrum dīxit — erat autem turba hominum simul fere[\*][fere] centum vīgintī C:
 
 16 “Virī frātrēs, oportēbat implērī Scrīptūram, quam praedīxit Spīritus Sānctus per ōs Dāvīd dē Iūdā, quī fuit dux eōrum, quī comprehendērunt Iēsum,
 
@@ -54,13 +54,13 @@ et: “Epīscopātum eius accipiat alius”.
 
 22 incipiēns ā baptismate Iōannis usque in diem, quā assūmptus est ā nōbīs, testem resurrēctiōnis eius nōbīscum fierī ūnum ex istīs”.
 
-23 Et statuērunt duōs, Iōsēph, quī vocābātur Barsabbās, quī cognōminātus est Iūstus, et Matthīam[*][matthias].
+23 Et statuērunt duōs, Iōsēph, quī vocābātur Barsabbās, quī cognōminātus est Iūstus, et Matthīam[\*][matthias].
 
 24 Et ōrantēs dīxērunt: “Tū, Domine, quī corda nōstī omnium, ostende quem ēlēgerīs ex hīs duōbus ūnum
 
 25 accipere locum ministeriī huius et apostolātūs, dē quō praevāricātus est Iūdās, ut abīret in locum suum”.
 
-26 Et dedērunt sortēs eīs, et cecidit sors super Matthīam[*][matthias], et annumerātus est cum ūndecim apostolīs.
+26 Et dedērunt sortēs eīs, et cecidit sors super Matthīam[\*][matthias], et annumerātus est cum ūndecim apostolīs.
 
 ## 2
 
@@ -76,7 +76,7 @@ et: “Epīscopātum eius accipiat alius”.
 
 6 factā autem hāc vōce, convēnit multitūdō et cōnfūsa est, quoniam audiēbat ūnusquisque linguā suā illōs loquentēs.
 
-7 Stupēbant autem et mīrābantur dīcentēs: “Nōnne ecce omnēs istī, quī loquuntur, Galilaeī[*][galilaea] sunt?
+7 Stupēbant autem et mīrābantur dīcentēs: “Nōnne ecce omnēs istī, quī loquuntur, Galilaeī[\*][galilaea] sunt?
 
 8 Et quōmodo nōs audīmus ūnusquisque propriā linguā nostrā, in quā nātī sumus?
 
@@ -132,7 +132,7 @@ omnis quīcumque invocāverit nōmen Dominī, salvus erit”.
 
 23 hunc dēfīnītō cōnsiliō et praescientiā Deī trāditum per manum inīquōrum affīgentēs interēmistis,
 
-24 quem Deus suscitāvit, solūtīs dolōribus mortis, iuxtā quod impossibile erat tenērī illum ab eā*.
+24 quem Deus suscitāvit, solūtīs dolōribus mortis, iuxtā quod impossibile erat tenērī illum ab eā\*.
 
 25 Dāvīd enim dīcit circā eum:
 
@@ -196,45 +196,47 @@ replēbis mē iūcunditāte cum faciē tuā”.
 
 1 Petrus autem et Iōannēs ascendēbant in templum ad hōram ōrātiōnis nōnam.
 
-2 Et quīdam vir, quī erat claudus ex uterō mātris suae, baiulābātur; quem pōnēbant cotīdiē ad portam templī, quae dīcitur **Speciōsa**, ut peteret eleēmosynam ab introeuntibus in templum;
+2 Et quīdam vir, quī erat claudus ex uterō mātris suae, baiulābātur; quem pōnēbant cotīdiē ad portam templī, quae dīcitur Speciōsa, ut peteret eleēmosynam ab introeuntibus in templum;
 
-3 **is** cum vīdisset Petrum et Iōannem incipientēs introīre in templum, rogābat, ut eleēmosynam acciperet.
+3 is cum vīdisset Petrum et Iōannem incipientēs introīre in templum, rogābat, ut eleēmosynam acciperet.
 
 4 Intuēns autem in eum Petrus cum Iōanne dīxit: “Respice in nōs”.
 
 5 At ille intendēbat in eōs, spērāns sē aliquid acceptūrum ab eīs.
 
-6 Petrus autem dīxit: “Argentum et aurum nōn **est** mihi; quod autem habeō, **hoc** tibi dō: In nōmine Iēsū Chrīstī Nazarēnī surge et ambulā!”.
+6 Petrus autem dīxit: “Argentum et aurum nōn est mihi; quod autem habeō, hoc tibi dō: In nōmine Iēsū Chrīstī Nazarēnī surge et ambulā!”.
 
-7 Et **apprehēnsa** **eī** manū **dexterā**, **allevāvit** eum; et prōtinus cōnsolidātae sunt basēs eius et tālī,
+7 Et apprehēnsā eī manū dexterā, allevāvit eum; et prōtinus cōnsolidātae sunt basēs eius et tālī,
 
 8 et exsiliēns stetit et ambulābat; et intrāvit cum illīs in templum, ambulāns et exsiliēns et laudāns Deum.
 
-9 Et vīdit **omnis** **populus** eum ambulantem et laudantem Deum;
+9 Et vīdit omnis populus eum ambulantem et laudantem Deum;
 
 10 cognōscēbant autem illum quoniam ipse erat, quī ad eleēmosynam sedēbat ad Speciōsam portam templī, et implētī sunt stupōre et exstāsī in eō, quod contigerat illī.
 
-11 Cum tenēret autem Petrum et Iōannem, concurrit **omnis** **populus** ad eōs ad porticum, quī appellātur Salomōnis, stupentēs.
+11 Cum tenēret autem Petrum et Iōannem, concurrit omnis populus ad eōs ad porticum, quī appellātur Salomōnis, stupentēs.
 
-12 Vidēns autem Petrus respondit ad **populum**: “**Virī** Isrāēlītae, quid mīrāminī in **hōc** aut nōs quid intuēminī, quasi **nostrā** virtūte aut pietāte **fēcerīmus** hunc ambulāre?
+12 Vidēns autem Petrus respondit ad populum: “Virī Isrāēlītae, quid mīrāminī in hōc aut nōs quid intuēminī, quasi nostrā virtūte aut pietāte fēcerīmus hunc ambulāre?
 
 13 Deus Abraham et Deus Isaac et Deus Iācōb[*][jacob], Deus patrum nostrōrum, glōrificāvit puerum suum Iēsum, quem vōs quidem trādidistis et negāstis ante faciem Pīlātī, iūdicante illō dīmittī;
 
-14 vōs autem Sānctum et Iūstum negāstis et petīstis **virum** homicīdam dōnārī vōbīs,
+14 vōs autem Sānctum et Iūstum negāstis et petīstis virum homicīdam dōnārī vōbīs,
 
 15 ducem vērō vītae interfēcistis, quem Deus suscitāvit ā mortuīs, cuius nōs testēs sumus.
 
-16 Et in **fide** nōminis eius hunc, quem vidētis et nōstis, cōnfirmāvit **nōmen** eius; et **fidēs**, quae per eum **est**, **dēdit** huic integritātem istam in cōnspectū omnium vestrum.
+16 Et in fidē nōminis eius hunc, quem vidētis et nōstis, cōnfirmāvit nōmen eius; et fidēs, quae per eum est, dedit huic integritātem istam in cōnspectū omnium vestrum.
 
-17 Et nunc, frātrēs, sciō quia per ignōrantiam fēcistis, sīcut et prīncipēs vestrī; 18 Deus autem, quae praenūntiāvit per **os** omnium Prophētārum patī Chrīstum suum, implēvit sīc.
+17 Et nunc, frātrēs, sciō quia per ignōrantiam fēcistis, sīcut et prīncipēs vestrī;
 
-19 Paenitēminī igitur et convertiminī, ut dēleantur **vestra** **peccāta**,
+18 Deus autem, quae praenūntiāvit per ōs omnium Prophētārum patī Chrīstum suum, implēvit sīc.
 
-20 ut veniant tempora refrīgeriī ā cōnspectū Dominī, et mittat eum, quī praedēstinātus **est** vōbīs Chrīstus, Iēsum,
+19 Paenitēminī igitur et convertiminī, ut dēleantur vestra peccāta\*,
 
-21 quem oportet caelum quidem suscipere usque in tempora restitūtiōnis omnium, quae **locūtus** **est** Deus per **os** sānctōrum ā saeculō suōrum prophētārum.
+20 ut veniant tempora refrīgeriī ā cōnspectū Dominī, et mittat eum, quī praedēstinātus est vōbīs Chrīstus, Iēsum,
 
-22 Moysēs quidem dīxit: “Prophētam vōbīs suscitābit Dominus Deus vester dē frātribus vestrīs tamquam mē; ipsum audiētis iuxtā omnia, quaecumque **locūtus** fuerit vōbīs.
+21 quem oportet caelum quidem suscipere usque in tempora restitūtiōnis omnium, quae locūtus est Deus per ōs sānctōrum ā saeculō suōrum prophētārum.
+
+22 Moȳsēs[\*][moyses] quidem dīxit: “Prophētam vōbīs suscitābit Dominus Deus vester dē frātribus vestrīs tamquam mē; ipsum audiētis iuxtā omnia, quaecumque **locūtus** fuerit vōbīs.
 
 23 Erit autem: **omnis** **anima**, quae nōn audierit prophētam illum, exterminābitur dē plēbe”.
 
@@ -406,7 +408,7 @@ Adveniēns autem prīnceps sacerdōtum et, quī cum eō erant, convocāvērunt c
 
 36 Ante hōs enim diēs exstitit Theudās dīcēns **esse** sē aliquem, cui cōnsēnsit **virōrum** numerus circiter quadringentōrum; quī occīsus **est**, et omnēs, quīcumque crēdēbant **eī**, dissipātī sunt et redāctī sunt ad nihilum.
 
-37 Post hunc exstitit Iūdās Galilaeus[*][galilaea] in diēbus **cēnsūs** et āvertit **populum** post sē; et ipse periit, et omnēs, quotquot cōnsentiēbant **eī**, dispersī sunt.
+37 Post hunc exstitit Iūdās Galilaeus[\*][galilaea] in diēbus **cēnsūs** et āvertit **populum** post sē; et ipse periit, et omnēs, quotquot cōnsentiēbant **eī**, dispersī sunt.
 
 38 Et nunc **dīcō** vōbīs: Discēdite ab hominibus istīs et sinite illōs. Quoniam sī **est** ex hominibus cōnsilium **hoc** aut opus **hoc**, dissolvētur;
 
@@ -448,7 +450,7 @@ Cōnsēnsērunt autem illī
 
 13 et statuērunt testēs falsōs dīcentēs: “Homō iste nōn cessat loquī verba adversus locum sānctum et Lēgem;
 
-14 audīvimus enim eum dīcentem quoniam Iēsūs Nazarēnus **hic** dēstruet locum istum et mūtābit cōnsuētūdinēs, quās trādidit nōbīs Moysēs”.
+14 audīvimus enim eum dīcentem quoniam Iēsūs Nazarēnus **hic** dēstruet locum istum et mūtābit cōnsuētūdinēs, quās trādidit nōbīs Moȳsēs[\*][moyses]”.
 
 15 Et intuentēs eum omnēs, quī sedēbant in conciliō, vīdērunt faciem eius tamquam faciem angelī.
 
@@ -468,7 +470,7 @@ Cōnsēnsērunt autem illī
 
 7 et gentem, cui servierint, iūdicābō ego, dīxit Deus; et post haec exībunt et dēservient mihi in locō istō”.
 
-8 Et **dedit** illī testāmentum circumcīsiōnis; et sīc genuit Isaac et circumcīdit eum **diē** **octāva**, et Isaac Iācōb[*][jacob], et Iācōb[*][jacob] duodecim patriarchās.
+8 Et **dedit** illī testāmentum circumcīsiōnis; et sīc genuit Isaac et circumcīdit eum **diē** **octāva**, et Isaac Iācōb[\*][jacob], et Iācōb[\*][jacob] duodecim patriarchās.
 
 9 Et patriarchae aemulantēs Iōsēph vēndidērunt in Aegyptum; et erat Deus cum eō
 
@@ -476,13 +478,13 @@ Cōnsēnsērunt autem illī
 
 11 **Venit** autem famēs in ūniversam Aegyptum et Chanaan et trībulātiō **magna**, et nōn inveniēbant cibōs patrēs nostrī.
 
-12 Cum audīsset autem Iācōb[*][jacob] **esse** frūmentum in Aegyptō, mīsit patrēs nostrōs prīmum;
+12 Cum audīsset autem Iācōb[\*][jacob] **esse** frūmentum in Aegyptō, mīsit patrēs nostrōs prīmum;
 
 13 et in secundō **cognitus** **est** Iōsēph ā frātribus **suīs**, et manifestātum **est** pharaōnī **genus** Iōsēph.
 
-14 Mittēns autem Iōsēph accersīvit Iācōb[*][jacob] patrem suum et omnem cognātiōnem in animābus septuāgintā quīnque;
+14 Mittēns autem Iōsēph accersīvit Iācōb[\*][jacob] patrem suum et omnem cognātiōnem in animābus septuāgintā quīnque;
 
-15 et dēscendit Iācōb[*][jacob] in Aegyptum. Et **dēfūnctus** **est** ipse et patrēs nostrī;
+15 et dēscendit Iācōb[\*][jacob] in Aegyptum. Et **dēfūnctus** **est** ipse et patrēs nostrī;
 
 16 et trānslātī sunt in Sichem et positī sunt in sepulcrō, quod **emit** Abraham pretiō argentī ā fīliīs Hemmor in Sichem.
 
@@ -492,11 +494,11 @@ Cōnsēnsērunt autem illī
 
 19 **Hīc** circumveniēns **genus** nostrum, afflīxit patrēs, ut expōnerent īnfantēs suōs, nē vīvī servārentur.
 
-20 Eōdem tempore **nātus** **est** Moysēs et erat fōrmōsus **cōram** Deō; quī nūtrītus **est** **tribus** mēnsibus in domō patris.
+20 Eōdem tempore **nātus** **est** Moȳsēs[\*][moyses] et erat fōrmōsus **cōram** Deō; quī nūtrītus **est** **tribus** mēnsibus in domō patris.
 
 21 Expositō autem illō, sustulit eum **fīlia** pharaōnis et ēnūtrīvit eum sibi in fīlium;
 
-22 et **ērudītus** **est** Moysēs in omnī **sapientiā** Aegyptiōrum; et erat potēns in verbīs et in operibus **suīs**.
+22 et **ērudītus** **est** Moȳsēs[\*][moyses] in omnī **sapientiā** Aegyptiōrum; et erat potēns in verbīs et in operibus **suīs**.
 
 23 Cum autem implērētur **eī** quadrāgintā annōrum tempus, ascendit in cor eius, ut vīsitāret frātrēs suōs fīliōs Isrāēl.
 
@@ -510,13 +512,13 @@ Cōnsēnsērunt autem illī
 
 28 Numquid interficere mē tū vīs, quemadmodum interfēcistī **heri** Aegyptium?”.
 
-29 **Fugit** autem Moysēs propter verbum istud; et **factus** **est** **advena** in **terrā** Madiān, ubi generāvit fīliōs duōs.
+29 **Fugit** autem Moȳsēs[\*][moyses] propter verbum istud; et **factus** **est** **advena** in **terrā** Madiān, ubi generāvit fīliōs duōs.
 
 30 Et **explētīs** annīs quadrāgintā, appāruit illī in dēsertō **montis** Sināī angelus in **ignis** **flammā** rubī.
 
-31 Moysēs autem vidēns admīrābātur vīsum; accēdente autem illō, ut cōnsīderāret, **facta** **est** vōx Dominī:
+31 Moȳsēs[\*][moyses] autem vidēns admīrābātur vīsum; accēdente autem illō, ut cōnsīderāret, **facta** **est** vōx Dominī:
 
-32 “Ego Deus patrum tuōrum, Deus Abraham et Isaac et Iācōb[*][jacob]”. Tremefactus autem Moysēs nōn audēbat cōnsīderāre.
+32 “Ego Deus patrum tuōrum, Deus Abraham et Isaac et Iācōb[\*][jacob]”. Tremefactus autem Moȳsēs[\*][moyses] nōn audēbat cōnsīderāre.
 
 33 Dīxit autem illī Dominus: “Solve calceāmentum pedum tuōrum; locus enim, in quō stās, **terrā** **sānctā** **est**.
 
@@ -526,13 +528,13 @@ Cōnsēnsērunt autem illī
 
 36 **Hic** ēdūxit illōs faciēns prōdigia et **signa** in **terrā** Aegyptī et in Rubrō marī et in dēsertō annīs quadrāgintā.
 
-37 **Hic** **est** Moysēs, quī dīxit fīliīs Isrāēl: “Prophētam vōbīs suscitābit Deus dē frātribus vestrīs tamquam mē”.
+37 **Hic** **est** Moȳsēs[\*][moyses], quī dīxit fīliīs Isrāēl: “Prophētam vōbīs suscitābit Deus dē frātribus vestrīs tamquam mē”.
 
 38 **Hic** **est** quī fuit in **ecclēsiā** in sōlitūdine cum angelō, quī loquēbātur **eī** in monte Sināī, et cum patribus nostrīs; quī accēpit verba **vīva** dare nōbīs;
 
 39 cui nōluērunt oboedīre patrēs nostrī, sed reppulērunt et āversī sunt in cordibus **suīs** in Aegyptum
 
-40 dīcentēs ad Aarōn: “Fac nōbīs deōs, quī praecēdant nōs; Moysēs enim **hic**, quī ēdūxit nōs dē **terrā** Aegyptī, nescīmus quid factum sit **eī**”.
+40 dīcentēs ad Aarōn: “Fac nōbīs deōs, quī praecēdant nōs; Moȳsēs[\*][moyses] enim **hic**, quī ēdūxit nōs dē **terrā** Aegyptī, nescīmus quid factum sit **eī**”.
 
 41 Et vitulum fēcērunt in illīs diēbus et obtulērunt hostiam simulācrō et laetābantur in operibus manuum suārum.
 
@@ -554,7 +556,7 @@ Et trānsferam vōs trāns Babylōnem”.
 
 45 quod et indūxērunt suscipientēs patrēs nostrī cum Iēsū in possessiōnem gentium, quās expulit Deus ā faciē patrum nostrōrum, usque in diēbus Dāvīd,
 
-46 quī **invēnit** grātiam ante Deum et petiit, ut invenīret tabernāculum domuī Iācōb[*][jacob].
+46 quī **invēnit** grātiam ante Deum et petiit, ut invenīret tabernāculum domuī Iācōb[\*][jacob].
 
 47 Salomōn autem aedificāvit illī domum.
 
@@ -744,7 +746,7 @@ Fuit autem cum discipulīs, quī erant Damascī, per diēs aliquot;
 
 30 Quod cum cognōvissent, frātrēs dēdūxērunt eum **Caesarēam** et dīmīsērunt Tarsum.
 
-31 **Ecclēsia** quidem per **tōtam** Iūdaeam et Galilaeam[*][galilaea] et Samarīam habēbat pācem; aedificābātur et ambulābat in timōre Dominī et cōnsōlātiōne Sānctī **Spīritus** crēscēbat.
+31 **Ecclēsia** quidem per **tōtam** Iūdaeam et Galilaeam[\*][galilaea] et Samarīam habēbat pācem; aedificābātur et ambulābat in timōre Dominī et cōnsōlātiōne Sānctī **Spīritus** crēscēbat.
 
 32 Factum **est** autem Petrum, dum pertrānsīret ūniversōs, dēvenīre et ad sānctōs, quī habitābant Lyddae.
 
@@ -846,7 +848,7 @@ Sequentī autem **diē**, surgēns **profectus** **est** cum eīs, et quīdam ex
 
 36 Verbum mīsit fīliīs Isrāēl ēvangelīzāns pācem per Iēsum Chrīstum; **hic** **est** omnium Dominus.
 
-37 Vōs **scītis** quod factum **est** verbum per ūniversam Iūdaeam incipiēns ā Galilaeā[*][galilaea] post baptismum, quod praedicāvit Iōannēs:
+37 Vōs **scītis** quod factum **est** verbum per ūniversam Iūdaeam incipiēns ā Galilaeā[\*][galilaea] post baptismum, quod praedicāvit Iōannēs:
 
 38 Iēsum ā Nazareth, quōmodo ūnxit eum Deus Spīritū Sānctō et virtūte, quī pertrānsīvit benefaciendō et sānandō omnēs oppressōs ā Diabolō, quoniam Deus erat cum illō.
 
@@ -1046,7 +1048,7 @@ Sequentī autem **diē**, surgēns **profectus** **est** cum eīs, et quīdam ex
 
 30 Deus vērō suscitāvit eum ā mortuīs;
 
-31 quī **vīsus** **est** per diēs multōs hīs, quī simul ascenderant cum eō dē Galilaeā[*][galilaea] in Ierūsalēm, quī nunc sunt testēs eius ad plēbem.
+31 quī **vīsus** **est** per diēs multōs hīs, quī simul ascenderant cum eō dē Galilaeā[\*][galilaea] in Ierūsalēm, quī nunc sunt testēs eius ad plēbem.
 
 32 Et nōs vōbīs ēvangelīzāmus eam, quae ad patrēs prōmissiō **facta** **est**,
 
@@ -1188,7 +1190,7 @@ ut sīs in salūtem usque ad extrēmum terrae””.
 
 12 Tacuit autem **omnis** multitūdō, et audiēbant Barnabam et Paulum nārrantēs **quanta** fēcisset Deus **signa** et prōdigia in gentibus per eōs.
 
-13 Et postquam tacuērunt, respondit Iācōbus[*][jacob] dīcēns: “**Virī** frātrēs, **audītē** mē.
+13 Et postquam tacuērunt, respondit Iācōbus[\*][jacob] dīcēns: “**Virī** frātrēs, **audītē** mē.
 
 14 Simeōn nārrāvit quemadmodum prīmum Deus vīsitāvit **sūmere** ex gentibus **populum** nōminī suō;
 
@@ -1210,7 +1212,7 @@ dīcit Dominus faciēns haec 18 **nota** ā saeculō”.
 
 20 sed **scrībere** ad eōs, ut abstineant sē ā contāminātiōnibus simulācrōrum et fornicātiōne et suffōcātō et sanguine.
 
-21 Moysēs enim ā generātiōnibus antīquīs habet in singulīs cīvitātibus, quī eum **praedicent** in synagōgīs, ubi per omne sabbatum legitur”.
+21 Moȳsēs[\*][moyses] enim ā generātiōnibus antīquīs habet in singulīs cīvitātibus, quī eum **praedicent** in synagōgīs, ubi per omne sabbatum legitur”.
 
 22 Tunc placuit apostolīs et presbytērīs cum omnī **ecclēsiā** ēlēctōs virōs ex eīs **mittere** Antiochīam cum Paulō et Barnabā: Iūdam, quī cognōminātur Barsabbās, et Sīlam, virōs prīmōs in frātribus,
 
@@ -1990,7 +1992,7 @@ dīcit Dominus faciēns haec 18 **nota** ā saeculō”.
 
 21 Hāc ex **causā** mē Iūdaeī, cum essem in templō comprehēnsum, tentābant interficere.
 
-22 Auxilium igitur assecūtus ā Deō usque in hodiernum diem stō testificāns minōrī atque maiōrī, nihil extrā dīcēns quam **ea**, quae Prophētae sunt locūtī **futūra** **esse** et Moysēs:
+22 Auxilium igitur assecūtus ā Deō usque in hodiernum diem stō testificāns minōrī atque maiōrī, nihil extrā dīcēns quam **ea**, quae Prophētae sunt locūtī **futūra** **esse** et Moȳsēs[\*][moyses]:
 
 23 sī **passibilis** Chrīstus, sī prīmus ex resurrēctiōne mortuōrum lūmen annūntiātūrus **est** **populō** et gentibus”.
 
@@ -2185,13 +2187,8 @@ et sānābō illōs”.
 [1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27) [28](#28)
 
 [andreas]: <Ambiguous Forms.md#andreas>
-
 [fere]: <Ambiguous Forms.md#fere>
-
 [galilaea]: <Ambiguous Forms.md#galilaea>
-
 [jacob]: <Ambiguous Forms.md#jacob>
-
 [matthias]: <Ambiguous Forms.md#matthias>
-
-
+[moyses]: <Ambiguous Forms.md#moyses>

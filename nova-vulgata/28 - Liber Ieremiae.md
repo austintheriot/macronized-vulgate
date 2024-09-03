@@ -2398,7 +2398,7 @@ Tū enim fēcistī omnia haec.
 
 ## 15
 
-1 Et dīxit Dominus ad mē: “ Sī steterit Moysēs et Samuel **cōram** mē, nōn **est** **anima** **mea** ad **populum** istum; ēice illōs ā faciē **meā**, et ēgrediantur.
+1 Et dīxit Dominus ad mē: “ Sī steterit Moȳsēs[\*][moyses] et Samuel **cōram** mē, nōn **est** **anima** **mea** ad **populum** istum; ēice illōs ā faciē **meā**, et ēgrediantur.
 
 2 Quod sī dīxerint ad tē: “Quō ēgrediēmur?”, **dīcēs** ad eōs: Haec dīcit Dominus:
 
@@ -6424,4 +6424,4 @@ Et recessit Sedeciās ā **rēge** Babylōnis.
 
 34 Et **cibāria** eius, **cibāria** **perpetua** dabantur **eī** ā **rēge** Babylōnis **statūta** per singulōs diēs, usque ad diem **mortis** suae, cūnctīs diēbus vītae eius.
 
-
+[moyses]: <Ambiguous Forms.md#moyses>

@@ -42,7 +42,7 @@
 
 19 Fuitque Dominus cum **Iūdā**, et **montāna** possēdit; nec potuit **expellere** habitātōrēs **vallis**, quia falcātīs curribus abundābant.
 
-20 Dedēruntque Chaleb **Hebrōn**, sīcut dīxerat Moysēs, quī expulit ex **eā** trēs fīliōs Enac.
+20 Dedēruntque Chaleb **Hebrōn**, sīcut dīxerat Moȳsēs[\*][moyses], quī expulit ex **eā** trēs fīliōs Enac.
 
 21 Iebusaeum autem habitātōrem Ierusālem nōn expulērunt fīliī Beniamin, habitāvitque Iebusaeus cum fīliīs Beniamin in Ierusālem usque in praesentem diem.
 
@@ -1335,3 +1335,5 @@ Quī nōluērunt frātrum suōrum fīliōrum Isrāēl audīre mandātum,
 24 Fīliī **quoque** Isrāēl reversī sunt inde illō tempore ūnusquisque ad tribum et familiam suam in possessiōnem suam.
 
 25 In diēbus illīs nōn erat rēx in Isrāēl, sed ūnusquisque, quod sibi rēctum vidēbātur, **hoc** faciēbat.
+
+[moyses]: <Ambiguous Forms.md#moyses>

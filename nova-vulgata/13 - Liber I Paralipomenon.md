@@ -424,7 +424,7 @@ Fīliī Hur prīmōgenitī Ephratha: Sobal pater Cariathiarim,
 
 28 Fīliī Caath: Amram, Isaar, **Hebrōn** et Oziel.
 
-29 Fīliī Amram: Aarōn, Moysēs et **Maria**. Fīliī Aarōn: Nadab et Abiu, Eleazar et Ithamar.
+29 Fīliī Amram: Aarōn, Moȳsēs[\*][moyses] et **Maria**. Fīliī Aarōn: Nadab et Abiu, Eleazar et Ithamar.
 
 30 Eleazar genuit Phineēs, et Phineēs genuit Abīsue;
 
@@ -520,7 +520,7 @@ Hae autem cognātiōnēs **Levī** secundum familiās eōrum:
 
 33 Frātrēs **quoque** eōrum Lēvītae, quī ōrdinātī sunt in cūnctum ministerium habitāculī **domūs** Dominī;
 
-34 Aarōn vērō et fīliī eius adolēbant super altāre holocaustī et super altāre thȳmiāmatis in omne opus sānctī sānctōrum, et ut expiārent prō Isrāēl, iuxtā omnia quae praecēpit Moysēs servus Deī.
+34 Aarōn vērō et fīliī eius adolēbant super altāre holocaustī et super altāre thȳmiāmatis in omne opus sānctī sānctōrum, et ut expiārent prō Isrāēl, iuxtā omnia quae praecēpit Moȳsēs[\*][moyses] servus Deī.
 
 35 Hī sunt autem fīliī Aarōn: Eleazar fīlius eius, Phineēs fīlius eius, Abīsue fīlius eius,
 
@@ -1158,7 +1158,7 @@ Suscēpit ergō eōs Dāvīd et cōnstituit prīncipēs turmae.
 
 14 Sānctificātī sunt ergō sacerdōtēs et Lēvītae, ut portārent arcam Dominī, Deī Isrāēl;
 
-15 et tulērunt fīliī **Levī** arcam Deī, sīcut praecēperat Moysēs iuxtā verbum Dominī, **umerīs** **suīs** in vectibus.
+15 et tulērunt fīliī **Levī** arcam Deī, sīcut praecēperat Moȳsēs[\*][moyses] iuxtā verbum Dominī, **umerīs** **suīs** in vectibus.
 
 16 Dīxitque Dāvīd prīncipibus Lēvītārum, ut cōnstituerent dē frātribus **suīs** cantōrēs in organīs mūsicōrum, nablīs vidēlicet et lyrīs et cymbalīs, ut resonāret fortiter **sonitus** laetitiae.
 
@@ -1546,7 +1546,7 @@ Porrō angelus Dominī stābat iuxtā āream **Ōrnān** Iebusaēī.
 
 28 In illō ergō tempore Dāvīd vidēns quod exaudīsset eum Dominus in **āreā** **Ōrnān** Iebusaēī immolāvit ibi victimās.
 
-29 Tabernāculum autem Dominī, quod fēcerat Moysēs in dēsertō, et altāre holocaustōrum **eā** tempestāte erat in excelsō Gabaōn;
+29 Tabernāculum autem Dominī, quod fēcerat Moȳsēs[\*][moyses] in dēsertō, et altāre holocaustōrum **eā** tempestāte erat in excelsō Gabaōn;
 
 30 et nōn praevaluit Dāvīd īre, ut ibi obsecrāret Deum; nimiō enim fuerat timōre perterritus vidēns gladium angelī Dominī.
 
@@ -1616,7 +1616,7 @@ Porrō angelus Dominī stābat iuxtā āream **Ōrnān** Iebusaēī.
 
 12 Fīliī Caath: Amram et Isaar, **Hebrōn** et Oziel, quattuor.
 
-13 Fīliī Amram: Aarōn et Moysēs. **Sēparātus**que **est** Aarōn, ut sānctificāret **sānctissima**, ipse et fīliī eius in sempiternum, et adolēret Dominō et servīret **eī** ac benedīceret in nōmine eius in perpetuum.
+13 Fīliī Amram: Aarōn et Moȳsēs[\*][moyses]. **Sēparātus**que **est** Aarōn, ut sānctificāret **sānctissima**, ipse et fīliī eius in sempiternum, et adolēret Dominō et servīret **eī** ac benedīceret in nōmine eius in perpetuum.
 
 14 Moysi **quoque** hominis Deī fīliī annumerātī sunt in tribū **Levī**.
 
@@ -2046,3 +2046,4 @@ et laudāmus **nōmen** tuum inclitum.
 
 30 ūniversīque rēgnī eius et fortitūdinis et temporum, quae trānsiērunt sub eō sīve in Isrāēl sīve in cūnctīs rēgnīs terrārum.
 
+[moyses]: <Ambiguous Forms.md#moyses>

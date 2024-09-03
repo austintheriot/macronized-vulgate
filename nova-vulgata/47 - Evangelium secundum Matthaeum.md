@@ -494,7 +494,7 @@ sed **līberā** nōs ā **Malō**.
 
 3 Et extendēns **manum**, tetigit eum dīcēns: “ Volō, mundāre! ”; et cōnfestim **mundāta** **est** **lepra** eius.
 
-4 Et ait illī **Iēsus**: “ Vidē, nēminī **dīxerīs**; sed **vāde**, ostende tē sacerdōtī et offer mūnus, quod praecēpit Moysēs, in testimōnium illīs ”.
+4 Et ait illī **Iēsus**: “ Vidē, nēminī **dīxerīs**; sed **vāde**, ostende tē sacerdōtī et offer mūnus, quod praecēpit Moȳsēs[\*][moyses], in testimōnium illīs ”.
 
 5 Cum autem introīsset Capharnāum, accessit ad eum centuriō rogāns eum
 
@@ -1276,7 +1276,7 @@ Et accēdentēs discipulī eius rogābant eum dīcentēs: “ Dīmitte eam, quia
 
 2 Et trānsfigūrātus **est** ante eōs; et resplenduit faciēs eius sīcut sōl, vestīmenta autem eius **facta** sunt **alba** sīcut lūx.
 
-3 Et ecce appāruit illīs Moysēs et **Eliās** cum eō loquentēs.
+3 Et ecce appāruit illīs Moȳsēs[\*][moyses] et **Eliās** cum eō loquentēs.
 
 4 Respondēns autem Petrus dīxit ad **Iēsum**: “ Domine, bonum **est** nōs **hīc** **esse**. Sī vīs, faciam **hic** tria tabernācula: tibi ūnum et Moysī ūnum et Eliae ūnum ”.
 
@@ -1412,9 +1412,9 @@ vident faciem Patrīs meī, quī in caelīs **est**.
 
 6 Itaque iam nōn sunt duo sed **ūna** **carō**. Quod ergō Deus coniūnxit, homō nōn sēparet ”.
 
-7 Dīcunt illī: “ Quid ergō Moysēs mandāvit darī libellum repudiī et **dīmittere**? ”.
+7 Dīcunt illī: “ Quid ergō Moȳsēs[\*][moyses] mandāvit darī libellum repudiī et **dīmittere**? ”.
 
-8 Ait illīs: “ Moysēs ad dūritiam **cordis** vestrī permīsit vōbīs **dīmittere** uxōrēs vestrās; ab initiō autem nōn sīc fuit.
+8 Ait illīs: “ Moȳsēs[\*][moyses] ad dūritiam **cordis** vestrī permīsit vōbīs **dīmittere** uxōrēs vestrās; ab initiō autem nōn sīc fuit.
 
 9 **Dīcō** autem vōbīs quia quīcumque dīmīserit uxōrem suam, **nisi** ob fornicātiōnem, et aliam dūxerit, moechātur ”.
 
@@ -1686,7 +1686,7 @@ et **est** mīrābile in oculīs nostrīs" ?
 
 23 In illō **diē** accessērunt ad eum saddūcaeī, quī dīcunt nōn **esse** resurrēctiōnem, et interrogāvērunt eum
 
-24 dīcentēs: “ Magister, Moysēs dīxit, sī **quis** mortuus fuerit nōn habēns fīliōs, ut dūcat frāter eius uxōrem illīus et suscitet sēmen frātrī suō.
+24 dīcentēs: “ Magister, Moȳsēs[\*][moyses] dīxit, sī **quis** mortuus fuerit nōn habēns fīliōs, ut dūcat frāter eius uxōrem illīus et suscitet sēmen frātrī suō.
 
 25 Erant autem apud nōs septem frātrēs: et prīmus, uxōre **ducta**, **dēfūnctus** **est** et nōn habēns sēmen relīquit uxōrem suam frātrī suō;
 
@@ -2340,4 +2340,4 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 20 docentēs eōs servāre omnia, quaecumque mandāvī vōbīs. Et ecce ego vōbīscum sum omnibus diēbus usque ad cōnsummātiōnem saeculī ”.
 
-
+[moyses]: <Ambiguous Forms.md#moyses>

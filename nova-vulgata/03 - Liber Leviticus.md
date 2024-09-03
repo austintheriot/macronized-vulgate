@@ -368,7 +368,7 @@
 
 3 et congregābis omnem coetum ad ōstium tabernāculī **conventus** ”.
 
-4 Fēcit Moysēs, ut Dominus imperārat; congregātōque omnī coetū ante forēs tabernāculī **conventūs**,
+4 Fēcit Moȳsēs[\*][moyses], ut Dominus imperārat; congregātōque omnī coetū ante forēs tabernāculī **conventūs**,
 
 5 ait: “ Iste **est** sermō, quem iussit Dominus fierī ”.
 
@@ -390,7 +390,7 @@
 
 14 Addūxit et vitulum prō peccātō; cumque super caput eius posuissent Aarōn et fīliī eius **manūs** suās,
 
-15 immolāvit eum; et hauriēns Moysēs sanguinem tīnctō digitō tetigit cornua **altāris** per gȳrum et mundāvit illud; fūditque reliquum sanguinem ad fundāmenta eius et sānctificāvit illud expiandō.
+15 immolāvit eum; et hauriēns Moȳsēs[\*][moyses] sanguinem tīnctō digitō tetigit cornua **altāris** per gȳrum et mundāvit illud; fūditque reliquum sanguinem ad fundāmenta eius et sānctificāvit illud expiandō.
 
 16 Adipem autem, quī erat super vītālia, et rēticulum iecoris duōsque rēnunculōs cum arvinūlīs **suīs** adolēvit super altāre;
 
@@ -406,7 +406,7 @@
 
 22 Attulit et arietem secundum in cōnsecrātiōnem sacerdōtum; posuēruntque super caput illīus Aarōn et fīliī eius **manūs** suās.
 
-23 Quem cum immolāsset Moysēs, sūmēns dē sanguine tetigit extrēmum auriculae dextrae Aarōn et pollicem **manus** eius dextrae, similiter et **pedis**.
+23 Quem cum immolāsset Moȳsēs[\*][moyses], sūmēns dē sanguine tetigit extrēmum auriculae dextrae Aarōn et pollicem **manus** eius dextrae, similiter et **pedis**.
 
 24 Applīcāvit et fīliōs Aarōn; cumque dē sanguine arietis immolātī tetigisset extrēmum auriculae singulōrum dextrae et pollicēs **manūs** ac **pedis** dextrī, reliquum fūdit super altāre per circuitum.
 
@@ -436,7 +436,7 @@
 
 ## 9
 
-1 Factō autem octāvō **diē**, vocāvit Moysēs Aarōn et fīliōs eius ac maiōrēs nātū Isrāēl dīxitque ad Aarōn:
+1 Factō autem octāvō **diē**, vocāvit Moȳsēs[\*][moyses] Aarōn et fīliōs eius ac maiōrēs nātū Isrāēl dīxitque ad Aarōn:
 
 2 “ Tolle dē armentō vitulum prō peccātō et arietem in holocaustum, utrumque immaculātum, et affer illōs **cōram** Dominō.
 
@@ -444,9 +444,9 @@
 
 4 bovem et arietem prō pācificīs, et **immolātē** eōs **cōram** Dominō, et sacrificium similae oleō cōnspersae: hodiē enim Dominus appārēbit vōbīs" ”.
 
-5 Tulērunt ergō **cūncta**, quae iusserat Moysēs, ad ōstium tabernāculī **conventūs**; ubi, cum **omnīs** **coetūs** accessisset et stāret **cōram** Dominō,
+5 Tulērunt ergō **cūncta**, quae iusserat Moȳsēs[\*][moyses], ad ōstium tabernāculī **conventūs**; ubi, cum **omnīs** **coetūs** accessisset et stāret **cōram** Dominō,
 
-6 ait Moysēs: “ Iste **est** sermō, quem praecēpit Dominus: facite, et appārēbit vōbīs **glōria** eius ”.
+6 ait Moȳsēs[\*][moyses]: “ Iste **est** sermō, quem praecēpit Dominus: facite, et appārēbit vōbīs **glōria** eius ”.
 
 7 Dīxit et ad Aarōn: “ Accēde ad altāre et immolā prō peccātō tuō; offer holocaustum et expiā tē et **populum**. Et fac hostiam **populī** et expiā eum, sīcut praecēpit Dominus ”.
 
@@ -476,11 +476,11 @@
 
 20 posuērunt super pectora; cumque cremātī **essent** adipēs in altārī,
 
-21 pectora eōrum et armōs dextrōs Aarōn ēlevāvit **cōram** Dominō, sīcut praecēperat Moysēs.
+21 pectora eōrum et armōs dextrōs Aarōn ēlevāvit **cōram** Dominō, sīcut praecēperat Moȳsēs[\*][moyses].
 
 22 Et ēlevāns Aarōn **manūs** ad **populum** benedīxit eīs. Sīcque, **complētīs** hostiīs prō peccātō et holocaustīs et pācificīs, dēscendit.
 
-23 Ingressī autem Moysēs et Aarōn tabernāculum **conventūs** et deinceps ēgressī benedīxērunt **populō**. Appāruitque **glōria** Dominī omnī **populō**;
+23 Ingressī autem Moȳsēs[\*][moyses] et Aarōn tabernāculum **conventūs** et deinceps ēgressī benedīxērunt **populō**. Appāruitque **glōria** Dominī omnī **populō**;
 
 24 et ecce **ēgressus** **ignis** ā Dominō dēvorāvit holocaustum et adipēs, quī erant super altāre. Quod cum vīdissent turbae, exultāvērunt ruentēs in faciēs suās.
 
@@ -490,13 +490,13 @@
 
 2 **Ēgressus**que **ignis** ā Dominō dēvorāvit eōs, et mortuī sunt **cōram** Dominō.
 
-3 Dīxitque Moysēs ad Aarōn: “ **Hoc** **est**, quod **locūtus** **est** Dominus: "Sānctificābor in hīs, quī appropinquant mihi, et in cōnspectū **omnis** **populī** glōrificābor" ”. Quod audiēns tacuit Aarōn.
+3 Dīxitque Moȳsēs[\*][moyses] ad Aarōn: “ **Hoc** **est**, quod **locūtus** **est** Dominus: "Sānctificābor in hīs, quī appropinquant mihi, et in cōnspectū **omnis** **populī** glōrificābor" ”. Quod audiēns tacuit Aarōn.
 
-4 **Vocātīs** autem Moysēs Misael et Elisaphān fīliīs Oziel patruī Aarōn, ait ad eōs: “ **Īte** et tollite frātrēs vestrōs dē cōnspectū sānctuāriī et **asportāte** extrā **castra** ”.
+4 **Vocātīs** autem Moȳsēs[\*][moyses] Misael et Elisaphān fīliīs Oziel patruī Aarōn, ait ad eōs: “ **Īte** et tollite frātrēs vestrōs dē cōnspectū sānctuāriī et **asportāte** extrā **castra** ”.
 
 5 Cōnfestimque pergentēs tulērunt eōs, sīcut iacēbant vestītōs subūculīs **suīs**, forās, ut sibi fuerat imperātum.
 
-6 **Locūtus** **est** Moysēs ad Aarōn et ad Eleazar atque Ithamar fīliōs eius: “ **Comās** vestrās nōlīte excutere et vestīmenta nōlīte **scindere**, nē moriāminī, et super omnem coetum oriātur indignātiō. Frātrēs vestrī, **omnis** **domus** Isrāēl, plangant incendium, quod Dominus suscitāvit.
+6 **Locūtus** **est** Moȳsēs[\*][moyses] ad Aarōn et ad Eleazar atque Ithamar fīliōs eius: “ **Comās** vestrās nōlīte excutere et vestīmenta nōlīte **scindere**, nē moriāminī, et super omnem coetum oriātur indignātiō. Frātrēs vestrī, **omnis** **domus** Isrāēl, plangant incendium, quod Dominus suscitāvit.
 
 7 Vōs autem nōn ēgrediminī forēs tabernāculī **conventūs**, aliōquīn perībitis; oleum quippe ūnctiōnis Dominī **est** super vōs ”. Quī fēcērunt omnia iuxtā praeceptum Moȳsī.
 
@@ -508,7 +508,7 @@
 
 11 doceātisque fīliōs Isrāēl omnia **lēgitima** **mea**, quae **locūtus** **est** Dominus ad eōs per **manum** Moȳsī ”.
 
-12 **Locūtus**que **est** Moysēs ad Aarōn et ad Eleazar atque Ithamar fīliōs eius, quī residuī erant: “ Tollite oblātiōnem similae, quae remānsit dē incēnsīs Dominī, et comedite illam absque fermentō iuxtā altāre, quia sānctum sānctōrum **est**.
+12 **Locūtus**que **est** Moȳsēs[\*][moyses] ad Aarōn et ad Eleazar atque Ithamar fīliōs eius, quī residuī erant: “ Tollite oblātiōnem similae, quae remānsit dē incēnsīs Dominī, et comedite illam absque fermentō iuxtā altāre, quia sānctum sānctōrum **est**.
 
 13 Comedētis autem in locō sānctō, quia **data** **est** tibi et fīliīs tuīs dē incēnsīs Dominī, sīcut praeceptum **est** mihi.
 
@@ -516,7 +516,7 @@
 
 15 Armum et pectus cum incēnsīs adipum afferent ad ēlātiōnem **cōram** Dominō, et pertineant ad tē et ad fīliōs tuōs **lēge** **perpetuā**, sīcut praecēpit Dominus ”.
 
-16 Dē hircō autem prō peccātō cum quaereret Moysēs, exustum repperit; īrātusque contrā Eleazar et Ithamar fīliōs Aarōn, quī remānserant, ait:
+16 Dē hircō autem prō peccātō cum quaereret Moȳsēs[\*][moyses], exustum repperit; īrātusque contrā Eleazar et Ithamar fīliōs Aarōn, quī remānserant, ait:
 
 17 “ Cūr nōn comēdistis sacrificium prō peccātō in locō sānctō? Quod sānctum sānctōrum **est**, et datum vōbīs, ut portētis inīquitātem **coetūs** in expiātiōnem eōrum in cōnspectū Dominī;
 
@@ -524,7 +524,7 @@
 
 19 Respondit Aarōn: “ **Oblāta** **est** hodiē **victima** prō peccātō et holocaustum eōrum **cōram** Dominō; mihi autem **accidit**, quod vidēs. Quōmodo **potuī** **comedere** eam et **placēre** Dominō? ”.
 
-20 Quod cum audīsset Moysēs, recēpit satisfactiōnem.
+20 Quod cum audīsset Moȳsēs[\*][moyses], recēpit satisfactiōnem.
 
 ## 11
 
@@ -1204,7 +1204,7 @@ Nōn augurābiminī nec observābitis ōmina.
 
 23 Sed ad vēlum nōn ingrediātur nec accēdat ad altāre, quia maculam habet et contāmināre nōn dēbet sānctuāria **mea**, quia ego Dominus, quī sānctificō **ea** ”.
 
-24 **Locūtus** **est** ergō Moysēs ad Aarōn et fīliōs eius et ad omnem Isrāēl.
+24 **Locūtus** **est** ergō Moȳsēs[\*][moyses] ad Aarōn et fīliōs eius et ad omnem Isrāēl.
 
 ## 22
 
@@ -1362,7 +1362,7 @@ Nōn augurābiminī nec observābitis ōmina.
 
 43 ut discant posterī vestrī quod in tabernāculīs habitāre fēcerim fīliōs Isrāēl, cum ēdūcerem eōs dē **terrā** Aegyptī. Ego Dominus Deus vester ”.
 
-44 **Locūtus**que **est** Moysēs super sollemnitātibus Dominī ad fīliōs Isrāēl.
+44 **Locūtus**que **est** Moȳsēs[\*][moyses] super sollemnitātibus Dominī ad fīliōs Isrāēl.
 
 ## 24
 
@@ -1412,7 +1412,7 @@ Homō, quī maledīxerit Deō suō, portābit peccātum suum;
 
 22 Aequum iūdicium sit inter vōs, sīve peregrīnus sīve **cīvis** peccāverit; quia ego sum Dominus Deus vester ”.
 
-23 **Locūtus**que **est** Moysēs ad fīliōs Isrāēl, et ēdūxērunt eum, quī blasphēmāverat, extrā **castra**, ac lapidibus oppressērunt. Fēcēruntque fīliī Isrāēl, sīcut praecēperat Dominus Moȳsī.
+23 **Locūtus**que **est** Moȳsēs[\*][moyses] ad fīliōs Isrāēl, et ēdūxērunt eum, quī blasphēmāverat, extrā **castra**, ac lapidibus oppressērunt. Fēcēruntque fīliī Isrāēl, sīcut praecēperat Dominus Moȳsī.
 
 ## 25
 
@@ -1689,3 +1689,5 @@ Homō, quī maledīxerit Deō suō, portābit peccātum suum;
 33 Nōn discernētur inter bonum et **malum** nec alterō commūtābitur; sī **quis** mūtāverit, et quod mūtātum **est** et prō quō mūtātum **est**, sānctum erit et nōn redimētur ”.
 
 34 Haec sunt **praecepta**, quae mandāvit Dominus Moȳsī ad fīliōs Isrāēl in monte Sināī.
+
+[moyses]: <Ambiguous Forms.md#moyses>

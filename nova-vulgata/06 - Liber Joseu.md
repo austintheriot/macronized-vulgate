@@ -6,7 +6,7 @@
 
 1 Et factum **est**, ut post mortem Moȳsī servī Dominī loquerētur Dominus ad **Iōs**ue fīlium Nun ministrum Moȳsī et dīceret **eī**:
 
-2 “ Moysēs servus meus mortuus **est**; nunc igitur surge et trānsī Iordānem istum, tū et **omnis** **populus** iste, in terram, quam ego dabō fīliīs Isrāēl.
+2 “ Moȳsēs[\*][moyses] servus meus mortuus **est**; nunc igitur surge et trānsī Iordānem istum, tū et **omnis** **populus** iste, in terram, quam ego dabō fīliīs Isrāēl.
 
 3 Omnem locum, quem calcāverit vestīgium **pedis** vestrī, vōbīs trādidī, sīcut **locūtus** sum Moysī.
 
@@ -16,7 +16,7 @@
 
 6 Cōnfortāre et **estō** rōbustus; tū enim sorte dīvidēs **populō** huic terram, prō **quā** iūrāvī patribus **suīs**, ut trāderem eam illīs.
 
-7 Cōnfortāre tantum et **estō** rōbustus valdē, ut cūstōdiās et faciās iuxtā omnem lēgem, quam praecēpit tibi Moysēs servus meus. Nē dēclīnēs ab **eā** ad dexteram vel ad sinistram, ut prōsperēris in omnibus, ad quaecumque **perrēxerīs**.
+7 Cōnfortāre tantum et **estō** rōbustus valdē, ut cūstōdiās et faciās iuxtā omnem lēgem, quam praecēpit tibi Moȳsēs[\*][moyses] servus meus. Nē dēclīnēs ab **eā** ad dexteram vel ad sinistram, ut prōsperēris in omnibus, ad quaecumque **perrēxerīs**.
 
 8 Nōn recēdat **hoc** volūmen **lēgis** dē ōre tuō, sed meditāberis in eō diēbus ac noctibus, ut cūstōdiās et faciās iuxtā omnia, quae **scrīpta** sunt in eō: tunc **optimē** dīrigēs viam tuam et tunc prōsperāberis.
 
@@ -28,11 +28,11 @@
 
 12 Rubenitis **quoque** et Gaditis et dīmidiae tribuī Mānāsse ait:
 
-13 “ Mementōte sermōnis, quem praecēpit vōbīs Moysēs famulus Dominī dīcēns: “Dominus Deus vester **dēdit** vōbīs requiem et terram hanc”.
+13 “ Mementōte sermōnis, quem praecēpit vōbīs Moȳsēs[\*][moyses] famulus Dominī dīcēns: “Dominus Deus vester **dēdit** vōbīs requiem et terram hanc”.
 
-14 Uxōrēs vestrae et fīliī ac iūmenta manēbunt in **terrā**, quam trādidit vōbīs Moysēs trāns Iordānem; vōs autem trānsībitis armātī ante frātrēs vestrōs, omnēs **virī** fortēs, et adiuvābitis eōs,
+14 Uxōrēs vestrae et fīliī ac iūmenta manēbunt in **terrā**, quam trādidit vōbīs Moȳsēs[\*][moyses] trāns Iordānem; vōs autem trānsībitis armātī ante frātrēs vestrōs, omnēs **virī** fortēs, et adiuvābitis eōs,
 
-15 dōnec det requiem Dominus frātribus vestrīs, sīcut et vōbīs **dedit**, et possideant ipsī **quoque** terram, quam Dominus Deus vester datūrus **est** eīs. Et sīc revertēminī in terram possessiōnis vestrae et habitābitis in **eā**, quam vōbīs **dedit** Moysēs famulus Dominī trāns Iordānem contrā **sōlis** ortum ”.
+15 dōnec det requiem Dominus frātribus vestrīs, sīcut et vōbīs **dedit**, et possideant ipsī **quoque** terram, quam Dominus Deus vester datūrus **est** eīs. Et sīc revertēminī in terram possessiōnis vestrae et habitābitis in **eā**, quam vōbīs **dedit** Moȳsēs[\*][moyses] famulus Dominī trāns Iordānem contrā **sōlis** ortum ”.
 
 16 Respondēruntque ad **Ios**ue atque dīxērunt: “ Omnia, quae praecēpistī nōbīs, faciēmus et, quōcumque **miserīs**, ībimus.
 
@@ -146,11 +146,11 @@
 
 9 **Aliōs** **quoque** duodecim lapidēs posuit **Ios**ue in **mediō** **Iordānis** alveō, ubi stetērunt sacerdōtēs, quī portābant arcam **foederis**; et sunt ibi usque in praesentem diem.
 
-10 Sacerdōtēs autem, quī portābant arcam, stābant in **Iordānīs** **mediō**, dōnec omnia complērentur, quae **Ios**ue ut loquerētur ad **populum** praecēperat Dominus secundum omnia, quae dīxerat **eī** Moysēs. Festīnāvitque **populus** et trānsiit.
+10 Sacerdōtēs autem, quī portābant arcam, stābant in **Iordānīs** **mediō**, dōnec omnia complērentur, quae **Ios**ue ut loquerētur ad **populum** praecēperat Dominus secundum omnia, quae dīxerat **eī** Moȳsēs[\*][moyses]. Festīnāvitque **populus** et trānsiit.
 
 11 Cumque trānsīssent omnēs, trānsīvit et **arca** Dominī; sacerdōtēsque pergēbant ante **populum**.
 
-12 Fīliī **quoque** Ruben et Gad et **dīmidia** **tribūs** Mānāsse armātī praecēdēbant fīliōs Isrāēl, sīcut eīs praecēperat Moysēs;
+12 Fīliī **quoque** Ruben et Gad et **dīmidia** **tribūs** Mānāsse armātī praecēdēbant fīliōs Isrāēl, sīcut eīs praecēperat Moȳsēs[\*][moyses];
 
 13 quadrāgintā **ferē** **mīlia** expedītōrum ad pugnam incēdēbant **cōram** Dominō in campestria Ierichō.
 
@@ -386,15 +386,15 @@ In tempore illō imprecātus **est** **Ios**ue dīcēns:
 
 30 Tunc aedificāvit **Ios**ue altāre Dominō, Deō Isrāēl, in monte Hebal,
 
-31 sīcut praecēperat Moysēs famulus Dominī fīliīs Isrāēl, et scrīptum **est** in volūmine **lēgis** Moȳsī, altāre dē lapidibus impolītīs, quōs ferrum nōn tetigit. Et obtulērunt super eō holocausta Dominō immolāvēruntque pācificās victimās.
+31 sīcut praecēperat Moȳsēs[\*][moyses] famulus Dominī fīliīs Isrāēl, et scrīptum **est** in volūmine **lēgis** Moȳsī, altāre dē lapidibus impolītīs, quōs ferrum nōn tetigit. Et obtulērunt super eō holocausta Dominō immolāvēruntque pācificās victimās.
 
 32 Et scrīpsit ibi super lapidēs exemplar **lēgis** Moȳsī, quod ille scrīpserat **cōram** fīliīs Isrāēl.
 
-33 **Omnīs** autem **populus** et maiōrēs nātū praefectīque ac iūdicēs stābant ex **utrāque** **parte** arcae in cōnspectū sacerdōtum lēvīticī **generis**, quī portābant arcam **foederis** Dominī, ut **advena** **ita** et **indigena**. **Media** eōrum pars iuxtā montem Garizim et **media** iuxtā montem Hebal, sīcut praecēperat Moysēs famulus Dominī ad benedīcendum **populō** Isrāēl prīmum;
+33 **Omnīs** autem **populus** et maiōrēs nātū praefectīque ac iūdicēs stābant ex **utrāque** **parte** arcae in cōnspectū sacerdōtum lēvīticī **generis**, quī portābant arcam **foederis** Dominī, ut **advena** **ita** et **indigena**. **Media** eōrum pars iuxtā montem Garizim et **media** iuxtā montem Hebal, sīcut praecēperat Moȳsēs[\*][moyses] famulus Dominī ad benedīcendum **populō** Isrāēl prīmum;
 
 34 post haec **legit** omnia verba **lēgis**, benedictiōnem et maledictiōnem, secundum **cūncta**, quae **scrīpta** erant in **lēgis** volūmine.
 
-35 Nihil ex hīs, quae Moysēs iusserat, omīsit **legere**, sed **ūniversa** replicāvit **cōram** omnī congregātiōne Isrāēl, mulieribus ac parvulīs et advenīs, quī inter eōs **morābantur**.
+35 Nihil ex hīs, quae Moȳsēs[\*][moyses] iusserat, omīsit **legere**, sed **ūniversa** replicāvit **cōram** omnī congregātiōne Isrāēl, mulieribus ac parvulīs et advenīs, quī inter eōs **morābantur**.
 
 ## 9
 
@@ -574,13 +574,13 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 11 Percussitque omnēs animās, quae ibīdem **morābantur**; nōn dīmīsit in **eā** ūllās reliquiās, sed usque ad interneciōnem **ūniversa** vastāvit ipsamque urbem **perēmit** incendiō.
 
-12 Et omnēs per circuitum cīvitātēs **rēgēs**que eārum cēpit, percussit atque dēlēvit, sīcut praecēperat Moysēs famulus Dominī.
+12 Et omnēs per circuitum cīvitātēs **rēgēs**que eārum cēpit, percussit atque dēlēvit, sīcut praecēperat Moȳsēs[\*][moyses] famulus Dominī.
 
 13 Urbēs tantum, quae erant in tumulīs eārum sitae, nōn succendit Isrāēl; ūnam Asor sōlam **Iōs**ue **flamma** cōnsūmpsit.
 
 14 Omnemque praedam istārum urbium ac iūmenta dīvīsērunt sibi fīliī Isrāēl, cūnctīs hominibus interfectīs; nūllum vīvum relīquērunt.
 
-15 Sīcut praecēperat Dominus Moȳsī servō suō, **ita** praecēpit Moysēs **Ios**ue, et ille **ūniversa** complēvit; nōn praeteriit dē ūniversīs **mandātīs** nē ūnum quidem verbum, quod iusserat Dominus Moȳsī.
+15 Sīcut praecēperat Dominus Moȳsī servō suō, **ita** praecēpit Moȳsēs[\*][moyses] **Ios**ue, et ille **ūniversa** complēvit; nōn praeteriit dē ūniversīs **mandātīs** nē ūnum quidem verbum, quod iusserat Dominus Moȳsī.
 
 16 Cēpit itaque **Ios**ue omnem terram hanc, montānam et Nageb terramque Gosēn et Sephēlam et Arabam montemque Isrāēl et campestria eius,
 
@@ -610,7 +610,7 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 5 et **dominātus** **est** in monte **Hermōn** et in Salchā atque in **ūniversa** Basan usque ad terminōs Gesūrī et Maachāthī et in **dīmidiā** **parte** Galaad usque ad terminōs Sehon **rēgis** Hesebon.
 
-6 Moysēs famulus Dominī et fīliī Isrāēl percussērunt eōs; trādiditque terram eōrum Moysēs in possessiōnem Rubenitis et Gaditis et dīmidiae tribuī Mānāsse.
+6 Moȳsēs[\*][moyses] famulus Dominī et fīliī Isrāēl percussērunt eōs; trādiditque terram eōrum Moȳsēs[\*][moyses] in possessiōnem Rubenitis et Gaditis et dīmidiae tribuī Mānāsse.
 
 7 Hī sunt **rēgēs** terrae, quōs percussit **Ios**ue et fīliī Isrāēl trāns Iordānem ad occidentālem **plāgam**, ā Baalgad in campō **Libanī** usque ad montem Calvum, quī ascendit in Seir; trādiditque eam **Ios**ue in possessiōnem tribubus Isrāēl, singulīs partēs suās,
 
@@ -664,7 +664,7 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 7 Et nunc **dīvidē** terram hanc in possessiōnem novem tribubus et dīmidiae tribuī Mānāsse ”.
 
-8 Cum **quā** Ruben et Gad possēdērunt terram, quam trādidit eīs Moysēs famulus Dominī trāns **fluenta** **Iordānis** ad orientālem **plāgam**:
+8 Cum **quā** Ruben et Gad possēdērunt terram, quam trādidit eīs Moȳsēs[\*][moyses] famulus Dominī trāns **fluenta** **Iordānis** ad orientālem **plāgam**:
 
 9 ab Aroer, quae **sita** **est** in **rīpā** **torrentis** **Arnōn**, et cīvitāte in **vallīs** **mediō**, **ūniversa**que campestria Medaba usque Dibōn;
 
@@ -672,13 +672,13 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 11 et Galaad ac terminōs Gesūrī et Maachāthī omnemque montem **Hermōn** et ūniversam Basān usque Salchā,
 
-12 omne rēgnum Og in Basān, quī rēgnāvit in Astharoth et Edrāī — ipse fuit dē reliquiīs Raphaim C; percussitque eōs Moysēs atque dēlēvit.
+12 omne rēgnum Og in Basān, quī rēgnāvit in Astharoth et Edrāī — ipse fuit dē reliquiīs Raphaim C; percussitque eōs Moȳsēs[\*][moyses] atque dēlēvit.
 
 13 Nōn autem disperdidērunt fīliī Isrāēl Gesūrī et Maachathī, et habitāvērunt in **mediō** Isrāēl usque in praesentem diem.
 
 14 Tribuī tantum **Levī** nōn **dedit** possessiōnem, sed sacrificia Dominī, Deī Isrāēl: **ipsa** **est** eius hērēditās, sīcut **locūtus** **est** illī.
 
-15 **Dēdit** ergō Moysēs possessiōnem tribuī fīliōrum Ruben iuxtā cognātiōnēs suās.
+15 **Dēdit** ergō Moȳsēs[\*][moyses] possessiōnem tribuī fīliōrum Ruben iuxtā cognātiōnēs suās.
 
 16 Fuitque terminus eōrum ab Aroer, quae **sita** **est** in **rīpā** **torrentis** **Arnōn**, et ā cīvitāte in **valle** eiusdem **torrentis** **media**, et **ūniversa** plānitiēs usque Medaba,
 
@@ -690,13 +690,13 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 20 Bethphegor et **declivia** Phasga et Bethiesimoth
 
-21 et omnēs urbēs campestrēs ūniversumque rēgnum Sehon **rēgis** Amorraēī, quī rēgnāvit in Hesebon, quem percussit Moysēs, ipsum et prīncipēs Madiān, Evī et Recem et Sur et Hur et Rebē, **ducēs** Sehon habitātōrēs terrae.
+21 et omnēs urbēs campestrēs ūniversumque rēgnum Sehon **rēgis** Amorraēī, quī rēgnāvit in Hesebon, quem percussit Moȳsēs[\*][moyses], ipsum et prīncipēs Madiān, Evī et Recem et Sur et Hur et Rebē, **ducēs** Sehon habitātōrēs terrae.
 
 22 Et Balaam fīlium Beor hariolum **occīdērunt** fīliī Isrāēl gladiō cum cēterīs interfectīs.
 
 23 **Factus**que **est** terminus fīliōrum Ruben **Iordānis** fluvius. Haec **est** possessiō Rubenītārum per cognātiōnēs suās, urbēs et vīculī eārum.
 
-24 **Dēdit**que Moysēs tribuī Gad, fīliīs Gad, per cognātiōnēs suās possessiōnem, cuius **hic** **est**
+24 **Dēdit**que Moȳsēs[\*][moyses] tribuī Gad, fīliīs Gad, per cognātiōnēs suās possessiōnem, cuius **hic** **est**
 
 25 terminus: Iazer et omnēs cīvitātēs Galaad **dīmidia**que pars terrae fīliōrum Ammōn usque ad Aroer, quae **est** contrā Rabbā;
 
@@ -706,13 +706,13 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 28 Haec **est** possessiō fīliōrum Gad per familiās suās, cīvitātēs et vīllae eārum.
 
-29 **Dēdit** Moysēs et dīmidiae tribuī fīliōrum Mānāsse, iuxtā cognātiōnēs suās possessiōnem:
+29 **Dēdit** Moȳsēs[\*][moyses] et dīmidiae tribuī fīliōrum Mānāsse, iuxtā cognātiōnēs suās possessiōnem:
 
 30 Mānāsse, ā Mahanaim ūniversam Basān, cūnctum rēgnum Og **rēgis** Basān omnēsque vīcōs Iair, quī sunt in Basān, sexāgintā oppida;
 
 31 et dīmidiam partem Galaad et Astharoth et Edrāī, urbēs rēgnī Og in Basān, fīliīs Machir fīliī Mānāsse, dīmidiae partī fīliōrum Machir, iuxtā cognātiōnēs suās.
 
-32 Hanc possessiōnem dīvīsit Moysēs in campestribus Moab trāns Iordānem contrā Ierichō ad orientālem **plāgam**.
+32 Hanc possessiōnem dīvīsit Moȳsēs[\*][moyses] in campestribus Moab trāns Iordānem contrā Ierichō ad orientālem **plāgam**.
 
 33 Tribuī autem **Levī** nōn **dedit** possessiōnem, quoniam Dominus, Deus Isrāēl, ipse **est** possessiō eius, ut **locūtus** **est** illī.
 
@@ -722,7 +722,7 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 2 sorte omnia dīvidentēs, sīcut praecēperat Dominus in manū Moȳsī, novem tribubus et dīmidiae tribuī.
 
-3 Duābus enim tribubus et dīmidiae dederat Moysēs trāns Iordānem possessiōnem, absque **Lēvītīs**, quibus nihil **dedit** inter frātrēs suōs;
+3 Duābus enim tribubus et dīmidiae dederat Moȳsēs[\*][moyses] trāns Iordānem possessiōnem, absque **Lēvītīs**, quibus nihil **dedit** inter frātrēs suōs;
 
 4 sed sunt fīliī Ioseph in duās dīvīsī **tribūs**, Mānāsse et Ephraim, nec accēpērunt Lēvītae aliam in **terrā** partem, **nisi** urbēs ad habitandum et **suburbāna** eārum ad **alenda** iūmenta et pecora **sua**.
 
@@ -730,11 +730,11 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 6 Accessērunt itaque fīliī Iūdae ad **Iōs**ue in Galgala, **locūtus**que **est** ad eum Chaleb fīlius Iephōnne Cenezaeus: “ **Nōstī** quid **locūtus** sit Dominus ad Moysēn hominem Deī dē mē et tē in Cadesbarne.
 
-7 Quadrāgintā annōrum eram, quandō mē mīsit Moysēs famulus Dominī dē Cadesbarne, ut cōnsīderārem terram; nūntiāvīque **eī** quod mihi vērum vidēbātur.
+7 Quadrāgintā annōrum eram, quandō mē mīsit Moȳsēs[\*][moyses] famulus Dominī dē Cadesbarne, ut cōnsīderārem terram; nūntiāvīque **eī** quod mihi vērum vidēbātur.
 
 8 Frātrēs autem meī, quī ascenderant mēcum, dissolvērunt cor **populī**, et nihilōminus ego adimplēvī, ut sequerer Dominum Deum meum.
 
-9 Iūrāvitque Moysēs in **diē** illō dīcēns: “**Terra**, quam calcāvit pēs tuus, erit possessiō **tua** et fīliōrum tuōrum in aeternum, quia adimplēvistī, ut sequerēris Dominum Deum meum”.
+9 Iūrāvitque Moȳsēs[\*][moyses] in **diē** illō dīcēns: “**Terra**, quam calcāvit pēs tuus, erit possessiō **tua** et fīliōrum tuōrum in aeternum, quia adimplēvistī, ut sequerēris Dominum Deum meum”.
 
 10 Concessit ergō Dominus vītam mihi, sīcut pollicitus **est**, usque in praesentem diem. Quadrāgintā et quīnque annī sunt ex quō **locūtus** **est** Dominus verbum istud ad Moysēn, quandō ambulābat Isrāēl per sōlitūdinem; hodiē octōgintā quīnque annōrum sum,
 
@@ -980,17 +980,17 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 1 Tunc vocāvit **Iōs**ue Rubenītās et Gadītās et dīmidiam tribum Mānāsse
 
-2 dīxitque ad eōs: “Fēcistis omnia, quae vōbīs praecēpit Moysēs famulus Dominī; mihi **quoque** in omnibus, quae praecēpī vōbīs, oboedīstis
+2 dīxitque ad eōs: “Fēcistis omnia, quae vōbīs praecēpit Moȳsēs[\*][moyses] famulus Dominī; mihi **quoque** in omnibus, quae praecēpī vōbīs, oboedīstis
 
 3 nec relīquistis frātrēs vestrōs **hoc** longō tempore usque in praesentem diem cūstōdientēs imperium Dominī Deī vestrī.
 
-4 Quia igitur **dēdit** Dominus Deus vester frātribus vestrīs quiētem ac pācem, sīcut eīs pollicitus **est**, revertiminī nunc et **īte** in tabernācula **vestra** et in terram possessiōnis, quam trādidit vōbīs Moysēs famulus Dominī trāns Iordānem;
+4 Quia igitur **dēdit** Dominus Deus vester frātribus vestrīs quiētem ac pācem, sīcut eīs pollicitus **est**, revertiminī nunc et **īte** in tabernācula **vestra** et in terram possessiōnis, quam trādidit vōbīs Moȳsēs[\*][moyses] famulus Dominī trāns Iordānem;
 
-5 **ita** dumtaxat ut cūstōdiātis **attentē** et opere compleātis mandātum et lēgem, quam praecēpit vōbīs Moysēs servus Dominī, ut dīligātis Dominum Deum vestrum et ambulētis in omnibus viīs eius et observētis **mandāta** illīus adhaereātisque **eī** ac serviātis in omnī **corde** et in omnī **animā** **vestra** ”.
+5 **ita** dumtaxat ut cūstōdiātis **attentē** et opere compleātis mandātum et lēgem, quam praecēpit vōbīs Moȳsēs[\*][moyses] servus Dominī, ut dīligātis Dominum Deum vestrum et ambulētis in omnibus viīs eius et observētis **mandāta** illīus adhaereātisque **eī** ac serviātis in omnī **corde** et in omnī **animā** **vestra** ”.
 
 6 Benedīxitque eīs **Ios**ue et dīmīsit eōs, quī reversī sunt in tabernācula **sua**.
 
-7 Dīmidiae autem tribuī Mānāsse possessiōnem Moysēs dederat in Basān; et idcircō mediae, quae superfuit, **dedit** **Ios**ue sortem inter cēterōs frātrēs suōs trāns Iordānem ad occidentālem eius **plāgam**. Cumque dīmitteret eōs in tabernācula **sua** et benedīxisset illīs,
+7 Dīmidiae autem tribuī Mānāsse possessiōnem Moȳsēs[\*][moyses] dederat in Basān; et idcircō mediae, quae superfuit, **dedit** **Ios**ue sortem inter cēterōs frātrēs suōs trāns Iordānem ad occidentālem eius **plāgam**. Cumque dīmitteret eōs in tabernācula **sua** et benedīxisset illīs,
 
 8 dīxit ad eōs: “Cum multīs dīvitiīs revertiminī ad **sēdēs** vestrās, cum argentō et aurō, **aere** ac ferrō et veste multiplicī; dīvidite praedam hostium cum frātribus vestrīs ”.
 
@@ -1148,3 +1148,4 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 33 Eleazar **quoque** fīlius Aarōn mortuus **est**; et sepeliērunt eum in Gabaā Phineēs fīliī eius, quae **data** **est** **eī** in monte Ephraim.
 
+[moyses]: <Ambiguous Forms.md#moyses>

@@ -96,7 +96,7 @@ quī praeparābit viam tuam;
 
 43 Et īnfremuit in eum statimque ēiēcit illum
 
-44 et dīcit **eī**: “Vidē, nēminī quidquam **dīxerīs**; sed **vāde**, ostende tē sacerdōtī et offer prō ēmundātiōne **tuā**, quae praecēpit Moysēs, in testimōnium illīs ”.
+44 et dīcit **eī**: “Vidē, nēminī quidquam **dīxerīs**; sed **vāde**, ostende tē sacerdōtī et offer prō ēmundātiōne **tuā**, quae praecēpit Moȳsēs[\*][moyses], in testimōnium illīs ”.
 
 45 At ille **ēgressus** coepit **praedicāre** multum et diffāmāre sermōnem, **ita** ut iam nōn posset **manifēstō** in cīvitātem introīre, sed **foris** in dēsertīs locīs erat; et conveniēbant ad eum undique.
 
@@ -550,7 +550,7 @@ docentēs doctrīnās **praecepta** hominum”.
 
 9 Et dīcēbat illīs: “ **Bene** irritum facitis praeceptum Deī, ut trāditiōnem vestram servētis.
 
-10 Moysēs enim dīxit: “**Honōra** patrem tuum et mātrem tuam” et: “Quī maledīxerit patrī aut mātrī, morte moriātur”;
+10 Moȳsēs[\*][moyses] enim dīxit: “**Honōra** patrem tuum et mātrem tuam” et: “Quī maledīxerit patrī aut mātrī, morte moriātur”;
 
 11 vōs autem dīcitis: “Sī dīxerit homō patrī aut mātrī: Corban, quod **est** dōnum, quodcumque ex mē tibi prōfuerit”,
 
@@ -792,9 +792,9 @@ quam duōs **pedēs** habentem mittī in gehennam.
 
 2 Et accēdentēs **pharisaeī** interrogābant eum, sī licet **virō** uxōrem **dīmittere**, tentantēs eum.
 
-3 At ille respondēns dīxit eīs: “ Quid vōbīs praecēpit Moysēs? ”.
+3 At ille respondēns dīxit eīs: “ Quid vōbīs praecēpit Moȳsēs[\*][moyses]? ”.
 
-4 Quī dīxērunt: “ Moysēs permīsit libellum repudiī **scrībere** et **dīmittere** ”.
+4 Quī dīxērunt: “ Moȳsēs[\*][moyses] permīsit libellum repudiī **scrībere** et **dīmittere** ”.
 
 5 **Iēsus** autem ait eīs: “ Ad dūritiam **cordis** vestrī scrīpsit vōbīs praeceptum istud.
 
@@ -1002,7 +1002,7 @@ et **est** mīrābile in oculīs nostrīs”? ”.
 
 18 Et veniunt ad eum saddūcaeī, quī dīcunt resurrēctiōnem nōn **esse**, et interrogābant eum dīcentēs:
 
-19 “ Magister, Moysēs nōbīs scrīpsit, ut sī cuius frāter mortuus fuerit et relīquerit uxōrem et fīlium nōn relīquerit, accipiat frāter eius uxōrem et resuscitet sēmen frātrī suō.
+19 “ Magister, Moȳsēs[\*][moyses] nōbīs scrīpsit, ut sī cuius frāter mortuus fuerit et relīquerit uxōrem et fīlium nōn relīquerit, accipiat frāter eius uxōrem et resuscitet sēmen frātrī suō.
 
 20 Septem frātrēs erant: et prīmus accēpit uxōrem et moriēns nōn relīquit sēmen;
 
@@ -1418,4 +1418,4 @@ sinistrīs eius.
 
 20 Illī autem **profectī** praedicāvērunt ubīque, Dominō cooperante et sermōnem cōnfirmante, sequentibus signīs.
 
-
+[moyses]: <Ambiguous Forms.md#moyses>

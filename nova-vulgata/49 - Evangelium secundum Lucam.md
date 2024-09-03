@@ -548,7 +548,7 @@ et caecīs vīsum,
 
 13 Et extendēns **manum** tetigit illum dīcēns: “ Volō, mundāre! ”; et cōnfestim **lepra** discessit ab illō.
 
-14 Et ipse praecēpit illī, ut nēminī dīceret, sed: “ **Vade**, ostende tē sacerdōtī et offer prō ēmundātiōne **tuā**, sīcut praecēpit Moysēs, in testimōnium illīs ”.
+14 Et ipse praecēpit illī, ut nēminī dīceret, sed: “ **Vade**, ostende tē sacerdōtī et offer prō ēmundātiōne **tuā**, sīcut praecēpit Moȳsēs[\*][moyses], in testimōnium illīs ”.
 
 15 Perambulābat autem **magis** sermō dē illō, et conveniēbant turbae multae, ut audīrent et cūrārentur ab īnfirmitātibus **suīs**;
 
@@ -990,7 +990,7 @@ lāmentāvimus, et nōn plōrāstis!”.
 
 29 Et **facta** **est**, dum ōrāret, speciēs **vultūs** eius **altera**, et **vestītus** eius albus, refulgēns.
 
-30 Et ecce duo **virī** loquēbantur cum illō, et erant Moysēs et **Eliās**,
+30 Et ecce duo **virī** loquēbantur cum illō, et erant Moȳsēs[\*][moyses] et **Eliās**,
 
 31 quī **vīsī** in **glōriā** dīcēbant exodum eius, quam complētūrus erat in Ierusālem.
 
@@ -1984,7 +1984,7 @@ Quō audītō, dīxērunt: “ Absit! ”.
 
 27 Accessērunt autem quīdam saddūcaeōrum, quī negant **esse** resurrēctiōnem, et interrogāvērunt eum
 
-28 dīcentēs: “ Magister, Moysēs scrīpsit nōbīs, sī frāter alicuius mortuus fuerit habēns uxōrem et **hic** **sine** fīliīs fuerit, ut accipiat eam frāter eius uxōrem et suscitet sēmen frātrī suō.
+28 dīcentēs: “ Magister, Moȳsēs[\*][moyses] scrīpsit nōbīs, sī frāter alicuius mortuus fuerit habēns uxōrem et **hic** **sine** fīliīs fuerit, ut accipiat eam frāter eius uxōrem et suscitet sēmen frātrī suō.
 
 29 Septem ergō frātrēs erant: et prīmus accēpit uxōrem et mortuus **est** **sine** fīliīs;
 
@@ -2002,7 +2002,7 @@ Quō audītō, dīxērunt: “ Absit! ”.
 
 36 Neque enim **ultrā** **morī** possunt: aequālēs enim angelīs sunt et fīliī sunt Deī, cum sint fīliī resurrēctiōnis.
 
-37 Quia vērō resurgant mortuī, et Moysēs ostendit secus rubum, sīcut dīcit: “Dominum Deum Abraham et Deum Isaac et Deum Iācōb”.
+37 Quia vērō resurgant mortuī, et Moȳsēs[\*][moyses] ostendit secus rubum, sīcut dīcit: “Dominum Deum Abraham et Deum Isaac et Deum Iācōb”.
 
 38 Deus autem nōn **est** mortuōrum sed vīvōrum: omnēs enim vīvunt **eī** ”.
 
@@ -2472,6 +2472,4 @@ Dīvidentēs vērō vestīmenta eius mīsērunt sortēs.
 
 53 et erant semper in templō benedīcentēs Deum.
 
-[1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24)
-
-
+[moyses]: <Ambiguous Forms.md#moyses>

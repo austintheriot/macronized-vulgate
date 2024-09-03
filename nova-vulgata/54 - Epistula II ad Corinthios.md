@@ -114,11 +114,11 @@
 
 12 Habentēs igitur tālem spem **multa** **fīdūciā** ūtimur,
 
-13 et nōn sīcut Moysēs: pōnēbat vēlāmen super faciem suam, ut nōn intenderent fīliī Isrāēl in fīnem illīus quod ēvacuātur.
+13 et nōn sīcut Moȳsēs[\*][moyses]: pōnēbat vēlāmen super faciem suam, ut nōn intenderent fīliī Isrāēl in fīnem illīus quod ēvacuātur.
 
 14 Sed obtūsī sunt **sēnsūs** eōrum. Usque in hodiernum enim diem idipsum vēlāmen in lēctiōne **Veteris** Testāmentī **manet** nōn revēlātum, quoniam in Chrīstō ēvacuātur;
 
-15 sed usque in hodiernum diem, cum legitur Moysēs, vēlāmen **est** positum super cor eōrum.
+15 sed usque in hodiernum diem, cum legitur Moȳsēs[\*][moyses], vēlāmen **est** positum super cor eōrum.
 
 16 Quandō autem conversus fuerit ad Dominum, aufertur vēlāmen.
 
@@ -570,4 +570,4 @@ In cōnsōlātiōne autem **nostrā** abundantius **magis** gāvīsī sumus supe
 
 13 **Grātia** Dominī Iēsū Chrīstī et **cāritās** Deī et commūnicātiō Sānctī **Spīritus** cum omnibus vōbīs.
 
-
+[moyses]: <Ambiguous Forms.md#moyses>

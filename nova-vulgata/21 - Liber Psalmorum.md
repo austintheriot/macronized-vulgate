@@ -7548,7 +7548,7 @@ et **adōrāte** ad scabellum pedum eius,
 
 quoniam sānctus **est**.
 
-6 Moysēs et Aarōn in sacerdōtibus eius,
+6 Moȳsēs[\*][moyses] et Aarōn in sacerdōtibus eius,
 
 et Samuel inter eōs, quī invocant **nōmen** eius.
 
@@ -8308,7 +8308,7 @@ terribilia in marī Rubrō.
 
 23 Et dīxit quia disperderet eōs,
 
-**nisi** affuisset Moysēs **ēlēctus** eius:
+**nisi** affuisset Moȳsēs[\*][moyses] **ēlēctus** eius:
 
 stetit in cōnfractiōne in cōnspectū eius,
 
@@ -8348,7 +8348,7 @@ in generātiōnem et generātiōnem usque in sempiternum.
 
 32 Et **irrītāvērunt** eum ad aquās Meriba,
 
-et vexātus **est** Moysēs propter eōs,
+et vexātus **est** Moȳsēs[\*][moyses] propter eōs,
 
 33 quia exacerbāvērunt spīritum eius,
 
@@ -11639,3 +11639,4 @@ omne quod spīrat, laudet Dominum. ALLĒLŪIA
 [^1] "Mut labben" - vowel length uncertain
 
 [jacob]: <Ambiguous Forms.md#jacob>
+[moyses]: <Ambiguous Forms.md#moyses>

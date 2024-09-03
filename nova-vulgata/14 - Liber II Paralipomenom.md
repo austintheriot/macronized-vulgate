@@ -9,7 +9,7 @@
 
 2 Praecēpitque Salomōn ūniversō Israēlī, tribūnīs et centuriōnibus et iūdicibus et ducibus **omnīs** Isrāēl et prīncipibus familiārum
 
-3 et abiit cum **ūniversā** multitūdine in excelsum Gabaōn, ubi erat tabernāculum **conventūs** Deī, quod fēcit Moysēs famulus Deī in sōlitūdine.
+3 et abiit cum **ūniversā** multitūdine in excelsum Gabaōn, ubi erat tabernāculum **conventūs** Deī, quod fēcit Moȳsēs[\*][moyses] famulus Deī in sōlitūdine.
 
 4 Arcam autem Deī addūxerat Dāvīd dē Cariathiarim in locum, quem praeparāverat **eī** et ubi fīxerat illī tabernāculum, **hoc** **est** in Ierusālem;
 
@@ -179,7 +179,7 @@
 
 9 Vectium autem, quibus portābātur **arca**, quia paululum longiōrēs erant, **capita** pārēbant ante Dabir; sī vērō **quis** erat extrīnsecus eōs **vidēre** nōn poterat. Fuit itaque **arca** ibi usque in praesentem diem.
 
-10 Nihilque erat aliud in **arcā**, **nisi** duae tabulae, quās posuerat Moysēs in Horeb, quandō fēcit Dominus foedus cum fīliīs Isrāēl ēgredientibus ex Aegyptō.
+10 Nihilque erat aliud in **arcā**, **nisi** duae tabulae, quās posuerat Moȳsēs[\*][moyses] in Horeb, quandō fēcit Dominus foedus cum fīliīs Isrāēl ēgredientibus ex Aegyptō.
 
 11 Ēgressīs autem sacerdōtibus dē sānctuāriō — omnēs enim sacerdōtēs, quī ibi potuerant invenīrī, sānctificātī sunt, nōn observantēs vicēs et ministeriōrum ōrdinem,
 
@@ -1069,7 +1069,7 @@ Nec erat aliquis dē stirpe Ochoziae, quī posset rēgnāre.
 
 8 Praecēpit ergō rēx, et fēcērunt arcam posuēruntque eam iuxtā portam **domūs** Dominī forīnsecus.
 
-9 Et praedicātum **est** in **Iūdā** et Ierusālem, ut dēferrent singulī pretium Dominō, quod cōnstituit Moysēs servus Deī super Isrāēl in dēsertō.
+9 Et praedicātum **est** in **Iūdā** et Ierusālem, ut dēferrent singulī pretium Dominō, quod cōnstituit Moȳsēs[\*][moyses] servus Deī super Isrāēl in dēsertō.
 
 10 Laetātīque sunt cūnctī prīncipēs et **omnis** **populus** et ingressī contulērunt in arcam atque mīsērunt **ita**, ut implērētur.
 
@@ -1757,3 +1757,4 @@ Rettulēruntque itaque **rēgī** **cūncta**, quae dīxerat.
 
 23 “ Haec dīcit Cȳrus rēx Persārum: Omnia **rēgna** terrae **dēdit** mihi Dominus, Deus caelī, et ipse praecēpit mihi, ut aedificārem **eī** domum in Ierusālem, quae **est** in **Iūdaeā**. **Quis** ex vōbīs **est** dē omnī **populō** eius? Sit Dominus Deus suus cum eō, et ascendat ”.
 
+[moyses]: <Ambiguous Forms.md#moyses>

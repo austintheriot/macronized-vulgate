@@ -32,4 +32,8 @@ Matthiās (Latin Wictionary)
 
 Matthias (Greek length)
 
+## Moyses
 
+Moȳsēs (Gaffiot)
+
+Mōȳsēs (Woordenboek Latijn/Nederlands (LaNe))

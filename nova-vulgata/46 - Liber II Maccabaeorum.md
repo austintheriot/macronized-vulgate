@@ -62,7 +62,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 28 Afflīge opprimentēs nōs et contumēliam facientēs in **superbiā**.
 
-29 Cōnstitue **populum** tuum in locō sānctō tuō, sīcut dīxit Moysēs ”.
+29 Cōnstitue **populum** tuum in locō sānctō tuō, sīcut dīxit Moȳsēs[\*][moyses] ”.
 
 30 Sacerdōtēs autem psallēbant hymnōs.
 
@@ -86,7 +86,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 3 Et **alia** huiusmodī dīcēns hortābātur, nē lēgem āmovērent ā **corde** suō.
 
-4 Erat autem in **ipsā** **scrīptūrā** quōmodo tabernāculum et arcam iussit **prophēta**, dīvīnō respōnsō ad sē factō, comitārī sēcum, usquequō exiit in montem, in quō Moysēs ascendit et vīdit Deī hērēditātem.
+4 Erat autem in **ipsā** **scrīptūrā** quōmodo tabernāculum et arcam iussit **prophēta**, dīvīnō respōnsō ad sē factō, comitārī sēcum, usquequō exiit in montem, in quō Moȳsēs[\*][moyses] ascendit et vīdit Deī hērēditātem.
 
 5 Et veniēns Iēremīās **invēnit** domum spēluncae; et tabernāculum et arcam et altāre incēnsī intulit illūc et ōstium obstrūxit.
 
@@ -98,9 +98,9 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 9 Manifestābātur autem et ut sapientiam habēns obtulit sacrificium dēdicātiōnis et cōnsummātiōnis templī.
 
-10 Sīcut et Moysēs ōrābat ad Dominum, et dēscendit **ignis** dē caelō et cōnsūmpsit sacrificia, sīc et Salomōn ōrāvit, et dēscendit **ignis** dē caelō et cōnsūmpsit holocausta.
+10 Sīcut et Moȳsēs[\*][moyses] ōrābat ad Dominum, et dēscendit **ignis** dē caelō et cōnsūmpsit sacrificia, sīc et Salomōn ōrāvit, et dēscendit **ignis** dē caelō et cōnsūmpsit holocausta.
 
-11 Et dīxit Moysēs: “ **Eō** quod nōn sit comestum, quod erat prō peccātō, cōnsūmptum **est** ”.
+11 Et dīxit Moȳsēs[\*][moyses]: “ **Eō** quod nōn sit comestum, quod erat prō peccātō, cōnsūmptum **est** ”.
 
 12 Similiter et Salomōn octo diēs celebrāvit.
 
@@ -460,7 +460,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 5 Et cum iam per omnia **inūtilīs** **factus** **esset**, iussit eum igne admovērī adhūc spīrantem et torrērī in sartāgine. Cum autem vapor sartāginis diū diffunderētur, cēterī **ūna** cum mātre invicem sē hortābantur **morī** fortiter **ita** dīcentēs:
 
-6 “ Dominus Deus aspicit et vēritāte in nōbīs cōnsōlātur, quemadmodum per **persōnam** **contestantis** canticī dēclārāvit Moysēs: “Et in servīs **suīs** cōnsōlābitur” ”.
+6 “ Dominus Deus aspicit et vēritāte in nōbīs cōnsōlātur, quemadmodum per **persōnam** **contestantis** canticī dēclārāvit Moȳsēs[\*][moyses]: “Et in servīs **suīs** cōnsōlābitur” ”.
 
 7 Mortuō itaque illō prīmō **hoc** **modo**, sequentem dēdūcēbant ad illūdendum; et cute **capitis** eius cum capillīs **abstracta**, interrogābant, sī mandūcāret prius quam **tōtō** corpore per **membra** **singula** pūnīrētur.
 
@@ -1144,4 +1144,4 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 39 Sīcut enim vīnum sōlummodo **bibere**, similiter autem rūrsus et aquam, contrārium **est**, quemadmodum autem vīnum aquae contemperātum iam et dēlectābilem grātiam perficit, huiusmodī etiam **strūctūra** sermōnis dēlectat aurēs eōrum, quibus contingat compositiōnem **legere**. **Hic** autem erit **fīnis**.
 
-
+[moyses]: <Ambiguous Forms.md#moyses>

@@ -570,7 +570,7 @@
 
 8 Cumque ēminērent vectēs et **appārērent** summitātēs eōrum **foris** in sānctuāriō ante Dabir, nōn appārēbant **ultrā** extrīnsecus; quī et fuērunt ibi usque in praesentem diem.
 
-9 In **arcā** autem nōn erat aliud **nisi** duae tabulae lapideae, quās posuerat in **ea** Moysēs in Horeb, quandō pepigit Dominus foedus cum fīliīs Isrāēl, cum ēgrederentur dē **terrā** Aegyptī.
+9 In **arcā** autem nōn erat aliud **nisi** duae tabulae lapideae, quās posuerat in **ea** Moȳsēs[\*][moyses] in Horeb, quandō pepigit Dominus foedus cum fīliīs Isrāēl, cum ēgrederentur dē **terrā** Aegyptī.
 
 10 Factum **est** autem cum exīssent sacerdōtēs dē sānctuāriō, **nebulā** implēvit domum Dominī,
 
@@ -1712,3 +1712,5 @@ quasi ovēs nōn habentēs pāstōrem. Et ait Dominus: “Nōn habent istī domi
 
 54 servīvit **quoque** Baal et adōrāvit eum et **irrītāvit** Dominum, Deum Isrāēl, iuxtā omnia, quae fēcerat pater eius.
 
+
+[moyses]: <Ambiguous Forms.md#moyses>

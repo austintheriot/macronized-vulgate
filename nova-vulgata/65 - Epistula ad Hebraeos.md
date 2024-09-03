@@ -126,13 +126,13 @@ quae sunt ad Deum, ut repropitiāret **dēlicta** **populī**;
 
 1 Unde, frātrēs sānctī, vocātiōnis **caelestīs** participēs, **cōnsīderātē** apostolum et pontificem cōnfessiōnis nostrae **Iēsum**,
 
-2 quī **fidēlis** **est** **eī**, quī fēcit illum, sīcut et Moysēs in **tōtā** domō illīus.
+2 quī **fidēlis** **est** **eī**, quī fēcit illum, sīcut et Moȳsēs[\*][moyses] in **tōtā** domō illīus.
 
 3 Ampliōris enim glōriae iste prae Moyse dignus **est** **habitus**, quantō ampliōrem honōrem habet quam **domus**, quī fabricāvit illam.
 
 4 **Omnis** namque **domus** fabricātur ab aliquō; quī autem omnia fabricāvit, Deus **est**.
 
-5 Et Moysēs quidem **fidēlis** erat in **tōtā** domō eius tamquam famulus in testimōnium eōrum, quae **dīcenda** erant,
+5 Et Moȳsēs[\*][moyses] quidem **fidēlis** erat in **tōtā** domō eius tamquam famulus in testimōnium eōrum, quae **dīcenda** erant,
 
 6 Chrīstus vērō tamquam Fīlius super domum illīus; cuius **domūs** sumus nōs, sī fīdūciam et glōriātiōnem speī retineāmus.
 
@@ -326,7 +326,7 @@ ego hodiē genuī tē ”;
 
 13 Dē quō enim haec dīcuntur, ex **aliā** tribū **est**, ex **quā** nūllus altārī praestō fuit;
 
-14 manifēstum enim quod ex **Iūdā** **ortus** sit Dominus noster, in quam tribum nihil dē sacerdōtibus Moysēs **locūtus** **est**.
+14 manifēstum enim quod ex **Iūdā** **ortus** sit Dominus noster, in quam tribum nihil dē sacerdōtibus Moȳsēs[\*][moyses] **locūtus** **est**.
 
 15 Et amplius adhūc manifēstum **est**, sī secundum similitūdinem Melchisedech exsurgit **alius** sacerdōs,
 
@@ -588,9 +588,9 @@ nōn sibi **complacet** in eō **animā** **meā**.
 
 22 **Fide** Ioseph moriēns dē profectiōne fīliōrum Isrāēl **memorātus** **est** et dē ossibus **suīs** mandāvit.
 
-23 **Fīdē** Moysēs **nātus** occultātus **est** mēnsibus **tribus** ā **parentibus** **suīs**, eō quod vīdissent fōrmōsum īnfantem et nōn timuērunt **rēgis** ēdictum.
+23 **Fīdē** Moȳsēs[\*][moyses] **nātus** occultātus **est** mēnsibus **tribus** ā **parentibus** **suīs**, eō quod vīdissent fōrmōsum īnfantem et nōn timuērunt **rēgis** ēdictum.
 
-24 **Fīdē** Moysēs **grandis** **factus** negāvit sē dīcī fīlium fīliae pharaōnis,
+24 **Fīdē** Moȳsēs[\*][moyses] **grandis** **factus** negāvit sē dīcī fīlium fīliae pharaōnis,
 
 25 **magis** ēligēns afflīgī cum **populō** Deī quam temporālem peccātī habēre iūcunditātem,
 
@@ -672,7 +672,7 @@ flagellat autem omnem fīlium, quem recipit ”.
 
 20 nōn enim portābant mandātum: “ Et sī **bēstia** tetigerit montem, lapidābitur”;
 
-21 et **ita** terribile erat, quod vidēbātur, Moysēs dīxit: “ Exterritus sum et tremebundus ”.
+21 et **ita** terribile erat, quod vidēbātur, Moȳsēs[\*][moyses] dīxit: “ Exterritus sum et tremebundus ”.
 
 22 Sed accessistis ad **Sīōn** montem et cīvitātem Deī **vīventis**, Ierusālem caelestem, et **multa** **mīlia** angelōrum, frequentiam
 
@@ -744,4 +744,4 @@ flagellat autem omnem fīlium, quem recipit ”.
 
 25 **Grātia** cum omnibus vōbīs.
 
-
+[moyses]: <Ambiguous Forms.md#moyses>

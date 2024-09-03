@@ -3204,7 +3204,7 @@ et, quī operantur in mē, nōn peccābunt:
 
 32 Haec omnia **liber** testāmentī Altissimī,
 
-33 lēx, quam mandāvit nōbīs Moysēs,
+33 lēx, quam mandāvit nōbīs Moȳsēs[\*][moyses],
 
 hērēditās domuī Iācōb.
 
@@ -6134,7 +6134,7 @@ et nepōtēs eius per omne tempus.
 
 igne cotīdiē **iugē** bis.
 
-18 Complēvit Moysēs **manūs** eius
+18 Complēvit Moȳsēs[\*][moyses] **manūs** eius
 
 et ūnxit illum oleō sānctō.
 

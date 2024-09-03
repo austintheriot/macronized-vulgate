@@ -578,7 +578,7 @@ et, quī crēdit in eō, nōn cōnfundētur ”.
 
 4 **fīnis** enim **lēgis** Chrīstus ad iūstitiam omnī crēdentī.
 
-5 Moysēs enim scrībit dē **iūstitiā**, quae ex **lēge** **est**: “ Quī fēcerit homō, vīvet in eīs ”.
+5 Moȳsēs[\*][moyses] enim scrībit dē **iūstitiā**, quae ex **lēge** **est**: “ Quī fēcerit homō, vīvet in eīs ”.
 
 6 Quae autem ex **fide** **est** **iūstitiā**, sīc dīcit: “ Nē **dīxerīs** in **corde** tuō: **Quis** ascendet in caelum?”, id **est** Chrīstum **dēdūcere**;
 
@@ -616,7 +616,7 @@ in omnem terram exiit **sonus** eōrum,
 
 et in fīnēs **orbis** terrae verba eōrum.
 
-19 Sed **dīcō**: Numquid Isrāēl nōn cognōvit? Prīmus Moysēs dīcit:
+19 Sed **dīcō**: Numquid Isrāēl nōn cognōvit? Prīmus Moȳsēs[\*][moyses] dīcit:
 
 “ Ego ad aemulātiōnem vōs addūcam per Nōn gentem:
 
@@ -992,4 +992,4 @@ et, quī nōn audiērunt, intellegent ”.
 
 27 **sōlī** sapientī Deō per **Iēsum** Chrīstum, cui **glōria** in saecula. Āmēn.
 
-
+[moyses]: <Ambiguous Forms.md#moyses>

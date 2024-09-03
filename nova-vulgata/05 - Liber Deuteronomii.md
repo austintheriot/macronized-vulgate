@@ -5,15 +5,15 @@
 
 ## 1
 
-1 Haec sunt verba, quae **locūtus** **est** Moysēs ad omnem Isrāēl trāns Iordānem in sōlitūdine, in **Arabā** contrā Suph, inter Pharān et Thophel et **Labān** et Aseroth et Dizahab.
+1 Haec sunt verba, quae **locūtus** **est** Moȳsēs[\*][moyses] ad omnem Isrāēl trāns Iordānem in sōlitūdine, in **Arabā** contrā Suph, inter Pharān et Thophel et **Labān** et Aseroth et Dizahab.
 
 2 Ūndecim diēs dē Horeb per viam **montis** Seir usque Cadesbarne.
 
-3 Quadrāgēsimō annō, ūndecimō **mēnse**, **prīmā** **diē** **mēnsis** **locūtus** **est** Moysēs ad fīliōs Isrāēl omnia, quae praecēperat illī Dominus ut dīceret eīs.
+3 Quadrāgēsimō annō, ūndecimō **mēnse**, **prīmā** **diē** **mēnsis** **locūtus** **est** Moȳsēs[\*][moyses] ad fīliōs Isrāēl omnia, quae praecēperat illī Dominus ut dīceret eīs.
 
 4 Postquam percussit Sehōn rēgem Amorraēōrum, quī habitāvit in Hesebon, et Og rēgem Basān, quī mānsit in Astharoth et in Edrāī,
 
-5 trāns Iordānem in **terrā** Moab coepitque Moysēs explānāre lēgem hanc et **dīcere**:
+5 trāns Iordānem in **terrā** Moab coepitque Moȳsēs[\*][moyses] explānāre lēgem hanc et **dīcere**:
 
 6 “ Dominus Deus noster **locūtus** **est** ad nōs in Horeb dīcēns: “Sufficit vōbīs quod in **hōc** monte mānsistis;
 
@@ -315,17 +315,17 @@
 
 40 Cūstōdī **praecepta** eius atque **mandāta**, quae ego praecipiō tibi hodiē, ut **bene** sit tibi et fīliīs tuīs post tē, et permaneās multō tempore super terram, quam Dominus Deus tuus datūrus **est** tibi ”.
 
-41 Tunc sēparāvit Moysēs trēs cīvitātēs trāns Iordānem ad orientālem **plāgam**,
+41 Tunc sēparāvit Moȳsēs[\*][moyses] trēs cīvitātēs trāns Iordānem ad orientālem **plāgam**,
 
 42 ut cōnfugiat ad eās, quī **occīderit** nōlēns proximum suum, nec fuerit inimīcus ante ūnum et alterum diem, et ad hārum aliquam urbium possit **ēvādere** et vīvat:
 
 43 Bosor in sōlitūdine, quae **sita** **est** in **terrā** campestrī, prō tribū Ruben, et Ramoth in Galaad prō tribū Gad et Golan in Basān prō tribū Mānāsse.
 
-44 **Ista** **est** lēx, quam prōposuit Moysēs **cōram** fīliīs Isrāēl;
+44 **Ista** **est** lēx, quam prōposuit Moȳsēs[\*][moyses] **cōram** fīliīs Isrāēl;
 
 45 haec testimōnia et **praecepta** atque iūdicia, quae **locūtus** **est** ad fīliōs Isrāēl, quandō ēgressī sunt dē Aegyptō,
 
-46 trāns Iordānem in **valle** contrā Bethphegor, in **terrā** Sehon **rēgis** Amorraēī, quī habitāvit in Hesebon, quem percussit Moysēs et fīliī Isrāēl ēgressī ex Aegyptō.
+46 trāns Iordānem in **valle** contrā Bethphegor, in **terrā** Sehon **rēgis** Amorraēī, quī habitāvit in Hesebon, quem percussit Moȳsēs[\*][moyses] et fīliī Isrāēl ēgressī ex Aegyptō.
 
 47 Et possēdērunt terram eius et terram Og **rēgis** Basān, duōrum rēgum Amorraēōrum, quī erant trāns Iordānem ad **sōlis** ortum,
 
@@ -335,7 +335,7 @@
 
 ## 5
 
-1 Vocāvitque Moysēs omnem Israēlem et dīxit ad eōs: “ Audī, Isrāēl, **praecepta** atque iūdicia, quae ego loquor in auribus vestrīs hodiē; discite **ea** et opere **complētē**.
+1 Vocāvitque Moȳsēs[\*][moyses] omnem Israēlem et dīxit ad eōs: “ Audī, Isrāēl, **praecepta** atque iūdicia, quae ego loquor in auribus vestrīs hodiē; discite **ea** et opere **complētē**.
 
 2 Dominus Deus noster pepigit nōbīscum foedus in Horeb.
 
@@ -1233,7 +1233,7 @@
 
 ## 27
 
-1 Praecēpit autem Moysēs et seniōrēs Isrāēl **populō** dīcentēs: “ **Cūstōdīte** omne mandātum, quod praecipiō vōbīs hodiē.
+1 Praecēpit autem Moȳsēs[\*][moyses] et seniōrēs Isrāēl **populō** dīcentēs: “ **Cūstōdīte** omne mandātum, quod praecipiō vōbīs hodiē.
 
 2 Cumque **trānsierītis** Iordānem in terram, quam Dominus Deus tuus dabit tibi, ērigēs ingentēs lapidēs et calce obdūcēs eōs,
 
@@ -1249,11 +1249,11 @@
 
 8 et scrībēs super lapidēs omnia verba **lēgis** huius **plānē** et **lūcidē** ”.
 
-9 Dīxēruntque Moysēs et sacerdōtēs lēvīticī **generis** ad omnem Israelem: “ Attende et audī, Isrāēl: hodiē **factus** **es** **populus** Dominō Deō tuō;
+9 Dīxēruntque Moȳsēs[\*][moyses] et sacerdōtēs lēvīticī **generis** ad omnem Israelem: “ Attende et audī, Isrāēl: hodiē **factus** **es** **populus** Dominō Deō tuō;
 
 10 audiēs **vōcem** eius et faciēs **mandāta** atque **praecepta**, quae ego praecipiō tibi ”.
 
-11 Praecēpitque Moysēs **populō** in **diē** illō dīcēns:
+11 Praecēpitque Moȳsēs[\*][moyses] **populō** in **diē** illō dīcēns:
 
 12 “ Hī stābunt ad benedīcendum **populō** super montem Garizim, Iordāne trānsmissō: Simeon, **Levī**, Iūdās, Issachar, Ioseph et Beniamin.
 
@@ -1427,7 +1427,7 @@
 
 ## 29
 
-1 Vocāvitque Moysēs omnem Isrāēl et dīxit ad eōs: “ Vōs vīdistis **ūniversa**, quae fēcit Dominus **cōram** vōbīs in **terrā** Aegyptī pharaōnī et omnibus servīs eius ūniversaeque terrae illīus,
+1 Vocāvitque Moȳsēs[\*][moyses] omnem Isrāēl et dīxit ad eōs: “ Vōs vīdistis **ūniversa**, quae fēcit Dominus **cōram** vōbīs in **terrā** Aegyptī pharaōnī et omnibus servīs eius ūniversaeque terrae illīus,
 
 2 tentātiōnēs magnās, quās vīdērunt oculī tuī, **signa** **illa** **portenta**que ingentia;
 
@@ -1527,7 +1527,7 @@
 
 ## 31
 
-1 Abiit itaque Moysēs et **locūtus** **est** omnia verba haec ad ūniversum Isrāēl
+1 Abiit itaque Moȳsēs[\*][moyses] et **locūtus** **est** omnia verba haec ad ūniversum Isrāēl
 
 2 et dīxit ad eōs: “ Centum vīgintī annōrum sum hodiē, nōn possum **ultrā** ēgredī et ingredī, praesertim cum et Dominus dīxerit mihi: “Nōn trānsībis Iordānem istum”.
 
@@ -1539,11 +1539,11 @@
 
 6 Virīliter agite et cōnfortāminī; nōlīte timēre nec paveātis ā cōnspectū eōrum, quia Dominus Deus tuus ipse **est** ductor tuus et nōn dīmittet nec dērelinquet tē ”.
 
-7 Vocāvitque Moysēs **Ios**ue et dīxit **eī** **cōram** omnī Isrāēl: “ Cōnfortāre et **estō** rōbustus; tū enim intrōdūcēs **populum** istum in terram, quam datūrum sē patribus eōrum iūrāvit Dominus, et tū eam sorte dīvidēs eīs.
+7 Vocāvitque Moȳsēs[\*][moyses] **Ios**ue et dīxit **eī** **cōram** omnī Isrāēl: “ Cōnfortāre et **estō** rōbustus; tū enim intrōdūcēs **populum** istum in terram, quam datūrum sē patribus eōrum iūrāvit Dominus, et tū eam sorte dīvidēs eīs.
 
 8 Et Dominus, quī ductor tuus **est**, ipse erit tēcum, nōn dīmittet nec dērelinquet tē; nōlī timēre nec paveās ”.
 
-9 Et scrīpsit Moysēs lēgem hanc et trādidit eam sacerdōtibus fīliīs **Levī**, quī portābant arcam **foederis** Dominī, et cūnctīs seniōribus Isrāēl;
+9 Et scrīpsit Moȳsēs[\*][moyses] lēgem hanc et trādidit eam sacerdōtibus fīliīs **Levī**, quī portābant arcam **foederis** Dominī, et cūnctīs seniōribus Isrāēl;
 
 10 praecēpitque eīs dīcēns: “ Post septem annōs, annō remissiōnis, in sollemnitāte Tabernāculōrum,
 
@@ -1553,7 +1553,7 @@
 
 13 fīliī **quoque** eōrum, quī nunc ignōrant, audiant et discant timēre Dominum Deum vestrum cūnctīs diēbus, quibus versāminī in **terrā**, ad quam vōs, Iordāne trānsmissō, pergitis obtinendam ”.
 
-14 Et ait Dominus ad Moysēn: “ Ecce prope sunt diēs **mortis** tuae; vocā **Ios**ue, et **statē** in tabernāculō **conventūs**, ut praecipiam **eī** ”. Abiērunt ergō Moysēs et **Iōs**ue et stetērunt in tabernāculō **conventūs**;
+14 Et ait Dominus ad Moysēn: “ Ecce prope sunt diēs **mortis** tuae; vocā **Ios**ue, et **statē** in tabernāculō **conventūs**, ut praecipiam **eī** ”. Abiērunt ergō Moȳsēs[\*][moyses] et **Iōs**ue et stetērunt in tabernāculō **conventūs**;
 
 15 appāruitque Dominus ibi in **columnā** **nūbis**, quae stetit in introitū tabernāculī.
 
@@ -1569,11 +1569,11 @@
 
 21 Postquam invēnerint eum **mala** **multa** et afflīctiōnēs, respondēbit **eī** canticum istud prō testimōniō, quod **nūlla** dēlēbit oblīviō ex ōre sēminis **suī**; sciō enim cōgitātiōnēs eius, quae facit hodiē, antequam intrōdūcam eum in terram, quam **eī** pollicitus sum ”.
 
-22 Scrīpsit ergō Moysēs canticum istud in **diē** illō et docuit fīliōs Isrāēl.
+22 Scrīpsit ergō Moȳsēs[\*][moyses] canticum istud in **diē** illō et docuit fīliōs Isrāēl.
 
 23 Praecēpitque Dominus **Ios**ue fīliō Nun et ait: “ Cōnfortāre et **estō** rōbustus; tū enim intrōdūcēs fīliōs Isrāēl in terram, quam eīs pollicitus sum, et ego **erō** tēcum ”.
 
-24 Postquam ergō scrīpsit Moysēs verba **lēgis** huius in volūmine atque complēvit,
+24 Postquam ergō scrīpsit Moȳsēs[\*][moyses] verba **lēgis** huius in volūmine atque complēvit,
 
 25 praecēpit **Lēvītīs**, quī portābant arcam **foederis** Dominī, dīcēns:
 
@@ -1585,7 +1585,7 @@
 
 29 **Novī** enim quod post mortem meam **inīquē** agētis et dēclīnābitis dē **viā**, quam praecēpī vōbīs, et occurrent vōbīs **mala** in extrēmō tempore, quandō **fēcerītis** **mālum** in cōnspectū Dominī, ut **irrītētis** eum per **opera** manuum vestrārum ”.
 
-30 **Locūtus** **est** ergō Moysēs, audiente ūniversō coetū Isrāēl, vēr
+30 **Locūtus** **est** ergō Moȳsēs[\*][moyses], audiente ūniversō coetū Isrāēl, vēr
 
 et **signāta** in thēsaurīs meīs?
 
@@ -1655,7 +1655,7 @@ et vindictam retribuet in hostēs suōs
 
 et propitius erit terrae **populī** **suī** ”.
 
-44 **Venit** ergō Moysēs et **locūtus** **est** omnia verba canticī huius in auribus **populī**, ipse et **Iōs**ue fīlius Nun;
+44 **Venit** ergō Moȳsēs[\*][moyses] et **locūtus** **est** omnia verba canticī huius in auribus **populī**, ipse et **Iōs**ue fīlius Nun;
 
 45 complēvitque omnēs sermōnēs istōs loquēns ad ūniversum Isrāēl.
 
@@ -1675,7 +1675,7 @@ et propitius erit terrae **populī** **suī** ”.
 
 ## 33
 
-1 Haec **est** benedictiō, **quā** benedīxit Moysēs homō Deī fīliīs Isrāēl ante mortem suam.
+1 Haec **est** benedictiō, **quā** benedīxit Moȳsēs[\*][moyses] homō Deī fīliīs Isrāēl ante mortem suam.
 
 2 Et ait:
 
@@ -1697,7 +1697,7 @@ et, quī appropinquant pedibus tuīs,
 
 accipient dē **doctrīnā** **tuā**.
 
-4 Lēgem praecēpit nōbīs Moysēs,
+4 Lēgem praecēpit nōbīs Moȳsēs[\*][moyses],
 
 hērēditātem multitūdinis Iācōb.
 
@@ -1899,7 +1899,7 @@ et tū eōrum altitūdinēs calcābis ”.
 
 ## 34
 
-1 Ascendit ergō Moysēs dē campestribus Moab super montem Nābō in verticem Phasgā contrā Ierichō; ostenditque **eī** Dominus omnem terram Galaad usque **Dān**
+1 Ascendit ergō Moȳsēs[\*][moyses] dē campestribus Moab super montem Nābō in verticem Phasgā contrā Ierichō; ostenditque **eī** Dominus omnem terram Galaad usque **Dān**
 
 2 et ūniversum Nephthālī terramque Ephraim et Mānāsse et omnem terram Iūdae usque ad mare occidentāle
 
@@ -1907,19 +1907,20 @@ et tū eōrum altitūdinēs calcābis ”.
 
 4 Dīxitque Dominus ad eum: “ Haec **est** **terra**, prō **quā** iūrāvī Abraham, Isaac et Iācōb, dīcēns: Sēminī tuō dabō eam. Vīdistī eam oculīs tuīs et nōn trānsībis ad illam ”.
 
-5 Mortuusque **est** ibi Moysēs servus Dominī in **terrā** Moab, iubente Dominō.
+5 Mortuusque **est** ibi Moȳsēs[\*][moyses] servus Dominī in **terrā** Moab, iubente Dominō.
 
 6 Et sepelīvit eum in **valle** in **terrā** Moab contrā Bethphegor; et nōn cognōvit homō sepulcrum eius usque in praesentem diem.
 
-7 Moysēs centum et vīgintī annōrum erat, quandō mortuus **est**; nōn cālīgāvit oculus eius, nec rōbur illīus dēfēcit.
+7 Moȳsēs[\*][moyses] centum et vīgintī annōrum erat, quandō mortuus **est**; nōn cālīgāvit oculus eius, nec rōbur illīus dēfēcit.
 
 8 Flēvēruntque eum fīliī Isrāēl in campestribus Moab trīgintā diēbus; et complētī sunt diēs **plānctūs** lūgentium Moysēn.
 
-9 **Ios**ue vērō fīlius Nun replētus **est** spīritū sapientiae, quia Moysēs posuit super eum **manūs** suās; et oboediērunt **eī** fīliī Isrāēl fēcēruntque, sīcut praecēpit Dominus Moȳsī.
+9 **Ios**ue vērō fīlius Nun replētus **est** spīritū sapientiae, quia Moȳsēs[\*][moyses] posuit super eum **manūs** suās; et oboediērunt **eī** fīliī Isrāēl fēcēruntque, sīcut praecēpit Dominus Moȳsī.
 
-10 Et nōn surrēxit **ultrā** **prophēta** in Isrāēl sīcut Moysēs, quem nōsset Dominus faciē ad faciem,
+10 Et nōn surrēxit **ultrā** **prophēta** in Isrāēl sīcut Moȳsēs[\*][moyses], quem nōsset Dominus faciē ad faciem,
 
 11 in omnibus signīs atque portentīs, quae mīsit per eum, ut faceret in **terrā** Aegyptī pharaōnī et omnibus servīs eius ūniversaeque terrae illīus,
 
-12 et in **cūnctā** manū **rōbustā** magnīsque mīrābilibus, quae fēcit Moysēs **cōram** ūniversō Isrāēl.
+12 et in **cūnctā** manū **rōbustā** magnīsque mīrābilibus, quae fēcit Moȳsēs[\*][moyses] **cōram** ūniversō Isrāēl.
 
+[moyses]: <Ambiguous Forms.md#moyses>
