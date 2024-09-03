@@ -45,7 +45,7 @@
 
 Reversīque sunt et vēnērunt in domum suam in Ramā. Cognōvit autem Elcāna Annam uxōrem suam, et **recordātus** **est** eius Dominus.
 
-20 Et factum **est** post circulum diērum concēpit **Annā** et peperit fīlium vocāvitque **nōmen** eius Samuel, eō quod ā Dominō postulāsset eum.
+20 Et factum **est** post circulum diērum concēpit **Annā** et peperit fīlium vocāvitque **nōmen** eius Samuēl[\*][samuel], eō quod ā Dominō postulāsset eum.
 
 21 Ascendit autem vir Elcāna et **omnis** **domus** eius, ut immolāret Dominō hostiam annuam et vōtum suum.
 
@@ -149,13 +149,13 @@ et sublīmābit **cornū** chrīstī **suī**”.
 
 17 Erat ergō peccātum puerōrum grande nimis **cōram** Dominō, quia dētrahēbant sacrificiō Dominī.
 
-18 Samuel autem ministrābat ante faciem Dominī, puer accīnctus ephod līneō.
+18 Samuēl[\*][samuel] autem ministrābat ante faciem Dominī, puer accīnctus ephod līneō.
 
 19 Et tunicam parvam faciēbat **eī** māter **sua**, quam afferēbat **eī** singulīs annīs ascendēns cum **virō** suō, ut immolāret hostiam annuam.
 
 20 Et benedīcēbat Hēlī Elcānae et uxōrī eius dīcēbatque: ”Reddat tibi Dominus sēmen dē muliere hāc prō petītiōne, quae **postulāta** **est** prō Dominō”. Et abiērunt in locum suum.
 
-21 Vīsitāvit ergō Dominus Annam, et concēpit et peperit trēs fīliōs et duās fīliās. Et crēvit puer Samuel apud Dominum.
+21 Vīsitāvit ergō Dominus Annam, et concēpit et peperit trēs fīliōs et duās fīliās. Et crēvit puer Samuēl[\*][samuel] apud Dominum.
 
 22 Helī autem erat senex valdē et audīvit omnia, quae faciēbant fīliī **suī** ūniversō Israēlī et quōmodo dormiēbant cum mulieribus, quae ministrābant ad ōstium tabernāculī,
 
@@ -173,7 +173,7 @@ sī autem in Dominum peccāverit vir,
 
 Et nōn audiērunt **vōcem** patris **suī**, quia voluit Dominus **occīdere** eōs.
 
-26 Puer autem Samuel prōficiēbat atque crēscēbat et placēbat tam Dominō quam hominibus.
+26 Puer autem Samuēl[\*][samuel] prōficiēbat atque crēscēbat et placēbat tam Dominō quam hominibus.
 
 27 **Venit** autem vir Deī ad Hēlī et ait ad eum: ”Haec dīcit Dominus: Numquid nōn **apertē** revēlātus sum domuī patris tuī, cum **esset** in Aegyptō in domō pharaōnis?
 
@@ -197,27 +197,27 @@ Et nōn audiērunt **vōcem** patris **suī**, quia voluit Dominus **occīdere**
 
 ## 3
 
-1 Puer autem Samuel ministrābat Dominō **cōram** Hēlī. Et sermō Dominī erat pretiōsus in diēbus illīs: nōn erat **vīsiō** frequēns.
+1 Puer autem Samuēl[\*][samuel] ministrābat Dominō **cōram** Hēlī. Et sermō Dominī erat pretiōsus in diēbus illīs: nōn erat **vīsiō** frequēns.
 
 2 Factum **est** ergō in **diē** quādam, Helī iacēbat in locō suō, et oculī eius cālīgāverant, nec poterat **vidēre**.
 
-3 **Lucerna** Deī nōndum **exstīncta** erat, et Samuel dormiēbat in templō Dominī, ubi erat **arca** Deī.
+3 **Lucerna** Deī nōndum **exstīncta** erat, et Samuēl[\*][samuel] dormiēbat in templō Dominī, ubi erat **arca** Deī.
 
-4 Et vocāvit Dominus Samuel, quī respondēns ait: ”Ecce ego”.
+4 Et vocāvit Dominus Samuēl[\*][samuel], quī respondēns ait: ”Ecce ego”.
 
 5 Et cucurrit ad Hēlī et dīxit: ”Ecce ego; vocāstī enim mē”. Quī dīxit: ”Nōn vocāvī. **Revertere**; dormī!”. Et abiit et dormīvit.
 
-6 Et Dominus rūrsum vocāvit Samuel. Cōnsurgēnsque Samuel abiit ad Hēlī et dīxit: ”Ecce ego, quia vocāstī mē”. Quī respondit: ”Nōn vocāvī tē, fīlī mī. **Revertere** et dormī!”.
+6 Et Dominus rūrsum vocāvit Samuēl[\*][samuel]. Cōnsurgēnsque Samuēl[\*][samuel] abiit ad Hēlī et dīxit: ”Ecce ego, quia vocāstī mē”. Quī respondit: ”Nōn vocāvī tē, fīlī mī. **Revertere** et dormī!”.
 
-7 Porrō Samuel necdum sciēbat Dominum, neque revēlātus fuerat **eī** sermō Dominī.
+7 Porrō Samuēl[\*][samuel] necdum sciēbat Dominum, neque revēlātus fuerat **eī** sermō Dominī.
 
-8 Et Dominus rūrsum vocāvit Samuel tertiō, quī cōnsurgēns abiit ad Hēlī
+8 Et Dominus rūrsum vocāvit Samuēl[\*][samuel] tertiō, quī cōnsurgēns abiit ad Hēlī
 
-9 et ait: ”Ecce ego, quia vocāstī mē”. Intellēxit igitur Hēlī quia Dominus vocāret puerum, et ait ad Samuel: ”**Vāde** et dormī; et, sī deinceps vocāverit tē, **dīcēs**: ”**Loquēre**, Domine, quia audit servus tuus””. Abiit ergō Samuel et dormīvit in locō suō.
+9 et ait: ”Ecce ego, quia vocāstī mē”. Intellēxit igitur Hēlī quia Dominus vocāret puerum, et ait ad Samuēl[\*][samuel]: ”**Vāde** et dormī; et, sī deinceps vocāverit tē, **dīcēs**: ”**Loquēre**, Domine, quia audit servus tuus””. Abiit ergō Samuēl[\*][samuel] et dormīvit in locō suō.
 
-10 Et **venit** Dominus et stetit et vocāvit, sīcut vocāverat prius: ”Samuel, Samuel”. Et ait Samuel: ”**Loquēre**, quia audit servus tuus”.
+10 Et **venit** Dominus et stetit et vocāvit, sīcut vocāverat prius: ”Samuēl[\*][samuel], Samuēl[\*][samuel]”. Et ait Samuēl[\*][samuel]: ”**Loquēre**, quia audit servus tuus”.
 
-11 Et dīxit Dominus ad Samuel: ”Ecce ego faciō verbum in Isrāēl, quod quīcumque audierit, tinnient ambae aurēs eius.
+11 Et dīxit Dominus ad Samuēl[\*][samuel]: ”Ecce ego faciō verbum in Isrāēl, quod quīcumque audierit, tinnient ambae aurēs eius.
 
 12 In **diē** illō suscitābō adversum Hēlī omnia, quae **locūtus** sum super domum eius: incipiam et complēbō.
 
@@ -225,19 +225,19 @@ Et nōn audiērunt **vōcem** patris **suī**, quia voluit Dominus **occīdere**
 
 14 Idcircō iūrāvī domuī Hēlī quod nōn expiētur inīquitās **domūs** eius victimīs et mūneribus usque in aeternum”.
 
-15 Dormīvit autem Samuel usque **manē** aperuitque ōstia **domūs** Dominī. Et Samuel timēbat **indicāre** vīsiōnem Hēlī.
+15 Dormīvit autem Samuēl[\*][samuel] usque **manē** aperuitque ōstia **domūs** Dominī. Et Samuēl[\*][samuel] timēbat **indicāre** vīsiōnem Hēlī.
 
-16 Vocāvit ergō Hēlī Samuēlem et dīxit: ”Samuel, fīlī mī”. Quī respondēns ait: ”Praestō sum”.
+16 Vocāvit ergō Hēlī Samuēlem[\*][samuel] et dīxit: ”Samuēl[\*][samuel], fīlī mī”. Quī respondēns ait: ”Praestō sum”.
 
 17 Et interrogāvit eum: ”**Quis** **est** sermō, quem **locūtus** **est** ad tē? Ōrō tē, nē **cēlāverīs** mē. Haec faciat tibi Deus et haec addat, sī **absconderīs** ā mē sermōnem ex omnibus verbīs, quae **dicta** sunt tibi”.
 
-18 Indicāvit itaque **eī** Samuel ūniversōs sermōnēs et nōn abscondit ab eō. Et ille respondit: ”Dominus **est**! Quod bonum **est** in oculīs **suīs**, faciat”.
+18 Indicāvit itaque **eī** Samuēl[\*][samuel] ūniversōs sermōnēs et nōn abscondit ab eō. Et ille respondit: ”Dominus **est**! Quod bonum **est** in oculīs **suīs**, faciat”.
 
-19 Crēvit autem Samuel, et Dominus erat cum eō, et nōn **cecidit** ex omnibus verbīs eius in terram.
+19 Crēvit autem Samuēl[\*][samuel], et Dominus erat cum eō, et nōn **cecidit** ex omnibus verbīs eius in terram.
 
-20 Et cognōvit ūniversus Isrāēl ā **Dān** usque Bersabeē quod cōnstitūtus **esset** Samuel **prophēta** Dominī.
+20 Et cognōvit ūniversus Isrāēl ā **Dān** usque Bersabeē quod cōnstitūtus **esset** Samuēl[\*][samuel] **prophēta** Dominī.
 
-21 Et addidit Dominus ut **appārēret** in Sīlō, quoniam revēlātus fuerat Dominus Samuēlī in Sīlō iuxtā verbum Dominī. Et **ēvenit** sermō Samuēlis ūniversō Israēlī.
+21 Et addidit Dominus ut **appārēret** in Sīlō, quoniam revēlātus fuerat Dominus Samuēl[\*][samuel]ī in Sīlō iuxtā verbum Dominī. Et **ēvenit** sermō Samuēlis[\*][samuel] ūniversō Israēlī.
 
 ## 4
 
@@ -365,55 +365,55 @@ Quī dīxērunt:
 
 2 Et factum **est**, ex **quā** **diē** mānsit **arca** Dominī in Cariathiarim, multiplicātī sunt diēs; erat quippe iam annus vīcēsimus, et ingemuit **omnis** **domus** Isrāēl post Dominum.
 
-3 Ait autem Samuel ad ūniversam domum Isrāēl dīcēns: ”Sī in **tōtō** **corde** vestrō revertiminī ad Dominum, auferte deōs aliēnōs dē **mediō** vestrī et Astharoth et **praeparātē** **corda** **vestra** Dominō et **servītē** **eī** **sōlī**, et ēruet vōs dē manū Philisthim”.
+3 Ait autem Samuēl[\*][samuel] ad ūniversam domum Isrāēl dīcēns: ”Sī in **tōtō** **corde** vestrō revertiminī ad Dominum, auferte deōs aliēnōs dē **mediō** vestrī et Astharoth et **praeparātē** **corda** **vestra** Dominō et **servītē** **eī** **sōlī**, et ēruet vōs dē manū Philisthim”.
 
 4 Abstulērunt ergō fīliī Isrāēl Baalim et Astharoth et serviērunt Dominō **solī**.
 
-5 Dīxit autem Samuel: ”**Congregātē** ūniversum Isrāēl in Masphā, ut ōrem prō vōbīs Dominum”.
+5 Dīxit autem Samuēl[\*][samuel]: ”**Congregātē** ūniversum Isrāēl in Masphā, ut ōrem prō vōbīs Dominum”.
 
-6 Et convēnērunt in Masphā hausēruntque aquam et effūdērunt in cōnspectū Dominī et ieiūnāvērunt in **diē** **illa** et dīxērunt ibi: ”Peccāvimus Dominō”. Iūdicāvitque Samuel fīliōs Isrāēl in Masphā.
+6 Et convēnērunt in Masphā hausēruntque aquam et effūdērunt in cōnspectū Dominī et ieiūnāvērunt in **diē** **illa** et dīxērunt ibi: ”Peccāvimus Dominō”. Iūdicāvitque Samuēl[\*][samuel] fīliōs Isrāēl in Masphā.
 
 7 Et audiērunt Philisthim quod congregātī **essent** fīliī Isrāēl in Masphā, et ascendērunt prīncipēs Philisthinōrum ad Isrāēl. Quod cum audīssent fīliī Isrāēl, timuērunt ā faciē Philisthinōrum
 
-8 dīxēruntque ad Samuel: ”Nē cessēs prō nōbīs clāmāre ad Dominum Deum nostrum, ut salvet nōs dē manū Philisthinōrum”.
+8 dīxēruntque ad Samuēl[\*][samuel]: ”Nē cessēs prō nōbīs clāmāre ad Dominum Deum nostrum, ut salvet nōs dē manū Philisthinōrum”.
 
-9 Tulit ergō Samuel agnum lactantem ūnum et obtulit illum holocaustum integrum Dominō; et clāmāvit Samuel ad Dominum prō Isrāēl, et exaudīvit eum Dominus.
+9 Tulit ergō Samuēl[\*][samuel] agnum lactantem ūnum et obtulit illum holocaustum integrum Dominō; et clāmāvit Samuēl[\*][samuel] ad Dominum prō Isrāēl, et exaudīvit eum Dominus.
 
-10 Factum **est** autem cum Samuel offerret holocaustum, Philisthim iniēre proelium contrā Isrāēl. Intonuit autem Dominus fragōre magnō in **diē** **illa** super Philisthim et exterruit eōs, et caesī sunt ā faciē Isrāēl.
+10 Factum **est** autem cum Samuēl[\*][samuel] offerret holocaustum, Philisthim iniēre proelium contrā Isrāēl. Intonuit autem Dominus fragōre magnō in **diē** **illa** super Philisthim et exterruit eōs, et caesī sunt ā faciē Isrāēl.
 
 11 Ēgressīque **virī** Isrāēl dē Masphā persecūtī sunt Philisthaēōs et percussērunt eōs usque ad locum, quī erat subter Bethchar.
 
-12 Tulit autem Samuel lapidem ūnum et posuit eum inter Masphā et inter Sēn et vocāvit **nōmen** locī illīus Abenezer (id **est** **Lapis** adiūtōriī) dīxitque: ”Hūcusque **auxiliātus** **est** nōbīs Dominus”.
+12 Tulit autem Samuēl[\*][samuel] lapidem ūnum et posuit eum inter Masphā et inter Sēn et vocāvit **nōmen** locī illīus Abenezer (id **est** **Lapis** adiūtōriī) dīxitque: ”Hūcusque **auxiliātus** **est** nōbīs Dominus”.
 
-13 Et humiliātī sunt Philisthim nec apposuērunt **ultrā** ut venīrent in terminōs Isrāēl. **Facta** **est** itaque **manūs** Dominī super Philisthaeōs cūnctīs diēbus Samuel.
+13 Et humiliātī sunt Philisthim nec apposuērunt **ultrā** ut venīrent in terminōs Isrāēl. **Facta** **est** itaque **manūs** Dominī super Philisthaeōs cūnctīs diēbus Samuēl[\*][samuel].
 
 14 Et redditae sunt urbēs, quās tulerant Philisthim ab Isrāēl, Israelī ab Accārōn usque Geth; et terminōs eārum līberāvit Isrāēl dē manū Philisthinōrum. Eratque pāx inter Isrāēl et Amorraeum.
 
-15 Iūdicābat **quoque** Samuel Isrāēl cūnctīs diēbus vītae suae
+15 Iūdicābat **quoque** Samuēl[\*][samuel] Isrāēl cūnctīs diēbus vītae suae
 
 16 et ībat per singulōs annōs circumiēns Bethel et Galgala et Maspha et iūdicābat Israēlem in supradictīs locīs. Revertēbāturque in Ramā; ibi enim erat **domus** eius, et ibi iūdicābat Israēlem. Aedificāvit etiam ibi altāre Dominō.
 
 ## 8
 
-1 Factum **est** autem cum senuīs set, Samuel posuit fīliōs suōs iūdicēs Isrāēl.
+1 Factum **est** autem cum senuīs set, Samuēl[\*][samuel] posuit fīliōs suōs iūdicēs Isrāēl.
 
 2 Fuitque **nōmen** fīliī eius prīmōgenitī Ioēl et **nōmen** secundī Abia; iūdicābant in Bersabee.
 
 3 Et nōn ambulāvērunt fīliī illīus in viīs eius, sed dēclīnāvērunt post avāritiam accēpēruntque **mūnera** et pervertērunt iūdicium.
 
-4 Congregātī ergō ūniversī maiōrēs nātū Isrāēl vēnērunt ad Samuel in Ramā
+4 Congregātī ergō ūniversī maiōrēs nātū Isrāēl vēnērunt ad Samuēl[\*][samuel] in Ramā
 
 5 dīxēruntque **eī**: ”Ecce tū senuistī, et fīliī tuī nōn ambulant in viīs tuīs; nunc ergō cōnstitue nōbīs rēgem, ut iūdicet nōs, sīcut ūniversae habent nātiōnēs”.
 
-6 Displicuitque sermō in oculīs Samuēlis, eō quod dīxissent: ”Dā nōbīs rēgem, ut iūdicet nōs”. Et ōrāvit Samuel ad Dominum.
+6 Displicuitque sermō in oculīs Samuēlis[\*][samuel], eō quod dīxissent: ”Dā nōbīs rēgem, ut iūdicet nōs”. Et ōrāvit Samuēl[\*][samuel] ad Dominum.
 
-7 Dīxit autem Dominus ad Samuel: ”Audī **vōcem** **populī** in omnibus, quae loquuntur tibi; nōn enim tē abiēcērunt, sed mē abiēcērunt, nē rēgnem super eōs.
+7 Dīxit autem Dominus ad Samuēl[\*][samuel]: ”Audī **vōcem** **populī** in omnibus, quae loquuntur tibi; nōn enim tē abiēcērunt, sed mē abiēcērunt, nē rēgnem super eōs.
 
 8 Iuxtā omnia **opera** **sua**, quae fēcērunt ā **diē**, **quā** ēdūxī eōs dē Aegyptō, usque ad diem hanc, sīcut dērelīquērunt mē et serviērunt dīīs aliēnīs, sīc faciunt etiam tibi.
 
 9 Nunc ergō audī **vōcem** eōrum; vērumtamen contestāre eōs et praedīc eīs iūs **rēgis**, quī rēgnātūrus **est** super eōs”.
 
-10 Dīxit itaque Samuel omnia verba Dominī ad **populum**, quī petierat ā sē rēgem,
+10 Dīxit itaque Samuēl[\*][samuel] omnia verba Dominī ad **populum**, quī petierat ā sē rēgem,
 
 11 et ait: ”**Hoc** erit iūs **rēgis**, quī imperātūrus **est** vōbīs: Fīliōs vestrōs tollet et pōnet in curribus **suīs** facietque sibi equitēs, et current ante quadrīgās eius;
 
@@ -431,13 +431,13 @@ Quī dīxērunt:
 
 18 Et clāmābitis in **diē** **illa** ā faciē **rēgis** vestrī, quem ēlēgistis vōbīs, et nōn exaudiet vōs Dominus in **diē** **illa**”.
 
-19 Nōluit autem **populus** audīre **vōcem** Samuel, sed dīxērunt: ”Nēquāquam: rēx enim erit super nōs,
+19 Nōluit autem **populus** audīre **vōcem** Samuēl[\*][samuel], sed dīxērunt: ”Nēquāquam: rēx enim erit super nōs,
 
 20 et erimus nōs **quoque** sīcut omnēs gentēs; et iūdicābit nōs rēx noster et ēgrediētur ante nōs et pugnābit **bella** **nostra** prō nōbīs”.
 
-21 Et audīvit Samuel omnia verba **populī** et **locūtus** **est** **eā** in auribus Dominī.
+21 Et audīvit Samuēl[\*][samuel] omnia verba **populī** et **locūtus** **est** **eā** in auribus Dominī.
 
-22 Dīxit autem Dominus ad Samuel: ”Audī **vōcem** eōrum et cōnstitue super eōs rēgem”. Et ait Samuel ad virōs Isrāēl: ”**Vadat** ūnusquisque in cīvitātem suam”.
+22 Dīxit autem Dominus ad Samuēl[\*][samuel]: ”Audī **vōcem** eōrum et cōnstitue super eōs rēgem”. Et ait Samuēl[\*][samuel] ad virōs Isrāēl: ”**Vadat** ūnusquisque in cīvitātem suam”.
 
 ## 9
 
@@ -467,37 +467,37 @@ Quī dīxērunt:
 
 13 Ingredientēs urbem statim inveniētis eum, antequam ascendat excelsum ad vēscendum; neque enim comēsūrus **est** **populus**, dōnec ille veniat, quia ipse benedīcit hostiae, et deinceps comedunt, quī vocātī sunt. Nunc ergō cōnscendite, quia statim reperiētis eum”.
 
-14 Et ascendērunt in cīvitātem. Cumque illī intrārent in urbem, appāruit Samuel ēgrediēns obviam eīs, ut ascenderet in excelsum.
+14 Et ascendērunt in cīvitātem. Cumque illī intrārent in urbem, appāruit Samuēl[\*][samuel] ēgrediēns obviam eīs, ut ascenderet in excelsum.
 
-15 Dominus autem revēlāverat Samuel, ante ūnam diem quam venīret Saūl, dīcēns:
+15 Dominus autem revēlāverat Samuēl[\*][samuel], ante ūnam diem quam venīret Saūl, dīcēns:
 
 16 ”Hāc **ipsa**, quae nunc **est** **hōrā**, crās mittam ad tē **virum** dē **terrā** Beniamin, et ungēs eum ducem super **populum** meum Isrāēl, et salvābit **populum** meum dē manū Philisthinōrum, quia respexī **populum** meum; **venit** enim clāmor eōrum ad mē”.
 
-17 Cumque aspexisset Samuel Saūlem, Dominus ait **eī**: ”Ecce vir, quem dīxeram tibi; iste dominābitur **populō** meō”.
+17 Cumque aspexisset Samuēl[\*][samuel] Saūlem, Dominus ait **eī**: ”Ecce vir, quem dīxeram tibi; iste dominābitur **populō** meō”.
 
-18 Accessit autem Saūl ad Samuēlem in **mediō** portae et ait: ”**Indica**, ōrō, mihi: **Ubi** **est** **domus** **videntis**?”.
+18 Accessit autem Saūl ad Samuēlem[\*][samuel] in **mediō** portae et ait: ”**Indica**, ōrō, mihi: **Ubi** **est** **domus** **videntis**?”.
 
-19 Et respondit Samuel **Saulī** dīcēns: ”Ego sum vidēns. Ascende ante mē in excelsum, ut comedātis mēcum hodiē. Et dīmittam tē **manē** et omnia, quae sunt in **corde** tuō, indicābō tibi;
+19 Et respondit Samuēl[\*][samuel] **Saulī** dīcēns: ”Ego sum vidēns. Ascende ante mē in excelsum, ut comedātis mēcum hodiē. Et dīmittam tē **manē** et omnia, quae sunt in **corde** tuō, indicābō tibi;
 
 20 et dē asinīs, quās perdidistī **nūdius**tertius, nē sollicitus sīs, quia inventae sunt. Et cuius erunt **optima** quaeque Isrāēl? **Nōnne** tibi et omnī domuī patris tuī?”.
 
 21 Respondēns autem Saūl ait: “Numquid nōn Beniaminita ego sum dē **minimā** tribū Isrāēl, et cognātiō **mea** **novissima** inter omnēs familiās dē tribū Beniamin? Quārē ergō **locūtus** **es** mihi sermōnem istum?”.
 
-22 Assūmēns itaque Samuel Saūlem et puerum eius intrōdūxit eōs in trīclīnium et **dedit** eīs locum in **capite** eōrum, quī fuerant invītātī: erant enim quasi trīgintā **virī**.
+22 Assūmēns itaque Samuēl[\*][samuel] Saūlem et puerum eius intrōdūxit eōs in trīclīnium et **dedit** eīs locum in **capite** eōrum, quī fuerant invītātī: erant enim quasi trīgintā **virī**.
 
-23 Dīxitque Samuel cocō: ”Dā partem, quam **dedī** tibi et praecēpī, ut repōnerēs seorsum apud tē”.
+23 Dīxitque Samuēl[\*][samuel] cocō: ”Dā partem, quam **dedī** tibi et praecēpī, ut repōnerēs seorsum apud tē”.
 
-24 **Levāvit** autem cocus armum et caudam et posuit ante Saūl. Dīxitque Samuel: ”Ecce quod remānsit; pōne ante tē et comede, quia dē **industriā** servātum **est** tibi, quandō **populum** vocāvī”. Et **comēdit** Saūl cum Samuel in **diē** **illa**.
+24 **Levāvit** autem cocus armum et caudam et posuit ante Saūl. Dīxitque Samuēl[\*][samuel]: ”Ecce quod remānsit; pōne ante tē et comede, quia dē **industriā** servātum **est** tibi, quandō **populum** vocāvī”. Et **comēdit** Saūl cum Samuēl[\*][samuel] in **diē** **illa**.
 
 25 Et dēscendērunt dē excelsō in oppidum. Et strāvērunt prō Saūl in **sōlāriō**, et dormīvit.
 
-26 Cumque **māne** surrēxissent, et iam ēlūcēsceret, vocāvit Samuel Saūl in **sōlāriō** dīcēns: ”Surge, ut dīmittam tē”. Et surrēxit Saūl. Ēgressīque sunt ambō, ipse vidēlicet et Samuel.
+26 Cumque **māne** surrēxissent, et iam ēlūcēsceret, vocāvit Samuēl[\*][samuel] Saūl in **sōlāriō** dīcēns: ”Surge, ut dīmittam tē”. Et surrēxit Saūl. Ēgressīque sunt ambō, ipse vidēlicet et Samuēl[\*][samuel].
 
-27 Cumque dēscenderent in **extrēmā** **parte** cīvitātis, Samuel dīxit ad Saūl: ”Dīc puerō, ut antecēdat nōs — et ille antecessit C; tū autem subsiste paulisper, ut indicem tibi verbum Dominī”.
+27 Cumque dēscenderent in **extrēmā** **parte** cīvitātis, Samuēl[\*][samuel] dīxit ad Saūl: ”Dīc puerō, ut antecēdat nōs — et ille antecessit C; tū autem subsiste paulisper, ut indicem tibi verbum Dominī”.
 
 ## 10
 
-1 Tulit autem Samuel lenticulam oleī et effūdit super caput eius et deōsculātus eum ait: ”Ecce ūnxit tē Dominus in prīncipem super **populum** suum, super Isrāēl. Et tū domināberis **populō** Dominī et tū līberābis eum dē manū inimīcōrum eius, quī in circuitū eius sunt. Et **hoc** tibi signum quia ūnxit tē Deus in prīncipem super hērēditātem suam:
+1 Tulit autem Samuēl[\*][samuel] lenticulam oleī et effūdit super caput eius et deōsculātus eum ait: ”Ecce ūnxit tē Dominus in prīncipem super **populum** suum, super Isrāēl. Et tū domināberis **populō** Dominī et tū līberābis eum dē manū inimīcōrum eius, quī in circuitū eius sunt. Et **hoc** tibi signum quia ūnxit tē Deus in prīncipem super hērēditātem suam:
 
 2 cum **abierīs** hodiē ā mē, inveniēs duōs virōs iuxtā sepulcrum Rachel in fīnibus Beniamin, **dīcent**que tibi: “Inventae sunt asinae, ad quās ierās perquīrendās; et intermissīs pater tuus asinīs sollicitus **est** prō vōbīs et dīcit: Quid faciam dē fīliō meō?”.
 
@@ -523,19 +523,19 @@ Quī dīxērunt:
 
 13 Cessāvit autem prophētāre et **venit** in Gabaā;
 
-14 dīxitque patruus Saūl ad eum et ad puerum eius: ”Quō abistis?”. Quī respondit: ”**Quaerēre** asinās; quās cum nōn **repperissēmus**, **vēnimus** ad Samuēlem”.
+14 dīxitque patruus Saūl ad eum et ad puerum eius: ”Quō abistis?”. Quī respondit: ”**Quaerēre** asinās; quās cum nōn **repperissēmus**, **vēnimus** ad Samuēlem[\*][samuel]”.
 
-15 Et dīxit **eī** patruus suus: “**Indica** mihi quid dīxerit tibi Samuel”.
+15 Et dīxit **eī** patruus suus: “**Indica** mihi quid dīxerit tibi Samuēl[\*][samuel]”.
 
-16 Et ait Saūl ad patruum suum: ”Indicāvit nōbīs quia inventae **essent** asinae”. Dē sermōne autem rēgnī nōn indicāvit **eī**, quem **locūtus** illī fuerat Samuel.
+16 Et ait Saūl ad patruum suum: ”Indicāvit nōbīs quia inventae **essent** asinae”. Dē sermōne autem rēgnī nōn indicāvit **eī**, quem **locūtus** illī fuerat Samuēl[\*][samuel].
 
-17 Et convocāvit Samuel **populum** ad Dominum in Masphā
+17 Et convocāvit Samuēl[\*][samuel] **populum** ad Dominum in Masphā
 
 18 et ait ad fīliōs Isrāēl: ”Haec dīcit Dominus, Deus Isrāēl: Ego ēdūxī Isrāēl dē Aegyptō et eruī vōs dē manū Aegyptiōrum et dē manū omnium rēgnōrum, quae afflīgēbant vōs.
 
 19 Vōs autem hodiē prōiēcistis Deum vestrum, quī **sōlus** salvāvit vōs dē ūniversīs **mālīs** et trībulātiōnibus vestrīs, et dīxistis: “Nēquāquam, sed rēgem cōnstitue super nōs!”. Nunc ergō **statē** **cōram** Dominō per **tribūs** vestrās et per familiās”.
 
-20 Et applicuit Samuel omnēs **tribus** Isrāēl; et **cecidit** sors in tribum Beniamin.
+20 Et applicuit Samuēl[\*][samuel] omnēs **tribus** Isrāēl; et **cecidit** sors in tribum Beniamin.
 
 21 Et applicuit tribum Beniamin et cognātiōnēs eius; et **cecidit** in cognātiōnem Metrī et **pervēnit** usque ad Saūl fīlium Cīs. Quaesiērunt ergō eum, et nōn **est** **inventus**.
 
@@ -543,11 +543,11 @@ Quī dīxērunt:
 
 23 Cucurrērunt itaque et tulērunt eum inde; stetitque in **mediō** **populī** et altior fuit ūniversō **populō** ab umerō et sūrsum.
 
-24 Et ait Samuel ad omnem **populum**:
+24 Et ait Samuēl[\*][samuel] ad omnem **populum**:
 
 ”**Certē** vidētis, quem ēlēgit Dominus, quoniam nōn sit **similis** **eī** in omnī **populō**”. Et clāmāvit cūnctus **populus** et ait: ”Vīvat rēx!”.
 
-25 **Locūtus** **est** autem Samuel ad **populum** lēgem rēgnī et scrīpsit in **librō** et reposuit **cōram** Dominō; et dīmīsit Samuel omnem **populum**, singulōs in domum suam.
+25 **Locūtus** **est** autem Samuēl[\*][samuel] ad **populum** lēgem rēgnī et scrīpsit in **librō** et reposuit **cōram** Dominō; et dīmīsit Samuēl[\*][samuel] omnem **populum**, singulōs in domum suam.
 
 26 Sed et Saūl abiit in domum suam in Gabaā; et abiērunt cum eō **virī** fortēs, quōrum tetigerat Deus **corda**.
 
@@ -567,7 +567,7 @@ Quī dīxērunt:
 
 6 Et īnsilīvit **spīritus** Dominī in Saūl, cum audīsset verba haec; et īrātus **est** **furor** eius nimis.
 
-7 Et assūmēns pār boum **concīdit** in **frusta** mīsitque in omnēs terminōs Isrāēl per **manum** nūntiōrum dīcēns: ”Quīcumque nōn exierit secūtusque fuerit Saūl et Samuel, sīc fīet bōbus eius”. Invāsit ergō timor Dominī **populum**, et ēgressī sunt quasi vir ūnus.
+7 Et assūmēns pār boum **concīdit** in **frusta** mīsitque in omnēs terminōs Isrāēl per **manum** nūntiōrum dīcēns: ”Quīcumque nōn exierit secūtusque fuerit Saūl et Samuēl[\*][samuel], sīc fīet bōbus eius”. Invāsit ergō timor Dominī **populum**, et ēgressī sunt quasi vir ūnus.
 
 8 Et recēnsuit eōs in Bezec: fuēruntque fīliōrum Isrāēl **trecenta** **milia**; **virōrum** autem Iūdae trīgintā **mīlia**.
 
@@ -577,17 +577,17 @@ Quī dīxērunt:
 
 11 Et factum **est**, cum vēnisset diēs crāstinus, cōnstituit Saūl **populum** in trēs partēs; et ingressī sunt **media** **castra** in **vigiliā** **mātūtīnā** et percussērunt Ammōn, usque dum incalēsceret diēs. **Relīquī** autem dispersī sunt, **ita** ut nōn relinquerentur in eīs duo pariter.
 
-12 Et ait **populus** ad Samuel: ”**Quis** **est** iste quī dīxit: “Saūl num rēgnābit super nōs?”. **Date** virōs, et interficiēmus eōs”.
+12 Et ait **populus** ad Samuēl[\*][samuel]: ”**Quis** **est** iste quī dīxit: “Saūl num rēgnābit super nōs?”. **Date** virōs, et interficiēmus eōs”.
 
 13 Et ait Saūl: ”Nōn **occīdētur** quisquam in **diē** hāc, quia hodiē fēcit Dominus salūtem in Isrāēl”.
 
-14 Dīxit autem Samuel ad **populum**: ”Venīte, et eāmus in Galgala et innovēmus ibi rēgnum”.
+14 Dīxit autem Samuēl[\*][samuel] ad **populum**: ”Venīte, et eāmus in Galgala et innovēmus ibi rēgnum”.
 
 15 Et perrēxit **omnis** **populus** in Galgala, et fēcērunt ibi rēgem Saūl **cōram** Dominō in Galgala; et immolāvērunt ibi victimās pācificās **cōram** Dominō. Et laetātus **est** ibi Saūl et cūnctī **virī** Isrāēl nimis.
 
 ## 12
 
-1 Dīxit autem Samuel ad ūniversum Isrāēl: ”Ecce audīvī **vōcem** vestram iuxtā omnia, quae locūtī **estis** ad mē, et cōnstituī super vōs rēgem;
+1 Dīxit autem Samuēl[\*][samuel] ad ūniversum Isrāēl: ”Ecce audīvī **vōcem** vestram iuxtā omnia, quae locūtī **estis** ad mē, et cōnstituī super vōs rēgem;
 
 2 et nunc rēx graditur ante vōs. Ego autem senuī et incānuī; porrō fīliī meī vōbīscum sunt. Itaque conversātus **cōram** vōbīs ab **adulēscentiā** **meā** usque ad hanc diem;
 
@@ -597,7 +597,7 @@ Quī dīxērunt:
 
 5 Dīxitque ad eōs: ”**Testīs** Dominus adversum vōs, et **testis** chrīstus eius in **diē** hāc, quia nōn **invēnerītis** in manū **meā** quippiam”. Et dīxērunt: ”**Testīs**”.
 
-6 Et ait Samuel ad **populum**: ”**Testīs** **est** Dominus, quī fēcit Moysen et Aarōn et ēdūxit patrēs nostrōs dē **terrā** Aegyptī.
+6 Et ait Samuēl[\*][samuel] ad **populum**: ”**Testīs** **est** Dominus, quī fēcit Moysen et Aarōn et ēdūxit patrēs nostrōs dē **terrā** Aegyptī.
 
 7 Nunc ergō **statē**, ut iūdiciō contendam adversum vōs **cōram** Dominō dē omnibus misericordiīs Dominī, quās fēcit vōbīscum et cum patribus vestrīs:
 
@@ -607,7 +607,7 @@ Quī dīxērunt:
 
 10 Posteā autem clāmāvērunt ad Dominum et dīxērunt: “Peccāvimus, quia dērelīquimus Dominum et servīvimus Baalim et Astharoth; nunc ergō erue nōs dē manū inimīcōrum nostrōrum, et serviēmus tibi”.
 
-11 Et mīsit Dominus Ierobbaal et Barac et Iephtē et Samuel et ēruit vōs dē manū inimīcōrum vestrōrum per circuitum; et habitāstis cōnfīdenter.
+11 Et mīsit Dominus Ierobbaal et Barac et Iephtē et Samuēl[\*][samuel] et ēruit vōs dē manū inimīcōrum vestrōrum per circuitum; et habitāstis cōnfīdenter.
 
 12 Videntēs autem quod Naās rēx fīliōrum Ammōn vēnisset adversum vōs, dīxistis mihi: “Nēquāquam, sed rēx imperābit nōbīs!”, cum Dominus Deus vester rēgnāret in vōbīs.
 
@@ -621,11 +621,11 @@ Quī dīxērunt:
 
 17 Numquid nōn **messis** trīticī **est** hodiē? Invocābō Dominum, et dabit **tonitrua** et pluviās; et sciētis et vidēbitis quia grande **malum** **fēcerītis** vōbīs in cōnspectū Dominī petentēs super vōs rēgem”.
 
-18 Et clāmāvit Samuel ad Dominum, et **dedit** Dominus **tonitrua** et pluviam in **diē** **illa**.
+18 Et clāmāvit Samuēl[\*][samuel] ad Dominum, et **dedit** Dominus **tonitrua** et pluviam in **diē** **illa**.
 
-19 Et timuit **omnis** **populus** nimis Dominum et Samuel; dīxitque ūniversus **populus** ad Samuel: ”**Ōra** prō servīs tuīs ad Dominum Deum tuum, ut nōn moriāmur: addidimus enim ūniversīs **peccātīs** nostrīs **malum**, ut peterēmus nōbīs rēgem”.
+19 Et timuit **omnis** **populus** nimis Dominum et Samuēl[\*][samuel]; dīxitque ūniversus **populus** ad Samuēl[\*][samuel]: ”**Ōra** prō servīs tuīs ad Dominum Deum tuum, ut nōn moriāmur: addidimus enim ūniversīs **peccātīs** nostrīs **malum**, ut peterēmus nōbīs rēgem”.
 
-20 Dīxit autem Samuel ad **populum**: ”Nōlīte timēre. Vōs fēcistis ūniversum **mālum** **hoc**; vērumtamen nōlīte **recēdere** ā tergō Dominī et **servītē** Dominō in omnī **corde** vestrō;
+20 Dīxit autem Samuēl[\*][samuel] ad **populum**: ”Nōlīte timēre. Vōs fēcistis ūniversum **mālum** **hoc**; vērumtamen nōlīte **recēdere** ā tergō Dominī et **servītē** Dominō in omnī **corde** vestrō;
 
 21 et nōlīte dēclīnāre post **vāna**, quae nōn **prōdērunt** vōbīs neque ēruent vōs, quia **vāna** sunt;
 
@@ -655,21 +655,21 @@ Quī dīxērunt:
 
 Cumque adhūc **esset** Saūl in Galgalīs, ūniversus **populus** perterritus **est**, quī sequēbātur eum.
 
-8 Et exspectāvit septem diēbus iuxtā placitum Samuel, et nōn **venit** Samuel in Galgala; dīlāpsusque **est** **populus** ab eō.
+8 Et exspectāvit septem diēbus iuxtā placitum Samuēl[\*][samuel], et nōn **venit** Samuēl[\*][samuel] in Galgala; dīlāpsusque **est** **populus** ab eō.
 
 9 Ait ergō Saūl: ”Afferte mihi holocaustum et **pācifica**”. Et obtulit holocaustum.
 
-10 Cumque complēsset offerēns holocaustum, ecce Samuel veniēbat; et **ēgressus** **est** Saūl obviam **eī**, ut salūtāret eum.
+10 Cumque complēsset offerēns holocaustum, ecce Samuēl[\*][samuel] veniēbat; et **ēgressus** **est** Saūl obviam **eī**, ut salūtāret eum.
 
-11 **Locūtus**que **est** ad eum Samuel: ”Quid fēcistī?”. Respondit Saūl: ”Quia vīdī quod dīlāberētur **populus** ā mē, et tū nōn vēnerās iuxtā placitōs diēs, porrō Philisthim congregātī fuerant in Machmās,
+11 **Locūtus**que **est** ad eum Samuēl[\*][samuel]: ”Quid fēcistī?”. Respondit Saūl: ”Quia vīdī quod dīlāberētur **populus** ā mē, et tū nōn vēnerās iuxtā placitōs diēs, porrō Philisthim congregātī fuerant in Machmās,
 
 12 dīxī: Nunc dēscendent Philisthim ad mē in Galgala, et faciem Dominī nōn plācāvī. Necessitāte compulsus obtulī holocaustum”.
 
-13 Dīxitque Samuel ad Saūl: ”**Stultē** ēgistī. Utinam cūstōdīssēs **mandāta** Dominī Deī tuī, quae praecēpit tibi! **Profectō** nunc cōnfirmāsset Dominus rēgnum tuum super Isrāēl in sempiternum;
+13 Dīxitque Samuēl[\*][samuel] ad Saūl: ”**Stultē** ēgistī. Utinam cūstōdīssēs **mandāta** Dominī Deī tuī, quae praecēpit tibi! **Profectō** nunc cōnfirmāsset Dominus rēgnum tuum super Isrāēl in sempiternum;
 
 14 sed nēquāquam rēgnum tuum **ultrā** cōnsurget. Quaesīvit sibi Dominus **virum** iuxtā cor suum; et cōnstituit eum Dominus ducem super **populum** suum, eō quod nōn **servāverīs**, quae praecēpit Dominus”.
 
-15 Surrēxit autem Samuel et ascendit dē Galgalīs et abiit per viam suam. Et reliquus **populus** ascendit post Saūl obviam exercituī bellātōrum. Et vēnērunt dē Galgalīs in Gabaā Beniamin. Et recēnsuit Saūl **populum**, quī inventī fuerant cum eō, quasi sēscentōs virōs.
+15 Surrēxit autem Samuēl[\*][samuel] et ascendit dē Galgalīs et abiit per viam suam. Et reliquus **populus** ascendit post Saūl obviam exercituī bellātōrum. Et vēnērunt dē Galgalīs in Gabaā Beniamin. Et recēnsuit Saūl **populum**, quī inventī fuerant cum eō, quasi sēscentōs virōs.
 
 16 Et Saūl et **Ionathān** fīlius eius **populus**que, quī erat cum eīs, erat in Gabaā Beniamin; porrō Philisthim cōnsēderant in Machmās.
 
@@ -795,7 +795,7 @@ Cumque adhūc **esset** Saūl in Galgalīs, ūniversus **populus** perterritus *
 
 ## 15
 
-1 Et dīxit Samuel ad Saūl: ”Mē mīsit Dominus, ut ungerem tē in rēgem super **populum** eius Isrāēl. Nunc ergō audī **vōcem** Dominī.
+1 Et dīxit Samuēl[\*][samuel] ad Saūl: ”Mē mīsit Dominus, ut ungerem tē in rēgem super **populum** eius Isrāēl. Nunc ergō audī **vōcem** Dominī.
 
 2 Haec dīcit Dominus exercituum: “Recēnsuī, quaecumque fēcit Amalec Israēlī, quōmodo restitit **eī** in **viā**, cum ascenderet dē Aegyptō.
 
@@ -813,85 +813,85 @@ Cumque adhūc **esset** Saūl in Galgalīs, ūniversus **populus** perterritus *
 
 9 Et pepercit Saūl et **populus** Agag et optimīs gregibus ovium et armentōrum, pinguibus scīlicet pecoribus et agnīs et ūniversīs, quae **pulchra** erant, nec voluērunt **disperdere** **ea**; quidquid vērō vīle fuit et reprobum, **hoc** dēmōlītī sunt.
 
-10 Factum **est** autem verbum Dominī ad Samuel dīcēns:
+10 Factum **est** autem verbum Dominī ad Samuēl[\*][samuel] dīcēns:
 
-11 ”Paenitet mē quod cōnstituerim Saūl rēgem, quia dērelīquit mē et verba **mea** opere nōn implēvit”. Contrīstātusque **est** Samuel et clāmāvit ad Dominum **tōtā** nocte.
+11 ”Paenitet mē quod cōnstituerim Saūl rēgem, quia dērelīquit mē et verba **mea** opere nōn implēvit”. Contrīstātusque **est** Samuēl[\*][samuel] et clāmāvit ad Dominum **tōtā** nocte.
 
-12 Cumque dē nocte surrēxisset Samuel, ut īret ad Saūl **māne**, nūntiātum **est** Samueli quod vēnisset Saūl in Carmel et ērēxisset sibi trophaeum et reversus trānsīsset dēscendissetque in Galgala.
+12 Cumque dē nocte surrēxisset Samuēl[\*][samuel], ut īret ad Saūl **māne**, nūntiātum **est** Samueli quod vēnisset Saūl in Carmel et ērēxisset sibi trophaeum et reversus trānsīsset dēscendissetque in Galgala.
 
-13 Et cum vēnisset Samuel ad Saūl, dīxit **eī** Saūl: ”Benedictus tū Dominō; implēvī verbum Dominī”.
+13 Et cum vēnisset Samuēl[\*][samuel] ad Saūl, dīxit **eī** Saūl: ”Benedictus tū Dominō; implēvī verbum Dominī”.
 
-14 Dīxitque Samuel: ”Et quae **est** haec vōx gregum, quae resonat in auribus meīs, et armentōrum, quam ego audiō?”.
+14 Dīxitque Samuēl[\*][samuel]: ”Et quae **est** haec vōx gregum, quae resonat in auribus meīs, et armentōrum, quam ego audiō?”.
 
 15 Et ait Saūl: ”Dē Amalec addūxērunt **ea**; pepercit enim **populus** meliōribus ovibus et armentīs, ut immolārentur Dominō Deō tuō; **reliqua** vērō **occīdimus**”.
 
-16 Dīxit autem Samuel ad Saūl: ”**Sine** mē, et indicābō tibi, quae **locūtus** sit Dominus ad mē nocte”. Dīxitque **eī**: ”**Loquēre**”.
+16 Dīxit autem Samuēl[\*][samuel] ad Saūl: ”**Sine** mē, et indicābō tibi, quae **locūtus** sit Dominus ad mē nocte”. Dīxitque **eī**: ”**Loquēre**”.
 
-17 Et ait Samuel: ”**Nonne**, cum parvulus **essēs** in oculīs tuīs, caput in tribubus Isrāēl **factus** **es**? Ūnxitque tē Dominus rēgem super Isrāēl
+17 Et ait Samuēl[\*][samuel]: ”**Nonne**, cum parvulus **essēs** in oculīs tuīs, caput in tribubus Isrāēl **factus** **es**? Ūnxitque tē Dominus rēgem super Isrāēl
 
 18 et mīsit tē Dominus in viam et ait: ”**Vāde** et interfice peccātōrēs Amalec et pugnābis contrā eōs usque ad interneciōnem eōrum”.
 
 19 Quārē ergō nōn audīstī **vōcem** Dominī, sed **versus** ad praedam **es** et fēcistī **mālum** in oculīs Dominī?”.
 
-20 Et ait Saūl ad Samuēlem: ”Immō audīvī **vōcem** Dominī et ambulāvī in **viā**, per quam mīsit mē Dominus; et addūxī Agag rēgem Amalec et Amalec interfēcī.
+20 Et ait Saūl ad Samuēlem[\*][samuel]: ”Immō audīvī **vōcem** Dominī et ambulāvī in **viā**, per quam mīsit mē Dominus; et addūxī Agag rēgem Amalec et Amalec interfēcī.
 
 21 Tulit autem **populus** dē **praedā** ovēs et bovēs, prīmitiās eōrum, quae **caesa** sunt, ut immolet Dominō Deō tuō in Galgalīs”.
 
-22 Et ait Samuel: ”Numquid vult Dominus holocausta aut victimās et nōn potius ut oboediātur vōcī Dominī? Melior **est** enim **oboedientia** quam victimae, et auscultāre **magis** quam offerre adipem arietum.
+22 Et ait Samuēl[\*][samuel]: ”Numquid vult Dominus holocausta aut victimās et nōn potius ut oboediātur vōcī Dominī? Melior **est** enim **oboedientia** quam victimae, et auscultāre **magis** quam offerre adipem arietum.
 
 23 **Vērē** peccātum hariolandī **est** repugnāre, et scelus īdōlolatrīae nōlle **acquiēscere**: prō eō ergō quod abiēcistī sermōnem Dominī, abiēcit tē, nē sīs rēx”.
 
-24 Dīxitque Saūl ad Samuēlem: ”Peccāvī, quia praevāricātus sum sermōnem Dominī et verba **tua** timēns **populum** et oboediēns vōcī eōrum;
+24 Dīxitque Saūl ad Samuēlem[\*][samuel]: ”Peccāvī, quia praevāricātus sum sermōnem Dominī et verba **tua** timēns **populum** et oboediēns vōcī eōrum;
 
 25 sed nunc tolle, quaesō, peccātum meum et **revertere** mēcum, ut adōrem Dominum”.
 
-26 Et ait Samuel ad Saūl: ”Nōn revertar tēcum, quia prōiēcistī sermōnem Dominī; et prōiēcit tē Dominus, nē sīs rēx super Isrāēl”.
+26 Et ait Samuēl[\*][samuel] ad Saūl: ”Nōn revertar tēcum, quia prōiēcistī sermōnem Dominī; et prōiēcit tē Dominus, nē sīs rēx super Isrāēl”.
 
-27 Et conversus **est** Samuel, ut abīret; ille autem apprehendit summitātem palliī eius, quae et **scissa** **est**.
+27 Et conversus **est** Samuēl[\*][samuel], ut abīret; ille autem apprehendit summitātem palliī eius, quae et **scissa** **est**.
 
-28 Et ait ad eum Samuel: ”Scidit Dominus rēgnum Isrāēl ā tē hodiē et trādidit illud proximō tuō meliōrī tē.
+28 Et ait ad eum Samuēl[\*][samuel]: ”Scidit Dominus rēgnum Isrāēl ā tē hodiē et trādidit illud proximō tuō meliōrī tē.
 
 29 Porrō **Glōria** Isrāēl nōn mentītur et paenitūdine nōn flectitur; neque enim homō **est**, ut agat paenitentiam”.
 
 30 At ille ait: ”Peccāvī, sed nunc **honōrā** mē **cōram** senibus **populī** meī et **cōram** Isrāēl; et **revertere** mēcum, ut adōrem Dominum Deum tuum”.
 
-31 Reversus ergō Samuel secūtus **est** Saūlem et adōrāvit Saūl Dominum.
+31 Reversus ergō Samuēl[\*][samuel] secūtus **est** Saūlem et adōrāvit Saūl Dominum.
 
-32 Dīxitque Samuel: ”Addūcite ad mē Agag rēgem Amalec”. Et oblātus **est** **eī** Agag tremēns. Et dīxit Agag: ”**Certē** sēcessit amāritūdō **mortis**!”.
+32 Dīxitque Samuēl[\*][samuel]: ”Addūcite ad mē Agag rēgem Amalec”. Et oblātus **est** **eī** Agag tremēns. Et dīxit Agag: ”**Certē** sēcessit amāritūdō **mortis**!”.
 
-33 Et ait Samuel: ”Sīcut fēcit absque **līberīs** mulierēs gladius tuus, sīc absque **līberīs** erit inter mulierēs māter **tua**”. Et in **frusta** **concīdit** Samuel Agag **cōram** Dominō in Galgalīs.
+33 Et ait Samuēl[\*][samuel]: ”Sīcut fēcit absque **līberīs** mulierēs gladius tuus, sīc absque **līberīs** erit inter mulierēs māter **tua**”. Et in **frusta** **concīdit** Samuēl[\*][samuel] Agag **cōram** Dominō in Galgalīs.
 
-34 Abiit autem Samuel in Ramā; Saūl vērō ascendit in domum suam in Gabaā Saūlis.
+34 Abiit autem Samuēl[\*][samuel] in Ramā; Saūl vērō ascendit in domum suam in Gabaā Saūlis.
 
-35 Et nōn vīdit Samuel **ultrā** Saūl usque ad diem **mortis** suae; vērumtamen lūgēbat Samuel Saūl, quoniam Dominum paenitēbat quod cōnstituisset Saūl rēgem super Isrāēl.
+35 Et nōn vīdit Samuēl[\*][samuel] **ultrā** Saūl usque ad diem **mortis** suae; vērumtamen lūgēbat Samuēl[\*][samuel] Saūl, quoniam Dominum paenitēbat quod cōnstituisset Saūl rēgem super Isrāēl.
 
 ## 16
 
-1 Dīxitque Dominus ad Samuēlem: ”Usquequō tū lūgēs Saūl, cum ego prōiēcerim eum, nē rēgnet super Isrāēl? Implē **cornū** tuum oleō et **vēnī**, ut mittam tē ad Isāī Bethlehemītēm; **prōvidī** enim in fīliīs eius mihi rēgem”.
+1 Dīxitque Dominus ad Samuēlem[\*][samuel]: ”Usquequō tū lūgēs Saūl, cum ego prōiēcerim eum, nē rēgnet super Isrāēl? Implē **cornū** tuum oleō et **vēnī**, ut mittam tē ad Isāī Bethlehemītēm; **prōvidī** enim in fīliīs eius mihi rēgem”.
 
-2 Et ait Samuel: ”Quōmodo vādam? Audiet enim Saūl et interficiet mē”. Et ait Dominus: ”**Vītulam** dē armentō tollēs in manū **tuā** et **dīcēs**: “Ad immolandum Dominō **vēnī**”.
+2 Et ait Samuēl[\*][samuel]: ”Quōmodo vādam? Audiet enim Saūl et interficiet mē”. Et ait Dominus: ”**Vītulam** dē armentō tollēs in manū **tuā** et **dīcēs**: “Ad immolandum Dominō **vēnī**”.
 
 3 Et vocābis Isai ad victimam; et ego ostendam tibi quid faciās, et ungēs quemcumque mōnstrāverō tibi”.
 
-4 Fēcit ergō Samuel, sīcut **locūtus** **est** **eī** Dominus, **venit**que in Bethlehem. Et expāvērunt seniōrēs cīvitātis occurrentēs **eī** dīxēruntque: ”Pācificusne **ingressus** tuus?”.
+4 Fēcit ergō Samuēl[\*][samuel], sīcut **locūtus** **est** **eī** Dominus, **venit**que in Bethlehem. Et expāvērunt seniōrēs cīvitātis occurrentēs **eī** dīxēruntque: ”Pācificusne **ingressus** tuus?”.
 
 5 Et ait: ”Pācificus; ad immolandum Dominō **vēnī**. Sānctificāminī et venīte mēcum, ut immolem”. Sānctificāvit ergō Isāī et fīliōs eius et vocāvit eōs ad sacrificium.
 
 6 Cumque ingressī **essent**, vīdit Eliab et ait: ”Absque dubiō **cōram** Dominō **est** chrīstus eius!”.
 
-7 Et dīxit Dominus ad Samuēlem: ”Nē respiciās vultum eius neque altitūdinem statūrae eius, quoniam abiēcī eum; nec iuxtā intuitum hominis iūdicō: homō enim videt **ea**, quae **pārent**, Dominus autem intuētur cor”.
+7 Et dīxit Dominus ad Samuēlem[\*][samuel]: ”Nē respiciās vultum eius neque altitūdinem statūrae eius, quoniam abiēcī eum; nec iuxtā intuitum hominis iūdicō: homō enim videt **ea**, quae **pārent**, Dominus autem intuētur cor”.
 
 8 Et vocāvit Isai Abinadab et addūxit eum **cōram** Samuele, quī dīxit: ”Nec hunc ēlēgit Dominus”.
 
 9 Addūxit autem Isāī Samma, dē quō ait: ”Etiam hunc nōn ēlēgit Dominus”.
 
-10 Addūxit itaque Isāī septem fīliōs suōs **cōram** Samuele, et ait Samuel ad Isāī: ”Nōn ēlēgit Dominus ex istīs”.
+10 Addūxit itaque Isāī septem fīliōs suōs **cōram** Samuele, et ait Samuēl[\*][samuel] ad Isāī: ”Nōn ēlēgit Dominus ex istīs”.
 
-11 Dīxitque Samuel ad Isāī: ”Numquid iam complētī sunt fīliī?”. Quī respondit: ”Adhūc reliquus **est** minimus et pāscit ovēs”. Et ait Samuel ad Isāī: ”Mitte et addūc eum; nec enim discumbēmus prius quam hūc ille vēnerit”.
+11 Dīxitque Samuēl[\*][samuel] ad Isāī: ”Numquid iam complētī sunt fīliī?”. Quī respondit: ”Adhūc reliquus **est** minimus et pāscit ovēs”. Et ait Samuēl[\*][samuel] ad Isāī: ”Mitte et addūc eum; nec enim discumbēmus prius quam hūc ille vēnerit”.
 
 12 Mīsit ergō et addūxit eum; erat autem rūfus et pulcher aspectū **decōrā**que faciē. Et ait Dominus: ”Surge, unge eum; ipse **est** enim”.
 
-13 Tulit igitur Samuel **cornū** oleī et ūnxit eum in **mediō** frātrum eius; et dīrēctus **est** **spīritus** Dominī in Dāvīd ā **diē** **illa** et in reliquum. Surgēnsque Samuel abiit in Ramā.
+13 Tulit igitur Samuēl[\*][samuel] **cornū** oleī et ūnxit eum in **mediō** frātrum eius; et dīrēctus **est** **spīritus** Dominī in Dāvīd ā **diē** **illa** et in reliquum. Surgēnsque Samuēl[\*][samuel] abiit in Ramā.
 
 14 **Spīritus** autem Dominī recessit ā Saūl, et exagitābat eum **spīritus** nēquam ā Dominō.
 
@@ -1139,19 +1139,19 @@ Quod cum annūntiāsset Dāvīd Michol uxor **suā** dīcēns: ”**Nīsī** **s
 
 17 Dīxitque Saūl ad Michol: ”Quārē sīc illūsistī mihi et dīmīsistī inimīcum meum, ut fugeret?”. Et respondit Michol ad Saūl: ”Quia ipse **locūtus** **est** mihi: “Dīmitte mē, aliōquīn interficiam tē””.
 
-18 Dāvīd autem fugiēns salvātus **est** et **venit** ad Samuel in Ramā et nūntiāvit **eī** omnia, quae fēcerat sibi Saūl. Et abiērunt ipse et Samuel et **morātī** sunt in Naioth.
+18 Dāvīd autem fugiēns salvātus **est** et **venit** ad Samuēl[\*][samuel] in Ramā et nūntiāvit **eī** omnia, quae fēcerat sibi Saūl. Et abiērunt ipse et Samuēl[\*][samuel] et **morātī** sunt in Naioth.
 
 19 Nūntiātum **est** autem **Saūlī** ā dīcentibus: ”Ecce Dāvīd in Naioth in Ramā”.
 
-20 Mīsit ergō Saūl nūntiōs, ut raperent Dāvīd. Quī cum vīdissent cuneum prophētārum vāticinantium et Samuel stantem super eōs, **factus** **est** in illīs **spīritūs** Deī, et vāticinārī coepērunt etiam ipsī.
+20 Mīsit ergō Saūl nūntiōs, ut raperent Dāvīd. Quī cum vīdissent cuneum prophētārum vāticinantium et Samuēl[\*][samuel] stantem super eōs, **factus** **est** in illīs **spīritūs** Deī, et vāticinārī coepērunt etiam ipsī.
 
 21 Quod cum nūntiātum **esset** **Saūlī**, mīsit aliōs nūntiōs; vāticinātī sunt autem et illī. Et rūrsum Saūl mīsit tertiōs nūntiōs, quī et ipsī vāticinātī sunt.
 
-22 Abiit autem etiam ipse in Ramā et **venit** usque ad cisternam magnam, quae **est** in Sochō; et interrogāvit et dīxit: ”In quō locō sunt Samuel et Dāvīd?”. Dictumque **est** **eī**: ”Ecce in Naioth sunt in Ramā”.
+22 Abiit autem etiam ipse in Ramā et **venit** usque ad cisternam magnam, quae **est** in Sochō; et interrogāvit et dīxit: ”In quō locō sunt Samuēl[\*][samuel] et Dāvīd?”. Dictumque **est** **eī**: ”Ecce in Naioth sunt in Ramā”.
 
 23 Et abiit inde in Naioth in Ramā; et **factus** **est** etiam super eum **spīritus** Deī, et ambulābat ingrediēns et vāticināns, usquedum venīret in Naioth in Ramā.
 
-24 Et exspoliāvit sē etiam ipse vestīmentīs **suīs** et vāticinātus **est** cum cēterīs **cōram** Samuel; et **cecidit** nūdus **tōtā** **diē** **illa** et nocte, unde et exīvit prōverbium: ”Num et Saūl inter prophētās?”.
+24 Et exspoliāvit sē etiam ipse vestīmentīs **suīs** et vāticinātus **est** cum cēterīs **cōram** Samuēl[\*][samuel]; et **cecidit** nūdus **tōtā** **diē** **illa** et nocte, unde et exīvit prōverbium: ”Num et Saūl inter prophētās?”.
 
 ## 20
 
@@ -1435,7 +1435,7 @@ Porrō Saūl exsurgēns dē **spēluncā** pergēbat coeptō itinere.
 
 ## 25
 
-1 Mortuus **est** autem Samuel; et **congregātus** **est** ūniversus Isrāēl, et plānxērunt eum et sepeliērunt eum in domō **suā** in Ramā.
+1 Mortuus **est** autem Samuēl[\*][samuel]; et **congregātus** **est** ūniversus Isrāēl, et plānxērunt eum et sepeliērunt eum in domō **suā** in Ramā.
 
 Cōnsurgēnsque Dāvīd dēscendit in dēsertum Maon.
 
@@ -1617,7 +1617,7 @@ igitur mihi servus sempiternus”.
 
 2 Dīxitque Dāvīd ad Achīs: ”Ideō tū **quoque** sciēs, quae factūrus **est** servus tuus”. Et ait Achis ad Dāvīd: ”Ideō cūstōdem **capitis** meī pōnam tē cūnctīs diēbus”.
 
-3 Samuel autem mortuus erat; plānxeratque eum **omnis** Isrāēl, et sepelierant eum in Ramā urbe **suā**. Et Saūl abstulerat magōs et hariolōs dē **terrā**.
+3 Samuēl[\*][samuel] autem mortuus erat; plānxeratque eum **omnis** Isrāēl, et sepelierant eum in Ramā urbe **suā**. Et Saūl abstulerat magōs et hariolōs dē **terrā**.
 
 4 Congregātīque sunt Philisthim et vēnērunt et castramētātī sunt in Sūnam. Congregāvit autem et Saūl ūniversum Isrāēl, et castramētātī sunt in Gelboe.
 
@@ -1633,17 +1633,17 @@ igitur mihi servus sempiternus”.
 
 10 Et iūrāvit **eī** Saūl in Dominō dīcēns: ”Vīvit Dominus quia nōn veniet tibi quidquam **malī** propter hanc rem”.
 
-11 Dīxitque **eī** mulier: ”Quem suscitābō tibi?”. Quī ait: ”Samuēlem suscitā mihi”.
+11 Dīxitque **eī** mulier: ”Quem suscitābō tibi?”. Quī ait: ”Samuēlem[\*][samuel] suscitā mihi”.
 
-12 Cum autem vīdisset mulier Samuēlem, exclāmāvit vōce **magnā** et dīxit ad Saūl: ”Quārē imposuistī mihi? Tū **es** enim Saūl!”.
+12 Cum autem vīdisset mulier Samuēlem[\*][samuel], exclāmāvit vōce **magnā** et dīxit ad Saūl: ”Quārē imposuistī mihi? Tū **es** enim Saūl!”.
 
 13 Dīxitque **eī** rēx: ”Nōlī timēre. Quid vīdistī?”. Et ait mulier ad Saūl: ”Hominem dīvīnum vīdī ascendentem dē **terrā**”.
 
-14 Dīxitque **eī**: ”**Quālīs** **est** **fōrma** eius?”. Quae ait: ”Vir senex ascendit et ipse **amictus** **est** palliō”. Intellēxit Saūl quod Samuel **esset** et inclīnāvit sē super faciem suam in **terrā** et adōrāvit.
+14 Dīxitque **eī**: ”**Quālīs** **est** **fōrma** eius?”. Quae ait: ”Vir senex ascendit et ipse **amictus** **est** palliō”. Intellēxit Saūl quod Samuēl[\*][samuel] **esset** et inclīnāvit sē super faciem suam in **terrā** et adōrāvit.
 
-15 Dīxit autem Samuel ad Saūl: ”Quārē inquiētāstī mē, ut suscitārer?”. Et ait Saūl: ”Coartor nimis. Siquidem Philisthim pugnant adversum mē, et Deus recessit ā mē et exaudīre mē nōluit neque in manū prophētārum neque per **somnia**; vocāvī ergō tē, ut ostenderēs mihi quid faciam”.
+15 Dīxit autem Samuēl[\*][samuel] ad Saūl: ”Quārē inquiētāstī mē, ut suscitārer?”. Et ait Saūl: ”Coartor nimis. Siquidem Philisthim pugnant adversum mē, et Deus recessit ā mē et exaudīre mē nōluit neque in manū prophētārum neque per **somnia**; vocāvī ergō tē, ut ostenderēs mihi quid faciam”.
 
-16 Et ait Samuel: ”Quid interrogās mē, cum Dominus recesserit ā tē et **factus** **est** adversārius tuus?
+16 Et ait Samuēl[\*][samuel]: ”Quid interrogās mē, cum Dominus recesserit ā tē et **factus** **est** adversārius tuus?
 
 17 Fēcit enim Dominus, sīcut **locūtus** **est** in manū **meā**, et scidit rēgnum dē manū **tuā** et **dedit** illud proximō tuō Dāvīd,
 
@@ -1651,7 +1651,7 @@ igitur mihi servus sempiternus”.
 
 19 Et dabit Dominus etiam Isrāēl tēcum in manū Philisthim; crās autem tū et fīliī tuī mēcum eritis, sed et **castra** Isrāēl trādet Dominus in manū Philisthim”.
 
-20 Statimque Saūl **cecidit** porrēctus in terram; extimuerat enim verba Samuel, et rōbur nōn erat in eō, quia nōn comēderat pānem **tōtā** **diē** **illa** et **tōtā** nocte **illa**.
+20 Statimque Saūl **cecidit** porrēctus in terram; extimuerat enim verba Samuēl[\*][samuel], et rōbur nōn erat in eō, quia nōn comēderat pānem **tōtā** **diē** **illa** et **tōtā** nocte **illa**.
 
 21 Accessit itaque mulier ad Saūl et vīdit quod conturbātus **esset** valdē; dīxitque ad eum: ”Ecce audīvit **ancillā** **tuā** **vōcem** tuam, et posuī animam meam in manū **meā** et oboedīvī sermōnibus tuīs, quōs **locūtus** **es** ad mē.
 
@@ -1779,3 +1779,4 @@ igitur mihi servus sempiternus”.
 
 13 Et tulērunt ossa eōrum et sepeliērunt sub myrīcē in Iabēs et ieiūnāvērunt septem diēbus.
 
+[samuel]: <Ambiguous Forms.md#samuel>

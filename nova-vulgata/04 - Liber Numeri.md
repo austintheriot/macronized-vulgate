@@ -2671,7 +2671,7 @@ Hanc habēbitis terram per fīnēs suōs in circuitū”.
 
 19 quōrum **ista** sunt vocābula: dē tribū Iūdae Chaleb fīlius Iephōnne;
 
-20 dē tribū Simeon Samuel fīlius Ammiud;
+20 dē tribū Simeon Samuēl[\*][samuel] fīlius Ammiud;
 
 21 dē tribū Beniamin Elidad fīlius Chaselon;
 
@@ -2790,3 +2790,4 @@ Hanc habēbitis terram per fīnēs suōs in circuitū”.
 13 Haec sunt **mandāta** atque iūdicia, quae mandāvit Dominus per **manum** Moȳsī ad fīliōs Isrāēl in campestribus Moab suprā Iordānem contrā Ierichō.
 
 [moyses]: <Ambiguous Forms.md#moyses>
+[samuel]: <Ambiguous Forms.md#samuel>

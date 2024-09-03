@@ -1689,7 +1689,7 @@ Rettulēruntque itaque **rēgī** **cūncta**, quae dīxerat.
 
 17 Fēcēruntque fīliī Isrāēl, quī repertī fuerant ibi, **Pascha** in tempore illō et sollemnitātem Azȳmōrum septem diēbus.
 
-18 Nōn fuit simile huic in Isrāēl ā diēbus Samuēlis prophētae, sed nec quisquam dē cūnctīs rēgibus Isrāēl fēcit **Pascha** sīcut Iosīās cum sacerdōtibus et **Lēvītīs** et omnī **Iūdā** et Isrāēl, quī **repertus** fuerat, et habitantibus in Ierusālem.
+18 Nōn fuit simile huic in Isrāēl ā diēbus Samuēlis[\*][samuel] prophētae, sed nec quisquam dē cūnctīs rēgibus Isrāēl fēcit **Pascha** sīcut Iosīās cum sacerdōtibus et **Lēvītīs** et omnī **Iūdā** et Isrāēl, quī **repertus** fuerat, et habitantibus in Ierusālem.
 
 19 Octāvō decimō annō rēgnī Iosiae **hoc** **Pascha** celebrātum **est**.
 
@@ -1758,3 +1758,4 @@ Rettulēruntque itaque **rēgī** **cūncta**, quae dīxerat.
 23 ”Haec dīcit Cȳrus rēx Persārum: Omnia **rēgna** terrae **dēdit** mihi Dominus, Deus caelī, et ipse praecēpit mihi, ut aedificārem **eī** domum in Ierusālem, quae **est** in **Iūdaeā**. **Quis** ex vōbīs **est** dē omnī **populō** eius? Sit Dominus Deus suus cum eō, et ascendat”.
 
 [moyses]: <Ambiguous Forms.md#moyses>
+[samuel]: <Ambiguous Forms.md#samuel>

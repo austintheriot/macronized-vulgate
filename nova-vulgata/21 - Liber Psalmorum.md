@@ -7550,7 +7550,7 @@ quoniam sānctus **est**.
 
 6 Moȳsēs[\*][moyses] et Aarōn in sacerdōtibus eius,
 
-et Samuel inter eōs, quī invocant **nōmen** eius.
+et Samuēl[\*][samuel] inter eōs, quī invocant **nōmen** eius.
 
 Invocābant Dominum, et ipse exaudiēbat eōs,
 
@@ -11640,3 +11640,4 @@ omne quod spīrat, laudet Dominum. ALLĒLŪIA
 
 [jacob]: <Ambiguous Forms.md#jacob>
 [moyses]: <Ambiguous Forms.md#moyses>
+[samuel]: <Ambiguous Forms.md#samuel>

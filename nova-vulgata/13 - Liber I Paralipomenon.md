@@ -476,9 +476,9 @@ Hae autem cognātiōnēs **Levī** secundum familiās eōrum:
 
 11 Elcana fīlius eius, Sophai fīlius eius, Nahath fīlius eius,
 
-12 Eliab fīlius eius, Ieroham fīlius eius, Elcana fīlius eius, Samuel fīlius eius.
+12 Eliab fīlius eius, Ieroham fīlius eius, Elcana fīlius eius, Samuēl[\*][samuel] fīlius eius.
 
-13 Fīliī Samuel: prīmōgenitus Ioēl et secundus Abia.
+13 Fīliī Samuēl[\*][samuel]: prīmōgenitus Ioēl et secundus Abia.
 
 14 Fīliī autem Merarī: Moholi, Lobnī fīlius eius, Semēī fīlius eius, Oza fīlius eius,
 
@@ -488,7 +488,7 @@ Hae autem cognātiōnēs **Levī** secundum familiās eōrum:
 
 17 et ministrābant **cōram** habitātiōne tabernāculī **conventūs** **canentēs**, dōnec aedificāret Salomōn domum Dominī in Ierusālem; stābant autem iuxtā ōrdinem suum in ministeriō.
 
-18 Hī vērō sunt, quī assistēbant cum fīliīs **suīs**. Dē fīliīs Caath: Heman cantor fīlius Ioēl fīliī Samuel
+18 Hī vērō sunt, quī assistēbant cum fīliīs **suīs**. Dē fīliīs Caath: Heman cantor fīlius Ioēl fīliī Samuēl
 
 19 fīliī Elcāna fīliī Ieroham fīliī Eliēl fīliī Thohu
 
@@ -590,7 +590,7 @@ Hae autem cognātiōnēs **Levī** secundum familiās eōrum:
 
 1 Porrō fīliī Issachar: Thola et Phua, Iasub et Semrōn, quattuor.
 
-2 Fīliī Thola: Ozī et Raphaia et Ieriel et Iemāī et Iebsem et Samuel, prīncipēs familiārum suārum; dē stirpe Thola **virī** fortissimī numerātī sunt iuxtā geneālogiās suās in diēbus Dāvīd vīgintī duo **mīlia** sēscentī.
+2 Fīliī Thola: Ozī et Raphaia et Ieriel et Iemāī et Iebsem et Samuēl[\*][samuel], prīncipēs familiārum suārum; dē stirpe Thola **virī** fortissimī numerātī sunt iuxtā geneālogiās suās in diēbus Dāvīd vīgintī duo **mīlia** sēscentī.
 
 3 Fīliī Ozī: Izrahia, dē quō **nātī** sunt Michael et Obadia et Ioēl et Iēsia, quīnque prīncipēs omnēs.
 
@@ -794,7 +794,7 @@ Hae autem cognātiōnēs **Levī** secundum familiās eōrum:
 
 21 Zacharīās fīlius Mosollamia iānitor portae tabernāculī **conventūs**.
 
-22 Omnēs hī ēlēctī in ōstiāriōs līminum **ducentī** duodecim, et dēscrīptī in **villīs** propriīs, quōs cōnstituērunt Dāvīd et Samuel vidēns in mūnus perpetuum,
+22 Omnēs hī ēlēctī in ōstiāriōs līminum **ducentī** duodecim, et dēscrīptī in **villīs** propriīs, quōs cōnstituērunt Dāvīd et Samuēl[\*][samuel] vidēns in mūnus perpetuum,
 
 23 tam ipsōs quam fīliōs eōrum in ōstiīs **domus** Dominī, **domus** tabernāculī, in cūstōdiās.
 
@@ -876,7 +876,7 @@ Hae autem cognātiōnēs **Levī** secundum familiās eōrum:
 
 2 **Heri** **quoque** et **nūdius**tertius, cum adhūc rēgnāret Saūl, tū erās quī ēdūcēbās et intrōdūcēbās Isrāēl; tibi enim dīxit Dominus Deus tuus: “Tū pāscēs **populum** meum Isrāēl et tū **eris** prīnceps super eum””.
 
-3 Vēnērunt ergō omnēs maiōrēs nātū Isrāēl ad rēgem in **Hebrōn**, et iniit Dāvīd cum eīs foedus in **Hebrōn** **cōram** Dominō; ūnxēruntque eum rēgem super Isrāēl iuxtā sermōnem Dominī, quem **locūtus** **est** in manū Samuel.
+3 Vēnērunt ergō omnēs maiōrēs nātū Isrāēl ad rēgem in **Hebrōn**, et iniit Dāvīd cum eīs foedus in **Hebrōn** **cōram** Dominō; ūnxēruntque eum rēgem super Isrāēl iuxtā sermōnem Dominī, quem **locūtus** **est** in manū Samuēl[\*][samuel].
 
 4 Abiit **quoque** Dāvīd et **omnīs** Isrāēl in Ierusālem, haec **est** Iebus, ubi erant Iebusaēī habitātōrēs terrae.
 
@@ -1846,7 +1846,7 @@ Dē Coritis: Meselemia fīlius **Corē** dē fīliīs Abiasaph.
 
 27 dē **bellīs** et manubiīs proeliōrum, quās cōnsecrāverant ad sustentandum templum Dominī.
 
-28 Et **ūniversa**, quae cōnsecrāverant Samuel vidēns et Saūl fīlius Cīs et Abner fīlius Ner et Ioab fīlius Sarviae, omnia dōnāria **sacra** erant sub manū Selemith et frātrum eius.
+28 Et **ūniversa**, quae cōnsecrāverant Samuēl[\*][samuel] vidēns et Saūl fīlius Cīs et Abner fīlius Ner et Ioab fīlius Sarviae, omnia dōnāria **sacra** erant sub manū Selemith et frātrum eius.
 
 29 Dē Isaaritis vērō erant Chonenīās et fīliī eius ad **opera** forīnsecus super Isrāēl praefectī et iūdicēs.
 
@@ -2042,8 +2042,9 @@ et laudāmus **nōmen** tuum inclitum.
 
 28 Et mortuus **est** in senectūte **bonā** plēnus diērum et dīvitiīs et **glōriā**; et rēgnāvit Salomōn fīlius eius prō eō.
 
-29 **Gesta** autem Dāvīd **rēgis** priōra et **novissima** **scrīpta** sunt in **librō** Samuel **videntis** et in **librō** Nathan prophētae atque in volūmine Gad **videntis**,
+29 **Gesta** autem Dāvīd **rēgis** priōra et **novissima** **scrīpta** sunt in **librō** Samuēl[\*][samuel] **videntis** et in **librō** Nathan prophētae atque in volūmine Gad **videntis**,
 
 30 ūniversīque rēgnī eius et fortitūdinis et temporum, quae trānsiērunt sub eō sīve in Isrāēl sīve in cūnctīs rēgnīs terrārum.
 
 [moyses]: <Ambiguous Forms.md#moyses>
+[samuel]: <Ambiguous Forms.md#samuel>

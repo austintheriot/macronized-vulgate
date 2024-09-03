@@ -37,3 +37,9 @@ Matthias (Greek length)
 Moȳsēs (Gaffiot)
 
 Mōȳsēs (Woordenboek Latijn/Nederlands (LaNe))
+
+## Samuel
+
+Samuēl[\*][samuel] (Gaffiot)
+
+Samūēl (Greek length, Wiktionary)

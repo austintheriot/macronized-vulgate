@@ -606,7 +606,7 @@ nōn sibi **complacet** in eō **animā** **meā**.
 
 31 **Fīdē** Rahab meretrīx nōn periit cum incrēdulīs, quia excēperat explōrātōrēs cum pāce.
 
-32 Et quid adhūc **dīcam**? Dēficiet enim mē tempus ēnārrantem dē Gedeon, Barac, Samson, Iephte, Dāvīd et Samuel atque **prophētīs**,
+32 Et quid adhūc **dīcam**? Dēficiet enim mē tempus ēnārrantem dē Gedeon, Barac, Samson, Iephte, Dāvīd et Samuēl[\*][samuel] atque **prophētīs**,
 
 33 quī per fidem dēvīcērunt **rēgna**, operātī sunt iūstitiam, adeptī sunt reprōmissiōnēs, obtūrāvērunt **ōra** leōnum,
 
@@ -745,3 +745,4 @@ flagellat autem omnem fīlium, quem recipit”.
 25 **Grātia** cum omnibus vōbīs.
 
 [moyses]: <Ambiguous Forms.md#moyses>
+[samuel]: <Ambiguous Forms.md#samuel>

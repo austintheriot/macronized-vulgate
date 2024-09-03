@@ -218,7 +218,7 @@ replēbis mē iūcunditāte cum faciē tuā”.
 
 12 Vidēns autem Petrus respondit ad populum: “Virī Isrāēlītae, quid mīrāminī in hōc aut nōs quid intuēminī, quasi nostrā virtūte aut pietāte fēcerīmus hunc ambulāre?
 
-13 Deus Abraham et Deus Isaac et Deus Iācōb[*][jacob], Deus patrum nostrōrum, glōrificāvit puerum suum Iēsum, quem vōs quidem trādidistis et negāstis ante faciem Pīlātī, iūdicante illō dīmittī;
+13 Deus Abraham et Deus Isaac et Deus Iācōb[\*][jacob], Deus patrum nostrōrum, glōrificāvit puerum suum Iēsum, quem vōs quidem trādidistis et negāstis ante faciem Pīlātī, iūdicante illō dīmittī;
 
 14 vōs autem Sānctum et Iūstum negāstis et petīstis virum homicīdam dōnārī vōbīs,
 
@@ -236,13 +236,13 @@ replēbis mē iūcunditāte cum faciē tuā”.
 
 21 quem oportet caelum quidem suscipere usque in tempora restitūtiōnis omnium, quae locūtus est Deus per ōs sānctōrum ā saeculō suōrum prophētārum.
 
-22 Moȳsēs[\*][moyses] quidem dīxit: “Prophētam vōbīs suscitābit Dominus Deus vester dē frātribus vestrīs tamquam mē; ipsum audiētis iuxtā omnia, quaecumque **locūtus** fuerit vōbīs.
+22 Moȳsēs[\*][moyses] quidem dīxit: “Prophētam vōbīs suscitābit Dominus Deus vester dē frātribus vestrīs tamquam mē; ipsum audiētis iuxtā omnia, quaecumque locūtus fuerit vōbīs.
 
-23 Erit autem: **omnis** **anima**, quae nōn audierit prophētam illum, exterminābitur dē plēbe”.
+23 Erit autem: omnis anima, quae nōn audierit prophētam illum, exterminābitur dē plēbe”.
 
-24 Et omnēs prophētae ā Samuel et deinceps quotquot locūtī sunt, etiam annūntiāvērunt diēs istōs.
+24 Et omnēs prophētae ā Samuēl[\*][samuel] et deinceps quotquot locūtī sunt, etiam annūntiāvērunt diēs istōs.
 
-25 Vōs **estis** fīliī prophētārum et testāmentī, quod disposuit Deus ad patrēs vestrōs dīcēns ad Abraham: “Et in sēmine tuō benedīcentur omnēs familiae terrae”.
+25 Vōs estis fīliī prophētārum et testāmentī, quod disposuit Deus ad patrēs vestrōs dīcēns ad Abraham: “Et in sēmine tuō benedīcentur omnēs familiae terrae”.
 
 26 Vōbīs prīmum Deus suscitāns Puerum suum, mīsit eum benedīcentem vōbīs in āvertendō ūnumquemque ā nēquitiīs vestrīs”.
 
@@ -1026,7 +1026,7 @@ Sequentī autem **diē**, surgēns **profectus** **est** cum eīs, et quīdam ex
 
 19 et dēstruēns gentēs septem in **terrā** Chanaan sorte distribuit terram eōrum,
 
-20 quasi quadringentōs et quīnquāgintā annōs. Et post haec **dēdit** iūdicēs usque ad Samuel prophētam.
+20 quasi quadringentōs et quīnquāgintā annōs. Et post haec **dēdit** iūdicēs usque ad Samuēl[\*][samuel] prophētam.
 
 21 Et exinde postulāvērunt rēgem, et **dedit** illīs Deus Saūl fīlium Cīs, **virum** dē tribū Beniamin, annīs quadrāgintā.
 
@@ -2192,3 +2192,4 @@ et sānābō illōs”.
 [jacob]: <Ambiguous Forms.md#jacob>
 [matthias]: <Ambiguous Forms.md#matthias>
 [moyses]: <Ambiguous Forms.md#moyses>
+[samuel]: <Ambiguous Forms.md#samuel>

@@ -6312,7 +6312,7 @@ quī nōn āversī sunt ā Dominō:
 
 fīliīs illōrum sānctōrum **virōrum**.
 
-16 **Dīlēctus** ā Dominō suō Samuel
+16 **Dīlēctus** ā Dominō suō Samuēl
 
 **prophēta** Dominī īnstituit imperium
 
