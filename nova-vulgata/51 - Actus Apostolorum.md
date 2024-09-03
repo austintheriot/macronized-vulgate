@@ -248,17 +248,17 @@ replēbis mē iūcunditāte cum faciē tuā”.
 
 ## 4
 
-1 Loquentibus autem illīs ad **populum**, supervēnērunt eīs sa cerdōtēs et **magistrātūs** templī et saddūcaeī,
+1 Loquentibus autem illīs ad populum, supervēnērunt eīs sacerdōtēs et magistrātūs templī et saddūcaeī,
 
-2 dolentēs quod docērent **populum** et annūntiārent in Iēsū resurrēctiōnem ex mortuīs;
+2 dolentēs quod docērent populum et annūntiārent in Iēsū resurrēctiōnem ex mortuīs;
 
-3 et iniēcērunt in eōs **manūs** et posuērunt in cūstōdiam in crāstinum; erat enim iam **vespera**.
+3 et iniēcērunt in eōs manūs et posuērunt in cūstōdiam in crāstinum; erat enim iam vespera.
 
-4 Multī autem eōrum, quī audierant verbum, crēdidērunt; et **factus** **est** numerus **virōrum** quīnque **mīlia**.
+4 Multī autem eōrum, quī audierant verbum, crēdidērunt; et factus est numerus virōrum quīnque mīlia.
 
-5 Factum **est** autem in crāstinum, ut congregārentur prīncipēs eōrum et seniōrēs et scrībae in Ierūsalēm,
+5 Factum est autem in crāstinum, ut congregārentur prīncipēs eōrum et seniōrēs et scrībae in Ierūsalēm,
 
-6 et Annās prīnceps sacerdōtum et Caiphās et Iōannēs et Alexander et quotquot erant dē genere sacerdōtālī,
+6 et **Annās** prīnceps sacerdōtum et **Caiphās** et Iōannēs et **Alexander** et quotquot erant dē genere sacerdōtālī,
 
 7 et statuentēs eōs in **mediō** interrogābant: “In **quā** virtūte aut in quō nōmine fēcistis **hoc** vōs?”.
 
@@ -312,7 +312,7 @@ et prīncipēs convēnērunt in ūnum
 
 adversus Dominum et adversus Chrīstum eius”.
 
-27 Convēnērunt enim **vērē** in cīvitāte **ista** adversus sānctum puerum tuum Iēsum, quem ūnxistī, Hērōdēs et Pontius Pīlātus cum gentibus et **populīs** Isrāēl
+27 Convēnērunt enim **vērē** in cīvitāte **ista** adversus sānctum puerum tuum Iēsum, quem ūnxistī, **Hērōdēs** et ****Pontius** **Pīlātus**** cum gentibus et **populīs** Isrāēl
 
 28 facere, quaecumque **manus** **tua** et cōnsilium praedēstināvit fierī.
 
@@ -936,7 +936,7 @@ Sequentī autem **diē**, surgēns **profectus** **est** cum eīs, et quīdam ex
 
 ## 12
 
-1 Illō autem tempore, mīsit Hērōdēs rēx **manūs**, ut afflī geret quōsdam dē **ecclēsiā**.
+1 Illō autem tempore, mīsit **Hērōdēs** rēx **manūs**, ut afflī geret quōsdam dē **ecclēsiā**.
 
 2 **Occidit** autem Iacobum frātrem Iōannis gladiō.
 
@@ -946,7 +946,7 @@ Sequentī autem **diē**, surgēns **profectus** **est** cum eīs, et quīdam ex
 
 5 Et Petrus quidem servābātur in carcere; ōrātiō autem fīēbat **sine** intermissiōne ab **ecclēsiā** ad Deum prō eō.
 
-6 Cum autem prōductūrus eum **esset** Hērōdēs, in **ipsā** nocte erat Petrus dormiēns inter duōs mīlitēs **vīnctus** catēnīs duābus, et cūstōdēs ante ōstium cūstōdiēbant carcerem.
+6 Cum autem prōductūrus eum **esset** **Hērōdēs**, in **ipsā** nocte erat Petrus dormiēns inter duōs mīlitēs **vīnctus** catēnīs duābus, et cūstōdēs ante ōstium cūstōdiēbant carcerem.
 
 7 Et ecce angelus Dominī astitit, et lūmen refulsit in habitāculō; percussō autem **latere** Petrī, suscitāvit eum dīcēns: “Surge vēlōciter!”. Et **cecidērunt** catēnae dē manibus eius.
 
@@ -972,11 +972,11 @@ Sequentī autem **diē**, surgēns **profectus** **est** cum eīs, et quīdam ex
 
 18 **Facta** autem **diē**, erat nōn **parva** turbātiō inter mīlitēs, quidnam dē Petrō factum **esset**.
 
-19 Hērōdēs autem, cum requīsīsset eum et nōn invēnisset, **interrogātīs** cūstōdibus, iussit eōs abdūcī; dēscendēnsque ā **Iūdaeā** in **Caesarēam** ibi commorābātur.
+19 **Hērōdēs** autem, cum requīsīsset eum et nōn invēnisset, **interrogātīs** cūstōdibus, iussit eōs abdūcī; dēscendēnsque ā **Iūdaeā** in **Caesarēam** ibi commorābātur.
 
 20 Erat autem īrātus Tyriīs et **Sīdoniīs**; at illī ūnanimēs vēnērunt ad eum et, persuāsō Blastō, quī erat super cubiculum **rēgis**, postulābant pācem, eō quod alerētur **regiō** eōrum ab **annōnā** **rēgis**.
 
-21 Statūtō autem **diē**, Hērōdēs, **vestītus** veste **rēgiā**, sedēns prō tribunalicontiōnābātur ad eōs;
+21 Statūtō autem **diē**, **Hērōdēs**, **vestītus** veste **rēgiā**, sedēns prō tribunalicontiōnābātur ad eōs;
 
 22 **populus** autem acclāmābat: “Deī vōx et nōn hominis!”.
 
@@ -1530,7 +1530,7 @@ dīcit Dominus faciēns haec 18 **nota** ā saeculō”.
 
 32 **Aliī** autem aliud clāmābant; erat enim **ecclēsia** **cōnfūsa**, et plūrēs nesciēbant **quā** ex **causā** convēnissent.
 
-33 Dē **turbā** autem īnstrūxērunt Alexandrum, prōpellentibus eum Iūdaeīs; Alexander ergō, manū silentiō postulātō, volēbat ratiōnem **reddere** **populō**.
+33 Dē **turbā** autem īnstrūxērunt Alexandrum, prōpellentibus eum Iūdaeīs; **Alexander** ergō, manū silentiō postulātō, volēbat ratiōnem **reddere** **populō**.
 
 34 Quem ut cognōvērunt Iūdaeum **esse**, vōx **facta** **est** **ūna** omnium quasi per hōrās duās clāmantium: “**Magna** **Diāna** Ephesiōrum”.
 

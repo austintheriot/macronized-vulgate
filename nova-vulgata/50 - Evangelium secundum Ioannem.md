@@ -1086,7 +1086,7 @@ Erat autem sabbatum in illō **diē**.
 
 48 Sī dīmittimus eum sīc, omnēs crēdent in eum, et venient Rōmānī et tollent nostrum et locum et gentem!”.
 
-49 Ūnus autem ex ipsīs, Caiphās, cum **esset** pontifex annī illīus, dīxit eīs: ”Vōs **nescītis** quidquam
+49 Ūnus autem ex ipsīs, **Caiphās**, cum **esset** pontifex annī illīus, dīxit eīs: ”Vōs **nescītis** quidquam
 
 50 nec **cōgitātis** quia expedit vōbīs, ut ūnus moriātur homō prō **populō**, et nōn **tōta** gēns pereat!”.
 
@@ -1578,7 +1578,7 @@ Pater **sānctē**, **servā** eōs in nōmine tuō, quod dedistī mihi, ut sint
 
 13 et addūxērunt ad Annam prīmum; erat enim socer Caiphae, quī erat pontifex annī illīus.
 
-14 Erat autem Caiphās, quī cōnsilium dederat Iūdaeīs: ”Expedit ūnum hominem **morī** prō **populō**”.
+14 Erat autem **Caiphās**, quī cōnsilium dederat Iūdaeīs: ”Expedit ūnum hominem **morī** prō **populō**”.
 
 15 Sequēbātur autem **Iēsum** Simōn Petrus et **alius** discipulus. Discipulus autem ille erat nōtus pontificī et introīvit cum Iēsū in ātrium pontificis;
 
@@ -1598,7 +1598,7 @@ Pater **sānctē**, **servā** eōs in nōmine tuō, quod dedistī mihi, ut sint
 
 23 Respondit **eī** **Iēsus**: ”Sī **male** **locūtus** sum, testimōnium perhibē dē **mālō**; sī autem **bene**, quid mē **caedis**?”.
 
-24 Mīsit ergō eum Annās ligātum ad Caipham pontificem.
+24 Mīsit ergō eum **Annās** ligātum ad Caipham pontificem.
 
 25 Erat autem Simōn Petrus stāns et calefaciēns sē. Dīxērunt ergō **eī**: ”Numquid et tū ex discipulīs eius **es**?”. Negāvit ille et dīxit: ”Nōn sum!”.
 
@@ -1608,25 +1608,25 @@ Pater **sānctē**, **servā** eōs in nōmine tuō, quod dedistī mihi, ut sint
 
 28 Addūcunt ergō **Iēsum** ā Caiphā in praetōrium. Erat autem **manē**. Et ipsī nōn introiērunt in praetōrium, ut nōn contāminārentur, sed mandūcārent **Pascha**.
 
-29 Exīvit ergō Pīlātus ad eōs forās et dīcit: ”Quam accūsātiōnem affertis adversus hominem hunc?”.
+29 Exīvit ergō **Pīlātus** ad eōs forās et dīcit: ”Quam accūsātiōnem affertis adversus hominem hunc?”.
 
 30 Respondērunt et dīxērunt **eī**: ”Sī nōn **esset** **hīc** malefactor, nōn tibi trādidissēmus eum”.
 
-31 Dīxit ergō eīs Pīlātus: ”Accipite eum vōs et secundum lēgem vestram **iūdicātē** eum!”. Dīxērunt **eī** Iūdaeī: ”Nōbīs nōn licet interficere quemquam”,
+31 Dīxit ergō eīs **Pīlātus**: ”Accipite eum vōs et secundum lēgem vestram **iūdicātē** eum!”. Dīxērunt **eī** Iūdaeī: ”Nōbīs nōn licet interficere quemquam”,
 
 32 ut sermō Iēsū implērētur, quem dīxit, significāns **quā** **esset** morte moritūrus.
 
-33 Introīvit ergō iterum in praetōrium Pīlātus et vocāvit **Iēsum** et dīxit **eī**: ”Tū **es** rēx Iūdaeōrum?”.
+33 Introīvit ergō iterum in praetōrium **Pīlātus** et vocāvit **Iēsum** et dīxit **eī**: ”Tū **es** rēx Iūdaeōrum?”.
 
 34 Respondit **Iēsus**: ”Ā temetipsō tū **hoc** **dīcis**, an aliī tibi dīxērunt dē mē?”.
 
-35 Respondit Pīlātus: ”Numquid ego Iūdaeus sum? Gēns **tua** et pontificēs trādidērunt tē mihi; quid fēcistī?”.
+35 Respondit **Pīlātus**: ”Numquid ego Iūdaeus sum? Gēns **tua** et pontificēs trādidērunt tē mihi; quid fēcistī?”.
 
 36 Respondit **Iēsus**: ”Rēgnum meum nōn **est** dē mundō **hoc**; sī ex **hōc** mundō **esset** rēgnum meum, ministrī meī dēcertārent, ut nōn trāderer Iūdaeīs; nunc autem meum rēgnum nōn **est** hinc”.
 
-37 Dīxit itaque **eī** Pīlātus: ”Ergō rēx **es** tū?”. Respondit **Iēsus**: ”Tū **dīcis** quia rēx sum. Ego in **hōc** **nātus** sum et ad **hōc** **vēnī** in mundum, ut testimōnium perhibeam vēritātī; **omnis**, quī **est** ex vēritāte, audit meam **vōcem**”.
+37 Dīxit itaque **eī** **Pīlātus**: ”Ergō rēx **es** tū?”. Respondit **Iēsus**: ”Tū **dīcis** quia rēx sum. Ego in **hōc** **nātus** sum et ad **hōc** **vēnī** in mundum, ut testimōnium perhibeam vēritātī; **omnis**, quī **est** ex vēritāte, audit meam **vōcem**”.
 
-38 Dīcit **eī** Pīlātus: ”Quid **est** **vēritās**?”. Et cum **hōc** dīxisset, iterum exīvit ad Iūdaeōs et dīcit eīs: ”Ego nūllam inveniō in eō causam.
+38 Dīcit **eī** **Pīlātus**: ”Quid **est** **vēritās**?”. Et cum **hōc** dīxisset, iterum exīvit ad Iūdaeōs et dīcit eīs: ”Ego nūllam inveniō in eō causam.
 
 39 **Est** autem cōnsuētūdō vōbīs, ut ūnum dīmittam vōbīs in **Paschā**; vultis ergō dīmittam vōbīs rēgem Iūdaeōrum?”.
 
@@ -1634,35 +1634,35 @@ Pater **sānctē**, **servā** eōs in nōmine tuō, quod dedistī mihi, ut sint
 
 ## 19
 
-1 Tunc ergō apprehendit Pīlātus **Iēsum** et flagellāvit.
+1 Tunc ergō apprehendit **Pīlātus** **Iēsum** et flagellāvit.
 
 2 Et mīlitēs, **plectentēs** corōnam dē spīnīs, imposuērunt **capitī** eius et veste **purpureā** circumdedērunt eum;
 
 3 et veniēbant ad eum et dīcēbant: ”**Avē**, rēx Iūdaeōrum!”, et dabant **eī** alapās.
 
-4 Et exiit iterum Pīlātus forās et dīcit eīs: ”Ecce addūcō vōbīs eum forās, ut cognōscātis quia in eō inveniō causam nūllam”.
+4 Et exiit iterum **Pīlātus** forās et dīcit eīs: ”Ecce addūcō vōbīs eum forās, ut cognōscātis quia in eō inveniō causam nūllam”.
 
 5 Exiit ergō **Iēsus** forās, portāns spīneam corōnam et purpureum vestīmentum. Et dīcit eīs: ”Ecce homō!”.
 
-6 Cum ergō vīdissent eum pontificēs et ministrī, clāmāvērunt dīcentēs: ”Crucifīge, crucifīge!”. Dīcit eīs Pīlātus: ”Accipite eum vōs et crucifīgite; ego enim nōn inveniō in eō causam”.
+6 Cum ergō vīdissent eum pontificēs et ministrī, clāmāvērunt dīcentēs: ”Crucifīge, crucifīge!”. Dīcit eīs **Pīlātus**: ”Accipite eum vōs et crucifīgite; ego enim nōn inveniō in eō causam”.
 
 7 Respondērunt **eī** Iūdaeī: ”Nōs lēgem habēmus, et secundum lēgem dēbet **morī**, quia Fīlium Deī sē fēcit”.
 
-8 Cum ergō audīsset Pīlātus hunc sermōnem, **magis** timuit
+8 Cum ergō audīsset **Pīlātus** hunc sermōnem, **magis** timuit
 
 9 et **ingressus** **est** praetōrium iterum et dīcit ad **Iēsum**: ”Unde **es** tū?”. **Iēsus** autem respōnsum nōn **dēdit** **eī**.
 
-10 Dīcit ergō **eī** Pīlātus: ”Mihi nōn **loqueris**? Nescīs quia potestātem habeō **dīmittere** tē et potestātem habeō **crucifīgere** tē?”.
+10 Dīcit ergō **eī** **Pīlātus**: ”Mihi nōn **loqueris**? Nescīs quia potestātem habeō **dīmittere** tē et potestātem habeō **crucifīgere** tē?”.
 
 11 Respondit **Iēsus**: ”Nōn habērēs potestātem adversum mē ūllam, **nisi** tibi **esset** datum dēsuper; proptereā, quī trādidit mē tibi, maius peccātum habet”.
 
-12 Exinde quaerēbat Pīlātus **dīmittere** eum; Iūdaeī autem clāmābant dīcentēs: ”Sī hunc dīmittis, nōn **es** amīcus Caesaris! **Omnis**, quī sē rēgem facit, contrādīcit Caesarī”.
+12 Exinde quaerēbat **Pīlātus** **dīmittere** eum; Iūdaeī autem clāmābant dīcentēs: ”Sī hunc dīmittis, nōn **es** amīcus Caesaris! **Omnis**, quī sē rēgem facit, contrādīcit Caesarī”.
 
-13 **Pīlātus** ergō, cum audīsset hōs sermōnēs, addūxit forās **Iēsum** et sēdit prō tribūnālī in locum, quī dīcitur Lithostrōtōs, Hebraīcē autem Gabbatha.
+13 ****Pīlātus**** ergō, cum audīsset hōs sermōnēs, addūxit forās **Iēsum** et sēdit prō tribūnālī in locum, quī dīcitur Lithostrōtōs, Hebraīcē autem Gabbatha.
 
 14 Erat autem Parascēvē Paschae, **hōra** erat quasi **sexta**. Et dīcit Iūdaeīs: ”Ecce rēx vester!”.
 
-15 Clāmāvērunt ergō illī: ”Tolle, tolle, crucifīge eum!”. Dīcit eīs Pīlātus: ”Rēgem vestrum crucifīgam?”. Respondērunt pontificēs: ”Nōn habēmus rēgem, **nisi** Caesarem”.
+15 Clāmāvērunt ergō illī: ”Tolle, tolle, crucifīge eum!”. Dīcit eīs **Pīlātus**: ”Rēgem vestrum crucifīgam?”. Respondērunt pontificēs: ”Nōn habēmus rēgem, **nisi** Caesarem”.
 
 16 Tunc ergō trādidit eīs illum, ut crucifīgerētur. Suscēpērunt ergō **Iēsum**.
 
@@ -1670,13 +1670,13 @@ Pater **sānctē**, **servā** eōs in nōmine tuō, quod dedistī mihi, ut sint
 
 18 ubi eum crucifīxērunt et cum eō aliōs duōs hinc et hinc, **medium** autem **Iēsum**.
 
-19 Scrīpsit autem et titulum Pīlātus et posuit super crucem; erat autem scrīptum: ”**Iēsus** Nazarēnus Rēx Iūdaeōrum”.
+19 Scrīpsit autem et titulum **Pīlātus** et posuit super crucem; erat autem scrīptum: ”**Iēsus** Nazarēnus Rēx Iūdaeōrum”.
 
 20 Hunc ergō titulum multī lēgērunt Iūdaeōrum, quia prope cīvitātem erat locus, ubi crucifīxus **est** **Iēsus**; et erat scrīptum Hebraice, **Latīne**, **Graecē**.
 
 21 Dīcēbant ergō Pīlātō pontificēs Iūdaeōrum: ”Nōlī **scrībere**: Rēx Iūdaeōrum, sed: Ipse dīxit: “Rēx sum Iūdaeōrum””.
 
-22 Respondit Pīlātus: ”Quod scrīpsī, scrīpsī!”.
+22 Respondit **Pīlātus**: ”Quod scrīpsī, scrīpsī!”.
 
 23 Mīlitēs ergō cum crucifīxissent **Iēsum**, accēpērunt vestīmenta eius et fēcērunt quattuor partēs, ūnīcuique mīlitī partem, et tunicam. Erat autem **tunica** **incōnsūtilis**, dēsuper **contexta** per **tōtum**.
 
@@ -1714,7 +1714,7 @@ Et mīlitēs quidem haec fēcērunt.
 
 37 et iterum **alia** **Scrīptūra** dīcit: ”Vidēbunt in quem trānsfīxērunt”.
 
-38 Post haec autem rogāvit Pīlātum Ioseph ab Arimathaea, quī erat discipulus Iēsū, occultus autem propter metum Iūdaeōrum, ut tolleret corpus Iēsū; et permīsit Pīlātus. **Venit** ergō et tulit corpus eius.
+38 Post haec autem rogāvit Pīlātum Ioseph ab Arimathaea, quī erat discipulus Iēsū, occultus autem propter metum Iūdaeōrum, ut tolleret corpus Iēsū; et permīsit **Pīlātus**. **Venit** ergō et tulit corpus eius.
 
 39 **Venit** autem et Nicodēmus, quī vēnerat ad eum nocte prīmum, ferēns mixtūram myrrhae et aloēs quasi lībrās centum.
 

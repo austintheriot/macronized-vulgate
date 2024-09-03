@@ -66,7 +66,7 @@ Cum **esset** **dēspōnsāta** māter eius **Maria** Ioseph, antequam convenīr
 
 2 dīcentēs: ”**Ubi** **est**, quī **nātus** **est**, rēx Iūdaeōrum? Vīdimus enim stēllam eius in oriente et **vēnimus** adōrāre eum”.
 
-3 Audiēns autem Hērōdēs rēx turbātus **est** et **omnīs** Hierosolyma cum illō;
+3 Audiēns autem **Hērōdēs** rēx turbātus **est** et **omnīs** Hierosolyma cum illō;
 
 4 et congregāns omnēs prīncipēs sacerdōtum et scrībās **populī**, scīscitābātur ab eīs ubi Chrīstus nāscerētur.
 
@@ -80,7 +80,7 @@ ex tē enim exiet dux,
 
 quī reget **populum** meum Isrāēl"”.
 
-7 Tunc Hērōdēs, clam **vocātīs** **Magis**, dīligenter didicit ab eīs tempus stēllae, quae appāruit eīs;
+7 Tunc **Hērōdēs**, clam **vocātīs** **Magis**, dīligenter didicit ab eīs tempus stēllae, quae appāruit eīs;
 
 8 et mittēns illōs in Bethlehem dīxit: ”**Īte** et **interrogātē** dīligenter dē puerō; et cum **invēnerītis**, **renūntiātē** mihi, ut et ego veniēns adōrem eum”.
 
@@ -92,7 +92,7 @@ quī reget **populum** meum Isrāēl"”.
 
 12 Et respōnsō acceptō in somnīs, nē redīrent ad Hērōdem, per aliam viam reversī sunt in regiōnem suam.
 
-13 Quī cum recessissent, ecce angelus Dominī **appāret** in somnīs Ioseph dīcēns: ”Surge et accipe puerum et mātrem eius et fuge in Aegyptum et **estō** ibi, usque dum **dīcam** tibi; futūrum **est** enim ut Hērōdēs quaerat puerum ad perdendum eum”.
+13 Quī cum recessissent, ecce angelus Dominī **appāret** in somnīs Ioseph dīcēns: ”Surge et accipe puerum et mātrem eius et fuge in Aegyptum et **estō** ibi, usque dum **dīcam** tibi; futūrum **est** enim ut **Hērōdēs** quaerat puerum ad perdendum eum”.
 
 14 Quī cōnsurgēns accēpit puerum et mātrem eius nocte et recessit in Aegyptum
 
@@ -100,7 +100,7 @@ quī reget **populum** meum Isrāēl"”.
 
 ”Ex Aegyptō vocāvī fīlium meum”.
 
-16 Tunc Hērōdēs vidēns quoniam illūsus **esset** ā **Magis**, īrātus **est** valdē et mittēns **occīdit** omnēs puerōs, quī erant in Bethlehem et in omnibus fīnibus eius, ā bīmātū et īnfrā, secundum tempus, quod exquīsierat ā **Magis**.
+16 Tunc **Hērōdēs** vidēns quoniam illūsus **esset** ā **Magis**, īrātus **est** valdē et mittēns **occīdit** omnēs puerōs, quī erant in Bethlehem et in omnibus fīnibus eius, ā bīmātū et īnfrā, secundum tempus, quod exquīsierat ā **Magis**.
 
 17 Tunc adimplētum **est**, quod dictum **est** per Iēremīam prophētam dīcentem:
 
@@ -1054,11 +1054,11 @@ et sānem eōs".
 
 ## 14
 
-1 In illō tempore audīvit Hērōdēs **tetrarcha** fāmam Iēsū
+1 In illō tempore audīvit **Hērōdēs** **tetrarcha** fāmam Iēsū
 
 2 et ait puerīs **suīs**: ”**Hic** **est** Iōannēs **Baptista**; ipse surrēxit ā mortuīs, et ideō virtūtēs operantur in eō”.
 
-3 Hērōdēs enim tenuit Iōannem et alligāvit eum et posuit in carcere propter Herodiadem uxōrem Philippī frātris **suī**.
+3 **Hērōdēs** enim tenuit Iōannem et alligāvit eum et posuit in carcere propter Herodiadem uxōrem Philippī frātris **suī**.
 
 4 Dīcēbat enim illī Iōannēs: ”Nōn licet tibi habēre eam”.
 
@@ -2018,7 +2018,7 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 2 ”**Scītis** quia post bīduum **Pascha** fīet, et Fīlius hominis trāditur, ut crucifīgātur”.
 
-3 Tunc congregātī sunt prīncipēs sacerdōtum et seniōrēs **populī** in aulam prīncipis sacerdōtum, quī dīcēbātur Caiphās,
+3 Tunc congregātī sunt prīncipēs sacerdōtum et seniōrēs **populī** in aulam prīncipis sacerdōtum, quī dīcēbātur **Caiphās**,
 
 4 et cōnsilium fēcērunt, ut **Iēsum** dolō tenērent et **occīderent**;
 
@@ -2190,7 +2190,7 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 12 Et cum accūsārētur ā prīncipibus sacerdōtum et seniōribus, nihil respondit.
 
-13 Tunc dīcit illī Pīlātus: ”Nōn audīs **quanta** adversum tē **dīcant** testimōnia?”.
+13 Tunc dīcit illī **Pīlātus**: ”Nōn audīs **quanta** adversum tē **dīcant** testimōnia?”.
 
 14 Et nōn respondit **eī** ad ūllum verbum, **ita** ut mīrārētur praeses vehementer.
 
@@ -2198,7 +2198,7 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 16 Habēbant autem tunc vīnctum īnsignem, quī dīcēbātur Barabbās.
 
-17 **Congregātis** ergō illīs dīxit Pīlātus: ”Quem vultis dīmittam vōbīs: Barabbam an **Iēsum**, quī dīcitur Chrīstus?”.
+17 **Congregātis** ergō illīs dīxit **Pīlātus**: ”Quem vultis dīmittam vōbīs: Barabbam an **Iēsum**, quī dīcitur Chrīstus?”.
 
 18 Sciēbat enim quod per invidiam trādidissent eum.
 
@@ -2208,11 +2208,11 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 21 Respondēns autem praeses ait illīs: ”Quem vultis vōbīs dē duōbus dīmittam?”. At illī dīxērunt: ”Barabbam!”.
 
-22 Dīcit illīs Pīlātus: ”Quid igitur faciam dē Iēsū, quī dīcitur Chrīstus?”. Dīcunt omnēs: ”Crucifīgātur!”.
+22 Dīcit illīs **Pīlātus**: ”Quid igitur faciam dē Iēsū, quī dīcitur Chrīstus?”. Dīcunt omnēs: ”Crucifīgātur!”.
 
 23 Ait autem: ”Quid enim **malī** fēcit?”. At illī **magis** clāmābant dīcentēs: ”Crucifīgātur!”.
 
-24 Vidēns autem Pīlātus quia nihil prōficeret, sed **magis** **tumultus** fieret, **acceptā** **aquā**, **lāvit** **manūs** **cōram** **turbā** dīcēns: ”Innocēns ego sum ā sanguine **hoc**; vōs **vīderītis**!”.
+24 Vidēns autem **Pīlātus** quia nihil prōficeret, sed **magis** **tumultus** fieret, **acceptā** **aquā**, **lāvit** **manūs** **cōram** **turbā** dīcēns: ”Innocēns ego sum ā sanguine **hoc**; vōs **vīderītis**!”.
 
 25 Et respondēns ūniversus **populus** dīxit: ”Sanguis eius super nōs et super fīliōs nostrōs”.
 
@@ -2280,7 +2280,7 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 57 Cum **sērō** autem factum **esset**, **venit** homō dīves ab Arimathaēā nōmine Ioseph, quī et ipse discipulus erat Iēsū.
 
-58 **Hic** accessit ad Pīlātum et petiit corpus Iēsū. Tunc Pīlātus iussit reddī.
+58 **Hic** accessit ad Pīlātum et petiit corpus Iēsū. Tunc **Pīlātus** iussit reddī.
 
 59 Et acceptō corpore, Ioseph involvit illud in sindone **mundā**
 
@@ -2294,7 +2294,7 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 64 Iubē ergō cūstōdīrī sepulcrum usque in diem tertium, nē forte veniant discipulī eius et **fūrentur** eum et **dīcant** plēbī: “Surrēxit ā mortuīs”, et erit novissimus error peior priōre”.
 
-65 Ait illīs Pīlātus: ”Habētis cūstōdiam; **īte**, **cūstōdītē**, sīcut **scītis**”.
+65 Ait illīs **Pīlātus**: ”Habētis cūstōdiam; **īte**, **cūstōdītē**, sīcut **scītis**”.
 
 66 Illī autem abeuntēs mūniērunt sepulcrum, signantēs lapidem, cum **cūstōdiā**.
 

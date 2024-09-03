@@ -42,7 +42,7 @@
 
 19 habēns fidem et bonam cōnscientiam, quam quīdam repellentēs circā fidem naufragāvērunt;
 
-20 ex quibus **est** **Hymenaeus** et Alexander, quōs trādidī Satānae, ut discant nōn blasphēmāre.
+20 ex quibus **est** **Hymenaeus** et **Alexander**, quōs trādidī Satānae, ut discant nōn blasphēmāre.
 
 ## 2
 

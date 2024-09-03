@@ -372,7 +372,7 @@ et **aspera** in viās plānās:
 
 18 **Multa** quidem et **alia** exhortāns ēvangelīzābat **populum**.
 
-19 Hērōdēs autem **tetrarcha**, cum corriperētur ab illō dē Herodiade uxōre frātris **suī** et dē omnibus **malīs**, quae fēcit Hērōdēs,
+19 **Hērōdēs** autem **tetrarcha**, cum corriperētur ab illō dē Herodiade uxōre frātris **suī** et dē omnibus **malīs**, quae fēcit **Hērōdēs**,
 
 20 adiēcit et **hoc** suprā omnia et inclūsit Iōannem in carcere.
 
@@ -944,11 +944,11 @@ lāmentāvimus, et nōn plōrāstis!”.
 
 6 Ēgressī autem circumībant per castella ēvangelīzantēs et cūrantēs ubīque.
 
-7 Audīvit autem Hērōdēs **tetrarcha** omnia, quae fīēbant, et haesitābat, eō quod dīcerētur ā quibusdam: ”Iōannēs surrēxit ā mortuīs”;
+7 Audīvit autem **Hērōdēs** **tetrarcha** omnia, quae fīēbant, et haesitābat, eō quod dīcerētur ā quibusdam: ”Iōannēs surrēxit ā mortuīs”;
 
 8 ā quibusdam vērō: ”**Ēlias** appāruit”; ab aliīs autem: ”**Prophēta** ūnus dē antīquīs surrēxit”.
 
-9 Et ait Hērōdēs: ”Iōannem ego dēcollāvī; **quis** autem **est** iste, dē quō audiō ego tālia?”. Et quaerēbat **vidēre** eum.
+9 Et ait **Hērōdēs**: ”Iōannem ego dēcollāvī; **quis** autem **est** iste, dē quō audiō ego tālia?”. Et quaerēbat **vidēre** eum.
 
 10 Et reversī apostolī nārrāvērunt illī, quaecumque fēcērunt. Et assūmptīs illīs, sēcessit seorsum ad cīvitātem, quae vocātur Bethsaida.
 
@@ -1382,7 +1382,7 @@ et nē nōs indūcās in tentātiōnem”.
 
 ## 13
 
-1 Aderant autem quīdam ipsō in tempore nūntiantēs illī dē **Galilaeīs**, quōrum sanguinem Pīlātus miscuit cum sacrificiīs eōrum.
+1 Aderant autem quīdam ipsō in tempore nūntiantēs illī dē **Galilaeīs**, quōrum sanguinem **Pīlātus** miscuit cum sacrificiīs eōrum.
 
 2 Et respondēns dīxit illīs: ”**Putātis** quod hī **Galilaeī** prae omnibus **Galilaeīs** peccātōrēs fuērunt, quia tālia passī sunt?
 
@@ -1442,7 +1442,7 @@ et nē nōs indūcās in tentātiōnem”.
 
 30 Et ecce sunt novissimī, quī erunt prīmī, et sunt prīmī, quī erunt novissimī”.
 
-31 In **ipsā** **hōrā** accessērunt quīdam **pharisaeōrum** dīcentēs illī: ”Exī et **vāde** hinc, quia Hērōdēs vult tē **occīdere**”.
+31 In **ipsā** **hōrā** accessērunt quīdam **pharisaeōrum** dīcentēs illī: ”Exī et **vāde** hinc, quia **Hērōdēs** vult tē **occīdere**”.
 
 32 Et ait illīs: ”**Īte**, dīcite vulpī illī: “Ecce ēiciō daemonia et sānitātēs perficiō hodiē et crās et **tertia** cōnsummor.
 
@@ -2254,33 +2254,33 @@ Quō audītō, dīxērunt: ”Absit!”.
 
 2 Coepērunt autem accūsāre illum dīcentēs: ”Hunc **invēnimus** subvertentem gentem nostram et prohibentem **tribūta** dare Caesarī et dīcentem sē Chrīstum rēgem **esse**”.
 
-3 **Pīlātus** autem interrogāvit eum dīcēns: ”Tū **es** rēx Iūdaeōrum?”. At ille respondēns ait: ”Tū **dīcis**”.
+3 ****Pīlātus**** autem interrogāvit eum dīcēns: ”Tū **es** rēx Iūdaeōrum?”. At ille respondēns ait: ”Tū **dīcis**”.
 
-4 Ait autem Pīlātus ad prīncipēs sacerdōtum et turbās: ”Nihil inveniō causae in **hōc** homine”.
+4 Ait autem **Pīlātus** ad prīncipēs sacerdōtum et turbās: ”Nihil inveniō causae in **hōc** homine”.
 
 5 At illī invalēscēbant dīcentēs: ”Commovet **populum** docēns per ūniversam Iūdaeam et in cipiēns ā **Galilaeā** usque hūc!”.
 
-6 **Pīlātus** autem audiēns interrogāvit sī homō Galilaeus **esset**;
+6 ****Pīlātus**** autem audiēns interrogāvit sī homō Galilaeus **esset**;
 
 7 et ut cognōvit quod dē **Hērōdis** potestāte **esset**, remīsit eum ad Hērōdem, quī et ipse Hierosolymīs erat illīs diēbus.
 
-8 Hērōdēs autem, vīsō Iēsū, gāvīsus **est** valdē; erat enim cupiēns ex multō tempore **vidēre** eum, eō quod audīret dē illō et spērābat signum aliquod **vidēre** ab eō fierī.
+8 **Hērōdēs** autem, vīsō Iēsū, gāvīsus **est** valdē; erat enim cupiēns ex multō tempore **vidēre** eum, eō quod audīret dē illō et spērābat signum aliquod **vidēre** ab eō fierī.
 
 9 Interrogābat autem illum multīs sermōnibus; at ipse nihil illī respondēbat.
 
 10 Stābant etiam prīncipēs sacerdōtum et scrībae cōnstanter accūsantēs eum.
 
-11 Sprēvit autem illum Hērōdēs cum **exercitū** suō et illūsit indūtum veste **albā** et remīsit ad Pīlātum.
+11 Sprēvit autem illum **Hērōdēs** cum **exercitū** suō et illūsit indūtum veste **albā** et remīsit ad Pīlātum.
 
-12 Factī sunt autem **amīcī** inter sē Hērōdēs et Pīlātus in **ipsā** **diē**; nam anteā inimīcī erant ad invicem.
+12 Factī sunt autem **amīcī** inter sē **Hērōdēs** et **Pīlātus** in **ipsā** **diē**; nam anteā inimīcī erant ad invicem.
 
-13 **Pīlātus** autem, **convocātīs** prīncipibus sacerdōtum et magistrātibus et plēbe,
+13 ****Pīlātus**** autem, **convocātīs** prīncipibus sacerdōtum et magistrātibus et plēbe,
 
 14 dīxit ad illōs: ”Obtulistis mihi hunc hominem quasi āvertentem **populum**, et ecce ego **cōram** vōbīs interrogāns nūllam causam **invēnī** in homine istō ex hīs, in quibus eum **accūsātis**,
 
 15 sed
 
-neque Hērōdēs; remīsit enim illum ad nōs. Et ecce nihil dignum morte āctum **est** **eī**.
+neque **Hērōdēs**; remīsit enim illum ad nōs. Et ecce nihil dignum morte āctum **est** **eī**.
 
 16 Ēmendātum ergō illum dīmittam”.
 
@@ -2288,7 +2288,7 @@ neque Hērōdēs; remīsit enim illum ad nōs. Et ecce nihil dignum morte āctum
 
 19 quī erat propter sēditiōnem quandam factam in cīvitāte et homicīdium **missus** in carcerem.
 
-20 Iterum autem Pīlātus **locūtus** **est** ad illōs volēns **dīmittere** **Iēsum**,
+20 Iterum autem **Pīlātus** **locūtus** **est** ad illōs volēns **dīmittere** **Iēsum**,
 
 21 at illī succlāmābant dīcentēs: ”Crucifīge, crucifīge illum!”.
 
@@ -2296,7 +2296,7 @@ neque Hērōdēs; remīsit enim illum ad nōs. Et ecce nihil dignum morte āctum
 
 23 At illī īnstābant vōcibus magnīs postulantēs, ut crucifīgerētur, et invalēscēbant **vōcēs** eōrum.
 
-24 Et Pīlātus adiūdicāvit fierī petītiōnem eōrum:
+24 Et **Pīlātus** adiūdicāvit fierī petītiōnem eōrum:
 
 25 dīmīsit autem eum, quī propter sēditiōnem et homicīdium **missus** fuerat in carcerem, quem petēbant; **Iēsum** vērō trādidit voluntātī eōrum.
 

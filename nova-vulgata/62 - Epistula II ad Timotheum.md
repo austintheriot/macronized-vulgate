@@ -158,7 +158,7 @@
 
 13 Paenulam, quam **reliquī** Troade apud Carpum, veniēns affer, et librōs, **maximē** autem membrānās.
 
-14 Alexander aerārius **multa** **mala** mihi ostendit. Reddet **eī** Dominus secundum **opera** eius;
+14 **Alexander** aerārius **multa** **mala** mihi ostendit. Reddet **eī** Dominus secundum **opera** eius;
 
 15 quem et tū dēvītā, valdē enim restitit verbīs nostrīs.
 

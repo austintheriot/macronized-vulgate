@@ -4,7 +4,7 @@
 
 ## 1
 
-1 Et factum **est**, postquam percussit Alexander Philippī Macedō, quī prius rēgnāvit in **Graeciā**, **ēgressus** dē **terrā** Cetthim, **Darīum** rēgem Persārum et Mēdōrum,
+1 Et factum **est**, postquam percussit **Alexander** Philippī Macedō, quī prius rēgnāvit in **Graeciā**, **ēgressus** dē **terrā** Cetthim, **Darīum** rēgem Persārum et Mēdōrum,
 
 2 cōnstituit **proelia** **multa** et obtinuit mūnītiōnēs et interfēcit **rēgēs** terrae;
 
@@ -16,7 +16,7 @@
 
 6 et vocāvit puerōs suōs nōbilēs, quī sēcum erant nūtrītī ā iuventūte, et dīvīsit illīs rēgnum suum, cum adhūc vīveret.
 
-7 Et rēgnāvit Alexander annīs duodecim et mortuus **est**.
+7 Et rēgnāvit **Alexander** annīs duodecim et mortuus **est**.
 
 8 Et obtinuērunt puerī eius rēgnum, ūnusquisque in locō suō;
 
@@ -662,7 +662,7 @@
 
 1 Et rēx Antiochus perambulābat superiōrēs regiōnēs et audīvit **esse** Elymāida in **Persidē** cīvitātem glōriōsam dīvitiīs argentō et aurō
 
-2 templumque in **eā** locuplēs valdē et **illīc** vēlāmina **aurea** et lōrīcae et **scūta**, quae relīquit ibi Alexander Philippī rēx Macedō, quī rēgnāvit prīmus in **Graeciā**.
+2 templumque in **eā** locuplēs valdē et **illīc** vēlāmina **aurea** et lōrīcae et **scūta**, quae relīquit ibi **Alexander** Philippī rēx Macedō, quī rēgnāvit prīmus in **Graeciā**.
 
 3 Et **venit** et quaerēbat capere cīvitātem et dēpraedārī eam et nōn potuit, quoniam innōtuit sermō hīs, quī erant in cīvitāte.
 
@@ -1104,7 +1104,7 @@
 
 ## 10
 
-1 Et annō centēsimō sexāgēsimō ascendit Alexander Antiochī fīlius, Epiphanēs, et occupāvit Ptolemāidam; et recēpērunt eum, et rēgnāvit **illīc**.
+1 Et annō centēsimō sexāgēsimō ascendit **Alexander** Antiochī fīlius, Epiphanēs, et occupāvit Ptolemāidam; et recēpērunt eum, et rēgnāvit **illīc**.
 
 2 Et audīvit Dēmētrius rēx et congregāvit **exercitum** cōpiōsum valdē et exīvit obviam illī in proelium.
 
@@ -1132,13 +1132,13 @@
 
 14 tantum in Bethsura remānsērunt aliquī ex hīs, quī relīquerant lēgem et **praecepta**; erat enim ad refugium.
 
-15 Et audīvit Alexander rēx **prōmissa**, quae mīsit Dēmētrius Ionathae, et nārrāvērunt **eī** **proelia** et virtūtēs, quās ipse fēcit et frātrēs eius, et labōrēs, quōs habuērunt.
+15 Et audīvit **Alexander** rēx **prōmissa**, quae mīsit Dēmētrius Ionathae, et nārrāvērunt **eī** **proelia** et virtūtēs, quās ipse fēcit et frātrēs eius, et labōrēs, quōs habuērunt.
 
 16 Et ait: ”Numquid inveniēmus aliquem **virum** tālem? Et nunc faciēmus eum amīcum et socium nostrum”.
 
 17 Et scrīpsit epistulam et mīsit **eī** secundum haec verba dīcēns:
 
-18 ”Rēx Alexander frātrī Ionathae salūtem.
+18 ”Rēx **Alexander** frātrī Ionathae salūtem.
 
 19 Audīvimus dē tē quod vir potēns **es** vīribus et aptus **es**, ut sīs amīcus noster;
 
@@ -1148,7 +1148,7 @@
 
 22 Et audīvit Dēmētrius verba **ista** et contrīstātus **est** nimis et ait:
 
-23 ”Quid **hoc** fēcimus quod praeoccupāvit nōs Alexander **apprehendere** amīcitiam Iūdaeōrum ad firmāmentum?
+23 ”Quid **hoc** fēcimus quod praeoccupāvit nōs **Alexander** **apprehendere** amīcitiam Iūdaeōrum ad firmāmentum?
 
 24 Scrībam et ego illīs verba **dēprecātōria** et dignitātēs et **dōna**, ut sint mēcum in adiūtōrium”.
 
@@ -1198,13 +1198,13 @@
 
 47 Et complacuit eīs in Alexandrō, quia ipse fuerat eīs prīnceps sermōnum **pācis**, et ipsī auxilium ferēbant omnibus diēbus.
 
-48 Et congregāvit rēx Alexander **exercitum** magnum et admōvit **castra** contrā Dēmētrium.
+48 Et congregāvit rēx **Alexander** **exercitum** magnum et admōvit **castra** contrā Dēmētrium.
 
 49 Et commīsērunt proelium duo **rēgēs**, et **fugit** **exercitus** Alexandrī, et īnsecūtus **est** eum Dēmētrius et praevaluit adversus eōs;
 
 50 et cōnfirmāvit proelium nimis, dōnec **occīdit** sōl, et **cecidit** Dēmētrius in **diē** **illa**.
 
-51 Et mīsit Alexander ad Ptolemaeum rēgem Aegyptī lēgātōs secundum haec verba dīcēns:
+51 Et mīsit **Alexander** ad Ptolemaeum rēgem Aegyptī lēgātōs secundum haec verba dīcēns:
 
 52 ”Quoniam **regressus** sum in rēgnum meum et **sēdī** in **sēde** patrum meōrum et obtinuī prīncipātum et contrīvī Dēmētrium et possēdī regiōnem nostram
 
@@ -1218,9 +1218,9 @@
 
 57 Et exīvit Ptolemaeus dē Aegyptō, ipse et **Cleopatrā** **fīlia** eius, et **venit** Ptolemāidam annō centēsimō sexāgēsimō secundō.
 
-58 Et occurrit **eī** Alexander rēx, et **dedit** **eī** Cleopatram fīliam suam et fēcit nūptiās eius Ptolemāidae sīcut **rēgēs** in **magnā** **glōriā**.
+58 Et occurrit **eī** **Alexander** rēx, et **dedit** **eī** Cleopatram fīliam suam et fēcit nūptiās eius Ptolemāidae sīcut **rēgēs** in **magnā** **glōriā**.
 
-59 Et scrīpsit rēx Alexander Ionathae, ut venīret obviam sibi.
+59 Et scrīpsit rēx **Alexander** Ionathae, ut venīret obviam sibi.
 
 60 Et abiit cum **glōriā** Ptolemāidam et occurrit ibi duōbus rēgibus et **dedit** illīs argentum multum et aurum et **dōna** et **invēnit** grātiam in cōnspectū eōrum.
 
@@ -1238,7 +1238,7 @@
 
 67 In annō centēsimō sexāgēsimō quīntō **venit** Dēmētrius fīlius Dēmētriī ā **Crētā** in terram patrum suōrum;
 
-68 et audīvit Alexander rēx et contrīstātus **est** valdē et reversus **est** Antiochīam.
+68 et audīvit **Alexander** rēx et contrīstātus **est** valdē et reversus **est** Antiochīam.
 
 69 Et cōnstituit Dēmētrius rēx Apollōnium, quī praeerat Coelēsyriae, et congregāvit **exercitum** magnum; et accessit ad Iamniam et mīsit ad **Ionathān** summum sacerdōtem
 
@@ -1278,7 +1278,7 @@
 
 87 Et reversus **est** Ionathās in Ierusālem cum **suīs** habentibus **spolia** **multa**.
 
-88 Et factum **est**, ut audīvit Alexander rēx sermōnēs istōs, et addidit adhūc glōrificāre **Ionathān**
+88 Et factum **est**, ut audīvit **Alexander** rēx sermōnēs istōs, et addidit adhūc glōrificāre **Ionathān**
 
 89 et mīsit **eī** fībulam auream, sīcut cōnsuētūdō **est** darī cognātīs rēgum, et **dedit** **eī** Accārōn et omnēs fīnēs eius in possessiōnem.
 
@@ -1286,7 +1286,7 @@
 
 1 Et rēx Aegyptī congregāvit **exercitum** sīcut **arēnā**, quae **est** circā ōram **maris**, et nāvēs multās et quaerēbat obtinēre rēgnum Alexandrī dolō et **addere** illud rēgnō suō.
 
-2 Et exiit in **Syriam** verbīs pācificīs, et aperiēbant **eī** cīvitātēs et occurrēbant **eī**, quia mandāverat Alexander rēx exīre **eī** obviam, eō quod socer suus **esset**.
+2 Et exiit in **Syriam** verbīs pācificīs, et aperiēbant **eī** cīvitātēs et occurrēbant **eī**, quia mandāverat **Alexander** rēx exīre **eī** obviam, eō quod socer suus **esset**.
 
 3 Cum autem introīret cīvitātem, Ptolemaeus pōnēbat cūstōdiās mīlitum in singulīs cīvitātibus.
 
@@ -1300,7 +1300,7 @@
 
 8 Rēx autem Ptolemaeus obtinuit dominium cīvitātum maritimārum usque Seleucīam maritimam et cōgitābat in Alexandrum **cōnsilia** **mala**.
 
-9 Et mīsit lēgātōs ad Dēmētrium dīcēns: ”**Vēnī**, compōnāmus inter nōs **pactum**, et dabō tibi fīliam meam, quam habet Alexander, et rēgnābis in rēgnō patris tuī;
+9 Et mīsit lēgātōs ad Dēmētrium dīcēns: ”**Vēnī**, compōnāmus inter nōs **pactum**, et dabō tibi fīliam meam, quam habet **Alexander**, et rēgnābis in rēgnō patris tuī;
 
 10 paenitet enim mē quod dederim illī fīliam meam: quaesīvit enim mē **occīdere**”.
 
@@ -1310,11 +1310,11 @@
 
 13 Et intrāvit Ptolemaeus Antiochīam et imposuit duo **diadēmata** **capitī** suō, Aegyptī et Asiae.
 
-14 Alexander autem rēx erat in **Ciliciā** illīs temporibus, quia rebellābant, quī erant dē locīs illīs;
+14 **Alexander** autem rēx erat in **Ciliciā** illīs temporibus, quia rebellābant, quī erant dē locīs illīs;
 
-15 et audīvit Alexander et **venit** ad eum in bellō. Et prōdūxit Ptolemaeus **exercitum** et occurrit **eī** in manū **validā** et fugāvit eum.
+15 et audīvit **Alexander** et **venit** ad eum in bellō. Et prōdūxit Ptolemaeus **exercitum** et occurrit **eī** in manū **validā** et fugāvit eum.
 
-16 Et **fūgit** Alexander in Arabiam, ut ibi prōtegerētur; rēx autem Ptolemaeus exaltātus **est**.
+16 Et **fūgit** **Alexander** in Arabiam, ut ibi prōtegerētur; rēx autem Ptolemaeus exaltātus **est**.
 
 17 Et abstulit Zabdiēl Ārabs caput Alexandrī et mīsit Ptolemaeō.
 
