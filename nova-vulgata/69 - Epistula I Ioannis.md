@@ -32,7 +32,7 @@
 
 3 Et in **hōc** cognōscimus quoniam nōvimus eum: sī **mandāta** eius servēmus.
 
-4 Quī dīcit: “ **Novī** eum ”, et **mandāta** eius nōn servat, mendāx **est**, et in istō **vēritās** nōn **est**;
+4 Quī dīcit: ”**Novī** eum”, et **mandāta** eius nōn servat, mendāx **est**, et in istō **vēritās** nōn **est**;
 
 5 quī autem servat verbum eius, **vērē** in **hōc** **cāritās** Deī **cōnsummāta** **est**. In **hōc** cognōscimus quoniam in ipsō sumus.
 
@@ -164,7 +164,7 @@
 
 14 Et nōs vīdimus et testificāmur quoniam Pater mīsit Fīlium salvātōrem mundī.
 
-15 Quisque cōnfessus fuerit: “ **Iēsus** **est** Fīlius Deī ”, Deus in ipsō **manet**, et ipse in Deō.
+15 Quisque cōnfessus fuerit: ”**Iēsus** **est** Fīlius Deī”, Deus in ipsō **manet**, et ipse in Deō.
 
 16 Et nōs, quī crēdidimus, nōvimus cāritātem, quam habet Deus in nōbīs. Deus **cāritās** **est**; et, quī **manet** in cāritāte, in Deō **manet**, et Deus in eō **manet**.
 
@@ -174,7 +174,7 @@
 
 19 Nōs dīligimus, quoniam ipse prior dīlēxit nōs.
 
-20 Sī **quis** dīxerit: “ Dīligō Deum ”, et frātrem suum ōderit, mendāx **est**; quī enim nōn dīligit frātrem suum, quem videt, Deum, quem nōn videt, nōn potest **dīligere**.
+20 Sī **quis** dīxerit: ”Dīligō Deum”, et frātrem suum ōderit, mendāx **est**; quī enim nōn dīligit frātrem suum, quem videt, Deum, quem nōn videt, nōn potest **dīligere**.
 
 21 Et **hoc** mandātum habēmus ab eō, ut, quī dīligit Deum, dīligat et frātrem suum.
 

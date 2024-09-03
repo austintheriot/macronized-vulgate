@@ -6,7 +6,7 @@
 
 1 Verbum Dominī, quod factum **est** ad Sophōniam fīlium Chusī fīliī Godoliae fīliī Amāriae fīliī Ezechiae, in diēbus Iosiae fīliī Amōn **rēgis** Iūdae.
 
-2 “ Auferēns auferam omnia
+2 ”Auferēns auferam omnia
 
 ā faciē terrae,
 
@@ -42,7 +42,7 @@ et iūrant in Melchom,
 
 6 et quī āvertuntur dē post tergum Dominī,
 
-et quī nōn quaerunt Dominum nec investīgant eum ”.
+et quī nōn quaerunt Dominum nec investīgant eum”.
 
 7 Silēte ā faciē Dominī Deī,
 
@@ -52,7 +52,7 @@ quia praeparāvit Dominus hostiam,
 
 sānctificāvit vocātōs suōs.
 
-8 “ Et erit in **diē** hostiae Dominī:
+8 ”Et erit in **diē** hostiae Dominī:
 
 vīsitābō super prīncipēs
 
@@ -110,7 +110,7 @@ et nōn habitābunt,
 
 et plantābunt vīneās
 
-et nōn bibent vīnum eārum ”.
+et nōn bibent vīnum eārum”.
 
 14 Iuxtā **est** diēs Dominī magnus,
 
@@ -204,9 +204,9 @@ Verbum Dominī super vōs,
 
 Chanaan, **terra** Philisthinōrum:
 
-“ Disperdam tē,
+”Disperdam tē,
 
-**ita** ut nōn sit inhabitātor ”.
+**ita** ut nōn sit inhabitātor”.
 
 6 Et erit fūniculus **maris**
 
@@ -224,7 +224,7 @@ quia vīsitābit eōs Dominus Deus eōrum
 
 et convertet sortem eōrum.
 
-8 “ Audīvī opprobrium Moab
+8 ”Audīvī opprobrium Moab
 
 et blasphēmiās fīliōrum Ammōn, quī exprobrāvērunt **populō** meō
 
@@ -244,7 +244,7 @@ et dēsertum usque in aeternum;
 
 reliquiae **populī** meī dīripient eōs,
 
-et residuī **gentis** meae possidēbunt illōs ”.
+et residuī **gentis** meae possidēbunt illōs”.
 
 10 **Hoc** eīs ēveniet prō **superbiā** **suā**, quia blasphēmāvērunt et magnificātī sunt
 
@@ -258,9 +258,9 @@ et adōrābunt eum, singulī dē locō suō,
 
 omnēs īnsulae gentium.
 
-12 “ Sed et vōs, Aethiopēs,
+12 ”Sed et vōs, Aethiopēs,
 
-interfectī gladiō meō eritis ”.
+interfectī gladiō meō eritis”.
 
 13 Et extendet **manum** suam super aquilōnem
 
@@ -290,7 +290,7 @@ habitāns in **cōnfīdentiā**,
 
 quae dīcēbat in **corde** suō:
 
-“ Ego sum, et extrā mē nōn **est** **alia** amplius! ”.
+”Ego sum, et extrā mē nōn **est** **alia** amplius!”.
 
 Quōmodo **facta** **est** in dēsertum,
 
@@ -336,7 +336,7 @@ nōn faciet inīquitātem;
 
 nescīvit autem inīquus cōnfūsiōnem.
 
-6 “ Disperdidī gentēs,
+6 ”Disperdidī gentēs,
 
 dissipātī sunt angulī eārum;
 
@@ -408,7 +408,7 @@ in monte sānctō meō.
 
 12 Et dērelinquam in **mediō** tuī
 
-**populum** pauperem et egēnum ”.
+**populum** pauperem et egēnum”.
 
 Et spērābunt in nōmine Dominī
 
@@ -444,7 +444,7 @@ nōn timēbis **mālum** **ultrā**.
 
 16 In **diē** **illa** **dīcētur** Ierusālem:
 
-“ Nōlī timēre, **Sīōn**;
+”Nōlī timēre, **Sīōn**;
 
 nē dissolvantur **manūs** tuae!
 
@@ -458,9 +458,9 @@ gaudēbit super tē in **laetitiā**,
 
 exsultābit super tē in laude
 
-18 sīcut in **diē** **conventūs** ”.
+18 sīcut in **diē** **conventūs**”.
 
-“ Auferam ā tē calamitātem,
+”Auferam ā tē calamitātem,
 
 ut nōn **ultrā** habeās super **ea** opprobrium.
 
@@ -484,7 +484,7 @@ omnibus **populīs** terrae,
 
 cum converterō sortem vestram
 
-**cōram** oculīs vestrīs ”,
+**cōram** oculīs vestrīs”,
 
 dīcit Dominus.
 

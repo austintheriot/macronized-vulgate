@@ -34,7 +34,7 @@
 
 15 sed secundum eum, quī vocāvit vōs, sānctum, et ipsī sānctī in omnī conversātiōne **sītis**,
 
-16 quoniam scrīptum **est**: “ Sānctī eritis, quia ego sānctus sum ”.
+16 quoniam scrīptum **est**: ”Sānctī eritis, quia ego sānctus sum”.
 
 17 Et sī Patrem **invocātis** eum, quī **sine** acceptiōne **persōnārum** iūdicat secundum ūnīuscuiusque opus, in timōre **incolātūs** vestrī tempore conversāminī,
 
@@ -76,15 +76,15 @@ Exāruit fēnum, et flōs **dēcidit**;
 
 6 Propter quod continet **Scrīptūra**:
 
-“ Ecce pōnō in **Sīōn** lapidem angulārem, ēlēctum, pretiōsum;
+”Ecce pōnō in **Sīōn** lapidem angulārem, ēlēctum, pretiōsum;
 
-et, quī crēdit in eō, nōn cōnfundētur ”.
+et, quī crēdit in eō, nōn cōnfundētur”.
 
 7 Vōbīs igitur honor crēdentibus; nōn crēdentibus autem
 
-“ **Lapis**, quem reprobāvērunt aedificantēs, **hic** **factus** **est** in caput angulī ”
+”**Lapis**, quem reprobāvērunt aedificantēs, **hic** **factus** **est** in caput angulī”
 
-8 et “ **lapis** offēnsiōnis et **petra** scandalī ”; quī offendunt verbō nōn crēdentēs, in quod et positī sunt.
+8 et ”**lapis** offēnsiōnis et **petra** scandalī”; quī offendunt verbō nōn crēdentēs, in quod et positī sunt.
 
 9 Vōs autem **genus** ēlēctum, rēgāle sacerdōtium, gēns **sānctā**, **populus** in acquīsītiōnem, ut virtūtēs annūntiētis eius, quī dē tenebrīs vōs vocāvit in admīrābile lūmen suum:
 
@@ -160,7 +160,7 @@ sed conversī **estis** nunc ad pāstōrem et epīscopum animārum vestrārum.
 
 9 nōn reddentēs **malum** prō **malō** vel maledictum prō maledictō, sed ē contrāriō benedīcentēs, quia in **hōc** vocātī **estis**, ut benedictiōnem **hērēditātē** accipiātis.
 
-10 “ Quī enim vult vītam **dīligere**
+10 ”Quī enim vult vītam **dīligere**
 
 et **vidēre** diēs bonōs,
 
@@ -176,7 +176,7 @@ inquīrat pācem et persequātur eam.
 
 et aurēs eius in precēs eōrum;
 
-**vultūs** autem Dominī super facientēs **mala** ”.
+**vultūs** autem Dominī super facientēs **mala**”.
 
 13 Et **quis** **est** quī vōbīs noceat, sī bonī aemulātōrēs **fuerītis**?
 
@@ -234,9 +234,9 @@ et aurēs eius in precēs eōrum;
 
 17 Quoniam tempus **est**, ut incipiat iūdicium ā domō Deī; sī autem prīmum ā nōbīs, quī **fīnis** eōrum, quī nōn crēdunt Deī ēvangeliō?
 
-18 “ Et sī iūstus vix salvātur,
+18 ”Et sī iūstus vix salvātur,
 
-impius et peccātor ubi pārēbit? ”.
+impius et peccātor ubi pārēbit?”.
 
 19 Itaque et hī, quī patiuntur secundum voluntātem Deī, fidēlī Creātōrī commendent animās suās in benefactō.
 

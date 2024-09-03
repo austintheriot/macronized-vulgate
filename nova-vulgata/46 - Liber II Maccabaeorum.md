@@ -52,7 +52,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 23 Ōrātiōnem autem faciēbant sacerdōtēs, dum cōnsummārētur sacrificium: et sacerdōtēs et omnēs, **Ionathā** inchoante, cēterīs autem respondentibus ut Nehemīās.
 
-24 Erat autem ōrātiō hunc habēns modum: “ Domine, Domine Deus, omnium creātor, **terribilis** et **fortis**, iūstus et misericors, quī **sōlus** **es** rēx et bonus,
+24 Erat autem ōrātiō hunc habēns modum: ”Domine, Domine Deus, omnium creātor, **terribilis** et **fortis**, iūstus et misericors, quī **sōlus** **es** rēx et bonus,
 
 25 **sōlus** praestāns, **solus** iūstus et omnipotēns et aeternus; quī līberās Isrāēl dē omnī **mālō**, quī fēcistī patrēs ēlēctōs et sānctificāstī eōs,
 
@@ -62,7 +62,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 28 Afflīge opprimentēs nōs et contumēliam facientēs in **superbiā**.
 
-29 Cōnstitue **populum** tuum in locō sānctō tuō, sīcut dīxit Moȳsēs[\*][moyses] ”.
+29 Cōnstitue **populum** tuum in locō sānctō tuō, sīcut dīxit Moȳsēs[\*][moyses]”.
 
 30 Sacerdōtēs autem psallēbant hymnōs.
 
@@ -100,7 +100,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 10 Sīcut et Moȳsēs[\*][moyses] ōrābat ad Dominum, et dēscendit **ignis** dē caelō et cōnsūmpsit sacrificia, sīc et Salomōn ōrāvit, et dēscendit **ignis** dē caelō et cōnsūmpsit holocausta.
 
-11 Et dīxit Moȳsēs[\*][moyses]: “ **Eō** quod nōn sit comestum, quod erat prō peccātō, cōnsūmptum **est** ”.
+11 Et dīxit Moȳsēs[\*][moyses]: ”**Eō** quod nōn sit comestum, quod erat prō peccātō, cōnsūmptum **est**”.
 
 12 Similiter et Salomōn octo diēs celebrāvit.
 
@@ -210,9 +210,9 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 32 **Suspectus** autem **factus** summus sacerdōs, nē forte rēx opīnārētur malitiam aliquam ex Iūdaeīs circā Hēliodōrum cōnsummātam, obtulit hostiam prō salūte **virī**.
 
-33 Cumque summus sacerdōs litātiōnem perficeret, iīdem iuvenēs rūrsus appāruērunt Hēliodōrō eīsdem vestibus amictī et astantēs dīxērunt: “ Oniae summō sacerdōtī multās grātiās age, nam propter eum Dominus tibi vītam dōnāvit;
+33 Cumque summus sacerdōs litātiōnem perficeret, iīdem iuvenēs rūrsus appāruērunt Hēliodōrō eīsdem vestibus amictī et astantēs dīxērunt: ”Oniae summō sacerdōtī multās grātiās age, nam propter eum Dominus tibi vītam dōnāvit;
 
-34 tū autem ā caelō flagellātus **nūntiā** omnibus magnam Deī potestātem ”. Et hīs dictīs, nōn compāruērunt.
+34 tū autem ā caelō flagellātus **nūntiā** omnibus magnam Deī potestātem”. Et hīs dictīs, nōn compāruērunt.
 
 35 Hēliodōrus autem, **hostia** Dominō **oblāta** et vōtīs magnīs prōmissīs **eī**, quī **vīvere** concessit, et Ōniam acceptum habēns cum **exercitū** repedāvit ad rēgem;
 
@@ -220,9 +220,9 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 37 Cum autem rēx interrogāsset Hēliodōrum, **quis** **esset** aptus adhūc semel Hierosolymam mittī, ait:
 
-38 “ Sī quem habēs hostem aut rērum īnsidiātōrem, mitte eum illūc et flagellātum eum recipiēs, sī tamen ēvāserit, eō quod in locō sit **vērē** Deī quaedam virtūs;
+38 ”Sī quem habēs hostem aut rērum īnsidiātōrem, mitte eum illūc et flagellātum eum recipiēs, sī tamen ēvāserit, eō quod in locō sit **vērē** Deī quaedam virtūs;
 
-39 nam ipse, quī habet in caelīs habitātiōnem, vīsitātor et adiūtor **est** locī illīus et venientēs ad malefaciendum percutit ac perdit ”.
+39 nam ipse, quī habet in caelīs habitātiōnem, vīsitātor et adiūtor **est** locī illīus et venientēs ad malefaciendum percutit ac perdit”.
 
 40 Igitur dē Hēliodōrō et aerāriī **cūstōdia** **ita** rēs prōcessērunt.
 
@@ -432,7 +432,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 23 At ille, cōnsiliō **decōrō** initō ac dignō aetāte et **senectūtis** **ēminentiā** et **acquīsīta** nōbilīque cānitiē atque **optima** ā puerō vītae **disciplīna**, **magis** autem **sānctā** et ā Deō **conditā** lēgislātiōne, cōnsequenter sententiam ostendit: **cito**, dīcēns, dīmitterent ad īnferōs.
 
-24 “ Nōn enim aetātī nostrae dignum **est** **fingere**, ut multī adulēscentium arbitrantēs Eleazārum nōnāgintā annōrum trānsīsse ad mōrem aliēnigenārum
+24 ”Nōn enim aetātī nostrae dignum **est** **fingere**, ut multī adulēscentium arbitrantēs Eleazārum nōnāgintā annōrum trānsīsse ad mōrem aliēnigenārum
 
 25 et ipsī propter meam simulātiōnem et propter modicum et pusillum vītae tempus dēcipiantur propter mē, et exsecrātiōnem atque maculam meae senectūtī conquīram.
 
@@ -440,11 +440,11 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 27 Quam ob rem virīliter nunc **vītā** excēdendō, senectūte quidem dignus appārēbō;
 
-28 adulēscentibus autem exemplum forte relīquerō, ut prōmptō animō ac fortiter prō sacrīs ac sānctīs lēgibus **honesta** morte perfungantur ”. Et cum haec dīxisset, cōnfestim ad supplicium **venit**;
+28 adulēscentibus autem exemplum forte relīquerō, ut prōmptō animō ac fortiter prō sacrīs ac sānctīs lēgibus **honesta** morte perfungantur”. Et cum haec dīxisset, cōnfestim ad supplicium **venit**;
 
 29 ipsīs autem, quī eum dūcēbant, illam, quam paulō ante habuerant ergā eum benevolentiam, in īram convertentibus, proptereā quod sermōnēs dictī, sīcut ipsī arbitrābantur, **essent** **āmentiā**.
 
-30 Cumque coepisset **plāgīs** **morī**, ingemīscēns dīxit: “ Dominō, quī habet sānctam scientiam, manifēstum **est** quia cum ā morte possem līberārī, dūrōs secundum corpus sustineō dolōrēs flagellātus, secundum animam vērō propter ipsīus timōrem libenter haec patior ”.
+30 Cumque coepisset **plāgīs** **morī**, ingemīscēns dīxit: ”Dominō, quī habet sānctam scientiam, manifēstum **est** quia cum ā morte possem līberārī, dūrōs secundum corpus sustineō dolōrēs flagellātus, secundum animam vērō propter ipsīus timōrem libenter haec patior”.
 
 31 Et iste quidem **hoc** **modo** **vīta** dēcessit, nōn **sōlum** iuvenibus, sed et plūrimīs ex gente mortem suam ad exemplum fortitūdinis et memoriam **virtūtis** relinquēns.
 
@@ -452,7 +452,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 1 Contigit autem et septem frātrēs **ūna** cum mātre apprehēnsōs compellī ā **rēge** **attingere** contrā fās carnēs porcīnās, flagrīs et nervīs cruciātōs.
 
-2 Ūnus autem ex illīs exstāns prior locūtor sīc ait: “ Quid **es** quaesītūrus, et quid vīs **discere** ā nōbīs? Parātī sumus **morī** **magis** quam patriās **lēgēs** praevāricārī ”.
+2 Ūnus autem ex illīs exstāns prior locūtor sīc ait: ”Quid **es** quaesītūrus, et quid vīs **discere** ā nōbīs? Parātī sumus **morī** **magis** quam patriās **lēgēs** praevāricārī”.
 
 3 Īrātus itaque rēx iussit sartāginēs et **ōllās** succendī.
 
@@ -460,41 +460,41 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 5 Et cum iam per omnia **inūtilīs** **factus** **esset**, iussit eum igne admovērī adhūc spīrantem et torrērī in sartāgine. Cum autem vapor sartāginis diū diffunderētur, cēterī **ūna** cum mātre invicem sē hortābantur **morī** fortiter **ita** dīcentēs:
 
-6 “ Dominus Deus aspicit et vēritāte in nōbīs cōnsōlātur, quemadmodum per **persōnam** **contestantis** canticī dēclārāvit Moȳsēs[\*][moyses]: “Et in servīs **suīs** cōnsōlābitur” ”.
+6 ”Dominus Deus aspicit et vēritāte in nōbīs cōnsōlātur, quemadmodum per **persōnam** **contestantis** canticī dēclārāvit Moȳsēs[\*][moyses]: “Et in servīs **suīs** cōnsōlābitur””.
 
 7 Mortuō itaque illō prīmō **hoc** **modo**, sequentem dēdūcēbant ad illūdendum; et cute **capitis** eius cum capillīs **abstracta**, interrogābant, sī mandūcāret prius quam **tōtō** corpore per **membra** **singula** pūnīrētur.
 
-8 At ille respondēns **patriā** vōce dīxit: “ Nōn faciam ”. Propter quod et iste, sequentī locō, tormenta suscēpit sīcut prīmus.
+8 At ille respondēns **patriā** vōce dīxit: ”Nōn faciam”. Propter quod et iste, sequentī locō, tormenta suscēpit sīcut prīmus.
 
-9 Et in ultimō spīritū cōnstitūtus, sīc ait: “ Tū quidem, **scelestissimē**, dē praesentī **vītā** nōs perdis; sed rēx mundī dēfūnctōs nōs prō **suīs** lēgibus in aeternam vītae resurrēctiōnem suscitābit ”.
+9 Et in ultimō spīritū cōnstitūtus, sīc ait: ”Tū quidem, **scelestissimē**, dē praesentī **vītā** nōs perdis; sed rēx mundī dēfūnctōs nōs prō **suīs** lēgibus in aeternam vītae resurrēctiōnem suscitābit”.
 
 10 Post hunc tertius illūdēbātur; et linguam **postulātūs** **cito** prōtulit et **manus** cōnstanter extendit
 
-11 et fortiter ait: “ Ē caelō **ista** possideō et propter illīus **legēs** haec **ipsa** dēspiciō et ab ipsō rūrsus mē **eā** receptūrum spērō ”,
+11 et fortiter ait: ”Ē caelō **ista** possideō et propter illīus **legēs** haec **ipsa** dēspiciō et ab ipsō rūrsus mē **eā** receptūrum spērō”,
 
 12 **ita** ut rēx et, quī cum ipsō erant, mīrārentur **adulēscentīs** animum, quōmodo prō nihilō dūceret **cruciātus**.
 
 13 Et **hoc** **ita** dēfūnctō, quārtum vexābant similiter torquentēs;
 
-14 et, cum iam **esset** ad mortem, sīc ait: “ Potius **est** ab hominibus mortī datōs spem exspectāre ā Deō, iterum ab ipsō resuscitandōs; tibi enim resurrēctiō ad vītam nōn erit ”.
+14 et, cum iam **esset** ad mortem, sīc ait: ”Potius **est** ab hominibus mortī datōs spem exspectāre ā Deō, iterum ab ipsō resuscitandōs; tibi enim resurrēctiō ad vītam nōn erit”.
 
 15 Et deinceps quīntum, cum admōvissent, vexābant;
 
-16 at ille respiciēns in eum dīxit: “ Potestātem inter hominēs habēns, cum sīs **corruptibilis**, **facis**, quod vīs; nōlī autem putāre **genus** nostrum ā Deō **esse** dērelictum;
+16 at ille respiciēns in eum dīxit: ”Potestātem inter hominēs habēns, cum sīs **corruptibilis**, **facis**, quod vīs; nōlī autem putāre **genus** nostrum ā Deō **esse** dērelictum;
 
-17 tū autem patienter sustinē et vidēbis maiestātem **virtūtis** ipsīus, quāliter tē et sēmen tuum torquēbit ”.
+17 tū autem patienter sustinē et vidēbis maiestātem **virtūtis** ipsīus, quāliter tē et sēmen tuum torquēbit”.
 
-18 Post hunc dūcēbant sextum, et **is** **morī** incipiēns ait: “ Nōlī frūstrā errāre; nōs enim propter nosmetipsōs haec patimur peccantēs in Deum nostrum, et **dignā** admīrātiōne **facta** sunt in nōbīs:
+18 Post hunc dūcēbant sextum, et **is** **morī** incipiēns ait: ”Nōlī frūstrā errāre; nōs enim propter nosmetipsōs haec patimur peccantēs in Deum nostrum, et **dignā** admīrātiōne **facta** sunt in nōbīs:
 
-19 tū autem nē exīstimēs tibi impūne futūrum, quod contrā Deum pugnāre **tentāverīs** ”.
+19 tū autem nē exīstimēs tibi impūne futūrum, quod contrā Deum pugnāre **tentāverīs**”.
 
 20 Suprā modum autem māter **mīrābilis** et **bona** **memoria** **digna**, quae pereuntēs septem fīliōs sub ūnīus diēī tempore cōnspiciēns bonō animō ferēbat propter spem, quam in Dominum habēbat.
 
 21 Singulōs illōrum hortābātur vōce **patriā**, fortī **replēta** sēnsū et fēmineam cōgitātiōnem masculīnō excitāns animō, dīcēns ad eōs:
 
-22 “ Nesciō quāliter in uterō meō appāruistis neque ego spīritum et vītam dōnāvī vōbīs et singulōrum vestrōrum compāgem nōn sum ego **modulāta**;
+22 ”Nesciō quāliter in uterō meō appāruistis neque ego spīritum et vītam dōnāvī vōbīs et singulōrum vestrōrum compāgem nōn sum ego **modulāta**;
 
-23 sed enim mundī creātor, quī fōrmāvit hominis nātīvitātem quīque omnium **invēnit** orīginem, et spīritum et vītam vōbīs iterum cum **misericordiā** reddet, sīcut nunc vōsmetipsōs dēspicitis propter **lēgēs** eius ”.
+23 sed enim mundī creātor, quī fōrmāvit hominis nātīvitātem quīque omnium **invēnit** orīginem, et spīritum et vītam vōbīs iterum cum **misericordiā** reddet, sīcut nunc vōsmetipsōs dēspicitis propter **lēgēs** eius”.
 
 24 Antiochus autem contemnī sē **arbitrātus**, simul et exprobrantem dēdignāns **vōcem**, cum adhūc adulescentior superesset, nōn **sōlum** verbīs hortābātur, sed et cum iūrāmentō affirmābat sē dīvitem simul et beātum factūrum, trānslātum ā patriīs lēgibus, et amīcum habitūrum et officia **eī** crēditūrum.
 
@@ -502,13 +502,13 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 26 Cum autem multīs eam verbīs **esset** **hortātus**, prōmīsit suāsūram sē fīliō.
 
-27 Itaque **inclīnāta** ad illum, irrīdēns crūdēlem tyrannum sīc ait **patriā** vōce: “ Fīlī, miserēre meī, quae tē in uterō novem mēnsibus portāvī et lac trienniō **dedī** et **aluī** et in aetātem istam perdūxī et nūtrīcem mē tibi exhibuī.
+27 Itaque **inclīnāta** ad illum, irrīdēns crūdēlem tyrannum sīc ait **patriā** vōce: ”Fīlī, miserēre meī, quae tē in uterō novem mēnsibus portāvī et lac trienniō **dedī** et **aluī** et in aetātem istam perdūxī et nūtrīcem mē tibi exhibuī.
 
 28 Petō, **nāte**, ut aspiciās ad caelum et terram et quae in ipsīs sunt, **ūniversa** vidēns intellegās quia nōn ex hīs, quae erant, fēcit **illa** Deus; et hominum **genus** **ita** fit.
 
-29 Nē timeās carnificem istum, sed dignus frātribus tuīs **effectūs** suscipe mortem, ut in **illā** miserātiōne cum frātribus tuīs tē recipiam ”.
+29 Nē timeās carnificem istum, sed dignus frātribus tuīs **effectūs** suscipe mortem, ut in **illā** miserātiōne cum frātribus tuīs tē recipiam”.
 
-30 Cum haec **illa** adhūc dīceret, ait adulēscēns: “ Quem sustinētis? Nōn oboediō praeceptō **rēgis**, sed obtemperō praeceptō **lēgis**, quae **data** **est** patribus nostrīs per Moysēn.
+30 Cum haec **illa** adhūc dīceret, ait adulēscēns: ”Quem sustinētis? Nōn oboediō praeceptō **rēgis**, sed obtemperō praeceptō **lēgis**, quae **data** **est** patribus nostrīs per Moysēn.
 
 31 Tū vērō, quī inventor **omnis** malitiae **factus** **es** in Hebraeōs, nōn effugiēs **manūs** Deī.
 
@@ -524,7 +524,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 37 Ego autem, sīcut et frātrēs meī, et corpus et animam trādō prō patriīs lēgibus, invocāns Deum mātūrius gentī nostrae propitium fierī, tēque cum tormentīs et verberibus cōnfitērī quod ipse **est** Deus **sōlus**;
 
-38 in mē vērō et in frātribus meīs restitit **Omnipotentīs** **īra**, quae super omne **genus** nostrum **iūstē** **superducta** **est** ”.
+38 in mē vērō et in frātribus meīs restitit **Omnipotentīs** **īra**, quae super omne **genus** nostrum **iūstē** **superducta** **est**”.
 
 39 Tunc rēx **accēnsus** **īra** in hunc super omnēs crūdēlius dēsaevit, **indignē** ferēns sē dērīsum.
 
@@ -570,7 +570,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 17 ante oculōs habentēs contumēliam, quae in locum sānctum ab hīs **iniūstē** **esset** **cōnsummāta**, itemque et lūdibriō habitae cīvitātis iniūriam, adhūc etiam veterum **īnstitūta** **convulsa**.
 
-18 “ Nam illī quidem armīs cōnfīdunt, ait, simul et **audācia**; nōs autem in omnipotente Deō, quī potest et venientēs adversum nōs et ūniversum mundum ūnō nūtū dēlēre, cōnfīdimus ”.
+18 ”Nam illī quidem armīs cōnfīdunt, ait, simul et **audācia**; nōs autem in omnipotente Deō, quī potest et venientēs adversum nōs et ūniversum mundum ūnō nūtū dēlēre, cōnfīdimus”.
 
 19 Cum autem admonuisset eōs et dē auxiliīs, quae **facta** sunt ergā **parentēs**, et dē illō sub Sennacherib, ut centum octōgintā quīnque **mīlia** periērunt,
 
@@ -616,7 +616,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 3 Et cum **esset** circā **Ecbatanā**, **nūntiāta** sunt **ea**, quae ergā Nīcānorem et Tīmotheum **gesta** sunt.
 
-4 Ēlātus autem **īra** arbitrābātur sē etiam iniūriam illōrum, quī sē fugāverant, in Iūdaeōs retorquēre; ideōque iussit, ut **aurīga** **sine** intermissiōne iter perficeret, caelestī iam eum comitante iūdiciō. **Ita** enim **superbē** **locūtus** erat: “ Congeriem sepulcrī Iūdaeōrum Hierosolymam faciam, cum vēnerō illō ”.
+4 Ēlātus autem **īra** arbitrābātur sē etiam iniūriam illōrum, quī sē fugāverant, in Iūdaeōs retorquēre; ideōque iussit, ut **aurīga** **sine** intermissiōne iter perficeret, caelestī iam eum comitante iūdiciō. **Ita** enim **superbē** **locūtus** erat: ”Congeriem sepulcrī Iūdaeōrum Hierosolymam faciam, cum vēnerō illō”.
 
 5 Sed quī **ūniversa** cōnspicit, Dominus, Deus Isrāēl, percussit eum īnsānābilī et invīsibilī **plāgā**; et continuō ut **is** fīnīvit sermōnem, apprehendit eum dolor dīrus vīscerum et **amāra** internōrum tormenta,
 
@@ -632,7 +632,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 11 Hinc igitur coepit multum superbiae **dēpōnere** **cōnfrāctus** et ad agnitiōnem venīre **dīvīna** **plāga**, per mōmenta dolōribus extēnsus.
 
-12 Et, cum nec ipse foetōrem suum ferre posset, **ita** ait: “ Iūstum **est** subditum **esse** Deō et mortālem nōn **superbē** sentīre ”.
+12 Et, cum nec ipse foetōrem suum ferre posset, **ita** ait: ”Iūstum **est** subditum **esse** Deō et mortālem nōn **superbē** sentīre”.
 
 13 Ōrābat autem **hīc** scelestus Dominum, **eī** nōn amplius miserturum, **ita** dīcēns:
 
@@ -646,7 +646,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 18 Sed omnīnō nōn cessantibus dolōribus — supervēnerat enim in eum iūstum Deī iūdicium — sēmetipsum dēspērāns scrīpsit ad Iūdaeōs hanc īnfrā rescrīptam epistulam modum dēprecātiōnis habentem, haec continentem:
 
-19 “ Optimīs cīvibus Iūdaeīs plūrimam salūtem et **bene** valēre et **esse** **fēlīcēs**, rēx et dux Antiochus.
+19 ”Optimīs cīvibus Iūdaeīs plūrimam salūtem et **bene** valēre et **esse** **fēlīcēs**, rēx et dux Antiochus.
 
 20 Sī **bene** valētis et fīliī vestrī, et rēs vestrae ex **sententiā** sunt vōbīs, precāns referō quidem Deō maximam grātiam, in caelum spem habēns;
 
@@ -662,7 +662,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 26 Ōrō itaque vōs et petō memorēs beneficiōrum **pūblicē** et prīvātim, ut ūnusquisque cōnservet hanc, quam habētis benevolentiam in mē et in fīlium.
 
-27 Cōnfīdō enim eum **modestē** et **hūmānē**, sequentem prōpositum meum, vōbīscum āctūrum ”.
+27 Cōnfīdō enim eum **modestē** et **hūmānē**, sequentem prōpositum meum, vōbīscum āctūrum”.
 
 28 Igitur **homicīda** et blasphēmus **pessima** perpessus, ut ipse aliōs tractāverat, peregrē in montibus miserābilī obitū **vītā** fūnctus **est**.
 
@@ -778,7 +778,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 15 Annuit autem Maccabaeus in omnibus, quae Lȳsiās rogābat, ūtilitātī cōnsulēns; quaecumque enim Maccabaeus scrīptīs trādidit Lȳsiae dē Iūdaeīs, rēx concessit.
 
-16 Nam erant scrīptae Iūdaeīs epistulae ā **Lȳsiā** quidem hunc modum continentēs: “ Lȳsiās **populō** Iūdaeōrum salūtem.
+16 Nam erant scrīptae Iūdaeīs epistulae ā **Lȳsiā** quidem hunc modum continentēs: ”Lȳsiās **populō** Iūdaeōrum salūtem.
 
 17 Iōannēs et Abessalom, quī missī fuerant ā vōbīs trādentēs respōnsum rescrīptum, postulābant circum **ea**, quae per illud significābantur.
 
@@ -788,9 +788,9 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 20 Dē cēterīs autem per **singula** mandāvī et istīs et hīs, quī ā mē missī sunt, colloquī vōbīscum.
 
-21 **Bene** valēte. Annō centēsimō quadrāgēsimō octāvō, **mēnsis** Iovis Corinthiī **diē** **vīcēsimā** et **quārta** ”.
+21 **Bene** valēte. Annō centēsimō quadrāgēsimō octāvō, **mēnsis** Iovis Corinthiī **diē** **vīcēsimā** et **quārta**”.
 
-22 **Rēgis** autem **epistulā** **ista** continēbat: “ Rēx Antiochus Lȳsiae frātrī salūtem.
+22 **Rēgis** autem **epistulā** **ista** continēbat: ”Rēx Antiochus Lȳsiae frātrī salūtem.
 
 23 Patre nostrō inter deōs trānslātō, nōs volentēs eōs, quī sunt in rēgnō nostrō, **sine** tumultū **attendere** ad rērum suārum cūram,
 
@@ -798,9 +798,9 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 25 cupientēs igitur hanc **quoque** gentem extrā tumultum **esse**, iūdicāmus templum illīs restituī remque agī secundum suōrum maiōrum cōnsuētūdinem.
 
-26 **Bene** igitur **fēcerīs**, sī **miserīs** ad eōs et dexteram **dēderis** ut, **cognita** **nostrā** voluntāte, bonō animō sint et libenter propriārum rērum īnstaurātiōnī dēserviant ”.
+26 **Bene** igitur **fēcerīs**, sī **miserīs** ad eōs et dexteram **dēderis** ut, **cognita** **nostrā** voluntāte, bonō animō sint et libenter propriārum rērum īnstaurātiōnī dēserviant”.
 
-27 Ad gentem vērō **rēgis** **epistula** **tālis** erat: “ Rēx Antiochus senātuī Iūdaeōrum et cēterīs Iūdaeīs salūtem.
+27 Ad gentem vērō **rēgis** **epistula** **tālis** erat: ”Rēx Antiochus senātuī Iūdaeōrum et cēterīs Iūdaeīs salūtem.
 
 28 Sī valētis, sīc **est**, ut volumus; sed et ipsī **bene** valēmus.
 
@@ -812,9 +812,9 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 32 Mīsimus autem et Menelāum, quī vōs alloquātur.
 
-33 Valēte. Annō centēsimō quadrāgēsimō octāvō, Xanthicī **mēnsis** **quīnta** **decima** **diē** ”.
+33 Valēte. Annō centēsimō quadrāgēsimō octāvō, Xanthicī **mēnsis** **quīnta** **decima** **diē**”.
 
-34 Mīsērunt autem etiam Rōmānī epistulam **ita** sē habentem: “ Quīntus Memmius, Titus Mānius, lēgātī Rōmānōrum **populō** Iūdaeōrum salūtem.
+34 Mīsērunt autem etiam Rōmānī epistulam **ita** sē habentem: ”Quīntus Memmius, Titus Mānius, lēgātī Rōmānōrum **populō** Iūdaeōrum salūtem.
 
 35 Dē hīs, quae Lȳsiās cognātus **rēgis** concessit vōbīs, et nōs cōnsentīmus.
 
@@ -822,7 +822,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 37 Ideōque **festīnāte** et mittite aliquōs, ut nōs **quoque** sciāmus cuius **estis** voluntātis.
 
-38 **Bene** valēte. Annō centēsimō quadrāgēsimō octāvō, **quīntā** **decima** **diē** **mēnsis** Xanthicī ”.
+38 **Bene** valēte. Annō centēsimō quadrāgēsimō octāvō, **quīntā** **decima** **diē** **mēnsis** Xanthicī”.
 
 ## 12
 
@@ -948,7 +948,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 14 Dāns itaque prōcūrātiōnem Creātōrī mundī, exhortātus suōs, ut fortiter dīmicārent usque ad mortem prō lēgibus, templō, cīvitāte, **patriā**, īnstitūtiōnibus, circā **Modīn** **exercitum** cōnstituit.
 
-15 Cumque **suīs** dedisset signum: “ Victōriam Deī ”, cum iuvenibus fortissimīs ēlēctīs, nocte **aggressus** **castra** adversus aulam rēgiam, interfēcit virōs ad duo **milia** et prīmārium elephantōrum **ūna** cum eō, quī intrā habitāculum erat;
+15 Cumque **suīs** dedisset signum: ”Victōriam Deī”, cum iuvenibus fortissimīs ēlēctīs, nocte **aggressus** **castra** adversus aulam rēgiam, interfēcit virōs ad duo **milia** et prīmārium elephantōrum **ūna** cum eō, quī intrā habitāculum erat;
 
 16 et postrēmō metū ac perturbātiōne **castra** replēvērunt, rēbusque **prōsperē** gestīs, abiērunt.
 
@@ -984,7 +984,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 5 Tempus autem opportūnum dēmentiae suae nactus, convocātus ā Dēmētriō ad cōnsilium et interrogātus quō prōpositō et cōnsiliō Iūdaeī **nīterentur**,
 
-6 ad haec respondit: “ Ipsī, quī dīcuntur Asidaēī, Iūdaeōrum, quibus **praeest** Iūdās Maccabaeus, **bella** nūtriunt et sēditiōnēs movent nec patiuntur rēgnum **esse** quiētum.
+6 ad haec respondit: ”Ipsī, quī dīcuntur Asidaēī, Iūdaeōrum, quibus **praeest** Iūdās Maccabaeus, **bella** nūtriunt et sēditiōnēs movent nec patiuntur rēgnum **esse** quiētum.
 
 7 Unde ego dēfraudātus **parentum** **glōriā**, **dīcō** autem summō sacerdōtiō, hūc nunc **vēnī**,
 
@@ -992,7 +992,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 9 Sed hīs singulīs, tū rēx, cognitīs, et regiōnī et **obsessō** generī nostrō, secundum quam habēs omnibus obviam hūmānitātem, **prōspice**;
 
-10 nam, quamdiū superest Iūdās, impossibile **est** pācem **esse** negōtiīs ”.
+10 nam, quamdiū superest Iūdās, impossibile **est** pācem **esse** negōtiīs”.
 
 11 Tālibus autem ab **hōc** dictīs, vēlōcius cēterī **amīcī** hostīliter sē habentēs adversus Iūdam īnflammāvērunt Dēmētrium.
 
@@ -1038,11 +1038,11 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 32 Quibus cum iūrāmentō dīcentibus nescīre sē ubi **esset**, quī quaerēbātur, extendēns dexteram ad templum
 
-33 iūrāvit haec: “ **Nīsī** Iūdam mihi vīnctum **trādiderītis**, istud Deī fānum in plānitiem dēdūcam et altāre effodiam et templum **hīc** Līberō **illūstrē** ērigam ”.
+33 iūrāvit haec: ”**Nīsī** Iūdam mihi vīnctum **trādiderītis**, istud Deī fānum in plānitiem dēdūcam et altāre effodiam et templum **hīc** Līberō **illūstrē** ērigam”.
 
 34 Et, hīs dictīs, abiit. Sacerdōtēs autem prōtendentēs **manūs** in caelum invocābant eum, quī semper prōpugnātor fuit **gentis** nostrae, haec dīcentēs:
 
-35 “ Tū, Domine ūniversōrum, quī **nūllīus** indigēs, voluistī templum habitātiōnis tuae fierī in nōbīs; 36 et nunc, **Sāncte**, **omnis** sānctificātiōnis Domine, **cōnservā** in aeternum impollūtam domum istam, quae nūper **mundāta** **est** ”.
+35 ”Tū, Domine ūniversōrum, quī **nūllīus** indigēs, voluistī templum habitātiōnis tuae fierī in nōbīs; 36 et nunc, **Sāncte**, **omnis** sānctificātiōnis Domine, **cōnservā** in aeternum impollūtam domum istam, quae nūper **mundāta** **est**”.
 
 37 Razīs autem quīdam dē seniōribus ab Hierosolymīs dēlātus **est** Nīcānorī, vir amātor cīvitātis et valdē **bene** audiēns, quī prō affectū pater Iūdaeōrum appellābātur.
 
@@ -1068,13 +1068,13 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 1 Nīcānor autem, ut comperit eōs, quī cum **Iūdā** erant, in locīs **esse** iuxtā Samarīam, cōgitāvit requiētiōnis **diē** cum omnī sēcūritāte eōs aggredī.
 
-2 Iūdaeīs vērō, quī illum per necessitātem sequēbantur, dīcentibus: “ Nē **ita** ferōciter et **barbarē** disperdās, sed honōrem tribue praehonōrātae diēī cum sānctificātiōne ab eō, quī **ūniversa** cōnspicit ”,
+2 Iūdaeīs vērō, quī illum per necessitātem sequēbantur, dīcentibus: ”Nē **ita** ferōciter et **barbarē** disperdās, sed honōrem tribue praehonōrātae diēī cum sānctificātiōne ab eō, quī **ūniversa** cōnspicit”,
 
 3 ille īnfēlīx interrogāvit, sī **est** potēns in caelō, quī imperāvit agī diem sabbatōrum.
 
-4 Et respondentibus illīs: “ **Est** Dominus vīvus ipse in caelō potēns, quī iussit **colere** septimam diem ”;
+4 Et respondentibus illīs: ”**Est** Dominus vīvus ipse in caelō potēns, quī iussit **colere** septimam diem”;
 
-5 at ille ait: “ Et ego potēns sum super terram, quī imperō sūmī **arma** et **negōtia** **rēgis** implērī ”. Tamen nōn obtinuit, ut nefārium cōnsilium perficeret.
+5 at ille ait: ”Et ego potēns sum super terram, quī imperō sūmī **arma** et **negōtia** **rēgis** implērī”. Tamen nōn obtinuit, ut nefārium cōnsilium perficeret.
 
 6 Et Nīcānor quidem cum **summā** **superbiā** cervīcem ērigēns cōgitāverat commūne trophaeum **statuere** dē iīs, quī cum **Iūdā** erant.
 
@@ -1092,11 +1092,11 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 13 Post **hōc** sīc appāruisse **virum** cānitiē et **glōriā** praestantem et mīrābilem quandam et magnī **decōris** **esse** ēminentiam circā illum.
 
-14 Respondentem vērō Ōniam dīxisse: “ **Hic** **est** frātrum amātor, quī multum ōrat prō **populō** et **sānctā** cīvitāte, Iēremīās **prophēta** Deī ”.
+14 Respondentem vērō Ōniam dīxisse: ”**Hic** **est** frātrum amātor, quī multum ōrat prō **populō** et **sānctā** cīvitāte, Iēremīās **prophēta** Deī”.
 
 15 Prōtendentem autem Iēremīam dextram dedisse Iūdae gladium aureum et, cum daret, dīxisse haec:
 
-16 “ Accipe sānctum gladium mūnus ā Deō, in quō cōnfringēs adversāriōs ”.
+16 ”Accipe sānctum gladium mūnus ā Deō, in quō cōnfringēs adversāriōs”.
 
 17 Exhortātī itaque Iūdae sermōnibus bonīs valdē, et quī poterant ad virtūtem incitāre et animōs iuvenum cōnfortāre, statuērunt **castra** nōn **tendere**, sed fortiter īnferrī et cum omnī virtūte cōnflīgentēs dē negōtiīs iūdicāre, eō quod cīvitās et **sāncta** et templum perīclitārentur.
 
@@ -1108,11 +1108,11 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 21 cōnsīderāns Maccabaeus adventum multitūdinis et apparātum varium armōrum et ferōcitātem bēstiārum, extendēns **manūs** in caelum prōdigia facientem Dominum invocāvit, sciēns quoniam nōn **est** per **arma**, sed prout ab ipsō iūdicātum fuerit dignīs tribuit victōriam.
 
-22 Dīxit autem invocāns **hōc** **modō**: “ Tū, Domine, quī mīsistī angelum tuum sub **Ezechiā** **rēge** Iūdaeae, et interfēcit dē castrīs Sennacherib ad centum octōgintā quīnque **mīlia**,
+22 Dīxit autem invocāns **hōc** **modō**: ”Tū, Domine, quī mīsistī angelum tuum sub **Ezechiā** **rēge** Iūdaeae, et interfēcit dē castrīs Sennacherib ad centum octōgintā quīnque **mīlia**,
 
 23 et nunc, Dominātor caelōrum, mitte angelum bonum ante nōs in timōrem et tremōrem;
 
-24 magnitūdine brāchiī tuī exterreantur, quī cum **blasphēmiā** veniunt adversus sānctum **populum** tuum ”. Et **hic** quidem in hīs fīnem fēcit.
+24 magnitūdine brāchiī tuī exterreantur, quī cum **blasphēmiā** veniunt adversus sānctum **populum** tuum”. Et **hic** quidem in hīs fīnem fēcit.
 
 25 Quī autem cum Nīcānore erant, cum tubīs et canticīs admovēbant;
 
@@ -1132,7 +1132,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 33 linguam etiam impiī Nīcānoris praecīsam dīxit particulātim avibus datūrum, **pretia** autem dēmentiae contrā templum **suspendere**.
 
-34 Omnēs igitur in caelum benedīxērunt manifēstum Dominum dīcentēs: “ Benedictus, quī locum suum incontāminātum servāvit! ”.
+34 Omnēs igitur in caelum benedīxērunt manifēstum Dominum dīcentēs: ”Benedictus, quī locum suum incontāminātum servāvit!”.
 
 35 Alligāvit autem Nīcānoris caput dē **summā** **arce** ēvidēns omnibus et manifēstum signum auxiliī Dominī.
 

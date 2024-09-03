@@ -8,11 +8,11 @@ Audītum audīvimus ā Dominō,
 
 et lēgātus ad gentēs **missus** **est**:
 
-“ Surgite, et cōnsurgāmus
+”Surgite, et cōnsurgāmus
 
-adversus eum in proelium! ”.
+adversus eum in proelium!”.
 
-2 “ Ecce parvulum tē dabō in gentibus,
+2 ”Ecce parvulum tē dabō in gentibus,
 
 **contemptibilis** tū **es** valdē.
 
@@ -30,7 +30,7 @@ quī dīcit in **corde** suō:
 
 et sī inter sīdera **posuerīs** nīdum tuum,
 
-inde dētraham tē ”,
+inde dētraham tē”,
 
 dīcit Dominus.
 
@@ -60,7 +60,7 @@ quī comedunt tēcum, pōnent īnsidiās subter tē.
 
 Nōn **est** **prūdentia** in eō.
 
-8 “ Numquid nōn in **diē** **illa**,
+8 ”Numquid nōn in **diē** **illa**,
 
 dīcit Dominus,
 
@@ -90,7 +90,7 @@ et extrāneī ingrediēbantur portās eius
 
 et super Ierusālem mittēbant sortem,
 
-tū **quoque** erās quasi ūnus ex eīs ”.
+tū **quoque** erās quasi ūnus ex eīs”.
 
 12 Et nōn respiciēs diem frātris tuī,
 

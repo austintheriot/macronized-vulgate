@@ -18,9 +18,9 @@
 
 9 **Omnis**, quī **ultrā** prōcēdit et nōn **manet** in **doctrīnā** Chrīstī, Deum nōn habet; quī **permanet** in doctrī nā, **hic** et Patrem et Fīlium habet.
 
-10 Sī **quis** **venit** ad vōs et hanc doctrīnam nōn affert, nōlīte accipere eum in domum nec “ **Avē** ” **eī** **dīxerītis**;
+10 Sī **quis** **venit** ad vōs et hanc doctrīnam nōn affert, nōlīte accipere eum in domum nec ”**Avē**” **eī** **dīxerītis**;
 
-11 quī enim dīcit illī: “ **Avē** ”, commūnicat operibus illīus malignīs.
+11 quī enim dīcit illī: ”**Avē**”, commūnicat operibus illīus malignīs.
 
 12 Plūra habēns vōbīs **scrībere**, nōluī per chartam et ātrāmentum; spērō enim mē futūrum apud vōs, et **os** ad **os** loquī, ut gaudium nostrum plēnum sit.
 

@@ -46,7 +46,7 @@
 
 4 Et factum **est**, cum cōnsummāsset cōnsilium suum, vocāvit Nabuchodonosor rēx Assyriōrum Holofernen prīncipem mīlitiae **virtūtis** suae, quī erat secundus post sē,
 
-5 et dīxit ad eum: “ Haec dīcit rēx magnus, ūniversae terrae dominus. Ecce tū exiēs ā faciē **meā** et accipiēs tēcum virōs fīdentēs in virtūte **suā**: in centum vīgintī **mīlia** peditum et multitūdinem equōrum cum ascēnsōribus duodecim **mīlia**;
+5 et dīxit ad eum: ”Haec dīcit rēx magnus, ūniversae terrae dominus. Ecce tū exiēs ā faciē **meā** et accipiēs tēcum virōs fīdentēs in virtūte **suā**: in centum vīgintī **mīlia** peditum et multitūdinem equōrum cum ascēnsōribus duodecim **mīlia**;
 
 6 et exiēs in obviam ūniversae terrae ad occāsum, quia nōn crēdidērunt verbō **ōris** meī.
 
@@ -62,7 +62,7 @@
 
 12 quoniam vīvō ego et potestās rēgnī meī; **locūtus** sum et faciam omnia haec in manū **meā**.
 
-13 Et tū nōn praeteriēs ūnum verbum dominī tuī, sed cōnsummāns cōnsummābis, sīcut praecēpī tibi, et nōn prolongābis, ut faciās **ea** ”.
+13 Et tū nōn praeteriēs ūnum verbum dominī tuī, sed cōnsummāns cōnsummābis, sīcut praecēpī tibi, et nōn prolongābis, ut faciās **ea**”.
 
 14 Et exiit Holofernēs ā faciē dominī **suī** et vocāvit omnēs praefectōs et **ducēs** et **magistrātūs** **virtūtis** Assyriae
 
@@ -98,11 +98,11 @@
 
 1 Et mīsērunt ad eum lēgātōs verbīs pācificīs dīcentēs:
 
-2 “ Ecce nōs puerī Nabuchodonosor **rēgis** magnī adstāmus **cōram** tē; **ūtere** nōbīs, quemadmodum **placet** faciēī tuae.
+2 ”Ecce nōs puerī Nabuchodonosor **rēgis** magnī adstāmus **cōram** tē; **ūtere** nōbīs, quemadmodum **placet** faciēī tuae.
 
 3 Ecce vīllae nostrae et **omnis** locus noster et **omnis** campus frūmentī et gregēs et **armenta** et omnia **stabula** iūmentōrum nostrōrum adstant ante faciem tuam; **ūtere**, quemadmodum **placet** tibi.
 
-4 Ecce et cīvitātēs nostrae et, quī inhabitant in eīs, servī tuī sunt; veniēns occurre eīs, sīcut **est** bonum in oculīs tuīs ”.
+4 Ecce et cīvitātēs nostrae et, quī inhabitant in eīs, servī tuī sunt; veniēns occurre eīs, sīcut **est** bonum in oculīs tuīs”.
 
 5 Et vēnērunt **virī** ad Holofernēn et nūntiāvērunt **eī** secundum verba haec.
 
@@ -154,11 +154,11 @@
 
 2 Et īrātus **est** **īrācundiā** valdē et convocāvit omnēs prīncipēs Moab et **ducēs** Ammōn et omnēs **magistrātūs** maritimae
 
-3 et dīxit eīs: “ **Renūntiāte** mihi, fīliī Chanaan: **Quis** **est** iste **populus**, quī **sedet** in montānīs? Quae sunt autem, quās inhabitant, cīvitātēs, et quae **est** multitūdō **virtūtis** eōrum? Et in quō **est** potestās et fortitūdō eōrum, et **quis** **praeest** super eōs rēx, dux mīlitiae eōrum?
+3 et dīxit eīs: ”**Renūntiāte** mihi, fīliī Chanaan: **Quis** **est** iste **populus**, quī **sedet** in montānīs? Quae sunt autem, quās inhabitant, cīvitātēs, et quae **est** multitūdō **virtūtis** eōrum? Et in quō **est** potestās et fortitūdō eōrum, et **quis** **praeest** super eōs rēx, dux mīlitiae eōrum?
 
-4 Et quārē terga vertērunt, nē venīrent in obviam mihi prae omnibus, quī inhabitant ad occāsum? ”.
+4 Et quārē terga vertērunt, nē venīrent in obviam mihi prae omnibus, quī inhabitant ad occāsum?”.
 
-5 Et dīxit ad eum Achior dux fīliōrum Ammōn: “ Audiat dominus meus verbum ex ōre servī tuī, et referam tibi vēritātem dē **populō** istō, quī inhabitat **montāna** **ista** iuxtā tē, et nōn exībit mendācium ex ōre servī tuī.
+5 Et dīxit ad eum Achior dux fīliōrum Ammōn: ”Audiat dominus meus verbum ex ōre servī tuī, et referam tibi vēritātem dē **populō** istō, quī inhabitat **montāna** **ista** iuxtā tē, et nōn exībit mendācium ex ōre servī tuī.
 
 6 **Populus** **hic** **est** ex prōgeniē Chaldaeōrum
 
@@ -190,19 +190,19 @@
 
 20 Et nunc, dominātor domine, siquidem **est** **ignōrantia** in **populō** istō, et peccant in Deum suum, īnspiciēmus quoniam **est** in illīs offendiculum **hoc** et ascendēmus et expugnābimus eōs;
 
-21 sī autem nōn **est** inīquitās in **ipsā** gente, trānseat dominus meus, nē forte prōtegat eōs Dominus eōrum et Deus eōrum, et erimus in improperium **cōram** omnī **terrā** ”.
+21 sī autem nōn **est** inīquitās in **ipsā** gente, trānseat dominus meus, nē forte prōtegat eōs Dominus eōrum et Deus eōrum, et erimus in improperium **cōram** omnī **terrā**”.
 
 22 Et factum **est**, ut dēsiit loquī Achior verba haec, murmurāvit **omnis** **populus**, quī erat in circuitū tabernāculī. Et dīxērunt magnātēs Holofernī et omnēs, quī habitābant maritimam et Moab, ut cōnfīgerent eum:
 
-23 “ Nōn enim timēbimus ā fīliīs Isrāēl; ecce enim **populus**, in quō nōn **est** virtūs neque potestās in pugnam validam.
+23 ”Nōn enim timēbimus ā fīliīs Isrāēl; ecce enim **populus**, in quō nōn **est** virtūs neque potestās in pugnam validam.
 
-24 Propter **hoc** ascendēmus, et erunt in ēscam mīlitiae tuae, dominātor Holofernēs ”.
+24 Propter **hoc** ascendēmus, et erunt in ēscam mīlitiae tuae, dominātor Holofernēs”.
 
 ## 6
 
 1 Et, cum cessāsset **tumultus** **virōrum**, quī erant in circuitū conciliī, dīxit Holofernēs prīnceps mīlitiae **virtūtis** Assyriae ad Achior **cōram** omnī **populō** aliēnigenārum et ad omnēs fīliōs Moab:
 
-2 “ Et **quis** **es** tū, Achior, et mercennāriī Ephraim, quoniam prophētāstī nōbīs sīcut hodiē et dīxistī quoniam **genus** fīliōrum Isrāēl nōn expugnātur, quoniam Deus eōrum prōteget eōs? Et **quis** **est** Deus, **nisi** Nabuchodonosor rēx **omnis** terrae? **Hic** mittet potestātem suam et disperdet eōs ā faciē terrae, et nōn līberābit eōs Deus eōrum.
+2 ”Et **quis** **es** tū, Achior, et mercennāriī Ephraim, quoniam prophētāstī nōbīs sīcut hodiē et dīxistī quoniam **genus** fīliōrum Isrāēl nōn expugnātur, quoniam Deus eōrum prōteget eōs? Et **quis** **est** Deus, **nisi** Nabuchodonosor rēx **omnis** terrae? **Hic** mittet potestātem suam et disperdet eōs ā faciē terrae, et nōn līberābit eōs Deus eōrum.
 
 3 Sed nōs servī illīus percutiēmus eōs sīcut hominem ūnum, nec sustinēbunt vim equōrum nostrōrum.
 
@@ -216,7 +216,7 @@
 
 8 et nōn periēs, dōnec exterminēris cum eīs.
 
-9 Et, sī spērās **corde** tuō quoniam nōn capientur, nōn **concidat** faciēs **tua**. **Locūtus** sum, et nihil **dēcidet** verbōrum meōrum ”.
+9 Et, sī spērās **corde** tuō quoniam nōn capientur, nōn **concidat** faciēs **tua**. **Locūtus** sum, et nihil **dēcidet** verbōrum meōrum”.
 
 10 Et praecēpit Holofernēs servīs **suīs**, quī erant adstantēs in tabernāculō eius, ut comprehenderent Achior et dūcerent eum in Betuliam et trāderent in **manūs** fīliōrum Isrāēl.
 
@@ -236,7 +236,7 @@
 
 18 Et prōcidēns **omnis** **populus** adōrāvērunt Deum et clāmāvērunt dīcentēs:
 
-19 “ Domine, Deus caelī, respice ad superbiam eōrum et miserēre **humilitātis** **generis** nostrī et respice ad faciem eōrum, quī sānctificātī sunt tibi in hāc **diē** ”.
+19 ”Domine, Deus caelī, respice ad superbiam eōrum et miserēre **humilitātis** **generis** nostrī et respice ad faciem eōrum, quī sānctificātī sunt tibi in hāc **diē**”.
 
 20 Et cōnsōlātī sunt Achior et laudāvērunt eum valdē.
 
@@ -252,7 +252,7 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 3 Et **castra** collocāvērunt in **convallem** iuxtā Betuliam ad fontem et praetendērunt in lātitūdinem contrā Dothain usque ad Abelmain et in longitūdinem ā Betulīā usque Chyamōnem, quae **est** contrā Esdrelon.
 
-4 Fīliī autem Isrāēl, ut vīdērunt multitūdinem eōrum, turbātī sunt valdē et dīxērunt ūnusquisque ad proximum suum: “ Nunc lingent istī faciem tōtīus terrae, nec montēs altī neque **vallēs** neque collēs sustinēbunt pondus eōrum ”.
+4 Fīliī autem Isrāēl, ut vīdērunt multitūdinem eōrum, turbātī sunt valdē et dīxērunt ūnusquisque ad proximum suum: ”Nunc lingent istī faciem tōtīus terrae, nec montēs altī neque **vallēs** neque collēs sustinēbunt pondus eōrum”.
 
 5 Et accipientēs ūnusquisque vāsa **sua** **bellica** et accendentēs ignem in turribus mūrōrum suōrum manēbant cūstōdientēs per **tōtam** noctem illam.
 
@@ -262,7 +262,7 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 8 Et accēdentēs ad eum omnēs prīncipēs fīliōrum Esau et omnēs **ducēs** **populī** Moab et **magistrātūs** maritimae dīxērunt:
 
-9 “ Audiat verbum dominātor noster, nē fīat cōnfractiō in virtūte **tuā**.
+9 ”Audiat verbum dominātor noster, nē fīat cōnfractiō in virtūte **tuā**.
 
 10 **Populus** enim **hic** fīliōrum Isrāēl nōn **fīdit** in lanceīs **suīs** sed in altitūdinibus montium, in quibus inhabitant; nōn enim **est** facile **ascendere** verticēs montium ipsōrum.
 
@@ -274,7 +274,7 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 14 Et destilliscent in famē et sitī ipsī et mulierēs eōrum et fīliī eōrum et, priusquam veniat gladius super eōs, prōsternentur in **platēīs** habitātiōnis suae,
 
-15 et retribuēs eīs retribūtiōnem **malam**, eō quod sēcessērunt et nōn obviāvērunt faciēī tuae in pāce ”.
+15 et retribuēs eīs retribūtiōnem **malam**, eō quod sēcessērunt et nōn obviāvērunt faciēī tuae in pāce”.
 
 16 Et placuērunt verba eōrum **cōram** Holoferne et **cōram** omnibus famulīs eius, et cōnstituit facere, ut locūtī sunt.
 
@@ -292,7 +292,7 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 23 Et collēgit sē **omnis** **populus** ad Oziam et ad prīncipēs cīvitātis, iuvenēs et mulierēs et īnfantēs, et clāmāvērunt vōce **magnā** et dīxērunt **cōram** omnibus seniōribus:
 
-24 “ Iūdicet Deus inter vōs et nōs, quoniam fēcistis in nōbīs inīquitātem magnam nōn loquentēs **pācificā** cum fīliīs Assyriae.
+24 ”Iūdicet Deus inter vōs et nōs, quoniam fēcistis in nōbīs inīquitātem magnam nōn loquentēs **pācificā** cum fīliīs Assyriae.
 
 25 Et nunc nōn **est** quī nōs adiuvet, sed vēndidit nōs Deus in **manūs** eōrum, ut prōsternerēmur ante eōs in sitī et perditiōne **magnā**.
 
@@ -300,13 +300,13 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 27 **Mēlius** **est** enim nōs fierī illīs in **rapīnam**; erimus enim eīs in servōs et ancillās, et vīvet **animā** **nostrā**, et nōn vidēbimus mortem īnfantium nostrōrum in oculīs nostrīs et mulierēs et fīliōs nostrōs dēficientēs in animābus **suīs**.
 
-28 Contestāmur vōbīs caelum et terram et Deum eōrum et Dominum patrum nostrōrum, quī ulcīscitur in nōs secundum **peccāta** **nostra** et secundum **peccāta** patrum nostrōrum, ut nōn faciat secundum verba haec in hāc **diē** ”.
+28 Contestāmur vōbīs caelum et terram et Deum eōrum et Dominum patrum nostrōrum, quī ulcīscitur in nōs secundum **peccāta** **nostra** et secundum **peccāta** patrum nostrōrum, ut nōn faciat secundum verba haec in hāc **diē**”.
 
 29 Et **factus** **est** **flētus** magnus in **mediō** ecclēsiae omnium ūnanimiter, et clāmāvērunt ad Dominum Deum vōce **magnā**.
 
-30 Et dīxit ad eōs Oziās: “ Aequō animō **ēstote**, frātrēs, et sustineāmus adhūc diēs quīnque, in quibus convertet Dominus Deus noster misericordiam suam super nōs; nōn enim dērelinquet nōs in cōnsummātiōnem.
+30 Et dīxit ad eōs Oziās: ”Aequō animō **ēstote**, frātrēs, et sustineāmus adhūc diēs quīnque, in quibus convertet Dominus Deus noster misericordiam suam super nōs; nōn enim dērelinquet nōs in cōnsummātiōnem.
 
-31 Sī autem trānsierint istī quīnque diēs, et nōn fuerit super nōs adiūtōrium, faciam secundum verba **vestra** ”.
+31 Sī autem trānsierint istī quīnque diēs, et nōn fuerit super nōs adiūtōrium, faciam secundum verba **vestra**”.
 
 32 Et dispersit plēbem ūnumquemque in **castra** **sua**, et super mūrōs et turrēs cīvitātis abiērunt, et mulierēs et fīliōs in **domūs** suās dīmīsērunt; et erant in **magnā** **humilitāte** valdē.
 
@@ -332,7 +332,7 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 10 Et mittēns abram suam, quae erat super omnia **bona** eius, vocāvit Oziam et Chabrin et Charmin seniōrēs cīvitātis suae.
 
-11 Et vēnērunt ad eam. Et dīxit ad eōs: “ **Audīte** mē, prīncipēs inhabitantium in Betulīā, quoniam nōn **est** rēctum verbum vestrum, quod locūtī **estis** **cōram** plēbe in hāc **diē** et statuistis iūrāmentum istud, quod locūtī **estis** inter Deum et vōs, et dīxistis trāditūrōs vōs cīvitātem inimīcīs nostrīs, sī nōn in illīs diēbus converterit Dominus Deus noster audiutōrium nōbīs.
+11 Et vēnērunt ad eam. Et dīxit ad eōs: ”**Audīte** mē, prīncipēs inhabitantium in Betulīā, quoniam nōn **est** rēctum verbum vestrum, quod locūtī **estis** **cōram** plēbe in hāc **diē** et statuistis iūrāmentum istud, quod locūtī **estis** inter Deum et vōs, et dīxistis trāditūrōs vōs cīvitātem inimīcīs nostrīs, sī nōn in illīs diēbus converterit Dominus Deus noster audiutōrium nōbīs.
 
 12 Et nunc quī **estis** vōs, quī tentāstis Deum in hodiernō **diē** et astitistis prō Deō in **mediō** fīliōrum hominum?
 
@@ -364,23 +364,23 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 26 **Memorēs** **ēstote** **quanta** fēcerit cum Abraham et Isaac, et **quanta** **facta** sint Iācōb in **Mesopotamiā** **Syriae** pāscentī ovēs **Labān** frātris mātris suae.
 
-27 Quia nōn sīcut illōs combussit in inquīsītiōnem **cordis** illōrum et in nōs nōn ultus **est**, sed in monitiōnem flagellat Dominus appropinquantēs sibi ”.
+27 Quia nōn sīcut illōs combussit in inquīsītiōnem **cordis** illōrum et in nōs nōn ultus **est**, sed in monitiōnem flagellat Dominus appropinquantēs sibi”.
 
-28 Et dīxit ad eam Oziās: “ Omnia, quaecumque dīxistī, in bonō **corde** **locūta** **es**, et nōn **est** quī resistat verbīs tuīs,
+28 Et dīxit ad eam Oziās: ”Omnia, quaecumque dīxistī, in bonō **corde** **locūta** **es**, et nōn **est** quī resistat verbīs tuīs,
 
 29 quoniam nōn ex **hodiernā** **diē** **sapientia** **tua** **manifēsta** **est**, sed ab initiō diērum tuōrum scit **omnis** **populus** sēnsum tuum, quoniam **bona** sunt figmenta **cordis** tuī.
 
 30 Sed **populus** sitiit valdē, et coēgērunt nōs sīc facere, ut locūtī sumus eīs, et **indūcere** super nōs iūrāmentum, quod nōn praeteriēmus.
 
-31 Et nunc **ōra** prō nōbīs, et forte exaudiet tē Deus noster, quoniam tū mulier **sānctā** **es**, et dīmittet Dominus pluviam in replētiōnem lacuum nostrōrum, et nōn dēficiēmus iam ”.
+31 Et nunc **ōra** prō nōbīs, et forte exaudiet tē Deus noster, quoniam tū mulier **sānctā** **es**, et dīmittet Dominus pluviam in replētiōnem lacuum nostrōrum, et nōn dēficiēmus iam”.
 
-32 Et dīxit ad eōs Iudith: “ **Audīte** mē, et faciam opus prūdentiae, quod perveniet in generātiōnēs generātiōnum fīliīs **generis** nostrī.
+32 Et dīxit ad eōs Iudith: ”**Audīte** mē, et faciam opus prūdentiae, quod perveniet in generātiōnēs generātiōnum fīliīs **generis** nostrī.
 
 33 Vōs enim stābitis ad portam hāc nocte, et exeam ego cum ābra **mea**, et in diēbus, post quōs dīxistis cīvitātem trāditūrōs vōs inimīcīs nostrīs, vīsitābit Dominus Isrāēl in manū **meā**, sīcut ego fīdō.
 
-34 Vōs autem nōn scrutabitis āctum meum; nōn enim renūntiābō vōbīs, quousque cōnsummentur, quae ego faciō ”.
+34 Vōs autem nōn scrutabitis āctum meum; nōn enim renūntiābō vōbīs, quousque cōnsummentur, quae ego faciō”.
 
-35 Et dīxit Ozīās et prīncipēs ad eam: “ **Vade** in pācem, et Dominus Deus sit ante tē in ultiōnem inimīcōrum nostrōrum ”.
+35 Et dīxit Ozīās et prīncipēs ad eam: ”**Vade** in pācem, et Dominus Deus sit ante tē in ultiōnem inimīcōrum nostrōrum”.
 
 36 Et revertentēs dēscendērunt dē tabernāculō eius et abiērunt ad dispositiōnēs suās.
 
@@ -388,7 +388,7 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 1 Iudith autem prōcidit in faciem suam et imposuit cinerem super caput suum et scidit tunicam suam et dēnūdāvit, quod induerat, cilicium; et, in ipsō quod oblātum erat in Ierusālem in domum Deī incēnsum vespere illō, clāmāvit Iudith vōce **magnā** ad Dominum et dīxit:
 
-2 “ Domine, Deus patris meī Simeōn, cui dedistī in manū gladium in ultiōnem aliēnigenārum, quī solvērunt cingulum virginis in coinquinātiōnem et dēnūdāvērunt **femur** in cōnfūsiōnem et coinquināvērunt mātrīcem in improperium. Dīxistī enim: “Nōn sīc erit!”; et fēcērunt.
+2 ”Domine, Deus patris meī Simeōn, cui dedistī in manū gladium in ultiōnem aliēnigenārum, quī solvērunt cingulum virginis in coinquinātiōnem et dēnūdāvērunt **femur** in cōnfūsiōnem et coinquināvērunt mātrīcem in improperium. Dīxistī enim: “Nōn sīc erit!”; et fēcērunt.
 
 3 Prō quibus dedistī prīncipēs eōrum in occīsiōnem et torum eōrum, quī ērubuit sēductiōne eōrum, sēductum in sanguinem; et percussistī servōs super potentēs et potentēs super thronōs eōrum.
 
@@ -412,7 +412,7 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 13 et dā verbum meum et suāsiōnem in vulnus et līvōrem eōrum, quī adversum testāmentum tuum et domum tuam sānctam et verticem **Sīōn** et domum retentiōnis fīliōrum tuōrum cōgitāvērunt **dūra**.
 
-14 Et fac super omnem gentem tuam et omnem tribum scientiam, ut sciant quoniam tū Deus **es** ūniversae potestātis et **virtūtis**, et nōn **est** **alius** dēfēnsor **generis** Isrāēl praeter tē ”.
+14 Et fac super omnem gentem tuam et omnem tribum scientiam, ut sciant quoniam tū Deus **es** ūniversae potestātis et **virtūtis**, et nōn **est** **alius** dēfēnsor **generis** Isrāēl praeter tē”.
 
 ## 10
 
@@ -430,29 +430,29 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 7 Quī cum vīdissent eam, et erat **mūtāta** faciēs eius, et vestem mūtātam, mīrātī sunt valdē et dīxērunt **eī**:
 
-8 “ Deus patrum nostrōrum det tē in grātiam et cōnsummet cōgitātiōnēs tuās in glōriam fīliōrum Isrāēl et in exaltātiōnem Ierusālem ”.
+8 ”Deus patrum nostrōrum det tē in grātiam et cōnsummet cōgitātiōnēs tuās in glōriam fīliōrum Isrāēl et in exaltātiōnem Ierusālem”.
 
-9 Et prōcidēns in faciem adōrāvit Deum et dīxit ad eōs: “ Praecipite aperīrī portam cīvitātis, et exeam in **cōnsummātiōnen** verbōrum, quae locūtī **estis** mēcum ”. Et cōnstituērunt iuvenibus aperīrī **eī**, sīcut locūtī sunt;
+9 Et prōcidēns in faciem adōrāvit Deum et dīxit ad eōs: ”Praecipite aperīrī portam cīvitātis, et exeam in **cōnsummātiōnen** verbōrum, quae locūtī **estis** mēcum”. Et cōnstituērunt iuvenibus aperīrī **eī**, sīcut locūtī sunt;
 
 10 et fēcērunt sīc. Et exiit Iudith, **ipsa** et **ancillā** eius cum **eā**; et speculābantur eam **virī** cīvitātis, quoadusque dēscendit montem, usquedum trānsiit **convallem**, et iam nōn vidēbant eam.
 
 11 Et ībant in **convallem** in dīrēctum, et obviāvit **eī** **prīma** **cūstōdia** Assyriōrum.
 
-12 Et comprehendērunt eam et interrogāvērunt eam: “ Quōrum **es** et unde **venīs** et quō **vādis**? ”. Dīxitque eīs: “ **Fīlia** sum ego Hebraeōrum et recēdō ā faciē ipsōrum, quoniam incipiunt trādī vōbīs in dēvorātiōnem.
+12 Et comprehendērunt eam et interrogāvērunt eam: ”Quōrum **es** et unde **venīs** et quō **vādis**?”. Dīxitque eīs: ”**Fīlia** sum ego Hebraeōrum et recēdō ā faciē ipsōrum, quoniam incipiunt trādī vōbīs in dēvorātiōnem.
 
-13 Et ego veniō ad faciem Holofernis prīncipis mīlitiae **virtūtis** vestrae, ut renūntiem **eī** verba vēritātis et ostendam ante faciem ipsīus viam, per quam **vadat** et dominētur ūniversae montānae, et nōn discumveniat ex **virīs** eius **carō** **ūna**, nec **spīritus** vītae ”.
+13 Et ego veniō ad faciem Holofernis prīncipis mīlitiae **virtūtis** vestrae, ut renūntiem **eī** verba vēritātis et ostendam ante faciem ipsīus viam, per quam **vadat** et dominētur ūniversae montānae, et nōn discumveniat ex **virīs** eius **carō** **ūna**, nec **spīritus** vītae”.
 
 14 Et, ut audiērunt **virī** verba eius et īnspexērunt faciem eius — et erat in cōnspectū eōrum **mīrābilis** speciē valdē — dīxērunt ad eam:
 
-15 “ Salvāstī animam tuam in bonum festīnāns **dēscendere** ad faciem dominī nostrī. Et nunc accēde ad tabernāculum eius; et ex nostrīs praemittent tē, quousque trādant tē in manibus eius.
+15 ”Salvāstī animam tuam in bonum festīnāns **dēscendere** ad faciem dominī nostrī. Et nunc accēde ad tabernāculum eius; et ex nostrīs praemittent tē, quousque trādant tē in manibus eius.
 
-16 Sī autem **steterīs** in cōnspectū eius, nōlī timēre **corde** tuō, sed renūntiā illī secundum verba **tua**, et **bene** tibi faciet ”.
+16 Sī autem **steterīs** in cōnspectū eius, nōlī timēre **corde** tuō, sed renūntiā illī secundum verba **tua**, et **bene** tibi faciet”.
 
 17 Et ēlēgērunt ex sēipsīs virōs centum et adiūnxērunt **eī** et abrae eius et perdūxērunt eās ad tabernāculum Holofernis.
 
 18 Et **factus** **est** **concursus** in omnibus castrīs; innōtuit enim in tabernāculīs **adventūs** eius. Et vēnērunt et circumdedērunt eam stantem extrā tabernāculum Holofernis, quoadusque nūntiāvērunt **eī** dē **eā**.
 
-19 Et mīrābantur ad speciem eius et percipiēbant verba eius, quia erant **bona** valdē, et laudābant fīliōs Isrāēl propter eam. Et dīxit ūnusquisque ad proximum suum: “ **Quis** contemnet **populum** hunc, quī habet in sē mulierēs tālēs? Quoniam nōn **est** bonum **dērelinquere** **virum** ūnum ex eīs, quī relictī possint dēcipere **tōtam** terram ”.
+19 Et mīrābantur ad speciem eius et percipiēbant verba eius, quia erant **bona** valdē, et laudābant fīliōs Isrāēl propter eam. Et dīxit ūnusquisque ad proximum suum: ”**Quis** contemnet **populum** hunc, quī habet in sē mulierēs tālēs? Quoniam nōn **est** bonum **dērelinquere** **virum** ūnum ex eīs, quī relictī possint dēcipere **tōtam** terram”.
 
 20 Et exiērunt omnēs cubiculāriī Holofernīs et omnēs famulī eius et indūxērunt eam in tabernāculum eius.
 
@@ -464,15 +464,15 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 ## 11
 
-1 Dīxitque ad eam Holofernēs: “ Aequō animō **estō**, mulier, et nōlī **pavēre** **corde** tuō, quoniam ego nōn nocuī **virō** cuicumque placuit servīre Nabuchodonosor **rēgī** tōtīus terrae.
+1 Dīxitque ad eam Holofernēs: ”Aequō animō **estō**, mulier, et nōlī **pavēre** **corde** tuō, quoniam ego nōn nocuī **virō** cuicumque placuit servīre Nabuchodonosor **rēgī** tōtīus terrae.
 
 2 Et nunc plēbs **tua**, quae habitat montānam, **nisi** sprēvissent mē, nōn ēlevāssem lanceam meam super ipsōs, sed sibi ipsī fēcērunt haec.
 
 3 Et nunc dīc mihi: **Quā** ex **causā** recessistī ab eīs et vēnistī ad nōs? Vēnistī enim ad salūtem. Aequō animō **estō**, in hāc nocte vīvēs et deinceps.
 
-4 Nōn enim **est** quī tibi noceat, sed **bene** tibi faciam, sīcut fit servīs dominī meī ”.
+4 Nōn enim **est** quī tibi noceat, sed **bene** tibi faciam, sīcut fit servīs dominī meī”.
 
-5 Et dīxit ad eum Iudith: “ Sūme verba ancillae tuae, et loquātur **ancilla** **tua** ante faciem tuam et nōn nūntiābō mendācium dominō meō in hāc nocte.
+5 Et dīxit ad eum Iudith: ”Sūme verba ancillae tuae, et loquātur **ancilla** **tua** ante faciem tuam et nōn nūntiābō mendācium dominō meō in hāc nocte.
 
 6 Et, sī secūtus **fuerīs** verba ancillae tuae, cōnsummābis omnia in manibus tuīs, quae faciet Deus tēcum, et nōn **excidet** dominus meus dē adinventiōnibus **suīs** quoadusque vīvit.
 
@@ -500,29 +500,29 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 18 Et veniēns indicābō illud tibi, et exiēs in omnī virtūte **tua**, et nōn erit, quī resistat tibi ex eīs.
 
-19 Et addūcam tē per mediam Iūdaeam, usque veniam contrā Ierusālem et pōnam sēdem tuam in **mediō** eius, et addūcēs eōs sīcut ovēs, quibus nōn **est** pāstor. Et nōn muttiet **canis** **linguā** **suā** contrā tē, quoniam haec **dicta** sunt mihi secundum praescientiam meam et **renūntiāta** sunt mihi, et **missa** sum nūntiāre tibi ”.
+19 Et addūcam tē per mediam Iūdaeam, usque veniam contrā Ierusālem et pōnam sēdem tuam in **mediō** eius, et addūcēs eōs sīcut ovēs, quibus nōn **est** pāstor. Et nōn muttiet **canis** **linguā** **suā** contrā tē, quoniam haec **dicta** sunt mihi secundum praescientiam meam et **renūntiāta** sunt mihi, et **missa** sum nūntiāre tibi”.
 
 20 Et placuērunt verba eius **cōram** Holoferne et **cōram** omnibus famulīs eius, et mīrātī sunt in speciē et in **sapientiā** eius et dīxērunt:
 
-21 “ Nōn **est** **tālis** mulier ā summō usque ad summum terrae in speciē faciēī et sēnsū verbōrum ”.
+21 ”Nōn **est** **tālis** mulier ā summō usque ad summum terrae in speciē faciēī et sēnsū verbōrum”.
 
-22 Et dīxit Holofernēs ad eam: “ **Bene** fēcit Deus, quī mīsit tē ante fīliōs **plēbis** tuae, ut fīat in manibus nostrīs virtūs, in eīs autem, quī sprēvērunt dominum meum perditiō.
+22 Et dīxit Holofernēs ad eam: ”**Bene** fēcit Deus, quī mīsit tē ante fīliōs **plēbis** tuae, ut fīat in manibus nostrīs virtūs, in eīs autem, quī sprēvērunt dominum meum perditiō.
 
-23 Et nunc tū **es** **speciōsa** in aspectū et **bona** in verbīs tuīs. Quoniam, sī **fēcerīs** secundum quod **locūta** **es**, Deus tuus erit Deus meus, et tū in domō Nabuchodonosor **rēgis** sedēbis et **eris** **nōmināta** per omnem terram ”.
+23 Et nunc tū **es** **speciōsa** in aspectū et **bona** in verbīs tuīs. Quoniam, sī **fēcerīs** secundum quod **locūta** **es**, Deus tuus erit Deus meus, et tū in domō Nabuchodonosor **rēgis** sedēbis et **eris** **nōmināta** per omnem terram”.
 
 ## 12
 
 1 Et iussit intrōdūcī eam, ubi repōnēbātur argentum ipsīus. Et praecēpit sternī **eī** et dare **eī** ex obsōniīs **suīs** et ex vīnō suō **bibere**.
 
-2 Et dīxit Iudith: “ Nōn mandūcābō ex eīs, nē fīat mihi offēnsiō, sed ex eīs, quae **allāta** sunt, praebēbitur mihi ”.
+2 Et dīxit Iudith: ”Nōn mandūcābō ex eīs, nē fīat mihi offēnsiō, sed ex eīs, quae **allāta** sunt, praebēbitur mihi”.
 
-3 Et dīxit ad eam Holofernēs: “ Sī autem dēfēcerint, quae tēcum sunt, unde afferēmus et dabimus tibi similia eīs? Nōn enim **est** homō nōbīscum ex genere tuō, quī habeat similia ”.
+3 Et dīxit ad eam Holofernēs: ”Sī autem dēfēcerint, quae tēcum sunt, unde afferēmus et dabimus tibi similia eīs? Nōn enim **est** homō nōbīscum ex genere tuō, quī habeat similia”.
 
-4 Dīxitque ad eum Iudith: “ Vīvit **anima** **tua**, domine mī, quoniam nōn impendet **ancilla** **tua**, quae sunt mēcum, quousque faciat Dominus in manū **meā**, quae voluit ”.
+4 Dīxitque ad eum Iudith: ”Vīvit **anima** **tua**, domine mī, quoniam nōn impendet **ancilla** **tua**, quae sunt mēcum, quousque faciat Dominus in manū **meā**, quae voluit”.
 
 5 Et indūxērunt eam servī Holofernis in tabernāculum, et dormīvit usque in mediam noctem. Surrēxitque ante vigiliam mātūtīnam
 
-6 et mīsit ad Holofernēn dīcēns: “ Praecipiat nunc dominus meus permittī ancillam suam exīre ad ōrātiōnem ”.
+6 et mīsit ad Holofernēn dīcēns: ”Praecipiat nunc dominus meus permittī ancillam suam exīre ad ōrātiōnem”.
 
 7 Et praecēpit Holofernēs cūstōdibus **suīs**, nē prohibērent eam. Et permānsit in castrīs trīduum. Et exiēbat per noctem in **vallem** Betuliae et baptīzābat sē in fontem aquae.
 
@@ -532,21 +532,21 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 10 Et factum **est**, in **quārtā** **diē** fēcit Holofernēs cēnam famulīs **suīs** **sōlis** et nēminem eōrum, quī erant super officia, vocāvit ad convīvium.
 
-11 Et dīxit Bagōae spadōnī, quī erat praepositus super omnia ipsīus: “ Vādēns **suādē** mulierī Hebraeae, quae **est** apud tē, ut veniat ad nōs et mandūcet et bibat nōbīscum.
+11 Et dīxit Bagōae spadōnī, quī erat praepositus super omnia ipsīus: ”Vādēns **suādē** mulierī Hebraeae, quae **est** apud tē, ut veniat ad nōs et mandūcet et bibat nōbīscum.
 
-12 Ecce enim turpe **est** in cōnspectū nostrō, ut mulierem tālem dīmittāmus nōn fābulantēs **eī**, quoniam, sī nōn eam **attrāxerimus**, dērīdēbit nōs ”.
+12 Ecce enim turpe **est** in cōnspectū nostrō, ut mulierem tālem dīmittāmus nōn fābulantēs **eī**, quoniam, sī nōn eam **attrāxerimus**, dērīdēbit nōs”.
 
-13 Et exiit Bagōās ā faciē Holofernis et introīvit ad eam et dīxit **eī**: “ Nōn pigeat puellam bonam hanc introeuntem ad dominum meum glōrificārī ante faciem eius et **bibere** nōbīscum vīnum in iūcunditātem et fierī in hodiernō **diē** honōrificam sīcut ūnam fīliārum magnātōrum Assyriae, quae assistunt in domō Nabuchodonosor ”.
+13 Et exiit Bagōās ā faciē Holofernis et introīvit ad eam et dīxit **eī**: ”Nōn pigeat puellam bonam hanc introeuntem ad dominum meum glōrificārī ante faciem eius et **bibere** nōbīscum vīnum in iūcunditātem et fierī in hodiernō **diē** honōrificam sīcut ūnam fīliārum magnātōrum Assyriae, quae assistunt in domō Nabuchodonosor”.
 
-14 Dīxitque ad eum Iudith: “ Et quae sum ego, ut contrādīcam dominō meō? Quoniam omne, quod erit optimum in oculīs eius, festīnāns faciam, et erit **hoc** mihi gaudium usque ad diem **mortis** meae ”.
+14 Dīxitque ad eum Iudith: ”Et quae sum ego, ut contrādīcam dominō meō? Quoniam omne, quod erit optimum in oculīs eius, festīnāns faciam, et erit **hoc** mihi gaudium usque ad diem **mortis** meae”.
 
 15 Et surgēns exōrnāvit sē vestīmentō suō et omnī muliebrī ōrnātū, et praecessit **ancilla** eius et strāvit **eī** contrā Holofernēn in **terrā** **strāgulā**, quae accēperat ā **Bagōā** in cotīdiānum ūsum, ut mandūcāret discumbēns super **eā**.
 
 16 Et introiēns Iudith discubuit. Et obstupuit cor Holofernis in eam, et **commōta** **est** **anima** eius, et erat concupīscēns valdē, ut concumberet cum **eā**; quaerēbatque tempus sēdūcendī eam ex **diē**, quō vīderat illam.
 
-17 Et dīxit ad eam Holofernēs: “ Bibe et **estō** nōbīscum in iūcunditātem ”.
+17 Et dīxit ad eam Holofernēs: ”Bibe et **estō** nōbīscum in iūcunditātem”.
 
-18 Et dīxit Iudith: “ Bibam, domine, quia **magnificāta** **est** **vīta** **mea** in mē hodiē prae omnibus diēbus nātīvitātis meae ”.
+18 Et dīxit Iudith: ”Bibam, domine, quia **magnificāta** **est** **vīta** **mea** in mē hodiē prae omnibus diēbus nātīvitātis meae”.
 
 19 Et accipiēns mandūcāvit et bibit **cōram** illō **ea**, quae praeparāverat ipsī **ancillā** **suā**.
 
@@ -560,13 +560,13 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 3 Et dīxit Iudith ancillae suae, ut stāret extrā cubiculum et observāret exitum eius sīcut cotīdiē; exīre enim sē dīxit ad ōrātiōnem suam, et Bagōae **locūta** **est** secundum verba haec.
 
-4 Discessēruntque omnēs ā faciē, et nēmō **relictus** **est** in cubiculō eius, ā minimō usque ad magnum. Et stāns Iudith ad caput eius dīxit: “ Domine, Domine, Deus omnium virtūtum, respice in hāc **hōrā** ad **opera** manuum meārum, ut exaltētur Ierusālem.
+4 Discessēruntque omnēs ā faciē, et nēmō **relictus** **est** in cubiculō eius, ā minimō usque ad magnum. Et stāns Iudith ad caput eius dīxit: ”Domine, Domine, Deus omnium virtūtum, respice in hāc **hōrā** ad **opera** manuum meārum, ut exaltētur Ierusālem.
 
-5 Quia nunc **est** tempus, ut suscipiās hērēditātem tuam et faciās cōgitātiōnem meam in quassātiōnem inimīcōrum, quī īnsurrēxērunt super nōs ”.
+5 Quia nunc **est** tempus, ut suscipiās hērēditātem tuam et faciās cōgitātiōnem meam in quassātiōnem inimīcōrum, quī īnsurrēxērunt super nōs”.
 
 6 Et accēdēns ad columnam **lēctūs**, quae erat ad caput Holofernis, dēposuit pūgiōnem illīus ab **illā**.
 
-7 Et accēdēns ad **lectum** comprehendit **comam** **capitis** eius et dīxit: “ Deus Isrāēl, cōnfirmā mē, Domine, Deus Isrāēl, in **hōc** **diē** ”.
+7 Et accēdēns ad **lectum** comprehendit **comam** **capitis** eius et dīxit: ”Deus Isrāēl, cōnfirmā mē, Domine, Deus Isrāēl, in **hōc** **diē**”.
 
 8 Et percussit in cervīcem eius bis in virtūte **suā** et abstulit caput eius ab eō.
 
@@ -574,29 +574,29 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 10 et mīsit illud in pēram ēscārum suārum. Et exiērunt ambae simul secundum cōnsuētūdinem suam quasi ad ōrātiōnem. Trānseuntēsque **castra** gȳrāvērunt **tōtam** **vallem** illam et subascendērunt montem Betuliae et vēnērunt ad portās eius.
 
-11 Et dīxit Iudith ā **longē** eīs, quī cūstōdiēbant in portīs: “ Aperīte, aperīte portam! Nōbīscum **est** Deus, Deus noster, ut faciat adhūc virtūtem in Isrāēl et potentiam adversus inimīcōs nostrōs, sīcut et hodiē fēcit ”.
+11 Et dīxit Iudith ā **longē** eīs, quī cūstōdiēbant in portīs: ”Aperīte, aperīte portam! Nōbīscum **est** Deus, Deus noster, ut faciat adhūc virtūtem in Isrāēl et potentiam adversus inimīcōs nostrōs, sīcut et hodiē fēcit”.
 
 12 Et factum **est**, ut audiērunt **virī** cīvitātis **vōcem** eius, festīnāvērunt **dēscendere** ad portam cīvitātis suae et convocāvērunt seniōrēs cīvitātis.
 
 13 Et concurrērunt omnēs ā minimō usque ad magnum, quoniam mīrum erat eīs illam reversam **esse**. Et aperuērunt portam et recēpērunt eās et accendentēs ignem ad lūmen congȳrāvērunt eam.
 
-14 Quae dīxit ad eōs vōce **magnā**: “ **Laudāte** Dominum nostrum, **laudātē**, quia nōn abstulit misericordiam suam ā domō Isrāēl, sed conteruit inimīcōs nostrōs per **manum** meam in hāc nocte ”.
+14 Quae dīxit ad eōs vōce **magnā**: ”**Laudāte** Dominum nostrum, **laudātē**, quia nōn abstulit misericordiam suam ā domō Isrāēl, sed conteruit inimīcōs nostrōs per **manum** meam in hāc nocte”.
 
-15 Et prōferēns caput dē **pērā** **suā** ostendit et dīxit eīs: “ Ecce caput Holofernis prīncipis mīlitiae **virtūtis** Assyriōrum, et ecce conopeum, in quō recumbēbat in ēbrietāte **suā**. Et percussit eum Dominus in manū fēminae.
+15 Et prōferēns caput dē **pērā** **suā** ostendit et dīxit eīs: ”Ecce caput Holofernis prīncipis mīlitiae **virtūtis** Assyriōrum, et ecce conopeum, in quō recumbēbat in ēbrietāte **suā**. Et percussit eum Dominus in manū fēminae.
 
-16 Et vīvit Dominus, quī cūstōdīvit mē in **viā** **meā**, **quā** **profecta** sum, quoniam sēdūxit eum faciēs **mea** in perditiōnem eius, et nōn fēcit peccātum mēcum in coinquinātiōnem et cōnfūsiōnem ”.
+16 Et vīvit Dominus, quī cūstōdīvit mē in **viā** **meā**, **quā** **profecta** sum, quoniam sēdūxit eum faciēs **mea** in perditiōnem eius, et nōn fēcit peccātum mēcum in coinquinātiōnem et cōnfūsiōnem”.
 
-17 Et obstupuit **omnis** **populus** valdē et inclīnantēs sē adōrāvērunt Deum et dīxērunt ūnanimēs: “ Benedictus **es**, Deus noster, quī ad nihilum redēgistī inimīcōs **populī** tuī in **hodiernā** **diē** ”.
+17 Et obstupuit **omnis** **populus** valdē et inclīnantēs sē adōrāvērunt Deum et dīxērunt ūnanimēs: ”Benedictus **es**, Deus noster, quī ad nihilum redēgistī inimīcōs **populī** tuī in **hodiernā** **diē**”.
 
-18 Et dīxit ad eam Oziās: “ **Benedicta** tū **es**, **fīlia**, ā Deō excelsō prae omnibus mulieribus, quae sunt super terram. Et benedictus Dominus Deus noster, quī creāvit caelum et terram, quī dīrēxit tē in vulnus **capitis** prīncipis inimīcōrum nostrōrum.
+18 Et dīxit ad eam Oziās: ”**Benedicta** tū **es**, **fīlia**, ā Deō excelsō prae omnibus mulieribus, quae sunt super terram. Et benedictus Dominus Deus noster, quī creāvit caelum et terram, quī dīrēxit tē in vulnus **capitis** prīncipis inimīcōrum nostrōrum.
 
 19 Quoniam nōn discēdet laus **tua** ā **corde** hominum memorantium **virtūtis** Deī usque in sempiternum.
 
-20 Et faciat tibi **ea** Deus in exaltātiōnem aeternam, ut vīsitet tē in bonīs, prō eō quod nōn pepercistī animae tuae propter humilitātem **generis** nostrī, sed prosilīstī in ruīnam nostram in dīrēctum ambulāns in cōnspectū Deī nostrī ”. Et dīxit **omnis** **populus**: “ Fīat, fīat! ”.
+20 Et faciat tibi **ea** Deus in exaltātiōnem aeternam, ut vīsitet tē in bonīs, prō eō quod nōn pepercistī animae tuae propter humilitātem **generis** nostrī, sed prosilīstī in ruīnam nostram in dīrēctum ambulāns in cōnspectū Deī nostrī”. Et dīxit **omnis** **populus**: ”Fīat, fīat!”.
 
 ## 14
 
-1 Et dīxit Iudith ad illōs: “ **Audīte** mē, frātrēs, et accipientēs caput **hoc** suspendite illud super prōpugnāculum mūrī nostrī.
+1 Et dīxit Iudith ad illōs: ”**Audīte** mē, frātrēs, et accipientēs caput **hoc** suspendite illud super prōpugnāculum mūrī nostrī.
 
 2 Et, cum **aurōrā** illūxerit, et exierit sōl super terram, accipite ūnusquisque vāsa **bellica** **vestra** et exiētis **omnis** vir potēns extrā cīvitātem et dabitis initium adversus eōs tamquam dēscendentēs in campum ad prīmam cūstōdiam fīliōrum Assyriae; et nōn dēscendētis.
 
@@ -604,13 +604,13 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 4 Et subsecūtī vōs et omnēs, quī incolunt omnem fīnem Isrāēl, prōsternite illōs in viīs illōrum.
 
-5 Ante autem quam faciātis **ista**, **vocātē** mihi Achior Ammoniten, ut vidēns recognōscat eum, quī vituperāvit domum Isrāēl et ipsum quasi in mortem mīsit ad nōs ”.
+5 Ante autem quam faciātis **ista**, **vocātē** mihi Achior Ammoniten, ut vidēns recognōscat eum, quī vituperāvit domum Isrāēl et ipsum quasi in mortem mīsit ad nōs”.
 
 6 Et vocāvērunt Achior dē domō Oziae, quī, ut **vēnit** et vīdit caput Holofernis in manū **virī** ūnīus in **ecclēsiā** **populī**, **cecidit** in faciem, et resolūtus **est** **spīritus** ipsīus.
 
-7 Ut autem resuscitāvērunt eum, prōcidit ad **pedēs** Iudith et adōrāvit faciem ipsīus et dīxit: “ **Benedicta** tū in omnī tabernāculō Iūdae et in omnī gente, quīcumque audientēs **nōmen** tuum turbābuntur.
+7 Ut autem resuscitāvērunt eum, prōcidit ad **pedēs** Iudith et adōrāvit faciem ipsīus et dīxit: ”**Benedicta** tū in omnī tabernāculō Iūdae et in omnī gente, quīcumque audientēs **nōmen** tuum turbābuntur.
 
-8 Et nunc annūntiā mihi, quaecumque fēcistī in diēbus istīs ”. Et rettulit illī Iudith in **mediō** **populī** omnia, quaecumque fēcerat, ex **quā** **diē** exīvit usque in diem, **qua** loquēbātur illīs.
+8 Et nunc annūntiā mihi, quaecumque fēcistī in diēbus istīs”. Et rettulit illī Iudith in **mediō** **populī** omnia, quaecumque fēcerat, ex **quā** **diē** exīvit usque in diem, **qua** loquēbātur illīs.
 
 9 Ut autem dēsiit loquī, exsultāvit **omnis** **populus** vōce **magnā** et **dedit** **vōcem** iūcunditātis in cīvitāte **suā**.
 
@@ -620,7 +620,7 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 12 Fīliī autem Assyriae, ut vīdērunt illōs, mīsērunt ad praepositōs suōs, et illī vēnērunt ad **ducēs** et ad tribūnōs et ad omnēs prīncipēs suōs.
 
-13 Et vēnērunt ad tabernāculum Holofernis et dīxērunt Bagōae, quī erat super omnia eius: “ Suscitā dominum nostrum, quoniam ausī sunt Iūdaeī **dēscendere** ad nōs in bellum, ut pereant usque ad fīnem ”.
+13 Et vēnērunt ad tabernāculum Holofernis et dīxērunt Bagōae, quī erat super omnia eius: ”Suscitā dominum nostrum, quoniam ausī sunt Iūdaeī **dēscendere** ad nōs in bellum, ut pereant usque ad fīnem”.
 
 14 Introīvitque Bagōās et pulsāvit cortīnam; suspicābātur enim illum cum Iudith dormīre.
 
@@ -630,7 +630,7 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 17 Et intrāvit in tabernāculum, ubi Iudith fuerat **hospitāta**, et nōn **invenit** eam. Et exsilīvit ad **populum** et clāmāvit:
 
-18 “**Inīque** gessērunt servī! Fēcit cōnfūsiōnem **ūna** mulier Hebraeōrum in domum **rēgis** Nabuchodonosor, quoniam ecce Holofernēs in **terrā**, et caput ipsīus nōn **est** in illō! ”.
+18 “**Inīque** gessērunt servī! Fēcit cōnfūsiōnem **ūna** mulier Hebraeōrum in domum **rēgis** Nabuchodonosor, quoniam ecce Holofernēs in **terrā**, et caput ipsīus nōn **est** in illō!”.
 
 19 Ut autem audiērunt verba haec, prīncipēs **virtūtis** Assyriae scidērunt tunicās suās, et **conturbāta** **est** **anima** eōrum valdē, et **factus** **est** clāmor et **ululātus** magnus in **mediō** castrōrum.
 
@@ -652,9 +652,9 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 8 Et **venit** Ioachim sacerdōs magnus et seniōrēs fīliōrum Isrāēl, quī inhabitābant Ierusālem, ut vidērent **bona**, quae fēcit Dominus Isrāēl, et ut vidērent Iudith et loquerentur cum **illā** in pāce.
 
-9 Et, ut exiit ad illōs Iudith, benedīxērunt simul eam omnēs et dīxērunt ad illam: “ Tū exaltātiō Ierusalem, tū **glōria** **magna** Isrāēl, tū laus **magna** **generis** nostrī.
+9 Et, ut exiit ad illōs Iudith, benedīxērunt simul eam omnēs et dīxērunt ad illam: ”Tū exaltātiō Ierusalem, tū **glōria** **magna** Isrāēl, tū laus **magna** **generis** nostrī.
 
-10 Fēcistī omnia haec in manū **tuā**, fēcistī **bona** cum Isrāēl, et complacuit in illīs Deus. **Benedicta** **estō** tū, mulier, apud Deum omnipotentem in aeternum tempus ”. Et dīxit **omnis** **populus**: “ Fīat, fīat! ”.
+10 Fēcistī omnia haec in manū **tuā**, fēcistī **bona** cum Isrāēl, et complacuit in illīs Deus. **Benedicta** **estō** tū, mulier, apud Deum omnipotentem in aeternum tempus”. Et dīxit **omnis** **populus**: ”Fīat, fīat!”.
 
 11 Et exspoliāvit **populus** **castra** per diēs trīgintā, et dedērunt Iudith tabernāculum Holofernis et omne argentum et **lēctūs** et vāsa et omnem apparātum illīus. Et accipiēns **illa** imposuit in mūlās et iūnxit **currūs** suōs et congessit **illa** in ipsīs.
 
@@ -668,7 +668,7 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 1 Dīxitque Iudith:
 
-“ Incipite Deō meō in tympanīs,
+”Incipite Deō meō in tympanīs,
 
 **cantātē** Dominō meō in cymbalīs,
 
@@ -778,7 +778,7 @@ in **diē** iūdiciī vīsitābit eōs,
 
 ut det ignem et vermēs in carnēs eōrum,
 
-et combūrentur, ut sentiant usque in aeternum ”.
+et combūrentur, ut sentiant usque in aeternum”.
 
 18 Ut autem vēnērunt in Ierusālem, adōrāvērunt Deum; et, postquam mundātus **est** **populus**, rettulērunt holocaustum Dominō et **voluntāria** **sua** et **mūnera**.
 

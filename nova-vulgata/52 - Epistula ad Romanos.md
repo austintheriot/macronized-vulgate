@@ -36,7 +36,7 @@
 
 16 Nōn enim ērubēscō ēvangelium: virtūs enim Deī **est** in salūtem omnī crēdentī, Iūdaeō prīmum et Graecō.
 
-17 **Iūstitia** enim Deī in eō revēlātur ex **fide** in fidem, sīcut scrīptum **est**: “ Iūstus autem ex **fide** vīvet ”.
+17 **Iūstitia** enim Deī in eō revēlātur ex **fide** in fidem, sīcut scrīptum **est**: ”Iūstus autem ex **fide** vīvet”.
 
 18 Revēlātur enim **īra** Deī dē caelō super omnem impietātem et iniūstitiam hominum, quī vēritātem in **iniūstitiā** dētinent,
 
@@ -116,7 +116,7 @@
 
 23 Quī in **lēge** **glōriārīs**, per praevāricātiōnem **lēgis** Deum inhonōrās?
 
-24 “ **Nōmen** enim Deī propter vōs blasphēmātur inter gentēs ”, sīcut scrīptum **est**.
+24 ”**Nōmen** enim Deī propter vōs blasphēmātur inter gentēs”, sīcut scrīptum **est**.
 
 25 Circumcīsiō quidem prōdest, sī lēgem observēs; sī autem praevāricātor **lēgis** sīs, circumcīsiō **tua** praepūtium **facta** **est**.
 
@@ -136,7 +136,7 @@
 
 3 Quid enim, sī quīdam nōn crēdidērunt? Numquid incrēdulitās illōrum fidem Deī ēvacuābit?
 
-4 Absit! Exstet autem Deus vērāx, **omnis** autem homō mendāx, sīcut scrīptum **est**: “ Ut iustificēris in sermōnibus tuīs et vincās cum **iūdicārīs** ”.
+4 Absit! Exstet autem Deus vērāx, **omnis** autem homō mendāx, sīcut scrīptum **est**: ”Ut iustificēris in sermōnibus tuīs et vincās cum **iūdicārīs**”.
 
 5 Sī autem **iniūstitiā** **nostrā** iūstitiam Deī commendat, quid **dicēmus**? Numquid iniūstus Deus, quī īnfert īram? Secundum hominem **dīcō**.
 
@@ -144,13 +144,13 @@
 
 7 Sī enim **vēritās** Deī in meō mendāciō abundāvit in glōriam ipsīus, quid adhūc et ego tamquam peccātor iūdicor?
 
-8 Et nōn, sīcut blasphēmāmur, et sīcut aiunt quīdam nōs **dīcere**: “ Faciāmus **mala**, ut veniant **bona** ”? Quōrum damnātiō **iūsta** **est**.
+8 Et nōn, sīcut blasphēmāmur, et sīcut aiunt quīdam nōs **dīcere**: ”Faciāmus **mala**, ut veniant **bona**”? Quōrum damnātiō **iūsta** **est**.
 
 9 Quid igitur? Praecellimus eōs? Nēquāquam! Anteā enim causātī sumus Iūdaeōs et Graecōs omnēs sub peccātō **esse**,
 
 10 sīcut scrīptum **est**:
 
-“ Nōn **est** iūstus quisquam,
+”Nōn **est** iūstus quisquam,
 
 11 nōn **est** intellegēns, nōn **est** requīrēns Deum.
 
@@ -172,7 +172,7 @@ venēnum aspidum sub labiīs eōrum,
 
 17 et viam **pācis** nōn cognōvērunt.
 
-18 Nōn **est** timor Deī ante oculōs eōrum ”.
+18 Nōn **est** timor Deī ante oculōs eōrum”.
 
 19 Scīmus autem quoniam, quaecumque lēx loquitur, hīs, quī in **lēge** sunt, loquitur, ut omne **os** obstruātur, et obnoxius fīat **omnis** mundus Deō;
 
@@ -206,7 +206,7 @@ venēnum aspidum sub labiīs eōrum,
 
 2 Sī enim Abraham ex operibus **iustificātus** **est**, habet glōriam sed nōn apud Deum.
 
-3 Quid enim **Scrīptūra** dīcit? “ Crēdidit autem Abraham Deō, et reputātum **est** illī ad iūstitiam ”.
+3 Quid enim **Scrīptūra** dīcit? ”Crēdidit autem Abraham Deō, et reputātum **est** illī ad iūstitiam”.
 
 4 **Ēī** autem, quī operātur, mercēs nōn reputātur secundum grātiam sed secundum dēbitum;
 
@@ -214,13 +214,13 @@ venēnum aspidum sub labiīs eōrum,
 
 6 sīcut et Dāvīd dīcit beātitūdinem hominis, cui Deus reputat iūstitiam **sine** operibus:
 
-7 “ Beātī, quōrum remissae sunt inīquitātēs,
+7 ”Beātī, quōrum remissae sunt inīquitātēs,
 
 et quōrum **tēcta** sunt **peccāta**.
 
-8 Beātus vir, cui nōn imputābit Dominus peccātum ”.
+8 Beātus vir, cui nōn imputābit Dominus peccātum”.
 
-9 Beātitūdō ergō haec in circumcīsiōne an etiam in praepūtiō? Dīcimus enim: “ **Reputāta** **est** Abrahae **fidēs** ad iūstitiam ”.
+9 Beātitūdō ergō haec in circumcīsiōne an etiam in praepūtiō? Dīcimus enim: ”**Reputāta** **est** Abrahae **fidēs** ad iūstitiam”.
 
 10 Quōmodo ergō **reputāta** **est**? In circumcīsiōne an in praepūtiō? Nōn in circumcīsiōne sed in praepūtiō:
 
@@ -236,9 +236,9 @@ et quōrum **tēcta** sunt **peccāta**.
 
 16 Ideō ex **fide**, ut secundum grātiam, ut **firma** sit prōmissiō omnī sēminī, nōn **eī**, quī ex **lēge** **est** **solum**, sed et **eī**, quī ex **fide** **est** Abrahae — quī **est** pater omnium nostrum,
 
-17 sīcut scrīptum **est**: “ Patrem multārum gentium posuī tē ” C, ante Deum, cui crēdidit, quī vīvificat mortuōs et vocat **ea**, quae nōn sunt, quasi sint;
+17 sīcut scrīptum **est**: ”Patrem multārum gentium posuī tē” C, ante Deum, cui crēdidit, quī vīvificat mortuōs et vocat **ea**, quae nōn sunt, quasi sint;
 
-18 quī contrā spem in spē crēdidit, ut fieret pater multārum gentium, secundum quod dictum **est**: “ Sīc erit sēmen tuum ”.
+18 quī contrā spem in spē crēdidit, ut fieret pater multārum gentium, secundum quod dictum **est**: ”Sīc erit sēmen tuum”.
 
 19 Et nōn īnfirmātus **fide** cōnsīderāvit corpus suum iam ēmortuum, cum **ferē** centum annōrum **esset**, et ēmortuam vulvam Sarae;
 
@@ -360,7 +360,7 @@ et quōrum **tēcta** sunt **peccāta**.
 
 6 nunc autem solūtī sumus ā **lēge**, mortuī **eī**, in **quā** dētinēbāmur, **ita** ut serviāmus in novitāte **Spīritus** et nōn in vetustāte litterae.
 
-7 Quid ergō **dicēmus**? Lēx peccātum **est**? Absit! Sed peccātum nōn cognōvī, **nisi** per lēgem; nam concupiscentiam nescīrem, **nisi** lēx dīceret: “ Nōn concupīscēs ”.
+7 Quid ergō **dicēmus**? Lēx peccātum **est**? Absit! Sed peccātum nōn cognōvī, **nisi** per lēgem; nam concupiscentiam nescīrem, **nisi** lēx dīceret: ”Nōn concupīscēs”.
 
 8 Occāsiōne autem **acceptā**, peccātum per mandātum operātum **est** in mē omnem concupiscentiam; **sine** **lēge** enim peccātum mortuum erat.
 
@@ -428,7 +428,7 @@ et quōrum **tēcta** sunt **peccāta**.
 
 14 Quīcumque enim Spīritū Deī aguntur, hī fīliī Deī sunt.
 
-15 Nōn enim accēpistis spīritum **servitūtis** iterum in timōrem, sed accēpistis Spīritum adoptiōnis fīliōrum, in quō clāmāmus: “ **Abbā**, Pater! ”.
+15 Nōn enim accēpistis spīritum **servitūtis** iterum in timōrem, sed accēpistis Spīritum adoptiōnis fīliōrum, in quō clāmāmus: ”**Abbā**, Pater!”.
 
 16 Ipse **Spīritus** testimōnium reddit **ūna** cum spīritū nostrō, quod sumus fīliī Deī.
 
@@ -472,9 +472,9 @@ et quōrum **tēcta** sunt **peccāta**.
 
 36 Sīcut scrīptum **est**:
 
-“ Propter tē mortificāmur **tōtā** **diē**,
+”Propter tē mortificāmur **tōtā** **diē**,
 
-aestimātī sumus ut ovēs occīsiōnis ”.
+aestimātī sumus ut ovēs occīsiōnis”.
 
 37 Sed in hīs omnibus supervincimus per eum, quī dīlēxit nōs.
 
@@ -496,33 +496,33 @@ aestimātī sumus ut ovēs occīsiōnis ”.
 
 6 Nōn autem quod **exciderit** verbum Deī. Nōn enim omnēs, quī ex Isrāēl, hī sunt Isrāēl;
 
-7 neque quia sēmen sunt Abrahae, omnēs fīliī, sed: “ In Isaac vocābitur tibi sēmen ”.
+7 neque quia sēmen sunt Abrahae, omnēs fīliī, sed: ”In Isaac vocābitur tibi sēmen”.
 
 8 Id **est**, nōn quī fīliī **carnis**, hī fīliī Deī, sed quī fīliī sunt prōmissiōnis, aestimantur sēmen;
 
-9 prōmissiōnis enim verbum **hoc** **est**: “ Secundum **hoc** tempus veniam, et erit Sarae fīlius ”.
+9 prōmissiōnis enim verbum **hoc** **est**: ”Secundum **hoc** tempus veniam, et erit Sarae fīlius”.
 
 10 Nōn **sōlum** autem, sed et Rebecca ex ūnō concubitum habēns, Isaac patre nostrō;
 
 11 cum enim nōndum **nātī** fuissent aut aliquid ēgissent bonum aut **mālum**, ut secundum ēlēctiōnem prōpositum Deī manēret,
 
-12 nōn ex operibus sed ex vocante dictum **est** **eī**: “ Maior serviet minōrī ”;
+12 nōn ex operibus sed ex vocante dictum **est** **eī**: ”Maior serviet minōrī”;
 
-13 sīcut scrīptum **est**: “ Iācōb dīlēxī, Esau autem **odiō** habuī ”.
+13 sīcut scrīptum **est**: ”Iācōb dīlēxī, Esau autem **odiō** habuī”.
 
 14 Quid ergō **dicēmus**? Numquid **iniūstitia** apud Deum? Absit!
 
-15 Moysī enim dīcit: “ Miserēbor, cuius misereor, et misericordiam praestābō, cui misericordiam praestō ”.
+15 Moysī enim dīcit: ”Miserēbor, cuius misereor, et misericordiam praestābō, cui misericordiam praestō”.
 
 16 Igitur nōn **volentīs** neque **currentīs** sed **miserentīs** Deī.
 
-17 Dīcit enim **Scrīptūra** pharaōnī: “ In **hōc** ipsum excitāvī tē, ut ostendam in tē virtūtem meam, et ut annūntiētur **nōmen** meum in **ūniversā** **terrā** ”.
+17 Dīcit enim **Scrīptūra** pharaōnī: ”In **hōc** ipsum excitāvī tē, ut ostendam in tē virtūtem meam, et ut annūntiētur **nōmen** meum in **ūniversā** **terrā**”.
 
 18 Ergō, cuius vult, miserētur et, quem vult, indūrat.
 
-19 **Dīcēs** itaque mihi: “ Quid ergō adhūc queritur? Voluntātī enim eius **quis** restitit? ”.
+19 **Dīcēs** itaque mihi: ”Quid ergō adhūc queritur? Voluntātī enim eius **quis** restitit?”.
 
-20 Ō homō, sed tū **quis** **es**, quī respondeās Deō? Numquid **dīcet** figmentum **eī**, quī sē fīnxit: “ Quid mē fēcistī sīc? ”.
+20 Ō homō, sed tū **quis** **es**, quī respondeās Deō? Numquid **dīcet** figmentum **eī**, quī sē fīnxit: ”Quid mē fēcistī sīc?”.
 
 21 An nōn habet potestātem figulus **lutī** ex **eādem** **massā** facere aliud quidem **vās** in honōrem, aliud vērō in ignōminiam?
 
@@ -534,7 +534,7 @@ aestimātī sumus ut ovēs occīsiōnis ”.
 
 25 Sīcut et in Osee dīcit:
 
-“ Vocābō Nōn plēbem meam Plēbem meam
+”Vocābō Nōn plēbem meam Plēbem meam
 
 et Nōn dīlēctam Dīlēctam.
 
@@ -542,19 +542,19 @@ et Nōn dīlēctam Dīlēctam.
 
 “Nōn plēbs **mea** vōs”,
 
-ibi vocābuntur Fīliī Deī vīvī ”.
+ibi vocābuntur Fīliī Deī vīvī”.
 
-27 Īsaiās autem clāmat prō Isrāēl: “ Sī fuerit numerus fīliōrum Isrāēl tamquam **arēna** **maris**, reliquiae salvae fīent.
+27 Īsaiās autem clāmat prō Isrāēl: ”Sī fuerit numerus fīliōrum Isrāēl tamquam **arēna** **maris**, reliquiae salvae fīent.
 
-28 Verbum enim cōnsummāns et breviāns faciet Dominus super terram ”.
+28 Verbum enim cōnsummāns et breviāns faciet Dominus super terram”.
 
 29 Et sīcut praedīxit Īsaiās:
 
-“ **Nīsī** Dominus Sabaoth relīquisset nōbīs sēmen,
+”**Nīsī** Dominus Sabaoth relīquisset nōbīs sēmen,
 
 sīcut **Sodomā** factī **essēmus**
 
-et sīcut **Gomorrā** similēs fuissēmus ”.
+et sīcut **Gomorrā** similēs fuissēmus”.
 
 30 Quid ergō **dicēmus**? Quod gentēs, quae nōn sectābantur iūstitiam, apprehendērunt iūstitiam, iūstitiam autem, quae ex **fide** **est**;
 
@@ -564,9 +564,9 @@ et sīcut **Gomorrā** similēs fuissēmus ”.
 
 33 sīcut scrīptum **est**:
 
-“ Ecce pōnō in **Sīōn** lapidem offēnsiōnis et petram scandalī;
+”Ecce pōnō in **Sīōn** lapidem offēnsiōnis et petram scandalī;
 
-et, quī crēdit in eō, nōn cōnfundētur ”.
+et, quī crēdit in eō, nōn cōnfundētur”.
 
 ## 10
 
@@ -578,21 +578,21 @@ et, quī crēdit in eō, nōn cōnfundētur ”.
 
 4 **fīnis** enim **lēgis** Chrīstus ad iūstitiam omnī crēdentī.
 
-5 Moȳsēs[\*][moyses] enim scrībit dē **iūstitiā**, quae ex **lēge** **est**: “ Quī fēcerit homō, vīvet in eīs ”.
+5 Moȳsēs[\*][moyses] enim scrībit dē **iūstitiā**, quae ex **lēge** **est**: ”Quī fēcerit homō, vīvet in eīs”.
 
-6 Quae autem ex **fide** **est** **iūstitiā**, sīc dīcit: “ Nē **dīxerīs** in **corde** tuō: **Quis** ascendet in caelum?”, id **est** Chrīstum **dēdūcere**;
+6 Quae autem ex **fide** **est** **iūstitiā**, sīc dīcit: ”Nē **dīxerīs** in **corde** tuō: **Quis** ascendet in caelum?”, id **est** Chrīstum **dēdūcere**;
 
-7 aut: “ **Quis** dēscendet in abyssum? ”, **hoc** **est** Chrīstum ex mortuīs revocāre.
+7 aut: ”**Quis** dēscendet in abyssum?”, **hoc** **est** Chrīstum ex mortuīs revocāre.
 
-8 Sed quid dīcit? “ Prope tē **est** verbum, in ōre tuō et in **corde** tuō ”; **hoc** **est** verbum fideī, quod **praedicāmus**.
+8 Sed quid dīcit? ”Prope tē **est** verbum, in ōre tuō et in **corde** tuō”; **hoc** **est** verbum fideī, quod **praedicāmus**.
 
-9 Quia sī cōnfiteāris in ōre tuō: “ Dominum **Iēsum**! ”, et in **corde** tuō **crēdiderīs** quod Deus illum excitāvit ex mortuīs, salvus **eris**.
+9 Quia sī cōnfiteāris in ōre tuō: ”Dominum **Iēsum**!”, et in **corde** tuō **crēdiderīs** quod Deus illum excitāvit ex mortuīs, salvus **eris**.
 
 10 **Cordē** enim crēditur ad iūstitiam, ōre autem cōnfessiō fit in salūtem.
 
 11 Dīcit enim **Scrīptūra**:
 
-“ **Omnis**, quī crēdit in illō, nōn cōnfundētur ”.
+”**Omnis**, quī crēdit in illō, nōn cōnfundētur”.
 
 12 Nōn enim **est** distīnctiō Iūdaeī et Graecī, nam **īdem** Dominus omnium, dīves in omnēs, quī invocant illum:
 
@@ -602,11 +602,11 @@ et, quī crēdit in eō, nōn cōnfundētur ”.
 
 15 Quōmodo vērō praedicābunt **nisi** mittantur? Sīcut scrīptum **est**:
 
-“ Quam speciōsī **pedēs** ēvangelīzantium **bona** ”.
+”Quam speciōsī **pedēs** ēvangelīzantium **bona**”.
 
 16 Sed nōn omnēs oboediērunt ēvangeliō; Īsaiās enim dīcit:
 
-“ Domine, **quis** crēdidit audītuī nostrō? ”.
+”Domine, **quis** crēdidit audītuī nostrō?”.
 
 17 Ergō **fidēs** ex audītū, **audītus** autem per verbum Chrīstī.
 
@@ -618,13 +618,13 @@ et in fīnēs **orbis** terrae verba eōrum.
 
 19 Sed **dīcō**: Numquid Isrāēl nōn cognōvit? Prīmus Moȳsēs[\*][moyses] dīcit:
 
-“ Ego ad aemulātiōnem vōs addūcam per Nōn gentem:
+”Ego ad aemulātiōnem vōs addūcam per Nōn gentem:
 
-per gentem īnsipientem ad īram vōs prōvocābō ”.
+per gentem īnsipientem ad īram vōs prōvocābō”.
 
-20 Īsaiās autem audet et dīcit: “ **Inventus** sum in nōn quaerentibus mē; **palam** appāruī hīs, quī mē nōn interrogābant ”.
+20 Īsaiās autem audet et dīcit: ”**Inventus** sum in nōn quaerentibus mē; **palam** appāruī hīs, quī mē nōn interrogābant”.
 
-21 Ad Isrāēl autem dīcit: “ **Tōtā** **diē** expandī **manūs** meās ad **populum** nōn crēdentem et contrādīcentem ”.
+21 Ad Isrāēl autem dīcit: ”**Tōtā** **diē** expandī **manūs** meās ad **populum** nōn crēdentem et contrādīcentem”.
 
 ## 11
 
@@ -632,11 +632,11 @@ per gentem īnsipientem ad īram vōs prōvocābō ”.
 
 2 Nōn reppulit Deus plēbem suam, quam praescīvit. An **nescītis** in **Eliā** quid dīcit **Scrīptūra**? Quemadmodum interpellat Deum adversus Isrāēl:
 
-3 “ Domine, prophētās tuōs **occīdērunt**, altāria **tua** suffōdērunt, et ego **relictus** sum **sōlus**, et quaerunt animam meam ”.
+3 ”Domine, prophētās tuōs **occīdērunt**, altāria **tua** suffōdērunt, et ego **relictus** sum **sōlus**, et quaerunt animam meam”.
 
 4 Sed quid dīcit illī respōnsum dīvīnum?
 
-“ **Relīquī** mihi septem **mīlia** **virōrum**, quī nōn curvāvērunt **genū** Baal ”.
+”**Relīquī** mihi septem **mīlia** **virōrum**, quī nōn curvāvērunt **genū** Baal”.
 
 5 Sīc ergō et in **hōc** tempore reliquiae secundum ēlēctiōnem grātiae factae sunt. 6 Sī autem **grātia**, iam nōn ex operibus, aliōquīn **grātia** iam nōn **est** **grātia**.
 
@@ -644,23 +644,23 @@ per gentem īnsipientem ad īram vōs prōvocābō ”.
 
 8 sīcut scrīptum **est**:
 
-“ **Dēdit** illīs Deus spīritum **sopōris**,
+”**Dēdit** illīs Deus spīritum **sopōris**,
 
 oculōs, ut nōn videant,
 
 et aurēs, ut nōn audiant,
 
-usque in hodiernum diem ”.
+usque in hodiernum diem”.
 
 9 Et Dāvīd dīcit:
 
-“ Fīat **mēnsā** eōrum in laqueum et in captiōnem
+”Fīat **mēnsā** eōrum in laqueum et in captiōnem
 
 et in scandalum et in retribūtiōnem illīs.
 
 10 Obscūrentur oculī eōrum, nē videant,
 
-et dorsum illōrum semper **incurvā**! ”.
+et dorsum illōrum semper **incurvā**!”.
 
 11 **Dīcō** ergō: Numquid sīc offendērunt, ut caderent? Absit! Sed illōrum cāsū salūs gentibus, ut illī ad aemulātiōnem addūcantur.
 
@@ -678,7 +678,7 @@ et dorsum illōrum semper **incurvā**! ”.
 
 18 nōlī glōriārī adversus rāmōs; quod sī **glōriārīs**, nōn tū rādīcem portās, sed rādīx tē.
 
-19 **Dīcēs** ergō: “ Frāctī sunt rāmī, ut ego īnserar ”.
+19 **Dīcēs** ergō: ”Frāctī sunt rāmī, ut ego īnserar”.
 
 20 **Bene**; incrēdulitāte frāctī sunt, tū autem **fide** stās. Nōlī altum sapere, sed timē:
 
@@ -694,13 +694,13 @@ et dorsum illōrum semper **incurvā**! ”.
 
 26 et sīc **omnis** Isrāēl salvus fīet, sīcut scrīptum **est**:
 
-“ Veniet ex **Sīōn**, quī ēripiat,
+”Veniet ex **Sīōn**, quī ēripiat,
 
 āvertet impietātēs ab Iācōb;
 
 27 et **hoc** illīs ā mē testāmentum,
 
-cum abstulerō **peccāta** eōrum ”.
+cum abstulerō **peccāta** eōrum”.
 
 28 Secundum ēvangelium quidem inimīcī propter vōs, secundum ēlēctiōnem autem cārissimī propter patrēs;
 
@@ -762,7 +762,7 @@ et retribuētur **eī**?
 
 18 sī fierī potest, quod ex vōbīs **est**, cum omnibus hominibus pācem habentēs;
 
-19 nōn vōsmetipsōs vindicantēs, cārissimī, sed **date** locum īrae, scrīptum **est** enim: “ Mihi **vindicta**, ego retribuam ”, dīcit Dominus.
+19 nōn vōsmetipsōs vindicantēs, cārissimī, sed **date** locum īrae, scrīptum **est** enim: ”Mihi **vindicta**, ego retribuam”, dīcit Dominus.
 
 20 Sed sī ēsurierit inimīcus tuus, cibā illum; sī sitit, pōtum dā illī. **Hoc** enim faciēns, carbōnēs **ignis** congerēs super caput eius.
 
@@ -820,11 +820,11 @@ et retribuētur **eī**?
 
 11 scrīptum **est** enim:
 
-“ Vīvō ego, dīcit Dominus,
+”Vīvō ego, dīcit Dominus,
 
 mihi flectētur omne **genu**,
 
-et **omnis** **lingua** cōnfitēbitur Deō ”.
+et **omnis** **lingua** cōnfitēbitur Deō”.
 
 12 Itaque ūnusquisque nostrum prō sē ratiōnem reddet Deō.
 
@@ -856,7 +856,7 @@ et **omnis** **lingua** cōnfitēbitur Deō ”.
 
 2 Ūnusquisque nostrum proximō placeat in bonum ad aedificātiōnem;
 
-3 etenim Chrīstus nōn sibi placuit, sed sīcut scrīptum **est**: “ Improperia improperantium tibi **cecidērunt** super mē ”.
+3 etenim Chrīstus nōn sibi placuit, sed sīcut scrīptum **est**: ”Improperia improperantium tibi **cecidērunt** super mē”.
 
 4 Quaecumque enim anteā **scrīpta** sunt, ad nostram doctrīnam **scrīpta** sunt, ut per patientiam et cōnsōlātiōnem Scrīptūrārum spem habeāmus.
 
@@ -870,23 +870,23 @@ et **omnis** **lingua** cōnfitēbitur Deō ”.
 
 9 gentēs autem propter misericordiam glōrificāre Deum, sīcut scrīptum **est**:
 
-“ Propter **hoc** cōnfitēbor tibi in gentibus et nōminī tuō cantābō ”.
+”Propter **hoc** cōnfitēbor tibi in gentibus et nōminī tuō cantābō”.
 
-10 Et iterum dīcit: “ Laetāminī, gentēs, cum plēbe eius ”.
+10 Et iterum dīcit: ”Laetāminī, gentēs, cum plēbe eius”.
 
 11 Et iterum:
 
-“ **Laudāte**, omnēs gentēs, Dominum,
+”**Laudāte**, omnēs gentēs, Dominum,
 
-et magnificent eum omnēs **populī** ”.
+et magnificent eum omnēs **populī**”.
 
 12 Et rūrsus Īsaiās ait:
 
-“ Erit rādīx Iesse,
+”Erit rādīx Iesse,
 
 et quī exsurget **regere** gentēs:
 
-in eō gentēs spērābunt ”.
+in eō gentēs spērābunt”.
 
 13 Deus autem speī repleat vōs omnī gaudiō et pāce in crēdendō, ut abundētis in spē in virtūte **Spīritus** Sānctī.
 
@@ -906,9 +906,9 @@ in eō gentēs spērābunt ”.
 
 21 sed sīcut scrīptum **est**:
 
-“ Quibus nōn **est** annūntiātum dē eō, vidēbunt;
+”Quibus nōn **est** annūntiātum dē eō, vidēbunt;
 
-et, quī nōn audiērunt, intellegent ”.
+et, quī nōn audiērunt, intellegent”.
 
 22 Propter quod et impediēbar plūrimum venīre ad vōs;
 

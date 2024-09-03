@@ -48,7 +48,7 @@
 
 22 Eram autem ignōtus faciē ecclēsiīs Iūdaeae, quae sunt in Chrīstō;
 
-23 tantum autem audītum habēbant: “ Quī persequēbātur nōs aliquandō, nunc ēvangelīzat fidem, quam aliquandō expugnābat ”,
+23 tantum autem audītum habēbant: ”Quī persequēbātur nōs aliquandō, nunc ēvangelīzat fidem, quam aliquandō expugnābat”,
 
 24 et in mē glōrificābant Deum.
 
@@ -80,7 +80,7 @@
 
 13 Et simulātiōnī eius cōnsēnsērunt cēterī Iūdaeī, **ita** ut et Barnabās simul abdūcerētur illōrum simulātiōne.
 
-14 Sed cum vīdissem quod nōn **rēctē** ambulārent ad vēritātem ēvangeliī, dīxī Cephae **cōram** omnibus: “ Sī tū, cum Iūdaeus sīs, gentīliter et nōn **Iūdaicē** **vīvis**, quōmodo gentēs cōgis iūdaīzāre? ”.
+14 Sed cum vīdissem quod nōn **rēctē** ambulārent ad vēritātem ēvangeliī, dīxī Cephae **cōram** omnibus: ”Sī tū, cum Iūdaeus sīs, gentīliter et nōn **Iūdaicē** **vīvis**, quōmodo gentēs cōgis iūdaīzāre?”.
 
 15 Nōs **nātūrā** Iūdaeī et nōn ex gentibus peccātōrēs,
 
@@ -116,19 +116,19 @@
 
 9 Igitur, quī ex **fide** sunt, benedī cuntur cum fidēlī Abraham.
 
-10 Quīcumque enim ex operibus **lēgis** sunt, sub maledictō sunt; scrīptum **est** enim: “ Maledictus **omnis**, quī nōn permānserit in omnibus, quae **scrīpta** sunt in **librō** **lēgis**, ut faciat **ea** ”.
+10 Quīcumque enim ex operibus **lēgis** sunt, sub maledictō sunt; scrīptum **est** enim: ”Maledictus **omnis**, quī nōn permānserit in omnibus, quae **scrīpta** sunt in **librō** **lēgis**, ut faciat **ea**”.
 
 11 Quoniam autem in **lēge** nēmō iustificātur apud Deum manifēstum **est**, quia iūstus ex **fide** vīvet;
 
 12 lēx autem nōn **est** ex **fide**; sed, quī fēcerit **ea**, vīvet in illīs.
 
-13 Chrīstus nōs redēmit dē maledictō **lēgis** **factus** prō nōbīs maledictum, quia scrīptum **est**: “ Maledictus **omnis**, quī pendet in lignō ”,
+13 Chrīstus nōs redēmit dē maledictō **lēgis** **factus** prō nōbīs maledictum, quia scrīptum **est**: ”Maledictus **omnis**, quī pendet in lignō”,
 
 14 ut in gentēs benedictiō Abrahae fieret in Chrīstō Iēsū, ut prōmissiōnem **Spīritūs** accipiāmus per fidem.
 
 15 Frātrēs, secundum hominem **dīcō**, tamen hominis cōnfirmātum testāmentum nēmō irritum facit aut superōrdinat.
 
-16 Abrahae autem dictae sunt prōmissiōnēs et sēminī eius. Nōn dīcit: “ Et sēminibus ”, quasi in multīs, sed quasi in ūnō: “Et sēminī tuō”, quī **est** Chrīstus.
+16 Abrahae autem dictae sunt prōmissiōnēs et sēminī eius. Nōn dīcit: ”Et sēminibus”, quasi in multīs, sed quasi in ūnō: “Et sēminī tuō”, quī **est** Chrīstus.
 
 17 **Hoc** autem **dīcō**: Testāmentum cōnfirmātum ā Deō, quae post quadringentōs et trīgintā annōs **facta** **est** lēx, nōn irritum facit ad ēvacuandam prōmissiōnem.
 
@@ -168,7 +168,7 @@
 
 5 ut eōs, quī sub **lēge** erant, redimeret, ut adoptiōnem fīliōrum reciperēmus.
 
-6 Quoniam autem **estis** fīliī, mīsit Deus Spīritum Fīliī **suī** in **corda** **nostra** clāmantem: “ **Abbā**, Pater! ”.
+6 Quoniam autem **estis** fīliī, mīsit Deus Spīritum Fīliī **suī** in **corda** **nostra** clāmantem: ”**Abbā**, Pater!”.
 
 7 Itaque iam nōn **es** servus sed fīlius; quod sī fīlius, et hērēs per Deum.
 
@@ -212,19 +212,19 @@
 
 27 scrīptum **est** enim:
 
-“ Laetāre, **sterilis**, quae nōn **paris**,
+”Laetāre, **sterilis**, quae nōn **paris**,
 
 ērumpe et exclāmā, quae nōn **parturīs**,
 
 quia multī fīliī dēsertae
 
-**magis** quam eius, quae habet **virum** ”.
+**magis** quam eius, quae habet **virum**”.
 
 28 Vōs autem, frātrēs, secundum Isaac prōmissiōnis fīliī **estis**.
 
 29 Sed quōmodo tunc, quī secundum carnem **nātus** fuerat, persequēbātur eum, quī secundum spīritum, **ita** et nunc.
 
-30 Sed quid dīcit **Scrīptūra**? “ Ēice ancillam et fīlium eius; nōn enim hērēs erit fīlius ancillae cum fīliō līberae ”.
+30 Sed quid dīcit **Scrīptūra**? ”Ēice ancillam et fīlium eius; nōn enim hērēs erit fīlius ancillae cum fīliō līberae”.
 
 31 Itaque, frātrēs, nōn sumus ancillae fīliī sed līberae.
 

@@ -194,7 +194,7 @@ Exercē tēipsum ad pietātem;
 
 17 Quī **bene** praesunt presbyterī, duplicī **honōre** dignī habeantur, **maximē** quī labōrant in verbō et **doctrīnā**;
 
-18 dīcit enim **Scrīptūra**: “ Nōn īnfrēnābis **os** bovī trītūrantī ” et: “ Dignus operārius mercēde **suā** ”.
+18 dīcit enim **Scrīptūra**: ”Nōn īnfrēnābis **os** bovī trītūrantī” et: ”Dignus operārius mercēde **suā**”.
 
 19 Adversus presbyterum accūsātiōnem nōlī recipere, **nisi** sub duōbus vel **tribus** testibus.
 

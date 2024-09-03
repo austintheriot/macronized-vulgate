@@ -10,7 +10,7 @@
 
 et nōn exaudīs?
 
-Vōciferābor ad tē: “ **Violentia**! ”,
+Vōciferābor ad tē: ”**Violentia**!”,
 
 et nōn salvās?
 
@@ -30,7 +30,7 @@ Quia impius praevalet adversus iūstum,
 
 proptereā ēgreditur iūdicium perversum.
 
-5 “ Aspicite in gentibus et vidēte,
+5 ”Aspicite in gentibus et vidēte,
 
 admīrāminī et obstupēscite,
 
@@ -80,7 +80,7 @@ et comportābit aggerem et capiet eam.
 
 11 Tunc **ultrā** prōgrediēns quasi ventus pertransībit
 
-et cōnstituet fortitūdinem suam deum suum ”.
+et cōnstituet fortitūdinem suam deum suum”.
 
 12 Numquid nōn tū ā prīncipiō, Domine,
 
@@ -132,7 +132,7 @@ et quid respondeat ad querēlam meam.
 
 2 Et respondit mihi Dominus et dīxit:
 
-“ Scrībe vīsum
+”Scrībe vīsum
 
 et explānā eum super tabulās,
 
@@ -148,7 +148,7 @@ quia veniēns veniet et nōn tardābit.
 
 4 Ecce languidus, in quō nōn **est** **anima** **rēcta**;
 
-iūstus autem in **fide** **suā** vīvet ”.
+iūstus autem in **fide** **suā** vīvet”.
 
 5 Et **profectō** dīvitiae dēcipiunt **virum** superbum,
 
@@ -166,9 +166,9 @@ et coacervat ad sē omnēs **pōpulōs**.
 
 et loquēlam aenigmatum dīcentēs:
 
-“ Vae **eī**, quī multiplicat nōn **sua** — usquequō? C
+”Vae **eī**, quī multiplicat nōn **sua** — usquequō? C
 
-et aggravat pignora super sē! ”.
+et aggravat pignora super sē!”.
 
 7 Numquid nōn **repente** cōnsurgent, quī mordeant tē,
 
@@ -244,7 +244,7 @@ cōnflātile et ōrāculum mendāx,
 
 quia spērāvit in figmentō fictor eius, ut faceret simulācra **mūta**?
 
-19 Vae, quī dīcit lignō: “ **Expergīscēre**! ”, “ Surge! ” lapidī tacentī!
+19 Vae, quī dīcit lignō: ”**Expergīscēre**!”, ”Surge!” lapidī tacentī!
 
 Numquid ipse docēre poterit?
 

@@ -8,25 +8,25 @@
 
 2 Prīncipium verbī Dominī per Osee. Dīxit Dominus ad Osee:
 
-“ **Vade**, sūme tibi mulierem fornicātiōnum
+”**Vade**, sūme tibi mulierem fornicātiōnum
 
 et fīliōs fornicātiōnum,
 
-quia fornicāns fornicātur **terra** ā Dominō ”.
+quia fornicāns fornicātur **terra** ā Dominō”.
 
 3 Et abiit et accēpit Gomer fīliam Debelaim, quae concēpit et peperit **eī** fīlium.
 
-4 Et dīxit Dominus ad eum: “ Vocā **nōmen** eius 'Iezrahēl', quoniam adhūc modicum et vīsitābō sanguinem Iezrahel super domum Iehu et cessāre faciam rēgnum **domūs** Isrāēl;
+4 Et dīxit Dominus ad eum: ”Vocā **nōmen** eius 'Iezrahēl', quoniam adhūc modicum et vīsitābō sanguinem Iezrahel super domum Iehu et cessāre faciam rēgnum **domūs** Isrāēl;
 
-5 et in **illā** **diē** conteram arcum Isrāēl in **valle** Iezrahel ”.
+5 et in **illā** **diē** conteram arcum Isrāēl in **valle** Iezrahel”.
 
-6 Et concēpit adhūc et peperit fīliam; et dīxit **eī**: “ Vocā **nōmen** eius “Absque **misericordiā**”, quia nōn addam **ultrā** miserērī domuī Isrāēl, ut ignōscam eīs.
+6 Et concēpit adhūc et peperit fīliam; et dīxit **eī**: ”Vocā **nōmen** eius “Absque **misericordiā**”, quia nōn addam **ultrā** miserērī domuī Isrāēl, ut ignōscam eīs.
 
-7 Et domuī Iūdae miserēbor et salvābō eōs in Dominō Deō suō et nōn salvābō eōs in arcū et gladiō et in bellō et in equīs et in equitibus ”.
+7 Et domuī Iūdae miserēbor et salvābō eōs in Dominō Deō suō et nōn salvābō eōs in arcū et gladiō et in bellō et in equīs et in equitibus”.
 
 8 Et ablactāvit eam, quae erat 'Absque **misericordiā**', et concēpit et peperit fīlium.
 
-9 Et dīxit: “ Vocā **nōmen** eius 'Nōn **populus** meus', quia vōs nōn **populus** meus, et ego 'Nōn sum' vōbīs.
+9 Et dīxit: ”Vocā **nōmen** eius 'Nōn **populus** meus', quia vōs nōn **populus** meus, et ego 'Nōn sum' vōbīs.
 
 ## 2
 
@@ -232,15 +232,15 @@ et miserēbor eius, quae fuit “Absque **misericordiā**”;
 
 26 et **dīcam** “Nōn **populō** meō”: “**Populus** meus tū”;
 
-et ipse **dīcet**: “Deus meus **es** tū” ”.
+et ipse **dīcet**: “Deus meus **es** tū””.
 
 ## 3
 
-1 Et dīxit Dominus ad mē: “ Adhūc **vāde**, dīlige mulierem dīlēctam amīcō et adulteram, sīcut dīligit Dominus fīliōs Isrāēl, et ipsī respectant ad deōs aliēnōs et dīligunt placentās ūvārum ”.
+1 Et dīxit Dominus ad mē: ”Adhūc **vāde**, dīlige mulierem dīlēctam amīcō et adulteram, sīcut dīligit Dominus fīliōs Isrāēl, et ipsī respectant ad deōs aliēnōs et dīligunt placentās ūvārum”.
 
 2 Et **ēmī** eam mihi quīndecim argenteīs et chorō **hordēī** et dīmidiō chorō **hordeī**.
 
-3 Et dīxī ad eam: “ Diēs multōs exspectābis mē; nōn fornicāberis et nōn **eris** **virō**, neque ībō ego ad tē ”.
+3 Et dīxī ad eam: ”Diēs multōs exspectābis mē; nōn fornicāberis et nōn **eris** **virō**, neque ībō ego ad tē”.
 
 4 Quia diēs multōs sedēbunt fīliī Isrāēl **sine** **rēge** et **sine** prīncipe et **sine** sacrificiō et **sine** lapide et **sine** ephod et **sine** theraphim.
 
@@ -248,7 +248,7 @@ et ipse **dīcet**: “Deus meus **es** tū” ”.
 
 ## 4
 
-1 “ **Audīte** verbum Dominī,
+1 ”**Audīte** verbum Dominī,
 
 fīliī Isrāēl,
 
@@ -918,7 +918,7 @@ frūctum nēquāquam facient;
 
 quod sī et genuerint,
 
-interficiam **amantissima** uterī eōrum ”.
+interficiam **amantissima** uterī eōrum”.
 
 17 Abiciet eōs Deus meus,
 
@@ -948,11 +948,11 @@ dēpopulābitur simulācra eōrum.
 
 3 **Profectō** nunc **dicent**:
 
-“ Nōn **est** rēx nōbīs;
+”Nōn **est** rēx nōbīs;
 
 nōn enim timēmus Dominum,
 
-et rēx quid faciet nōbīs? ”.
+et rēx quid faciet nōbīs?”.
 
 4 Loquī verba, iūrāre in vānum,
 
@@ -994,9 +994,9 @@ peccātum Isrāēl;
 
 super **ārās** eōrum,
 
-et **dīcent** montibus: “ Operīte nōs! ”
+et **dīcent** montibus: ”Operīte nōs!”
 
-et collibus: “ Cadite super nōs! ”.
+et collibus: ”Cadite super nōs!”.
 
 9 Ex diēbus Gabaa peccāvit Isrāēl;
 
@@ -1006,7 +1006,7 @@ Nōn comprehendet eōs in Gabaā
 
 proelium super fīliōs inīquitātis?
 
-10 “ Iuxtā dēsīderium meum corripiam eōs;
+10 ”Iuxtā dēsīderium meum corripiam eōs;
 
 congregābuntur super eōs **populī**,
 
@@ -1152,7 +1152,7 @@ et in dolō **domūs** Isrāēl;
 
 - Iūdās autem, dum adhūc vagātur, **est** cum Deō
 
-et cum Sānctō **fidēlis** ” -.
+et cum Sānctō **fidēlis**” -.
 
 2 Ephraim pāscit ventum
 
@@ -1186,25 +1186,25 @@ et ibi **locūtus** **est** nōbīscum
 
 Dominus memoriāle eius.
 
-7 “ Et tū ad Deum tuum **converteris**;
+7 ”Et tū ad Deum tuum **converteris**;
 
 cāritātem et iūdicium cūstōdī
 
-et spērā in Deō tuō semper ”.
+et spērā in Deō tuō semper”.
 
 8 Chanaan, in manū eius **statēra** **dolōsa**,
 
 fraudem dīligit.
 
-9 Et dīxit Ephraim: “ Vērumtamen dīves **effectus** sum,
+9 Et dīxit Ephraim: ”Vērumtamen dīves **effectus** sum,
 
 **invēnī** opēs mihi,
 
 omnēs labōrēs meī nōn invenient mihi
 
-inīquitātem, quam peccāvī ”.
+inīquitātem, quam peccāvī”.
 
-10 “ Ego autem Dominus, Deus tuus
+10 ”Ego autem Dominus, Deus tuus
 
 ex **terrā** Aegyptī;
 
@@ -1216,7 +1216,7 @@ sīcut in diēbus **conventūs**.
 
 et ego vīsiōnem multiplicābō
 
-et in manū prophētārum prōpōnam similitūdinēs ”.
+et in manū prophētārum prōpōnam similitūdinēs”.
 
 12 Sī Galaad inīquitās fuerat,
 
@@ -1264,7 +1264,7 @@ secundum intellegentiam suam simulācra;
 
 **factūra** artificum **tōtum** **est**.
 
-“ Hīs — ipsī dīcunt — **immolātē**! ”.
+”Hīs — ipsī dīcunt — **immolātē**!”.
 
 Hominēs vitulōs ōsculantur.
 
@@ -1276,7 +1276,7 @@ sīcut **palea** turbine **rapta** ex **āreā**
 
 et sīcut fūmus dē fūmāriō.
 
-4 “ Ego autem Dominus, Deus tuus
+4 ”Ego autem Dominus, Deus tuus
 
 ex **terrā** Aegyptī;
 
@@ -1342,7 +1342,7 @@ dē morte redimam eōs?
 
 **Ubi** **pestis** **tua**, **īnferne**?
 
-Cōnsōlātiō **abscondita** **est** ab oculīs meīs ”.
+Cōnsōlātiō **abscondita** **est** ab oculīs meīs”.
 
 15 Dum ipse inter frātrēs fructificat,
 
@@ -1378,7 +1378,7 @@ quoniam corruistī in inīquitāte **tuā**.
 
 et convertiminī ad Dominum;
 
-dīcite **eī**: “ Omnem aufer inīquitātem
+dīcite **eī**: ”Omnem aufer inīquitātem
 
 et accipe bonum,
 
@@ -1392,9 +1392,9 @@ nec vocābimus **ultrā**: “Deōs nostrōs!”
 
 **opera** manuum nostrārum,
 
-quia in tē misericordiam cōnsequētur pūpillus ”.
+quia in tē misericordiam cōnsequētur pūpillus”.
 
-5 “ Sānābō praevāricātiōnem eōrum,
+5 ”Sānābō praevāricātiōnem eōrum,
 
 dīligam eōs **spontāneē**,
 
@@ -1426,7 +1426,7 @@ Ego exaudiō et respiciō in eum.
 
 Ego ut abiēs virēns:
 
-ex mē **frūctus** tuus invenītur ”.
+ex mē **frūctus** tuus invenītur”.
 
 10 Quī sapiēns **est**, intellegat **ista**;
 

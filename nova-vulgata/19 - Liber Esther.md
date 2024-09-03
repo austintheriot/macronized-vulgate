@@ -52,9 +52,9 @@
 
 14 erant autem **eī** proximī Charsena et Sethar et Admatha et Tharsis et Marēs et Marsāna et Mamuchan, septem **ducēs** Persārum atque Mēdōrum, quī vidēbant faciem **rēgis** et prīmī sedēbant in rēgnō C:
 
-15 “ Secundum lēgem quid oportet fierī Vasthī rēgīnae, quae Asuerī **rēgis** imperium, quod per eunūchōs mandāverat, facere nōluit? ”.
+15 ”Secundum lēgem quid oportet fierī Vasthī rēgīnae, quae Asuerī **rēgis** imperium, quod per eunūchōs mandāverat, facere nōluit?”.
 
-16 Responditque Mamuchan, audiente **rēge** atque prīncipibus: “ Nōn **sōlum** rēgem laesit **rēgīna** Vasthī, sed et omnēs prīncipēs et **populōs**, quī sunt in cūnctīs prōvinciīs **rēgis** Asuērī.
+16 Responditque Mamuchan, audiente **rēge** atque prīncipibus: ”Nōn **sōlum** rēgem laesit **rēgīna** Vasthī, sed et omnēs prīncipēs et **populōs**, quī sunt in cūnctīs prōvinciīs **rēgis** Asuērī.
 
 17 Ēgrediētur enim sermō rēgīnae ad omnēs mulierēs, ut contemnant virōs suōs et **dīcant**: “Rēx Asuerus iussit, ut **rēgīna** Vasthī intrāret ad eum, et **illa** nōluit”.
 
@@ -62,7 +62,7 @@
 
 19 Sī tibi, rēx, **placet**, ēgrediātur ēdictum ā faciē **tuā** et scrībātur inter **lēgēs** Persārum atque Mēdōrum, quās immūtārī illicitum **est**, ut nēquāquam **ultrā** Vasthī ingrediātur ad rēgem, sed rēgnum illīus **altera**, quae melior **illa** **est**, accipiat.
 
-20 Et **hoc** in omne, quod lātissimum **est**, prōvinciārum tuārum dīvulgētur imperium, et cūnctae uxōrēs, tam maiōrum quam minōrum, dēferent marītīs **suīs** honōrem ”.
+20 Et **hoc** in omne, quod lātissimum **est**, prōvinciārum tuārum dīvulgētur imperium, et cūnctae uxōrēs, tam maiōrum quam minōrum, dēferent marītīs **suīs** honōrem”.
 
 21 Placuit cōnsilium eius **rēgī** et prīncipibus, fēcitque rēx iuxtā cōnsilium Mamuchān.
 
@@ -72,11 +72,11 @@
 
 1 Hīs **ita** gestīs, postquam **rēgis** Asuerī dēferbuerat indignātiō, **recordātus** **est** Vasthī, et quae fēcisset vel quae **passa** **esset**.
 
-2 Dīxēruntque puerī **rēgis** ac ministrī eius: “ Quaerantur **rēgī** puellae virginēs ac speciōsae,
+2 Dīxēruntque puerī **rēgis** ac ministrī eius: ”Quaerantur **rēgī** puellae virginēs ac speciōsae,
 
 3 et cōnstituantur, quī cōnsīderent per ūniversās prōvinciās puellās speciōsās et virginēs et addūcant eās ad cīvitātem Sūsan et trādant in domum fēminārum sub manū Egēī eunūchī, quī **est** praepositus et cūstōs mulierum rēgiārum; et accipiant mundum muliebrem.
 
-4 Et, quaecumque inter omnēs oculīs **rēgis** placuerit, **ipsa** rēgnet prō Vasthī ”. Placuit sermō **rēgī**; et **ita**, ut suggesserant, iussit fierī.
+4 Et, quaecumque inter omnēs oculīs **rēgis** placuerit, **ipsa** rēgnet prō Vasthī”. Placuit sermō **rēgī**; et **ita**, ut suggesserant, iussit fierī.
 
 5 Erat vir Iūdaeus in Sūsan cīvitāte vocābulō Mardochaeus fīlius Iair fīliī Semēī fīliī Cīs dē tribū Beniamin,
 
@@ -122,7 +122,7 @@
 
 2 Cūnctīque servī **rēgis**, quī in foribus palātiī versābantur, flectēbant genua et adōrābant **Amān**; sīc enim praecēperat rēx prō illō. **Sōlus** Mardochaeus nōn flectēbat **genū** neque adōrābat eum.
 
-3 Cui dīxērunt puerī **rēgis**, quī ad forēs palātiī praesidēbant: “ Cūr nōn observās mandātum **rēgis**? ”.
+3 Cui dīxērunt puerī **rēgis**, quī ad forēs palātiī praesidēbant: ”Cūr nōn observās mandātum **rēgis**?”.
 
 4 Cumque **hoc** crēbrius dīcerent, et ille nōllet audīre, nūntiāvērunt **Amān** scīre cupientēs utrum persevērāret in **sententiā**; dīxerat enim eīs sē **esse** Iūdaeum.
 
@@ -132,13 +132,13 @@
 
 7 **Mēnse** prīmō, cuius vocābulum **est** **Nīsan**, annō duodecimō rēgnī Asuerī, **missa** **est** in urnam sors, quae dīcitur Phur, **cōram** **Amān**, quō **diē** et quō **mēnsē** gēns Iūdaeōrum dēbēret interficī; et exīvit diēs **tertia** **decima** **mēnsis** duodecimī, quī vocātur Adar.
 
-8 Dīxitque **Amān** **rēgī** Asuērō: “ **Est** **populus** per omnēs prōvinciās rēgnī tuī dispersus, sēgregātus inter **populōs** aliēnīsque ūtēns lēgibus, quās cēterī nōn cognōscunt, īnsuper et **rēgis** **scīta** contemnēns; nōn expedit **rēgī**, ut det illīs requiem.
+8 Dīxitque **Amān** **rēgī** Asuērō: ”**Est** **populus** per omnēs prōvinciās rēgnī tuī dispersus, sēgregātus inter **populōs** aliēnīsque ūtēns lēgibus, quās cēterī nōn cognōscunt, īnsuper et **rēgis** **scīta** contemnēns; nōn expedit **rēgī**, ut det illīs requiem.
 
-9 Sī tibi **placet**, scrīptīs dēcerne, ut pereat, et decem **milia** talentōrum argentī appendam arcāriīs gāzae tuae ”.
+9 Sī tibi **placet**, scrīptīs dēcerne, ut pereat, et decem **milia** talentōrum argentī appendam arcāriīs gāzae tuae”.
 
 10 Tulit ergō rēx ānulum, quō ūtēbātur, dē manū **suā** et **dedit** eum **Amān** fīliō Amadathī dē prōgeniē Agag, hostī Iūdaeōrum.
 
-11 Dīxitque ad eum: “ Argentum, quod pollicēris, tuum sit; dē **populō** age, quod tibi **placet** ”.
+11 Dīxitque ad eum: ”Argentum, quod pollicēris, tuum sit; dē **populō** age, quod tibi **placet**”.
 
 12 Vocātīque sunt scrībae **rēgis** **mēnsē** prīmō, **tertia** **decima** **diē** eius, et scrīptum **est**, ut iusserat **Amān**, ad omnēs satrapās **rēgis** et **ducēs** prōvinciārum et prīncipēs dīversārum gentium, ut quaeque gēns **legere** poterat et audīre prō varietāte linguārum, ex nōmine **rēgis** Asuērī; et litterae ipsīus signātae ānulō.
 
@@ -146,7 +146,7 @@
 
 13ā Epistulae autem **hoc** exemplar fuit:
 
-“ Rēx magnus Artaxerxēs centum vīgintī septem ab **Indiā** usque Aethiopiam prōvinciārum satrapīs et ducibus, quī eius imperiō subiectī sunt, haec scrībit:
+”Rēx magnus Artaxerxēs centum vīgintī septem ab **Indiā** usque Aethiopiam prōvinciārum satrapīs et ducibus, quī eius imperiō subiectī sunt, haec scrībit:
 
 13b Cum plūrimīs gentibus imperārem et ūniversum orbem meae diciōnī subiugāssem, voluī nēquāquam abūtī potentiae magnitūdine, sed semper clēmenter et lēniter agēns gubernāre subiectōrum vītam absque ūllō terrōre, rēgnumque quiētum et usque ad fīnēs pervium praestāns, optātam cūnctīs mortālibus pācem renovāre.
 
@@ -158,7 +158,7 @@
 
 13f iussimus, ut quōscumque **Amān**, quī negōtiīs pūblicīs praepositus **est** et quem patris locō colimus, per litterās mōnstrāverit, cum coniugibus ac **līberīs** rādīcitus dēleantur inimīcōrum gladiīs, nūllusque eōrum misereātur, **quārta** **decima** **diē** duodecimī **mēnsis** Adar annī **praesentis**;
 
-13g ut, quī iam ōlim sunt nefāriī hominēs, ūnō **diē** violenter ad īnferōs dēscendentēs stabilēs in posterum et quiētās reddant nōbīs **plēnē** rēs pūblicās. 13h Quī autem cēlāverit **genus** eōrum, **inhabitābilis** erit nōn **sōlum** inter hominēs, sed nec inter avēs, et igne sānctō combūrētur; et **substantia** eōrum in rēgnum cōnferētur. Valēte ”.
+13g ut, quī iam ōlim sunt nefāriī hominēs, ūnō **diē** violenter ad īnferōs dēscendentēs stabilēs in posterum et quiētās reddant nōbīs **plēnē** rēs pūblicās. 13h Quī autem cēlāverit **genus** eōrum, **inhabitābilis** erit nōn **sōlum** inter hominēs, sed nec inter avēs, et igne sānctō combūrētur; et **substantia** eōrum in rēgnum cōnferētur. Valēte”.
 
 14 Exemplar autem epistulārum ut lēx in omnibus prōvinciīs prōmulgandum erat, ut scīrent omnēs **populī** et parārent sē ad praedictam diem.
 
@@ -170,7 +170,7 @@
 
 15c Et invocābant Iūdaeī Deum patrum suōrum et dīcēbant:
 
-15d “ Domine Deus, tū **sōlus** Deus in caelō sūrsum,
+15d ”Domine Deus, tū **sōlus** Deus in caelō sūrsum,
 
 et nōn **est** **alius** Deus praeter tē.
 
@@ -196,7 +196,7 @@ quī **factus** **es** nōbīs propitius ab Aegyptō usque nunc.
 
 et nōn trādās in īnfāmiam hērēditātem tuam,
 
-ut hostēs dominentur nostrī ”.
+ut hostēs dominentur nostrī”.
 
 ## 4
 
@@ -214,23 +214,23 @@ ut hostēs dominentur nostrī ”.
 
 7 Quī indicāvit **eī** omnia, quae **eī** **acciderant**, quantum **Amān** prōmīsisset, ut in thēsaurōs **rēgis** prō Iūdaeōrum nece īnferret argentum.
 
-8 Exemplar **quoque** ēdictī, quod pendēbat in Sūsan ad perdendum eōs, **dedit** **eī**, ut rēgīnae ostenderet et monēret eam, ut intrāret ad rēgem et dēprecārētur eum et rogāret prō **populō** suō. 8ā “ Memor, inquit, diērum **humilitātis** tuae, quandō **nūtrīta** sīs in manū **meā**, quia **Amān** secundus ā **rēge** **locūtus** **est** contrā nōs in mortem. Et tū, invocā Dominum et **loquere** **rēgī** prō nōbīs et **līberā** nōs dē morte ”.
+8 Exemplar **quoque** ēdictī, quod pendēbat in Sūsan ad perdendum eōs, **dedit** **eī**, ut rēgīnae ostenderet et monēret eam, ut intrāret ad rēgem et dēprecārētur eum et rogāret prō **populō** suō. 8ā ”Memor, inquit, diērum **humilitātis** tuae, quandō **nūtrīta** sīs in manū **meā**, quia **Amān** secundus ā **rēge** **locūtus** **est** contrā nōs in mortem. Et tū, invocā Dominum et **loquere** **rēgī** prō nōbīs et **līberā** nōs dē morte”.
 
 9 **Regressus** Athach nūntiāvit Esther omnia, quae Mardochaeus dīxerat.
 
 10 Quae respondit **eī** et iussit, ut dīceret Mardochaeō:
 
-11 “ Omnēs servī **rēgis** et cūnctae, quae sub diciōne eius sunt, nōrunt prōvinciae, quod cuique sīve **virō** sīve mulierī, quī nōn **vocātus** interius ātrium **rēgis** intrāverit, **ūna** lēx sit, ut statim interficiātur, **nisi** forte rēx auream virgam ad eum tetenderit, ut possit **vīvere**; ego autem trīgintā iam diēbus nōn sum **vocāta** ad rēgem ”.
+11 ”Omnēs servī **rēgis** et cūnctae, quae sub diciōne eius sunt, nōrunt prōvinciae, quod cuique sīve **virō** sīve mulierī, quī nōn **vocātus** interius ātrium **rēgis** intrāverit, **ūna** lēx sit, ut statim interficiātur, **nisi** forte rēx auream virgam ad eum tetenderit, ut possit **vīvere**; ego autem trīgintā iam diēbus nōn sum **vocāta** ad rēgem”.
 
 12 Quod cum audīsset Mardochaeus,
 
-13 rūrsum mandāvit Esther dīcēns: “ Nē **pūtēs** quod animam tuam tantum **līberēs**, quia in domō **rēgis** **es**, prae cūnctīs Iūdaeīs.
+13 rūrsum mandāvit Esther dīcēns: ”Nē **pūtēs** quod animam tuam tantum **līberēs**, quia in domō **rēgis** **es**, prae cūnctīs Iūdaeīs.
 
-14 Sī enim nunc **silueris**, aliunde Iūdaeīs līberātiō et salvātiō exsurget, et tū et **domus** patris tuī perībitis; et **quis** nōvit utrum idcircō ad rēgnum **vēnerīs**, ut in tālī tempore parārēris? ”.
+14 Sī enim nunc **silueris**, aliunde Iūdaeīs līberātiō et salvātiō exsurget, et tū et **domus** patris tuī perībitis; et **quis** nōvit utrum idcircō ad rēgnum **vēnerīs**, ut in tālī tempore parārēris?”.
 
 15 Rūrsumque Esther haec Mardochaeo verba mandāvit:
 
-16 “ **Vade** et **congregā** omnēs Iūdaeōs, quī in Sūsan reperiuntur; et **ieiūnātē** prō mē. Nōn comedātis et nōn bibātis **tribus** diēbus et **tribus** noctibus, et ego cum ancillīs meīs similiter ieiūnābō; et tunc ingrediar ad rēgem contrā lēgem faciēns; sī pereō, pereō ”.
+16 ”**Vade** et **congregā** omnēs Iūdaeōs, quī in Sūsan reperiuntur; et **ieiūnātē** prō mē. Nōn comedātis et nōn bibātis **tribus** diēbus et **tribus** noctibus, et ego cum ancillīs meīs similiter ieiūnābō; et tunc ingrediar ad rēgem contrā lēgem faciēns; sī pereō, pereō”.
 
 17 Īvit itaque Mardochaeus et fēcit omnia, quae **eī** Esther mandāverat.
 
@@ -238,7 +238,7 @@ ut hostēs dominentur nostrī ”.
 
 17b et dīxit:
 
-“ Deus Abraham et Deus Isaac et Deus Iācōb, benedictus **es**.
+”Deus Abraham et Deus Isaac et Deus Iācōb, benedictus **es**.
 
 17c Domine, Domine, rēx omnipotēns,
 
@@ -292,7 +292,7 @@ et converte lūctum nostrum in gaudium,
 
 ut vīventēs laudēmus **nōmen** tuum, Domine,
 
-et nē claudās **ōra** tē **canentium** ”.
+et nē claudās **ōra** tē **canentium**”.
 
 17m **Omnīs** **quoque** Isrāēl ex **tōtīs** vīribus clāmāvit ad Dominum, eō quod eīs **certa** mors **impendēret**.
 
@@ -302,7 +302,7 @@ et nē claudās **ōra** tē **canentium** ”.
 
 17p Et **cecidit** super terram cum ancillīs **suīs** ā **māne** usque ad vesperam et dīxit:
 
-17q “ Deus Abraham et Deus Isaac et Deus Iācōb, benedictus **es**.
+17q ”Deus Abraham et Deus Isaac et Deus Iācōb, benedictus **es**.
 
 Suffrāgā mihi **sōlī**
 
@@ -404,7 +404,7 @@ et dolōrēs nostrōs in sānitātem.
 
 fac in exemplum.
 
-17kk **Appārē**, Domine; manifestāre, Domine! ”.
+17kk **Appārē**, Domine; manifestāre, Domine!”.
 
 ## 5
 
@@ -422,39 +422,39 @@ fac in exemplum.
 
 2ē **Ingressa** igitur **cūncta** per ōrdinem ōstia, stetit in **aulā** interiōre contrā rēgem, ubi ille **residēbat** super solium rēgnī **suī** **indūtūs** vestibus rēgiīs aurōque fulgēns et pretiōsīs lapidibus; eratque **terribilis** aspectū, et **virga** **aurea** in manū eius.
 
-2f Cumque ēlevāsset faciem, vīdit eam sīcut taurus in impetū īrae suae et cōgitāns eam **perdere** clāmāvit ambiguus: “ **Quis** **ausus** **est** introīre in aulam nōn **vocātus**? ”. Et **rēgīna** corruit et, in pallōrem colōre mūtātō, **lassa** sē reclīnāvit super caput ancillulae, quae antecēdēbat.
+2f Cumque ēlevāsset faciem, vīdit eam sīcut taurus in impetū īrae suae et cōgitāns eam **perdere** clāmāvit ambiguus: ”**Quis** **ausus** **est** introīre in aulam nōn **vocātus**?”. Et **rēgīna** corruit et, in pallōrem colōre mūtātō, **lassa** sē reclīnāvit super caput ancillulae, quae antecēdēbat.
 
 2g Convertitque Iūdaeōrum Deus et ūniversae creātūrae Dominus spīritum **rēgis** in mānsuētūdinem, et festīnus ac metuēns exilīvit dē soliō; et sustentāns eam ulnīs **suīs**, dōnec redīret ad sē, verbīs pācificīs **eī** blandiēbātur:
 
-2h “ Quid habēs, Esther **rēgīna**, soror **mea** et cōnsors rēgnī? Ego sum frāter tuus, nōlī **metuere**.
+2h ”Quid habēs, Esther **rēgīna**, soror **mea** et cōnsors rēgnī? Ego sum frāter tuus, nōlī **metuere**.
 
 2ī Nōn moriēris; nōn enim prō tē, sed prō omnibus haec lēx **cōnstitūta** **est**.
 
-2k Accēde! ”.
+2k Accēde!”.
 
-2l Et ēlevāns auream virgam posuit super collum eius et ōsculātus **est** eam et ait: “ **Loquēre** mihi ”.
+2l Et ēlevāns auream virgam posuit super collum eius et ōsculātus **est** eam et ait: ”**Loquēre** mihi”.
 
-2m Quae respondit: “ Vīdī tē, domine, quasi angelum Deī, et conturbātum **est** cor meum prae timōre glōriae tuae;
+2m Quae respondit: ”Vīdī tē, domine, quasi angelum Deī, et conturbātum **est** cor meum prae timōre glōriae tuae;
 
-2n valdē enim **mīrābilis** **es**, domine, et faciēs **tua** **plēna** **est** grātiārum ”.
+2n valdē enim **mīrābilis** **es**, domine, et faciēs **tua** **plēna** **est** grātiārum”.
 
 2ō Cumque loquerētur, rūrsus corruit et paene **exanimāta** **est**.
 
 2p Rēx autem turbābātur, et omnēs ministrī eius.
 
-3 Dīxitque ad eam rēx: “ Quid vīs, Esther **rēgīna**? Quae **est** petītiō **tua**? Etiamsī dīmidiam partem rēgnī **petieris**, dabitur tibi ”.
+3 Dīxitque ad eam rēx: ”Quid vīs, Esther **rēgīna**? Quae **est** petītiō **tua**? Etiamsī dīmidiam partem rēgnī **petieris**, dabitur tibi”.
 
-4 At **illa** respondit: “ Sī **rēgī** **placet**, obsecrō, ut veniās ad mē hodiē et **Amān** tēcum ad convīvium, quod parāvī ”.
+4 At **illa** respondit: ”Sī **rēgī** **placet**, obsecrō, ut veniās ad mē hodiē et **Amān** tēcum ad convīvium, quod parāvī”.
 
-5 Statimque rēx: “ **Vocāte**, inquit, **cito** **Amān**, ut fīat verbum Esther ”.
+5 Statimque rēx: ”**Vocāte**, inquit, **cito** **Amān**, ut fīat verbum Esther”.
 
 Vēnērunt itaque rēx et **Amān** ad convīvium, quod eīs **rēgīna** parāverat.
 
-6 Dīxitque **eī** rēx, postquam vīnum biberat: “ Quid petis, ut dētur tibi, et prō **quā** rē postulās? Etiamsī dīmidiam partem rēgnī meī **petierīs**, impetrābis ”.
+6 Dīxitque **eī** rēx, postquam vīnum biberat: ”Quid petis, ut dētur tibi, et prō **quā** rē postulās? Etiamsī dīmidiam partem rēgnī meī **petierīs**, impetrābis”.
 
-7 Cui respondit Esther: “ Petītiō **mea** et precēs:
+7 Cui respondit Esther: ”Petītiō **mea** et precēs:
 
-8 Sī **invēnī** in cōnspectū **rēgis** grātiam, et sī **rēgī** **placet**, ut det mihi, quod postulō, et meam impleat petītiōnem, veniat rēx et **Amān** ad convīvium, quod parābō eīs, et crās faciam secundum verbum **rēgis** ”.
+8 Sī **invēnī** in cōnspectū **rēgis** grātiam, et sī **rēgī** **placet**, ut det mihi, quod postulō, et meam impleat petītiōnem, veniat rēx et **Amān** ad convīvium, quod parābō eīs, et crās faciam secundum verbum **rēgis**”.
 
 9 **Ēgressus** **est** itaque illō **diē** **Amān** laetus et alacer **corde**. Cumque vīdisset Mardochaeum sedentem in foribus palātiī, et nōn **sōlum** nōn assurrēxisse sibi, sed nec mōtum quidem dē locō sessiōnis suae, indignātus **est** valdē.
 
@@ -462,11 +462,11 @@ Vēnērunt itaque rēx et **Amān** ad convīvium, quod eīs **rēgīna** parāv
 
 11 et exposuit illīs magnitūdinem dīvitiārum suārum fīliōrumque turbam, et **quanta** eum **glōria** super omnēs prīncipēs et servōs suōs rēx ēlevāsset.
 
-12 Et post haec ait: “ **Rēgīna** **quoque** Esther nūllum alium vocāvit ad convīvium cum **rēge** praeter mē; apud quam etiam crās cum **rēge** prānsūrus sum.
+12 Et post haec ait: ”**Rēgīna** **quoque** Esther nūllum alium vocāvit ad convīvium cum **rēge** praeter mē; apud quam etiam crās cum **rēge** prānsūrus sum.
 
-13 Et, cum omnia haec habeam, nihil mē habēre putō, quamdiū vīderō Mardochaeum Iūdaeum sedentem in foribus **rēgis** ”.
+13 Et, cum omnia haec habeam, nihil mē habēre putō, quamdiū vīderō Mardochaeum Iūdaeum sedentem in foribus **rēgis**”.
 
-14 Respondēruntque **eī** Zarēs uxor eius et cēterī **amīcī**: “ Iubē parārī excelsam trabem habentem altitūdinis quīnquāgintā cubitōs et dīc **manē** **rēgī**, ut appendātur super eam Mardochaeus; et sīc ībis cum **rēge** laetus ad convīvium ”. Placuit **eī** cōnsilium et iussit excelsam parārī trabem.
+14 Respondēruntque **eī** Zarēs uxor eius et cēterī **amīcī**: ”Iubē parārī excelsam trabem habentem altitūdinis quīnquāgintā cubitōs et dīc **manē** **rēgī**, ut appendātur super eam Mardochaeus; et sīc ībis cum **rēge** laetus ad convīvium”. Placuit **eī** cōnsilium et iussit excelsam parārī trabem.
 
 ## 6
 
@@ -474,27 +474,27 @@ Vēnērunt itaque rēx et **Amān** ad convīvium, quod eīs **rēgīna** parāv
 
 2 ventum **est** ad eum locum, ubi scrīptum erat quōmodo nūntiāsset Mardochaeus īnsidiās Bagathan et Thārēs duōrum eunūchōrum iānitōrum, quī voluerant **manūs** **mittere** in rēgem Asuerum.
 
-3 Quod cum audīsset rēx, ait: “ Quid prō hāc **fide** **honōris** ac praemiī Mardochaeus cōnsecūtus **est**? ”. Dīxēruntque **eī** servī illīus ac ministrī: “ Nihil omnīnō mercēdis accēpit ”.
+3 Quod cum audīsset rēx, ait: ”Quid prō hāc **fide** **honōris** ac praemiī Mardochaeus cōnsecūtus **est**?”. Dīxēruntque **eī** servī illīus ac ministrī: ”Nihil omnīnō mercēdis accēpit”.
 
-4 Statimque rēx: “ **Quis** **est**, inquit, in ātriō? ”. **Amān** quippe exterius ātrium **domūs** rēgiae intrāverat, ut suggereret **rēgī**, ut iubēret Mardochaeum suspendī in patibulō, quod **eī** fuerat praeparātum.
+4 Statimque rēx: ”**Quis** **est**, inquit, in ātriō?”. **Amān** quippe exterius ātrium **domūs** rēgiae intrāverat, ut suggereret **rēgī**, ut iubēret Mardochaeum suspendī in patibulō, quod **eī** fuerat praeparātum.
 
-5 Respondērunt puerī: “ Ecce **Amān** stat in ātriō ”. Dīxitque rēx: “ Ingrediātur ”.
+5 Respondērunt puerī: ”Ecce **Amān** stat in ātriō”. Dīxitque rēx: ”Ingrediātur”.
 
-6 Cumque **esset** **ingressus**, ait illī: “ Quid dēbet fierī **virō**, quem rēx honōrāre dēsīderat? ”. Cōgitāns autem in **corde** suō **Amān** et reputāns quod nūllum alium rēx **nisi** sē vellet honōrāre
+6 Cumque **esset** **ingressus**, ait illī: ”Quid dēbet fierī **virō**, quem rēx honōrāre dēsīderat?”. Cōgitāns autem in **corde** suō **Amān** et reputāns quod nūllum alium rēx **nisi** sē vellet honōrāre
 
-7 respondit: “ Homō, quem rēx honōrāre cupit,
+7 respondit: ”Homō, quem rēx honōrāre cupit,
 
 8 dēbet induī vestibus rēgiīs, quibus rēx **indūtus** erat, et impōnī super equum, quī dē **sellā** **rēgis** **est**, et accēperit rēgium **diadēma** super caput suum;
 
-9 et prīmus dē rēgiīs prīncipibus nōbilissimīs induat eum et teneat equum eius et per **platēam** cīvitātis incēdēns clāmet et **dīcat**: “Sīc honōrābitur quemcumque voluerit rēx honōrāre” ”.
+9 et prīmus dē rēgiīs prīncipibus nōbilissimīs induat eum et teneat equum eius et per **platēam** cīvitātis incēdēns clāmet et **dīcat**: “Sīc honōrābitur quemcumque voluerit rēx honōrāre””.
 
-10 Dīxitque **eī** rēx: “ **Festīna** et, **sūmptā** **stolā** et equō, fac, ut **locūtus** **es**, Mardochaēō Iūdaeō, quī **sedet** in foribus palātiī; **cave**, nē quidquam dē hīs, quae **locūtus** **es**, praetermittās ”.
+10 Dīxitque **eī** rēx: ”**Festīna** et, **sūmptā** **stolā** et equō, fac, ut **locūtus** **es**, Mardochaēō Iūdaeō, quī **sedet** in foribus palātiī; **cave**, nē quidquam dē hīs, quae **locūtus** **es**, praetermittās”.
 
-11 Tulit itaque **Amān** stolam et equum; indūtumque Mardochaeum et impositum equō praecēdēbat in **platēā** cīvitātis atque clāmābat: “ **Hōc** **honōre** condignus **est** quemcumque rēx voluerit honōrāre ”.
+11 Tulit itaque **Amān** stolam et equum; indūtumque Mardochaeum et impositum equō praecēdēbat in **platēā** cīvitātis atque clāmābat: ”**Hōc** **honōre** condignus **est** quemcumque rēx voluerit honōrāre”.
 
 12 Reversusque **est** Mardochaeus ad iānuam palātiī; et **Amān** festīnāvit īre in domum suam lūgēns et opertō **capite**.
 
-13 Nārrāvitque Zarēs uxōrī suae et **amīcīs** omnia, quae ēvēnissent sibi; cui respondērunt sapientēs, quōs habēbat in cōnsiliō, et uxor eius: “ Sī dē sēmine Iūdaeōrum **est** Mardochaeus, ante quem **cadere** coepistī, nōn **poteris** praevalēre contrā eum, sed cadēs in cōnspectū eius ”.
+13 Nārrāvitque Zarēs uxōrī suae et **amīcīs** omnia, quae ēvēnissent sibi; cui respondērunt sapientēs, quōs habēbat in cōnsiliō, et uxor eius: ”Sī dē sēmine Iūdaeōrum **est** Mardochaeus, ante quem **cadere** coepistī, nōn **poteris** praevalēre contrā eum, sed cadēs in cōnspectū eius”.
 
 14 Adhūc illīs loquentibus, vēnērunt eunūchī **rēgis** et **cito** eum ad convīvium, quod **rēgīna** parāverat, **pergere** compulērunt.
 
@@ -502,21 +502,21 @@ Vēnērunt itaque rēx et **Amān** ad convīvium, quod eīs **rēgīna** parāv
 
 1 Intrāvit itaque rēx et **Amān**, ut biberent cum **rēgīnā**.
 
-2 Dīxitque **eī** rēx etiam in secundō **diē**, postquam vīnō incaluerat: “ Quae **est** petītiō **tua**, Esther, ut dētur tibi, et quid vīs fierī? Etiamsī dīmidiam rēgnī meī partem **petierīs**, impetrābis ”.
+2 Dīxitque **eī** rēx etiam in secundō **diē**, postquam vīnō incaluerat: ”Quae **est** petītiō **tua**, Esther, ut dētur tibi, et quid vīs fierī? Etiamsī dīmidiam rēgnī meī partem **petierīs**, impetrābis”.
 
-3 Ad quem **illa** respondit: “ Sī **invēnī** grātiam in oculīs tuīs, ō rēx, et sī tibi **placet**, **dōnā** mihi animam meam, prō **quā** rogō, et **populum** meum, prō quō obsecrō.
+3 Ad quem **illa** respondit: ”Sī **invēnī** grātiam in oculīs tuīs, ō rēx, et sī tibi **placet**, **dōnā** mihi animam meam, prō **quā** rogō, et **populum** meum, prō quō obsecrō.
 
-4 Trāditī enim sumus, ego et **populus** meus, ut conterāmur, iugulēmur et pereāmus. Atque utinam in servōs et famulās vēnderēmur: tacuissem, quia trībulātiō haec nōn **esset** **digna** conturbāre rēgem ”.
+4 Trāditī enim sumus, ego et **populus** meus, ut conterāmur, iugulēmur et pereāmus. Atque utinam in servōs et famulās vēnderēmur: tacuissem, quia trībulātiō haec nōn **esset** **digna** conturbāre rēgem”.
 
-5 Respondēnsque rēx Asuerus ait: “ **Quis** **est** iste et ubi **est**, ut haec audeat facere? ”.
+5 Respondēnsque rēx Asuerus ait: ”**Quis** **est** iste et ubi **est**, ut haec audeat facere?”.
 
-6 Dīxit Esther: “ **Hostīs** et inimīcus noster pessimus iste **est** **Amān** ”. Quod ille audiēns īlicō obstupuit **cōram** **rēge** ac **rēgīnā**.
+6 Dīxit Esther: ”**Hostīs** et inimīcus noster pessimus iste **est** **Amān**”. Quod ille audiēns īlicō obstupuit **cōram** **rēge** ac **rēgīnā**.
 
 7 Rēx autem surrēxit īrātus et dē locō convīviī intrāvit in hortum palātiī. **Amān** **quoque** surrēxit, ut rogāret Esther rēgīnam prō **animā** **suā**; intellēxit enim ā **rēge** sibi dēcrētum **esse** **mālum**.
 
-8 Quī cum reversus **esset** dē hortō et intrāsset convīviī locum, repperit **Amān** super lectulum corruisse, in quō iacēbat Esther, et ait: “ Etiam rēgīnam vult **opprimere**, mē praesente, in domō **meā**? ”. Necdum verbum dē ōre **rēgis** exierat, et statim operuērunt faciem eius.
+8 Quī cum reversus **esset** dē hortō et intrāsset convīviī locum, repperit **Amān** super lectulum corruisse, in quō iacēbat Esther, et ait: ”Etiam rēgīnam vult **opprimere**, mē praesente, in domō **meā**?”. Necdum verbum dē ōre **rēgis** exierat, et statim operuērunt faciem eius.
 
-9 Dīxitque Harbona, ūnus dē eunūchīs, quī stābant in ministeriō **rēgis**: “ Ēn etiam lignum, quod parāverat Mardochaeō, quī **locūtus** **est** bonum prō **rēge**, stat in domō **Amān** habēns altitūdinis quīnquāgintā cubitōs ”. Cui dīxit rēx: “ Appendite eum in eō ”.
+9 Dīxitque Harbona, ūnus dē eunūchīs, quī stābant in ministeriō **rēgis**: ”Ēn etiam lignum, quod parāverat Mardochaeō, quī **locūtus** **est** bonum prō **rēge**, stat in domō **Amān** habēns altitūdinis quīnquāgintā cubitōs”. Cui dīxit rēx: ”Appendite eum in eō”.
 
 10 Suspēnsus **est** itaque **Amān** in patibulō, quod parāverat Mardochaeō; et **rēgis** **īra** quiēvit.
 
@@ -530,13 +530,13 @@ Vēnērunt itaque rēx et **Amān** ad convīvium, quod eīs **rēgīna** parāv
 
 4 At ille ex **mōre** scēptrum aureum prōtendit manū; **illa**que cōnsurgēns stetit ante eum
 
-5 et ait: “ Sī **placet** **rēgī**, et sī **invēnī** grātiam **cōram** eō, et dēprecātiō **mea** nōn **eī** vidētur **esse** **contrāria**, et **acceptā** sum in oculīs eius, obsecrō, ut novīs epistulīs veterēs litterae **Amān** fīliī Amadathi, Agagītae, īnsidiātōris et **hostīs** Iūdaeōrum, quibus eōs in cūnctīs **rēgis** prōvinciīs perīre praecēperat, corrigantur.
+5 et ait: ”Sī **placet** **rēgī**, et sī **invēnī** grātiam **cōram** eō, et dēprecātiō **mea** nōn **eī** vidētur **esse** **contrāria**, et **acceptā** sum in oculīs eius, obsecrō, ut novīs epistulīs veterēs litterae **Amān** fīliī Amadathi, Agagītae, īnsidiātōris et **hostīs** Iūdaeōrum, quibus eōs in cūnctīs **rēgis** prōvinciīs perīre praecēperat, corrigantur.
 
-6 Quōmodo enim poterō sustinēre **mālum**, quod passūrus **est** **populus** meus, et interitum cognātiōnis meae? ”.
+6 Quōmodo enim poterō sustinēre **mālum**, quod passūrus **est** **populus** meus, et interitum cognātiōnis meae?”.
 
-7 Responditque rēx Asuerus Esther rēgīnae et Mardochaēō Iūdaeō: “ Domum **Amān** concessī Esther et ipsum iussī appendī in patibulō, quia **ausus** **est** **manum** in Iūdaeōs **mittere**.
+7 Responditque rēx Asuerus Esther rēgīnae et Mardochaēō Iūdaeō: ”Domum **Amān** concessī Esther et ipsum iussī appendī in patibulō, quia **ausus** **est** **manum** in Iūdaeōs **mittere**.
 
-8 Scrībite ergō Iūdaeīs sīcut vōbīs **placet**, ex **rēgis** nōmine, signantēs litterās ānulō meō, quia epistulae ex **rēgis** nōmine scrīptae et illīus ānulō signātae nōn possunt immūtārī ”.
+8 Scrībite ergō Iūdaeīs sīcut vōbīs **placet**, ex **rēgis** nōmine, signantēs litterās ānulō meō, quia epistulae ex **rēgis** nōmine scrīptae et illīus ānulō signātae nōn possunt immūtārī”.
 
 9 **Accītīs**que **scrībīs** **rēgis** — erat autem tempus tertiī **mēnsis**, quī appellātur Sivan, **vīcēsima** et **tertia** illīus **diē** — scrīptae sunt epistulae, ut Mardochaeus voluerat, ad Iūdaeōs et ad satrapās prōcūrātōrēsque et prīncipēs, quī centum vīgintī septem prōvinciīs ab **Indiā** usque ad Aethiopiam praesidēbant, prōvinciae atque prōvinciae, **populō** et **populō**, iuxtā linguās et litterās suās, et Iūdaeīs iuxtā linguam et litterās suās.
 
@@ -552,7 +552,7 @@ Vēnērunt itaque rēx et **Amān** ad convīvium, quod eīs **rēgīna** parāv
 
 12c **Hoc** **est** exemplar epistulae:
 
-12d “ Rēx magnus Artaxerxēs ab **Indiā** usque Aethiopiam centum vīgintī septem prōvinciārum satrapīs ac omnibus, quī nostrae iussiōnī oboediunt, salūtem dīcit.
+12d ”Rēx magnus Artaxerxēs ab **Indiā** usque Aethiopiam centum vīgintī septem prōvinciārum satrapīs ac omnibus, quī nostrae iussiōnī oboediunt, salūtem dīcit.
 
 12ē Multī **nimiā** bonitāte prīncipum et **honōre**, quī in eōs collātus **est**, abūsī sunt in superbiam;
 
@@ -598,7 +598,7 @@ Vēnērunt itaque rēx et **Amān** ad convīvium, quod eīs **rēgīna** parāv
 
 12bb ut nunc et in posterum **illa** nōbīs et benevolīs Persīs sit salūs, illīs autem, quī nōbīs īnsidiantur, **memoriā** perditiōnis.
 
-12cc **Omnīs** autem cīvitās et **prōvincia**, quae nōluerit sollemnitātis huius **esse** particeps, gladiō et igne in **īrā** pereat; et sīc dēleātur, ut nōn **sōlum** hominibus **invia**, sed etiam bēstiīs et volātilibus in sempiternum **abōminābilis** relinquātur. Valēte ”.
+12cc **Omnīs** autem cīvitās et **prōvincia**, quae nōluerit sollemnitātis huius **esse** particeps, gladiō et igne in **īrā** pereat; et sīc dēleātur, ut nōn **sōlum** hominibus **invia**, sed etiam bēstiīs et volātilibus in sempiternum **abōminābilis** relinquātur. Valēte”.
 
 13 Exemplar epistulae in **fōrmā** **lēgis** in omnibus prōvinciīs prōmulgandum erat, ut omnibus **populīs** nōtum fieret parātōs **esse** Iūdaeōs in diem illam ad capiendam vindictam dē hostibus **suīs**.
 
@@ -634,9 +634,9 @@ Vēnērunt itaque rēx et **Amān** ad convīvium, quod eīs **rēgīna** parāv
 
 11 Statimque numerus eōrum, quī occīsī erant in Sūsan, ad rēgem **relātus** **est**.
 
-12 Quī dīxit rēgīnae: “ In urbe Sūsan interfēcērunt et dēlēvērunt Iūdaeī quīngentōs virōs et decem fīliōs **Amān**. Quantam putās eōs exercuisse caedem in ūniversīs prōvinciīs? Quid **ultrā** postulās et quid vīs, ut fierī iubeam? ”.
+12 Quī dīxit rēgīnae: ”In urbe Sūsan interfēcērunt et dēlēvērunt Iūdaeī quīngentōs virōs et decem fīliōs **Amān**. Quantam putās eōs exercuisse caedem in ūniversīs prōvinciīs? Quid **ultrā** postulās et quid vīs, ut fierī iubeam?”.
 
-13 Cui **illa** respondit: “ Sī **rēgī** **placet**, dētur potestās Iūdaeīs, quī in Sūsan sunt, ut sīcut hodiē fēcērunt, sīc et crās faciant, et decem fīliī **Amān** in patibulō suspendantur ”.
+13 Cui **illa** respondit: ”Sī **rēgī** **placet**, dētur potestās Iūdaeīs, quī in Sūsan sunt, ut sīcut hodiē fēcērunt, sīc et crās faciant, et decem fīliī **Amān** in patibulō suspendantur”.
 
 14 Praecēpitque rēx, ut **ita** fieret. Statimque in Sūsan pependit ēdictum, et decem fīliī **Amān** suspēnsī sunt.
 
@@ -686,11 +686,11 @@ Vēnērunt itaque rēx et **Amān** ad convīvium, quod eīs **rēgīna** parāv
 
 3 et quōmodo Mardochaeus Iūdaicī **generis** secundus ā **rēge** Asuērō fuerit et magnus apud Iūdaeōs et **acceptābilīs** plēbī frātrum suōrum, quaerēns **bona** **populō** suō et loquēns **ea**, quae ad pācem sēminis **suī** pertinērent.
 
-3ā Dīxitque Mardochaeus ad omnēs: “ Ā Deō **facta** sunt **ista**! ”.
+3ā Dīxitque Mardochaeus ad omnēs: ”Ā Deō **facta** sunt **ista**!”.
 
 3b **Recordātus** **est** enim Mardochaeus somniī, quod vīderat, haec **eadem** **significantīs**; nec eōrum quidquam irritum fuit.
 
-3c “ Quod parvus fōns crēvit in fluvium, et erat lūx et sōl et **aqua** **plūrima**: fōns et flūmen **est** Esther, quam rēx accēpit uxōrem et voluit **esse** rēgīnam;
+3c ”Quod parvus fōns crēvit in fluvium, et erat lūx et sōl et **aqua** **plūrima**: fōns et flūmen **est** Esther, quam rēx accēpit uxōrem et voluit **esse** rēgīnam;
 
 3d duo autem dracōnēs, ego sum et **Amān**;
 
@@ -704,5 +704,5 @@ Vēnērunt itaque rēx et **Amān** ad convīvium, quod eīs **rēgīna** parāv
 
 3ī Et **recordātus** **est** Deus **populī** **suī** ac iustificāvit hērēditātem suam.
 
-3k Et observābuntur diēs istī in **mēnse** Adar, **quārta** **decima** et **quīnta** **decima** **diē** eiusdem **mēnsis**, diēs congregātiōnis et hilaritātis et gaudiī **cōram** Deō per vestrās deinceps generātiōnēs in **populō** Isrāēl ”.
+3k Et observābuntur diēs istī in **mēnse** Adar, **quārta** **decima** et **quīnta** **decima** **diē** eiusdem **mēnsis**, diēs congregātiōnis et hilaritātis et gaudiī **cōram** Deō per vestrās deinceps generātiōnēs in **populō** Isrāēl”.
 

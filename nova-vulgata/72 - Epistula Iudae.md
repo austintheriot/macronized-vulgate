@@ -16,7 +16,7 @@
 
 8 Similiter vērō et hī somniantēs carnem quidem maculant, dominātiōnem autem spernunt, glōriās autem blasphēmant.
 
-9 Cum Michael archangelus cum Diabolō disputāns altercārētur dē Moysis corpore, nōn **est** **ausus** iūdicium īnferre blasphēmiae, sed dīxit: “ Increpet tē Dominus! ”.
+9 Cum Michael archangelus cum Diabolō disputāns altercārētur dē Moysis corpore, nōn **est** **ausus** iūdicium īnferre blasphēmiae, sed dīxit: ”Increpet tē Dominus!”.
 
 10 Hī autem, quaecumque quidem ignōrant, blasphēmant; quaecumque autem nātūrāliter tamquam **mūta** animālia nōrunt, in hīs corrumpuntur.
 
@@ -26,15 +26,15 @@
 
 13 **flūctūs** ferī **maris** dēspūmantēs suās cōnfūsiōnēs; sīdera **errantia**, quibus **procella** tenebrārum in aeternum **servāta** **est**.
 
-14 Prophētāvit autem et hīs septimus ab Adam Henoch dīcēns: “ Ecce **venit** Dominus in sānctīs mīlibus **suīs**
+14 Prophētāvit autem et hīs septimus ab Adam Henoch dīcēns: ”Ecce **venit** Dominus in sānctīs mīlibus **suīs**
 
-15 facere iūdicium contrā omnēs et **arguere** omnem animam dē omnibus operibus impietātis eōrum, quibus **impiē** **ēgerunt**, et dē omnibus dūrīs, quae locūtī sunt contrā eum peccātōrēs impiī ”.
+15 facere iūdicium contrā omnēs et **arguere** omnem animam dē omnibus operibus impietātis eōrum, quibus **impiē** **ēgerunt**, et dē omnibus dūrīs, quae locūtī sunt contrā eum peccātōrēs impiī”.
 
 16 Hī sunt murmurātōrēs, querēlōsī, secundum concupiscentiās suās ambulantēs, et **os** illōrum loquitur **superba**, mīrantēs **persōnās** **quaestūs** **causā**.
 
 17 Vōs autem, cārissimī, memorēs **ēstote** verbōrum, quae **praedicta** sunt ab apostolīs Dominī nostrī Iēsū Chrīstī,
 
-18 quoniam dīcēbant vōbīs: “ In novissimō tempore venient illūsōrēs, secundum suās concupiscentiās ambulantēs impietātum”.
+18 quoniam dīcēbant vōbīs: ”In novissimō tempore venient illūsōrēs, secundum suās concupiscentiās ambulantēs impietātum”.
 
 19 Hī sunt quī sēgregant, animālēs, Spīritum nōn habentēs.
 

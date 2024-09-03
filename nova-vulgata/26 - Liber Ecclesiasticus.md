@@ -258,13 +258,13 @@ et in cōnspectū illīus sānctificābunt animās suās.
 
 et patientiam habēbunt usque ad īnspectiōnem illīus
 
-22 dīcentēs: “ Sī paenitentiam nōn **ēgerimus**,
+22 dīcentēs: ”Sī paenitentiam nōn **ēgerimus**,
 
 **incīdēmus** in **manūs** Dominī et nōn in **manūs** hominum;
 
 23 secundum enim magnitūdinem ipsīus,
 
-sīc et **misericordiā** illīus ”.
+sīc et **misericordiā** illīus”.
 
 ## 3
 
@@ -568,19 +568,19 @@ et ad dandum **collēcta**.
 
 1 Nē innītāris possessiōnibus tuīs
 
-et nē **dīxerīs**: “ **Est** mihi sufficiēns **vītā** ”.
+et nē **dīxerīs**: ”**Est** mihi sufficiēns **vītā**”.
 
 2 Nē sequāris fortitūdinem tuam,
 
 ut ambulēs in concupiscentiīs **cordīs** tuī,
 
-3 et nē **dīxerīs**: “ **Quis** praevalēbit in mē? ”
+3 et nē **dīxerīs**: ”**Quis** praevalēbit in mē?”
 
-aut “ **Quis** mē subiciet propter **facta** **mea**? ”.
+aut ”**Quis** mē subiciet propter **facta** **mea**?”.
 
 Deus enim vindicāns vindicābit.
 
-4 Nē **dīxerīs**: “ Peccāvī, et quid mihi **accidit** trīste? ”.
+4 Nē **dīxerīs**: ”Peccāvī, et quid mihi **accidit** trīste?”.
 
 Altissimus enim **est** patiēns redditor.
 
@@ -588,9 +588,9 @@ Altissimus enim **est** patiēns redditor.
 
 neque adiciās peccātum super peccātum
 
-6 et nē **dicās**: “ Miserātiō Dominī **magna** **est**,
+6 et nē **dicās**: ”Miserātiō Dominī **magna** **est**,
 
-multitūdinis peccātōrum meōrum miserēbitur ”;
+multitūdinis peccātōrum meōrum miserēbitur”;
 
 7 **misericordia** enim et **īra** ab illō **cito** proximant,
 
@@ -850,9 +850,9 @@ nec enim in ūnō **eris** **immūnīs**.
 
 10 exōrāre et facere eleēmosynam nē dēspiciās.
 
-11 Nē **dicās**: “ In multitūdine mūnerum meōrum respiciet Deus
+11 Nē **dicās**: ”In multitūdine mūnerum meōrum respiciet Deus
 
-et, offerente mē Deō altissimō, **mūnera** **mea** suscipiet ”.
+et, offerente mē Deō altissimō, **mūnera** **mea** suscipiet”.
 
 12 Nōn irrīdeās hominem in amāritūdine animae;
 
@@ -1396,7 +1396,7 @@ et benēplacitum illīus **successus** habēbit in aeternum.
 
 et haec **est** pars mercēdis illīus
 
-19 in eō quod dīcit: “ **Invēnī** requiem mihi,
+19 in eō quod dīcit: ”**Invēnī** requiem mihi,
 
 et nunc mandūcābō dē bonīs meīs **sōlus**”;
 
@@ -1418,13 +1418,13 @@ cōnfīde autem in Deō et **manē** in labōre tuō.
 
 et in **hōrā** vēlōcī **successus** illīus fructificat.
 
-25 Nē **dicās**: “ Quid **est** mihi opus?
+25 Nē **dicās**: ”Quid **est** mihi opus?
 
-Et, quae erunt mihi ex **hōc** **bona**? ”.
+Et, quae erunt mihi ex **hōc** **bona**?”.
 
-26 Nē **dicās**: “ Sufficiēns mihi sum;
+26 Nē **dicās**: ”Sufficiēns mihi sum;
 
-et, quid ex **hōc** nunc pessimābor? ”
+et, quid ex **hōc** nunc pessimābor?”
 
 27 In **diē** bonōrum nē immemor sīs **malōrum**
 
@@ -1604,7 +1604,7 @@ et ipse nōn dolēbit super tē.
 
 et subrīdēns spem dabit nārrāns tibi **bona**
 
-et **dīcet**: “ Quid opus **est** tibi? ”.
+et **dīcet**: ”Quid opus **est** tibi?”.
 
 8 Et cōnfundet tē in cibīs **suīs**,
 
@@ -1696,7 +1696,7 @@ sīc et exsecrātiō dīvitis pauper.
 
 et verbum illīus usque ad nūbēs perdūcent;
 
-29 pauper **locūtus** **est**, et dīcunt: “ **Quis** **est** **hic**? ”
+29 pauper **locūtus** **est**, et dīcunt: ”**Quis** **est** **hic**?”
 
 et, sī offenderit, īnsuper subvertent illum.
 
@@ -1888,11 +1888,11 @@ et in ōre **sapientis** **dīcētur** laus,
 
 et dominātor illīus docēbit eam.
 
-11 Nē **dīxerīs**: “ Ā Deō peccātum meum ”
+11 Nē **dīxerīs**: ”Ā Deō peccātum meum”
 
 quae enim ōdit, ipse nōn facit.
 
-12 Nōn **dicās**: “ Ille in mē impēgit ”;
+12 Nōn **dicās**: ”Ille in mē impēgit”;
 
 nōn enim necessāriī sunt **eī** hominēs impiī.
 
@@ -2012,13 +2012,13 @@ ut **opera** **sua** innōtēscerent sub caelō.
 
 lūcem suam et tenebrās dispertiit fīliīs hominum.
 
-16 Nōn **dicās**: “ Ā Deō abscondar!
+16 Nōn **dicās**: ”Ā Deō abscondar!
 
 Et, ex summō **quis** meī memorābitur?
 
 17 In **populō** magnō nōn agnōscar;
 
-quae **est** enim **anima** **mea** in tam **immēnsa** **creātūra**? ”.
+quae **est** enim **anima** **mea** in tam **immēnsa** **creātūra**?”.
 
 18 Ecce caelum et caelī caelōrum,
 
@@ -2140,7 +2140,7 @@ et iūstitiam et iūdicia **sua** ostendit illīs.
 
 et honōrem **vōcis** eius audiērunt aurēs illōrum,
 
-et dīxit illīs: “ Attendite ab omnī inīquō ”.
+et dīxit illīs: ”Attendite ab omnī inīquō”.
 
 12 Et mandāvit illīs ūnīcuique dē proximō suō.
 
@@ -2412,7 +2412,7 @@ tamquam parturiēns ā faciē **īnfantis**;
 
 sīc verbum in **corde** stultī.
 
-13 Corripe amīcum, nē forte fēcerit **malum** et ipse **dīcat**: “ Nōn fēcī ”;
+13 Corripe amīcum, nē forte fēcerit **malum** et ipse **dīcat**: ”Nōn fēcī”;
 
 aut, sī fēcerit, nē iterum addat facere.
 
@@ -2544,9 +2544,9 @@ et apertiō **ōris** illīus quasi **clāmantis**.
 
 **odibilis** **est** homō huiusmodī.
 
-17 **Fatuus** dīcit: “ Nōn **est** mihi amīcus,
+17 **Fatuus** dīcit: ”Nōn **est** mihi amīcus,
 
-et nōn **est** **grātia** bonīs meīs ”.
+et nōn **est** **grātia** bonīs meīs”.
 
 18 Quī enim **edunt** pānem illīus, falsae linguae sunt.
 
@@ -2778,7 +2778,7 @@ quasi quī excitat dormientem dē gravī somnō.
 
 9 Cum dormiente loquitur, quī ēnārrat stultō sapientiam,
 
-et in fīne nārrātiōnis dīcit: “ **Quis** **est** **hic**? ”.
+et in fīne nārrātiōnis dīcit: ”**Quis** **est** **hic**?”.
 
 10 Suprā mortuum plōrā, dēfēcit enim lūx,
 
@@ -3006,13 +3006,13 @@ nōn cessābit **nisi** in morte.
 
 25 **Omnis** homō, quī trānsgreditur super **lectum** suum
 
-contemnēns in **animā** **suā** et dīcēns: “ **Quis** mē videt?
+contemnēns in **animā** **suā** et dīcēns: ”**Quis** mē videt?
 
 26 Tenebrae circumdant mē, et parietēs cooperiunt mē,
 
 et nēmō circumspicit mē; quem vereor?
 
-Dēlictōrum meōrum nōn memorābitur Altissimus ”
+Dēlictōrum meōrum nōn memorābitur Altissimus”
 
 27 et nōn intellegit quoniam omnia videt oculus illīus,
 
@@ -3096,7 +3096,7 @@ et in plēnitūdine **sānctā** admīrābitur
 
 et inter benedictōs benedīcētur dīcēns:
 
-5 “ Ego ex ōre Altissimī prōdīvī,
+5 ”Ego ex ōre Altissimī prōdīvī,
 
 **prīmōgenita** ante omnem creātūram.
 
@@ -3200,7 +3200,7 @@ et, quī bibunt mē, adhūc sitient.
 
 et, quī operantur in mē, nōn peccābunt:
 
-31 quī ēlūcidant mē, vītam aeternam habēbunt ”.
+31 quī ēlūcidant mē, vītam aeternam habēbunt”.
 
 32 Haec omnia **liber** testāmentī Altissimī,
 
@@ -3238,9 +3238,9 @@ et cōnsilium illīus super abyssum magnam.
 
 et sīcut **aquaeductus** exīvī in paradīsum.
 
-42 Dīxī: “ Rigābō hortum meum plantātiōnum
+42 Dīxī: ”Rigābō hortum meum plantātiōnum
 
-et inēbriābō prātī meī frūctum ”.
+et inēbriābō prātī meī frūctum”.
 
 43 Et ecce **factus** **est** mihi trāmes in fluvium,
 
@@ -3900,13 +3900,13 @@ et ubi hospitābitur, nōn fīdūciāliter aget, nec aperiet **os**.
 
 et ad haec **amāra** audiet:
 
-33 “ Trānsī, hospes, et ōrnā mēnsam
+33 ”Trānsī, hospes, et ōrnā mēnsam
 
-et, sī quae in manū habēs, cibā mē! ”.
+et, sī quae in manū habēs, cibā mē!”.
 
-34 “ Exī ā faciē honōrātiōris!
+34 ”Exī ā faciē honōrātiōris!
 
-Necessitūdine **domūs** meae hospitiō mihi **factus** **est** frāter ”.
+Necessitūdine **domūs** meae hospitiō mihi **factus** **est** frāter”.
 
 35 Gravia haec hominī habentī sēnsum:
 
@@ -4740,7 +4740,7 @@ et, quī pessimant plēbem tuam, inveniant perditiōnem.
 
 12 Contere caput prīncipum inimīcōrum
 
-dīcentium: “ Nōn **est** **alius** praeter nōs!”.
+dīcentium: ”Nōn **est** **alius** praeter nōs!”.
 
 13 **Congrega** omnēs **tribūs** Iācōb
 
@@ -4818,7 +4818,7 @@ quasi succīnctus **latrō** exsiliēns dē cīvitāte in cīvitātem?
 
 ## 37
 
-1 **Omnis** amīcus **dīcet**: “ Et ego amīcitiam cōpulāvī! ”;
+1 **Omnis** amīcus **dīcet**: ”Et ego amīcitiam cōpulāvī!”;
 
 sed **est** amīcus **sōlō** nōmine amīcus.
 
@@ -4860,7 +4860,7 @@ et prius scītō quae sit illīus necessitās
 
 et **dīcat** tibi:
 
-11 “ **Bona** **est** **via** **tua** ”
+11 ”**Bona** **est** **via** **tua**”
 
 et stet ē contrāriō **vidēre** quid tibi ēveniat.
 
@@ -5256,11 +5256,11 @@ et in canticīs labiōrum et citharīs;
 
 et sīc **dicētis** in cōnfessiōne:
 
-21 “ **Opera** Dominī **ūniversa** **bona** valdē,
+21 ”**Opera** Dominī **ūniversa** **bona** valdē,
 
-et omne, quod praecēpit, tempore suō erit! ”.
+et omne, quod praecēpit, tempore suō erit!”.
 
-Nōn **est** **dīcere**: “ Quid **est** **hoc**? ” aut “ Ad quid istud? ”;
+Nōn **est** **dīcere**: ”Quid **est** **hoc**?” aut ”Ad quid istud?”;
 
 omnia enim in tempore suō conquīrentur.
 
@@ -5280,7 +5280,7 @@ et nōn **est** quidquam absconditum ab oculīs eius.
 
 et nihil **est** mīrābile in cōnspectū eius.
 
-26 Nōn **est** **dīcere**: “ Quid **est** **hoc**! ” aut “ Ad quid istud? ”;
+26 Nōn **est** **dīcere**: ”Quid **est** **hoc**!” aut ”Ad quid istud?”;
 
 omnia enim in ūsum suum **creāta** sunt.
 
@@ -5334,11 +5334,11 @@ et in temporibus **suīs** nōn praeterient verbum.
 
 et cōnsiliātus sum et cōgitāvī et scrīptīs mandāvī:
 
-39 “ **Opera** Dominī omnia **bona**,
+39 ”**Opera** Dominī omnia **bona**,
 
-et omnem ūsum **hōrā** **suā** subministrābit ”.
+et omnem ūsum **hōrā** **suā** subministrābit”.
 
-40 Nōn **est** **dīcere**: “ **Hoc** illō nēquius **est** ”:
+40 Nōn **est** **dīcere**: ”**Hoc** illō nēquius **est**”:
 
 omnia enim in tempore suō comprobābuntur.
 
@@ -5876,7 +5876,7 @@ et audientēs auribus nostrīs admīrāmur.
 
 et in sermōne eius **composita** sunt omnia.
 
-29 **Multa** **dicēmus** et dēficiēmus verbīs; cōnsummātiō autem sermōnum: “ Ipse **est** omnia!”.
+29 **Multa** **dicēmus** et dēficiēmus verbīs; cōnsummātiō autem sermōnum: ”Ipse **est** omnia!”.
 
 30 Glōrificantēs ad quid valēbimus?
 
@@ -6344,9 +6344,9 @@ et omnēs **ducēs** Philisthim.
 
 testimōnium praebuit in cōnspectū Dominī et chrīstī eius:
 
-“ Pecūniās et usque ad calceāmenta
+”Pecūniās et usque ad calceāmenta
 
-ab omnī carne nōn accēpī ”;
+ab omnī carne nōn accēpī”;
 
 et nōn accūsāvit illum homō.
 
@@ -6904,7 +6904,7 @@ quia timor Dominī vestīgium eius **est**.
 
 1 Ōrātiō Iēsū fīliī Sirach.
 
-“ Cōnfitēbor tibi, Domine rēx; et collaudābō tē Deum salvātōrem meum.
+”Cōnfitēbor tibi, Domine rēx; et collaudābō tē Deum salvātōrem meum.
 
 2 Cōnfitēbor nōminī tuō,
 
@@ -7062,6 +7062,6 @@ et nōn cōnfundēminī in laude ipsīus.
 
 38 Operāminī opus vestrum ante tempus,
 
-et dabit vōbīs mercēdem vestram in tempore suō” ”.
+et dabit vōbīs mercēdem vestram in tempore suō””.
 
 

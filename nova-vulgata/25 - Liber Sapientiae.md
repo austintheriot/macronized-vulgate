@@ -94,7 +94,7 @@ quoniam dignī sunt, quī sint ex **parte** illīus.
 
 1 Dīxērunt enim cōgitantēs apud sē nōn **rēctē**:
 
-“ Exiguum et cum taediō **est** tempus vītae nostrae,
+”Exiguum et cum taediō **est** tempus vītae nostrae,
 
 et nōn **est** refrīgerium in fīne hominis,
 
@@ -200,7 +200,7 @@ et probēmus patientiam illīus;
 
 20 morte **turpissimā** condemnēmus eum:
 
-erit enim **eī** vīsitātiō ex sermōnibus illīus ”.
+erit enim **eī** vīsitātiō ex sermōnibus illīus”.
 
 21 Haec cōgitāvērunt et errāvērunt;
 
@@ -438,7 +438,7 @@ et mīrābuntur in subitātiōne īnspērātae **salūtis**
 
 et prae **angustiā** **spīritūs** gementēs:
 
-4 “ **Hic** erat, quem habuimus aliquandō in dērīsum
+4 ”**Hic** erat, quem habuimus aliquandō in dērīsum
 
 et in similitūdinem improperiī.
 
@@ -498,7 +498,7 @@ ut ignōrētur **trānsitus** illīus.
 
 et **virtūtis** quidem nūllum signum valuimus **ostendere**;
 
-in malignitāte autem **nostrā** cōnsūmptī sumus ”.
+in malignitāte autem **nostrā** cōnsūmptī sumus”.
 
 14 Quoniam spēs impiī tamquam lānūgō **est**, quae ā ventō tollitur,
 
@@ -954,7 +954,7 @@ et dīxī ex **tōtō** **corde** meō:
 
 ## 9
 
-1 “ Deus patrum meōrum et Domine misericordiae,
+1 ”Deus patrum meōrum et Domine misericordiae,
 
 quī fēcistī omnia verbō tuō
 
@@ -1048,7 +1048,7 @@ et **mīserīs** spīritum sānctum tuum dē altissimīs?
 
 et, quae tibi **placent**, didicērunt hominēs
 
-et salvātī per sapientiam sunt ”.
+et salvātī per sapientiam sunt”.
 
 ## 10
 
@@ -1354,7 +1354,7 @@ et quoniam nōn poterat mūtārī cōgitātiō illōrum in perpetuum:
 
 Nec timēns aliquem, veniam dabās **peccātīs** illōrum;
 
-12 **quis** enim **dīcet** tibi: “ Quid fēcistī? ”. Aut **quis** stābit contrā iūdicium tuum?
+12 **quis** enim **dīcet** tibi: ”Quid fēcistī?”. Aut **quis** stābit contrā iūdicium tuum?
 
 Aut **quis** tibi imputābit, sī perierint nātiōnēs, quās tū fēcistī?
 

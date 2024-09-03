@@ -28,7 +28,7 @@
 
 12 Beātus vir, quī suffert tentātiōnem, quia, cum probātus fuerit, accipiet corōnam vītae, quam reprōmīsit Deus dīligentibus sē.
 
-13 Nēmō, cum tentātur, **dīcat**: “ Ā Deō tentor ”; Deus enim nōn tentātur **malīs**, ipse autem nēminem tentat.
+13 Nēmō, cum tentātur, **dīcat**: ”Ā Deō tentor”; Deus enim nōn tentātur **malīs**, ipse autem nēminem tentat.
 
 14 Ūnusquisque vērō tentātur ā **concupiscentiā** **suā** abstractus et **illēctus**;
 
@@ -64,7 +64,7 @@
 
 2 Etenim, sī introierit in synagōgam vestram vir aureum ānulum habēns in veste **candidā**, introierit autem et pauper in sordidō habitū,
 
-3 et intendātis in eum, quī **indūtus** **est** veste **praeclārā**, et **dīxerītis**: “ Tū **sēde** **hīc** **bene** ”, pauperī autem **dicātīs**: “ Tū stā **illīc** aut **sēde** sub scabellō meō ”;
+3 et intendātis in eum, quī **indūtus** **est** veste **praeclārā**, et **dīxerītis**: ”Tū **sēde** **hīc** **bene**”, pauperī autem **dicātīs**: ”Tū stā **illīc** aut **sēde** sub scabellō meō”;
 
 4 **nōnne** **iūdicātis** apud vōsmetipsōs et factī **estis** iūdicēs cōgitātiōnum inīquārum?
 
@@ -74,13 +74,13 @@
 
 7 **Nōnne** ipsī blasphēmant bonum **nōmen**, quod invocātum **est** super vōs?
 
-8 Sī tamen lēgem perficitis rēgālem secundum Scrīptūram: “ Dīligēs proximum tuum sīcut tēipsum ”, **bene** facitis;
+8 Sī tamen lēgem perficitis rēgālem secundum Scrīptūram: ”Dīligēs proximum tuum sīcut tēipsum”, **bene** facitis;
 
 9 sī autem **persōnās** accipitis, peccātum operāminī, redargūtī ā **lēge** quasi trānsgressōrēs.
 
 10 Quīcumque autem **tōtam** lēgem servāverit, offendat autem in ūnō, **factus** **est** omnium reus.
 
-11 Quī enim dīxit: “ Nōn moechāberis ”, dīxit et: “ Nōn **occīdēs** ”; quod sī nōn **moechāris**, **occīdis** autem, **factus** **es** trānsgressor **lēgis**.
+11 Quī enim dīxit: ”Nōn moechāberis”, dīxit et: ”Nōn **occīdēs**”; quod sī nōn **moechāris**, **occīdis** autem, **factus** **es** trānsgressor **lēgis**.
 
 12 Sīc loquiminī et sīc facite sīcut per lēgem lībertātis iūdicandī.
 
@@ -90,11 +90,11 @@
 
 15 Sī frāter aut soror nūdī sunt et indigent **vīctū** cotīdiānō,
 
-16 **dicat** autem aliquis dē vōbīs illīs: “ **Īte** in pāce, calefaciminī et saturāminī ”, nōn **dederītis** autem eīs, quae **necessāria** sunt corporis, quid prōderit?
+16 **dicat** autem aliquis dē vōbīs illīs: ”**Īte** in pāce, calefaciminī et saturāminī”, nōn **dederītis** autem eīs, quae **necessāria** sunt corporis, quid prōderit?
 
 17 Sīc et **fidēs**, sī nōn habeat **opera**, **mortua** **est** in sēmet**ipsa**.
 
-18 Sed **dīcet** **quis**: “ Tū fidem habēs, et ego **opera** habeō ”. Ostende mihi fidem tuam **sine** operibus, et ego tibi ostendam ex operibus meīs fidem.
+18 Sed **dīcet** **quis**: ”Tū fidem habēs, et ego **opera** habeō”. Ostende mihi fidem tuam **sine** operibus, et ego tibi ostendam ex operibus meīs fidem.
 
 19 Tū crēdis quoniam ūnus **est** Deus? **Bene** **facis**; et daemonēs crēdunt et contremīscunt!
 
@@ -104,7 +104,7 @@
 
 22 Vidēs quoniam **fidēs** cooperābātur operibus illīus, et ex operibus **fidēs** **cōnsummāta** **est**;
 
-23 et **supplēta** **est** **Scrīptūra** dīcēns: “ Crēdidit Abraham Deō, et reputātum **est** illī ad iūstitiam ”, et amīcus Deī appellātus **est**.
+23 et **supplēta** **est** **Scrīptūra** dīcēns: ”Crēdidit Abraham Deō, et reputātum **est** illī ad iūstitiam”, et amīcus Deī appellātus **est**.
 
 24 Vidētis quoniam ex operibus iustificātur homō et nōn ex **fide** tantum.
 
@@ -162,13 +162,13 @@
 
 Quīcumque ergō voluerit amīcus **esse** saeculī huius, inimīcus Deī cōnstituitur.
 
-5 Aut **putātis** quia ināniter **Scrīptūra** **dīcat**: “ Ad invidiam concupīscit **Spīritus**, quī inhabitat in nōbīs? ”.
+5 Aut **putātis** quia ināniter **Scrīptūra** **dīcat**: ”Ad invidiam concupīscit **Spīritus**, quī inhabitat in nōbīs?”.
 
 6 Maiōrem autem dat grātiam; propter quod dīcit:
 
-“ Deus superbīs resistit,
+”Deus superbīs resistit,
 
-humilibus autem dat grātiam ”.
+humilibus autem dat grātiam”.
 
 7 Subiciminī igitur Deō; resistite autem Diabolō, et fugiet ā vōbīs.
 
@@ -182,11 +182,11 @@ humilibus autem dat grātiam ”.
 
 12 Ūnus **est** lēgislātor et iūdex, quī potest salvāre et **perdere**; tū autem **quis** **es**, quī iūdicās proximum?
 
-13 Age nunc, quī dīcitis: “ Hodiē aut crāstinō ībimus in illam cīvitātem et faciēmus quidem ibi annum et mercābimur et lucrum faciēmus ”;
+13 Age nunc, quī dīcitis: ”Hodiē aut crāstinō ībimus in illam cīvitātem et faciēmus quidem ibi annum et mercābimur et lucrum faciēmus”;
 
 14 quī **ignōrātis**, quae erit in crāstinum **vītā** **vestrā**! Vapor enim **estis** ad modicum **parēns**, deinceps exterminātur;
 
-15 prō eō ut **dicātis**: “ Sī Dominus voluerit, et vīvēmus et faciēmus **hoc** aut illud ”.
+15 prō eō ut **dicātis**: ”Sī Dominus voluerit, et vīvēmus et faciēmus **hoc** aut illud”.
 
 16 Nunc autem glōriāminī in superbiīs vestrīs; **omnis** glōriātiō **tālis** **maligna** **est**.
 
@@ -216,7 +216,7 @@ humilibus autem dat grātiam ”.
 
 11 Ecce beātificāmus eōs, quī sustinuērunt; sufferentiam Iob audīstis et fīnem Dominī vīdistis, quoniam misericors **est** Dominus et miserātor.
 
-12 Ante omnia autem, frātrēs meī, nōlīte iūrāre neque per caelum neque per terram, neque aliud quodcumque iūrāmentum; sit autem vestrum “ **Est** ” **est**, et “ Nōn ” nōn, **utī** nōn sub iūdiciō **dēcidātis**.
+12 Ante omnia autem, frātrēs meī, nōlīte iūrāre neque per caelum neque per terram, neque aliud quodcumque iūrāmentum; sit autem vestrum ”**Est**” **est**, et ”Nōn” nōn, **utī** nōn sub iūdiciō **dēcidātis**.
 
 13 Trīstātur aliquis vestrum? Ōret. Aequō animō **est**? Psāllat.
 

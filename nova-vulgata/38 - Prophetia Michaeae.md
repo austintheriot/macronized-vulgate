@@ -146,7 +146,7 @@ hominem et hērēditātem eius.
 
 3 Idcircō haec dīcit Dominus:
 
-“ Ecce ego cōgitō
+”Ecce ego cōgitō
 
 super familiam istam **mālum**,
 
@@ -174,13 +174,13 @@ quam nēmō **eī** restituet;
 
 mittēns fūniculum **sortis**
 
-in coetū Dominī ”.
+in coetū Dominī”.
 
-6 “ Nē vāticinēminī! ”. “ Vāticinentur,
+6 ”Nē vāticinēminī!”. ”Vāticinentur,
 
 nōn vāticinentur dē hīs,
 
-nōn cēdet cōnfūsiō! ”.
+nōn cēdet cōnfūsiō!”.
 
 7 Numquid **maledicta** **est** **domus** Iācōb?
 
@@ -210,9 +210,9 @@ dē domō dēliciārum suārum;
 
 **decōrem** meum in perpetuum.
 
-10 “ Surgite et **īte**,
+10 ”Surgite et **īte**,
 
-quia nōn habētis **hīc** requiem! ”.
+quia nōn habētis **hīc** requiem!”.
 
 Propter immunditiam perībitis
 
@@ -222,7 +222,7 @@ perditiōne **pessimā**.
 
 et mendācium loquerētur:
 
-“ Vāticinābor tibi dē vīnō et sīcera ”,
+”Vāticinābor tibi dē vīnō et sīcera”,
 
 **hic** **esset** vātēs **populī** istīus.
 
@@ -248,11 +248,11 @@ et Dominus in **capite** eōrum.
 
 1 Et dīxī:
 
-“ **Audīte**, prīncipēs Iācōb
+”**Audīte**, prīncipēs Iācōb
 
 et **ducēs** **domūs** Isrāēl:
 
-Numquid nōn vestrum **est** scīre iūdicium? ”.
+Numquid nōn vestrum **est** scīre iūdicium?”.
 
 2 Sed **odiō** habētis bonum et dīligitis **mālum**.
 
@@ -334,9 +334,9 @@ et prophētae eius in **pecūniā** dīvīnant;
 
 et super Dominum requiēscunt dīcentēs:
 
-“ Numquid nōn Dominus in **mediō** nostrum?
+”Numquid nōn Dominus in **mediō** nostrum?
 
-Nōn venient super nōs **mala** ”.
+Nōn venient super nōs **mala**”.
 
 12 Propter **hōc** **causā** vestrī
 
@@ -360,13 +360,13 @@ et fluent ad eum **populī**.
 
 2 Et properābunt gentēs multae et **dīcent**:
 
-“ Venīte, ascendāmus ad montem Dominī
+”Venīte, ascendāmus ad montem Dominī
 
 et ad domum Deī Iācōb,
 
 et docēbit nōs dē viīs **suīs**,
 
-et ībimus in sēmitīs eius ”;
+et ībimus in sēmitīs eius”;
 
 quia dē **Sīōn** ēgrediētur lēx,
 
@@ -400,7 +400,7 @@ nōs autem ambulābimus in nōmine Dominī
 
 Deī nostrī in aeternum et **ultrā**.
 
-6 “ In **diē** **illa**, dīcit Dominus,
+6 ”In **diē** **illa**, dīcit Dominus,
 
 congregābō claudicantem,
 
@@ -410,7 +410,7 @@ et quam afflīxeram;
 
 7 et pōnam claudicantem in reliquiās
 
-et eam, quae labōrāverat, in gentem rōbustam ”.
+et eam, quae labōrāverat, in gentem rōbustam”.
 
 Et rēgnābit Dominus super eōs in monte **Sīōn**
 
@@ -456,7 +456,7 @@ gentēs multae,
 
 quae dīcunt: “Prōfānētur,
 
-et aspiciat in **Sīōn** oculus noster ”.
+et aspiciat in **Sīōn** oculus noster”.
 
 12 Ipsī autem nōn cognōvērunt
 
@@ -596,15 +596,15 @@ et in indignātiōne ultiōnem
 
 in omnibus gentibus,
 
-quae nōn audiērunt ”.
+quae nōn audiērunt”.
 
 ## 6
 
 1 **Audīte**, quae Dominus loquitur:
 
-“ Surge, contende iūdiciō **cōram** montibus,
+”Surge, contende iūdiciō **cōram** montibus,
 
-et audiant collēs **vōcem** tuam ”.
+et audiant collēs **vōcem** tuam”.
 
 2 **Audīte**, montēs, iūdicium Dominī,
 
@@ -614,7 +614,7 @@ quia iūdicium Dominī cum **populō** suō,
 
 et cum Isrāēl iūdiciō contendit.
 
-3 “ **Popule** meus, quid fēcī tibi
+3 ”**Popule** meus, quid fēcī tibi
 
 et quid molestus fuī tibi?
 
@@ -636,9 +636,9 @@ et quid responderit **eī** Balaam fīlius Beor,
 
 dē Settim usque ad Galgalam,
 
-ut cognōscās iūstitiās Dominī ”.
+ut cognōscās iūstitiās Dominī”.
 
-6 “ Quid dignum offeram Dominō,
+6 ”Quid dignum offeram Dominō,
 
 dum curvō **genū** Deō excelsō?
 
@@ -666,7 +666,7 @@ et sollicitum ambulāre cum Deō tuō.
 
 - et **sapientia** **est** timēre **nōmen** tuum -:
 
-“ **Audīte**, **tribūs** et **coetūs** cīvitātis!
+”**Audīte**, **tribūs** et **coetūs** cīvitātis!
 
 10 Numquid tolerābō batum inīquum
 
@@ -710,7 +710,7 @@ ut darem tē in perditiōnem
 
 et habitantēs tuōs in sībilum:
 
-et opprobrium **populōrum** portābitis ”.
+et opprobrium **populōrum** portābitis”.
 
 ## 7
 
@@ -794,7 +794,7 @@ et operiētur cōnfūsiōne,
 
 quae dīcit ad mē:
 
-“ **Ubi** **est** Dominus Deus tuus? ”.
+”**Ubi** **est** Dominus Deus tuus?”.
 
 Oculī meī vidēbunt in eam;
 

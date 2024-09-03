@@ -74,7 +74,7 @@ mente pertractāns praevāricātiōnem.
 
 12 Haec dīcit Dominus:
 
-“ Et sī incolumēs fuerint et numerōsī,
+”Et sī incolumēs fuerint et numerōsī,
 
 sīc **quoque** attondentur et pertransībunt;
 
@@ -82,17 +82,17 @@ afflīxī tē et nōn afflīgam tē **ultrā**.
 
 13 Et nunc conteram virgam eius dē dorsō tuō
 
-et **vincula** **tua** disrumpam ”.
+et **vincula** **tua** disrumpam”.
 
 14 Et praecipiet super tē Dominus:
 
-“ Nōn sēminābitur ex nōmine tuō amplius.
+”Nōn sēminābitur ex nōmine tuō amplius.
 
 Dē domō deī tuī disperdam sculptile et cōnflātile;
 
 pōnam sepulcrum tuum,
 
-quia inhonōrātus **es** ”.
+quia inhonōrātus **es**”.
 
 ## 2
 
@@ -110,9 +110,9 @@ quia nōn adiciet **ultrā** ut pertranseat in tē Bēlial:
 
 2 Ascendit, quī dispergat, contrā tē.
 
-“ Cūstōdī mūnītiōnem,
+”Cūstōdī mūnītiōnem,
 
-contemplāre viam, cōnfortā lumbōs, **rōbora** virtūtem valdē ”.
+contemplāre viam, cōnfortā lumbōs, **rōbora** virtūtem valdē”.
 
 3 Quia restituet Dominus magnificentiam Iācōb
 
@@ -160,11 +160,11 @@ et ancillae eius gemunt ut columbae et percutiunt **corda** **sua**.
 
 cuius aquae fugiunt.
 
-“ **Stāte**, **stāte**! ”;
+”**Stāte**, **stāte**!”;
 
 sed nōn **est** quī revertātur.
 
-10 “ Dīripite argentum, dīripite aurum! ”.
+10 ”Dīripite argentum, dīripite aurum!”.
 
 Et nōn **est** **fīnis** dīvitiārum;
 
@@ -196,7 +196,7 @@ et implēvit **praeda** spēluncās suās
 
 et cubīle suum **rapīna**.
 
-14 “ Ecce ego ad tē,
+14 ”Ecce ego ad tē,
 
 dīcit Dominus exercituum,
 
@@ -206,7 +206,7 @@ et leunculōs tuōs comedet gladius,
 
 et exterminābō dē **terrā** praedam tuam,
 
-et nōn audiētur **ultrā** vōx nūntiōrum tuōrum ”.
+et nōn audiētur **ultrā** vōx nūntiōrum tuōrum”.
 
 ## 3
 
@@ -240,7 +240,7 @@ quae vēndidit gentēs fornicātiōnibus **suīs**
 
 et nātiōnēs maleficiīs **suīs**.
 
-5 “ Ecce ego ad tē,
+5 ”Ecce ego ad tē,
 
 dīcit Dominus exercituum;
 
@@ -380,4 +380,4 @@ plaudent manibus super tē,
 
 quia super quem nōn trānsiit
 
-**malitia** **tua** semper? ”.
+**malitia** **tua** semper?”.

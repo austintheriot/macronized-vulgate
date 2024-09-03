@@ -116,7 +116,7 @@ in domum Deī vestrī,
 
 et **clāmātē** ad Dominum:
 
-15 “ Heu diēī!
+15 ”Heu diēī!
 
 Quia prope **est** diēs Dominī,
 
@@ -266,7 +266,7 @@ magnus enim diēs Dominī
 
 et **terribilis** valdē, et **quis** sustinēbit eum?
 
-12 “ Nunc ergō,
+12 ”Nunc ergō,
 
 dīcit Dominus,
 
@@ -282,7 +282,7 @@ quia benignus et misericors **est**,
 
 patiēns et multae misericordiae
 
-et **plācābilis** super **malitiā** ”.
+et **plācābilis** super **malitiā**”.
 
 14 **Quis** scit, sī convertātur et ignōscat
 
@@ -314,11 +314,11 @@ et **dīcant**: “**Parcē**, Domine, **populō** tuō
 
 et nē dēs hērēditātem tuam in opprobrium,
 
-ut dominentur eīs nātiōnēs ”.
+ut dominentur eīs nātiōnēs”.
 
 Quārē **dicent** in **populīs**:
 
-“ **Ubi** **est** Deus eōrum ”?
+”**Ubi** **est** Deus eōrum”?
 
 18 Zēlātus **est** Dominus terram suam
 
@@ -326,7 +326,7 @@ et pepercit **populō** suō.
 
 19 Et respondit Dominus et dīxit **populō** suō:
 
-“ Ecce ego mittam vōbīs
+”Ecce ego mittam vōbīs
 
 frūmentum et vīnum et oleum,
 
@@ -410,7 +410,7 @@ et ego Dominus Deus vester,
 
 et nōn **est** amplius;
 
-et nōn cōnfundētur **populus** meus in aeternum ”.
+et nōn cōnfundētur **populus** meus in aeternum”.
 
 ## 3
 
@@ -504,7 +504,7 @@ et falcēs vestrās in lanceās;
 
 īnfirmus **dicat**:
 
-“ **Fortis** ego sum ”.
+”**Fortis** ego sum”.
 
 11 Ērumpite et venīte,
 

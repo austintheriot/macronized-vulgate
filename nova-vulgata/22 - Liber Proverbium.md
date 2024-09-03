@@ -44,7 +44,7 @@ et torquēs collō tuō.
 
 nē acquiēscās eīs.
 
-11 Sī dīxerint: “ **Vēnī** nōbīscum, īnsidiēmur sanguinī,
+11 Sī dīxerint: ”**Vēnī** nōbīscum, īnsidiēmur sanguinī,
 
 abscondāmus tendiculās contrā īnsontem frūstrā;
 
@@ -58,7 +58,7 @@ implēbimus domōs nostrās spoliīs;
 
 14 sortem mitte nōbīscum,
 
-marsūpium ūnum sit omnium nostrum ”;
+marsūpium ūnum sit omnium nostrum”;
 
 15 fīlī mī, nē ambulēs cum eīs,
 
@@ -86,7 +86,7 @@ in **platēīs** dat **vōcem** suam,
 
 in foribus portārum **urbis** prōfert verba **sua**:
 
-22 “ Usquequō, parvulī, dīligitis īnfantiam,
+22 ”Usquequō, parvulī, dīligitis īnfantiam,
 
 et dērīsōrēs sibi dērīsiōnem cupient,
 
@@ -114,7 +114,7 @@ et subsannābō, cum terror vōbīs advēnerit,
 
 et **interitus** quasi tempestās ingruerit,
 
-quandō vēnerit super vōs trībulātiō et **angustia** ”.
+quandō vēnerit super vōs trībulātiō et **angustia**”.
 
 28 Tunc invocābunt mē, et nōn exaudiam,
 
@@ -342,9 +342,9 @@ et cūstōdiet pedem tuum, nē capiāris.
 
 sī in potestāte **manūs** tuae **est**, ut faciās.
 
-28 Nē **dicās** amīcō tuō: “ **Vāde** et **revertere**,
+28 Nē **dicās** amīcō tuō: ”**Vāde** et **revertere**,
 
-crās dabō tibi ”, cum statim possīs dare.
+crās dabō tibi”, cum statim possīs dare.
 
 29 Nē mōliāris amīcō tuō **mālum**,
 
@@ -390,7 +390,7 @@ tenellus et ūnigenitus **cōram** mātre **meā**;
 
 4 et docēbat mē atque dīcēbat:
 
-“ Suscipiat verba **mea** cor tuum,
+”Suscipiat verba **mea** cor tuum,
 
 cūstōdī **praecepta** **mea** et vīvēs.
 
@@ -412,7 +412,7 @@ glōrificāberis ab **eā**, cum eam **fuerīs** amplexātus.
 
 9 Dabit **capitī** tuō **diadēma** grātiae,
 
-et **corōna** **inclita** prōteget tē ”.
+et **corōna** **inclita** prōteget tē”.
 
 10 Audī, fīlī mī, et suscipe verba **mea**,
 
@@ -532,7 +532,7 @@ et labōrēs tuī sint in domō **aliēnā**,
 
 quandō **cōnsūmpserīs** carnēs tuās et corpus tuum
 
-12 et **dicās**: “ Cūr dētestātus sum disciplīnam,
+12 et **dicās**: ”Cūr dētestātus sum disciplīnam,
 
 et increpātiōnēs renuit cor meum,
 
@@ -542,7 +542,7 @@ et magistrīs nōn inclīnāvī aurem meam?
 
 14 Paene fuī in omnī **mālō**,
 
-in **mediō** ecclēsiae et synagōgae ”.
+in **mediō** ecclēsiae et synagōgae”.
 
 15 Bibe aquam dē **cisternā** **tuā**
 
@@ -742,7 +742,7 @@ et lēgem meam quasi pūpillam oculī tuī.
 
 scrībe **illa** in tabulīs **cordīs** tuī.
 
-4 Dīc sapientiae: “ Soror **mea** **es** ”
+4 Dīc sapientiae: ”Soror **mea** **es**”
 
 et prūdentiam vocā Amīcam,
 
@@ -782,7 +782,7 @@ et iuxtā angulōs īnsidiāns.
 
 et procācī vultū blandītur dīcēns:
 
-14 “ Victimās prō salūte vōvī,
+14 ”Victimās prō salūte vōvī,
 
 hodiē reddidī **vōta** **mea**;
 
@@ -808,7 +808,7 @@ abiit **via** **longissima**,
 
 20 sacculum pecūniae sēcum tulit,
 
-in **diē** plēnae lūnae reversūrus **est** in domum suam ”.
+in **diē** plēnae lūnae reversūrus **est** in domum suam”.
 
 21 Irrētīvit eum multīs sermōnibus
 
@@ -854,7 +854,7 @@ suprā viam in **mediīs** sēmitīs stāns,
 
 in ipsīs foribus conclāmat:
 
-4 “ Ō **virī**, ad vōs clāmitō,
+4 ”Ō **virī**, ad vōs clāmitō,
 
 et vōx **mea** ad fīliōs hominum.
 
@@ -884,7 +884,7 @@ doctrīnam **magis** quam aurum ēlēctum.
 
 11 Melior **est** enim **sapientia** gemmīs,
 
-et omne dēsīderābile **eī** nōn potest comparārī ”.
+et omne dēsīderābile **eī** nōn potest comparārī”.
 
 12 Ego **sapientiā** habitō cum **prūdentiā**
 
@@ -1008,17 +1008,17 @@ et prōposuit mēnsam suam.
 
 ad arcem et ad **excelsa** cīvitātis:
 
-4 “ Sī **quis** **est** parvulus, veniat ad mē ”.
+4 ”Sī **quis** **est** parvulus, veniat ad mē”.
 
 Et vēcordī **locūta** **est**:
 
-5 “ Venīte, comedite pānem meum
+5 ”Venīte, comedite pānem meum
 
 et **bibite** vīnum, quod miscuī vōbīs;
 
 6 relinquite īnfantiam et vīvite
 
-et **ambulāte** per viās prūdentiae ”.
+et **ambulāte** per viās prūdentiae”.
 
 7 Quī ērudit dērīsōrem, ipse iniūriam sibi facit;
 
@@ -1056,13 +1056,13 @@ super sellam in excelsīs **urbis**,
 
 et pergentēs itinere suō:
 
-16 “ Quī **est** parvulus, dēclīnet ad mē ”.
+16 ”Quī **est** parvulus, dēclīnet ad mē”.
 
 Et vēcordī **locūta** **est**:
 
-17 “ Aquae fūrtīvae dulciōrēs sunt,
+17 ”Aquae fūrtīvae dulciōrēs sunt,
 
-et **pānis** in absconditō suāvior ”.
+et **pānis** in absconditō suāvior”.
 
 18 Et ignōrāvit quod ibi sint umbrae,
 
@@ -2318,9 +2318,9 @@ beātōs post sē fīliōs dērelinquet.
 
 dissipat omne **malum** intuitū suō.
 
-9 **Quis** potest **dīcere**: “ Mundāvī cor meum,
+9 **Quis** potest **dīcere**: ”Mundāvī cor meum,
 
-pūrus sum ā peccātō ”?
+pūrus sum ā peccātō”?
 
 10 Pondus et pondus, **mēnsūrā** et **mēnsūrā**,
 
@@ -2338,7 +2338,7 @@ Dominus fēcit utrumque.
 
 aperī oculōs tuōs et saturāre pānibus.
 
-14 “ **Mālum** **est**, **mālum** **est**! ” dīcit **omnis** ēmptor
+14 ”**Mālum** **est**, **mālum** **est**!” dīcit **omnis** ēmptor
 
 et, cum recesserit, tunc glōriābitur.
 
@@ -2370,7 +2370,7 @@ exstinguētur **lucerna** eius in **mediīs** tenebrīs.
 
 in novissimō benedictiōne carēbit.
 
-22 Nē **dicās**: “ Reddam **malum** ”;
+22 Nē **dicās**: ”Reddam **malum**”;
 
 exspectā Dominum, et līberābit tē.
 
@@ -2382,7 +2382,7 @@ exspectā Dominum, et līberābit tē.
 
 **quis** autem hominum **intellegere** potest viam suam?
 
-25 Laqueus **est** hominī **incōnsultē** **dīcere**: “ Sānctum! ”
+25 Laqueus **est** hominī **incōnsultē** **dīcere**: ”Sānctum!”
 
 et post **vōta** retractāre.
 
@@ -2582,9 +2582,9 @@ propter grātiam labiōrum suōrum habēbit amīcum rēgem.
 
 et supplantantur verba inīquī.
 
-13 Dīcit piger: “ **Leō** **est** **foris**,
+13 Dīcit piger: ”**Leō** **est** **foris**,
 
-in **mediō** **platēārum** **occīdendus** sum ”.
+in **mediō** **platēārum** **occīdendus** sum”.
 
 14 **Fovea** **profunda** **os** aliēnae;
 
@@ -2680,7 +2680,7 @@ et nē **dēsīderēs** cibōs eius;
 
 **ita** ipse **est**.
 
-“ Comede et bibe ” **dīcet** tibi,
+”Comede et bibe” **dīcet** tibi,
 
 et mēns eius nōn **est** tēcum.
 
@@ -2768,7 +2768,7 @@ et puteus angustus **aliēna**,
 
 et inīquōs in hominibus addet.
 
-29 Cui “ Vae ”? Cui “ Ēheu ”?
+29 Cui ”Vae”? Cui ”Ēheu”?
 
 Cui rixae? Cui **querēla**?
 
@@ -2796,11 +2796,11 @@ et cor tuum loquētur **perversā**;
 
 et quasi sōpītus ad **malum** **nāvis**:
 
-35 “ Verberāvērunt mē, sed nōn doluī,
+35 ”Verberāvērunt mē, sed nōn doluī,
 
 percussērunt mē, et ego nōn sēnsī;
 
-quandō ēvigilābō et rūrsus illud requīram? ”.
+quandō ēvigilābō et rūrsus illud requīram?”.
 
 ## 24
 
@@ -2848,7 +2848,7 @@ coartābitur fortitūdō **tua**.
 
 et, quī trahuntur ad interitum, retinē.
 
-12 Sī **dīxerīs**: “ Nesciēbāmus **hoc** ”;
+12 Sī **dīxerīs**: ”Nesciēbāmus **hoc**”;
 
 **nōnne** quī ponderātor **est** **cordis**, ipse intellegit,
 
@@ -2902,7 +2902,7 @@ et ruīnam utriusque **quis** nōvit?
 
 **Dignōscere** **persōnam** in iūdiciō nōn **est** bonum.
 
-24 Quī dīcit impiō: “ Iūstus **es** ”,
+24 Quī dīcit impiō: ”Iūstus **es**”,
 
 maledīcent **eī** **populī**, et dētestābuntur eum **tribūs**.
 
@@ -2924,9 +2924,9 @@ ut posteā aedificēs domum tuam.
 
 nec dēcipiās quemquam labiīs tuīs.
 
-29 Nē **dicās**: “ Quōmodo fēcit mihi, sīc faciam **eī**,
+29 Nē **dicās**: ”Quōmodo fēcit mihi, sīc faciam **eī**,
 
-reddam **virō** secundum opus suum ”.
+reddam **virō** secundum opus suum”.
 
 30 Per agrum hominis pigrī trānsīvī
 
@@ -2942,13 +2942,13 @@ et **māceria** lapidum **dēstrūcta** erat;
 
 vīdī, didicī disciplīnam:
 
-33 “ **Parum** dormiēs, modicum dormītābis,
+33 ”**Parum** dormiēs, modicum dormītābis,
 
 pauxillum **manūs** cōnserēs, ut quiēscās,
 
 34 et veniet tibi quasi cursor **egestās**,
 
-et mendīcitās quasi vir **armātus** ”.
+et mendīcitās quasi vir **armātus**”.
 
 ## 25
 
@@ -2974,7 +2974,7 @@ et firmābitur **iūstitiā** thronus eius.
 
 et in locō magnōrum nē **steterīs**.
 
-7 **Mēlius** **est** enim ut **dīcātur** tibi: “ Ascende hūc ”,
+7 **Mēlius** **est** enim ut **dīcātur** tibi: ”Ascende hūc”,
 
 quam ut humiliēris **cōram** prīncipe.
 
@@ -3120,9 +3120,9 @@ sīc stultus, quī iterat stultitiam suam.
 
 **Magis** illō spem habēbit stultus.
 
-13 Dīcit piger: “ **Leaena** **est** in **viā**,
+13 Dīcit piger: ”**Leaena** **est** in **viā**,
 
-et **leō** in **platēīs** ”.
+et **leō** in **platēīs**”.
 
 14 **Ōstium** vertitur in cardine suō,
 
@@ -3146,7 +3146,7 @@ et lanceās in mortem,
 
 19 **ita** vir, quī dēcipit amīcum suum
 
-et dīcit: “ **Nōnne** lūdēns fēcī? ”.
+et dīcit: ”**Nōnne** lūdēns fēcī?”.
 
 20 Cum dēfēcerint ligna, exstinguētur **ignis**,
 
@@ -3396,7 +3396,7 @@ ignōrat quod **egestās** superveniet **eī**.
 
 24 Quī abripit aliquid ā patre suō et ā mātre
 
-et dīcit: “ **Hoc** nōn **est** peccātum ”,
+et dīcit: ”**Hoc** nōn **est** peccātum”,
 
 particeps homicīdae **est**.
 
@@ -3572,7 +3572,7 @@ tribue tantum **vīctum** dēmēnsum mihi,
 
 9 nē forte satiātus illiciar ad negandum
 
-et **dicam**: “ **Quis** **est** Dominus? ”
+et **dicam**: ”**Quis** **est** Dominus?”
 
 aut egestāte compulsus fūrer
 
@@ -3604,17 +3604,17 @@ et pauperēs ex hominibus.
 
 15 Sanguisūgae duae sunt fīliae:
 
-“ Affer, affer! ”.
+”Affer, affer!”.
 
 Tria sunt īnsaturābilia,
 
-et quattuor, quae numquam dīcunt: “ Sufficit! ”:
+et quattuor, quae numquam dīcunt: ”Sufficit!”:
 
 16 īnfernus et venter **sterilis**,
 
 **terra**, quae nōn satiātur **aqua**,
 
-**ignis**, quī numquam dīcit: “ Sufficit! ”.
+**ignis**, quī numquam dīcit: ”Sufficit!”.
 
 17 Oculum, quī subsannat patrem
 
@@ -3640,7 +3640,7 @@ et viam **virī** in **adulēscentulā**.
 
 quae **comēdit** et tergēns **os** suum dīcit:
 
-“ Nōn sum **operāta** **mālum** ”.
+”Nōn sum **operāta** **mālum**”.
 
 21 Per tria movētur **terra**,
 
@@ -3806,9 +3806,9 @@ et pānem **ōtiōsa** nōn **comēdit**.
 
 vir eius et laudāvit eam:
 
-29 RĒS. “ Multae fīliae fortiter operātae sunt,
+29 RĒS. ”Multae fīliae fortiter operātae sunt,
 
-tū **supergressa** **es** ūniversās ”.
+tū **supergressa** **es** ūniversās”.
 
 30 SĪN. Fallāx **grātia** et **vāna** **est** pulchritūdō;
 

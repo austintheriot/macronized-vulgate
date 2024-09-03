@@ -26,7 +26,7 @@
 
 11 quibus oportet silentium **impōnere**, quia ūniversās domōs subvertunt docentēs, quae nōn oportet, **turpis** lucrī **grātia**.
 
-12 Dīxit quīdam ex illīs, proprius ipsōrum **prophēta**: “ Crētēnsēs semper mendācēs, **malae** bēstiae, ventrēs pigrī ”.
+12 Dīxit quīdam ex illīs, proprius ipsōrum **prophēta**: ”Crētēnsēs semper mendācēs, **malae** bēstiae, ventrēs pigrī”.
 
 13 Testimōnium **hoc** vērum **est**. Quam ob causam increpā illōs **dūre**, ut sānī sint in **fide**,
 

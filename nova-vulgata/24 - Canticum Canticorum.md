@@ -166,7 +166,7 @@ prōspiciēns per cancellōs.
 
 10 Ēn **dīlēctus** meus loquitur mihi:
 
-“ Surge, **amīca** **mea**,
+”Surge, **amīca** **mea**,
 
 **columba** **mea**, **fōrmōsa** **mea**, et **venī**.
 
@@ -200,7 +200,7 @@ sonet vōx **tua** in auribus meīs;
 
 vōx enim **tua** **dulcis**,
 
-et faciēs **tua** **decōra** ”.
+et faciēs **tua** **decōra**”.
 
 15 **Capite** nōbīs vulpēs, vulpēs parvulās,
 
@@ -230,7 +230,7 @@ quaesīvī, quem dīligit **anima** **mea**;
 
 quaesīvī illum et nōn **invēnī**.
 
-2 “ Surgam et circuībō cīvitātem;
+2 ”Surgam et circuībō cīvitātem;
 
 per vīcōs et **platēās**
 
@@ -242,7 +242,7 @@ Quaesīvī illum et nōn **invēnī**.
 
 quī circumeunt cīvitātem:
 
-“ Num, quem dīligit **anima** **mea**, vīdistis? ”.
+”Num, quem dīligit **anima** **mea**, vīdistis?”.
 
 4 Paululum cum pertrānsīssem eōs,
 
@@ -456,13 +456,13 @@ et inēbriāminī, cārissimī.
 
 Vōx dīlēctī meī **pulsantis**:
 
-“ Aperī mihi, soror **mea**, **amīca** **mea**,
+”Aperī mihi, soror **mea**, **amīca** **mea**,
 
 **columba** **mea**, **immaculāta** **mea**,
 
-quia caput meum plēnum **est** rōre, et cincinnī meī guttīs noctium ”.
+quia caput meum plēnum **est** rōre, et cincinnī meī guttīs noctium”.
 
-3 “ Exspoliāvī mē **tunicā** **meā**,
+3 ”Exspoliāvī mē **tunicā** **meā**,
 
 quōmodo induar **illa**?
 
@@ -508,7 +508,7 @@ sī **invēnerītis** dīlēctum meum,
 
 quid nūntiētis **eī**?
 
-“ Quia amōre langueō ”.
+”Quia amōre langueō”.
 
 9 Quid **est** dīlēctō tuō prae cēterīs,
 
@@ -632,13 +632,13 @@ Vīdērunt eam fīliae et beātissimam praedicāvērunt;
 
 rēgīnae et concubīnae, et laudāvērunt eam:
 
-10 “ Quae **est** **ista**, quae **prōgredītur** quasi **aurōra** cōnsurgēns,
+10 ”Quae **est** **ista**, quae **prōgredītur** quasi **aurōra** cōnsurgēns,
 
 **pulchra** ut **lūna**,
 
 **ēlēcta** ut sōl,
 
-**terribilis** ut castrōrum aciēs **ōrdināta**? ”.
+**terribilis** ut castrōrum aciēs **ōrdināta**?”.
 
 11 Dēscendī in hortum nucum,
 
@@ -706,9 +706,9 @@ rēx **vincitur** cincinnīs.
 
 et **ūbera** **tua** botrīs.
 
-9 Dīxī: “ Ascendam in palmam
+9 Dīxī: ”Ascendam in palmam
 
-et apprehendam **frūctūs** eius ”.
+et apprehendam **frūctūs** eius”.
 
 Et erunt **ūbera** **tua** sīcut botrī vīneae,
 

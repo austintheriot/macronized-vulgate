@@ -102,7 +102,7 @@ caelestium et terrestrium et īnfernōrum,
 
 11 et **omnis** **lingua** cōnfiteātur
 
-“ Dominus **Iēsus** Chrīstus! ”,
+”Dominus **Iēsus** Chrīstus!”,
 
 in glōriam Deī Patrīs.
 

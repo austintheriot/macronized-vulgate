@@ -8,11 +8,11 @@
 
 2 Et **venit** Hanānī ūnus dē frātribus meīs, ipse et **virī** ex **Iūdā**; et interrogāvī eōs dē Iūdaeīs, quī salvātī erant et supererant dē captīvitāte, et dē Ierusālem.
 
-3 Et dīxērunt mihi: “ Superstitēs, quī supererant dē captīvitāte ibi in **prōvinciā**, in afflīctiōne **magnā** sunt et in opprobriō; et mūrus Ierusālem dissipātus **est**, et portae eius combustae sunt igne ”.
+3 Et dīxērunt mihi: ”Superstitēs, quī supererant dē captīvitāte ibi in **prōvinciā**, in afflīctiōne **magnā** sunt et in opprobriō; et mūrus Ierusālem dissipātus **est**, et portae eius combustae sunt igne”.
 
 4 Cumque audīssem verba huiuscemodī, **sēdī** et flēvī et **lūxī** diēbus multīs; ieiūnābam et ōrābam ante faciem Deī caelī.
 
-5 Et dīxī: “ Quaesō, Domine, Deus caelī, Deus **fortis**, **magne** atque **terribilīs**, quī **cūstōdīs** **pactum** et misericordiam cum hīs, quī tē dīligunt et cūstōdiunt **mandāta** **tua**;
+5 Et dīxī: ”Quaesō, Domine, Deus caelī, Deus **fortis**, **magne** atque **terribilīs**, quī **cūstōdīs** **pactum** et misericordiam cum hīs, quī tē dīligunt et cūstōdiunt **mandāta** **tua**;
 
 6 fīat **auris** **tua** auscultāns, et oculī tuī apertī, ut audiās ōrātiōnem servī tuī, quam ego ōrō **cōram** tē hodiē, **diē** et nocte prō fīliīs Isrāēl servīs tuīs, et cōnfiteor prō **peccātīs** fīliōrum Isrāēl, quibus peccāvērunt tibi. Ego **quoque** et **domus** patris meī peccāvimus,
 
@@ -24,25 +24,25 @@
 
 10 Ipsī enim sunt servī tuī et **populus** tuus, quōs redēmistī in fortitūdine **tuā** **magna** et in manū **tuā** **valida**.
 
-11 Obsecrō, Domine, sit **auris** **tua** attendēns ad ōrātiōnem servī tuī et ad ōrātiōnem servōrum tuōrum, quī volunt timēre **nōmen** tuum; et fac servum tuum prōsperārī hodiē et dā **eī** grātiam ante **virum** hunc ”. Ego enim eram **pincerna** **rēgis**.
+11 Obsecrō, Domine, sit **auris** **tua** attendēns ad ōrātiōnem servī tuī et ad ōrātiōnem servōrum tuōrum, quī volunt timēre **nōmen** tuum; et fac servum tuum prōsperārī hodiē et dā **eī** grātiam ante **virum** hunc”. Ego enim eram **pincerna** **rēgis**.
 
 ## 2
 
 1 Factum **est** autem in **mēnse** **Nīsan**, annō vīcēsimō **Artaxerxīs** **rēgis**, dum biberet, **levāvī** vīnum et **dedī** **rēgī**; nōn enim eram ingrātus **cōram** eō.
 
-2 Dīxitque mihi rēx: “ Quārē **vultus** tuus **trīstis** **est**, cum tē aegrōtum nōn videam? Nihil **est** aliud **nisi** **trīstitia** **cordis** ”. Et timuī valdē
+2 Dīxitque mihi rēx: ”Quārē **vultus** tuus **trīstis** **est**, cum tē aegrōtum nōn videam? Nihil **est** aliud **nisi** **trīstitia** **cordis**”. Et timuī valdē
 
-3 et dīxī **rēgī**: “ Rēx, in aeternum **vīve**! Quārē nōn maereat **vultus** meus, quia cīvitās sepulcrōrum patrum meōrum **dēserta** **est**, et portae eius combustae sunt igne? ”.
+3 et dīxī **rēgī**: ”Rēx, in aeternum **vīve**! Quārē nōn maereat **vultus** meus, quia cīvitās sepulcrōrum patrum meōrum **dēserta** **est**, et portae eius combustae sunt igne?”.
 
-4 Et ait mihi rēx: “ Prō **quā** rē postulās? ”. Et ōrāvī Deum caelī
+4 Et ait mihi rēx: ”Prō **quā** rē postulās?”. Et ōrāvī Deum caelī
 
-5 et dīxī ad rēgem: “ Sī vidētur **rēgī** bonum, et sī **placet** servus tuus ante faciem tuam, ut mittās mē in Iūdaeam ad cīvitātem sepulcrōrum patrum meōrum, et aedificābō eam ”.
+5 et dīxī ad rēgem: ”Sī vidētur **rēgī** bonum, et sī **placet** servus tuus ante faciem tuam, ut mittās mē in Iūdaeam ad cīvitātem sepulcrōrum patrum meōrum, et aedificābō eam”.
 
-6 Dīxitque mihi rēx, et **rēgīna** sedēbat iuxtā eum: “ Usque ad quod tempus erit iter tuum, et quandō **reverteris**? ”. Et placuit **rēgī** **mittere** mē; et cōnstituī **eī** tempus.
+6 Dīxitque mihi rēx, et **rēgīna** sedēbat iuxtā eum: ”Usque ad quod tempus erit iter tuum, et quandō **reverteris**?”. Et placuit **rēgī** **mittere** mē; et cōnstituī **eī** tempus.
 
-7 Et dīxī **rēgī**: “ Sī **rēgī** vidētur bonum, epistulae dentur mihi ad **ducēs** regiōnis trāns flūmen, ut mē trānsīre permittant, dōnec veniam in Iūdaeam;
+7 Et dīxī **rēgī**: ”Sī **rēgī** vidētur bonum, epistulae dentur mihi ad **ducēs** regiōnis trāns flūmen, ut mē trānsīre permittant, dōnec veniam in Iūdaeam;
 
-8 et epistulam ad Asaph cūstōdem **saltūs** **rēgis**, ut det mihi ligna, ut contignāre possim portās **turris** **domūs** et mūrī cīvitātis et **domūs**, in **quā** habitābō ”. Et **dedit** mihi rēx, quia **manus** Deī meī **bona** super mē.
+8 et epistulam ad Asaph cūstōdem **saltūs** **rēgis**, ut det mihi ligna, ut contignāre possim portās **turris** **domūs** et mūrī cīvitātis et **domūs**, in **quā** habitābō”. Et **dedit** mihi rēx, quia **manus** Deī meī **bona** super mē.
 
 9 Et **vēnī** ad **ducēs** regiōnis trāns flūmen **dedī**que eīs epistulās **rēgis**. **Mīserat** autem rēx mēcum prīncipēs mīlitum et equitēs.
 
@@ -60,13 +60,13 @@
 
 16 **Magistrātus** autem nesciēbant quō abīssem aut quid ego facerem, sed et Iūdaeīs et sacerdōtibus et optimātibus et magistrātibus et reliquīs, quī faciēbant opus, usque ad id locī nihil indicāveram.
 
-17 Et dīxī eīs: “ Vōs nōstis afflīctiōnem, in **quā** sumus, quia Ierusalem **dēserta** **est**, et portae eius cōnsūmptae sunt igne; venīte et aedificēmus mūrum Ierusālem et nōn sīmus **ultrā** opprobrium ”.
+17 Et dīxī eīs: ”Vōs nōstis afflīctiōnem, in **quā** sumus, quia Ierusalem **dēserta** **est**, et portae eius cōnsūmptae sunt igne; venīte et aedificēmus mūrum Ierusālem et nōn sīmus **ultrā** opprobrium”.
 
-18 Et indicāvī eīs quod **manus** Deī meī **bona** **esset** super mē et verba **rēgis**, quae **locūtus** **esset** mihi, et dīxērunt: “ Surgāmus et aedificēmus! ”. Et cōnfortātae sunt **manūs** eōrum in bonum.
+18 Et indicāvī eīs quod **manus** Deī meī **bona** **esset** super mē et verba **rēgis**, quae **locūtus** **esset** mihi, et dīxērunt: ”Surgāmus et aedificēmus!”. Et cōnfortātae sunt **manūs** eōrum in bonum.
 
-19 Audiērunt autem Sanabāllat Horōnītēs et Thobiās servus Ammanītēs et Gosem Ārabs et subsannāvērunt nōs et dēspexērunt dīxēruntque: “ Quae **est** haec rēs, quam facitis? Numquid contrā rēgem vōs **rebellātis**? ”.
+19 Audiērunt autem Sanabāllat Horōnītēs et Thobiās servus Ammanītēs et Gosem Ārabs et subsannāvērunt nōs et dēspexērunt dīxēruntque: ”Quae **est** haec rēs, quam facitis? Numquid contrā rēgem vōs **rebellātis**?”.
 
-20 Et **dedī** eīs respōnsum dīcēns: “ Deus caelī ipse nōs facit prōsperārī, et nōs servī eius sumus; surgāmus et aedificēmus. Vōbīs autem nōn **est** pars et iūs et **memoriā** in Ierusālem ”.
+20 Et **dedī** eīs respōnsum dīcēns: ”Deus caelī ipse nōs facit prōsperārī, et nōs servī eius sumus; surgāmus et aedificēmus. Vōbīs autem nōn **est** pars et iūs et **memoriā** in Ierusālem”.
 
 ## 3
 
@@ -136,9 +136,9 @@
 
 33 Factum **est** autem, cum audīsset Sanabāllat quod aedificārēmus mūrum, īrātus **est** et indignātus **est** nimis et subsannāvit Iūdaeōs
 
-34 et dīxit **cōram** frātribus **suīs** et optimātibus Samarīae: “ Quid Iūdaeī faciunt imbēcillēs? Num **hoc** concēditur eīs? Num, quia sacrificant, complēbunt in **ūnā** **diē**? Numquid vīvificāre poterunt lapidēs dē acervīs pulveris, quī combustī sunt? ”.
+34 et dīxit **cōram** frātribus **suīs** et optimātibus Samarīae: ”Quid Iūdaeī faciunt imbēcillēs? Num **hoc** concēditur eīs? Num, quia sacrificant, complēbunt in **ūnā** **diē**? Numquid vīvificāre poterunt lapidēs dē acervīs pulveris, quī combustī sunt?”.
 
-35 Sed et Thobīās Ammanitēs, quī erat ad **latus** eius, ait: “ **Sine** aedificāre; sī ascenderit vulpēs, dīruet mūrum eōrum lapideum ”.
+35 Sed et Thobīās Ammanitēs, quī erat ad **latus** eius, ait: ”**Sine** aedificāre; sī ascenderit vulpēs, dīruet mūrum eōrum lapideum”.
 
 36 Audī, Deus noster, quia factī sumus irrīsiō! Converte contumēliam eōrum super caput eōrum et dā eōs in irrīsiōnem in **terrā** captīvitātis!
 
@@ -154,15 +154,15 @@
 
 3 Et ōrāvimus Deum nostrum et posuimus cūstōdiam **diē** ac nocte contrā eōs.
 
-4 Dīxit autem Iūdās: “ **Dēbilitāta** **est** fortitūdō **portantis**, et humus **nimia** **est**; et nōs nōn poterimus aedificāre mūrum ”.
+4 Dīxit autem Iūdās: ”**Dēbilitāta** **est** fortitūdō **portantis**, et humus **nimia** **est**; et nōs nōn poterimus aedificāre mūrum”.
 
-5 Et dīxērunt hostēs nostrī: “ Nesciant et ignōrent, dōnec veniāmus in **medium** eōrum et interficiāmus eōs et cessāre faciāmus opus ”.
+5 Et dīxērunt hostēs nostrī: ”Nesciant et ignōrent, dōnec veniāmus in **medium** eōrum et interficiāmus eōs et cessāre faciāmus opus”.
 
 6 Factum **est** autem venientibus Iūdaeīs, quī habitābant iuxtā eōs, et dīcentibus nōbīs per decem vicēs ex omnibus locīs, quibus vēnerant ad nōs,
 
 7 statuimus nōs in īnferiōribus post mūrum in locīs apertīs, et ōrdināvī **populum** secundum familiās cum gladiīs **suīs** et lanceīs **suīs** et arcubus **suīs**.
 
-8 Et perspexī atque surrēxī, et aiō ad optimātēs et **magistrātūs** et ad reliquam partem vulgī: “ Nōlīte timēre ā faciē eōrum; Dominī magnī et **terribilīs** mementōte et **pugnātē** prō frātribus vestrīs, fīliīs vestrīs et fīliābus vestrīs et uxōribus vestrīs et domibus vestrīs ”.
+8 Et perspexī atque surrēxī, et aiō ad optimātēs et **magistrātūs** et ad reliquam partem vulgī: ”Nōlīte timēre ā faciē eōrum; Dominī magnī et **terribilīs** mementōte et **pugnātē** prō frātribus vestrīs, fīliīs vestrīs et fīliābus vestrīs et uxōribus vestrīs et domibus vestrīs”.
 
 9 Factum **est** autem cum audīssent inimīcī nostrī nūntiātum **esse** nōbīs, dissipāvit Deus cōnsilium eōrum, et reversī sumus omnēs ad mūrum, ūnusquisque ad opus suum.
 
@@ -172,13 +172,13 @@
 
 12 aedificantium enim ūnusquisque gladiō erat accīnctus **rēnēs**, et sīc aedificābant; et, quī clangēbat **būcina**, iuxtā mē.
 
-13 Et dīxī ad optimātēs et ad **magistrātūs** et ad reliquam partem vulgī: “ Opus grande **est** et lātum, et nōs sēparātī sumus in mūrō procul alter ab alterō;
+13 Et dīxī ad optimātēs et ad **magistrātūs** et ad reliquam partem vulgī: ”Opus grande **est** et lātum, et nōs sēparātī sumus in mūrō procul alter ab alterō;
 
-14 in locō quōcumque **audierītis** clangōrem tubae, illūc concurrite ad nōs. Deus noster pugnābit prō nōbīs ”.
+14 in locō quōcumque **audierītis** clangōrem tubae, illūc concurrite ad nōs. Deus noster pugnābit prō nōbīs”.
 
 15 Et sīc nōs fēcimus opus, et **media** pars nostrum tenēbat lanceās ab ascēnsū aurōrae, dōnec ēgrediantur astra.
 
-16 In tempore **quoque** illō dīxī **populō**: “ Ūnusquisque cum puerō suō pernoctet in **mediō** Ierusālem; et erit nōbīs **cūstōdia** per noctem, et opus per diem ”.
+16 In tempore **quoque** illō dīxī **populō**: ”Ūnusquisque cum puerō suō pernoctet in **mediō** Ierusālem; et erit nōbīs **cūstōdia** per noctem, et opus per diem”.
 
 17 Ego autem et frātrēs meī et puerī meī et cūstōdēs, quī erant post mē, nōn dēpōnēbāmus vestīmenta **nostra**; ūnusquisque tenēbat gladium in **dexterā** **suā**.
 
@@ -186,29 +186,29 @@
 
 1 Et **factus** **est** clāmor **populī** et uxōrum eius magnus adversus frātrēs suōs Iūdaeōs.
 
-2 Et erant quī dīcerent: “ Fīliōs nostrōs et fīliās nostrās pignōrāvimus, ut acciperēmus frūmentum et comederēmus et vīverēmus! ”.
+2 Et erant quī dīcerent: ”Fīliōs nostrōs et fīliās nostrās pignōrāvimus, ut acciperēmus frūmentum et comederēmus et vīverēmus!”.
 
-3 Et erant quī dīcerent: “ Agrōs nostrōs et vīneās et domōs nostrās opposuimus, ut acciperēmus frūmentum in famē! ”.
+3 Et erant quī dīcerent: ”Agrōs nostrōs et vīneās et domōs nostrās opposuimus, ut acciperēmus frūmentum in famē!”.
 
-4 Et aliī dīcēbant: “ Mūtuō sūmpsimus pecūniās in **tribūta** **rēgis** prō agrīs nostrīs et vīneīs nostrīs.
+4 Et aliī dīcēbant: ”Mūtuō sūmpsimus pecūniās in **tribūta** **rēgis** prō agrīs nostrīs et vīneīs nostrīs.
 
-5 Et nunc sīcut **carō** frātrum nostrōrum sīc **carō** **nostra** **est**, et sīcut fīliī eōrum **ita** et fīliī nostrī; ecce nōs subiugāmus fīliōs nostrōs et fīliās nostrās in servitūtem, et dē fīliābus nostrīs quaedam iam in servitūte subiugātae sunt, nec habēmus unde possint redimī, quia agrōs nostrōs et vīneās nostrās aliī **possident** ”.
+5 Et nunc sīcut **carō** frātrum nostrōrum sīc **carō** **nostra** **est**, et sīcut fīliī eōrum **ita** et fīliī nostrī; ecce nōs subiugāmus fīliōs nostrōs et fīliās nostrās in servitūtem, et dē fīliābus nostrīs quaedam iam in servitūte subiugātae sunt, nec habēmus unde possint redimī, quia agrōs nostrōs et vīneās nostrās aliī **possident**”.
 
 6 Et īrātus sum nimis, cum audīssem clāmōrem eōrum secundum verba haec.
 
-7 Cōgitāvīque in **corde** meō et increpāvī optimātēs et **magistrātūs** et dīxī eīs: “ Ūsūrās singulī ā frātribus vestrīs exigitis! ”. Et congregāvī adversum eōs contiōnem magnam
+7 Cōgitāvīque in **corde** meō et increpāvī optimātēs et **magistrātūs** et dīxī eīs: ”Ūsūrās singulī ā frātribus vestrīs exigitis!”. Et congregāvī adversum eōs contiōnem magnam
 
-8 et dīxī eīs: “ Nōs, ut **scītis**, redēmimus frātrēs nostrōs Iūdaeōs, quī vēnditī fuerant gentibus, secundum possibilitātem nostram; quīn potius et vōs vēndētis frātrēs vestrōs, ut vēndentur nōbīs? ”. Et siluērunt nec invēnērunt quid respondērent.
+8 et dīxī eīs: ”Nōs, ut **scītis**, redēmimus frātrēs nostrōs Iūdaeōs, quī vēnditī fuerant gentibus, secundum possibilitātem nostram; quīn potius et vōs vēndētis frātrēs vestrōs, ut vēndentur nōbīs?”. Et siluērunt nec invēnērunt quid respondērent.
 
-9 Dīxīque ad eōs: “ Nōn **est** **bona** rēs, quam facitis. Quārē nōn in timōre Deī nostrī **ambulātīs**, nē exprobrētur nōbīs ā gentibus inimīcīs nostrīs?
+9 Dīxīque ad eōs: ”Nōn **est** **bona** rēs, quam facitis. Quārē nōn in timōre Deī nostrī **ambulātīs**, nē exprobrētur nōbīs ā gentibus inimīcīs nostrīs?
 
 10 Et ego et frātrēs meī et puerī meī commodāvimus plūrimīs pecūniam et frūmentum; nōn repetāmus ūsūrās istās.
 
-11 **Reddite** eīs hodiē agrōs suōs et vīneās suās et **olīvētā** **suā** et domōs suās et centēsimam pecūniae frūmentī vīnī et oleī, quam **exigere** **solētis** ab eīs ”.
+11 **Reddite** eīs hodiē agrōs suōs et vīneās suās et **olīvētā** **suā** et domōs suās et centēsimam pecūniae frūmentī vīnī et oleī, quam **exigere** **solētis** ab eīs”.
 
-12 Et dīxērunt: “ Reddēmus et ab eīs nihil quaerēmus; sīcque faciēmus, ut **loqueris** ”. Et vocāvī sacerdōtēs et fēcī eōs iūrāre, ut facerent, sīcut dictum erat.
+12 Et dīxērunt: ”Reddēmus et ab eīs nihil quaerēmus; sīcque faciēmus, ut **loqueris**”. Et vocāvī sacerdōtēs et fēcī eōs iūrāre, ut facerent, sīcut dictum erat.
 
-13 Īnsuper excussī **sinum** meum et dīxī: “ Sīc excutiat Deus omnem **virum**, quī nōn complēverit verbum istud, dē domō **suā** et dē labōribus **suīs**; sīc excutiātur et vacuus fīat! ”. Et dīxit **ūniversa** multitūdō: “ Āmēn! ”. Et laudāvērunt Deum. Fēcit ergō **populus**, sīcut erat dictum.
+13 Īnsuper excussī **sinum** meum et dīxī: ”Sīc excutiat Deus omnem **virum**, quī nōn complēverit verbum istud, dē domō **suā** et dē labōribus **suīs**; sīc excutiātur et vacuus fīat!”. Et dīxit **ūniversa** multitūdō: ”Āmēn!”. Et laudāvērunt Deum. Fēcit ergō **populus**, sīcut erat dictum.
 
 14 Ā **diē** autem **illa**, **quā** praecēperat rēx mihi, ut essem dux in **terrā** Iūdae, ab annō vīcēsimō usque ad annum trīcēsimum secundum **Artaxerxīs** **rēgis**, per annōs duodecim ego et frātrēs meī annōnās, quae ducibus dēbēbantur, nōn **comedimus**.
 
@@ -226,25 +226,25 @@
 
 1 Factum **est** autem cum audīsset Sanabāllat et Thobiās et Gosem Ārabs et cēterī inimīcī nostrī, quod aedificāssem ego mūrum, et nōn **esset** in ipsō **residua** interruptiō — usque ad tempus autem illud valvās nōn posueram in portīs —
 
-2 mīsērunt Sanabāllat et Gosem ad mē dīcentēs: “ **Vēnī**, et conveniāmus in Cephirim in campō Ōnō ”. Ipsī autem cōgitābant, ut facerent mihi **mālum**.
+2 mīsērunt Sanabāllat et Gosem ad mē dīcentēs: ”**Vēnī**, et conveniāmus in Cephirim in campō Ōnō”. Ipsī autem cōgitābant, ut facerent mihi **mālum**.
 
-3 Mīsī ergō ad eōs nūntiōs dīcēns: “ Opus grande ego faciō et nōn possum **dēscendere**; cūr cessāre oportet opus, sī desistērō et dēscenderō ad vōs? ”.
+3 Mīsī ergō ad eōs nūntiōs dīcēns: ”Opus grande ego faciō et nōn possum **dēscendere**; cūr cessāre oportet opus, sī desistērō et dēscenderō ad vōs?”.
 
 4 Mīsērunt autem ad mē secundum verbum **hoc** per quattuor vicēs, et respondī eīs iuxtā sermōnem priōrem.
 
 5 Et mīsit ad mē Sanabāllat iuxtā verbum prius **quīntā** **vice** puerum suum, et epistulam nōn obsignātam habēbat in manū **suā**, in **quā** erat scrīptum:
 
-6 “ In gentibus audītum **est**, et Gosem dīxit quod tū et Iūdaeī cōgitētis rebellāre, et proptereā aedificēs mūrum et **levāre** tē **velīs** super eōs rēgem; iuxtā hanc **vōcem**
+6 ”In gentibus audītum **est**, et Gosem dīxit quod tū et Iūdaeī cōgitētis rebellāre, et proptereā aedificēs mūrum et **levāre** tē **velīs** super eōs rēgem; iuxtā hanc **vōcem**
 
-7 et prophētās **posuerīs**, quī **praedīcent** dē tē in Ierusālem dīcentēs: “Rēx in **Iūdaeā** **est**!”. Nunc autem audītūrus **est** rēx verba haec; idcircō nunc **vēnī**, ut ineāmus cōnsilium pariter ”.
+7 et prophētās **posuerīs**, quī **praedīcent** dē tē in Ierusālem dīcentēs: “Rēx in **Iūdaeā** **est**!”. Nunc autem audītūrus **est** rēx verba haec; idcircō nunc **vēnī**, ut ineāmus cōnsilium pariter”.
 
-8 Et mīsī ad eum dīcēns: “ Nōn **est** factum secundum verba haec, quae tū **loqueris**; dē **corde** enim tuō tū compōnis haec ”.
+8 Et mīsī ad eum dīcēns: ”Nōn **est** factum secundum verba haec, quae tū **loqueris**; dē **corde** enim tuō tū compōnis haec”.
 
-9 Omnēs enim hī terrēbant nōs cōgitantēs: “ Fatīgābuntur **manūs** eōrum ab opere, et nōn complēbitur ”. Quam ob causam **magis** cōnfortāvī **manūs** meās.
+9 Omnēs enim hī terrēbant nōs cōgitantēs: ”Fatīgābuntur **manūs** eōrum ab opere, et nōn complēbitur”. Quam ob causam **magis** cōnfortāvī **manūs** meās.
 
-10 Et **ingressus** sum domum Semēiae fīliī Dalāiae fīliī Meetabel, ubi erat dētentus. Quī ait: “ Tractēmus nōbīscum in domō Deī, in **mediō** templī, et claudāmus portās **aedis**, quia ventūrī sunt, ut interficiant tē; utique nocte ventūrī sunt ad **occīdendum** tē”.
+10 Et **ingressus** sum domum Semēiae fīliī Dalāiae fīliī Meetabel, ubi erat dētentus. Quī ait: ”Tractēmus nōbīscum in domō Deī, in **mediō** templī, et claudāmus portās **aedis**, quia ventūrī sunt, ut interficiant tē; utique nocte ventūrī sunt ad **occīdendum** tē”.
 
-11 Et dīxī: “ Num quisquam **similis** meī **fugit**? Et **quis** ut ego ingrediētur templum et vīvet? Nōn ingrediar ”.
+11 Et dīxī: ”Num quisquam **similis** meī **fugit**? Et **quis** ut ego ingrediētur templum et vīvet? Nōn ingrediar”.
 
 12 Et intellēxī quod Deus nōn mīsisset eum, sed quasi vāticināns **locūtus** **esset** ad mē, quia Thobiās et Sanabāllat condūxerant eum.
 
@@ -268,7 +268,7 @@
 
 2 praeposuī Hanānī frātrem meum et Hanāniam prīncipem **arcis** suprā Ierusālem — ipse enim quasi vir vērāx et timēns Deum plūs cēterīs vidēbātur —
 
-3 et dīxī eīs: “ Nōn aperiantur portae Ierusālem usque ad calōrem **sōlis**. Dum adhūc calor **permanet**, claudantur portae et oppīlentur; et pōnant cūstōdēs dē habitātōribus Ierusālem, singulōs per vicēs suās et ūnumquemque contrā domum suam ”.
+3 et dīxī eīs: ”Nōn aperiantur portae Ierusālem usque ad calōrem **sōlis**. Dum adhūc calor **permanet**, claudantur portae et oppīlentur; et pōnant cūstōdēs dē habitātōribus Ierusālem, singulōs per vicēs suās et ūnumquemque contrā domum suam”.
 
 4 Cīvitās autem erat **lāta** nimis et **grandīs**, et **populus** parvus in **mediō** eius, et nōn erant **domūs** aedificātae.
 
@@ -424,17 +424,17 @@ Et vēnerat **mēnsis** septimus; fīliī autem Isrāēl erant in cīvitātibus 
 
 5 Et aperuit Esdrās librum **cōram** omnī **populō** — super ūniversum quippe **populum** ēminēbat — et, cum aperuisset eum, stetit **omnis** **populus**.
 
-6 Et benedīxit Esdrās Dominō, Deō magnō; et respondit **omnis** **populus**: “ Āmēn, āmēn ”, ēlevāns **manūs** suās. Et incurvātī sunt et adōrāvērunt Deum prōnī in terram.
+6 Et benedīxit Esdrās Dominō, Deō magnō; et respondit **omnis** **populus**: ”Āmēn, āmēn”, ēlevāns **manūs** suās. Et incurvātī sunt et adōrāvērunt Deum prōnī in terram.
 
 7 Porrō Iesua et Bānī et Serebia, Iamin, Accub, Sabethaī, Hodiā, Maasia, Celitā, Azariās, Iozabad, Hanan, Phalāia et Lēvītae ērudiēbant **populum** in **lēge**; **populus** autem stābat in gradū suō.
 
 8 Et lēgērunt in **librō** **lēgis** Deī **distīnctē** et aperiērunt sēnsum et explicāvērunt lēctiōnem.
 
-9 Dīxit autem Nehemiās, ipse **est** praepositus, et Esdrās sacerdōs et **scrība** et Lēvītae īnstruentēs **populum** ūniversō **populō**: “ Diēs iste sānctificātus **est** Dominō Deō nostrō! Nōlīte lūgēre et nōlīte flēre ”. Flēbat enim **omnis** **populus**, cum audīret verba **lēgis**.
+9 Dīxit autem Nehemiās, ipse **est** praepositus, et Esdrās sacerdōs et **scrība** et Lēvītae īnstruentēs **populum** ūniversō **populō**: ”Diēs iste sānctificātus **est** Dominō Deō nostrō! Nōlīte lūgēre et nōlīte flēre”. Flēbat enim **omnis** **populus**, cum audīret verba **lēgis**.
 
-10 Et dīxit eīs: “ **Īte**, comedite pinguia et **bibitē** mulsum et mittite partēs hīs, quī nōn praeparāvērunt sibi, quia sānctus diēs Dominī nostrī **est**; et nōlīte contrīstārī, gaudium etenim Dominī **est** fortitūdō **vestra** ”.
+10 Et dīxit eīs: ”**Īte**, comedite pinguia et **bibitē** mulsum et mittite partēs hīs, quī nōn praeparāvērunt sibi, quia sānctus diēs Dominī nostrī **est**; et nōlīte contrīstārī, gaudium etenim Dominī **est** fortitūdō **vestra**”.
 
-11 Lēvītae autem silentium faciēbant in omnī **populō** dīcentēs: “ Tacēte, quia diēs sānctus **est**, et nōlīte dolēre ”.
+11 Lēvītae autem silentium faciēbant in omnī **populō** dīcentēs: ”Tacēte, quia diēs sānctus **est**, et nōlīte dolēre”.
 
 12 Abiit itaque **omnis** **populus**, ut comederet et biberet et mitteret partēs et faceret laetitiam magnam, quia intellēxerant verba, quae docuerat eōs.
 
@@ -442,7 +442,7 @@ Et vēnerat **mēnsis** septimus; fīliī autem Isrāēl erant in cīvitātibus 
 
 14 Et invēnērunt scrīptum in **lēge**, quam praecēpit Dominus per Moysēn, ut habitent fīliī Isrāēl in tabernāculīs in **diē** sollemnī **mēnse** septimō
 
-15 et ut **praedīcent** et dīvulgent **vōcem** in ūniversīs urbibus **suīs** et in Ierusālem dīcentēs: “ Ēgrediminī in montem et afferte frondēs olīvae et frondēs oleastrī, frondēs myrtī et rāmōs palmārum et frondēs lignī nemorōsī, ut fīant tabernācula, sīcut scrīptum **est** ”.
+15 et ut **praedīcent** et dīvulgent **vōcem** in ūniversīs urbibus **suīs** et in Ierusālem dīcentēs: ”Ēgrediminī in montem et afferte frondēs olīvae et frondēs oleastrī, frondēs myrtī et rāmōs palmārum et frondēs lignī nemorōsī, ut fīant tabernācula, sīcut scrīptum **est**”.
 
 16 Et **ēgressus** **est** **populus**, et attulērunt fēcēruntque sibi tabernācula, ūnusquisque in **dōmate** suō et in ātriīs **suīs** et in ātriīs **domūs** Deī et in **platēā** portae Aquārum et in **platēā** portae Ephraim.
 
@@ -462,7 +462,7 @@ Et vēnerat **mēnsis** septimus; fīliī autem Isrāēl erant in cīvitātibus 
 
 5 Et dīxērunt Lēvītae Iesua et Cadmihel, Bānī, Hasabneiā, Serebia, Hodiā, Sebānia, Phethahia:
 
-“ Surgite, benedīcite Dominō Deō vestrō
+”Surgite, benedīcite Dominō Deō vestrō
 
 ab aetēmō usque in aeternum,
 
@@ -748,11 +748,11 @@ et corporibus nostrīs dominantur et iūmentīs nostrīs
 
 secundum voluntātem suam,
 
-et in trībulātiōne **magnā** sumus ”.
+et in trībulātiōne **magnā** sumus”.
 
 ## 10
 
-1 “ Super omnibus ergō hīs nōs ipsī percutimus foedus et scrībimus, et signant prīncipēs nostrī, Lēvītae nostrī et sacerdōtēs nostrī ”.
+1 ”Super omnibus ergō hīs nōs ipsī percutimus foedus et scrībimus, et signant prīncipēs nostrī, Lēvītae nostrī et sacerdōtēs nostrī”.
 
 2 Signātōrēs autem fuērunt: Nehemiās praepositus, fīlius Hachaliae, et Sedeciās,
 
@@ -1022,7 +1022,7 @@ et in trībulātiōne **magnā** sumus ”.
 
 10 Et cognōvī quod partēs Lēvītārum nōn fuissent datae, et fūgisset ūnusquisque in campum suum dē **Lēvītīs** et cantōribus, quī ministrābant.
 
-11 Et ēgī causam adversus **magistrātūs** et dīxī: “ Quārē dērelīquimus domum Deī? ”. Et congregāvī eōs et fēcī stāre in statiōnibus **suīs**.
+11 Et ēgī causam adversus **magistrātūs** et dīxī: ”Quārē dērelīquimus domum Deī?”. Et congregāvī eōs et fēcī stāre in statiōnibus **suīs**.
 
 12 Et **omnis** **Iūda** apportābat decimam frūmentī, vīnī et oleī in horrea.
 
@@ -1034,15 +1034,15 @@ et in trībulātiōne **magnā** sumus ”.
 
 16 Et ibi Tyriī habitāvērunt in **eā** īnferentēs piscēs et omnia vēnālia et vēndēbant in sabbatīs fīliīs Iūdae in Ierusālem.
 
-17 Et obiūrgāvī optimātēs Iūdae et dīxī eīs: “ Quae **est** haec rēs **mala**, quam vōs facitis, et **prōfānātis** diem sabbatī?
+17 Et obiūrgāvī optimātēs Iūdae et dīxī eīs: ”Quae **est** haec rēs **mala**, quam vōs facitis, et **prōfānātis** diem sabbatī?
 
-18 Numquid nōn haec fēcērunt patrēs nostrī, et addūxit Deus noster super nōs omne **malum** **hoc** et super cīvitātem hanc? Et vōs **additis** īrācundiam super Isrāēl prōfānandō sabbatum! ”.
+18 Numquid nōn haec fēcērunt patrēs nostrī, et addūxit Deus noster super nōs omne **malum** **hoc** et super cīvitātem hanc? Et vōs **additis** īrācundiam super Isrāēl prōfānandō sabbatum!”.
 
 19 Factum **est** autem, cum obscūrātae **essent** portae Ierusālem ante diem sabbatī, dīxī, et clausērunt iānuās; et praecēpī, ut nōn aperīrent eās usque post sabbatum. Et dē puerīs meīs cōnstituī super portās, ut nūllus īnferret onus in **diē** sabbatī.
 
 20 Et mānsērunt negōtiātōrēs et vēndentēs **ūniversa** vēnālia **foris** Ierusālem semel et bis.
 
-21 Et contestātus sum eōs et dīxī eīs: “ Quārē **manētis** ex adversō mūrī? Sī iterum **hoc** **fēcerītis**, **manum** mittam in vōs ”. Itaque ex tempore illō nōn vēnērunt in sabbatō.
+21 Et contestātus sum eōs et dīxī eīs: ”Quārē **manētis** ex adversō mūrī? Sī iterum **hoc** **fēcerītis**, **manum** mittam in vōs”. Itaque ex tempore illō nōn vēnērunt in sabbatō.
 
 22 Dīxī **quoque** **Lēvītis**, ut mundārentur et venīrent ad cūstōdiendās portās et sānctificandam diem sabbatī.
 
@@ -1054,9 +1054,9 @@ Et prō **hōc** ergō mementō meī, Deus meus, et **parce** mihi secundum mult
 
 25 Et obiūrgāvī eōs et maledīxī et **cecidī** quōsdam ex eīs et dēcalvāvī eōs; et adiūrāvī in Deō, ut nōn darent fīliās suās fīliīs eōrum et nōn acciperent dē fīliābus eōrum fīliīs **suīs** et sibimetipsīs dīcēns:
 
-26 “ Numquid nōn in huiuscemodī rē peccāvit Salomōn rēx Isrāēl? Et **certē** in gentibus multīs nōn erat rēx **similis** **eī**, et **dīlēctus** Deō suō erat, et posuit eum Deus rēgem super omnem Isrāēl; et ipsum ergō dūxērunt ad peccātum mulierēs aliēnigenae.
+26 ”Numquid nōn in huiuscemodī rē peccāvit Salomōn rēx Isrāēl? Et **certē** in gentibus multīs nōn erat rēx **similis** **eī**, et **dīlēctus** Deō suō erat, et posuit eum Deus rēgem super omnem Isrāēl; et ipsum ergō dūxērunt ad peccātum mulierēs aliēnigenae.
 
-27 Numquid et vōbīs obsequentēs faciēmus omne **malum** grande **hoc**, ut praevāricēmur in Deō nostrō et dūcāmus uxōrēs peregrīnās? ”.
+27 Numquid et vōbīs obsequentēs faciēmus omne **malum** grande **hoc**, ut praevāricēmur in Deō nostrō et dūcāmus uxōrēs peregrīnās?”.
 
 28 Ūnus autem dē fīliīs Ioiada fīliī Eliasib **sacerdōtis** magnī gener erat Sanabāllat Horōnītēs, quem fugāvī ā mē.
 

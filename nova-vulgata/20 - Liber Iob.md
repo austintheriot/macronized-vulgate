@@ -13,47 +13,47 @@
 
 4 Et ībant fīliī eius et faciēbant convīvium per domōs ūnusquisque in **diē** suō; et mittentēs vocābant trēs sorōrēs suās, ut comederent et biberent cum eīs.
 
-5 Cumque in orbem trānsīssent diēs convīviī, mittēbat ad eōs Iob et sānctificābat illōs; cōnsurgēnsque dīlūculō offerēbat holocausta prō singulīs. Dīcēbat enim: “ Nē forte peccāverint fīliī meī et benedīxerint Deō in cordibus **suīs** ”. Sīc faciēbat Iob cūnctīs diēbus.
+5 Cumque in orbem trānsīssent diēs convīviī, mittēbat ad eōs Iob et sānctificābat illōs; cōnsurgēnsque dīlūculō offerēbat holocausta prō singulīs. Dīcēbat enim: ”Nē forte peccāverint fīliī meī et benedīxerint Deō in cordibus **suīs**”. Sīc faciēbat Iob cūnctīs diēbus.
 
 6 Quādam autem **diē**, cum vēnissent fīliī Deī, ut assisterent **cōram** Dominō, affuit inter eōs etiam **Satan**.
 
-7 Cui dīxit Dominus: “ Unde **venīs**? ”. Quī respondēns ait: “ Circuīvī terram et perambulāvī eam ”.
+7 Cui dīxit Dominus: ”Unde **venīs**?”. Quī respondēns ait: ”Circuīvī terram et perambulāvī eam”.
 
-8 Dīxitque Dominus ad eum: “ Numquid cōnsīderāstī servum meum Iob, quod nōn sit **eī** **similis** in **terrā**, homō simplex et rēctus ac timēns Deum et recēdēns ā **malō**? ”.
+8 Dīxitque Dominus ad eum: ”Numquid cōnsīderāstī servum meum Iob, quod nōn sit **eī** **similis** in **terrā**, homō simplex et rēctus ac timēns Deum et recēdēns ā **malō**?”.
 
-9 Cui respondēns **Satān** ait: “ Numquid Iob frūstrā timet Deum?
+9 Cui respondēns **Satān** ait: ”Numquid Iob frūstrā timet Deum?
 
 10 **Nōnne** tū vāllāstī eum ac domum eius ūniversamque substantiam per circuitum, operibus manuum eius benedīxistī, et possessiō eius crēvit in **terrā**?
 
-11 Sed extende paululum **manum** tuam et tange **cūncta**, quae **possidet**, **nisi** in faciem benedīxerit tibi ”.
+11 Sed extende paululum **manum** tuam et tange **cūncta**, quae **possidet**, **nisi** in faciem benedīxerit tibi”.
 
-12 Dīxit ergō Dominus ad **Satan**: “ Ecce, **ūniversa**, quae habet, in manū **tuā** sunt; tantum in eum nē extendās **manum** tuam ”. **Ēgressus**que **est** **Satān** ā faciē Dominī.
+12 Dīxit ergō Dominus ad **Satan**: ”Ecce, **ūniversa**, quae habet, in manū **tuā** sunt; tantum in eum nē extendās **manum** tuam”. **Ēgressus**que **est** **Satān** ā faciē Dominī.
 
 13 Cum autem quādam **diē** fīliī et fīliae eius comederent et biberent vīnum in domō frātris **suī** prīmōgenitī,
 
-14 nūntius **venit** ad Iob, quī dīceret: “ Bovēs arābant, et asinae pāscēbantur iuxtā eōs;
+14 nūntius **venit** ad Iob, quī dīceret: ”Bovēs arābant, et asinae pāscēbantur iuxtā eōs;
 
-15 et irruērunt Sabaeī tulēruntque eōs et puerōs percussērunt gladiō, et ēvāsī ego **sōlus**, ut nūntiārem tibi ”.
+15 et irruērunt Sabaeī tulēruntque eōs et puerōs percussērunt gladiō, et ēvāsī ego **sōlus**, ut nūntiārem tibi”.
 
-16 Cumque adhūc ille loquerētur, **venit** alter et dīxit: “ **Ignis** Deī **cecidit** ē caelō et ussit ovēs puerōsque cōnsūmpsit, et **effūgī** ego **sōlus**, ut nūntiārem tibi ”.
+16 Cumque adhūc ille loquerētur, **venit** alter et dīxit: ”**Ignis** Deī **cecidit** ē caelō et ussit ovēs puerōsque cōnsūmpsit, et **effūgī** ego **sōlus**, ut nūntiārem tibi”.
 
-17 Sed et illō adhūc loquente, **venit** **alius** et dīxit: “ Chaldaeī fēcērunt trēs turmās et invāsērunt camēlōs et tulērunt eōs necnōn et puerōs percussērunt gladiō, et ego **fūgī** **sōlus**, ut nūntiārem tibi ”.
+17 Sed et illō adhūc loquente, **venit** **alius** et dīxit: ”Chaldaeī fēcērunt trēs turmās et invāsērunt camēlōs et tulērunt eōs necnōn et puerōs percussērunt gladiō, et ego **fūgī** **sōlus**, ut nūntiārem tibi”.
 
-18 Adhūc loquēbātur ille, et ecce **alius** intrāvit et dīxit: “ Fīliīs tuīs et fīliābus vēscentibus et bibentibus vīnum in domō frātris **suī** prīmōgenitī,
+18 Adhūc loquēbātur ille, et ecce **alius** intrāvit et dīxit: ”Fīliīs tuīs et fīliābus vēscentibus et bibentibus vīnum in domō frātris **suī** prīmōgenitī,
 
-19 **repente** ventus vehemēns irruit ā regiōne dēsertī et concussit quattuor angulōs **domūs**; quae corruēns oppressit līberōs tuōs, et mortuī sunt, et **effūgī** ego **sōlus**, ut nūntiārem tibi ”.
+19 **repente** ventus vehemēns irruit ā regiōne dēsertī et concussit quattuor angulōs **domūs**; quae corruēns oppressit līberōs tuōs, et mortuī sunt, et **effūgī** ego **sōlus**, ut nūntiārem tibi”.
 
 20 Tunc surrēxit Iob et scidit vestīmenta **sua** et, tōnsō **capite**, corruēns in terram adōrāvit
 
 21 et dīxit:
 
-“ Nūdus **ēgressus** sum dē uterō mātris meae
+”Nūdus **ēgressus** sum dē uterō mātris meae
 
 et nūdus revertar illūc.
 
 Dominus **dēdit**, Dominus abstulit; sīcut Dominō placuit, **ita** factum **est**:
 
-sit **nōmen** Dominī benedictum ”.
+sit **nōmen** Dominī benedictum”.
 
 22 In omnibus hīs nōn peccāvit Iob labiīs **suīs** neque stultum quid contrā Deum **locūtus** **est**.
 
@@ -61,15 +61,15 @@ sit **nōmen** Dominī benedictum ”.
 
 1 Factum **est** autem, cum quādam **diē** vēnissent fīliī Deī, ut stārent **cōram** Dominō, **venit** **quoque** **Satān** inter eōs, ut stāret in cōnspectū eius.
 
-2 Dīxit Dominus ad **Satan**: “ Unde **venīs**? ”. Quī respondēns ait: “ Circuīvī terram et perambulāvī eam ”.
+2 Dīxit Dominus ad **Satan**: ”Unde **venīs**?”. Quī respondēns ait: ”Circuīvī terram et perambulāvī eam”.
 
-3 Et dīxit Dominus ad **Satan**: “ Numquid cōnsīderāstī servum meum Iob, quod nōn sit **eī** **similis** in **terrā**, vir simplex et rēctus ac timēns Deum et recēdēns ā **malō** et adhūc retinēns innocentiam? Tū autem commōvistī mē adversus eum, ut afflīgerem eum frūstrā ”.
+3 Et dīxit Dominus ad **Satan**: ”Numquid cōnsīderāstī servum meum Iob, quod nōn sit **eī** **similis** in **terrā**, vir simplex et rēctus ac timēns Deum et recēdēns ā **malō** et adhūc retinēns innocentiam? Tū autem commōvistī mē adversus eum, ut afflīgerem eum frūstrā”.
 
-4 Cui respondēns **Satān** ait: “ **Pellem** prō pelle et **cūncta**, quae habet, homō dabit prō **animā** **suā**.
+4 Cui respondēns **Satān** ait: ”**Pellem** prō pelle et **cūncta**, quae habet, homō dabit prō **animā** **suā**.
 
-5 Aliōquīn mitte **manum** tuam et tange **os** eius et carnem; et tunc vidēbis, sī in faciem benedīcet tibi ”.
+5 Aliōquīn mitte **manum** tuam et tange **os** eius et carnem; et tunc vidēbis, sī in faciem benedīcet tibi”.
 
-6 Dīxit ergō Dominus ad **Satan**: “ Ecce, in manū **tuā** **est**; vērumtamen animam illīus **servā** ”.
+6 Dīxit ergō Dominus ad **Satan**: ”Ecce, in manū **tuā** **est**; vērumtamen animam illīus **servā**”.
 
 7 **Ēgressus** igitur **Satān** ā faciē Dominī, percussit Iob ulcere pessimō ā **plantā** **pedis** usque ad verticem eius.
 
@@ -77,19 +77,19 @@ sit **nōmen** Dominī benedictum ”.
 
 9 Dīxit autem illī uxor **sua**:
 
-“ Adhuctu **permanēs** in simplicitāte **tuā**?
+”Adhuctu **permanēs** in simplicitāte **tuā**?
 
-Benedic Deō et **morere** ”.
+Benedic Deō et **morere**”.
 
 10 Quī ait ad illam:
 
-“ Quasi **ūna** dē stultīs mulieribus
+”Quasi **ūna** dē stultīs mulieribus
 
 **locūta** **es**!
 
 Sī **bona** suscēpimus dē manū Deī,
 
-**mala** quārē nōn suscipiāmus? ”.
+**mala** quārē nōn suscipiāmus?”.
 
 In omnibus hīs nōn peccāvit Iob labiīs **suīs**.
 
@@ -105,7 +105,7 @@ In omnibus hīs nōn peccāvit Iob labiīs **suīs**.
 
 2 et **locūtus** **est**:
 
-3 “ Pereat diēs, in **quā** **nātus** sum,
+3 ”Pereat diēs, in **quā** **nātus** sum,
 
 et nox, in **quā** dictum **est**: “**Conceptus** **est** homō”.
 
@@ -205,13 +205,13 @@ et, quod verēbar, **accidit**.
 
 26 Nōn dissimulāvī, nōn siluī, nōn quiēvī,
 
-et **venit** super mē indignātiō ”.
+et **venit** super mē indignātiō”.
 
 ## 4
 
 1 Respondēns autem Eliphaz Themanītēs dīxit:
 
-2 “ Sī **coeperīmus** loquī tibi, forsitan **molestē** accipiēs;
+2 ”Sī **coeperīmus** loquī tibi, forsitan **molestē** accipiēs;
 
 sed conceptum sermōnem **tenēre** **quis** poterit?
 
@@ -403,13 +403,13 @@ sīcut īnfertur acervus trīticī in tempore suō.
 
 27 Ecce **hoc**, ut investīgāvimus, **ita** **est**;
 
-oboedī illī et tū sapiās tibi ”.
+oboedī illī et tū sapiās tibi”.
 
 ## 6
 
 1 Respondēns autem Iob dīxit:
 
-2 “ Utinam appendērētur aegrītū dō **mea**,
+2 ”Utinam appendērētur aegrītū dō **mea**,
 
 et calamitātem meam assūmerent in **statērā**!
 
@@ -619,13 +619,13 @@ et quārē nōn aufers inīquitātem meam?
 
 Ecce, nunc in pulvere dormiam;
 
-et, sī **manē** mē **quaesierīs**, nōn subsistam! ”.
+et, sī **manē** mē **quaesierīs**, nōn subsistam!”.
 
 ## 8
 
 1 Respondēns autem Baldad Suhītēs dīxit:
 
-2 “ Usquequō **loqueris** tālia,
+2 ”Usquequō **loqueris** tālia,
 
 et **spīritus** vehemēns sermōnēs **ōris** tuī?
 
@@ -709,13 +709,13 @@ et **labia** **tua** iūbilō.
 
 22 Quī ōdērunt tē, induentur cōnfūsiōne,
 
-et tabernāculum impiōrum nōn subsistet ”.
+et tabernāculum impiōrum nōn subsistet”.
 
 ## 9
 
 1 Et respondēns Iob ait:
 
-2 “ **Vēre** sciō quod **ita** sit,
+2 ”**Vēre** sciō quod **ita** sit,
 
 et quōmodo iustificābitur homō compositus Deō?
 
@@ -951,13 +951,13 @@ ad terram tenebrārum et umbrae **mortis**,
 
 ubi **umbra** **mortis** et nūllus ōrdō,
 
-sed sempiternus horror inhabitat ”.
+sed sempiternus horror inhabitat”.
 
 ## 11
 
 1 Respondēns autem Sophar Naamathītēs dīxit:
 
-2 “ Numquid illī, quī **multa** loquitur, nōn et respondētur?
+2 ”Numquid illī, quī **multa** loquitur, nōn et respondētur?
 
 Aut vir verbōsus iustificābitur?
 
@@ -1037,13 +1037,13 @@ et dēprecābuntur faciem tuam plūrimī.
 
 et effugium perībit ab eīs;
 
-et spēs illōrum exhālātiō animae ”.
+et spēs illōrum exhālātiō animae”.
 
 ## 12
 
 1 Respondēns autem Iob dīxit:
 
-2 “ Ergō vōs **estis** **sōlī** hominēs,
+2 ”Ergō vōs **estis** **sōlī** hominēs,
 
 et vōbīscum moriētur **sapientia**.
 
@@ -1355,13 +1355,13 @@ sīve ignōbilēs, nōn intellegit.
 
 22 Attamen **carō** eius, dum vīvet, dolet,
 
-et **anima** illīus super sēmetipsō lūget ”.
+et **anima** illīus super sēmetipsō lūget”.
 
 ## 15
 
 1 Respondēns autem Eliphaz Themanītēs dīxit:
 
-2 “ Numquid sapiēns respondēbit **sapientia** **ventōsa**
+2 ”Numquid sapiēns respondēbit **sapientia** **ventōsa**
 
 et implēbit ventō ūrente stomachum suum?
 
@@ -1503,7 +1503,7 @@ et venter eius praeparat dolōs.
 
 1 Respondēns autem Iob dīxit:
 
-2 “ Audīvī frequenter tālia!
+2 ”Audīvī frequenter tālia!
 
 onsolātōrēs molestī omnēs vōs **estis**.
 
@@ -1665,13 +1665,13 @@ et patientiam meam **quis** cōnsīderat?
 
 16 In profundissimum īnfernum dēscendent omnia **mea**;
 
-simul in pulvere erit requiēs mihi? ”.
+simul in pulvere erit requiēs mihi?”.
 
 ## 18
 
 1 Respondēns autem Baldad Suhītēs dīxit:
 
-2 “ Usque ad quem fīnem verba iactābitis?
+2 ”Usque ad quem fīnem verba iactābitis?
 
 Intellegite prius, et sīc loquāmur.
 
@@ -1751,13 +1751,13 @@ et prīmōs invādet horror.
 
 21 Haec sunt ergō tabernācula inīquī;
 
-et iste locus eius, quī ignōrat Deum ”.
+et iste locus eius, quī ignōrat Deum”.
 
 ## 19
 
 1 Respondēns autem Iob dīxit:
 
-2 “ Usquequō afflīgitis animam meam
+2 ”Usquequō afflīgitis animam meam
 
 et atteritis mē sermōnibus?
 
@@ -1873,13 +1873,13 @@ et rādīcem verbī inveniēmus contrā eum?”,
 
 quoniam ultor inīquitātum gladius **est**;
 
-et scītōte **esse** iūdicium ”.
+et scītōte **esse** iūdicium”.
 
 ## 20
 
 1 Respondēns autem Sophar Naamathītēs dīxit:
 
-2 “ Idcircō cōgitātiōnēs meae redūcunt mē,
+2 ”Idcircō cōgitātiōnēs meae redūcunt mē,
 
 eō quod **intellēctus** effulsit in mē.
 
@@ -1995,13 +1995,13 @@ dētrahētur in **diē** furōris Deī.
 
 29 Haec **est** pars hominis impiī ā Deō,
 
-et hērēditās verbōrum eius ā Dominō ”.
+et hērēditās verbōrum eius ā Dominō”.
 
 ## 21
 
 1 Respondēns autem Iob dīxit:
 
-2 “ **Audīte**, quaesō, sermōnēs
+2 ”**Audīte**, quaesō, sermōnēs
 
 meōs,
 
@@ -2137,13 +2137,13 @@ et ante sē innumerābilēs.
 
 34 Quōmodo igitur cōnsōlāminī mē frūstrā,
 
-et respōnsiōnis vestrae restat **perfidia**? ”.
+et respōnsiōnis vestrae restat **perfidia**?”.
 
 ## 22
 
 1 Respondēns autem Eliphaz Themanītēs dīxit:
 
-2 “ Numquid Deō prōdesse potest homō,
+2 ”Numquid Deō prōdesse potest homō,
 
 cum vix intellegēns sibi ipse prōderit?
 
@@ -2257,13 +2257,13 @@ et dēmissus oculīs ipse salvābitur.
 
 30 Ēripiet innocentem,
 
-ēripiētur autem in **munditiā** manuum suārum ”.
+ēripiētur autem in **munditiā** manuum suārum”.
 
 ## 23
 
 1 Respondēns autem Iob ait:
 
-2 “ Nunc **quoque** in amaritutudīne **est** **querēla** **mea**,
+2 ”Nunc **quoque** in amaritutudīne **est** **querēla** **mea**,
 
 et **manus** eius **aggravāta** **est** super gemitum meum.
 
@@ -2447,7 +2447,7 @@ et sīcut summitātēs spīcārum conterentur”.
 
 25 Quod sī nōn **est** **ita**, **quis** mē potest **arguere** **esse** mentītum
 
-et **pōnere** in nihilum verba **mea**? ”.
+et **pōnere** in nihilum verba **mea**?”.
 
 
 
@@ -2455,7 +2455,7 @@ et **pōnere** in nihilum verba **mea**? ”.
 
 1 Respondēns autem Baldad Suhītēs dīxit:
 
-2 “ Potestās et terror apud eum **est**,
+2 ”Potestās et terror apud eum **est**,
 
 quī facit pācem in sublīmibus **suīs**.
 
@@ -2473,13 +2473,13 @@ et stēllae nōn sunt mundae in cōnspectū eius;
 
 6 quantō **magis** homō putrēdō,
 
-et fīlius hominis **vermis** ”.
+et fīlius hominis **vermis**”.
 
 ## 26
 
 1 Respondēns autem Iob dīxit:
 
-2 “ Quōmodo adiūvistī imbēcillem?
+2 ”Quōmodo adiūvistī imbēcillem?
 
 Et sustentās brāchium eius, quī nōn **est** **fortis**?
 
@@ -2531,13 +2531,13 @@ et **manūs** eius **cōnfōdit** colubrum fugientem.
 
 et, cum vix parvam stillam sermōnis eius **audierīmus**,
 
-**quis** poterit tonitruum magnitūdinis illīus intuērī? ”.
+**quis** poterit tonitruum magnitūdinis illīus intuērī?”.
 
 ## 27
 
 1 Addidit **quoque** Iob assūmēns parabolam suam et dīxit:
 
-2 “ Vīvit Deus, quī abstulit iūs meum, et Omnipotēns, quī ad amāritūdinem addūxit animam meam,
+2 ”Vīvit Deus, quī abstulit iūs meum, et Omnipotēns, quī ad amāritūdinem addūxit animam meam,
 
 3 quia, dōnec superest **hālitus** in mē,
 
@@ -2739,13 +2739,13 @@ et praeparāvit et investīgāvit.
 
 28 Et dīxit hominī: “Ecce timor Dominī, **ipsa** **est** **sapientia**;
 
-et **recēdere** ā **malō** **intellegentiā**” ”.
+et **recēdere** ā **malō** **intellegentiā**””.
 
 ## 29
 
 1 Addidit **quoque** Iob assūmēns parabolam suam et dīxit:
 
-2 “ **Quis** mihi tribuat, ut sim iuxtā mēnsēs **prīstinōs**,
+2 ”**Quis** mihi tribuat, ut sim iuxtā mēnsēs **prīstinōs**,
 
 secundum diēs, quibus Deus cūstōdiēbat mē?
 
@@ -3145,7 +3145,7 @@ et animam agricolārum eius afflīxī,
 
 40 prō frūmentō oriātur mihi tribulus,
 
-et prō hordeō **herba** **foetida**! ”.
+et prō hordeō **herba** **foetida**!”.
 
 **Fīnīta** sunt verba Iob.
 
@@ -3163,7 +3163,7 @@ et prō hordeō **herba** **foetida**! ”.
 
 6 Respondēnsque Eliū fīlius Barachēl Buzītēs dīxit:
 
-“ Iūnior sum tempore,
+”Iūnior sum tempore,
 
 vōs autem antīquiōrēs;
 
@@ -3373,13 +3373,13 @@ et tacē, dum ego loquor.
 
 33 Quod sī nōn habēs, audī mē;
 
-tacē, et docēbō tē sapientiam ”.
+tacē, et docēbō tē sapientiam”.
 
 ## 34
 
 1 Prōnūntiāns itaque Eliū etiam haec **locūtus** **est**:
 
-2 “ **Audīte**, sapientēs, verba **mea**;
+2 ”**Audīte**, sapientēs, verba **mea**;
 
 et ērudītī, **auscultātē** mē.
 
@@ -3533,13 +3533,13 @@ dē respōnsiōnibus hominum inīquitātis.
 
 inter nōs plaudit manibus
 
-et multiplicat sermōnēs suōs contrā Deum ”.
+et multiplicat sermōnēs suōs contrā Deum”.
 
 ## 35
 
 1 Igitur Eliu haec rūrsum **locūtus** **est**:
 
-2 “ Numquid **aequā** tibi vidētur **tua** cōgitātiō,
+2 ”Numquid **aequā** tibi vidētur **tua** cōgitātiō,
 
 ut dīcerēs: “Iūstificātiō **mea** **cōram** Deō”?
 
@@ -3597,13 +3597,13 @@ nec ulcīscitur scelus valdē”,
 
 16 Iob frūstrā aperit **os** suum
 
-et absque **scientiā** verba multiplicat ”.
+et absque **scientiā** verba multiplicat”.
 
 ## 36
 
 1 Addēns **quoque** Eliū haec **locūtus** **est**:
 
-2 “ Sustinē mē paululum, et indicābō tibi:
+2 ”Sustinē mē paululum, et indicābō tibi:
 
 adhūc enim habeō quod prō Deō loquar.
 
@@ -3839,13 +3839,13 @@ et iūdicium et multam iūstitiam **dēprimere** nōn potest.
 
 24 Ideō timēbunt eum hominēs,
 
-nōn contemplābitur omnēs, quī sibi videntur **corde** sapientēs ”.
+nōn contemplābitur omnēs, quī sibi videntur **corde** sapientēs”.
 
 ## 38
 
 1 Respondēns autem Dominus Iob dē turbine dīxit:
 
-2 “ **Quis** **est** iste obscūrāns cōnsilium
+2 ”**Quis** **est** iste obscūrāns cōnsilium
 
 sermōnibus imperītīs?
 
@@ -4131,29 +4131,29 @@ et dē **longē** oculī eius prōspiciunt.
 
 30 Pullī eius lambent sanguinem;
 
-et, ubicumque cadāver fuerit, statim **adest** ”.
+et, ubicumque cadāver fuerit, statim **adest**”.
 
 ## 40
 
 1 Et respondēns Dominus **locūtus** **est** ad Iob:
 
-2 “ Numquid contendit cum Omnipotente reprehēnsor?
+2 ”Numquid contendit cum Omnipotente reprehēnsor?
 
-Quī arguit Deum, dēbet respondēre ad **eā** ”.
+Quī arguit Deum, dēbet respondēre ad **eā**”.
 
 3 Respondēns autem Iob Dominō dīxit:
 
-4 “ Ecce **leviter** **locūtus** sum, quid respondēbō tibi?
+4 ”Ecce **leviter** **locūtus** sum, quid respondēbō tibi?
 
 **Manum** meam pōnam super **os** meum.
 
 5 Ūnum **locūtus** sum, quod nōn repetam,
 
-et alterum, quibus **ultrā** nōn addam ”.
+et alterum, quibus **ultrā** nōn addam”.
 
 6 Respondēns autem Dominus Iob dē turbine dīxit:
 
-7 “ Accinge sīcut vir lumbōs tuōs;
+7 ”Accinge sīcut vir lumbōs tuōs;
 
 interrogābō tē, et ēdocē mē.
 
@@ -4361,13 +4361,13 @@ quī **factus** **est**, ut nūllum timēret.
 
 26 Omne **sublīme** videt:
 
-ipse **est** rēx super ūniversōs fīliōs superbiae ”.
+ipse **est** rēx super ūniversōs fīliōs superbiae”.
 
 ## 42
 
 1 Respondēns autem Iob Dominō dīxit:
 
-2 “ Sciō quia omnia **potes**,
+2 ”Sciō quia omnia **potes**,
 
 et **nūlla** tē latet cōgitātiō.
 
@@ -4389,11 +4389,11 @@ nunc autem oculus meus videt tē.
 
 6 Idcircō ipse mē reprehendō
 
-et agō paenitentiam in **favīllā** et cinere ”.
+et agō paenitentiam in **favīllā** et cinere”.
 
-7 Postquam autem **locūtus** **est** Dominus verba haec ad Iob, dīxit ad Eliphaz Themanitem: “ Īrātus **est** **furor** meus in tē et in duōs amīcōs tuōs, quoniam nōn **estis** locūtī **cōram** mē rēctum sīcut servus meus Iob.
+7 Postquam autem **locūtus** **est** Dominus verba haec ad Iob, dīxit ad Eliphaz Themanitem: ”Īrātus **est** **furor** meus in tē et in duōs amīcōs tuōs, quoniam nōn **estis** locūtī **cōram** mē rēctum sīcut servus meus Iob.
 
-8 Sūmite ergō vōbīs septem taurōs et septem arietēs et **īte** ad servum meum Iob et offerte holocaustum prō vōbīs; Iob autem servus meus ōrābit prō vōbīs. Faciem eius suscipiam, ut nōn vōbīs imputētur **stultitia**; neque enim locūtī **estis** ad mē **rēcta** sīcut servus meus Iob ”.
+8 Sūmite ergō vōbīs septem taurōs et septem arietēs et **īte** ad servum meum Iob et offerte holocaustum prō vōbīs; Iob autem servus meus ōrābit prō vōbīs. Faciem eius suscipiam, ut nōn vōbīs imputētur **stultitia**; neque enim locūtī **estis** ad mē **rēcta** sīcut servus meus Iob”.
 
 9 Abiērunt ergō Eliphaz Themanītēs et Baldad Suhītēs et Sophar Naamathītēs et fēcērunt, sīcut **locūtus** fuerat Dominus ad eōs, et suscēpit Dominus faciem Iob.
 

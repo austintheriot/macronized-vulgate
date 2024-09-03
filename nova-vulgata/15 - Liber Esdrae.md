@@ -6,11 +6,11 @@
 
 1 In annō prīmō Cȳrī **rēgis** Persārum, ut complērētur verbum Dominī ex ōre Iēremīae, suscitāvit Dominus spīritum Cȳrī **rēgis** Persārum, quī ēmīsit ēdictum in omnī rēgnō suō etiam per scrīptūram dīcēns:
 
-2 “ Haec dīcit Cȳrus rēx Persārum: Omnia **rēgna** terrae **dēdit** mihi Dominus, Deus caelī, et ipse praecēpit mihi, ut aedificārem **eī** domum in Ierusālem, quae **est** in **Iūdaeā**.
+2 ”Haec dīcit Cȳrus rēx Persārum: Omnia **rēgna** terrae **dēdit** mihi Dominus, Deus caelī, et ipse praecēpit mihi, ut aedificārem **eī** domum in Ierusālem, quae **est** in **Iūdaeā**.
 
 3 **Quis** ex vōbīs **est** dē omnī **populō** eius? Sit Dominus Deus suus cum eō, et ascendat in Ierusālem, quae **est** in **Iūdaeā**, et aedificet domum Dominī, Deī Isrāēl; ipse **est** Deus, quī **est** in Ierusālem.
 
-4 Et omnēs **reliquī** in cūnctīs locīs, ubicumque habitant, adiuventur ā **virīs** dē locō suō, argentō et aurō et **substantiā** et pecore sīcut et oblātiōnibus spontāneīs prō templō Deī, quod **est** in Ierusālem ”.
+4 Et omnēs **reliquī** in cūnctīs locīs, ubicumque habitant, adiuventur ā **virīs** dē locō suō, argentō et aurō et **substantiā** et pecore sīcut et oblātiōnibus spontāneīs prō templō Deī, quod **est** in Ierusālem”.
 
 5 Et surrēxērunt prīncipēs familiārum dē **Iūda** et Beniamin et sacerdōtēs et Lēvītae et **omnis**, cuius Deus suscitāvit spīritum, ut ascenderent ad aedificandum templum Dominī, quod erat in Ierusālem.
 
@@ -188,7 +188,7 @@ Numerus **virōrum** **populī** Isrāēl:
 
 10 Fundātō igitur ab aedificātōribus templō Dominī, stetērunt sacerdōtēs in ōrnātū suō cum tubīs, et Lēvītae fīliī Asaph in cymbalīs, ut laudārent Deum iuxtā mandātum Dāvīd **rēgis** Isrāēl.
 
-11 Et concinēbant in hymnīs et grātiārum āctiōne Dominō: “ Quoniam bonus, quoniam in aeternum **misericordiā** eius ” super Isrāēl. **Omnis** **quoque** **populus** vōciferābātur clāmōre magnō in laudandō Dominum, eō quod fundātum **esset** templum Dominī.
+11 Et concinēbant in hymnīs et grātiārum āctiōne Dominō: ”Quoniam bonus, quoniam in aeternum **misericordiā** eius” super Isrāēl. **Omnis** **quoque** **populus** vōciferābātur clāmōre magnō in laudandō Dominum, eō quod fundātum **esset** templum Dominī.
 
 12 Plūrimī etiam senēs dē sacerdōtibus et **Lēvītīs** et prīncipibus familiārum, quī vīderant oculīs **suīs** prius templum in locō suō, flēbant vōce **magnā**; et multī vōciferantēs in **laetitiā** ēlevābant **vōcem**.
 
@@ -198,9 +198,9 @@ Numerus **virōrum** **populī** Isrāēl:
 
 1 Audiērunt autem hostēs Iūdae et Beniamin, quia fīliī captīvitātis aedificārent templum Dominō, Deō Isrāēl,
 
-2 et accēdentēs ad Zorobabel et ad prīncipēs familiārum dīxērunt eīs: “ Aedificēmus vōbīscum, quia **ita** ut vōs quaerimus Deum vestrum et immolāvimus victimās ā diēbus Asarhaddon **rēgis** Assyriae, quī addūxit nōs hūc ”.
+2 et accēdentēs ad Zorobabel et ad prīncipēs familiārum dīxērunt eīs: ”Aedificēmus vōbīscum, quia **ita** ut vōs quaerimus Deum vestrum et immolāvimus victimās ā diēbus Asarhaddon **rēgis** Assyriae, quī addūxit nōs hūc”.
 
-3 Et dīxit eīs Zorobabel et Iesua et **reliquī** prīncipēs familiārum Isrāēl: “ Nōn **est** vōbīs et nōbīs, ut aedificēmus domum Deō nostrō, sed nōs ipsī **sōlī** aedificābimus Dominō, Deō Isrāēl, sīcut praecēpit nōbīs Cȳrus rēx Persārum ”.
+3 Et dīxit eīs Zorobabel et Iesua et **reliquī** prīncipēs familiārum Isrāēl: ”Nōn **est** vōbīs et nōbīs, ut aedificēmus domum Deō nostrō, sed nōs ipsī **sōlī** aedificābimus Dominō, Deō Isrāēl, sīcut praecēpit nōbīs Cȳrus rēx Persārum”.
 
 4 Factum **est** igitur, ut **populus** terrae impedīret **manus** **populī** Iūdae et turbāret eōs in aedificandō.
 
@@ -212,13 +212,13 @@ Numerus **virōrum** **populī** Isrāēl:
 
 8 Rehum praefectus et Samsāī **scrībā** scrīpsērunt epistulam ūnam dē Ierusālem Artaxerxī **rēgī** huiuscemodī:
 
-9 “ Rehum praefectus et Samsāī **scrība** et **reliquī** sociī eōrum, iūdicēs et **ducēs**, **magistrātūs** Persae, Erchuaēī, Babylōniī, Susanechaēī, **hoc** **est** Elamitae,
+9 ”Rehum praefectus et Samsāī **scrība** et **reliquī** sociī eōrum, iūdicēs et **ducēs**, **magistrātūs** Persae, Erchuaēī, Babylōniī, Susanechaēī, **hoc** **est** Elamitae,
 
-10 et cēterī dē gentibus, quās trānstulit Asenaphar magnus et glōriōsus et habitāre fēcit in cīvitātibus Samarīae et in reliquīs regiōnibus trāns flūmen in pāce ”.
+10 et cēterī dē gentibus, quās trānstulit Asenaphar magnus et glōriōsus et habitāre fēcit in cīvitātibus Samarīae et in reliquīs regiōnibus trāns flūmen in pāce”.
 
 11 **Hoc** **est** exemplar epistulae, quam mīsērunt ad eum:
 
-“ Artaxerxī **rēgī**, servī tuī, **virī**, quī sunt trāns fluvium. Igitur
+”Artaxerxī **rēgī**, servī tuī, **virī**, quī sunt trāns fluvium. Igitur
 
 12 nōtum sit **rēgī** quia Iūdaeī, quī ascendērunt ā tē ad nōs, vēnērunt in Ierusālem cīvitātem rebellem et pessimam, quam aedificant, exstruentēs mūrōs eius, fundāmenta iam compōnentēs.
 
@@ -228,9 +228,9 @@ Numerus **virōrum** **populī** Isrāēl:
 
 15 ut recēnseās in **librīs** historiārum patrum tuōrum, et inveniēs in hīs historiīs et sciēs quoniam urbs **illa** urbs **rebellis** **est** et nocēns rēgibus et prōvinciīs, et sēditiōnēs concitantur in **eā** ex diēbus antīquīs; quam ob rem et cīvitās **ipsa** **dēstrūcta** **est**.
 
-16 Nūntiāmus nōs **rēgī** quoniam, sī cīvitās **illa** **aedificāta** fuerit, et mūrī ipsīus īnstaurātī, possessiōnem trāns fluvium nōn habēbis ”.
+16 Nūntiāmus nōs **rēgī** quoniam, sī cīvitās **illa** **aedificāta** fuerit, et mūrī ipsīus īnstaurātī, possessiōnem trāns fluvium nōn habēbis”.
 
-17 Verbum mīsit rēx ad Rehum praefectum et Samsāī scrībam et ad reliquōs, quī erant in cōnsiliō eōrum, quī habitābant in **Samarīā** et in regiōne trāns fluvium: “ Pāx. Nunc igitur **scrīptūra**,
+17 Verbum mīsit rēx ad Rehum praefectum et Samsāī scrībam et ad reliquōs, quī erant in cōnsiliō eōrum, quī habitābant in **Samarīā** et in regiōne trāns fluvium: ”Pāx. Nunc igitur **scrīptūra**,
 
 18 quam mīsistis ad nōs, **manifēstē** **lēcta** **est** **cōram** mē.
 
@@ -240,7 +240,7 @@ Numerus **virōrum** **populī** Isrāēl:
 
 21 Nunc ergō praecipite, ut dēsistant istī hominēs, et urbs **illa** nōn aedificētur, dōnec forte ā mē iussum fuerit.
 
-22 Vidēte, nē negligenter **hoc** impleātis, et paulātim crēscat **malum** contrā **rēgēs** ”.
+22 Vidēte, nē negligenter **hoc** impleātis, et paulātim crēscat **malum** contrā **rēgēs**”.
 
 23 Itaque exemplum ēdictī **Artaxerxīs** **rēgis** **lectum** **est** **cōram** Rehum praefectum et Samsāī **scrībā** et cōnsiliāriīs eōrum; et abiērunt festīnī in Ierusālem ad Iūdaeōs et prohibuērunt eōs in brāchiō et rōbore.
 
@@ -252,9 +252,9 @@ Numerus **virōrum** **populī** Isrāēl:
 
 2 Tunc surrēxērunt Zorobabel fīlius Salathiēl et Iesua fīlius Iosedec et coepērunt aedificāre templum Deī in Ierusālem; prophētae autem Deī adiuvābant eōs.
 
-3 In ipsō autem tempore **vēnit** ad eōs Thathanāī, quī erat dux trāns flūmen, et Stharbuzanāī et cōnsiliāriī eōrum, sīcque dīxērunt eīs: “ **Quis** **dēdit** vōbīs potestātem, ut domum hanc aedificārētis et māteriam istam praeparārētis?
+3 In ipsō autem tempore **vēnit** ad eōs Thathanāī, quī erat dux trāns flūmen, et Stharbuzanāī et cōnsiliāriī eōrum, sīcque dīxērunt eīs: ”**Quis** **dēdit** vōbīs potestātem, ut domum hanc aedificārētis et māteriam istam praeparārētis?
 
-4 Quae sunt **nōmina** hominum auctōrum aedificātiōnis illīus? ”.
+4 Quae sunt **nōmina** hominum auctōrum aedificātiōnis illīus?”.
 
 5 Oculus autem Deī eōrum **factus** **est** super senēs Iūdaeōrum, et nōn obstitērunt eīs, usque dum rēs ad **Dārīum** referrētur, et tunc **sententia** dē hāc rē redderētur.
 
@@ -262,7 +262,7 @@ Numerus **virōrum** **populī** Isrāēl:
 
 7 Sermō, quem **miserant** **eī**, sīc **scrīptus** erat:
 
-“ **Darīō** **rēgī** pāx **omnis**.
+”**Darīō** **rēgī** pāx **omnis**.
 
 8 **Notum** sit **rēgī** īsse nōs ad Iūdaeam prōvinciam, ad domum Deī magnī, quae aedificātur lapide quadrātō, et ligna pōnuntur in parietibus; opusque illud dīligenter exstruitur et crēscit in manibus eōrum.
 
@@ -282,7 +282,7 @@ Numerus **virōrum** **populī** Isrāēl:
 
 16 Tunc itaque Sasabassar ille **vēnit** et posuit fundāmenta templī Deī in Ierusālem, et ex eō tempore usque nunc aedificātur et necdum complētum **est**”.
 
-17 Nunc ergō, sī vidētur **rēgī** bonum, recēnseat in aerāriō **rēgis**, quod **est** in Babylōne, utrumnam ā Cȳrō **rēge** potestās **data** fuerit, ut aedificārētur **domus** Deī in Ierusālem, et voluntātem **rēgis** super hāc rē mittat ad nōs ”.
+17 Nunc ergō, sī vidētur **rēgī** bonum, recēnseat in aerāriō **rēgis**, quod **est** in Babylōne, utrumnam ā Cȳrō **rēge** potestās **data** fuerit, ut aedificārētur **domus** Deī in Ierusālem, et voluntātem **rēgis** super hāc rē mittat ad nōs”.
 
 ## 6
 
@@ -290,7 +290,7 @@ Numerus **virōrum** **populī** Isrāēl:
 
 2 et inventum **est** in Ecbatanīs, quod **est** castrum in Medēnā **prōvinciā**, volūmen ūnum, et sīc **scrīptus** erat in eō commentārius:
 
-3 “ Annō prīmō Cȳrī **rēgis**, Cȳrus rēx dēcrēvit dē domō Deī, quae **est** in Ierusālem: Aedificētur **domus**, ubi immolent et sacrificent; altitūdō eius cubitōrum sexāgintā et lātitūdō eius cubitōrum sexāgintā,
+3 ”Annō prīmō Cȳrī **rēgis**, Cȳrus rēx dēcrēvit dē domō Deī, quae **est** in Ierusālem: Aedificētur **domus**, ubi immolent et sacrificent; altitūdō eius cubitōrum sexāgintā et lātitūdō eius cubitōrum sexāgintā,
 
 4 ōrdinēs dē lapidibus **quadrātīs** trēs et ōrdō dē lignīs ūnus; **sūmptus** autem dē domō **rēgis** dabuntur.
 
@@ -308,7 +308,7 @@ Numerus **virōrum** **populī** Isrāēl:
 
 11 Ā mē ergō positum **est** dēcrētum, ut **omnis** homō, quī hanc mūtāverit iussiōnem, tollātur lignum dē domō ipsīus et ērigātur et cōnfīgātur in eō; **domus** autem eius pōnātur in sterquilīnium.
 
-12 Deus autem, quī habitāre fēcit **nōmen** suum ibi, dissipet omnia **rēgna** et **populum**, quī extenderit **manum** suam, ut contemnat et dissipet domum Deī illam, quae **est** in Ierusālem. Ego **Darīus** statuī dēcrētum, quod **studiōsē** implērī volō ”.
+12 Deus autem, quī habitāre fēcit **nōmen** suum ibi, dissipet omnia **rēgna** et **populum**, quī extenderit **manum** suam, ut contemnat et dissipet domum Deī illam, quae **est** in Ierusālem. Ego **Darīus** statuī dēcrētum, quod **studiōsē** implērī volō”.
 
 13 Igitur Thathanai dux regiōnis trāns flūmen et **ducēs** et cōnsiliāriī eius, secundum quod praecēperat **Darīus** rēx, sīc dīligenter exsecūtī sunt.
 
@@ -354,7 +354,7 @@ Numerus **virōrum** **populī** Isrāēl:
 
 11 **Hoc** **est** autem exemplar epistulae, quam **dedit** rēx Artaxerxēs Esdrae sacerdōtī, scrībae ērudītō in **mandātīs** Dominī et praeceptīs eius in Isrāēl.
 
-12 “ Artaxerxēs rēx rēgum Esdrae sacerdōtī, scrībae **lēgis** Deī caelī, salūtem.
+12 ”Artaxerxēs rēx rēgum Esdrae sacerdōtī, scrībae **lēgis** Deī caelī, salūtem.
 
 13 Ā mē dēcrētum **est**, ut cuicumque placuerit in rēgnō meō dē **populō** Isrāēl et dē sacerdōtibus eius et dē **Lēvītīs** īre in Ierusālem, tēcum **vadat**.
 
@@ -382,7 +382,7 @@ Numerus **virōrum** **populī** Isrāēl:
 
 25 Tū autem, Esdra, secundum sapientiam Deī tuī, quae **est** in manū **tuā**, cōnstitue praesidēs et iūdicēs, ut iūdicent omnī **populō**, quī **est** trāns flūmen, hīs vidēlicet, quī nōvērunt lēgem Deī tuī; sed et imperītōs docēte.
 
-26 Et **omnis**, quī nōn fēcerit lēgem Deī tuī et lēgem **rēgis** dīligenter, iūdicium erit dē eō, sīve in mortem sīve in exsilium sīve in damnum substantiae eius vel **certē** in carcerem ”.
+26 Et **omnis**, quī nōn fēcerit lēgem Deī tuī et lēgem **rēgis** dīligenter, iūdicium erit dē eō, sīve in mortem sīve in exsilium sīve in damnum substantiae eius vel **certē** in carcerem”.
 
 27 Benedictus Dominus, Deus patrum nostrōrum, quī **dedit** **hoc** in **corde** **rēgis**, ut glōrificāret domum Dominī, quae **est** in Ierusālem,
 
@@ -432,7 +432,7 @@ Numerus **virōrum** **populī** Isrāēl:
 
 21 Et praedicāvī ibi ieiūnium iuxtā fluvium Ahavā, ut afflīgerēmur **cōram** Deō nostrō et peterēmus ab eō iter prōsperum nōbīs et fīliīs nostrīs ūniversaeque substantiae nostrae.
 
-22 Ērubuī enim **petere** ā **rēge** praesidium et equitēs, quī dēfenderent nōs ab inimīcō in **viā**, quia dīxerāmus **rēgī**: “ **Manus** Deī nostrī **est** super omnēs, quī quaerunt eum in bonitāte, et **potentia** eius et fortitūdō eius super omnēs, quī dērelinquunt eum ”.
+22 Ērubuī enim **petere** ā **rēge** praesidium et equitēs, quī dēfenderent nōs ab inimīcō in **viā**, quia dīxerāmus **rēgī**: ”**Manus** Deī nostrī **est** super omnēs, quī quaerunt eum in bonitāte, et **potentia** eius et fortitūdō eius super omnēs, quī dērelinquunt eum”.
 
 23 Ieiūnāvimus autem et rogāvimus Deum nostrum per **hōc**, et **ēvenit** nōbīs **prōsperē**.
 
@@ -444,9 +444,9 @@ Numerus **virōrum** **populī** Isrāēl:
 
 27 et craterēs aureōs vīgintī, quī habēbant solidōs millēnōs, et vāsa **āeris** **fulgentīs** optimī duo **pretiōsa** ut aurum.
 
-28 Et dīxī eīs: “ Vōs sānctī Dominī, et vāsa **sāncta** et argentum et aurum **cōnsecrātā** Dominō, Deō patrum nostrōrum;
+28 Et dīxī eīs: ”Vōs sānctī Dominī, et vāsa **sāncta** et argentum et aurum **cōnsecrātā** Dominō, Deō patrum nostrōrum;
 
-29 **vigilātē** et **cūstōdītē**, dōnec appendātis **cōram** prīncipibus sacerdōtum et Lēvītārum et ducibus familiārum Isrāēl in Ierusālem, in habitāculīs **domūs** Dominī ”.
+29 **vigilātē** et **cūstōdītē**, dōnec appendātis **cōram** prīncipibus sacerdōtum et Lēvītārum et ducibus familiārum Isrāēl in Ierusālem, in habitāculīs **domūs** Dominī”.
 
 30 Suscēpērunt autem sacerdōtēs et Lēvītae pondus argentī et aurī et vāsōrum, ut dēferrent Ierusālem in domum Deī nostrī.
 
@@ -464,9 +464,9 @@ Numerus **virōrum** **populī** Isrāēl:
 
 ## 9
 
-1 Postquam autem haec **complēta** sunt, accessērunt ad mē prīncipēs dīcentēs: “ Nōn **est** **sēparātus** **populus** Isrāēl, sacerdōtēs et Lēvītae ā **populīs** terrārum et abōminātiōnibus eōrum, Chananaēī vidēlicet et Hetthaēī et Pherezaēī et Iebusaēī et Ammonītārum et Mōabītārum et Aegyptiōrum et Amorraēōrum.
+1 Postquam autem haec **complēta** sunt, accessērunt ad mē prīncipēs dīcentēs: ”Nōn **est** **sēparātus** **populus** Isrāēl, sacerdōtēs et Lēvītae ā **populīs** terrārum et abōminātiōnibus eōrum, Chananaēī vidēlicet et Hetthaēī et Pherezaēī et Iebusaēī et Ammonītārum et Mōabītārum et Aegyptiōrum et Amorraēōrum.
 
-2 Tulērunt enim dē fīliābus eōrum sibi et fīliīs **suīs** et commiscuērunt sēmen sānctum cum **populīs** terrārum; **manūs** etiam prīncipum et magistrātuum fuit in trānsgressiōne hāc **prīma** ”.
+2 Tulērunt enim dē fīliābus eōrum sibi et fīliīs **suīs** et commiscuērunt sēmen sānctum cum **populīs** terrārum; **manūs** etiam prīncipum et magistrātuum fuit in trānsgressiōne hāc **prīma**”.
 
 3 Cumque audīssem sermōnem istum, scidī vestīmentum meum et pallium et ēvellī capillōs **capitis** meī et barbae et **sēdī** maerēns.
 
@@ -474,7 +474,7 @@ Numerus **virōrum** **populī** Isrāēl:
 
 5 Et in sacrificiō vespertīnō surrēxī dē afflīctiōne **meā** et, **scissō** vestīmentō et palliō, curvāvī genua **mea** et expandī **manūs** meās ad Dominum Deum meum.
 
-6 Et dīxī: “ Deus meus, cōnfundor et ērubēscō **levāre** faciem meam ad tē, quoniam inīquitātēs nostrae multiplicātae sunt super caput nostrum, et **dēlicta** **nostra** crēvērunt usque ad caelum
+6 Et dīxī: ”Deus meus, cōnfundor et ērubēscō **levāre** faciem meam ad tē, quoniam inīquitātēs nostrae multiplicātae sunt super caput nostrum, et **dēlicta** **nostra** crēvērunt usque ad caelum
 
 7 ā diēbus patrum nostrōrum. Peccāvimus graviter usque ad diem hanc, et propter inīquitātēs nostrās trāditī sumus, ipsī et **rēgēs** nostrī et sacerdōtēs nostrī, in **manum** rēgum terrārum et in gladium et in captīvitātem et in **rapīnam** et in cōnfūsiōnem **vultūs** sīcut et **diē** hāc.
 
@@ -492,17 +492,17 @@ Numerus **virōrum** **populī** Isrāēl:
 
 14 numquid amplius **irrita** faciēmus **mandāta** **tua** et mātrimōnia iungēmus cum **populīs** abōminātiōnum istārum? Numquid īrātus **es** nōbīs usque ad cōnsummātiōnem, ut nōn **essent** reliquiae et salūs?
 
-15 Domine, Deus Isrāēl, **tua** **clēmentia** superstitēs sumus sīcut **diē** hāc! Ecce **cōram** tē sumus in dēlictō nostrō; nōn enim stārī potest **cōram** tē propter **hōc** ”.
+15 Domine, Deus Isrāēl, **tua** **clēmentia** superstitēs sumus sīcut **diē** hāc! Ecce **cōram** tē sumus in dēlictō nostrō; nōn enim stārī potest **cōram** tē propter **hōc**”.
 
 ## 10
 
 1 Dum ergō ōrāret Esdrās et implōrāret flēns et prōstrātus ante templum Deī, **collēctus** **est** ad eum dē Isrāēl **coetūs** **grandīs** nimis **virōrum** et mulierum et puerōrum; et flēvit **populus** flētū multō.
 
-2 Et respondit Sechenīās fīlius Iehiel dē fīliīs Elam et dīxit Esdrae: “ Nōs praevāricātī sumus in Deum nostrum et dūximus uxōrēs aliēnigenās dē **populīs** terrae. Nunc autem spēs **est** in Isrāēl super **hōc**:
+2 Et respondit Sechenīās fīlius Iehiel dē fīliīs Elam et dīxit Esdrae: ”Nōs praevāricātī sumus in Deum nostrum et dūximus uxōrēs aliēnigenās dē **populīs** terrae. Nunc autem spēs **est** in Isrāēl super **hōc**:
 
 3 percutiāmus foedus cum Dominō Deō nostrō, ut prōiciāmus ūniversās uxōrēs et eōs, quī dē hīs **nātī** sunt, iuxtā voluntātem Dominī et eōrum, quī timent praeceptum Dominī Deī nostrī, et secundum lēgem fīat.
 
-4 Surge, tuum **est** **dēcernere**, nōsque erimus tēcum; cōnfortāre et fac ”.
+4 Surge, tuum **est** **dēcernere**, nōsque erimus tēcum; cōnfortāre et fac”.
 
 5 Surrēxit ergō Esdrās et fēcit prīncipēs sacerdōtum et Lēvītārum et omnem Isrāēl iūrāre, ut facerent secundum verbum **hoc**, et iūrāvērunt.
 
@@ -514,15 +514,15 @@ Numerus **virōrum** **populī** Isrāēl:
 
 9 Convēnērunt igitur omnēs **virī** Iūdae et Beniamin in Ierusālem **tribus** diēbus, ipse **est** **mēnsis** nōnus vīcēsimō **diē** **mēnsis**, et sēdit **omnis** **populus** in **platēā** **domūs** Deī, trementēs prō peccātō et pluviīs.
 
-10 Et surrēxit Esdrās sacerdōs et dīxit ad eōs: “ Vōs trānsgressī **estis** et dūxistis uxōrēs aliēnigenās, ut adderētis super dēlictum Isrāēl.
+10 Et surrēxit Esdrās sacerdōs et dīxit ad eōs: ”Vōs trānsgressī **estis** et dūxistis uxōrēs aliēnigenās, ut adderētis super dēlictum Isrāēl.
 
-11 Et nunc **date** cōnfessiōnem Dominō, Deō patrum vestrōrum, et facite placitum eius et sēparāminī ā **populīs** terrae et ab uxōribus aliēnigenīs ”.
+11 Et nunc **date** cōnfessiōnem Dominō, Deō patrum vestrōrum, et facite placitum eius et sēparāminī ā **populīs** terrae et ab uxōribus aliēnigenīs”.
 
-12 Et respondit **ūniversa** multitūdō dīxitque vōce **magnā**: “ Iuxtā verbum tuum ad nōs, sīc fīat.
+12 Et respondit **ūniversa** multitūdō dīxitque vōce **magnā**: ”Iuxtā verbum tuum ad nōs, sīc fīat.
 
 13 Vērumtamen quia **populus** multus **est** et tempus pluviae, et nōn sustinēmus stāre **foris**, et opus nōn **est** diēī ūnīus vel duōrum — multī quippe peccāvimus in sermōne istō —
 
-14 cōnstituantur prīncipēs in **ūniversā** multitūdine; et omnēs in cīvitātibus nostrīs, quī dūxērunt uxōrēs aliēnigenās, veniant in temporibus statūtīs, et cum hīs seniōrēs per cīvitātem et cīvitātem et iūdicēs eius, dōnec āvertātur **īra** Deī nostrī ā nōbīs super peccātō **hoc** ”.
+14 cōnstituantur prīncipēs in **ūniversā** multitūdine; et omnēs in cīvitātibus nostrīs, quī dūxērunt uxōrēs aliēnigenās, veniant in temporibus statūtīs, et cum hīs seniōrēs per cīvitātem et cīvitātem et iūdicēs eius, dōnec āvertātur **īra** Deī nostrī ā nōbīs super peccātō **hoc**”.
 
 15 Tantummodo **Ionathān** fīlius Asael et Iaasia fīlius Thecue stetērunt contrā **hōc**, et Mosollam et Sabethāī Lēvītēs adiūvērunt eōs.
 

@@ -24,7 +24,7 @@
 
 10 Et exiit ex eīs rādīx peccātrīx, Antiochus Epiphanēs fīlius Antiochī **rēgis**, quī fuerat Rōmae obses, et rēgnāvit in annō centēsimō trīcēsimō septimō rēgnī Graecōrum.
 
-11 In diēbus illīs exiērunt ex Isrāēl fīliī inīquī et suāsērunt multīs dīcentēs: “ Eāmus et dispōnāmus testāmentum cum gentibus, quae circā nōs sunt, quia, ex quō recessimus ab eīs, invēnērunt nōs **multa** **mala** ”.
+11 In diēbus illīs exiērunt ex Isrāēl fīliī inīquī et suāsērunt multīs dīcentēs: ”Eāmus et dispōnāmus testāmentum cum gentibus, quae circā nōs sunt, quia, ex quō recessimus ab eīs, invēnērunt nōs **multa** **mala**”.
 
 12 Et bonus **vīsus** **est** sermō in oculīs eōrum;
 
@@ -146,7 +146,7 @@
 
 6 Et vīdit blasphēmiās, quae fīēbant in **Iūdā** et in Ierusālem,
 
-7 et dīxit: “ Vae mihi! Ut quid **nātus** sum **vidēre** contrītiōnem **populī** meī et contrītiōnem cīvitātis sānctae? Et sēdērunt **illīc**, cum darētur **ea** in manibus inimīcōrum, sānctificātiō in manū extrāneōrum.
+7 et dīxit: ”Vae mihi! Ut quid **nātus** sum **vidēre** contrītiōnem **populī** meī et contrītiōnem cīvitātis sānctae? Et sēdērunt **illīc**, cum darētur **ea** in manibus inimīcōrum, sānctificātiō in manū extrāneōrum.
 
 8 Factum **est** templum eius sīcut homō **ignōbilis**,
 
@@ -158,7 +158,7 @@
 
 12 Et ecce **sāncta** **nostra** et pulchritūdō **nostra** et **glōria** **nostra** **dēsōlāta** **est**, et polluērunt **ea** gentēs.
 
-13 Ut quid nōbīs adhūc **vīta**? ”.
+13 Ut quid nōbīs adhūc **vīta**?”.
 
 14 Et scidit vestīmenta **sua** Matthathīās et fīliī eius et operuērunt sē ciliciīs et plānxērunt valdē.
 
@@ -166,17 +166,17 @@
 
 16 Et multī dē Isrāēl accessērunt ad eōs, et Matthathiās et fīliī eius congregātī sunt.
 
-17 Et respondērunt, quī missī erant ā **rēge**, et dīxērunt Matthathiae: “ Prīnceps et **nōbilis** et magnus **es** in hāc cīvitāte et cōnfirmātus fīliīs et frātribus.
+17 Et respondērunt, quī missī erant ā **rēge**, et dīxērunt Matthathiae: ”Prīnceps et **nōbilis** et magnus **es** in hāc cīvitāte et cōnfirmātus fīliīs et frātribus.
 
-18 Nunc accēde prīmus et fac iussum **rēgis**, sīcut fēcērunt omnēs gentēs et **virī** Iūdae et quī remānsērunt in Ierusālem, et **eris** tū et fīliī tuī inter amīcōs **rēgis** et tū et fīliī tuī glōrificābiminī et argentō et aurō et mūneribus multīs ”.
+18 Nunc accēde prīmus et fac iussum **rēgis**, sīcut fēcērunt omnēs gentēs et **virī** Iūdae et quī remānsērunt in Ierusālem, et **eris** tū et fīliī tuī inter amīcōs **rēgis** et tū et fīliī tuī glōrificābiminī et argentō et aurō et mūneribus multīs”.
 
-19 Et respondit Matthathīās et dīxit **magnā** vōce: “ Etsī omnēs gentēs, quae in domō rēgnī sunt, **rēgī** oboediunt, ut discēdat ūnusquisque ab officiō patrum suōrum, et cōnsentiunt **mandātīs** eius,
+19 Et respondit Matthathīās et dīxit **magnā** vōce: ”Etsī omnēs gentēs, quae in domō rēgnī sunt, **rēgī** oboediunt, ut discēdat ūnusquisque ab officiō patrum suōrum, et cōnsentiunt **mandātīs** eius,
 
 20 et ego et fīliī meī et frātrēs meī ībimus in testāmentō patrum nostrōrum.
 
 21 Propitius sit nōbīs Dominus, nē dērelinquāmus lēgem et iūstificātiōnēs.
 
-22 Nōn audiēmus verba **rēgis**, ut praetereāmus officium nostrum **dextrā** vel **sinistrā** ”.
+22 Nōn audiēmus verba **rēgis**, ut praetereāmus officium nostrum **dextrā** vel **sinistrā**”.
 
 23 Et, ut cessāvit loquī verba haec, accessit quīdam Iūdaeus in omnium oculīs sacrificāre super āram in **Modīn** secundum iussum **rēgis**.
 
@@ -186,7 +186,7 @@
 
 26 et zēlātus **est** lēgem, sīcut fēcit Phineēs Zambrī fīliō Salom.
 
-27 Et exclāmāvit Matthathīās vōce **magnā** in cīvitāte dīcēns: “ **Omnis**, quī zēlum habet **lēgis** statuēns testāmentum, exeat post mē ”.
+27 Et exclāmāvit Matthathīās vōce **magnā** in cīvitāte dīcēns: ”**Omnis**, quī zēlum habet **lēgis** statuēns testāmentum, exeat post mē”.
 
 28 Et **fūgit** ipse et fīliī eius in montēs, et relīquērunt quaecumque habēbant in cīvitāte.
 
@@ -198,23 +198,23 @@
 
 32 Et cucurrērunt post illōs multī, et dēprehendentēs eōs applicāvērunt contrā eōs et cōnstituērunt adversus eōs proelium in **diē** sabbatōrum
 
-33 et dīxērunt ad eōs: “ Usque **hoc** nunc! **Exīte** et facite secundum verbum **rēgis** et vīvētis ”.
+33 et dīxērunt ad eōs: ”Usque **hoc** nunc! **Exīte** et facite secundum verbum **rēgis** et vīvētis”.
 
-34 Et dīxērunt: “ Nōn exībimus neque faciēmus verbum **rēgis**, ut polluāmus diem sabbatōrum ”.
+34 Et dīxērunt: ”Nōn exībimus neque faciēmus verbum **rēgis**, ut polluāmus diem sabbatōrum”.
 
 35 Et concitāvērunt adversus eōs proelium.
 
 36 Et nōn respondērunt eīs nec lapidem mīsērunt in eōs nec oppīlāvērunt **loca** **occulta**
 
-37 dīcentēs: “ Moriāmur omnēs in simplicitāte **nostrā**, et testēs erunt super nōs caelum et **terra** quod **iniūstē** **perditis** nōs ”.
+37 dīcentēs: ”Moriāmur omnēs in simplicitāte **nostrā**, et testēs erunt super nōs caelum et **terra** quod **iniūstē** **perditis** nōs”.
 
 38 Et īnsurrēxērunt in eōs in bellō sabbatīs; et mortuī sunt ipsī et uxōrēs eōrum et fīliī eōrum et pecora eōrum usque ad mīlle animās hominum.
 
 39 Et cognōvit Matthathiās et **amīcī** eius et lūctum habuērunt super eōs valdē;
 
-40 et dīxit vir proximō suō: “ Sī omnēs **fēcerīmus**, sīcut frātrēs nostrī fēcērunt, et nōn **pugnāverimus** adversus gentēs prō animābus nostrīs et iūstificātiōnibus nostrīs, nunc citius disperdent nōs ā **terrā** ”.
+40 et dīxit vir proximō suō: ”Sī omnēs **fēcerīmus**, sīcut frātrēs nostrī fēcērunt, et nōn **pugnāverimus** adversus gentēs prō animābus nostrīs et iūstificātiōnibus nostrīs, nunc citius disperdent nōs ā **terrā**”.
 
-41 Et cōgitāvērunt in **diē** **illā** dīcentēs: “ **Omnis** homō, quīcumque vēnerit ad nōs in bellō **diē** sabbatōrum, pugnēmus adversus eum et nōn moriēmur omnēs, sīcut mortuī sunt frātrēs nostrī in occultīs ”.
+41 Et cōgitāvērunt in **diē** **illā** dīcentēs: ”**Omnis** homō, quīcumque vēnerit ad nōs in bellō **diē** sabbatōrum, pugnēmus adversus eum et nōn moriēmur omnēs, sīcut mortuī sunt frātrēs nostrī in occultīs”.
 
 42 Tunc **congregāta** **est** ad eōs **synagōga** Asidaēōrum **fortīs** vīribus ex Isrāēl, **omnis** voluntārius in **lēge**;
 
@@ -230,7 +230,7 @@
 
 48 et obtinuērunt lēgem dē manū gentium et dē manū rēgum et nōn dedērunt **cornū** peccātōrī.
 
-49 Et appropinquāvērunt diēs Matthathiae moriendī, et dīxit fīliīs **suīs**: “ Nunc **cōnfirmāta** **est** **superbia** et castīgātiō et tempus ēversiōnis et **īra** indignātiōnis.
+49 Et appropinquāvērunt diēs Matthathiae moriendī, et dīxit fīliīs **suīs**: ”Nunc **cōnfirmāta** **est** **superbia** et castīgātiō et tempus ēversiōnis et **īra** indignātiōnis.
 
 50 Nunc, ō fīliī, aemulātōrēs **ēstote** **lēgis**; et **date** animās vestrās prō testāmentō patrum vestrōrum.
 
@@ -268,7 +268,7 @@
 
 67 Et addūcētis ad vōs omnēs factōrēs **lēgis** et **vindicātē** vindictam **populī** vestrī;
 
-68 retribuite retribūtiōnem gentibus et intendite in praeceptum **lēgis** ”.
+68 retribuite retribūtiōnem gentibus et intendite in praeceptum **lēgis**”.
 
 69 Et benedīxit eōs et **appositus** **est** ad patrēs suōs.
 
@@ -302,15 +302,15 @@
 
 13 Et audīvit **Sērōn**, prīnceps **exercitūs** **Syriae**, quod congregāvit Iūdās congregātiōnem et convocātiōnem fidēlium sēcum et ēgredientium in proelium,
 
-14 et ait: “ Faciam mihi **nōmen** et glōrificābor in rēgnō et dēbellābō Iūdam et eōs, quī cum ipsō sunt, quī spernunt verbum **rēgis** ”.
+14 et ait: ”Faciam mihi **nōmen** et glōrificābor in rēgnō et dēbellābō Iūdam et eōs, quī cum ipsō sunt, quī spernunt verbum **rēgis**”.
 
 15 Et accessit, et ascendit cum eō **exercitus** impiōrum **fortīs** auxiliārī **eī**, ut faceret vindictam in fīliōs Isrāēl.
 
 16 Et appropinquāvit usque ad ascēnsum Bethoron, et exīvit Iūdās obviam illī cum paucīs.
 
-17 Ut autem vīdērunt **exercitum** venientem sibi obviam dīxērunt Iūdae: “ Quōmodo poterimus paucī pugnāre contrā multitūdinem tantam, fortem, et nōs fatīgātī sumus ieiūniō hodiē? ”.
+17 Ut autem vīdērunt **exercitum** venientem sibi obviam dīxērunt Iūdae: ”Quōmodo poterimus paucī pugnāre contrā multitūdinem tantam, fortem, et nōs fatīgātī sumus ieiūniō hodiē?”.
 
-18 Et ait Iūdās: “ Facile **est** conclūdī multōs in manibus paucōrum; et nōn **est** **differentia** in cōnspectū caelī līberāre in multīs aut in paucīs,
+18 Et ait Iūdās: ”Facile **est** conclūdī multōs in manibus paucōrum; et nōn **est** **differentia** in cōnspectū caelī līberāre in multīs aut in paucīs,
 
 19 quoniam nōn in multitūdine **exercitūs** **victōria** bellī, sed dē caelō fortitūdō **est**.
 
@@ -318,7 +318,7 @@
 
 21 nōs vērō pugnāmus prō animābus nostrīs et prō lēgitimīs nostrīs,
 
-22 et ipse Dominus conteret eōs ante faciem nostram; vōs autem nē **timuerītis** eōs ”.
+22 et ipse Dominus conteret eōs ante faciem nostram; vōs autem nē **timuerītis** eōs”.
 
 23 Ut cessāvit autem loquī, īnsiluit in eōs **subitō**; et contrītus **est** **Sērōn** et **exercitus** eius in cōnspectū ipsīus.
 
@@ -360,7 +360,7 @@
 
 42 Et vīdit Iūdās et frātrēs eius quia **multiplicāta** sunt **mala**, et **exercitūs** applicābant ad fīnēs eōrum, et cognōvērunt verba **rēgis**, quae mandāvit facere **populō** in interitum et cōnsummātiōnem.
 
-43 Et dīxērunt ūnusquisque ad proximum suum: “ Ērigāmus dēiectiōnem **populī** nostrī et pugnēmus prō **populō** nostrō et sānctīs nostrīs ”.
+43 Et dīxērunt ūnusquisque ad proximum suum: ”Ērigāmus dēiectiōnem **populī** nostrī et pugnēmus prō **populō** nostrō et sānctīs nostrīs”.
 
 44 Et **congregātus** **est** **conventūs**, ut **essent** parātī in proelium et ut ōrārent et peterent misericordiam et miserātiōnēs.
 
@@ -374,7 +374,7 @@
 
 49 et attulērunt ōrnāmenta sacerdōtālia et prīmitiās et decimās et suscitāvērunt nazaraeōs, quī implēvērunt diēs,
 
-50 et clāmāvērunt vōce in caelum dīcentēs: “ Quid faciēmus istīs et quō eōs dūcēmus?
+50 et clāmāvērunt vōce in caelum dīcentēs: ”Quid faciēmus istīs et quō eōs dūcēmus?
 
 51 Et **sāncta** **tua** **conculcāta** sunt et **contāmināta**, et sacerdōtēs tuī in lūctū et humiliātiōne;
 
@@ -390,11 +390,11 @@
 
 57 Et mōvērunt **castra** et collocāvērunt ad austrum Emmaum.
 
-58 Et ait Iūdās: “ Accingiminī et **ēstote** fīliī potentēs et **ēstote** parātī in **manē**, ut pugnētis adversus nātiōnēs hās, quae convēnērunt adversus nōs **disperdere** nōs et **sānctā** **nostrā**;
+58 Et ait Iūdās: ”Accingiminī et **ēstote** fīliī potentēs et **ēstote** parātī in **manē**, ut pugnētis adversus nātiōnēs hās, quae convēnērunt adversus nōs **disperdere** nōs et **sānctā** **nostrā**;
 
 59 quoniam melius **est** nōs **morī** in bellō quam respicere **mala** **gentis** nostrae et sānctōrum.
 
-60 Sīcut autem fuerit voluntās in caelō, sīc faciet ”.
+60 Sīcut autem fuerit voluntās in caelō, sīc faciet”.
 
 ## 4
 
@@ -406,19 +406,19 @@
 
 4 dum adhūc dispersus **esset** **exercitus** ā castrīs.
 
-5 Et **venit** Gorgiās in **castra** Iūdae noctū et nēminem **invēnit**; et quaerēbat eōs in montibus, quoniam dīxit: “ Fugiunt hī ā nōbīs ”.
+5 Et **venit** Gorgiās in **castra** Iūdae noctū et nēminem **invēnit**; et quaerēbat eōs in montibus, quoniam dīxit: ”Fugiunt hī ā nōbīs”.
 
 6 Et simul ut diēs **factus** **est**, appāruit Iūdās in campō cum **tribus** mīlibus **virōrum**, tantum quod tegumenta et gladiōs nōn habēbant ut volēbant.
 
 7 Et vīdērunt **castra** gentium **valida** et **lōricātōs** et **equitātūs** in circuitū eōrum, et hī doctī ad proelium.
 
-8 Et ait Iūdās **virīs**, quī sēcum erant: “ Nē **timuerītis** multitūdinem eōrum et impetum eōrum nē formīdētis;
+8 Et ait Iūdās **virīs**, quī sēcum erant: ”Nē **timuerītis** multitūdinem eōrum et impetum eōrum nē formīdētis;
 
 9 mementōte quāliter salvī factī sunt patrēs nostrī in marī Rubrō, cum sequerētur eōs pharaō cum **exercitū**.
 
 10 Et nunc clāmēmus in caelum, sī miserēbitur nostrī et memor erit testāmentī patrum nostrōrum et conteret **exercitum** istum ante faciem nostram hodiē;
 
-11 et scient omnēs gentēs quia **est**, quī redimat et **līberet** Isrāēl ”.
+11 et scient omnēs gentēs quia **est**, quī redimat et **līberet** Isrāēl”.
 
 12 Et **levāvērunt** aliēnigenae oculōs suōs et vīdērunt eōs venientēs ex adversō
 
@@ -430,9 +430,9 @@
 
 16 Et reversus **est** Iūdās et **exercitus** eius ā persecūtiōne eōrum;
 
-17 dīxitque ad **populum**: “ Nōn concupīscātis **spolia**, quia bellum contrā nōs **est**,
+17 dīxitque ad **populum**: ”Nōn concupīscātis **spolia**, quia bellum contrā nōs **est**,
 
-18 et Gorgiās et **exercitus** eius prope nōs in monte, sed **statē** nunc contrā inimīcōs nostrōs et **expugnāte** eōs et post haec accipite **spoliā** cōnfīdenter ”.
+18 et Gorgiās et **exercitus** eius prope nōs in monte, sed **statē** nunc contrā inimīcōs nostrōs et **expugnāte** eōs et post haec accipite **spoliā** cōnfīdenter”.
 
 19 Et, adhūc loquente **Iūdā** haec, appāruit pars quaedam prōspiciēns dē monte.
 
@@ -444,7 +444,7 @@
 
 23 Et Iūdās reversus **est** ad **spolia** castrōrum; et accēpērunt aurum multum et argentum et hyacinthum et purpuram marīnam et opēs magnās.
 
-24 Et conversī hymnum **canēbant** et benedīcēbant in caelum: “ Quoniam bonum, quoniam in saeculum **misericordiā** eius ”.
+24 Et conversī hymnum **canēbant** et benedīcēbant in caelum: ”Quoniam bonum, quoniam in saeculum **misericordiā** eius”.
 
 25 Et **facta** **est** salūs **magna** in Isrāēl in **diē** **illa**.
 
@@ -456,19 +456,19 @@
 
 29 Et vēnērunt in Idūmaeam et **castra** posuērunt in Bethsuris; et occurrit illīs Iūdās cum decem mīlibus **virīs**.
 
-30 Et vīdit **exercitum** fortem et ōrāvit et dīxit: “ Benedictus **es**, Salvātor Isrāēl, quī contrīvistī impetum **potentis** in manū servī tuī Dāvīd et trādidistī **castra** aliēnigenārum in manū Ionathae fīliī Saūl et armigerī eius.
+30 Et vīdit **exercitum** fortem et ōrāvit et dīxit: ”Benedictus **es**, Salvātor Isrāēl, quī contrīvistī impetum **potentis** in manū servī tuī Dāvīd et trādidistī **castra** aliēnigenārum in manū Ionathae fīliī Saūl et armigerī eius.
 
 31 Conclūde **exercitum** istum in manū **populī** tuī Isrāēl, et cōnfundantur in **exercitū** suō et equitibus **suīs**.
 
 32 Dā illīs formīdinem et tabefāc audāciam **virtūtis** eōrum, et commoveantur contrītiōne **suā**;
 
-33 dēice illōs gladiō dīligentium tē, et collaudent tē omnēs, quī nōvērunt **nōmen** tuum, in hymnīs ”.
+33 dēice illōs gladiō dīligentium tē, et collaudent tē omnēs, quī nōvērunt **nōmen** tuum, in hymnīs”.
 
 34 Et commīsērunt invicem proelium, et **cecidērunt** dē **exercitū** Lȳsiae quīnque **mīlia** **virōrum** et prōcidērunt ex adversō eōrum.
 
 35 Vidēns autem Lȳsiās factam ēversiōnem **exercitūs** **suī**, Iūdae vērō audāciam et quemadmodum parātī sunt aut **vīvere** aut **morī** fortiter, abiit Antiochīam et colligēbat externōs, ut multō numerō rūrsus venīrent in Iūdaeam.
 
-36 Dīxit autem Iūdās et frātrēs eius: “ Ecce contrītī sunt inimīcī nostrī; ascendāmus mundāre **sānctā** et renovāre ”.
+36 Dīxit autem Iūdās et frātrēs eius: ”Ecce contrītī sunt inimīcī nostrī; ascendāmus mundāre **sānctā** et renovāre”.
 
 37 Et **congregātus** **est** **omnis** **exercitus**, et ascendērunt in montem **Sīōn**.
 
@@ -540,13 +540,13 @@
 
 9 Et congregātae sunt gentēs, quae sunt in Galaad, adversus Isrāēl, quī erant in fīnibus eōrum, ut tollerent eōs; et fūgērunt in Dathemān mūnītiōnem
 
-10 et mīsērunt litterās ad Iūdam et frātrēs eius dīcentēs: “ Congregātae sunt adversum nōs gentēs per circuitum, ut nōs auferant,
+10 et mīsērunt litterās ad Iūdam et frātrēs eius dīcentēs: ”Congregātae sunt adversum nōs gentēs per circuitum, ut nōs auferant,
 
 11 et **parant** venīre et occupāre mūnītiōnem, in quam **cōnfugimus**, et Tīmotheus **est** dux **exercitūs** eōrum.
 
 12 Nunc ergō **venī** et ēripe nōs dē manibus eōrum, quia **cecidit** multitūdō dē nōbīs,
 
-13 et omnēs frātrēs nostrī, quī erant in locīs **Tubīn**, interfectī sunt, et captīvās dūxērunt uxōrēs eōrum et nātōs et sarcinās et perēmērunt **illīc** **ferē** mīlle virōs ”.
+13 et omnēs frātrēs nostrī, quī erant in locīs **Tubīn**, interfectī sunt, et captīvās dūxērunt uxōrēs eōrum et nātōs et sarcinās et perēmērunt **illīc** **ferē** mīlle virōs”.
 
 14 Adhūc epistulae legēbantur, et ecce aliī nūntiī vēnērunt dē **Galilaeā**, cōnscīssis tunicīs, nūntiantēs secundum verba haec,
 
@@ -554,11 +554,11 @@
 
 16 Ut audīvit autem Iūdās et **populus** sermōnēs istōs, **convenit** **ecclēsia** **magna** cōgitāre quid facerent frātribus **suīs**, quī in trībulātiōne erant et expugnābantur ab eīs.
 
-17 Dīxitque Iūdās Simōnī frātrī suō: “ Ēlige tibi virōs et **vāde** et **līberā** frātrēs tuōs, quī sunt in **Galilaeā**; ego autem et frāter meus Ionathās ībimus in Galaaditim ”.
+17 Dīxitque Iūdās Simōnī frātrī suō: ”Ēlige tibi virōs et **vāde** et **līberā** frātrēs tuōs, quī sunt in **Galilaeā**; ego autem et frāter meus Ionathās ībimus in Galaaditim”.
 
 18 Et relīquit Iōsēphum fīlium Zacharīae et Azāriam ducem **populī** cum residuō **exercitū** in **Iūdaeā** ad cūstōdiam.
 
-19 Et praecēpit illīs dīcēns: “ **Praeēstote** **populō** huic et nōlīte bellum **committere** adversum gentēs, dōnec revertāmur ”.
+19 Et praecēpit illīs dīcēns: ”**Praeēstote** **populō** huic et nōlīte bellum **committere** adversum gentēs, dōnec revertāmur”.
 
 20 Et partītī sunt Simōnī **virōrum** tria **mīlia**, ut īret in Galilaeam, Iūdae autem octo **mīlia** in Galaaditim.
 
@@ -584,7 +584,7 @@
 
 31 Et vīdit Iūdās quia coepit bellum, et clāmor cīvitātis ascendit ad caelum sīcut **tubā** et clāmor magnus;
 
-32 et dīxit **virīs** **exercitus**: “ **Pugnātē** hodiē prō frātribus nostrīs ”.
+32 et dīxit **virīs** **exercitus**: ”**Pugnātē** hodiē prō frātribus nostrīs”.
 
 33 Et exiit **tribus** ōrdinibus post eōs, et exclāmāvērunt tubīs et clāmāvērunt in ōrātiōne.
 
@@ -596,15 +596,15 @@
 
 37 Post haec autem verba congregāvit Tīmotheus **exercitum** alium et **castra** posuit contrā Raphon trāns torrentem.
 
-38 Et mīsit Iūdās speculārī **exercitum**, et renūntiāvērunt **eī** dīcentēs: “ Convēnērunt ad eum omnēs gentēs, quae in circuitū nostrō sunt, **exercitus** multus nimis;
+38 Et mīsit Iūdās speculārī **exercitum**, et renūntiāvērunt **eī** dīcentēs: ”Convēnērunt ad eum omnēs gentēs, quae in circuitū nostrō sunt, **exercitus** multus nimis;
 
-39 et Arabās condūxit in auxilium sibi, et **castra** posuērunt trāns torrentem, parātī ad tē venīre in proelium ”. Et abiit Iūdās obviam illīs.
+39 et Arabās condūxit in auxilium sibi, et **castra** posuērunt trāns torrentem, parātī ad tē venīre in proelium”. Et abiit Iūdās obviam illīs.
 
-40 Et ait Tīmotheus prīncipibus **exercitūs** **suī**: “ Cum appropinquāverit Iūdās et **exercitus** eius ad torrentem aquae, sī trānsierit ad nōs prior, nōn poterimus sustinēre eum, quia potēns poterit adversum nōs;
+40 Et ait Tīmotheus prīncipibus **exercitūs** **suī**: ”Cum appropinquāverit Iūdās et **exercitus** eius ad torrentem aquae, sī trānsierit ad nōs prior, nōn poterimus sustinēre eum, quia potēns poterit adversum nōs;
 
-41 sī vērō timuerit trānsīre et posuerit **castra** **ultrā** flūmen, trānsfretēmus ad eōs et poterimus adversus illum ”.
+41 sī vērō timuerit trānsīre et posuerit **castra** **ultrā** flūmen, trānsfretēmus ad eōs et poterimus adversus illum”.
 
-42 Ut autem appropinquāvit Iūdās ad torrentem aquae, statuit scrībās **populī** secus torrentem et mandāvit eīs dīcēns: “ Nēminem hominum **relīquerītis**, sed veniant omnēs in proelium ”.
+42 Ut autem appropinquāvit Iūdās ad torrentem aquae, statuit scrībās **populī** secus torrentem et mandāvit eīs dīcēns: ”Nēminem hominum **relīquerītis**, sed veniant omnēs in proelium”.
 
 43 Et trānsfretāvit ad illōs prior, et **omnis** **populus** post eum. Et contrītae sunt omnēs gentēs ā faciē eōrum et prōiēcērunt **arma** **sua** et fūgērunt ad fānum in Carnāīn.
 
@@ -616,7 +616,7 @@
 
 47 Et inclūsērunt sē, quī erant in cīvitāte, et obstrūxērunt portās lapidibus. Et mīsit ad eōs Iūdās verbīs pācificīs
 
-48 dīcēns: “ Trānseāmus per terram vestram, ut eāmus in terram nostram, et nēmō vōbīs nocēbit; tantum pedibus trānsībimus ”. Et nōlēbant eīs aperīre.
+48 dīcēns: ”Trānseāmus per terram vestram, ut eāmus in terram nostram, et nēmō vōbīs nocēbit; tantum pedibus trānsībimus”. Et nōlēbant eīs aperīre.
 
 49 Et praecēpit Iūdās **praedicāre** in castrīs, ut applicārent sē ūnusquisque in quō erat locō.
 
@@ -634,7 +634,7 @@
 
 56 audīvit Iōsēphus Zacharīae fīlius et Azāriās prīnceps **virtūtis** rēs **bene** gestās et **proelia**, quae fēcērunt,
 
-57 et dīxērunt: “ Faciāmus et ipsī nōbīs **nōmen** et eāmus pugnāre adversus gentēs, quae in circuitū nostrō sunt ”.
+57 et dīxērunt: ”Faciāmus et ipsī nōbīs **nōmen** et eāmus pugnāre adversus gentēs, quae in circuitū nostrō sunt”.
 
 58 Et nūntiāvērunt hīs, quī erant dē **exercitū** suō, et abiērunt ad Iamniam.
 
@@ -678,13 +678,13 @@
 
 9 Et erat **illīc** per diēs multōs, quia **renovāta** **est** in eō **trīstitia** **magna**, et **arbitrātus** **est** sē **morī**.
 
-10 Et vocāvit omnēs amīcōs suōs et dīxit illīs: “ Recessit somnus ab oculīs meīs, et **concidī** **corde** prae sollicitūdine
+10 Et vocāvit omnēs amīcōs suōs et dīxit illīs: ”Recessit somnus ab oculīs meīs, et **concidī** **corde** prae sollicitūdine
 
 11 et dīxī in **corde** meō: Quousque trībulātiōnis **dēvēnī** et tempestātis magnae, in **quā** nunc sum? Quia iūcundus eram et **dīlēctus** in potestāte **meā**!
 
 12 Nunc vērō reminīscor **malōrum**, quae fēcī in Ierusālem, unde et abstulī omnia vāsa **aurea** et **argentea**, quae erant in **ea**, et mīsī auferre habitantēs Iūdam **sine** **causā**.
 
-13 Cognōvī quia proptereā invēnērunt mē **mala** **ista**; et ecce pereō **trīstitia** **magna** in **terrā** **aliēnā** ”.
+13 Cognōvī quia proptereā invēnērunt mē **mala** **ista**; et ecce pereō **trīstitia** **magna** in **terrā** **aliēnā**”.
 
 14 Et vocāvit Philippum, ūnum dē **amīcīs** **suīs**, et praeposuit eum super ūniversum rēgnum suum;
 
@@ -702,7 +702,7 @@
 
 21 Et exiērunt quīdam ex eīs, quī **obsīdēbantur**, et adiūnxērunt sē illīs aliquī impiī ex Isrāēl
 
-22 et abiērunt ad rēgem et dīxērunt: “ Quousque nōn **facis** iūdicium et vindicābis frātrēs nostrōs?
+22 et abiērunt ad rēgem et dīxērunt: ”Quousque nōn **facis** iūdicium et vindicābis frātrēs nostrōs?
 
 23 Nōs dēcrēvimus servīre patrī tuō et ambulāre in praeceptīs eius et obsequī ēdictīs eius;
 
@@ -712,7 +712,7 @@
 
 26 et ecce applicuērunt hodiē ad arcem in Ierusālem occupāre eam et **sānctā** et Bethsūram mūniērunt.
 
-27 Et, **nisi** **praevēneris** eōs vēlōcius, maiōra quam haec facient, et nōn **poteris** continēre eōs ”.
+27 Et, **nisi** **praevēneris** eōs vēlōcius, maiōra quam haec facient, et nōn **poteris** continēre eōs”.
 
 28 Et īrātus **est** rēx, ut audīvit, et convocāvit omnēs amīcōs suōs et prīncipēs **exercitūs** **suī** et eōs, quī super vehicula erant;
 
@@ -772,11 +772,11 @@
 
 56 reversus **esset** ā **Persidē** et **Mēdiā**, et **exercitus**, quī abierat cum ipsō, et quia quaerēbat suscipere rēgnī **negōtia**.
 
-57 Festīnāvit et significāvit īre dīxitque ad rēgem et **ducēs** **exercitūs** et virōs: “ Dēficimus cotīdiē, et **ēsca** nōbīs **modica** **est**, et locus, quem **obsīdēmus**, **est** mūnītus, et incumbunt nōbīs **negōtia** rēgnī.
+57 Festīnāvit et significāvit īre dīxitque ad rēgem et **ducēs** **exercitūs** et virōs: ”Dēficimus cotīdiē, et **ēsca** nōbīs **modica** **est**, et locus, quem **obsīdēmus**, **est** mūnītus, et incumbunt nōbīs **negōtia** rēgnī.
 
 58 Nunc itaque dēmus dextrās hominibus istīs et faciāmus cum illīs pācem et cum omnī gente eōrum
 
-59 et cōnstituāmus illīs, ut ambulent in lēgitimīs **suīs** sīcut prius; propter **lēgitima** enim ipsōrum, quae dispersimus, īrātī sunt et fēcērunt omnia haec ”.
+59 et cōnstituāmus illīs, ut ambulent in lēgitimīs **suīs** sīcut prius; propter **lēgitima** enim ipsōrum, quae dispersimus, īrātī sunt et fēcērunt omnia haec”.
 
 60 Et placuit sermō in cōnspectū **rēgis** et prīncipum, et mīsit ad eōs pācem facere, et recēpērunt illam.
 
@@ -792,15 +792,15 @@
 
 2 Et factum **est**, ut **ingressus** **est** domum rēgnī patrum suōrum, comprehendit **exercitūs** Antiochum et Lȳsiam, ut addūceret eōs ad eum.
 
-3 Et rēs **eī** innōtuit, et ait: “ Nōlīte mihi **ostendere** faciēs eōrum ”.
+3 Et rēs **eī** innōtuit, et ait: ”Nōlīte mihi **ostendere** faciēs eōrum”.
 
 4 Et **occīdit** eōs **exercitus**, et sēdit Dēmētrius super sēdem rēgnī **suī**.
 
 5 Et vēnērunt ad eum **virī** inīquī et impiī ex Isrāēl, et Alcimus dux erat eōrum, quī volēbat fierī sacerdōs;
 
-6 et accūsāvērunt **populum** apud rēgem dīcentēs: “ Perdidit Iūdās et frātrēs eius omnēs amīcōs tuōs et nōs dispersit dē **terrā** **nostrā**;
+6 et accūsāvērunt **populum** apud rēgem dīcentēs: ”Perdidit Iūdās et frātrēs eius omnēs amīcōs tuōs et nōs dispersit dē **terrā** **nostrā**;
 
-7 nunc ergō mitte **virum**, cui crēdis, ut eat et videat exterminium omne, quod fēcit nōbīs et regiōnī **rēgis**, et pūniat eōs et omnēs adiūtōrēs eōrum ”.
+7 nunc ergō mitte **virum**, cui crēdis, ut eat et videat exterminium omne, quod fēcit nōbīs et regiōnī **rēgis**, et pūniat eōs et omnēs adiūtōrēs eōrum”.
 
 8 Et ēlēgit rēx ex **amīcīs** **suīs** Bacchidem, quī dominābātur trāns flūmen, magnum in rēgnō et fidēlem **rēgī**. Et mīsit eum
 
@@ -814,15 +814,15 @@
 
 13 et prīmī Asidaēī erant in fīliīs Isrāēl et exquīrēbant ab eīs pācem.
 
-14 Dīxērunt enim: “ Homō sacerdōs dē sēmine Aarōn **venit** et nōn dēcipiet nōs ”.
+14 Dīxērunt enim: ”Homō sacerdōs dē sēmine Aarōn **venit** et nōn dēcipiet nōs”.
 
-15 Et **locūtus** **est** cum eīs verba **pācifica** et iūrāvit illīs dīcēns: “ Nōn īnferēmus vōbīs **malum** neque **amīcīs** vestrīs ”.
+15 Et **locūtus** **est** cum eīs verba **pācifica** et iūrāvit illīs dīcēns: ”Nōn īnferēmus vōbīs **malum** neque **amīcīs** vestrīs”.
 
 16 Et crēdidērunt **eī**. Et comprehendit ex eīs sexāgintā virōs et **occīdit** eōs in **ūnā** **diē**, secundum verbum quod scrīpsit:
 
-17 “ Carnēs sānctōrum tuōrum et sanguinem ipsōrum effūdērunt in circuitū Ierusālem, et nōn erat quī sepelīret ”.
+17 ”Carnēs sānctōrum tuōrum et sanguinem ipsōrum effūdērunt in circuitū Ierusālem, et nōn erat quī sepelīret”.
 
-18 Et incubuit timor eōrum et tremor in omnem **populum**, quia dīxērunt: “ Nōn **est** in eīs **vēritās** et iūdicium; trānsgressī sunt enim cōnstitūtum et iūsiūrandum, quod iūrāvērunt ”.
+18 Et incubuit timor eōrum et tremor in omnem **populum**, quia dīxērunt: ”Nōn **est** in eīs **vēritās** et iūdicium; trānsgressī sunt enim cōnstitūtum et iūsiūrandum, quod iūrāvērunt”.
 
 19 Et mōvit Bacchidēs ab Ierusālem et applicuit in Bethzaith; et mīsit et comprehendit multōs ex eīs, quī ad sē refūgerant, et quōsdam dē **populō** mactāvit in puteum magnum.
 
@@ -842,7 +842,7 @@
 
 27 Et **venit** Nīcānor in Ierusālem cum **exercitū** magnō et mīsit ad Iūdam et ad frātrēs eius verbīs pācificīs cum dolō
 
-28 dīcēns: “ Nōn sit **pugna** inter mē et vōs; veniam cum **virīs** paucīs, ut videam faciēs vestrās cum pāce ”.
+28 dīcēns: ”Nōn sit **pugna** inter mē et vōs; veniam cum **virīs** paucīs, ut videam faciēs vestrās cum pāce”.
 
 29 Et **venit** ad Iūdam, et salūtāvērunt sē invicem **pācificē**, et hostēs parātī erant rapere Iūdam.
 
@@ -856,21 +856,21 @@
 
 34 Et irrīdēns sprēvit eōs et polluit eōs et **locūtus** **est** **superbē**
 
-35 et iūrāvit cum **īrā** dīcēns: “ **Nīsī** **trāditus** fuerit Iūdās et **exercitus** eius in **manūs** meās continuō, et erit, sī **regressus** fuerō in pāce, succendam domum istam ”. Et exiit cum **īrā** **magnā**.
+35 et iūrāvit cum **īrā** dīcēns: ”**Nīsī** **trāditus** fuerit Iūdās et **exercitus** eius in **manūs** meās continuō, et erit, sī **regressus** fuerō in pāce, succendam domum istam”. Et exiit cum **īrā** **magnā**.
 
 36 Et intrāvērunt sacerdōtēs et stetērunt ante faciem **altāris** et templī et flentēs dīxērunt:
 
-37 “ Tū ēlēgistī domum istam ad invocandum **nōmen** tuum super eam, ut **esset** **domus** ōrātiōnis et obsecrātiōnis **populō** tuō;
+37 ”Tū ēlēgistī domum istam ad invocandum **nōmen** tuum super eam, ut **esset** **domus** ōrātiōnis et obsecrātiōnis **populō** tuō;
 
-38 fac vindictam in homine istō et **exercitū** eius, et cadant in gladiō. Mementō blasphēmiās eōrum et nē **dederis** eīs mānsiōnem ”.
+38 fac vindictam in homine istō et **exercitū** eius, et cadant in gladiō. Mementō blasphēmiās eōrum et nē **dederis** eīs mānsiōnem”.
 
 39 Et exiit Nīcānor ab Ierusālem et applicuit ad Bethoron; et occurrit illī **exercitus** **Syriae**.
 
 40 Et Iūdās applicuit in Hadasā cum **tribus** mīlibus **virīs**. Et ōrāvit Iūdās et dīxit:
 
-41 “ Quī missī erant ā **rēge**, cum **male** locūtī sunt; exiit angelus et percussit in eīs centum octōgintā quīnque **mīlia**.
+41 ”Quī missī erant ā **rēge**, cum **male** locūtī sunt; exiit angelus et percussit in eīs centum octōgintā quīnque **mīlia**.
 
-42 Sīc contere **exercitum** istum in cōnspectū nostrō hodiē, et sciant cēterī quia **male** **locūtus** **est** super **sānctā** **tua**, et iūdicā illum secundum malitiam illīus ”.
+42 Sīc contere **exercitum** istum in cōnspectū nostrō hodiē, et sciant cēterī quia **male** **locūtus** **est** super **sānctā** **tua**, et iūdicā illum secundum malitiam illīus”.
 
 43 Et commīsērunt **exercitūs** proelium **tertia** **decima** **diē** **mēnsis** Adar; et **contrīta** sunt **castra** Nīcānoris, et **cecidit** ipse prīmus in proeliō.
 
@@ -928,13 +928,13 @@
 
 19 Et abiērunt Rōmam — et **via** **multa** valdē — et introiērunt cūriam et respondērunt et dīxērunt:
 
-20 “ Iūdās Maccabaeus et frātrēs eius et **populus** Iūdaeōrum mīsērunt nōs ad vōs **statuēre** vōbīscum societātem et pācem et **cōnscrībere** nōs sociōs et amīcōs vestrōs ”.
+20 ”Iūdās Maccabaeus et frātrēs eius et **populus** Iūdaeōrum mīsērunt nōs ad vōs **statuēre** vōbīscum societātem et pācem et **cōnscrībere** nōs sociōs et amīcōs vestrōs”.
 
 21 Et placuit sermō in cōnspectū eōrum.
 
 22 Et **hoc** **est** rescrīptum epistulae, quam rescrīpsērunt in tabulīs aereīs et mīsērunt in Ierusālem, ut **esset** apud eōs ibi memoriāle **pācis** et societātis:
 
-23 “ **Bene** sit Rōmānīs et gentī Iūdaeōrum in marī et in **terrā** in aeternum, gladiusque et **hostis** procul sit ab eīs.
+23 ”**Bene** sit Rōmānīs et gentī Iūdaeōrum in marī et in **terrā** in aeternum, gladiusque et **hostis** procul sit ab eīs.
 
 24 Quod sī īnstiterit bellum Rōmānīs prius aut omnibus sociīs eōrum in omnī dominātiōne eōrum,
 
@@ -952,7 +952,7 @@
 
 31 Et dē **malīs**, quae Dēmētrius rēx fēcit in eōs, scrīpsimus **eī** dīcentēs: “Quārē gravāstī iugum tuum super amīcōs nostrōs, sociōs Iūdaeōs?
 
-32 Sī ergō iterum adierint nōs adversum tē, faciēmus illīs iūdicium et pugnābimus tēcum marī **terrā**que” ”.
+32 Sī ergō iterum adierint nōs adversum tē, faciēmus illīs iūdicium et pugnābimus tēcum marī **terrā**que””.
 
 ## 9
 
@@ -970,11 +970,11 @@
 
 7 Et vīdit Iūdās quod dēflūxit **exercitus** suus, et bellum perurgēbat eum; et **cōnfrāctus** **est** **corde**, quia nōn habēbat tempus congregandī eōs,
 
-8 et dissolūtus **est**. Et dīxit hīs, quī residuī erant: “ Surgāmus et ascendāmus ad adversāriōs nostrōs, sī poterimus pugnāre adversus eōs ”.
+8 et dissolūtus **est**. Et dīxit hīs, quī residuī erant: ”Surgāmus et ascendāmus ad adversāriōs nostrōs, sī poterimus pugnāre adversus eōs”.
 
-9 Et āvertēbant eum dīcentēs: “ Nōn poterimus, sed **līberēmus** animās nostrās **modo** et revertāmur nōs et frātrēs nostrī et pugnābimus adversus eōs; nōs autem paucī sumus ”.
+9 Et āvertēbant eum dīcentēs: ”Nōn poterimus, sed **līberēmus** animās nostrās **modo** et revertāmur nōs et frātrēs nostrī et pugnābimus adversus eōs; nōs autem paucī sumus”.
 
-10 Et ait Iūdās: “ Absit istam rem facere, ut fugiāmus ab eīs; et sī appropiāvit tempus nostrum, et moriāmur in virtūte propter frātrēs nostrōs et nōn īnferāmus crīmen glōriae nostrae ”.
+10 Et ait Iūdās: ”Absit istam rem facere, ut fugiāmus ab eīs; et sī appropiāvit tempus nostrum, et moriāmur in virtūte propter frātrēs nostrōs et nōn īnferāmus crīmen glōriae nostrae”.
 
 11 Et mōvit **exercitus** dē castrīs, et stetērunt illīs obviam; et dīvīsī sunt equitēs in duās partēs, et fundibulāriī et sagittāriī praeībant **exercitum**, et prīmī certāminis omnēs potentēs.
 
@@ -996,7 +996,7 @@
 
 20 Et flēvērunt eum et plānxērunt **omnis** **populus** Isrāēl plānctū magnō et lūgēbant diēs multōs
 
-21 et dīxērunt: “ Quōmodo **cecidit** potēns, quī salvum faciēbat **populum** Isrāēl! ”.
+21 et dīxērunt: ”Quōmodo **cecidit** potēns, quī salvum faciēbat **populum** Isrāēl!”.
 
 22 Et **cētera** verbōrum Iūdae et bellōrum et virtūtum, quās fēcit, et magnitūdinis eius nōn sunt **dēscrīpta**; **multa** enim erant valdē.
 
@@ -1012,9 +1012,9 @@
 
 28 Et congregātī sunt omnēs **amīcī** Iūdae et dīxērunt Ionathae:
 
-29 “ Ex quō frāter tuus Iūdās **dēfūnctus** **est**, et vir **similis** **eī** nōn **est**, quī exeat contrā inimīcōs et Bacchidem et eōs, quī inimīcī sunt **gentis** nostrae;
+29 ”Ex quō frāter tuus Iūdās **dēfūnctus** **est**, et vir **similis** **eī** nōn **est**, quī exeat contrā inimīcōs et Bacchidem et eōs, quī inimīcī sunt **gentis** nostrae;
 
-30 nunc itaque tē hodiē ēlēgimus **esse** prō eō nōbīs in prīncipem et ducem ad bellandum bellum nostrum ”.
+30 nunc itaque tē hodiē ēlēgimus **esse** prō eō nōbīs in prīncipem et ducem ad bellandum bellum nostrum”.
 
 31 Et suscēpit Ionathās tempore illō prīncipātum et surrēxit locō Iūdae frātris **suī**.
 
@@ -1042,11 +1042,11 @@
 
 43 Et audīvit Bacchidēs et **venit** **diē** sabbatōrum usque ad ōram **Iordānis** in virtūte **magnā**.
 
-44 Et dīxit ad suōs Ionathās: “ Surgāmus et pugnēmus prō animābus nostrīs; nōn **est** enim hodiē sīcut **heri** et **nūdius**tertius:
+44 Et dīxit ad suōs Ionathās: ”Surgāmus et pugnēmus prō animābus nostrīs; nōn **est** enim hodiē sīcut **heri** et **nūdius**tertius:
 
 45 ecce enim bellum ex adversō nostrum, **aquā** vērō **Iordānis** hinc et inde, et palūdēs et **saltūs**, et nōn **est** locus dīvertendī.
 
-46 Nunc ergō **clāmātē** in caelum, ut **līberēminī** dē manū inimīcōrum vestrōrum ”. Et commissum **est** bellum.
+46 Nunc ergō **clāmātē** in caelum, ut **līberēminī** dē manū inimīcōrum vestrōrum”. Et commissum **est** bellum.
 
 47 Et extendit Ionathās **manum** suam percutere Bacchidem, et dīvertit ab eō retrō.
 
@@ -1070,7 +1070,7 @@
 
 57 Et vīdit Bacchidēs quoniam mortuus **est** Alcimus et reversus **est** ad rēgem; et siluit **terra** Iūdae annīs duōbus.
 
-58 Et cōgitāvērunt omnēs inīquī dīcentēs: “ Ecce Ionathās et, quī cum eō sunt, in silentiō habitant cōnfīdentēs; nunc ergō addūcāmus Bacchidem, et comprehendet eōs omnēs **ūnā** nocte ”.
+58 Et cōgitāvērunt omnēs inīquī dīcentēs: ”Ecce Ionathās et, quī cum eō sunt, in silentiō habitant cōnfīdentēs; nunc ergō addūcāmus Bacchidem, et comprehendet eōs omnēs **ūnā** nocte”.
 
 59 Et abiērunt et cōnsilium **eī** dedērunt.
 
@@ -1110,9 +1110,9 @@
 
 3 Et mīsit Dēmētrius epistulam ad **Ionathān** verbīs pācificīs, ut magnificāret eum.
 
-4 Dīxit enim: “ Anticipēmus facere pācem cum eō, priusquam faciat cum Alexandrō adversum nōs;
+4 Dīxit enim: ”Anticipēmus facere pācem cum eō, priusquam faciat cum Alexandrō adversum nōs;
 
-5 recordābitur enim omnium **malōrum**, quae cōnsummāvimus in eum et in frātrem eius et in gentem eius ”.
+5 recordābitur enim omnium **malōrum**, quae cōnsummāvimus in eum et in frātrem eius et in gentem eius”.
 
 6 Et **dedit** **eī** potestātem congregāre **exercitum** et fabrifīcāre **arma** et **esse** ipsum socium eius; et **obsidēs**, quī erant in **arce**, dīxit trādī **eī**.
 
@@ -1134,25 +1134,25 @@
 
 15 Et audīvit Alexander rēx **prōmissa**, quae mīsit Dēmētrius Ionathae, et nārrāvērunt **eī** **proelia** et virtūtēs, quās ipse fēcit et frātrēs eius, et labōrēs, quōs habuērunt.
 
-16 Et ait: “ Numquid inveniēmus aliquem **virum** tālem? Et nunc faciēmus eum amīcum et socium nostrum ”.
+16 Et ait: ”Numquid inveniēmus aliquem **virum** tālem? Et nunc faciēmus eum amīcum et socium nostrum”.
 
 17 Et scrīpsit epistulam et mīsit **eī** secundum haec verba dīcēns:
 
-18 “ Rēx Alexander frātrī Ionathae salūtem.
+18 ”Rēx Alexander frātrī Ionathae salūtem.
 
 19 Audīvimus dē tē quod vir potēns **es** vīribus et aptus **es**, ut sīs amīcus noster;
 
-20 et nunc cōnstituimus tē hodiē summum sacerdōtem **gentis** tuae, et ut amīcus vocēris **rēgis** — et mīsit **eī** purpuram et corōnam auream — et, quae **nostra** sunt, sentiās nōbīscum et cōnservēs amīcitiās ad nōs ”.
+20 et nunc cōnstituimus tē hodiē summum sacerdōtem **gentis** tuae, et ut amīcus vocēris **rēgis** — et mīsit **eī** purpuram et corōnam auream — et, quae **nostra** sunt, sentiās nōbīscum et cōnservēs amīcitiās ad nōs”.
 
 21 Et induit sē Ionathās **stolā** **sānctā** septimō **mēnse**, annō centēsimō sexāgēsimō, in **diē** sollemnī Scēnopēgiae; et congregāvit **exercitum** et fēcit **arma** **cōpiōsa**.
 
 22 Et audīvit Dēmētrius verba **ista** et contrīstātus **est** nimis et ait:
 
-23 “ Quid **hoc** fēcimus quod praeoccupāvit nōs Alexander **apprehendere** amīcitiam Iūdaeōrum ad firmāmentum?
+23 ”Quid **hoc** fēcimus quod praeoccupāvit nōs Alexander **apprehendere** amīcitiam Iūdaeōrum ad firmāmentum?
 
-24 Scrībam et ego illīs verba **dēprecātōria** et dignitātēs et **dōna**, ut sint mēcum in adiūtōrium ”.
+24 Scrībam et ego illīs verba **dēprecātōria** et dignitātēs et **dōna**, ut sint mēcum in adiūtōrium”.
 
-25 Et mīsit eīs secundum haec verba: “ Rēx Dēmētrius gentī Iūdaeōrum salūtem.
+25 Et mīsit eīs secundum haec verba: ”Rēx Dēmētrius gentī Iūdaeōrum salūtem.
 
 26 Quoniam servāstis ad nōs **pactum** et mānsistis in **amīcitiā** **nostrā** et nōn accessistis ad inimīcōs nostrōs, audīvimus et gāvīsī sumus.
 
@@ -1192,7 +1192,7 @@
 
 44 Et ad **aedificanda** vel **restauranda** **opera** sānctōrum **sūmptus** dabitur dē ratiōne **rēgis**;
 
-45 et ad exstruendōs mūrōs Ierusālem et commūniendum in circuitū **sūmptūs** dabitur dē ratiōne **rēgis** et ad cōnstruendōs mūrōs in **Iūdaeā** ”.
+45 et ad exstruendōs mūrōs Ierusālem et commūniendum in circuitū **sūmptūs** dabitur dē ratiōne **rēgis** et ad cōnstruendōs mūrōs in **Iūdaeā**”.
 
 46 Ut audīvit autem Ionathās et **populus** sermōnēs istōs, nōn crēdidērunt eīs nec recēpērunt, quia recordātī sunt malitiae magnae, quam fēcerat in Isrāēl et trībulāverat eōs valdē.
 
@@ -1206,15 +1206,15 @@
 
 51 Et mīsit Alexander ad Ptolemaeum rēgem Aegyptī lēgātōs secundum haec verba dīcēns:
 
-52 “ Quoniam **regressus** sum in rēgnum meum et **sēdī** in **sēde** patrum meōrum et obtinuī prīncipātum et contrīvī Dēmētrium et possēdī regiōnem nostram
+52 ”Quoniam **regressus** sum in rēgnum meum et **sēdī** in **sēde** patrum meōrum et obtinuī prīncipātum et contrīvī Dēmētrium et possēdī regiōnem nostram
 
 53 et commīsī pugnam cum eō, et contrītus **est** ipse et **castra** eius ā nōbīs, et sēdimus in **sēde** rēgnī eius;
 
-54 et nunc statuāmus ad invicem amīcitiam, et dā mihi fīliam tuam uxōrem, et ego **erō** gener tuus et dabō tibi **dōna** et ipsī **digna** tē ”.
+54 et nunc statuāmus ad invicem amīcitiam, et dā mihi fīliam tuam uxōrem, et ego **erō** gener tuus et dabō tibi **dōna** et ipsī **digna** tē”.
 
-55 Et respondit rēx Ptolemaeus dīcēns: “ **Fēlīx** diēs, in **quā** reversus **es** ad terram patrum tuōrum et sēdistī in **sēde** rēgnī eōrum!
+55 Et respondit rēx Ptolemaeus dīcēns: ”**Fēlīx** diēs, in **quā** reversus **es** ad terram patrum tuōrum et sēdistī in **sēde** rēgnī eōrum!
 
-56 Et nunc faciam tibi, quae scrīpsistī, sed occurre in Ptolemāidam, ut videāmus invicem nōs, et socer fīam tibi, sīcut dīxistī ”.
+56 Et nunc faciam tibi, quae scrīpsistī, sed occurre in Ptolemāidam, ut videāmus invicem nōs, et socer fīam tibi, sīcut dīxistī”.
 
 57 Et exīvit Ptolemaeus dē Aegyptō, ipse et **Cleopatrā** **fīlia** eius, et **venit** Ptolemāidam annō centēsimō sexāgēsimō secundō.
 
@@ -1228,7 +1228,7 @@
 
 62 Et iussit rēx, et exspoliāvērunt **Ionathān** vestibus **suīs** et induērunt eum **purpurā**; et **ita** fēcērunt. Et collocāvit eum rēx **sedēre** sēcum.
 
-63 Dīxitque prīncipibus **suīs**: “ **Exīte** cum eō in **medium** cīvitātis et **praedicātē**, ut nēmō adversus eum interpellet dē ūllō negōtiō, nec quisquam **eī** molestus sit dē **ūllā** ratiōne ”.
+63 Dīxitque prīncipibus **suīs**: ”**Exīte** cum eō in **medium** cīvitātis et **praedicātē**, ut nēmō adversus eum interpellet dē ūllō negōtiō, nec quisquam **eī** molestus sit dē **ūllā** ratiōne”.
 
 64 Et factum **est**, ut vīdērunt, quī interpellābant glōriam eius, quae praedicābātur, et opertum eum **purpurā**, fūgērunt omnēs.
 
@@ -1242,13 +1242,13 @@
 
 69 Et cōnstituit Dēmētrius rēx Apollōnium, quī praeerat Coelēsyriae, et congregāvit **exercitum** magnum; et accessit ad Iamniam et mīsit ad **Ionathān** summum sacerdōtem
 
-70 dīcēns: “ Tū omnīnō **sōlus** resistis nōbīs; ego autem **factus** sum in dērīsum et in opprobrium propter tē; et quārē tū potestātem adversum nōs exercēs in montibus?
+70 dīcēns: ”Tū omnīnō **sōlus** resistis nōbīs; ego autem **factus** sum in dērīsum et in opprobrium propter tē; et quārē tū potestātem adversum nōs exercēs in montibus?
 
 71 Nunc ergō sī cōnfīdis in virtūtibus tuīs, dēscende ad nōs in campum, et **compārēmus** **illīc** invicem, quia mēcum **est** virtūs cīvitātum.
 
 72 Interrogā et disce **quis** sum ego et cēterī, quī auxiliō sunt nōbīs, et dīcunt: “Nōn potest stāre pēs vester ante faciem nostram, quia bis in fugam conversī sunt patrēs tuī in **terrā** **suā**”.
 
-73 Et nunc nōn **poteris** sustinēre equitātum et **exercitum** tālem in campō, ubi nōn **est** **lapis** neque silex neque locus fugiendī ”.
+73 Et nunc nōn **poteris** sustinēre equitātum et **exercitum** tālem in campō, ubi nōn **est** **lapis** neque silex neque locus fugiendī”.
 
 74 Ut audīvit autem Ionathās sermōnēs Apollōniī, **mōtus** **est** animō et ēlēgit decem **mīlia** **virōrum** et exiit ab Ierusālem, et occurrit **eī** Simōn frāter eius in adiūtōrium.
 
@@ -1300,9 +1300,9 @@
 
 8 Rēx autem Ptolemaeus obtinuit dominium cīvitātum maritimārum usque Seleucīam maritimam et cōgitābat in Alexandrum **cōnsilia** **mala**.
 
-9 Et mīsit lēgātōs ad Dēmētrium dīcēns: “ **Vēnī**, compōnāmus inter nōs **pactum**, et dabō tibi fīliam meam, quam habet Alexander, et rēgnābis in rēgnō patris tuī;
+9 Et mīsit lēgātōs ad Dēmētrium dīcēns: ”**Vēnī**, compōnāmus inter nōs **pactum**, et dabō tibi fīliam meam, quam habet Alexander, et rēgnābis in rēgnō patris tuī;
 
-10 paenitet enim mē quod dederim illī fīliam meam: quaesīvit enim mē **occīdere** ”.
+10 paenitet enim mē quod dederim illī fīliam meam: quaesīvit enim mē **occīdere**”.
 
 11 Et vituperāvit eum, proptereā quod concupīsceret rēgnum eius.
 
@@ -1342,7 +1342,7 @@
 
 29 Et cōnsēnsit rēx et scrīpsit Ionathae epistulās dē hīs omnibus hunc modum continentēs:
 
-30 “ Rēx Dēmētrius frātrī Ionathae salūtem et gentī Iūdaeōrum.
+30 ”Rēx Dēmētrius frātrī Ionathae salūtem et gentī Iūdaeōrum.
 
 31 Exemplum epistulae, quam scrīpsimus Lasthenī **parentī** nostrō dē vōbīs, scrīpsimus et ad vōs, ut scīrētis:
 
@@ -1356,7 +1356,7 @@
 
 36 Et nihil hōrum irritum erit ex **hōc** et in omne tempus.
 
-37 Nunc ergō **cūrātē** facere hōrum exemplum, et dētur Ionathae et pōnātur in monte sānctō in locō celebrī” ”.
+37 Nunc ergō **cūrātē** facere hōrum exemplum, et dētur Ionathae et pōnātur in monte sānctō in locō celebrī””.
 
 38 Et vidēns Dēmētrius rēx quod siluit **terra** in cōnspectū suō, et nihil **eī** resistit, dīmīsit **tōtum** **exercitum** suum, ūnumquemque in locum suum, exceptō peregrīnō **exercitū**, quem contrāxit ab īnsulīs gentium; et inimīcī erant **eī** omnēs **exercitūs** patrum eius.
 
@@ -1366,9 +1366,9 @@
 
 41 Et mīsit Ionathās ad Dēmētrium rēgem, ut ēiceret eōs, quī in **arce** erant in Ierusālem et quī in praesidiīs erant, quia impugnābant Isrāēl.
 
-42 Et mīsit Dēmētrius ad **Ionathān** dīcēns: “ Nōn haec tantum faciam tibi et gentī tuae, sed **glōria** illūstrābō tē et gentem tuam, cum fuerit opportūnum;
+42 Et mīsit Dēmētrius ad **Ionathān** dīcēns: ”Nōn haec tantum faciam tibi et gentī tuae, sed **glōria** illūstrābō tē et gentem tuam, cum fuerit opportūnum;
 
-43 nunc ergō **rēctē** **fēcerīs**, sī **miserīs** in auxilium mihi virōs, quia discessit **omnis** **exercitus** meus ”.
+43 nunc ergō **rēctē** **fēcerīs**, sī **miserīs** in auxilium mihi virōs, quia discessit **omnis** **exercitus** meus”.
 
 44 Et mīsit **eī** Ionathās tria **mīlia** **virōrum** fortium Antiochīam, et vēnērunt ad rēgem, et dēlectātus **est** rēx in adventū eōrum.
 
@@ -1382,7 +1382,7 @@
 
 49 Et vīdērunt, quī erant dē cīvitāte, quod obtinuissent Iūdaeī cīvitātem, sīcut volēbant, et īnfirmātī sunt mente **suā** et clāmāvērunt ad rēgem cum precibus dīcentēs:
 
-50 “ Dā nōbīs dextrās, et cessent Iūdaeī oppugnāre nōs et cīvitātem ”.
+50 ”Dā nōbīs dextrās, et cessent Iūdaeī oppugnāre nōs et cīvitātem”.
 
 51 Et prōiēcērunt **arma** **sua** et fēcērunt pācem; et glōrificātī sunt Iūdaeī in cōnspectū **rēgis** et in cōnspectū omnium, quī erant in rēgnō eius, et nōminātī sunt in rēgnō et regressī sunt in Ierusālem habentēs **spolia** **multa**.
 
@@ -1396,7 +1396,7 @@
 
 56 Et accēpit Tryphōn bēstiās et obtinuit Antiochīam.
 
-57 Et scrīpsit Antiochus adulescentior Ionathae dīcēns: “ Cōnstituō tibi summum sacerdōtium et cōnstituō tē super quattuor regiōnēs et ut sīs dē **amīcīs** **rēgis** ”.
+57 Et scrīpsit Antiochus adulescentior Ionathae dīcēns: ”Cōnstituō tibi summum sacerdōtium et cōnstituō tē super quattuor regiōnēs et ut sīs dē **amīcīs** **rēgis**”.
 
 58 Et mīsit illī vāsa **aurea** et ministerium et **dedit** **eī** potestātem bibendī in aurō et **esse** in **purpurā** et habēre fībulam auream.
 
@@ -1444,7 +1444,7 @@
 
 5 Et **hoc** **est** exemplum epistulārum, quās scrīpsit Ionathās Spartiātīs:
 
-6 “ Ionathās summus sacerdōs et seniōrēs **gentīs** et sacerdōtēs et reliquus **populus** Iūdaeōrum Spartiātīs frātribus salūtem.
+6 ”Ionathās summus sacerdōs et seniōrēs **gentīs** et sacerdōtēs et reliquus **populus** Iūdaeōrum Spartiātīs frātribus salūtem.
 
 7 Iamprīdem missae erant epistulae ad Ōniam summum sacerdōtem ab Arīō, quī rēgnābat apud vōs, quoniam **estis** frātrēs nostrī, sīcut rescrīptum continet, quod subiectum **est**.
 
@@ -1468,17 +1468,17 @@
 
 17 mandāvimus itaque eīs, ut veniant etiam ad vōs et salūtent vōs et reddant vōbīs epistulās nostrās dē innovātiōne et frāternitāte **nostrā**.
 
-18 Et nunc **bene** faciētis respondentēs nōbīs ad haec ”.
+18 Et nunc **bene** faciētis respondentēs nōbīs ad haec”.
 
 19 Et **hoc** **est** rescrīptum epistulārum, quās mīsērunt Ōniae:
 
-20 “ Arīus rēx Spartiātārum Ōniae sacerdōtī magnō salūtem.
+20 ”Arīus rēx Spartiātārum Ōniae sacerdōtī magnō salūtem.
 
 21 Inventum **est** in **scrīptūrā** dē Spartiātīs et Iūdaeīs quoniam sunt frātrēs et quod sunt dē genere Abraham.
 
 22 Et nunc, ex quō haec cognōvimus, **bene** faciētis scrībentēs nōbīs dē pāce **vestrā**.
 
-23 Sed et nōs rescrībimus vōbīs. Pecora **vestra** et possessiōnēs vestrae nostrae sunt; et, quae **nostra**, **vestra** sunt. Mandāmus itaque, ut annūntient vōbīs secundum haec ”.
+23 Sed et nōs rescrībimus vōbīs. Pecora **vestra** et possessiōnēs vestrae nostrae sunt; et, quae **nostra**, **vestra** sunt. Mandāmus itaque, ut annūntient vōbīs secundum haec”.
 
 24 Et audīvit Ionathās quoniam regressī sunt prīncipēs Dēmētriī cum **exercitū** multō suprā quam prius pugnāre adversus eum.
 
@@ -1520,9 +1520,9 @@
 
 43 et excēpit eum cum **honōre** et commendāvit eum omnibus **amīcīs** **suīs** et **dedit** **eī** **mūnera** et praecēpit exercitibus **suīs**, ut oboedīrent **eī** sīcut sibi.
 
-44 Et dīxit Ionathae: “ Ut quid vexāstī ūniversum **populum**, cum bellum nōbīs nōn sit?
+44 Et dīxit Ionathae: ”Ut quid vexāstī ūniversum **populum**, cum bellum nōbīs nōn sit?
 
-45 Et nunc remitte eōs in domōs suās. Ēlige autem tibi virōs paucōs, quī tēcum sint, et **venī** mēcum Ptolemāidam, et trādam eam tibi et **reliqua** praesidia et reliquum **exercitum** et ūniversōs praepositōs negōtiīs et conversus abībō; proptereā enim **venī** ”.
+45 Et nunc remitte eōs in domōs suās. Ēlige autem tibi virōs paucōs, quī tēcum sint, et **venī** mēcum Ptolemāidam, et trādam eam tibi et **reliqua** praesidia et reliquum **exercitum** et ūniversōs praepositōs negōtiīs et conversus abībō; proptereā enim **venī**”.
 
 46 Et crēdidit **eī** et fēcit, sīcut dīxit, et dīmīsit **exercitum**, et abiērunt in terram Iūdae.
 
@@ -1540,7 +1540,7 @@
 
 53 Et quaesiērunt omnēs gentēs, quae erant in circuitū eōrum, **conterere** eōs; dīxērunt enim:
 
-54 “Nōn habent prīncipem et adiuvantem; nunc ergō expugnēmus illōs et tollāmus dē hominibus memoriam eōrum ”.
+54 “Nōn habent prīncipem et adiuvantem; nunc ergō expugnēmus illōs et tollāmus dē hominibus memoriam eōrum”.
 
 ## 13
 
@@ -1548,19 +1548,19 @@
 
 2 Vidēns quia in tremōre **populus** **est** et in timōre, ascendit Ierusālem et congregāvit **populum**
 
-3 et exhortātus **est** eōs et dīxit illīs: “ Vōs **scītis** **quanta** ego et frātrēs meī et **domus** patris meī fēcimus prō lēgibus et prō sānctīs **proelia** et angustiās quālēs vīdimus.
+3 et exhortātus **est** eōs et dīxit illīs: ”Vōs **scītis** **quanta** ego et frātrēs meī et **domus** patris meī fēcimus prō lēgibus et prō sānctīs **proelia** et angustiās quālēs vīdimus.
 
 4 Hōrum **grātiā** periērunt frātrēs meī omnēs propter Isrāēl, et **relictus** sum ego **sōlus**.
 
 5 Et nunc nōn mihi contingat **parcere** animae meae in omnī tempore trībulātiōnis; nōn enim melior sum frātribus meīs.
 
-6 Vindicābō tamen gentem meam et **sānctā**, uxōrēs **quoque** et nātōs vestrōs, quia congregātae sunt ūniversae gentēs **conterere** nōs inimīcitiae **grātia** ”.
+6 Vindicābō tamen gentem meam et **sānctā**, uxōrēs **quoque** et nātōs vestrōs, quia congregātae sunt ūniversae gentēs **conterere** nōs inimīcitiae **grātia**”.
 
 7 Et **accēnsus** **est** **spīritus** **populī**, simul ut audīvit sermōnēs istōs,
 
-8 et respondērunt vōce **magnā** dīcentēs: “ Tū **es** dux noster locō Iūdae et Ionathae frātris tuī;
+8 et respondērunt vōce **magnā** dīcentēs: ”Tū **es** dux noster locō Iūdae et Ionathae frātris tuī;
 
-9 **pugna** proelium nostrum, et omnia, quaecumque **dīxerīs** nōbīs, faciēmus ”.
+9 **pugna** proelium nostrum, et omnia, quaecumque **dīxerīs** nōbīs, faciēmus”.
 
 10 Et congregāns omnēs virōs bellātōrēs accelerāvit cōnsummāre ūniversōs mūrōs Ierusālem et mūnīvit eam in gȳrō.
 
@@ -1572,13 +1572,13 @@
 
 14 Et ut cognōvit Tryphōn quia surrēxit Simōn locō frātris **suī** Ionathae et quia commissūrus **esset** cum eō proelium, mīsit ad eum lēgātōs
 
-15 dīcēns: “ Prō argentō, quod dēbēbat frāter tuus Ionathās fiscō **rēgis** propter **negōtia**, quae habuit, dētinuimus eum;
+15 dīcēns: ”Prō argentō, quod dēbēbat frāter tuus Ionathās fiscō **rēgis** propter **negōtia**, quae habuit, dētinuimus eum;
 
-16 et nunc mitte argentī talenta centum et duōs fīliōs eius **obsidēs**, ut nōn dīmissus fugiat ā nōbīs, et remittēmus eum ”.
+16 et nunc mitte argentī talenta centum et duōs fīliōs eius **obsidēs**, ut nōn dīmissus fugiat ā nōbīs, et remittēmus eum”.
 
 17 Et cognōvit Simōn quia cum dolō loquuntur sēcum; mīsit tamen accipere argentum et puerōs, nē inimīcitiam magnam sūmeret ad **populum**,
 
-18 quī dīcerent: “ Quia nōn mīsit **eī** argentum et puerōs, periit ”.
+18 quī dīcerent: ”Quia nōn mīsit **eī** argentum et puerōs, periit”.
 
 19 Et mīsit puerōs et centum talenta. Et mentītus **est** et nōn dīmīsit **Ionathān**;
 
@@ -1614,7 +1614,7 @@
 
 35 Et Dēmētrius rēx ad verba **ista** respondit **eī** et scrīpsit epistulam tālem:
 
-36 “ Rēx Dēmētrius Simōnī summō sacerdōtī et amīcō rēgum et seniōribus et gentī Iūdaeōrum salūtem.
+36 ”Rēx Dēmētrius Simōnī summō sacerdōtī et amīcō rēgum et seniōribus et gentī Iūdaeōrum salūtem.
 
 37 Corōnam auream et baen, quam mīsistis, suscēpimus; et parātī sumus facere vōbīscum pācem magnam et **scrībere** praepositīs **rēgis** **remittere** vōbīs, quae indulsimus.
 
@@ -1622,11 +1622,11 @@
 
 39 Remittimus **quoque** ignōrantiās et **peccāta** usque in hodiernum diem et corōnam, quam dēbēbātis; et, sī quid aliud erat tribūtārium in Ierusālem, iam nōn sit tribūtārium.
 
-40 Et, sī quī ex vōbīs aptī sunt cōnscrībī inter nostrōs, cōnscrībantur, et sit inter nōs pāx ”.
+40 Et, sī quī ex vōbīs aptī sunt cōnscrībī inter nostrōs, cōnscrībantur, et sit inter nōs pāx”.
 
 41 Annō centēsimō septuāgēsimō ablātum **est** iugum gentium ab Isrāēl.
 
-42 Et coepit **populus** Isrāēl **scrībere** in cōnscrīptiōnibus et commūtātiōnibus: “ Annō prīmō sub Simōne summō sacerdōte magnō **duce** et prīncipe Iūdaeōrum ”.
+42 Et coepit **populus** Isrāēl **scrībere** in cōnscrīptiōnibus et commūtātiōnibus: ”Annō prīmō sub Simōne summō sacerdōte magnō **duce** et prīncipe Iūdaeōrum”.
 
 43 In diēbus illīs applicuit Simōn ad Gazaram et **circumdedit** eam castrīs et fēcit māchinam et applicuit ad cīvitātem et percussit turrim ūnam et comprehendit.
 
@@ -1634,7 +1634,7 @@
 
 45 Et ascendērunt, quī erant in cīvitāte, cum uxōribus et fīliīs suprā mūrum, **scissīs** tunicīs **suīs**, et clāmāvērunt vōce **magnā** postulantēs ā Simōne dextrās sibi darī
 
-46 et dīxērunt: “ Nōn nōbīs reddās secundum malitiās nostrās sed secundum misericordiam tuam ”.
+46 et dīxērunt: ”Nōn nōbīs reddās secundum malitiās nostrās sed secundum misericordiam tuam”.
 
 47 Et cōnsēnsit illīs Simōn et nōn dēbellāvit eōs; ēiēcit tamen eōs dē cīvitāte et mundāvit aedēs, in quibus fuerant simulācra, et tunc intrāvit in eam **canēns** et benedīcēns.
 
@@ -1732,21 +1732,21 @@ et multiplicāvit vāsa sānctōrum.
 
 19 et lēctae sunt in cōnspectū ecclēsiae in Ierusālem. Et **hoc** exemplum epistulārum, quās Spartiātae mīsērunt:
 
-20 “ Spartiānōrum prīncipēs et cīvitās Simōnī sacerdōtī magnō et seniōribus et sacerdōtibus et reliquō **populō** Iūdaeōrum frātribus salūtem.
+20 ”Spartiānōrum prīncipēs et cīvitās Simōnī sacerdōtī magnō et seniōribus et sacerdōtibus et reliquō **populō** Iūdaeōrum frātribus salūtem.
 
 21 Lēgātī, quī missī sunt ad **populum** nostrum, nūntiāvērunt nōbīs dē **vestrā** **glōriā** et **honōre**, et gāvīsī sumus in introitū eōrum
 
 22 et scrīpsimus, quae ab eīs erant **dicta** in conciliīs **populī** sīc: “Numenius Antiochī et Antipater **Iāsonis** fīlius, lēgātī Iūdaeōrum, vēnērunt ad nōs renovantēs nōbīscum amīcitiam”.
 
-23 Et placuit **populō** excipere virōs **glōriōsē** et **pōnere** exemplum sermōnum eōrum in **sēgregātīs** **populī** **librīs**, ut sit ad memoriam **populō** Spartiātārum. Exemplum autem hōrum scrīpsimus Simōnī magnō sacerdōtī ”.
+23 Et placuit **populō** excipere virōs **glōriōsē** et **pōnere** exemplum sermōnum eōrum in **sēgregātīs** **populī** **librīs**, ut sit ad memoriam **populō** Spartiātārum. Exemplum autem hōrum scrīpsimus Simōnī magnō sacerdōtī”.
 
 24 Post haec autem mīsit Simōn Numēnium Rōmam habentem clipeum aureum magnum pondō minārum mīlle ad statuendam cum eīs societātem.
 
-25 Cum autem audīsset **populus** sermōnēs istōs, dīxērunt: “ Quam grātiārum āctiōnem reddēmus Simōnī et fīliīs eius?
+25 Cum autem audīsset **populus** sermōnēs istōs, dīxērunt: ”Quam grātiārum āctiōnem reddēmus Simōnī et fīliīs eius?
 
-26 Invaluit enim ipse et frātrēs eius et **domus** patris eius et expugnāvit inimīcōs Isrāēl ab eīs; et statuērunt **eī** lībertātem ”. Et dēscrīpsērunt in tabulīs aereīs et posuērunt in titulīs in monte **Sīōn**.
+26 Invaluit enim ipse et frātrēs eius et **domus** patris eius et expugnāvit inimīcōs Isrāēl ab eīs; et statuērunt **eī** lībertātem”. Et dēscrīpsērunt in tabulīs aereīs et posuērunt in titulīs in monte **Sīōn**.
 
-27 Et **hoc** **est** exemplum scrīptūrae: “ **Octāva** **decima** **diē** Elul, annō centēsimō septuāgēsimō secundō, annō tertiō sub Simōne sacerdōte magnō, in Asaramel,
+27 Et **hoc** **est** exemplum scrīptūrae: ”**Octāva** **decima** **diē** Elul, annō centēsimō septuāgēsimō secundō, annō tertiō sub Simōne sacerdōte magnō, in Asaramel,
 
 28 in conventū magnō sacerdōtum et **populī** et prīncipum **gentīs** et seniōrum regiōnis **nōta** **facta** sunt nōbīs haec:
 
@@ -1786,7 +1786,7 @@ et multiplicāvit vāsa sānctōrum.
 
 46 Et complacuit omnī **populō** **statuere** Simōnī facere secundum verba **ista**.
 
-47 Et suscēpit Simōn et placuit **eī**, ut summō sacerdōtiō fungerētur et **esset** dux et prīnceps **gentis** Iūdaeōrum et sacerdōtum et **praeesset** omnibus ”.
+47 Et suscēpit Simōn et placuit **eī**, ut summō sacerdōtiō fungerētur et **esset** dux et prīnceps **gentis** Iūdaeōrum et sacerdōtum et **praeesset** omnibus”.
 
 48 Et scrīptūram istam dīxērunt **pōnere** in tabulīs aereīs et **pōnere** eās in peribolō sānctōrum in locō celebrī;
 
@@ -1796,7 +1796,7 @@ et multiplicāvit vāsa sānctōrum.
 
 1 Et mīsit rēx Antiochus fīlius Dēmētriī epistulās ab īnsulīs **maris** Simōnī sacerdōtī et prīncipī **gentis** Iūdaeōrum et ūniversae gentī,
 
-2 et erant continentēs hunc modum: “ Rēx Antiochus Simōnī sacerdōtī magnō et **gentīs** prīncipī et gentī Iūdaeōrum salūtem.
+2 et erant continentēs hunc modum: ”Rēx Antiochus Simōnī sacerdōtī magnō et **gentīs** prīncipī et gentī Iūdaeōrum salūtem.
 
 3 Quoniam quīdam pestilentēs obtinuērunt rēgnum patrum nostrōrum, volō autem vindicāre rēgnum, ut restituam illud, sīcut erat anteā, dēlēctumque fēcī multitūdinis **exercitus** et fēcī nāvēs bellicās;
 
@@ -1810,7 +1810,7 @@ et multiplicāvit vāsa sānctōrum.
 
 8 et omne dēbitum **rēgis**, et quae **futūra** sunt **rēgī** ex **hōc** et in **tōtum** tempus, remittantur tibi.
 
-9 Cum autem **obtinuerīmus** rēgnum nostrum, glōrificābimus tē et gentem tuam et templum **glōria** **magna**, **ita** ut manifestētur **glōria** **vestra** in **ūniversā** **terrā** ”.
+9 Cum autem **obtinuerīmus** rēgnum nostrum, glōrificābimus tē et gentem tuam et templum **glōria** **magna**, **ita** ut manifestētur **glōria** **vestra** in **ūniversā** **terrā**”.
 
 10 Annō centēsimō septuāgēsimō quārtō exiit Antiochus in terram patrum suōrum, et convēnērunt ad eum omnēs **exercitūs**, **ita** ut paucī relictī **essent** cum Tryphōne.
 
@@ -1834,7 +1834,7 @@ et multiplicāvit vāsa sānctōrum.
 
 20 Vīsum autem **est** nōbīs accipere ab eīs clipeum.
 
-21 Sī quī ergō pestilentēs refūgērunt dē regiōne ipsōrum ad vōs, **trāditē** eōs Simōnī prīncipī sacerdōtum, ut vindicet in eōs secundum lēgem suam ”.
+21 Sī quī ergō pestilentēs refūgērunt dē regiōne ipsōrum ad vōs, **trāditē** eōs Simōnī prīncipī sacerdōtum, ut vindicet in eōs secundum lēgem suam”.
 
 22 Haec **eadem** scrīpsit Dēmētriō **rēgī** et Attalō et Ariarāthae et Arsācae
 
@@ -1848,7 +1848,7 @@ et multiplicāvit vāsa sānctōrum.
 
 27 Et nōluit **eā** accipere, sed rūpit omnia, quae **pactus** **est** cum eō anteā, et aliēnāvit sē ab eō.
 
-28 Et mīsit ad eum Athenobium ūnum dē **amīcīs** **suīs**, ut tractāret cum ipsō dīcēns: “ Vōs tenētis Ioppēn et Gazaram et arcem, quae **est** in Ierusālem, cīvitātēs rēgnī meī;
+28 Et mīsit ad eum Athenobium ūnum dē **amīcīs** **suīs**, ut tractāret cum ipsō dīcēns: ”Vōs tenētis Ioppēn et Gazaram et arcem, quae **est** in Ierusālem, cīvitātēs rēgnī meī;
 
 29 fīnēs eārum dēsōlāstis et fēcistis **plāgam** magnam in **terrā** et dominātī **estis** per **loca** **multa** in rēgnō meō.
 
@@ -1858,11 +1858,11 @@ et multiplicāvit vāsa sānctōrum.
 
 32 Et **venit** Athenobius amīcus **rēgis** in Ierusālem et vīdit glōriam Simōnis et clāritātem in aurō et argentō et apparātum cōpiōsum et obstupuit et rettulit **eī** verba **rēgis**.
 
-33 Et respondit **eī** Simōn et dīxit **eī**: “ Neque aliēnam terram sūmpsimus neque **aliēna** dētinēmus sed hērēditātem patrum nostrōrum, quae **iniūstē** ab inimīcīs nostrīs aliquō tempore **possessa** **est**.
+33 Et respondit **eī** Simōn et dīxit **eī**: ”Neque aliēnam terram sūmpsimus neque **aliēna** dētinēmus sed hērēditātem patrum nostrōrum, quae **iniūstē** ab inimīcīs nostrīs aliquō tempore **possessa** **est**.
 
 34 Nōs vērō tempus habentēs vindicāmus hērēditātem patrum nostrōrum;
 
-35 nam dē Ioppē et Gazarā, quae expostulās, ipsae faciēbant in **populō** **plāgam** magnam et in regiōne **nostrā**: hōrum damus talenta centum ”. Et nōn respondit **eī** verbum.
+35 nam dē Ioppē et Gazarā, quae expostulās, ipsae faciēbant in **populō** **plāgam** magnam et in regiōne **nostrā**: hōrum damus talenta centum”. Et nōn respondit **eī** verbum.
 
 36 Reversus autem cum **īrā** ad rēgem renūntiāvit **eī** verba **ista** et glōriam Simōnis et **ūniversa**, quae vīdit; et īrātus **est** rēx **īrā** **magnā**.
 
@@ -1880,9 +1880,9 @@ et multiplicāvit vāsa sānctōrum.
 
 1 Et ascendit Iōannēs dē Gazāris et nūntiāvit Simōnī patrī suō, quae fēcit Cendebaeus.
 
-2 Et vocāvit Simōn duōs fīliōs seniōrēs, Iūdam et Iōannem, et ait illīs: “ Ego et frātrēs meī et **domus** patris meī expugnāvimus hostēs Isrāēl ab **adulēscentiā** usque in hunc diem, et prōsperātum **est** in manibus nostrīs līberāre Isrāēl saepius.
+2 Et vocāvit Simōn duōs fīliōs seniōrēs, Iūdam et Iōannem, et ait illīs: ”Ego et frātrēs meī et **domus** patris meī expugnāvimus hostēs Isrāēl ab **adulēscentiā** usque in hunc diem, et prōsperātum **est** in manibus nostrīs līberāre Isrāēl saepius.
 
-3 Nunc autem senuī, vōs autem in **misericordiā** sufficientēs **estis** in annīs; **ēstote** locō meō et frātris meī et ēgressī **pugnātē** prō gente **nostrā**; auxilium vērō dē caelō vōbīscum sit ”.
+3 Nunc autem senuī, vōs autem in **misericordiā** sufficientēs **estis** in annīs; **ēstote** locō meō et frātris meī et ēgressī **pugnātē** prō gente **nostrā**; auxilium vērō dē caelō vōbīscum sit”.
 
 4 Et ēlēgit dē regiōne vīgintī **mīlia** **virōrum** belligerātōrum et equitēs; et **profectī** sunt ad Cendebaeum et dormiērunt in **Modīn**
 
@@ -1918,7 +1918,7 @@ et multiplicāvit vāsa sānctōrum.
 
 20 Et aliōs mīsit occupāre Ierusālem et montem templī.
 
-21 Et praecurrēns quīdam nūntiāvit Iōannī in Gazara quia periit pater eius et frātrēs eius et quia: “ Mīsit tē **quoque** interficī ”.
+21 Et praecurrēns quīdam nūntiāvit Iōannī in Gazara quia periit pater eius et frātrēs eius et quia: ”Mīsit tē **quoque** interficī”.
 
 22 Ut audīvit autem, vehementer expāvit et comprehendit virōs, quī vēnerant **perdere** eum, et **occīdit** eōs; cognōvit enim quia quaerēbant eum **perdere**.
 

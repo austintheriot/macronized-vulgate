@@ -26,7 +26,7 @@
 
 11 Significātum **est** enim mihi dē vōbīs, frātrēs meī, ab hīs, quī sunt Chloēs, quia contentiōnēs inter vōs sunt.
 
-12 **Hoc** autem **dīcō**, quod ūnusquisque vestrum dīcit: “ Ego quidem sum Paulī ”, “ Ego autem Apollō ”, “ Ego vērō Cephae ”, “ Ego autem Chrīstī ”.
+12 **Hoc** autem **dīcō**, quod ūnusquisque vestrum dīcit: ”Ego quidem sum Paulī”, ”Ego autem Apollō”, ”Ego vērō Cephae”, ”Ego autem Chrīstī”.
 
 13 **Dīvīsus** **est** Chrīstus? Numquid Paulus crucifīxus **est** prō vōbīs, aut in nōmine Paulī baptīzātī **estis**?
 
@@ -42,9 +42,9 @@
 
 19 Scrīptum **est** enim:
 
-“ Perdam sapientiam sapientium
+”Perdam sapientiam sapientium
 
-et prūdentiam prūdentium reprobābō ”.
+et prūdentiam prūdentium reprobābō”.
 
 20 **Ubi** sapiēns? **Ubi** **scrība**? **Ubi** conquīsītor huius saeculī? **Nōnne** stultam fēcit Deus sapientiam huius mundī?
 
@@ -70,7 +70,7 @@ et prūdentiam prūdentium reprobābō ”.
 
 31 ut quemadmodum scrīptum **est**:
 
-“ Quī glōriātur, in Dominō glōriētur ”.
+”Quī glōriātur, in Dominō glōriētur”.
 
 
 
@@ -92,7 +92,7 @@ et prūdentiam prūdentium reprobābō ”.
 
 8 quam nēmō prīncipum huius saeculī cognōvit; sī enim cognōvissent, numquam Dominum glōriae crucifīxissent.
 
-9 Sed sīcut scrīptum **est**: “ Quod oculus nōn vīdit, nec **aurīs** audīvit, nec in cor hominis ascendit, quae praeparāvit Deus hīs, quī dīligunt illum ”.
+9 Sed sīcut scrīptum **est**: ”Quod oculus nōn vīdit, nec **aurīs** audīvit, nec in cor hominis ascendit, quae praeparāvit Deus hīs, quī dīligunt illum”.
 
 10 Nōbīs autem revēlāvit Deus per Spīritum; **Spīritus** enim omnia scrūtātur, etiam **profunda** Deī.
 
@@ -120,7 +120,7 @@ Nōs autem sēnsum Chrīstī habēmus.
 
 3 adhūc enim **estis** carnālēs. Cum enim sit inter vōs zēlus et contentiō, **nōnne** carnālēs **estis** et secundum hominem **ambulātis**?
 
-4 Cum enim **quis** dīcit: “ Ego quidem sum Paulī ”, **alius** autem: “ Ego Apollō ”, **nōnne** hominēs **estis**?
+4 Cum enim **quis** dīcit: ”Ego quidem sum Paulī”, **alius** autem: ”Ego Apollō”, **nōnne** hominēs **estis**?
 
 5 Quid igitur **est** Apollō? Quid vērō Paulus? Ministrī, per quōs crēdidistis, et ūnīcuique sīcut Dominus **dēdit**.
 
@@ -152,13 +152,13 @@ Nōs autem sēnsum Chrīstī habēmus.
 
 19 **Sapientia** enim huius mundī **stultitia** **est** apud Deum. Scrīptum **est** enim:
 
-“ Quī apprehendit sapientēs in **āstūtiā** eōrum ”;
+”Quī apprehendit sapientēs in **āstūtiā** eōrum”;
 
 20 et iterum:
 
-“ Dominus nōvit cōgitātiōnēs sapientium,
+”Dominus nōvit cōgitātiōnēs sapientium,
 
-quoniam vānae sunt ”.
+quoniam vānae sunt”.
 
 21 Itaque nēmō glōriētur in hominibus. Omnia enim **vestra** sunt,
 
@@ -178,7 +178,7 @@ quoniam vānae sunt ”.
 
 5 Itaque nōlīte ante tempus quidquam iūdicāre, quoadusque veniat Dominus, quī et illūminābit **abscondita** tenebrārum et manifestābit **cōnsilia** cordium; et tunc laus erit ūnīcuique ā Deō.
 
-6 Haec autem, frātrēs, trānsfigūrāvī in mē et Apollō propter vōs, ut in nōbīs discātis illud: “ Nē suprā quae **scrīpta** sunt ”, nē ūnus prō aliō īnflēminī adversus alterum.
+6 Haec autem, frātrēs, trānsfigūrāvī in mē et Apollō propter vōs, ut in nōbīs discātis illud: ”Nē suprā quae **scrīpta** sunt”, nē ūnus prō aliō īnflēminī adversus alterum.
 
 7 **Quis** enim tē discernit? Quid autem habēs, quod nōn accēpistī? Sī autem accēpistī, quid **glōriāris**, quasi nōn **accēperīs**?
 
@@ -262,15 +262,15 @@ quoniam vānae sunt ”.
 
 11 Et haec quīdam fuistis. Sed ablūtī **estis**, sed sānctificātī **estis**, sed **iustificātī** **estis** in nōmine Dominī Iēsū Chrīstī et in Spīritū Deī nostrī!
 
-12 “ Omnia mihi licent! ”. Sed nōn omnia expediunt. “ Omnia mihi licent! ”. Sed ego sub **nūllīus** redigar potestāte.
+12 ”Omnia mihi licent!”. Sed nōn omnia expediunt. ”Omnia mihi licent!”. Sed ego sub **nūllīus** redigar potestāte.
 
-13 “ **Ēsca** ventrī, et venter ēscīs! ”. Deus autem et hunc et hās dēstruet. Corpus autem nōn fornicātiōnī sed Dominō, et Dominus corporī;
+13 ”**Ēsca** ventrī, et venter ēscīs!”. Deus autem et hunc et hās dēstruet. Corpus autem nōn fornicātiōnī sed Dominō, et Dominus corporī;
 
 14 Deus vērō et Dominum suscitāvit et nōs suscitābit per virtūtem suam.
 
 15 **Nescītis** quoniam **corpora** **vestra** **membra** Chrīstī sunt? Tollēns ergō **membra** Chrīstī faciam **membra** meretrīcis? Absit!
 
-16 An **nescītis** quoniam, quī adhaeret meretrīcī, ūnum corpus **est**? “ Erunt enim, inquit, duo in carne **ūnā** ”.
+16 An **nescītis** quoniam, quī adhaeret meretrīcī, ūnum corpus **est**? ”Erunt enim, inquit, duo in carne **ūnā**”.
 
 17 Quī autem adhaeret Dominō, ūnus **Spīritus** **est**.
 
@@ -408,7 +408,7 @@ quoniam vānae sunt ”.
 
 8 Numquid secundum hominem haec **dīcō**? An et lēx haec nōn dīcit?
 
-9 Scrīptum **est** enim in **Lēge** Moysis: “ Nōn alligābis **os** bovī trītūrantī ”. Numquid dē bōbus **cūra** **est** Deō?
+9 Scrīptum **est** enim in **Lēge** Moysis: ”Nōn alligābis **os** bovī trītūrantī”. Numquid dē bōbus **cūra** **est** Deō?
 
 10 An propter nōs utique dīcit? Nam propter nōs **scrīpta** sunt, quoniam dēbet in spē, quī arat, arāre; et, quī trītūrat, in spē **frūctūs** percipiendī.
 
@@ -460,7 +460,7 @@ quoniam vānae sunt ”.
 
 6 Haec autem figūrae fuērunt nostrae, ut nōn sīmus concupīscentēs **malōrum**, sīcut et illī concupiērunt.
 
-7 Neque īdōlōrum cultōrēs efficiāminī, sīcut quīdam ex ipsīs; quemadmodum scrīptum **est**: “ Sēdit **populus** mandūcāre et **bibere**, et surrēxērunt **lūdere** ”.
+7 Neque īdōlōrum cultōrēs efficiāminī, sīcut quīdam ex ipsīs; quemadmodum scrīptum **est**: ”Sēdit **populus** mandūcāre et **bibere**, et surrēxērunt **lūdere**”.
 
 8 Neque fornicēmur, sīcut quīdam ex ipsīs fornicātī sunt, et **cecidērunt** **ūnā** **diē** vīgintī tria **mīlia**.
 
@@ -492,7 +492,7 @@ quoniam vānae sunt ”.
 
 22 An aemulāmur Dominum? Numquid fortiōrēs illō sumus?
 
-23 “ Omnia licent! ”. Sed nōn omnia expediunt. “ Omnia licent! ”. Sed nōn omnia aedificant.
+23 ”Omnia licent!”. Sed nōn omnia expediunt. ”Omnia licent!”. Sed nōn omnia aedificant.
 
 24 Nēmō, quod suum **est**, quaerat, sed quod alterīus.
 
@@ -502,7 +502,7 @@ quoniam vānae sunt ”.
 
 27 Sī **quis** vocat vōs īnfidēlium, et vultis īre, omne, quod vōbīs appōnitur, **mandūcātē**, nihil interrogantēs propter cōnscientiam.
 
-28 Sī **quis** autem vōbīs dīxerit: “ **Hoc** immolātīcium **est** īdōlīs ”, nōlīte mandūcāre, propter illum, quī indicāvit, et propter cōnscientiam;
+28 Sī **quis** autem vōbīs dīxerit: ”**Hoc** immolātīcium **est** īdōlīs”, nōlīte mandūcāre, propter illum, quī indicāvit, et propter cōnscientiam;
 
 29 cōnscientiam autem **dīcō** nōn tuam ipsīus sed alterīus. Ut quid enim lībertās **mea** iūdicātur ab **aliā** **cōnscientiā**?
 
@@ -562,9 +562,9 @@ quoniam vānae sunt ”.
 
 23 Ego enim accēpī ā Dominō, quod et trādidī vōbīs, quoniam Dominus **Iēsus**, in **quā** nocte trādēbātur, accēpit pānem
 
-24 et grātiās agēns frēgit et dīxit: “ **Hoc** **est** corpus meum, quod prō vōbīs **est**; **hoc** facite in meam commemorātiōnem ”;
+24 et grātiās agēns frēgit et dīxit: ”**Hoc** **est** corpus meum, quod prō vōbīs **est**; **hoc** facite in meam commemorātiōnem”;
 
-25 similiter et calicem, postquam cēnātum **est**, dīcēns: “ **Hic** calix novum testāmentum **est** in meō sanguine; **hoc** facite, quotiēscumque bibētis, in meam commemorātiōnem ”.
+25 similiter et calicem, postquam cēnātum **est**, dīcēns: ”**Hic** calix novum testāmentum **est** in meō sanguine; **hoc** facite, quotiēscumque bibētis, in meam commemorātiōnem”.
 
 26 Quotiēscumque enim mandūcābitis pānem hunc et calicem bibētis, mortem Dominī **annūntiātis**, dōnec veniat.
 
@@ -590,7 +590,7 @@ quoniam vānae sunt ”.
 
 2 **Scītis** quoniam, cum gentēs **essētis**, ad simulācra **mūta**, prout dūcēbāminī, euntēs.
 
-3 Ideō nōtum vōbīs faciō quod nēmō in Spīritū Deī loquēns dīcit: “ **Anathēma** **Iēsus**! ”; et nēmō potest **dīcere**: “ Dominus **Iēsus** ”, **nisi** in Spīritū Sānctō.
+3 Ideō nōtum vōbīs faciō quod nēmō in Spīritū Deī loquēns dīcit: ”**Anathēma** **Iēsus**!”; et nēmō potest **dīcere**: ”Dominus **Iēsus**”, **nisi** in Spīritū Sānctō.
 
 4 Dīvīsiōnēs vērō grātiārum sunt, **īdem** autem **Spīritus**;
 
@@ -614,9 +614,9 @@ quoniam vānae sunt ”.
 
 14 Nam et corpus nōn **est** ūnum membrum sed **multa**.
 
-15 Sī dīxerit pēs: “Nōn sum **manūs**, nōn sum dē corpore ”, nōn ideō nōn **est** dē corpore;
+15 Sī dīxerit pēs: “Nōn sum **manūs**, nōn sum dē corpore”, nōn ideō nōn **est** dē corpore;
 
-16 et sī dīxerit **aurīs**: “ Nōn sum oculus, nōn sum dē corpore ”, nōn ideō nōn **est** dē corpore.
+16 et sī dīxerit **aurīs**: ”Nōn sum oculus, nōn sum dē corpore”, nōn ideō nōn **est** dē corpore.
 
 17 Sī **tōtum** corpus oculus **est**, ubi **audītus**? Sī **tōtum** **audītus**, ubi **odōrātus**?
 
@@ -626,7 +626,7 @@ quoniam vānae sunt ”.
 
 20 Nunc autem **multa** quidem **membra**, ūnum autem corpus.
 
-21 Nōn potest **dīcere** oculus manuī: “ Nōn **es** mihi **necessāria**! ”; aut iterum caput pedibus: “ Nōn **estis** mihi necessāriī! ”.
+21 Nōn potest **dīcere** oculus manuī: ”Nōn **es** mihi **necessāria**!”; aut iterum caput pedibus: ”Nōn **estis** mihi necessāriī!”.
 
 22 Sed multō **magis**, quae videntur **membra** corporis īnfirmiōra **esse**, **necessāria** sunt;
 
@@ -708,7 +708,7 @@ quoniam vānae sunt ”.
 
 15 Quid ergō **est**? Ōrābō spīritū, ōrābō et mente; psallam spīritū, psallam et mente.
 
-16 Cēterum sī **benedīxerīs** in spīritū, quī supplet locum idiōtae, quōmodo **dīcet** “ Āmēn! ” super tuam benedictiōnem, quoniam quid **dicās** nescit?
+16 Cēterum sī **benedīxerīs** in spīritū, quī supplet locum idiōtae, quōmodo **dīcet** ”Āmēn!” super tuam benedictiōnem, quoniam quid **dicās** nescit?
 
 17 Nam tū quidem **bene** grātiās agis, sed alter nōn aedificātur.
 
@@ -720,11 +720,11 @@ quoniam vānae sunt ”.
 
 21 In **lēge** scrīptum **est**:
 
-“ In aliīs linguīs et in labiīs aliōrum
+”In aliīs linguīs et in labiīs aliōrum
 
 loquar **populō** huic,
 
-et nec sīc exaudient mē ”,
+et nec sīc exaudient mē”,
 
 dīcit Dominus.
 
@@ -734,7 +734,7 @@ dīcit Dominus.
 
 24 Sī autem omnēs prophētent, intret autem **quis** **īnfidēlis** vel **idiōta**, convincitur ab omnibus, dīiūdicātur ab omnibus,
 
-25 **occulta** **cordis** eius **manifēsta** fīunt; et **ita** cadēns in faciem adōrābit Deum prōnūntiāns: “ **Vērē** Deus in vōbīs **est**! ”.
+25 **occulta** **cordis** eius **manifēsta** fīunt; et **ita** cadēns in faciem adōrābit Deum prōnūntiāns: ”**Vērē** Deus in vōbīs **est**!”.
 
 26 Quid ergō **est**, frātrēs? Cum convenītis, ūnusquisque psalmum habet, doctrīnam habet, apocalypsim habet, linguam habet, interpretātiōnem habet: omnia ad aedificātiōnem fīant.
 
@@ -832,11 +832,11 @@ Sīcut in omnibus ecclēsiīs sānctōrum,
 
 32 Sī secundum hominem ad bēstiās pugnāvī Ephesī, quid mihi prōdest? Sī mortuī nōn resurgunt, mandūcēmus et bibāmus, crās enim moriēmur.
 
-33 Nōlī tē sēdūcī: “ Corrumpunt mōrēs bonōs colloquia **mala** ”.
+33 Nōlī tē sēdūcī: ”Corrumpunt mōrēs bonōs colloquia **mala**”.
 
 34 **Ēvigilāte** **iūstē** et nōlīte peccāre! Ignōrantiam enim Deī quīdam ha bent; ad reverentiam vōbīs loquor.
 
-35 Sed **dīcet** aliquis: “ Quōmodo resurgunt mortuī? Quālī autem corpore veniunt? ”.
+35 Sed **dīcet** aliquis: ”Quōmodo resurgunt mortuī? Quālī autem corpore veniunt?”.
 
 36 Īnsipiēns! Tū, quod sēminās, nōn vīvificātur, **nisi** prius moriātur;
 
@@ -858,7 +858,7 @@ Sīcut in omnibus ecclēsiīs sānctōrum,
 
 Sī **est** corpus animāle, **est** et spīritāle.
 
-45 Sīc et scrīptum **est**: “ **Factus** **est** prīmus homō Adam in animam vīventem ”; novissimus Adam in Spīritum vīvificantem.
+45 Sīc et scrīptum **est**: ”**Factus** **est** prīmus homō Adam in animam vīventem”; novissimus Adam in Spīritum vīvificantem.
 
 46 Sed nōn prius, quod spīritāle **est**, sed quod animāle **est**; deinde quod spīritāle.
 
@@ -876,11 +876,11 @@ Sī **est** corpus animāle, **est** et spīritāle.
 
 53 Oportet enim corruptibile **hoc** **induere** incorruptēlam, et mortāle **induere** immortālitātem.
 
-54 Cum autem corruptibile **hoc** induerit incorruptēlam, et mortāle **hoc** induerit immortālitātem, tunc fīet sermō, quī **scrīptus** **est**: “ Absorpta **est** mors in **victōriā**.
+54 Cum autem corruptibile **hoc** induerit incorruptēlam, et mortāle **hoc** induerit immortālitātem, tunc fīet sermō, quī **scrīptus** **est**: ”Absorpta **est** mors in **victōriā**.
 
 55 **Ubi** **est**, mors, **victōria** **tua**?
 
-**Ubi** **est**, mors, stimulus tuus? ”.
+**Ubi** **est**, mors, stimulus tuus?”.
 
 56 Stimulus autem **mortis** peccātum **est**, virtūs vērō peccātī lēx.
 

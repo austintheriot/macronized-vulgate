@@ -138,7 +138,7 @@ Dominō Deō nostrō **iūstitiā**, nōbīs autem cōnfūsiō faciēī, sīcut 
 
 7 quia propter **hōc** dedistī timōrem tuum in cor nostrum, ut invocārēmus **nōmen** tuum; et laudābimus tē in captīvitāte **nostrā**, quia āvertimus ā **corde** nostrō omnem inīquitātem patrum nostrōrum, quī peccāvērunt in cōnspectū tuō.
 
-8 Ecce nōs hodiē in captīvitāte **nostrā**, quō nōs dispersistī in opprobrium et in maledictum et in expiātiōnem, secundum omnēs inīquitātēs patrum nostrōrum, quī discessērunt ā Dominō Deō nostrō ”.
+8 Ecce nōs hodiē in captīvitāte **nostrā**, quō nōs dispersistī in opprobrium et in maledictum et in expiātiōnem, secundum omnēs inīquitātēs patrum nostrōrum, quī discessērunt ā Dominō Deō nostrō”.
 
 9 Audī, Isrāēl, **mandāta** vītae;
 
@@ -326,7 +326,7 @@ et contrīstāstis eam, quae vōs ēnūtrīvit, Ierusālem.
 
 9 Vīdit enim supervenientem vōbīs īram ā Deō
 
-et dīxit: “ **Audīte**, vīcīnae **Sīōn**:
+et dīxit: ”**Audīte**, vīcīnae **Sīōn**:
 
 Superindūxit mihi Deus lūctum magnum.
 
@@ -366,7 +366,7 @@ neque parvulōrum misertī sunt
 
 16 et abdūxērunt dīlēctōs viduae
 
-et ā fīliābus ūnicam dēsōlāvērunt ”.
+et ā fīliābus ūnicam dēsōlāvērunt”.
 
 17 Ego autem, quid possum adiuvāre vōs?
 
@@ -536,7 +536,7 @@ Exemplum epistulae, quam mī sit Iēremīās ad abdūcendōs captīvōs in Babyl
 
 4 Cavēte ergō, nē et vōs assimilātī assimilēminī aliēnigenīs, et **metus** vōs capiat in ipsīs.
 
-5 Videntēs turbam ante et retrō adōrantem eōs, dīcite autem in **corde** vestrō: “ Tē oportet adōrāre, Domine ”.
+5 Videntēs turbam ante et retrō adōrantem eōs, dīcite autem in **corde** vestrō: ”Tē oportet adōrāre, Domine”.
 
 6 Angelus enim meus vōbīscum **est**; ipse autem exquīret animās vestrās.
 

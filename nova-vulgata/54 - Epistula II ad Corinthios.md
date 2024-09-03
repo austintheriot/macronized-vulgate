@@ -36,13 +36,13 @@
 
 16 et per vōs trānsīre in **Macedoniam** et iterum ā **Macedoniā** venīre ad vōs et ā vōbīs **dēdūcī** in Iūdaeam.
 
-17 Cum **hoc** ergō voluissem, numquid **levitāte** **ūsus** sum? Aut, quae cōgitō, secundum carnem cōgitō, ut sit apud mē “ **Est**, **est** ” et “ Nōn, nōn ”?
+17 Cum **hoc** ergō voluissem, numquid **levitāte** **ūsus** sum? Aut, quae cōgitō, secundum carnem cōgitō, ut sit apud mē ”**Est**, **est**” et ”Nōn, nōn”?
 
-18 **Fidēlis** autem Deus, quia sermō noster, quī fit apud vōs, nōn **est** “ **Est** ” et “ Nōn ”!
+18 **Fidēlis** autem Deus, quia sermō noster, quī fit apud vōs, nōn **est** ”**Est**” et ”Nōn”!
 
-19 Deī enim Fīlius **Iēsus** Chrīstus, quī in vōbīs per nōs praedicātus **est**, per mē et Silvānum et Tīmotheum, nōn fuit “ **Est** ” et “ Nōn ”, sed “ **Est** ” in illō fuit.
+19 Deī enim Fīlius **Iēsus** Chrīstus, quī in vōbīs per nōs praedicātus **est**, per mē et Silvānum et Tīmotheum, nōn fuit ”**Est**” et ”Nōn”, sed ”**Est**” in illō fuit.
 
-20 Quotquot enim prōmissiōnēs Deī sunt, in illō “ **Est** ”; ideō et per ipsum “ Āmēn ” Deō ad glōriam per nōs.
+20 Quotquot enim prōmissiōnēs Deī sunt, in illō ”**Est**”; ideō et per ipsum ”Āmēn” Deō ad glōriam per nōs.
 
 21 Quī autem cōnfirmat nōs vōbīscum in Chrīstum et quī ūnxit nōs, Deus,
 
@@ -140,7 +140,7 @@
 
 5 Nōn enim nosmetipsōs **praedicāmus** sed **Iēsum** Chrīstum Dominum; nōs autem servōs vestrōs per **Iēsum**.
 
-6 Quoniam Deus, quī dīxit: “ Dē tenebrīs lūx splendescat ”, ipse illūxit in cordibus nostrīs ad illūminātiōnem scientiae clāritātis Deī in faciē Iēsū Chrīstī.
+6 Quoniam Deus, quī dīxit: ”Dē tenebrīs lūx splendescat”, ipse illūxit in cordibus nostrīs ad illūminātiōnem scientiae clāritātis Deī in faciē Iēsū Chrīstī.
 
 7 Habēmus autem thēsaurum istum in **vāsīs** fictilibus, ut sublīmitās sit **virtūtis** Deī et nōn ex nōbīs.
 
@@ -154,7 +154,7 @@
 
 12 Ergō mors in nōbīs operātur, **vīta** autem in vōbīs.
 
-13 Habentēs autem eundem spīritum fideī, sīcut scrīptum **est**: “ Crēdidī, propter quod **locūtus** sum ”, et nōs crēdimus, propter quod et loquimur,
+13 Habentēs autem eundem spīritum fideī, sīcut scrīptum **est**: ”Crēdidī, propter quod **locūtus** sum”, et nōs crēdimus, propter quod et loquimur,
 
 14 scientēs quoniam, quī suscitāvit Dominum **Iēsum**, et nōs cum Iēsū suscitābit et cōnstituet vōbīscum.
 
@@ -216,9 +216,9 @@
 
 2 — ait enim:
 
-“ Tempore acceptō exaudīvī tē
+”Tempore acceptō exaudīvī tē
 
-et in **diē** **salūtis** adiūvī tē ”;
+et in **diē** **salūtis** adiūvī tē”;
 
 ecce nunc tempus acceptābile, ecce nunc diēs **salūtis** —
 
@@ -250,7 +250,7 @@ ecce nunc tempus acceptābile, ecce nunc diēs **salūtis** —
 
 16 Quī autem **cōnsēnsus** templō Deī cum īdōlīs? Vōs enim **estis** templum Deī vīvī; sīcut dīcit Deus:
 
-“ Inhabitābō in illīs et inambulābō
+”Inhabitābō in illīs et inambulābō
 
 et **erō** illōrum Deus, et ipsī erunt mihi **populus**.
 
@@ -266,7 +266,7 @@ et ego recipiam vōs
 
 et vōs eritis mihi in fīliōs et fīliās,
 
-dīcit Dominus omnipotēns ”.
+dīcit Dominus omnipotēns”.
 
 ## 7
 
@@ -336,7 +336,7 @@ In cōnsōlātiōne autem **nostrā** abundantius **magis** gāvīsī sumus supe
 
 14 in praesentī tempore **vestra** **abundantia** illōrum inopiam suppleat, ut et illōrum **abundantia** vestram inopiam suppleat, ut fīat aequālitās, sīcut scrīptum **est**:
 
-15 “ Quī multum, nōn abundāvit; et, quī modicum, nōn minōrāvit ”.
+15 ”Quī multum, nōn abundāvit; et, quī modicum, nōn minōrāvit”.
 
 16 **Grātiās** autem Deō, quī **dēdit** eandem sollicitūdinem prō vōbīs in **corde** Titī,
 
@@ -376,9 +376,9 @@ In cōnsōlātiōne autem **nostrā** abundantius **magis** gāvīsī sumus supe
 
 9 sīcut scrīptum **est**:
 
-“ Dispersit, **dēdit** pauperibus;
+”Dispersit, **dēdit** pauperibus;
 
-**iūstitia** eius **manet** in aeternum ”.
+**iūstitia** eius **manet** in aeternum”.
 
 10 Quī autem administrat sēmen sēminantī, et pānem ad mandūcandum praestābit et multiplicābit sēmen vestrum et augēbit **incrēmenta** frūgum iūstitiae vestrae.
 
@@ -412,7 +412,7 @@ In cōnsōlātiōne autem **nostrā** abundantius **magis** gāvīsī sumus supe
 
 9 ut nōn exīstimer tamquam terrēre vōs per epistulās;
 
-10 quoniam quidem “ Epistulae — inquiunt — gravēs sunt et fortēs, **praesentia** autem corporis **īnfirma**, et sermō **contemptibilis** ”.
+10 quoniam quidem ”Epistulae — inquiunt — gravēs sunt et fortēs, **praesentia** autem corporis **īnfirma**, et sermō **contemptibilis**”.
 
 11 **Hoc** cōgitet, quī eiusmodī **est**, quia quālēs sumus verbō per epistulās absentēs, tālēs et praesentēs in factō.
 
@@ -516,7 +516,7 @@ In cōnsōlātiōne autem **nostrā** abundantius **magis** gāvīsī sumus supe
 
 8 Propter quod ter Dominum rogāvī, ut discēderet ā mē;
 
-9 et dīxit mihi: “ Sufficit tibi **grātia** **mea**, nam virtūs in īnfirmitāte perficitur ”. **Libentissimē** igitur potius glōriābor in īnfirmitātibus meīs, ut inhabitet in mē virtūs Chrīstī.
+9 et dīxit mihi: ”Sufficit tibi **grātia** **mea**, nam virtūs in īnfirmitāte perficitur”. **Libentissimē** igitur potius glōriābor in īnfirmitātibus meīs, ut inhabitet in mē virtūs Chrīstī.
 
 10 Propter quod placeō mihi in īnfirmitātibus, in contumēliīs, in necessitātibus, in persecūtiōnibus et in angustiīs, prō Chrīstō; cum enim īnfirmor, tunc potēns sum.
 

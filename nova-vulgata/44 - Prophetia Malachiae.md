@@ -6,7 +6,7 @@
 
 1 Ōrāculum. Verbum Dominī ad Isrāēl in manū Malachiae.
 
-2 “ Dīlēxī vōs, dīcit Dominus, et dīxistis: “In quō dīlēxistī nōs?”. **Nōnne** frāter erat Esau Iācōb?, dīcit Dominus; et dīlēxī Iācōb,
+2 ”Dīlēxī vōs, dīcit Dominus, et dīxistis: “In quō dīlēxistī nōs?”. **Nōnne** frāter erat Esau Iācōb?, dīcit Dominus; et dīlēxī Iācōb,
 
 3 Esau autem **odiō** habuī et posuī montēs eius in sōlitūdinem et hērēditātem eius thoibus dēsertī.
 
@@ -210,6 +210,6 @@ et cor fīliōrum ad patrēs eōrum,
 
 nē veniam et percutiam
 
-terram **anathēmate** ”.
+terram **anathēmate**”.
 
 

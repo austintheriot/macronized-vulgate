@@ -138,7 +138,7 @@
 
 2 ipsī enim dīligenter **scītis** quia diēs Dominī, sīcut fūr in nocte, **ita** veniet.
 
-3 Cum enim dīxerint: “ Pāx et sēcūritās ”, tunc repentīnus eīs superveniet **interitus**, sīcut dolor in uterō habentī, et nōn effugient.
+3 Cum enim dīxerint: ”Pāx et sēcūritās”, tunc repentīnus eīs superveniet **interitus**, sīcut dolor in uterō habentī, et nōn effugient.
 
 4 Vōs autem, frātrēs, nōn **estis** in tenebrīs, ut vōs diēs ille tamquam fūr comprehendat;
 

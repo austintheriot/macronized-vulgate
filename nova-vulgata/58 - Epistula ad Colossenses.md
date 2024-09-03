@@ -130,7 +130,7 @@ sīve quae in terrīs sīve quae in caelīs sunt.
 
 20 Sī mortuī **estis** cum Chrīstō ab elementīs mundī, quid tamquam vīventēs in mundō dēcrētīs subiciminī:
 
-21 “ Nē **tetigerīs** neque **gustāverīs** neque **contrectāverīs** ”,
+21 ”Nē **tetigerīs** neque **gustāverīs** neque **contrectāverīs**”,
 
 22 quae sunt omnia in corruptiōnem ipsō ūsū secundum **praecepta** et doctrīnās hominum?
 
@@ -222,7 +222,7 @@ sīve quae in terrīs sīve quae in caelīs sunt.
 
 16 Et cum **lecta** fuerit apud vōs **epistula**, facite ut et in Laodicensium **ecclēsia** **lēgātur**, et eam, quae ex Laodīciā **est**, vōs **quoque** **lēgātīs**.
 
-17 Et dīcite Archippō: “ Vidē ministerium, quod accēpistī in Dominō, ut illud impleās ”.
+17 Et dīcite Archippō: ”Vidē ministerium, quod accēpistī in Dominō, ut illud impleās”.
 
 18 Salūtātiō **mea** manū Paulī. **Memorēs** **ēstote** vinculōrum meōrum.
 

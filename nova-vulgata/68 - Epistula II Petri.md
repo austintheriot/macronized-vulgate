@@ -36,7 +36,7 @@
 
 16 Nōn enim captiōsās fābulās secūtī **notam** fēcimus vōbīs Dominī nostrī Iēsū Chrīstī virtūtem et adventum, sed speculātōrēs factī illīus magnitūdinis.
 
-17 Accipiēns enim ā Deō Patre honōrem et glōriam, vōce prōlātā ad eum huiuscemodī ā **magnificā** **glōriā**: “ Fīlius meus, **dīlēctus** meus **hic** **est**, in quō ego mihi complacuī ”;
+17 Accipiēns enim ā Deō Patre honōrem et glōriam, vōce prōlātā ad eum huiuscemodī ā **magnificā** **glōriā**: ”Fīlius meus, **dīlēctus** meus **hic** **est**, in quō ego mihi complacuī”;
 
 18 et hanc **vōcem** nōs audīvimus dē caelō prōlātam, cum **essēmus** cum ipsō in monte sānctō.
 
@@ -94,9 +94,9 @@ Audācēs, superbī, glōriās nōn metuunt blasphēmantēs,
 
 22 Contigit enim eīs illud vērī prōverbiī:
 
-“ **Canis** reversus ad suum vomitum ”,
+”**Canis** reversus ad suum vomitum”,
 
-et “ Sūs lōta in volūtābrō **lutī** ”.
+et ”Sūs lōta in volūtābrō **lutī**”.
 
 ## 3
 
@@ -106,7 +106,7 @@ et “ Sūs lōta in volūtābrō **lutī** ”.
 
 3 **hoc** prīmum scientēs, quod venient in novissimīs diēbus in illūsiōne illūdentēs, iuxtā propriās concupiscentiās suās ambulantēs,
 
-4 dīcentēs: “ **Ubi** **est** prōmissiō **adventūs** eius? Ex quō enim patrēs dormiērunt, omnia sīc **persevērant** ab initiō creātūrae ”.
+4 dīcentēs: ”**Ubi** **est** prōmissiō **adventūs** eius? Ex quō enim patrēs dormiērunt, omnia sīc **persevērant** ab initiō creātūrae”.
 
 5 Latet enim eōs **hoc** volentēs, quod caelī erant prius, et **terra** dē **aquā** et per aquam cōnsistēns Deī verbō,
 

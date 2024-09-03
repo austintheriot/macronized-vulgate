@@ -17,17 +17,17 @@
 
 6 Ascenditque ibi Salomōn ad altāre aēneum **cōram** tabernāculō **conventūs** Dominī et obtulit in eō mīlle hostiās.
 
-7 Ecce autem in **ipsā** nocte appāruit **eī** Deus dīcēns: “ Postulā, quod vīs, ut dem tibi ”.
+7 Ecce autem in **ipsā** nocte appāruit **eī** Deus dīcēns: ”Postulā, quod vīs, ut dem tibi”.
 
-8 Dīxitque Salomōn Deō: “ Tū fēcistī cum Dāvīd patre meō misericordiam magnam et cōnstituistī mē rēgem prō eō.
+8 Dīxitque Salomōn Deō: ”Tū fēcistī cum Dāvīd patre meō misericordiam magnam et cōnstituistī mē rēgem prō eō.
 
 9 Nunc ergō, Domine Deus, impleātur sermō tuus, quem pollicitus **es** Dāvīd patrī meō; tū enim mē fēcistī rēgem super **populum** tuum multum, quī tam **innumerābilis** **est** quam pulvis terrae.
 
-10 Dā mihi sapientiam et intellegentiam, ut ingrediar et ēgrediar **cōram** **populō** tuō; **quis** enim potest hunc **populum** tuum **dignē**, quī tam **grandis** **est**, iūdicāre? ”.
+10 Dā mihi sapientiam et intellegentiam, ut ingrediar et ēgrediar **cōram** **populō** tuō; **quis** enim potest hunc **populum** tuum **dignē**, quī tam **grandis** **est**, iūdicāre?”.
 
-11 Dīxit autem Deus ad Salomōnem: “ Quia **hoc** **magis** placuit cordī tuō et nōn postulāstī dīvitiās et substantiam et glōriam neque animās eōrum, quī tē ōderant, sed nec diēs vītae plūrimōs, petīstī autem sapientiam et scientiam, ut iūdicāre possīs **populum** meum, super quem cōnstituī tē rēgem,
+11 Dīxit autem Deus ad Salomōnem: ”Quia **hoc** **magis** placuit cordī tuō et nōn postulāstī dīvitiās et substantiam et glōriam neque animās eōrum, quī tē ōderant, sed nec diēs vītae plūrimōs, petīstī autem sapientiam et scientiam, ut iūdicāre possīs **populum** meum, super quem cōnstituī tē rēgem,
 
-12 **sapientiā** et **scientiā** **data** sunt tibi; dīvitiās autem et substantiam et glōriam dabō tibi, **ita** ut nūllus in rēgibus nec ante tē nec post tē fuerit **similis** tuī ”.
+12 **sapientiā** et **scientiā** **data** sunt tibi; dīvitiās autem et substantiam et glōriam dabō tibi, **ita** ut nūllus in rēgibus nec ante tē nec post tē fuerit **similis** tuī”.
 
 13 **Venit** ergō Salomōn ab excelsō Gabaōn in Ierusālem **cōram** tabernāculō **conventus** et rēgnāvit super Isrāēl.
 
@@ -45,7 +45,7 @@
 
 1 Et numerāvit septuāgintā **mīlia** **virōrum** portantium **umerīs** et octōgintā **mīlia**, quī caederent lapidēs in montibus, praepositōsque eōrum tria **mīlia** sēscentōs.
 
-2 Mīsit **quoque** ad Hīram rēgem Tyrī dīcēns: “ Sīcut ēgistī cum Dāvīd patre meō et mīsistī **eī** ligna **cedrina**, ut aedificāret sibi domum ad habitandum in **eā**,
+2 Mīsit **quoque** ad Hīram rēgem Tyrī dīcēns: ”Sīcut ēgistī cum Dāvīd patre meō et mīsistī **eī** ligna **cedrina**, ut aedificāret sibi domum ad habitandum in **eā**,
 
 3 sīc fac mēcum, ut aedificem domum nōminī Dominī Deī meī, ut cōnsecrem eam ad adolendum **cōram** illō **fūmiganda** arōmata et ad prōpositiōnem pānum sempiternam et ad holocautōmata **manē** et vespere, sabbatīs **quoque** et neomēniīs et sollemnitātibus Dominī Deī nostrī in sempiternum, quae **mandāta** sunt Israēlī.
 
@@ -59,11 +59,11 @@
 
 8 ut **pārentur** mihi ligna **plūrima**; **domus** enim, quam cupiō aedificāre, **magna** erit nimis et **inclita**.
 
-9 Praetereā operāriīs, quī caesūrī sunt ligna, servīs tuīs dabō in **cibāria** trīticī chorōs vīgintī **mīlia** et **hordeī** chorōs totidem et vīnī vīgintī **mīlia** batōs, oleī **quoque** batōs vīgintī **mīlia** ”.
+9 Praetereā operāriīs, quī caesūrī sunt ligna, servīs tuīs dabō in **cibāria** trīticī chorōs vīgintī **mīlia** et **hordeī** chorōs totidem et vīnī vīgintī **mīlia** batōs, oleī **quoque** batōs vīgintī **mīlia**”.
 
-10 Dīxit autem Hīram rēx Tyrī per litterās, quās **mīserat** Salomōnī: “ Quia dīlēxit Dominus **populum** suum, idcircō tē rēgnāre fēcit super eum ”.
+10 Dīxit autem Hīram rēx Tyrī per litterās, quās **mīserat** Salomōnī: ”Quia dīlēxit Dominus **populum** suum, idcircō tē rēgnāre fēcit super eum”.
 
-11 Et addidit dīcēns: “ Benedictus Dominus, Deus Isrāēl, quī fēcit caelum et terram, quī **dedit** Dāvīd **rēgī** fīlium sapientem et ērudītum et sēnsātum atque prūdentem, ut aedificāret domum Dominō et palātium sibi.
+11 Et addidit dīcēns: ”Benedictus Dominus, Deus Isrāēl, quī fēcit caelum et terram, quī **dedit** Dāvīd **rēgī** fīlium sapientem et ērudītum et sēnsātum atque prūdentem, ut aedificāret domum Dominō et palātium sibi.
 
 12 Mīsī ergō tibi **virum** prūdentem et scientissimum Hīram magistrum meum,
 
@@ -71,7 +71,7 @@
 
 14 Trīticum ergō et hordeum et oleum et vīnum, quae pollicitus **es**, domine mī, mitte servīs tuīs.
 
-15 Nōs autem caedēmus ligna dē **Libanō**, quot **necessāria** **habuerīs**, et applicābimus **eā** ratibus per mare in Ioppē; tuum autem erit trānsferre **eā** in Ierusālem ”.
+15 Nōs autem caedēmus ligna dē **Libanō**, quot **necessāria** **habuerīs**, et applicābimus **eā** ratibus per mare in Ioppē; tuum autem erit trānsferre **eā** in Ierusālem”.
 
 16 Numerāvit igitur Salomōn omnēs virōs peregrīnōs, quī erant in **terrā** Isrāēl post dīnumerātiōnem, quam dīnumerāvit Dāvīd pater eius; et inventī sunt centum quīnquāgintā **mīlia** et tria **mīlia** sēscentī.
 
@@ -185,19 +185,19 @@
 
 12 et Lēvītae cantōrēs, omnēs, quī sub Asaph erant et quī sub Hemān et quī sub Idithun, fīliī et frātrēs eōrum, vestītī byssinīs, cymbalīs et psaltēriīs et citharīs stābant ad orientālem **plāgam** **altāris**, et cum eīs sacerdōtēs centum vīgintī **canentēs** tubīs —
 
-13 igitur cūnctīs pariter et tubīs et vōce et cymbalīs et organīs et dīversī **generis** mūsicōrum concinentibus et **vōcem** in **sublīme** tollentibus, cum **ūnā** vōce Dominum laudāre coepissent et **dīcere**: “ Cōnfitēminī Dominō quoniam bonus, quoniam in aeternum **misericordiā** eius ”, **implēta** **est** **domus** Deī nūbe,
+13 igitur cūnctīs pariter et tubīs et vōce et cymbalīs et organīs et dīversī **generis** mūsicōrum concinentibus et **vōcem** in **sublīme** tollentibus, cum **ūnā** vōce Dominum laudāre coepissent et **dīcere**: ”Cōnfitēminī Dominō quoniam bonus, quoniam in aeternum **misericordiā** eius”, **implēta** **est** **domus** Deī nūbe,
 
 14 nec potuērunt sacerdōtēs stāre et ministrāre propter nūbem; complēverat enim **glōria** Dominī domum Deī.
 
 ## 6
 
-1 Tunc Salomōn ait: “ Dominus pollicitus **est**, ut habitāret in cālīgine;
+1 Tunc Salomōn ait: ”Dominus pollicitus **est**, ut habitāret in cālīgine;
 
-2 ego autem aedificāvī domum in habitāculum tuum, ut habitārēs ibi in perpetuum ”.
+2 ego autem aedificāvī domum in habitāculum tuum, ut habitārēs ibi in perpetuum”.
 
 3 Et convertit rēx faciem suam et benedīxit ūniversae multitūdinī Isrāēl — nam **omnis** **turba** stābat **intenta** — et ait:
 
-4 “ Benedictus Dominus, Deus Isrāēl, quī, quod **locūtus** **est** ōre suō Dāvīd patrī meō, opere complēvit dīcēns:
+4 ”Benedictus Dominus, Deus Isrāēl, quī, quod **locūtus** **est** ōre suō Dāvīd patrī meō, opere complēvit dīcēns:
 
 5 “Ā **diē** **quā** ēdūxī **populum** meum dē **terrā** Aegyptī nōn **ēlēgī** cīvitātem dē cūnctīs tribubus Isrāēl, ut aedificārētur in **eā** **domus** nōminī meō, neque **ēlēgī** quemquam alium **virum**, ut **esset** dux in **populō** meō Isrāēl,
 
@@ -211,13 +211,13 @@
 
 10 Complēvit ergō Dominus sermōnem suum, quem **locūtus** fuerat, et ego surrēxī prō Dāvīd patre meō et **sēdī** super thronum Isrāēl, sīcut **locūtus** **est** Dominus, et aedificāvī domum nōminī Dominī, Deī Isrāēl;
 
-11 et posuī in **eā** arcam, in **quā** **est** **pactum** Dominī, quod pepigit cum fīliīs Isrāēl ”.
+11 et posuī in **eā** arcam, in **quā** **est** **pactum** Dominī, quod pepigit cum fīliīs Isrāēl”.
 
 12 Stetit ergō **cōram** altārī Dominī ex adversō ūniversae multitūdinis Isrāēl et extendit **manūs** suās.
 
 13 Siquidem fēcerat Salomōn basim aēneam et posuerat eam in **mediō** ātriī habentem quīnque cubitōs longitūdinis et quīnque cubitōs lātitūdinis et trēs cubitōs altitūdinis, stetitque super eam; et deinceps, flexīs genibus contrā ūniversam multitūdinem Isrāēl et palmīs in caelum **levātis**,
 
-14 ait: “ Domine, Deus Isrāēl, nōn **est** **similis** tuī Deus in caelō et in **terrā**, quī **cūstōdis** **pactum** et misericordiam cum servīs tuīs, quī ambulant **cōram** tē in **tōtō** **corde** suō,
+14 ait: ”Domine, Deus Isrāēl, nōn **est** **similis** tuī Deus in caelō et in **terrā**, quī **cūstōdis** **pactum** et misericordiam cum servīs tuīs, quī ambulant **cōram** tē in **tōtō** **corde** suō,
 
 15 quī praestitistī servō tuō Dāvīd patrī meō quaecumque **locūtus** fuerās **eī**, et, quae ōre prōmīserās, opere complēstī, sīcut et praesēns tempus probat.
 
@@ -273,7 +273,7 @@
 
 41 Nunc igitur cōnsurge, Domine Deus, in requiem tuam, tū et **arca** fortitūdinis tuae; sacerdōtēs tuī, Domine Deus, induantur salūtem, et sānctī tuī laetentur in bonīs.
 
-42 Domine Deus, nē **āverteris** faciem chrīstī tuī; mementō misericordiārum Dāvīd servī tuī ”.
+42 Domine Deus, nē **āverteris** faciem chrīstī tuī; mementō misericordiārum Dāvīd servī tuī”.
 
 ## 7
 
@@ -281,13 +281,13 @@
 
 2 Nec poterant sacerdōtēs ingredī templum Dominī, eō quod implēsset maiestās Dominī templum Dominī.
 
-3 Sed et omnēs fīliī Isrāēl vidēbant dēscendentem ignem et glōriam Dominī super domum et corruentēs prōnī in terram super pavīmentum strātum lapide adōrāvērunt et laudāvērunt Dominum: “ Quoniam bonus, quoniam in saeculum **misericordiā** eius ”.
+3 Sed et omnēs fīliī Isrāēl vidēbant dēscendentem ignem et glōriam Dominī super domum et corruentēs prōnī in terram super pavīmentum strātum lapide adōrāvērunt et laudāvērunt Dominum: ”Quoniam bonus, quoniam in saeculum **misericordiā** eius”.
 
 4 Rēx autem et **omnis** **populus** immolābant victimās **cōram** Dominō.
 
 5 Mactāvit igitur rēx Salomōn hostiās boum vīgintī duo **mīlia**, ovium centum vīgintī **mīlia**, et dēdicāvit domum Deī rēx et ūniversus **populus**.
 
-6 Sacerdōtēs autem stābant in officiīs **suīs** et Lēvītae in organīs carminum Dominī, quae fēcit Dāvīd rēx ad laudandum Dominum: “ Quoniam in aeternum **misericordiā** eius ”, hymnōs Dāvīd **canentēs** per **manūs** suās. Porrō sacerdōtēs **canēbant** tubīs ante eōs, cūnctusque Isrāēl stābat.
+6 Sacerdōtēs autem stābant in officiīs **suīs** et Lēvītae in organīs carminum Dominī, quae fēcit Dāvīd rēx ad laudandum Dominum: ”Quoniam in aeternum **misericordiā** eius”, hymnōs Dāvīd **canentēs** per **manūs** suās. Porrō sacerdōtēs **canēbant** tubīs ante eōs, cūnctusque Isrāēl stābat.
 
 7 Sānctificāvit **quoque** Salomōn **medium** ātriī ante templum Dominī; obtulerat enim ibi holocausta et adipēs pācificōrum, quia altāre aēneum, quod fēcerat, nōn poterat sustinēre holocausta et oblātiōnēs et adipēs.
 
@@ -299,7 +299,7 @@
 
 11 Complēvitque Salomōn domum Dominī et domum **rēgis**; et in omnibus, quae disposuerat in **corde** suō, ut faceret in domō Dominī et in domō **suā**, prōsperātus **est**.
 
-12 Appāruit autem **eī** Dominus nocte et ait: “ Audīvī ōrātiōnem tuam et **ēlēgī** locum istum mihi in domum sacrificiī.
+12 Appāruit autem **eī** Dominus nocte et ait: ”Audīvī ōrātiōnem tuam et **ēlēgī** locum istum mihi in domum sacrificiī.
 
 13 Sī clauserō caelum, et **pluvia** nōn flūxerit, et mandāverō et praecēperō locustae, ut dēvoret terram, et **miserō** pestilentiam in **populum** meum,
 
@@ -319,7 +319,7 @@
 
 21 Et super domō **ista**, quae erat **excelsa**, ūniversī trānseuntēs stupēbunt et **dīcent**: “Quārē fēcit Dominus sīc terrae huic et domuī huic?”.
 
-22 Respondēbuntque: “Quia dērelīquērunt Dominum, Deum patrum suōrum, quī ēdūxit eōs dē **terrā** Aegyptī, et apprehendērunt deōs aliēnōs et adōrāvērunt eōs et coluērunt, idcircō vēnērunt super eōs **ūniversa** haec **mala**” ”.
+22 Respondēbuntque: “Quia dērelīquērunt Dominum, Deum patrum suōrum, quī ēdūxit eōs dē **terrā** Aegyptī, et apprehendērunt deōs aliēnōs et adōrāvērunt eōs et coluērunt, idcircō vēnērunt super eōs **ūniversa** haec **mala**””.
 
 ## 8
 
@@ -343,7 +343,7 @@
 
 10 Omnēs autem prīncipēs praefectōrum **rēgis** Salomōnis fuērunt **ducentī** quīnquāgintā, quī praefuerant **populō**.
 
-11 Fīliam vērō pharaōnis trānstulit dē cīvitāte Dāvīd in domum, quam aedificāverat **eī**; dīxit enim rēx: “ Nōn habitābit mulier mihi in domō Dāvīd **rēgis** Isrāēl, eō quod **sānctificāta** sit, quia **ingressa** **est** in eam **arca** Dominī ”.
+11 Fīliam vērō pharaōnis trānstulit dē cīvitāte Dāvīd in domum, quam aedificāverat **eī**; dīxit enim rēx: ”Nōn habitābit mulier mihi in domō Dāvīd **rēgis** Isrāēl, eō quod **sānctificāta** sit, quia **ingressa** **est** in eam **arca** Dominī”.
 
 12 Tunc obtulit Salomōn holocausta Dominō super altāre Dominī, quod exstrūxerat ante porticum,
 
@@ -369,13 +369,13 @@
 
 4 necnōn et **cibāria** mēnsae eius et sessiōnem servōrum et officia ministrōrum eius et vestīmenta eōrum, pincernās **quoque** et vestēs eōrum et victimās, quās immolābat in domō Dominī, nōn erat prae stupōre **ultrā** in **eā** **spīritus**.
 
-5 Dīxitque ad rēgem: “ Vērus **est** sermō, quem audieram in **terrā** **meā**, dē rēbus tuīs et **sapientia** **tua**;
+5 Dīxitque ad rēgem: ”Vērus **est** sermō, quem audieram in **terrā** **meā**, dē rēbus tuīs et **sapientia** **tua**;
 
 6 nōn crēdēbam nārrantibus, dōnec **ipsa** vēnissem, et vīdissent oculī meī, et probāssem vix medietātem sapientiae tuae mihi fuisse nārrātam; vīcistī fāmam, quam audīvī.
 
 7 Beātī **virī** tuī et beātī servī tuī, quī assistunt **cōram** tē omnī tempore et audiunt sapientiam tuam!
 
-8 Sit Dominus Deus tuus benedictus, quī voluit tē ōrdināre super thronum suum rēgem Dominī Deī tuī! Quia dīligit Deus tuus Isrāēl et vult servāre eum in aeternum, idcircō posuit tē super eum rēgem, ut faciās iūdicia atque iūstitiam ”.
+8 Sit Dominus Deus tuus benedictus, quī voluit tē ōrdināre super thronum suum rēgem Dominī Deī tuī! Quia dīligit Deus tuus Isrāēl et vult servāre eum in aeternum, idcircō posuit tē super eum rēgem, ut faciās iūdicia atque iūstitiam”.
 
 9 **Dēdit** autem **rēgī** centum vīgintī talenta aurī et arōmata **multa** nimis et gemmās pretiōsissimās; nōn fuērunt arōmata tālia ut haec, quae **dēdit** **rēgīna** **Sabā** **rēgī** Salomōnī.
 
@@ -431,49 +431,49 @@
 
 3 vocāvēruntque eum, et **venit** cum ūniversō Isrāēl, et locūtī sunt ad Roboam dīcentēs:
 
-4 “ Pater tuus dūrissimō iugō nōs pressit; tū **leviōra** imperā patre tuō, quī nōbīs gravem imposuit servitūtem, et paululum dē onere sublevā, et serviēmus tibi ”.
+4 ”Pater tuus dūrissimō iugō nōs pressit; tū **leviōra** imperā patre tuō, quī nōbīs gravem imposuit servitūtem, et paululum dē onere sublevā, et serviēmus tibi”.
 
-5 Quī ait: “ Post trēs diēs revertiminī ad mē ”.
+5 Quī ait: ”Post trēs diēs revertiminī ad mē”.
 
 Cumque abīsset **populus**,
 
-6 iniit rēx Roboam cōnsilium cum senibus, quī steterant **cōram** patre eius Salomōne, dum adhūc vīveret, dīcēns: “ Quid **datīs** cōnsiliī, ut respondeam **populō**? ”.
+6 iniit rēx Roboam cōnsilium cum senibus, quī steterant **cōram** patre eius Salomōne, dum adhūc vīveret, dīcēns: ”Quid **datīs** cōnsiliī, ut respondeam **populō**?”.
 
-7 Quī dīxērunt **eī**: “ Sī **placuerīs** **populō** huic et **lēniēris** eōs verbīs clēmentibus, servient tibi omnī tempore ”.
+7 Quī dīxērunt **eī**: ”Sī **placuerīs** **populō** huic et **lēniēris** eōs verbīs clēmentibus, servient tibi omnī tempore”.
 
 8 At ille relīquit cōnsilium **senum** et cum iuvenibus tractāre coepit, quī cum eō nūtrītī fuerant et erant in comitātū illīus.
 
-9 Dīxitque ad eōs: “ Quid vōbīs vidētur, vel respondēre quid dēbēmus **populō** huic, quī dīxit mihi: “Sublevā iugum, quod imposuit nōbīs pater tuus”? ”.
+9 Dīxitque ad eōs: ”Quid vōbīs vidētur, vel respondēre quid dēbēmus **populō** huic, quī dīxit mihi: “Sublevā iugum, quod imposuit nōbīs pater tuus”?”.
 
-10 Et respondērunt iuvenēs, quī nūtrītī fuerant cum eō, atque dīxērunt: “ Sīc **loqueris** **populō**, quī dīxit tibi: “Pater tuus aggravāvit iugum nostrum, tū sublevā”, et sīc respondēbis eīs: Minimus digitus meus grossior **est** lumbīs patris meī;
+10 Et respondērunt iuvenēs, quī nūtrītī fuerant cum eō, atque dīxērunt: ”Sīc **loqueris** **populō**, quī dīxit tibi: “Pater tuus aggravāvit iugum nostrum, tū sublevā”, et sīc respondēbis eīs: Minimus digitus meus grossior **est** lumbīs patris meī;
 
-11 pater meus imposuit vōbīs iugum grave, et ego maius pondus appōnam; pater meus **cecidit** vōs flagellīs, ego vērō caedam scorpiōnibus ”.
+11 pater meus imposuit vōbīs iugum grave, et ego maius pondus appōnam; pater meus **cecidit** vōs flagellīs, ego vērō caedam scorpiōnibus”.
 
-12 **Venit** ergō Ieroboam et ūniversus **populus** ad Roboam **diē** tertiō, sīcut praecēperat eīs rēx dīcēns: “Revertiminī ad mē **diē** tertiō ”.
+12 **Venit** ergō Ieroboam et ūniversus **populus** ad Roboam **diē** tertiō, sīcut praecēperat eīs rēx dīcēns: “Revertiminī ad mē **diē** tertiō”.
 
 13 Responditque rēx **dūra**, dērelictō cōnsiliō seniōrum;
 
 14 **locūtus**que **est** iuxtā iuvenum voluntātem:
 
-“ Pater meus grave vōbīs imposuit iugum,
+”Pater meus grave vōbīs imposuit iugum,
 
 quod ego gravius faciam.
 
 Pater meus **cecidit** vōs flagellīs,
 
-ego vērō caedam scorpiōnibus ”.
+ego vērō caedam scorpiōnibus”.
 
 15 Et nōn acquiēvit **populī** precibus. Erat enim voluntātis Deī, ut complērētur sermō eius, quem **locūtus** fuerat per **manum** Ahiae Silonitis ad Ieroboam fīlium Nābat.
 
 16 Isrāēl autem ūniversus vidēns quod nōluisset eōs audīre rēx, **locūtus** **est** ad eum:
 
-“ Nōn **est** nōbīs pars in Dāvīd,
+”Nōn **est** nōbīs pars in Dāvīd,
 
 neque hērēditās in fīliō Isāī!
 
 **Revertere** in tabernācula **tua**, Isrāēl!
 
-Tū autem vidē domum tuam, Dāvīd! ”.
+Tū autem vidē domum tuam, Dāvīd!”.
 
 Et abiit Isrāēl in tabernācula **sua**.
 
@@ -489,9 +489,9 @@ Et abiit Isrāēl in tabernācula **sua**.
 
 2 **Factus**que **est** sermō Dominī ad Semeiam hominem Deī dīcēns:
 
-3 “ **Loquēre** ad Roboam fīlium Salomōnis rēgem Iūdae et ad ūniversum Isrāēl, quī **est** in **Iūda** et Beniamin:
+3 ”**Loquēre** ad Roboam fīlium Salomōnis rēgem Iūdae et ad ūniversum Isrāēl, quī **est** in **Iūda** et Beniamin:
 
-4 Haec dīcit Dominus: Nōn ascendētis neque pugnābitis contrā frātrēs vestrōs. Revertātur ūnusquisque in domum suam, quia **meā** **hoc** gestum **est** voluntāte ”. Quī cum audīssent sermōnem Dominī, reversī sunt nec perrēxērunt contrā Ieroboam.
+4 Haec dīcit Dominus: Nōn ascendētis neque pugnābitis contrā frātrēs vestrōs. Revertātur ūnusquisque in domum suam, quia **meā** **hoc** gestum **est** voluntāte”. Quī cum audīssent sermōnem Dominī, reversī sunt nec perrēxērunt contrā Ieroboam.
 
 5 Habitāvit autem Roboam in Ierusālem et aedificāvit cīvitātēs mūrātās in **Iūdā**.
 
@@ -541,13 +541,13 @@ Et abiit Isrāēl in tabernācula **sua**.
 
 4 Cēpitque cīvitātēs mūnītissimās in **Iūdā** et **venit** usque Ierusālem.
 
-5 Semeiās autem **prophēta** **ingressus** **est** ad Roboam et prīncipēs Iūdae, quī congregātī fuerant in Ierusālem fugientēs Sesac, dīxitque ad eōs: “ Haec dīcit Dominus: Vōs relīquistis mē, et ego **reliquī** vōs in manū Sesac ”.
+5 Semeiās autem **prophēta** **ingressus** **est** ad Roboam et prīncipēs Iūdae, quī congregātī fuerant in Ierusālem fugientēs Sesac, dīxitque ad eōs: ”Haec dīcit Dominus: Vōs relīquistis mē, et ego **reliquī** vōs in manū Sesac”.
 
-6 Humiliātīque prīncipēs Isrāēl et rēx dīxērunt: “ Iūstus **est** Dominus! ”.
+6 Humiliātīque prīncipēs Isrāēl et rēx dīxērunt: ”Iūstus **est** Dominus!”.
 
-7 Cumque vīdisset Dominus quod humiliātī **essent**, **factus** **est** sermō Dominī ad Semeiam dīcēns: “ Quia humiliātī sunt, nōn disperdam eōs dabōque eīs mox effugium, et nōn effundētur **furor** meus super Ierusālem per **manum** Sesac.
+7 Cumque vīdisset Dominus quod humiliātī **essent**, **factus** **est** sermō Dominī ad Semeiam dīcēns: ”Quia humiliātī sunt, nōn disperdam eōs dabōque eīs mox effugium, et nōn effundētur **furor** meus super Ierusālem per **manum** Sesac.
 
-8 Vērumtamen servient **eī**, ut sciant distantiam **servitūtis** meae et **servitūtīs** rēgnī terrārum ”.
+8 Vērumtamen servient **eī**, ut sciant distantiam **servitūtis** meae et **servitūtīs** rēgnī terrārum”.
 
 9 Ascendit itaque Sesāc rēx Aegyptī in Ierusālem, sublātīs thēsaurīs **domus** Dominī et **domus** **rēgis**; omniaque sēcum tulit et clipeōs aureōs, quōs fēcerat Salomōn.
 
@@ -575,7 +575,7 @@ Et erat bellum inter Abiam et Ieroboam.
 
 3 Cumque inīsset Abia certāmen et habēret bellicōsissimōs virōs **ēlēctōrum** **quadringenta** **milia**, Ieroboam īnstrūxit ē contrā aciem **octingenta** **milia** **virōrum**, quī et ipsī ēlēctī erant et ad **bella** fortissimī.
 
-4 Stetit igitur Abiā super montem Semaraim, quī **est** in monte Ephraim, et ait: “ Audī, Ieroboam et **omnīs** Isrāēl:
+4 Stetit igitur Abiā super montem Semaraim, quī **est** in monte Ephraim, et ait: ”Audī, Ieroboam et **omnīs** Isrāēl:
 
 5 Num **ignōrātis** quod Dominus, Deus Isrāēl, dederit rēgnum Dāvīd super Isrāēl in sempiternum, ipsī et fīliīs eius, **pactum** **salis**?
 
@@ -591,7 +591,7 @@ Et erat bellum inter Abiam et Ieroboam.
 
 11 Holocausta **quoque** offerunt Dominō per singulōs diēs, **manē** et vespere, et thȳmiāma arōmatum, et prōpōnuntur pānēs in **mēnsā** **mundissimā**. **Est**que apud nōs candēlābrum aureum et lucernae eius, ut accendantur semper ad vesperam; nōs quippe cūstōdīmus **praecepta** Dominī Deī nostrī, quem vōs relīquistis.
 
-12 Ergō in **exercitū** nostrō dux Deus **est** et sacerdōtēs eius, quī clangunt tubīs et resonant contrā vōs, fīliī Isrāēl; nōlīte pugnāre contrā Dominum, Deum patrum vestrōrum, quia nōn vōbīs expedit ”.
+12 Ergō in **exercitū** nostrō dux Deus **est** et sacerdōtēs eius, quī clangunt tubīs et resonant contrā vōs, fīliī Isrāēl; nōlīte pugnāre contrā Dominum, Deum patrum vestrōrum, quia nōn vōbīs expedit”.
 
 13 Ieroboam autem retrō mōliēbātur īnsidiās, ut venīrent post eōs, et erant ante Iūdam, et īnsidiae post eōs.
 
@@ -627,7 +627,7 @@ Et erat bellum inter Abiam et Ieroboam.
 
 5 Aedificāvit **quoque** urbēs mūnītās in **Iūdā**, quia quiēvit **terra**, et **nūlla** temporibus eius **bella** surrēxerant, pācem Dominō **eī** largiente.
 
-6 Dīxit autem Iūdae: “ Aedificēmus cīvitātēs istās et vāllēmus **mūrīs** et rōborēmus turribus et portīs et **serīs**, dōnec ā **bellīs** **quiēta** sunt omnia; quia quaesīvimus Dominum Deum nostrum, quaesīvit nōs et **dedit** nōbīs pācem per gȳrum ”. Aedificāvērunt igitur et prōsperātī sunt.
+6 Dīxit autem Iūdae: ”Aedificēmus cīvitātēs istās et vāllēmus **mūrīs** et rōborēmus turribus et portīs et **serīs**, dōnec ā **bellīs** **quiēta** sunt omnia; quia quaesīvimus Dominum Deum nostrum, quaesīvit nōs et **dedit** nōbīs pācem per gȳrum”. Aedificāvērunt igitur et prōsperātī sunt.
 
 7 Habuit autem Asa **exercitum** portantium **scūta** et hastās dē **Iūdā** **trecentā** **mīlia**, dē Beniamin vērō scūtāriōrum et sagittāriōrum **ducenta** octōgintā **mīlia**; omnēs istī **virī** fortissimī.
 
@@ -635,7 +635,7 @@ Et erat bellum inter Abiam et Ieroboam.
 
 9 Porrō Asa perrēxit obviam **eī**, et īnstrūxērunt aciem ad bellum in **valle**, quae **est** ad septentriōnem Maresa,
 
-10 et invocāvit Asa Dominum Deum suum et ait: “ Domine, nōn **est** apud tē **ūlla** **distantia**, utrum paucīs auxiliēris an plūribus; adiuvā nōs, Domine Deus noster. In tē enim et in tuō nōmine habentēs fīdūciam **vēnimus** contrā hanc multitūdinem. Domine, Deus noster tū **es**, nōn praevaleat contrā tē homō ”.
+10 et invocāvit Asa Dominum Deum suum et ait: ”Domine, nōn **est** apud tē **ūlla** **distantia**, utrum paucīs auxiliēris an plūribus; adiuvā nōs, Domine Deus noster. In tē enim et in tuō nōmine habentēs fīdūciam **vēnimus** contrā hanc multitūdinem. Domine, Deus noster tū **es**, nōn praevaleat contrā tē homō”.
 
 11 Exterruit itaque Dominus Aethiopēs **cōram** Asa et **Iūdā**; fūgēruntque Aethiopēs.
 
@@ -649,7 +649,7 @@ Et erat bellum inter Abiam et Ieroboam.
 
 1 Azarīās autem fīlius Oded, factō in sē spīritū Deī,
 
-2 **ēgressus** **est** in occursum Asa et dīxit **eī**: “ **Audīte** mē, Asa et **omnis** **Iūda** et Beniamin! Dominus vōbīscum, quia fuistis cum eō. Sī **quaesierītis** eum, inveniētur ā vōbīs; sī autem **dērelīqueritis** eum, dērelinquet vōs.
+2 **ēgressus** **est** in occursum Asa et dīxit **eī**: ”**Audīte** mē, Asa et **omnis** **Iūda** et Beniamin! Dominus vōbīscum, quia fuistis cum eō. Sī **quaesierītis** eum, inveniētur ā vōbīs; sī autem **dērelīqueritis** eum, dērelinquet vōs.
 
 3 Trānsiērunt autem multī diēs in Isrāēl absque Deō vēritātis et absque sacerdōte doctōre et absque **lēge**.
 
@@ -659,7 +659,7 @@ Et erat bellum inter Abiam et Ieroboam.
 
 6 contundēbātur enim gēns contrā gentem, et cīvitās contrā cīvitātem, quia Dominus conturbābat eōs in omnī **angustiā**.
 
-7 Vōs autem cōnfortāminī, et nōn dissolvantur **manūs** vestrae; erit enim mercēs operī vestrō ”.
+7 Vōs autem cōnfortāminī, et nōn dissolvantur **manūs** vestrae; erit enim mercēs operī vestrō”.
 
 8 Cum audīsset Asa verba haec et prophētīam, cōnfortātus **est** et abstulit īdōla dē omnī **terrā** Iūdae et Beniamin et ex urbibus, quās cēperat **montīs** Ephraim, et dēdicāvit altāre Dominī, quod erat ante porticum Dominī.
 
@@ -691,7 +691,7 @@ Et erat bellum inter Abiam et Ieroboam.
 
 2 Prōtulit ergō Asa argentum et aurum dē thēsaurīs **domūs** Dominī et **domūs** **rēgis** mīsitque ad Benadad rēgem **Syriae**, quī habitābat in Damascō, dīcēns:
 
-3 “ Foedus inter mē et tē **est** et inter patrem meum et patrem tuum; quam ob rem mīsī tibi argentum et aurum, ut, ruptō **foedere**, quod habēs cum Baasā **rēge** Isrāēl, faciās eum ā mē **recēdere** ”.
+3 ”Foedus inter mē et tē **est** et inter patrem meum et patrem tuum; quam ob rem mīsī tibi argentum et aurum, ut, ruptō **foedere**, quod habēs cum Baasā **rēge** Isrāēl, faciās eum ā mē **recēdere**”.
 
 4 Acquiēscēns Benadad **rēgī** Asa mīsit prīncipēs exercituum suōrum ad urbēs Isrāēl, quī percussērunt Ahion et **Dān** et Abelmaim et **ūniversa** horrea urbium Nephthālī.
 
@@ -699,11 +699,11 @@ Et erat bellum inter Abiam et Ieroboam.
 
 6 Porrō Asa rēx assūmpsit ūniversum Iūdam, et tulērunt lapidēs Rama et ligna, quibus aedificāverat Baasa, aedificāvitque ex eīs Gabaa et Maspha.
 
-7 In tempore illō **venit** Hanānī vidēns ad Asa rēgem Iūdae et dīxit **eī**: “ Quia habuistī fīdūciam in **rēge** **Syriae** et nōn in Dominō Deō tuō, idcircō ēvāsit **Syriae** **rēgis** **exercitūs** dē manū **tuā**.
+7 In tempore illō **venit** Hanānī vidēns ad Asa rēgem Iūdae et dīxit **eī**: ”Quia habuistī fīdūciam in **rēge** **Syriae** et nōn in Dominō Deō tuō, idcircō ēvāsit **Syriae** **rēgis** **exercitūs** dē manū **tuā**.
 
 8 **Nōnne** Aethiopēs et Libyēs magnus **exercitūs** erant quadrīgīs et equitibus et multitūdine **nimiā**, quōs, cum Dominō crēdidissēs, trādidit in manū **tuā**?
 
-9 Oculī enim Dominī contemplantur ūniversam terram et praebent fortitūdinem hīs, quī **corde** perfectō crēdunt in eum. **Stultē** igitur ēgistī in **hōc**, quia ex praesentī tempore contrā tē **bella** cōnsurgent ”.
+9 Oculī enim Dominī contemplantur ūniversam terram et praebent fortitūdinem hīs, quī **corde** perfectō crēdunt in eum. **Stultē** igitur ēgistī in **hōc**, quia ex praesentī tempore contrā tē **bella** cōnsurgent”.
 
 10 Īrātusque Asa adversus videntem iussit eum mittī in nervum, valdē quippe super **hōc** fuerat indignātus; et vexāvit Asa quōsdam dē **populō** in tempore illō.
 
@@ -761,35 +761,35 @@ Et erat bellum inter Abiam et Ieroboam.
 
 2 Dēscenditque post annōs ad eum in Samarīam, ad cuius adventum mactāvit Achab ovēs et bovēs plūrimōs ipsī et **populō**, quī vēnerat cum eō; persuāsitque illī, ut ascenderet in Ramoth Galaad.
 
-3 Dīxitque Achab rēx Isrāēl ad Iosaphat rēgem Iūdae: “ **Vēnī** mēcum in Ramoth Galaad ”. Cui ille respondit: “ Ut ego, et tū; sīcut **populus** tuus, sīc et **populus** meus, tēcumque erimus in bellō ”.
+3 Dīxitque Achab rēx Isrāēl ad Iosaphat rēgem Iūdae: ”**Vēnī** mēcum in Ramoth Galaad”. Cui ille respondit: ”Ut ego, et tū; sīcut **populus** tuus, sīc et **populus** meus, tēcumque erimus in bellō”.
 
-4 Dīxitque Iosaphat ad rēgem Isrāēl: “ Cōnsule, obsecrō, impraesentiārum sermōnem Dominī ”.
+4 Dīxitque Iosaphat ad rēgem Isrāēl: ”Cōnsule, obsecrō, impraesentiārum sermōnem Dominī”.
 
-5 Congregāvitque rēx Isrāēl prophētārum quadringentōs virōs et dīxit ad eōs: “ In Ramoth Galaad ad bellandum īre dēbēmus an **quiēscere**? ”. At illī: “ Ascende, inquiunt, et trādet Deus in manū **rēgis** ”.
+5 Congregāvitque rēx Isrāēl prophētārum quadringentōs virōs et dīxit ad eōs: ”In Ramoth Galaad ad bellandum īre dēbēmus an **quiēscere**?”. At illī: ”Ascende, inquiunt, et trādet Deus in manū **rēgis**”.
 
-6 Dīxitque Iosaphat: “ Numquid nōn **est** **hīc** et **alius** **prophēta** Dominī, ut ab illō etiam requīrāmus? ”.
+6 Dīxitque Iosaphat: ”Numquid nōn **est** **hīc** et **alius** **prophēta** Dominī, ut ab illō etiam requīrāmus?”.
 
-7 Et ait rēx Isrāēl ad Iosaphat: “ Adhūc **est** vir ūnus, ā quō possumus **quaerere** Dominī voluntātem; sed ego **ōdī** eum, quia nōn prophētat mihi bonum sed **malum** omnī tempore: **est** autem Michaeās fīlius Iemla ”. Dīxitque Iosaphat: “ Nē loquāris, rēx, **hoc** **modo** ”.
+7 Et ait rēx Isrāēl ad Iosaphat: ”Adhūc **est** vir ūnus, ā quō possumus **quaerere** Dominī voluntātem; sed ego **ōdī** eum, quia nōn prophētat mihi bonum sed **malum** omnī tempore: **est** autem Michaeās fīlius Iemla”. Dīxitque Iosaphat: ”Nē loquāris, rēx, **hoc** **modo**”.
 
-8 Vocāvit ergō rēx Isrāēl ūnum dē eunūchīs et dīxit **eī**: “ Vocā **cito** Michaeam fīlium Iemla ”.
+8 Vocāvit ergō rēx Isrāēl ūnum dē eunūchīs et dīxit **eī**: ”Vocā **cito** Michaeam fīlium Iemla”.
 
 9 Porrō rēx Isrāēl et Iosaphat rēx Iūdae uterque sedēbant in soliō suō vestītī cultū **rēgiō**; sedēbant autem in **āreā** iuxtā portam Samarīae, omnēsque prophētae vāticinābantur **cōram** eīs.
 
-10 Sedecīās vērō fīlius Chanaāna fēcit sibi cornua **ferrea** et ait: “ Haec dīcit Dominus: Hīs ventilābis **Syriam**, dōnec conterās eam ”.
+10 Sedecīās vērō fīlius Chanaāna fēcit sibi cornua **ferrea** et ait: ”Haec dīcit Dominus: Hīs ventilābis **Syriam**, dōnec conterās eam”.
 
-11 Omnēsque prophētae similiter prophetābant atque dīcēbant: “ Ascende in Ramoth Galaad et prōsperāberis; et trādet Dominus in manū **rēgis** ”.
+11 Omnēsque prophētae similiter prophetābant atque dīcēbant: ”Ascende in Ramoth Galaad et prōsperāberis; et trādet Dominus in manū **rēgis**”.
 
-12 Nūntius autem, quī ierat ad vocandum Michaeam, ait illī: “ Ēn verba omnium prophētārum ūnō ōre **bona** **rēgī** annūntiant; quaesō ergō tē, ut et sermō tuus ab eīs nōn dissentiat, loquārisque **prōspera** ”.
+12 Nūntius autem, quī ierat ad vocandum Michaeam, ait illī: ”Ēn verba omnium prophētārum ūnō ōre **bona** **rēgī** annūntiant; quaesō ergō tē, ut et sermō tuus ab eīs nōn dissentiat, loquārisque **prōspera**”.
 
-13 Cui respondit Michaeās: “ Vīvit Dominus, quia, quodcumque dīxerit Deus meus, **hoc** loquar! ”.
+13 Cui respondit Michaeās: ”Vīvit Dominus, quia, quodcumque dīxerit Deus meus, **hoc** loquar!”.
 
-14 **Venit** ergō ad rēgem. Cui rēx ait: “ Michaeā, īre dēbēmus in Ramoth Galaad ad bellandum an **quiēscere**? ”. Cui ille respondit: “ Ascendite et prōsperāminī, ut trādantur hostēs in **manūs** vestrās ”.
+14 **Venit** ergō ad rēgem. Cui rēx ait: ”Michaeā, īre dēbēmus in Ramoth Galaad ad bellandum an **quiēscere**?”. Cui ille respondit: ”Ascendite et prōsperāminī, ut trādantur hostēs in **manūs** vestrās”.
 
-15 Dīxitque rēx: “ Iterum atque iterum tē adiūrō, ut nōn mihi loquāris **nisi**, quod vērum **est**, in nōmine Dominī ”.
+15 Dīxitque rēx: ”Iterum atque iterum tē adiūrō, ut nōn mihi loquāris **nisi**, quod vērum **est**, in nōmine Dominī”.
 
 16 At ille ait:
 
-“ Vīdī ūniversum Isrāēl
+”Vīdī ūniversum Isrāēl
 
 dispersum in montibus
 
@@ -797,11 +797,11 @@ sīcut ovēs absque pāstōre.
 
 Et dīxit Dominus:
 
-“Nōn habent istī dominum; revertātur ūnusquisque in domum suam in pāce” ”.
+“Nōn habent istī dominum; revertātur ūnusquisque in domum suam in pāce””.
 
-17 Et ait rēx Isrāēl ad Iosaphat: “ **Nōnne** dīxī tibi quod nōn prophētāret iste mihi quidquam bonī sed **ea**, quae **mala** sunt? ”.
+17 Et ait rēx Isrāēl ad Iosaphat: ”**Nōnne** dīxī tibi quod nōn prophētāret iste mihi quidquam bonī sed **ea**, quae **mala** sunt?”.
 
-18 At ille idcircō ait: “ **Audīte** verbum Dominī: Vīdī Dominum sedentem in soliō suō et omnem **exercitum** caelī assistentem **eī** ā dextrīs et sinistrīs.
+18 At ille idcircō ait: ”**Audīte** verbum Dominī: Vīdī Dominum sedentem in soliō suō et omnem **exercitum** caelī assistentem **eī** ā dextrīs et sinistrīs.
 
 19 Et dīxit Dominus: “**Quis** dēcipiet Achab rēgem Isrāēl, ut ascendat et corruat in Ramoth Galaad?”. Cumque dīceret ūnus **hōc** **modō** et alter aliō,
 
@@ -809,29 +809,29 @@ Et dīxit Dominus:
 
 21 At ille respondit: “Ēgrediar et **erō** **spīritus** mendāx in ōre omnium prophētārum eius”. Dīxitque Dominus: “Dēcipiēs et praevalēbis; ēgredere et fac **ita**”.
 
-22 Nunc igitur, ecce **dēdit** Dominus spīritum mendāciī in ōre omnium prophētārum tuōrum et Dominus **locūtus** **est** dē tē **mala** ”.
+22 Nunc igitur, ecce **dēdit** Dominus spīritum mendāciī in ōre omnium prophētārum tuōrum et Dominus **locūtus** **est** dē tē **mala**”.
 
-23 Accessit autem Sedeciās fīlius Chanaāna et percussit Michaeae māxillam et ait: “ Per quam viam trānsīvit **spīritus** Dominī ā mē, ut loquerētur tibi? ”.
+23 Accessit autem Sedeciās fīlius Chanaāna et percussit Michaeae māxillam et ait: ”Per quam viam trānsīvit **spīritus** Dominī ā mē, ut loquerētur tibi?”.
 
-24 Dīxitque Michaeās: “ Tū ipse vidēbis in **diē** illō, quandō **ingressus** **fuerīs** cubiculum intrā cubiculum, ut abscondāris ”.
+24 Dīxitque Michaeās: ”Tū ipse vidēbis in **diē** illō, quandō **ingressus** **fuerīs** cubiculum intrā cubiculum, ut abscondāris”.
 
-25 Praecēpit autem rēx Isrāēl dīcēns: “ Tollite Michaeam et dūcite eum ad Amōn prīncipem cīvitātis et ad Ioās fīlium **rēgis**
+25 Praecēpit autem rēx Isrāēl dīcēns: ”Tollite Michaeam et dūcite eum ad Amōn prīncipem cīvitātis et ad Ioās fīlium **rēgis**
 
-26 et **dicētis**: “Haec dīcit rēx: Mittite hunc in carcerem et **date** **eī** **pānis** modicum et aquae pauxillum, dōnec revertar in pāce” ”.
+26 et **dicētis**: “Haec dīcit rēx: Mittite hunc in carcerem et **date** **eī** **pānis** modicum et aquae pauxillum, dōnec revertar in pāce””.
 
-27 Dīxitque Michaeās: “ Sī reversus **fuerīs** in pāce, nōn **est** **locūtus** Dominus in mē ”. Et ait: “ **Audīte**, **populī** omnēs! ”.
+27 Dīxitque Michaeās: ”Sī reversus **fuerīs** in pāce, nōn **est** **locūtus** Dominus in mē”. Et ait: ”**Audīte**, **populī** omnēs!”.
 
 28 Igitur ascendērunt rēx Isrāēl et Iosaphat rēx Iūdae in Ramoth Galaad.
 
-29 Dīxitque rēx Isrāēl ad Iosaphat: “ Mūtābō habitum et sīc ad pugnam vādam; tū autem **induere** vestibus tuīs ”. Mūtātōque rēx Isrāēl habitū **venit** ad bellum.
+29 Dīxitque rēx Isrāēl ad Iosaphat: ”Mūtābō habitum et sīc ad pugnam vādam; tū autem **induere** vestibus tuīs”. Mūtātōque rēx Isrāēl habitū **venit** ad bellum.
 
-30 Rēx autem **Syriae** praecēperat ducibus curruum suōrum dīcēns: “ Nē pugnētis contrā minimum aut contrā maximum, **nisi** contrā **sōlum** rēgem Isrāēl ”.
+30 Rēx autem **Syriae** praecēperat ducibus curruum suōrum dīcēns: ”Nē pugnētis contrā minimum aut contrā maximum, **nisi** contrā **sōlum** rēgem Isrāēl”.
 
-31 Itaque, cum vīdissent prīncipēs curruum Iosaphat, dīxērunt: “ Rēx Isrāēl **est** iste! ”. Et circumdedērunt eum dīmicantēs. At ille clāmāvit ad Dominum, et **auxiliātus** **est** **eī** atque āvertit eōs Deus ab illō.
+31 Itaque, cum vīdissent prīncipēs curruum Iosaphat, dīxērunt: ”Rēx Isrāēl **est** iste!”. Et circumdedērunt eum dīmicantēs. At ille clāmāvit ad Dominum, et **auxiliātus** **est** **eī** atque āvertit eōs Deus ab illō.
 
 32 Cum enim vīdissent **ducēs** curruum quod nōn **esset** rēx Isrāēl, relīquērunt eum.
 
-33 **Accidit** autem, ut ūnus ē **populō** sagittam in incertum **iacēret** et percuteret rēgem Isrāēl inter iūnctūrās et lōrīcam. At ille aurīgae suō ait: “ Converte **manum** tuam et ēdūc mē dē aciē, quia vulnerātus sum ”.
+33 **Accidit** autem, ut ūnus ē **populō** sagittam in incertum **iacēret** et percuteret rēgem Isrāēl inter iūnctūrās et lōrīcam. At ille aurīgae suō ait: ”Converte **manum** tuam et ēdūc mē dē aciē, quia vulnerātus sum”.
 
 34 Et **aggravāta** **est** **pugna** in **diē** illō; porrō rēx Isrāēl stābat in currū suō contrā **Syrōs** usque ad vesperam et mortuus **est** **occidente** **sōle**.
 
@@ -839,31 +839,31 @@ Et dīxit Dominus:
 
 1 Reversus **est** autem Iosaphat rēx Iūdae in domum suam **pācificē** in Ierusālem.
 
-2 Cui occurrit Iehu fīlius Hanānī vidēns et ait ad eum: “ Impiō praebēs auxilium et hīs, quī ōdērunt Dominum, **amīcitia** **iungēris**, et idcircō īram quidem Dominī merēbāris;
+2 Cui occurrit Iehu fīlius Hanānī vidēns et ait ad eum: ”Impiō praebēs auxilium et hīs, quī ōdērunt Dominum, **amīcitia** **iungēris**, et idcircō īram quidem Dominī merēbāris;
 
-3 sed **bona** **opera** **inventa** sunt in tē, eō quod **abstulerīs** pālōs dē **terrā** et **praeparāverīs** cor tuum, ut requīrerēs Deum ”.
+3 sed **bona** **opera** **inventa** sunt in tē, eō quod **abstulerīs** pālōs dē **terrā** et **praeparāverīs** cor tuum, ut requīrerēs Deum”.
 
 4 Habitāvit ergō Iosaphat in Ierusālem. Rūrsumque **ēgressus** **est** ad **populum** dē Bersabee usque ad montem Ephraim et revocāvit eōs ad Dominum, Deum patrum suōrum.
 
 5 Cōnstituitque iūdicēs terrae in cūnctīs cīvitātibus Iūdae **mūnītīs** per **singula** **loca**.
 
-6 Et praecipiēns iūdicibus: “ Vidēte, ait, quid faciātis. Nōn enim hominī exercētis iūdicium sed Dominō, quī vōbīscum **est**, quandō **iūdicāverītis**.
+6 Et praecipiēns iūdicibus: ”Vidēte, ait, quid faciātis. Nōn enim hominī exercētis iūdicium sed Dominō, quī vōbīscum **est**, quandō **iūdicāverītis**.
 
-7 Sit timor Dominī, vōbīscum et **cautē** **cūncta** facite; nōn **est** enim apud Dominum Deum nostrum inīquitās nec **persōnārum** acceptiō nec **cupīdō** mūnerum ”.
+7 Sit timor Dominī, vōbīscum et **cautē** **cūncta** facite; nōn **est** enim apud Dominum Deum nostrum inīquitās nec **persōnārum** acceptiō nec **cupīdō** mūnerum”.
 
 8 In Ierusālem **quoque** cōnstituit Iosaphat ex **Lēvītīs** et sacerdōtibus et prīncipibus familiārum Isrāēl prō iūdiciō Dominī et prō causīs habitātōrum Ierusālem.
 
-9 Praecēpitque eīs dīcēns: “ Sīc agētis in timōre Dominī fidēliter et **corde** perfectō.
+9 Praecēpitque eīs dīcēns: ”Sīc agētis in timōre Dominī fidēliter et **corde** perfectō.
 
 10 Omnem causam, quae vēnerit ad vōs frātrum vestrōrum, quī habitant in urbibus **suīs**, ubicumque quaestiō **est** dē homicīdiō, dē **lēge**, dē mandātō, dē praeceptīs et dē iūstificātiōnibus, commonēte eōs, ut nōn peccent in Dominum, et nē veniat **īra** super vōs et super frātrēs vestrōs; sīc ergō agētis et nōn peccābitis.
 
-11 Amariās autem sacerdōs prīnceps super vōs in omnibus, quae ad Deum pertinent, praesidēbit; porrō Zabadiās fīlius Ismaēl, quī **est** dux in domō Iūdae, super **ea** **opera** erit, quae ad **rēgis** officium pertinent; habētisque Lēvītās **cōram** vōbīs ut scrībās. Cōnfortāminī et agite dīligenter, et sit Dominus cum bonīs ”.
+11 Amariās autem sacerdōs prīnceps super vōs in omnibus, quae ad Deum pertinent, praesidēbit; porrō Zabadiās fīlius Ismaēl, quī **est** dux in domō Iūdae, super **ea** **opera** erit, quae ad **rēgis** officium pertinent; habētisque Lēvītās **cōram** vōbīs ut scrībās. Cōnfortāminī et agite dīligenter, et sit Dominus cum bonīs”.
 
 ## 20
 
 1 Post haec congregātī sunt fīliī Moab et fīliī Ammōn et cum eīs dē Meunitis ad Iosaphat, ut pugnārent contrā eum.
 
-2 Vēnēruntque nūntiī et indicāvērunt Iosaphat dīcentēs: “ **Venit** contrā tē multitūdō **magna** dē hīs locīs, quae trāns mare sunt, dē Edom, et ecce cōnsistunt in Asasonthamar, quae **est** Engaddī ”.
+2 Vēnēruntque nūntiī et indicāvērunt Iosaphat dīcentēs: ”**Venit** contrā tē multitūdō **magna** dē hīs locīs, quae trāns mare sunt, dē Edom, et ecce cōnsistunt in Asasonthamar, quae **est** Engaddī”.
 
 3 Iosaphat autem timōre perterritus **tōtum** sē contulit ad rogandum Dominum et praedicāvit ieiūnium ūniversō Iūdae.
 
@@ -871,7 +871,7 @@ Et dīxit Dominus:
 
 5 Cumque stetisset Iosaphat in **mediō** coetū Iūdae et Ierusālem in domō Dominī ante ātrium novum,
 
-6 ait: “ Domine, Deus patrum nostrōrum, tū **es** Deus in caelō et **domināris** cūnctīs rēgnīs gentium; in manū **tuā** **est** fortitūdō et **potentia**, nec quisquam tibi potest **resistere**.
+6 ait: ”Domine, Deus patrum nostrōrum, tū **es** Deus in caelō et **domināris** cūnctīs rēgnīs gentium; in manū **tuā** **est** fortitūdō et **potentia**, nec quisquam tibi potest **resistere**.
 
 7 **Nōnne** tū, Deus noster, expulistī habitātōrēs terrae huius **cōram** **populō** tuō Isrāēl et dedistī eam sēminī Abraham **amīcī** tuī in sempiternum?
 
@@ -883,25 +883,25 @@ Et dīxit Dominus:
 
 11 ē contrāriō agunt et nītuntur ēicere nōs dē possessiōne **tuā**, quam trādidistī nōbīs.
 
-12 Deus noster, ergō nōn iūdicābis eōs? In nōbīs quidem nōn **tanta** **est** fortitūdō, ut possīmus huic multitūdinī **resistere**, quae irruit super nōs; sed, cum ignōrēmus quid **agere** dēbeāmus, **hoc** **sōlum** habēmus residuī, ut oculōs nostrōs dīrigāmus ad tē ”.
+12 Deus noster, ergō nōn iūdicābis eōs? In nōbīs quidem nōn **tanta** **est** fortitūdō, ut possīmus huic multitūdinī **resistere**, quae irruit super nōs; sed, cum ignōrēmus quid **agere** dēbeāmus, **hoc** **sōlum** habēmus residuī, ut oculōs nostrōs dīrigāmus ad tē”.
 
 13 **Omnis** vērō **Iūdā** stābat **cōram** Dominō cum parvulīs et uxōribus et **līberīs** **suīs**.
 
 14 Erat autem Iahaziel fīlius Zacharīae fīliī Banāiae fīliī Iehiel fīliī Matthāniae Lēvītēs dē fīliīs Asaph, super quem **factus** **est** **spīritus** Dominī in **mediō** congregātiōnis,
 
-15 et ait: “ Attendite, **omnīs** **Iūda** et quī **habitātis** Ierusālem et tū rēx Iosaphat: Haec dīcit Dominus vōbīs: Nōlīte timēre nec paveātis hanc multitūdinem magnam; nōn **est** enim **vestra** **pugna** sed Deī.
+15 et ait: ”Attendite, **omnīs** **Iūda** et quī **habitātis** Ierusālem et tū rēx Iosaphat: Haec dīcit Dominus vōbīs: Nōlīte timēre nec paveātis hanc multitūdinem magnam; nōn **est** enim **vestra** **pugna** sed Deī.
 
 16 Crās dēscendētis contrā eōs; ascēnsūrī enim sunt per clīvum nōmine Sīs, et inveniētis illōs in summitāte **torrentis**, quī **est** contrā sōlitūdinem Ieruel.
 
-17 Nōn eritis vōs, quī dīmicābitis; sed tantummodo cōnfīdenter **stāte** et vidēbitis auxilium Dominī super vōs, ō **Iūda** et Ierusālem. Nōlīte timēre nec paveātis; crās ēgrediminī contrā eōs, et Dominus erit vōbīscum ”.
+17 Nōn eritis vōs, quī dīmicābitis; sed tantummodo cōnfīdenter **stāte** et vidēbitis auxilium Dominī super vōs, ō **Iūda** et Ierusālem. Nōlīte timēre nec paveātis; crās ēgrediminī contrā eōs, et Dominus erit vōbīscum”.
 
 18 Iosaphat ergō inclīnāvit sē super faciem suam in **terrā**, et **omnis** **Iūda** et habitātōrēs Ierusālem **cecidērunt** **cōram** Dominō et adōrāvērunt eum.
 
 19 Porrō Lēvītae dē fīliīs Caath, dē fīliīs **Corē** scīlicet, surrēxērunt et laudābant Dominum, Deum Isrāēl, vōce **magnā** in excelsum.
 
-20 Cumque **māne** surrēxissent, ēgressī sunt ad dēsertum Thecue; **profectīs**que eīs, stāns Iosaphat in **mediō** eōrum dīxit: “ **Audīte** mē, **Iūda** et habitātōrēs Ierusālem! **Crēdite** in Dominō Deō vestrō et permanēbitis; **crēditē** **prophētis** eius, et **cūncta** ēvenient vōbīs **prōspera** ”.
+20 Cumque **māne** surrēxissent, ēgressī sunt ad dēsertum Thecue; **profectīs**que eīs, stāns Iosaphat in **mediō** eōrum dīxit: ”**Audīte** mē, **Iūda** et habitātōrēs Ierusālem! **Crēdite** in Dominō Deō vestrō et permanēbitis; **crēditē** **prophētis** eius, et **cūncta** ēvenient vōbīs **prōspera**”.
 
-21 Habuitque cōnsilium cum **populō** et statuit cantōrēs Dominī, ut laudārent eum in ōrnātū sānctō et antecēderent **exercitum** ac vōce **cōnsonā** dīcerent: “ Cōnfitēminī Dominō, quoniam in aeternum **misericordiā** eius ”.
+21 Habuitque cōnsilium cum **populō** et statuit cantōrēs Dominī, ut laudārent eum in ōrnātū sānctō et antecēderent **exercitum** ac vōce **cōnsonā** dīcerent: ”Cōnfitēminī Dominō, quoniam in aeternum **misericordiā** eius”.
 
 22 Cumque coepissent laudēs **canere**, vertit Dominus īnsidiās eōrum contrā fīliōs Ammōn et Moab et montem Seir, quī ēgressī fuerant, ut pugnārent contrā Iūdam, et percussī sunt.
 
@@ -933,7 +933,7 @@ Et dīxit Dominus:
 
 36 et particeps fuit, ut facerent nāvēs, quae īrent in Tharsīs, fēcēruntque classem in Asiongaber.
 
-37 Prophētāvit autem Eliezer fīlius Dōdiae dē Maresā contrā Iosaphat dīcēns: “ Quia habuistī foedus cum Ochozīā, percussit Dominus **opera** **tua** ”. Contrītaeque sunt nāvēs nec potuērunt īre in Tharsīs.
+37 Prophētāvit autem Eliezer fīlius Dōdiae dē Maresā contrā Iosaphat dīcēns: ”Quia habuistī foedus cum Ochozīā, percussit Dominus **opera** **tua**”. Contrītaeque sunt nāvēs nec potuērunt īre in Tharsīs.
 
 ## 21
 
@@ -965,7 +965,7 @@ Et dīxit Dominus:
 
 14 ecce Dominus percutiet **plāgā** **magnā** **populum** tuum, fīliōs et uxōrēs tuās ūniversamque substantiam tuam;
 
-15 tū autem aegrōtābis pessimō languōre uterī tuī, dōnec ēgrediantur vītālia **tua** paulātim per singulōs diēs ”.
+15 tū autem aegrōtābis pessimō languōre uterī tuī, dōnec ēgrediantur vītālia **tua** paulātim per singulōs diēs”.
 
 16 Suscitāvit ergō Dominus contrā Ioram spīritum Philisthinōrum et Arabum, quī cōnfīnēs sunt **Aethiopibus**,
 
@@ -1013,7 +1013,7 @@ Nec erat aliquis dē stirpe Ochoziae, quī posset rēgnāre.
 
 2 Quī circumeuntēs Iūdam congregāvērunt Lēvītās dē cūnctīs urbibus Iūdae et prīncipēs familiārum Isrāēl vēnēruntque in Ierusālem.
 
-3 Iniit igitur **omnis** congregātiō **pactum** in domō Deī cum **rēge**. Dīxitque ad eōs Ioiada: “ Ecce fīlius **rēgis** rēgnābit, sīcut **locūtus** **est** Dominus super fīliōs Dāvīd.
+3 Iniit igitur **omnis** congregātiō **pactum** in domō Deī cum **rēge**. Dīxitque ad eōs Ioiada: ”Ecce fīlius **rēgis** rēgnābit, sīcut **locūtus** **est** Dominus super fīliōs Dāvīd.
 
 4 **Hoc** **est** ergō, quod faciētis.
 
@@ -1021,7 +1021,7 @@ Nec erat aliquis dē stirpe Ochoziae, quī posset rēgnāre.
 
 6 Nec quisquam **alius** ingrediātur domum Dominī, **nisi** sacerdōtēs et quī ministrant dē **Lēvītīs**; ipsī tantummodo ingrediantur, quia sānctificātī sunt. Et omne reliquum vulgus observet observātiōnem Dominī.
 
-7 Lēvītae autem circumdent rēgem habentēs singulī **arma** **sua** in manū. Et sī **quis** **alius** **ingressus** fuerit templum, interficiātur. Sintque cum **rēge** et intrante et ēgrediente ”.
+7 Lēvītae autem circumdent rēgem habentēs singulī **arma** **sua** in manū. Et sī **quis** **alius** **ingressus** fuerit templum, interficiātur. Sintque cum **rēge** et intrante et ēgrediente”.
 
 8 Fēcērunt igitur Lēvītae et ūniversus **Iūda** iuxtā omnia, quae praecēperat Ioiada pontifex; et assūmpsērunt singulī virōs suōs, quī veniēbant sabbatō cum hīs, quī sabbatō ēgressūrī erant: siquidem Ioiada pontifex nōn dīmīsit abīre turmās, quae sibi per singulās **hebdomadās** **succēdere** cōnsuēverant.
 
@@ -1029,13 +1029,13 @@ Nec erat aliquis dē stirpe Ochoziae, quī posset rēgnāre.
 
 10 Cōnstituitque omnem **populum** tenentium **tēla** ā **parte** templī **dextrā** usque ad partem templī sinistram **cōram** altārī et templō per circuitum **rēgis**.
 
-11 Et ēdūxērunt fīlium **rēgis** et dedērunt **eī** **diadēma** et testimōnium et cōnstituērunt eum rēgem. Ūnxērunt **quoque** illum Ioiada pontifex et fīliī eius; imprecātīque sunt **eī** atque dīxērunt: “ Vīvat rēx! ”.
+11 Et ēdūxērunt fīlium **rēgis** et dedērunt **eī** **diadēma** et testimōnium et cōnstituērunt eum rēgem. Ūnxērunt **quoque** illum Ioiada pontifex et fīliī eius; imprecātīque sunt **eī** atque dīxērunt: ”Vīvat rēx!”.
 
 12 Quod cum audīsset Athalia, **vōcem** scīlicet currentium atque laudantium rēgem, **ingressa** **est** ad **populum** in templum Dominī.
 
-13 Cumque vīdisset rēgem stantem super gradum suum in introitū et prīncipēs tubāsque circā eum omnemque **populum** terrae gaudentem atque clangentem tubīs cantōrēsque cum dīversī **generis** organīs signum dantēs ad laudandum, scidit vestīmenta **sua** et ait: “ Coniūrātiō, coniūrātiō! ”.
+13 Cumque vīdisset rēgem stantem super gradum suum in introitū et prīncipēs tubāsque circā eum omnemque **populum** terrae gaudentem atque clangentem tubīs cantōrēsque cum dīversī **generis** organīs signum dantēs ad laudandum, scidit vestīmenta **sua** et ait: ”Coniūrātiō, coniūrātiō!”.
 
-14 Praecēpit autem Ioiada pontifex centuriōnibus, quī erant super **exercitum**, dīcēns: “ Ēdūcite illam extrā **saepta** templī! Quī autem sequētur eam, interficiātur **foris** gladiō! ”. Dīxerat enim sacerdōs: “ Nōn **occīdētis** eam in domō Dominī! ”.
+14 Praecēpit autem Ioiada pontifex centuriōnibus, quī erant super **exercitum**, dīcēns: ”Ēdūcite illam extrā **saepta** templī! Quī autem sequētur eam, interficiātur **foris** gladiō!”. Dīxerat enim sacerdōs: ”Nōn **occīdētis** eam in domō Dominī!”.
 
 15 Et imposuērunt **eī** **manus**; cumque intrāsset portam Equōrum **domūs** **rēgis**, interfēcērunt eam ibi.
 
@@ -1061,11 +1061,11 @@ Nec erat aliquis dē stirpe Ochoziae, quī posset rēgnāre.
 
 4 Post quae placuit Ioās, ut īnstaurāret domum Dominī.
 
-5 Congregāvitque sacerdōtēs et Lēvītās et dīxit eīs: “ Ēgrediminī ad cīvitātēs Iūdae et colligite dē ūniversō Isrāēl pecūniam ad sartatēctā templī Deī vestrī per singulōs annōs. Festīnātōque **hoc** facite ”. Porrō Lēvītae nōn festīnārunt.
+5 Congregāvitque sacerdōtēs et Lēvītās et dīxit eīs: ”Ēgrediminī ad cīvitātēs Iūdae et colligite dē ūniversō Isrāēl pecūniam ad sartatēctā templī Deī vestrī per singulōs annōs. Festīnātōque **hoc** facite”. Porrō Lēvītae nōn festīnārunt.
 
-6 Vocāvitque rēx Ioiadam prīncipem et dīxit **eī**: “ Quārē nōn tibi fuit cūrae, ut cōgerēs Lēvītās īnferre dē **Iūdā** et dē Ierusālem pecūniam, quae **cōnstitūta** **est** ā Moyse servō Dominī, ut īnferret eam **omnis** congregātiō Isrāēl in tabernāculum testimōniī?
+6 Vocāvitque rēx Ioiadam prīncipem et dīxit **eī**: ”Quārē nōn tibi fuit cūrae, ut cōgerēs Lēvītās īnferre dē **Iūdā** et dē Ierusālem pecūniam, quae **cōnstitūta** **est** ā Moyse servō Dominī, ut īnferret eam **omnis** congregātiō Isrāēl in tabernāculum testimōniī?
 
-7 Athālia enim **impiissima** et fīliī eius dissipāvērunt domum Deī et dē ūniversīs, quae **sānctificāta** fuerant templō Dominī, dēdicāvērunt Baalim ”.
+7 Athālia enim **impiissima** et fīliī eius dissipāvērunt domum Deī et dē ūniversīs, quae **sānctificāta** fuerant templō Dominī, dēdicāvērunt Baalim”.
 
 8 Praecēpit ergō rēx, et fēcērunt arcam posuēruntque eam iuxtā portam **domūs** Dominī forīnsecus.
 
@@ -1091,11 +1091,11 @@ Nec erat aliquis dē stirpe Ochoziae, quī posset rēgnāre.
 
 19 Mittēbatque eīs prophētās, ut reverterentur ad Dominum, quōs prōtestantēs illī audīre nōlēbant.
 
-20 **Spīritus** itaque Deī induit Zacharīam fīlium Ioiadae **sacerdōtis**; et stetit in cōnspectū **populī** et dīxit eīs: “ Haec dīcit Deus: Quārē trānsgrediminī **praecepta** Dominī, quod vōbīs nōn prōderit? Quia dērelīquistis Dominum, ipse dērelīquit vōs ”.
+20 **Spīritus** itaque Deī induit Zacharīam fīlium Ioiadae **sacerdōtis**; et stetit in cōnspectū **populī** et dīxit eīs: ”Haec dīcit Deus: Quārē trānsgrediminī **praecepta** Dominī, quod vōbīs nōn prōderit? Quia dērelīquistis Dominum, ipse dērelīquit vōs”.
 
 21 Quī coniūrāvērunt adversus eum et lapidāvērunt eum iuxtā **rēgis** imperium in ātriō **domūs** Dominī.
 
-22 Et nōn **est** **recordātus** Ioās rēx misericordiae, quam fēcerat Ioiadā pater illīus sēcum, sed interfēcit fīlium eius. Quī cum morerētur, ait: “ Videat Dominus et requīrat! ”.
+22 Et nōn **est** **recordātus** Ioās rēx misericordiae, quam fēcerat Ioiadā pater illīus sēcum, sed interfēcit fīlium eius. Quī cum morerētur, ait: ”Videat Dominus et requīrat!”.
 
 23 Cumque ēvolūtus **esset** annus, ascendit contrā eum **exercitus** **Syriae** **venit**que in Iūdam et Ierusālem et extermināvērunt cūnctōs prīncipēs **populī** atque ūniversam praedam mīsērunt **rēgī** **Damascum**.
 
@@ -1115,17 +1115,17 @@ Nec erat aliquis dē stirpe Ochoziae, quī posset rēgnāre.
 
 3 Cumque rōborātum sibi vidēret imperium, iugulāvit servōs suōs, quī **occīderant** rēgem patrem suum,
 
-4 sed fīliōs eōrum nōn interfēcit, sīcut scrīptum **est** in **librō** **lēgis** Moȳsī, ubi praecēpit Dominus dīcēns: “ Nōn **occīdentur** patrēs prō fīliīs, neque fīliī prō patribus **suīs**, sed ūnusquisque in suō peccātō moriētur ”.
+4 sed fīliōs eōrum nōn interfēcit, sīcut scrīptum **est** in **librō** **lēgis** Moȳsī, ubi praecēpit Dominus dīcēns: ”Nōn **occīdentur** patrēs prō fīliīs, neque fīliī prō patribus **suīs**, sed ūnusquisque in suō peccātō moriētur”.
 
 5 Congregāvit igitur Amasīās Iūdam et cōnstituit eōs per familiās tribūnōsque et centuriōnēs in ūniversō **Iūda** et Beniamin. Et recēnsuit ā vīgintī annīs sūrsum **invēnit**que **trecenta** **milia** iuvenum, quī ēgrederentur ad pugnam et tenērent hastam et clipeum.
 
 6 Mercēde **quoque** condūxit dē Isrāēl centum **mīlia** rōbustōrum centum talentīs argentī.
 
-7 **Venit** autem homō Deī ad illum et ait: “ Ō rēx, nē ēgrediātur tēcum **exercitus** Isrāēl; nōn **est** enim Dominus cum Isrāēl, cūnctīs fīliīs Ephraim.
+7 **Venit** autem homō Deī ad illum et ait: ”Ō rēx, nē ēgrediātur tēcum **exercitus** Isrāēl; nōn **est** enim Dominus cum Isrāēl, cūnctīs fīliīs Ephraim.
 
-8 Quod sī putās in rōbore **exercitūs** **bella** **cōnsistere**, superārī tē faciet Deus ab hostibus: Deī quippe **est** et adiuvāre et in fugam **vertere** ”.
+8 Quod sī putās in rōbore **exercitūs** **bella** **cōnsistere**, superārī tē faciet Deus ab hostibus: Deī quippe **est** et adiuvāre et in fugam **vertere**”.
 
-9 Dīxitque Amasīās ad hominem Deī: “ Quid ergō fīet dē centum talentīs, quae **dedī** mīlitibus Isrāēl? ”. Et respondit **eī** homō Deī: “ Habet Dominus, unde tibi dare possit multō hīs plūra ”.
+9 Dīxitque Amasīās ad hominem Deī: ”Quid ergō fīet dē centum talentīs, quae **dedī** mīlitibus Isrāēl?”. Et respondit **eī** homō Deī: ”Habet Dominus, unde tibi dare possit multō hīs plūra”.
 
 10 Sēparāvit itaque Amasīās **exercitum**, quī vēnerat ad eum ex Ephraim, ut reverterētur in locum suum; at illī contrā Iūdam vehementer īrātī reversī sunt in regiōnem suam.
 
@@ -1137,15 +1137,15 @@ Nec erat aliquis dē stirpe Ochoziae, quī posset rēgnāre.
 
 14 Amasīās vērō, post caedem Idūmaeōrum et allātōs deōs fīliōrum Seir, statuit illōs in deōs sibi et adōrābat eōs et illīs adolēbat.
 
-15 Quam ob rem īrātus Dominus contrā Amasīam mīsit ad illum prophētam, quī dīceret **eī**: “ Cūr adōrāstī deōs, quī nōn līberāvērunt **populum** suum dē manū **tuā**? ”.
+15 Quam ob rem īrātus Dominus contrā Amasīam mīsit ad illum prophētam, quī dīceret **eī**: ”Cūr adōrāstī deōs, quī nōn līberāvērunt **populum** suum dē manū **tuā**?”.
 
-16 Cumque haec ille loquerētur, respondit **eī**: “ Num cōnsiliārium **rēgis** fēcimus tē? Quiēsce! Cūr interficiam tē? ”. Discēdēnsque **prophēta**: “ Sed sciō, inquit, quod dēcrēvit Deus **occīdere** tē, quia fēcistī **hoc** et nōn acquiēvistī cōnsiliō meō ”.
+16 Cumque haec ille loquerētur, respondit **eī**: ”Num cōnsiliārium **rēgis** fēcimus tē? Quiēsce! Cūr interficiam tē?”. Discēdēnsque **prophēta**: ”Sed sciō, inquit, quod dēcrēvit Deus **occīdere** tē, quia fēcistī **hoc** et nōn acquiēvistī cōnsiliō meō”.
 
-17 Igitur Amasīās rēx Iūdae, initō cōnsiliō, mīsit ad Ioās fīlium Ioachaz fīliī Iehū rēgem Isrāēl dīcēns: “ **Vēnī**, videāmus nōs mūtuō! ”.
+17 Igitur Amasīās rēx Iūdae, initō cōnsiliō, mīsit ad Ioās fīlium Ioachaz fīliī Iehū rēgem Isrāēl dīcēns: ”**Vēnī**, videāmus nōs mūtuō!”.
 
-18 At ille remīsit nūntium dīcēns: “ Carduus, quī **est** in **Libanō**, mīsit ad cedrum **Libanī** dīcēns: “Dā fīliam tuam fīliō meō uxōrem”. Et ecce bēstiae agrī, quae erant in **Libanō**, trānsiērunt et conculcāvērunt carduum.
+18 At ille remīsit nūntium dīcēns: ”Carduus, quī **est** in **Libanō**, mīsit ad cedrum **Libanī** dīcēns: “Dā fīliam tuam fīliō meō uxōrem”. Et ecce bēstiae agrī, quae erant in **Libanō**, trānsiērunt et conculcāvērunt carduum.
 
-19 Dīxistī: “Percussī Edom!”. Et idcircō ērigitur cor tuum in superbiam. **Sēde** in domō **tuā**! Cūr **malum** adversum tē prōvocās, ut cadās et tū et **Iūda** tēcum? ”.
+19 Dīxistī: “Percussī Edom!”. Et idcircō ērigitur cor tuum in superbiam. **Sēde** in domō **tuā**! Cūr **malum** adversum tē prōvocās, ut cadās et tū et **Iūda** tēcum?”.
 
 20 Nōluit audīre Amasīās, eō quod Dominī **esset** voluntās, ut trāderētur in manibus hostium propter cultum deōrum Edom.
 
@@ -1199,7 +1199,7 @@ Nec erat aliquis dē stirpe Ochoziae, quī posset rēgnāre.
 
 17 Statimque **ingressus** post eum Azāriās sacerdōs et cum eō sacerdōtēs Dominī octōgintā **virī** fortissimī;
 
-18 restitērunt **rēgī** atque dīxērunt: “ Nōn **est** tuī officiī, Ozia, ut adoleās incēnsum Dominō, sed sacerdōtum, **hoc** **est** fīliōrum Aarōn, quī cōnsecrātī sunt ad huiuscemodī ministerium. Ēgredere dē sānctuāriō, quia praevāricātus **es**; et nōn reputābitur tibi in glōriam **hoc** ā Dominō Deō ”.
+18 restitērunt **rēgī** atque dīxērunt: ”Nōn **est** tuī officiī, Ozia, ut adoleās incēnsum Dominō, sed sacerdōtum, **hoc** **est** fīliōrum Aarōn, quī cōnsecrātī sunt ad huiuscemodī ministerium. Ēgredere dē sānctuāriō, quia praevāricātus **es**; et nōn reputābitur tibi in glōriam **hoc** ā Dominō Deō”.
 
 19 Īrātusque **est** Oziās et tenēns in manū tūribulum, ut adolēret incēnsum, minābātur sacerdōtibus. Statimque **orta** **est** **lepra** in fronte eius **cōram** sacerdōtibus in domō Dominī super altāre thȳmiāmatis.
 
@@ -1209,7 +1209,7 @@ Nec erat aliquis dē stirpe Ochoziae, quī posset rēgnāre.
 
 22 **Reliqua** autem gestōrum Oziae priōrum et novissimōrum scrīpsit Īsaiās fīlius Amōs **prophēta**.
 
-23 Dormīvitque Ozīās cum patribus **suīs**, et sepeliērunt eum in agrō rēgālium sepulcrōrum, eō quod dīcēbant: “ Erat leprōsus ”. Rēgnāvitque Ioatham fīlius eius prō eō.
+23 Dormīvitque Ozīās cum patribus **suīs**, et sepeliērunt eum in agrō rēgālium sepulcrōrum, eō quod dīcēbant: ”Erat leprōsus”. Rēgnāvitque Ioatham fīlius eius prō eō.
 
 ## 27
 
@@ -1249,15 +1249,15 @@ Nec erat aliquis dē stirpe Ochoziae, quī posset rēgnāre.
 
 8 Cēpēruntque fīliī Isrāēl dē frātribus **suīs** **ducenta** **milia** mulierum, puerōrum et puellārum, et īnfīnītam praedam pertulēruntque eam in Samarīam.
 
-9 Erat autem ibi **prophēta** Dominī nōmine Oded, quī **ēgressus** obviam exercituī venientī in Samarīam dīxit eīs: “ Ecce, īrātus Dominus, Deus patrum vestrōrum, contrā Iūdam trādidit eōs in manibus vestrīs, et **occīdistis** eōs atrōciter, **ita** ut ad caelum pertingeret **vestra** crūdēlitās.
+9 Erat autem ibi **prophēta** Dominī nōmine Oded, quī **ēgressus** obviam exercituī venientī in Samarīam dīxit eīs: ”Ecce, īrātus Dominus, Deus patrum vestrōrum, contrā Iūdam trādidit eōs in manibus vestrīs, et **occīdistis** eōs atrōciter, **ita** ut ad caelum pertingeret **vestra** crūdēlitās.
 
 10 Īnsuper fīliōs Iūdae et Ierusālem vultis vōbīs subicere in servōs et ancillās. Attamen **nōnne** vōs ipsī **estis** in **culpā** **cōram** Dominō Deō vestrō?
 
-11 **Audīte** ergō cōnsilium meum et redūcite captīvōs, quōs addūxistis dē frātribus vestrīs, quia magnus **furor** Dominī imminet vōbīs ”.
+11 **Audīte** ergō cōnsilium meum et redūcite captīvōs, quōs addūxistis dē frātribus vestrīs, quia magnus **furor** Dominī imminet vōbīs”.
 
 12 Stetērunt itaque **virī** dē prīncipibus fīliōrum Ephraim, Azariās fīlius Iohanān, Barachiās fīlius Mosollamoth, Ezechiās fīlius Sellum et Amasa fīlius Adalī, contrā eōs, quī veniēbant dē proeliō,
 
-13 et dīxērunt eīs: “ Nōn intrōdūcētis hūc captīvōs, quia ad culpam **cōram** Dominō, quae iam **est** super nōs, vultis adicere super **peccāta** **nostra** et culpam nostram. **Grandis** quippe **culpa** **est** nōbīs, et **īra** furōris Dominī super Isrāēl ”.
+13 et dīxērunt eīs: ”Nōn intrōdūcētis hūc captīvōs, quia ad culpam **cōram** Dominō, quae iam **est** super nōs, vultis adicere super **peccāta** **nostra** et culpam nostram. **Grandis** quippe **culpa** **est** nōbīs, et **īra** furōris Dominī super Isrāēl”.
 
 14 Dīmīsēruntque **virī** bellātōrēs captīvōs et **ūniversa**, quae cēperant, **cōram** prīncipibus et omnī multitūdine.
 
@@ -1277,7 +1277,7 @@ Nec erat aliquis dē stirpe Ochoziae, quī posset rēgnāre.
 
 22 Īnsuper et in tempore angustiae suae auxit contemptum in Dominum. Ipse rēx Achaz
 
-23 immolāvit dīīs Damascī victimās percussōribus **suīs** et dīxit: “ Dīī rēgum **Syriae** auxiliantur eīs; quōs ego plācābō hostiīs, et **aderunt** mihi ”, cum ē contrāriō ipsī fuerint **ruīnā** **eī** et ūniversō Isrāēl.
+23 immolāvit dīīs Damascī victimās percussōribus **suīs** et dīxit: ”Dīī rēgum **Syriae** auxiliantur eīs; quōs ego plācābō hostiīs, et **aderunt** mihi”, cum ē contrāriō ipsī fuerint **ruīnā** **eī** et ūniversō Isrāēl.
 
 24 Dīreptīs itaque Achaz omnibus **vāsīs** **domūs** Deī atque **cōnfractīs**, clausit iānuās templī Deī et fēcit sibi altāria in ūniversīs angulīs Ierusālem.
 
@@ -1297,7 +1297,7 @@ Nec erat aliquis dē stirpe Ochoziae, quī posset rēgnāre.
 
 4 Addūxitque sacerdōtēs atque Lēvītās et congregāvit eōs in **platēam** orientālem
 
-5 dīxitque ad eōs: “ **Audīte** mē, Lēvītae! Nunc sānctificāminī; **mundāte** domum Dominī, Deī patrum vestrōrum, et auferte omnem immunditiam dē sānctuāriō.
+5 dīxitque ad eōs: ”**Audīte** mē, Lēvītae! Nunc sānctificāminī; **mundāte** domum Dominī, Deī patrum vestrōrum, et auferte omnem immunditiam dē sānctuāriō.
 
 6 Peccāvērunt patrēs nostrī et fēcērunt **mālum** in cōnspectū Dominī Deī nostrī dērelinquentēs eum; āvertērunt faciēs suās ā tabernāculō Dominī et praebuērunt dorsum.
 
@@ -1309,7 +1309,7 @@ Nec erat aliquis dē stirpe Ochoziae, quī posset rēgnāre.
 
 10 Nunc igitur **placet** mihi, ut ineam foedus cum Dominō, Deō Isrāēl, et āvertat ā nōbīs furōrem īrae suae.
 
-11 Fīliī meī, nōlīte **neglegere**; vōs enim ēlēgit Dominus, ut stētis **cōram** eō et ministrētis illī **colātis**que eum et adoleātis ”.
+11 Fīliī meī, nōlīte **neglegere**; vōs enim ēlēgit Dominus, ut stētis **cōram** eō et ministrētis illī **colātis**que eum et adoleātis”.
 
 12 Surrēxērunt ergō Lēvītae, Mahath fīlius Amasāī et Ioēl fīlius Azāriae dē fīliīs Caath; porrō dē fīliīs Merārī Cīs fīlius Abdī et Azariās fīlius Iallelel; dē fīliīs autem Gersōn Ioah fīlius Zimma et **Ēden** fīlius Ioah;
 
@@ -1323,9 +1323,9 @@ Nec erat aliquis dē stirpe Ochoziae, quī posset rēgnāre.
 
 17 Coepērunt autem **prīmā** **diē** **mēnsis** prīmī sānctificāre et in **diē** **octāva** eiusdem **mēnsis** ingressī sunt porticum templī Dominī et sānctificāvērunt templum Dominī diēbus octo; et in **diē** **sextā** **decima** **mēnsis** eiusdem, quod coeperant, implēvērunt.
 
-18 Ingressī **quoque** sunt ad Ezechiam rēgem et dīxērunt **eī**: “ Mundāvimus omnem domum Dominī et altāre holocaustī vāsaque eius necnōn et mēnsam prōpositiōnis cum omnibus **vāsīs** **suīs**
+18 Ingressī **quoque** sunt ad Ezechiam rēgem et dīxērunt **eī**: ”Mundāvimus omnem domum Dominī et altāre holocaustī vāsaque eius necnōn et mēnsam prōpositiōnis cum omnibus **vāsīs** **suīs**
 
-19 cūnctamque templī supellectilem, quam remōverat rēx Achaz in rēgnō suō in praevāricātiōne **suā**, restituimus et sānctificāvimus. Ecce **exposita** sunt omnia **cōram** altārī Dominī ”.
+19 cūnctamque templī supellectilem, quam remōverat rēx Achaz in rēgnō suō in praevāricātiōne **suā**, restituimus et sānctificāvimus. Ecce **exposita** sunt omnia **cōram** altārī Dominī”.
 
 20 Cōnsurgēnsque dīlūculō Ezechiās rēx adūnāvit prīncipēs cīvitātis et ascendit domum Dominī.
 
@@ -1349,7 +1349,7 @@ Nec erat aliquis dē stirpe Ochoziae, quī posset rēgnāre.
 
 30 Praecēpitque Ezechiās et prīncipēs **Lēvītis**, ut laudārent Dominum verbīs Dāvīd et Asaph **videntis**; quī laudāvērunt eum **magna** **laetitia** et curvātō **genū** adōrāvērunt.
 
-31 Ezechiās autem etiam haec addidit: “ Nunc, **implētīs** manibus vestrīs Dominō, accēdite et afferte victimās et sacrificia prō grātiārum āctiōne in domō Dominī ”. Attulit ergō **ūniversa** multitūdō hostiās et sacrificia prō grātiārum āctiōne, et **omnis** voluntārius et prōnī animī holocausta.
+31 Ezechiās autem etiam haec addidit: ”Nunc, **implētīs** manibus vestrīs Dominō, accēdite et afferte victimās et sacrificia prō grātiārum āctiōne in domō Dominī”. Attulit ergō **ūniversa** multitūdō hostiās et sacrificia prō grātiārum āctiōne, et **omnis** voluntārius et prōnī animī holocausta.
 
 32 Porrō numerus holocaustōrum, quae attulit multitūdō, **hīc** fuit: taurōs septuāgintā, arietēs centum, **agnōs** ducentōs, in holocaustum Dominō omnia haec.
 
@@ -1375,13 +1375,13 @@ Restitūtus **est** **ita** **cultūs** **domūs** Dominī.
 
 5 et dēcrēvērunt, ut mitterent nūntiōs in ūniversum Isrāēl dē Bersabee usque **Dān**, ut venīrent et facerent **Pascha** Dominō, Deō Isrāēl, in Ierusālem; in **plūrimā** enim multitūdine nōn fēcerant, sīcut **lēge** praescrīptum **est**.
 
-6 Perrēxēruntque cursōrēs cum epistulīs ex **rēgis** manū et prīncipum eius in ūniversum Isrāēl et Iūdam, iuxtā quod rēx iusserat, praedicantēs: “ Fīliī Isrāēl, revertiminī ad Dominum, Deum Abraham et Isaac et Isrāēl, ut revertātur ad reliquiās, quae effūgērunt **manum** rēgum Assyriōrum.
+6 Perrēxēruntque cursōrēs cum epistulīs ex **rēgis** manū et prīncipum eius in ūniversum Isrāēl et Iūdam, iuxtā quod rēx iusserat, praedicantēs: ”Fīliī Isrāēl, revertiminī ad Dominum, Deum Abraham et Isaac et Isrāēl, ut revertātur ad reliquiās, quae effūgērunt **manum** rēgum Assyriōrum.
 
 7 Nōlīte fierī sīcut patrēs vestrī et frātrēs, quī recessērunt ā Dominō, Deō patrum suōrum, et trādidit eōs in interitum, ut ipsī cernitis.
 
 8 Nōlīte nunc indūrāre cervīcēs vestrās sīcut patrēs vestrī. **Trāditē** **manus** Dominō et venīte ad sānctuārium eius, quod sānctificāvit in aeternum; **servītē** Dominō Deō vestrō, ut āvertātur ā vōbīs **īra** furōris eius.
 
-9 Sī enim vōs reversī **fuerītis** ad Dominum, frātrēs vestrī et fīliī habēbunt misericordiam **cōram** dominīs **suīs**, quī illōs dūxēre captīvōs, et revertentur in terram hanc: misericors enim et clēmēns **est** Dominus Deus vester et nōn āvertet faciem suam ā vōbīs, sī reversī **fuerītis** ad eum ”.
+9 Sī enim vōs reversī **fuerītis** ad Dominum, frātrēs vestrī et fīliī habēbunt misericordiam **cōram** dominīs **suīs**, quī illōs dūxēre captīvōs, et revertentur in terram hanc: misericors enim et clēmēns **est** Dominus Deus vester et nōn āvertet faciem suam ā vōbīs, sī reversī **fuerītis** ad eum”.
 
 10 Igitur cursōrēs pergēbant dē cīvitāte in cīvitātem per terram Ephraim et Mānāsse usque **Zabulōn**, illīs irrīdentibus et subsannantibus eōs.
 
@@ -1399,9 +1399,9 @@ Restitūtus **est** **ita** **cultūs** **domūs** Dominī.
 
 17 eō quod multī in coetū sānctificātī nōn **essent**; idcircō Lēvītae mactāvērunt victimās Paschae omnibus, quī nōn erant mundī, ut sānctificārent illās Dominō.
 
-18 Valdē **magna** enim pars **populī**, dē Ephraim et Mānāsse et Issachar et **Zabulōn**, nōn erant mundātī; et comēdērunt **Pascha** nōn iuxtā, quod scrīptum **est**. Et ōrāvit prō eīs Ezē chīās dīcēns: “ Dominus bonus propitiētur
+18 Valdē **magna** enim pars **populī**, dē Ephraim et Mānāsse et Issachar et **Zabulōn**, nōn erant mundātī; et comēdērunt **Pascha** nōn iuxtā, quod scrīptum **est**. Et ōrāvit prō eīs Ezē chīās dīcēns: ”Dominus bonus propitiētur
 
-19 cūnctīs, quī dīrēxērunt cor suum, ut requīrerent Dominum, Deum patrum suōrum, quamvīs nōn secundum munditiam sānctuāriī ”.
+19 cūnctīs, quī dīrēxērunt cor suum, ut requīrerent Dominum, Deum patrum suōrum, quamvīs nōn secundum munditiam sānctuāriī”.
 
 20 Quem exaudīvit Dominus, et plācātus **est** **populō**.
 
@@ -1439,7 +1439,7 @@ Restitūtus **est** **ita** **cultūs** **domūs** Dominī.
 
 9 Interrogāvitque Ezechiās sacerdōtēs et Lēvītās, cūr **ita** **iacerent** acervī.
 
-10 Respondit illī Azāriās sacerdōs prīmus dē stirpe Sadoc dīcēns: “ Ex quō coepērunt offerre dōnātiōnem in domum Dominī, **comedimus** et saturātī sumus, et remānsērunt **plūrima**, eō quod benedīxerit Dominus **populō** suō; reliquiārum autem **cōpia** **est** **ista**, quam cernis ”.
+10 Respondit illī Azāriās sacerdōs prīmus dē stirpe Sadoc dīcēns: ”Ex quō coepērunt offerre dōnātiōnem in domum Dominī, **comedimus** et saturātī sumus, et remānsērunt **plūrima**, eō quod benedīxerit Dominus **populō** suō; reliquiārum autem **cōpia** **est** **ista**, quam cernis”.
 
 11 Praecēpit igitur Ezechiās, ut praeparārent cellās in domō Dominī. Quod cum fēcissent,
 
@@ -1471,19 +1471,19 @@ Restitūtus **est** **ita** **cultūs** **domūs** Dominī.
 
 3 initō cum prīncipibus cōnsiliō **virīs**que fortissimīs, ut obtūrārent **capita** fontium, quī erant extrā urbem, et, **hoc** omnium dēcernente **sententiā**,
 
-4 **congregāta** **est** **plūrima** multitūdō, et obtūrāvērunt cūnctōs fontēs et rīvum, quī fluēbat in **mediō** terrae, dīcentēs: “ Nē veniant **rēgēs** Assyriōrum et inveniant aquārum abundantiam! ”.
+4 **congregāta** **est** **plūrima** multitūdō, et obtūrāvērunt cūnctōs fontēs et rīvum, quī fluēbat in **mediō** terrae, dīcentēs: ”Nē veniant **rēgēs** Assyriōrum et inveniant aquārum abundantiam!”.
 
 5 Aedificāvit **quoque** agēns **industriē** omnem mūrum, quī fuerat dissipātus, et exstrūxit turrēs dēsuper et forīnsecus alterum mūrum īnstaurāvitque Mellō in cīvitāte Dāvīd et fēcit **iacula** **plūrima** et clipeōs.
 
 6 Cōnstituitque prīncipēs bellī super **populum** et convocāvit illōs ad sē in **platēā** portae cīvitātis ac **locūtus** **est** ad cor eōrum dīcēns:
 
-7 “ Virīliter agite et cōnfortāminī! Nōlīte timēre nec paveātis rēgem Assyriōrum et ūniversam multitūdinem, quae **est** cum eō. Multō enim plūrēs nōbīscum sunt quam cum illō:
+7 ”Virīliter agite et cōnfortāminī! Nōlīte timēre nec paveātis rēgem Assyriōrum et ūniversam multitūdinem, quae **est** cum eō. Multō enim plūrēs nōbīscum sunt quam cum illō:
 
-8 cum illō **est** brāchium carneum, nōbīscum autem Dominus Deus noster, quī auxiliātor **est** noster pugnatque prō nōbīs ”. Cōnfortātusque **est** **populus** huiuscemodī verbīs Ezechiae **rēgis** Iūdae.
+8 cum illō **est** brāchium carneum, nōbīscum autem Dominus Deus noster, quī auxiliātor **est** noster pugnatque prō nōbīs”. Cōnfortātusque **est** **populus** huiuscemodī verbīs Ezechiae **rēgis** Iūdae.
 
 9 Quae postquam **gesta** sunt, mīsit Sennacherib rēx Assyriōrum servōs suōs Ierusālem — ipse enim cum ūniversō **exercitū** **obsīdēbat** Lachis — ad Ezechiam rēgem Iūdae et ad omnem **populum**, quī erat in urbe, dīcēns:
 
-10 “ Haec dīcit Sennacherib rēx Assyriōrum: In quō habentēs fīdūciam **sedētis** obsessī in Ierusālem?
+10 ”Haec dīcit Sennacherib rēx Assyriōrum: In quō habentēs fīdūciam **sedētis** obsessī in Ierusālem?
 
 11 **Nōnne** Ezechiās dēcipit vōs, ut trādat mortī in famē et sitī affirmāns quod Dominus Deus vester **līberet** vōs dē manū **rēgis** Assyriōrum?
 
@@ -1493,11 +1493,11 @@ Restitūtus **est** **ita** **cultūs** **domūs** Dominī.
 
 14 **Quis** **est** dē ūniversīs dīīs gentium, quās dēlēvērunt patrēs meī, quī potuerit **ēruere** **populum** suum dē manū **meā**, ut possit etiam Deus vester **ēruere** vōs dē hāc manū?
 
-15 Nōn vōs ergō dēcipiat Ezechiās nec **vānā** persuāsiōne dēlūdat, neque crēdātis **eī**! Sī enim nūllus potuit deus cūnctārum gentium atque rēgnōrum līberāre **populum** suum dē manū **meā** et dē manū patrum meōrum, quantō minus Deus vester poterit **ēruere** vōs dē manū **meā**! ”.
+15 Nōn vōs ergō dēcipiat Ezechiās nec **vānā** persuāsiōne dēlūdat, neque crēdātis **eī**! Sī enim nūllus potuit deus cūnctārum gentium atque rēgnōrum līberāre **populum** suum dē manū **meā** et dē manū patrum meōrum, quantō minus Deus vester poterit **ēruere** vōs dē manū **meā**!”.
 
 16 Sed et **alia** **multa** locūtī sunt servī eius contrā Dominum Deum et contrā Ezechiam servum eius.
 
-17 Epistulās **quoque** scrīpsit plēnās blasphēmiae in Dominum, Deum Isrāēl, et **locūtus** **est** adversus eum: “ Sīcut dīī gentium terrārum nōn potuērunt līberāre **populōs** suōs dē manū **meā**, sīc et Deus Ezechiae **ēruere** nōn poterit **populum** suum dē manū **ista** ”.
+17 Epistulās **quoque** scrīpsit plēnās blasphēmiae in Dominum, Deum Isrāēl, et **locūtus** **est** adversus eum: ”Sīcut dīī gentium terrārum nōn potuērunt līberāre **populōs** suōs dē manū **meā**, sīc et Deus Ezechiae **ēruere** nōn poterit **populum** suum dē manū **ista**”.
 
 18 Īnsuper et clāmōre magnō, **linguā** **Iūdaicā**, ad **populum** Ierusālem, quī sedēbat in mūrō, personābant, ut terrērent et perturbārent eōs et caperent cīvitātem.
 
@@ -1539,15 +1539,15 @@ Restitūtus **est** **ita** **cultūs** **domūs** Dominī.
 
 3 Et conversus īnstaurāvit **excelsa**, quae dēmōlītus fuerat Ezechiās pater eius, cōnstrūxitque **ārās** Baalim et fēcit pālōs et adōrāvit omnem mīlitiam caelī et coluit eam.
 
-4 Aedificāvit **quoque** altāria in domō Dominī, dē **quā** dīxerat Dominus: “ In Ierusālem erit **nōmen** meum in aeternum ”.
+4 Aedificāvit **quoque** altāria in domō Dominī, dē **quā** dīxerat Dominus: ”In Ierusālem erit **nōmen** meum in aeternum”.
 
 5 Aedificāvit autem **ea** cūnctō exercituī caelī in duōbus ātriīs **domūs** Dominī.
 
 6 Trānsīreque fēcit fīliōs suōs per ignem in **valle** fīliī Ennom. Hariolātus **est**, sectābātur auguria, maleficīs artibus īnserviēbat, habēbat sēcum pȳthōnēs et aruspicēs; **multa**que **mala** operātus **est** **cōram** Dominō, ut **irrītāret** eum.
 
-7 Posuit **quoque** sculptile, īdōlum, quod fēcerat, in domō Deī, dē **quā** **locūtus** **est** Deus ad Dāvīd et ad Salomōnem fīlium eius dīcēns: “ In domō hāc et in Ierusālem, quam **elegī** dē cūnctīs tribubus Isrāēl, pōnam **nōmen** meum in sempiternum.
+7 Posuit **quoque** sculptile, īdōlum, quod fēcerat, in domō Deī, dē **quā** **locūtus** **est** Deus ad Dāvīd et ad Salomōnem fīlium eius dīcēns: ”In domō hāc et in Ierusālem, quam **elegī** dē cūnctīs tribubus Isrāēl, pōnam **nōmen** meum in sempiternum.
 
-8 Et movērī nōn faciam pedem Isrāēl dē **terrā**, quam trādidī patribus eōrum, **ita** dumtaxat sī cūstōdierint facere, quae praecēpī eīs, cūnctamque lēgem et **praecepta** atque iūdicia, per **manum** Moȳsī ”.
+8 Et movērī nōn faciam pedem Isrāēl dē **terrā**, quam trādidī patribus eōrum, **ita** dumtaxat sī cūstōdierint facere, quae praecēpī eīs, cūnctamque lēgem et **praecepta** atque iūdicia, per **manum** Moȳsī”.
 
 9 Igitur Mānāssēs sēdūxit Iūdam et habitātōrēs Ierusālem, ut facerent **mālum** super omnēs gentēs, quās subverterat Dominus ā faciē fīliōrum Isrāēl.
 
@@ -1613,23 +1613,23 @@ Restitūtus **est** **ita** **cultūs** **domūs** Dominī.
 
 14 Cumque efferrent pecūniam, quae **illāta** fuerat in templum Dominī, repperit Helcīās sacerdōs librum **lēgis** Dominī per **manum** Moysī
 
-15 et ait ad Saphān scrībam: “ Librum **lēgis** **invēnī** in domō Dominī ”. Et trādidit **eī**.
+15 et ait ad Saphān scrībam: ”Librum **lēgis** **invēnī** in domō Dominī”. Et trādidit **eī**.
 
-16 At ille intulit volūmen ad rēgem et īnsuper nūntiāvit **eī** dīcēns: “ Omnia, quae dedistī in manū servōrum tuōrum, ecce complentur.
+16 At ille intulit volūmen ad rēgem et īnsuper nūntiāvit **eī** dīcēns: ”Omnia, quae dedistī in manū servōrum tuōrum, ecce complentur.
 
-17 Argentum, quod repertum **est** in domō Dominī, effūdērunt, datum que **est** praefectīs et operāriīs ”.
+17 Argentum, quod repertum **est** in domō Dominī, effūdērunt, datum que **est** praefectīs et operāriīs”.
 
-18 Et nūntiāvit Saphan **scrība** **rēgī** dīcēns: “ Librum trādidit mihi Helcīās sacerdōs ”. Et legēbat illum Saphān **cōram** **rēge**.
+18 Et nūntiāvit Saphan **scrība** **rēgī** dīcēns: ”Librum trādidit mihi Helcīās sacerdōs”. Et legēbat illum Saphān **cōram** **rēge**.
 
 19 Et factum **est**, cum audīsset rēx verba **lēgis**, scidit vestīmenta **sua**
 
 20 et praecēpit Helciae et Ahicam fīliō Saphan et Abdōn fīliō Micha, Saphan **quoque** scrībae et Asāiae servō **rēgis** dīcēns:
 
-21 “ **Ite** et cōnsulite Dominum prō mē et prō reliquiīs Isrāēl et Iūdae super sermōnibus librī, quī **repertus** **est**. Magnus enim **furor** Dominī effūsus **est** super nōs, eō quod nōn cūstōdierint patrēs nostrī verba Dominī, ut facerent iuxtā omnia, quae **scrīpta** sunt in istō volūmine ”.
+21 ”**Ite** et cōnsulite Dominum prō mē et prō reliquiīs Isrāēl et Iūdae super sermōnibus librī, quī **repertus** **est**. Magnus enim **furor** Dominī effūsus **est** super nōs, eō quod nōn cūstōdierint patrēs nostrī verba Dominī, ut facerent iuxtā omnia, quae **scrīpta** sunt in istō volūmine”.
 
 22 Abiit igitur Helcīās et hī, quī simul ā **rēge** missī fuerant, ad Holdam prophetēn uxōrem Sellum fīliī Thecuae fīliī Haraās **cūstōdīs** vestium, quae habitābat in Ierusālem in **secundā**, et locūtī sunt **eī** iuxtā verba haec.
 
-23 Et **illa** respondit eīs: “ Haec dīcit Dominus, Deus Isrāēl: Dīcite **virō**, quī mīsit vōs ad mē:
+23 Et **illa** respondit eīs: ”Haec dīcit Dominus, Deus Isrāēl: Dīcite **virō**, quī mīsit vōs ad mē:
 
 24 Haec dīcit Dominus: Ecce ego indūcam **mala** super locum istum et super habitātōrēs eius, **cūncta** **maledicta**, quae **scrīpta** sunt in **librō** **hoc**, quem lēgērunt **cōram** **rēge** Iūdae,
 
@@ -1639,7 +1639,7 @@ Restitūtus **est** **ita** **cultūs** **domūs** Dominī.
 
 27 atque ēmollītum **est** cor tuum, et humiliātus **es** in cōnspectū Deī super hīs, quae **dicta** sunt contrā locum hunc et habitātōrēs Ierusālem, humiliātusque **cōram** mē scidistī vestīmenta **tua** et flēvistī **cōram** mē, ego **quoque** audīvī, dīcit Dominus.
 
-28 Ecce colligam tē ad patrēs tuōs, et īnferēris in sepulcrum tuum in pāce; nec vidēbunt oculī tuī omne **malum**, quod ego inductūrus sum super locum istum et super habitātōrēs eius ”.
+28 Ecce colligam tē ad patrēs tuōs, et īnferēris in sepulcrum tuum in pāce; nec vidēbunt oculī tuī omne **malum**, quod ego inductūrus sum super locum istum et super habitātōrēs eius”.
 
 Rettulēruntque itaque **rēgī** **cūncta**, quae dīxerat.
 
@@ -1659,13 +1659,13 @@ Rettulēruntque itaque **rēgī** **cūncta**, quae dīxerat.
 
 2 Et cōnstituit sacerdōtēs in officiīs **suīs** cōnfortāvitque eōs, ut ministrārent in domō Dominī.
 
-3 **Lēvītis** **quoque**, quī ērudiēbant omnem Isrāēl et cōnsecrātī erant Dominō, **locūtus** **est**: “ Pōnite arcam sānctam in templum, quod aedificāvit Salomōn fīlius Dāvīd rēx Isrāēl; nēquāquam eam **ultrā** **umerīs** portābitis. Nunc **ministrātē** Dominō Deō vestrō et **populō** eius Isrāēl.
+3 **Lēvītis** **quoque**, quī ērudiēbant omnem Isrāēl et cōnsecrātī erant Dominō, **locūtus** **est**: ”Pōnite arcam sānctam in templum, quod aedificāvit Salomōn fīlius Dāvīd rēx Isrāēl; nēquāquam eam **ultrā** **umerīs** portābitis. Nunc **ministrātē** Dominō Deō vestrō et **populō** eius Isrāēl.
 
 4 Et **praeparāte** vōs per familiās vestrās in dīvīsiōnibus singulīs, sīcut scrīpsit Dāvīd rēx Isrāēl, et dēscrīpsit Salomōn fīlius eius;
 
 5 et **ministrātē** in sānctuāriō partibus familiārum frātrum vestrōrum, fīliōrum **populī**, singulīs pars familiae Lēvītārum.
 
-6 **Mactāte** ergō **Pascha** et sānctificāminī et **praeparāte** vōs prō frātribus vestrīs, ut faciātis iuxtā verbum, quod locū tūs **est** Dominus in manū Moȳsī ”.
+6 **Mactāte** ergō **Pascha** et sānctificāminī et **praeparāte** vōs prō frātribus vestrīs, ut faciātis iuxtā verbum, quod locū tūs **est** Dominus in manū Moȳsī”.
 
 7 **Dēdit** praetereā Iosiās omnī **populō**, quī ibi **inventus** fuerat prō **Paschā**, **agnōs** et haedōs dē gregibus trīgintā **mīlia**, boumque tria **mīlia**; haec dē **rēgis** **ūniversa** **substantia**.
 
@@ -1695,11 +1695,11 @@ Rettulēruntque itaque **rēgī** **cūncta**, quae dīxerat.
 
 20 Postquam īnstaurāverat Iosīās templum, ascendit Nechaō rēx Aegyptī ad pugnandum in Charchamīs iuxtā **Euphrātēn**. Et prōcessit in occursum eius Iosiās.
 
-21 At ille, missīs ad eum nūntiīs, ait: “ Quid mihi et tibi **est**, rēx Iūdae? Nōn adversum tē hodiē veniō, sed contrā aliam pugnō domum, ad quam mē Deus festīnātō īre praecēpit. Dēsine adversum Deum facere, quī mēcum **est**, nē interficiat tē ”.
+21 At ille, missīs ad eum nūntiīs, ait: ”Quid mihi et tibi **est**, rēx Iūdae? Nōn adversum tē hodiē veniō, sed contrā aliam pugnō domum, ad quam mē Deus festīnātō īre praecēpit. Dēsine adversum Deum facere, quī mēcum **est**, nē interficiat tē”.
 
 22 Nōluit Iosīās revertī, sed audācter praeparāvit contrā eum bellum nec acquiēvit sermōnibus Nechaō ex ōre Deī; vērum perrēxit, ut dīmicāret in campō Mageddō.
 
-23 Ibique vulnerātus ā sagittāriīs dīxit puerīs **suīs**: “ Ēdūcite mē dē proeliō, quia oppidō vulnerātus sum ”.
+23 Ibique vulnerātus ā sagittāriīs dīxit puerīs **suīs**: ”Ēdūcite mē dē proeliō, quia oppidō vulnerātus sum”.
 
 24 Quī trānstulērunt eum dē currū in alterum currum eius et asportāvērunt in Ierusālem. Mortuusque **est** et sepultus in sepulcrīs patrum suōrum; et ūniversus **Iūda** et Ierusālem lūxērunt eum.
 
@@ -1755,6 +1755,6 @@ Rettulēruntque itaque **rēgī** **cūncta**, quae dīxerat.
 
 22 Annō autem prīmō Cȳrī **rēgis** Persārum ad explendum sermōnem Dominī, quem **locūtus** fuerat per **os** Iēremīae, suscitāvit Dominus spīritum Cȳrī **rēgis** Persārum, quī iussit praedicārī in ūniversō rēgnō suō etiam per scrīptūram dīcēns:
 
-23 “ Haec dīcit Cȳrus rēx Persārum: Omnia **rēgna** terrae **dēdit** mihi Dominus, Deus caelī, et ipse praecēpit mihi, ut aedificārem **eī** domum in Ierusālem, quae **est** in **Iūdaeā**. **Quis** ex vōbīs **est** dē omnī **populō** eius? Sit Dominus Deus suus cum eō, et ascendat ”.
+23 ”Haec dīcit Cȳrus rēx Persārum: Omnia **rēgna** terrae **dēdit** mihi Dominus, Deus caelī, et ipse praecēpit mihi, ut aedificārem **eī** domum in Ierusālem, quae **est** in **Iūdaeā**. **Quis** ex vōbīs **est** dē omnī **populō** eius? Sit Dominus Deus suus cum eō, et ascendat”.
 
 [moyses]: <Ambiguous Forms.md#moyses>

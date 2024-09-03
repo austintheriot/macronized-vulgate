@@ -178,11 +178,11 @@ quae in caelīs et quae in **terrā**, in ipsō;
 
 7 Ūnīcuique autem nostrum **data** **est** **grātia** secundum mēnsūram dōnātiōnis Chrīstī. 8 Propter quod dīcit:
 
-“ Ascendēns in altum captīvam dūxit captīvitātem,
+”Ascendēns in altum captīvam dūxit captīvitātem,
 
-**dedit** **dōna** hominibus ”.
+**dedit** **dōna** hominibus”.
 
-9 Illud autem “ ascendit ” quid **est**, **nisi** quia et dēscendit in īnferiōrēs partēs terrae?
+9 Illud autem ”ascendit” quid **est**, **nisi** quia et dēscendit in īnferiōrēs partēs terrae?
 
 10 Quī dēscendit, ipse **est** et quī ascendit super omnēs caelōs, ut implēret omnia.
 
@@ -258,7 +258,7 @@ quae in caelīs et quae in **terrā**, in ipsō;
 
 13 omnia autem, quae arguuntur, ā lūmine manifestantur,
 
-14 omne enim, quod manifestātur, lūmen **est**. Propter quod dīcit: “ Surge, quī dormīs, et exsurge ā mortuīs, et illūminābit tē Chrīstus ”.
+14 omne enim, quod manifestātur, lūmen **est**. Propter quod dīcit: ”Surge, quī dormīs, et exsurge ā mortuīs, et illūminābit tē Chrīstus”.
 
 15 Vidēte itaque **cautē** quōmodo ambulētis, nōn quasi īnsipientēs sed ut sapientēs,
 

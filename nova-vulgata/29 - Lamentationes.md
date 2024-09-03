@@ -112,7 +112,7 @@ nec **recordāta** **est** **fīnis** **suī**;
 
 nōn habēns cōnsōlātōrem.
 
-“ Vidē, Domine, afflīctiōnem meam, quoniam ērēctus **est** inimīcus! ”.
+”Vidē, Domine, afflīctiōnem meam, quoniam ērēctus **est** inimīcus!”.
 
 10 IOD. **Manum** suam mīsit **hostis**
 
@@ -134,7 +134,7 @@ dedērunt **pretiōsa** quaeque prō cibō
 
 ad refocillandam animam.
 
-“ Vidē, Domine, et cōnsīderā,
+”Vidē, Domine, et cōnsīderā,
 
 quoniam **facta** sum **vīlis**!
 
@@ -196,7 +196,7 @@ reficiēns animam meam;
 
 factī sunt fīliī meī dēsōlātī,
 
-quoniam invaluit inimīcus ”.
+quoniam invaluit inimīcus”.
 
 17 PHĒ. Expandit **Sīōn** **manūs** suās,
 
@@ -210,7 +210,7 @@ in circuitū eius hostēs eius:
 
 quasi **pollūtā** mēnstruīs inter eōs.
 
-18 SĀDE. “ Iūstus **est** Dominus,
+18 SĀDE. ”Iūstus **est** Dominus,
 
 quia contrā **os** eius **rebellis** fuī.
 
@@ -268,7 +268,7 @@ propter omnēs inīquitātēs meās;
 
 multī enim **gemitūs** meī,
 
-et cor meum maerēns ”.
+et cor meum maerēns”.
 
 ## 2
 
@@ -402,7 +402,7 @@ in **platēīs** oppidī.
 
 12 LAMED. Mātribus **suīs** dīxērunt:
 
-“ **Ubi** **est** trīticum et vīnum? ”,
+”**Ubi** **est** trīticum et vīnum?”,
 
 cum dēficerent quasi vulnerātī
 
@@ -440,9 +440,9 @@ sībilāvērunt et mōvērunt caput suum
 
 super fīliam Ierusālem:
 
-“ Haeccīne **est** urbs, quam vocābant perfectum **decorem**,
+”Haeccīne **est** urbs, quam vocābant perfectum **decorem**,
 
-gaudium ūniversae terrae? ”.
+gaudium ūniversae terrae?”.
 
 16 PHĒ. Aperuērunt super tē **os** suum
 
@@ -450,11 +450,11 @@ omnēs inimīcī tuī;
 
 sībilāvērunt et fremuērunt dentibus
 
-et dīxērunt: “ Dēvorāvimus;
+et dīxērunt: ”Dēvorāvimus;
 
 ēn **ista** **est** diēs, quam exspectābāmus:
 
-**invenīmus**, vīdimus ”.
+**invenīmus**, vīdimus”.
 
 17 **AIN**. Fēcit Dominus, quae cōgitāvit;
 
@@ -496,7 +496,7 @@ quī dēfēcērunt in famē
 
 in **capite** omnium compitōrum.
 
-20 RĒS. “ Vidē, Domine, et cōnsīderā,
+20 RĒS. ”Vidē, Domine, et cōnsīderā,
 
 cui **fēcerīs** **ita**;
 
@@ -530,7 +530,7 @@ quī effugeret et relinquerētur:
 
 quōs fōvī et ēnūtrīvī,
 
-inimīcus meus cōnsūmpsit eōs ”.
+inimīcus meus cōnsūmpsit eōs”.
 
 ## 3
 
@@ -602,7 +602,7 @@ dēpressit mē cinere.
 
 **oblītus** sum bonōrum.
 
-18 VAŪ. Et dīxī: “ Periit splendor meus et spēs **mea** ā Dominō ”.
+18 VAŪ. Et dīxī: ”Periit splendor meus et spēs **mea** ā Dominō”.
 
 19 ZAIN. Recordāre paupertātis et peregrīnātiōnis meae,
 
@@ -624,9 +624,9 @@ quia nōn dēfēcērunt miserātiōnēs eius.
 
 **magna** **est** **fidēs** **tua**.
 
-24 HETH. “ Pars **mea** Dominus, dīxit **anima** **mea**;
+24 HETH. ”Pars **mea** Dominus, dīxit **anima** **mea**;
 
-proptereā exspectābō eum ”.
+proptereā exspectābō eum”.
 
 25 TETH. Bonus **est** Dominus spērantibus in eum,
 
@@ -688,7 +688,7 @@ et **mala** et **bona**?
 
 vir prō **peccātīs** **suīs**?
 
-40 NUN. “ Scrūtēmur viās nostrās et quaerāmus
+40 NUN. ”Scrūtēmur viās nostrās et quaerāmus
 
 et revertāmur ad Dominum.
 
@@ -718,7 +718,7 @@ omnēs inimīcī nostrī.
 
 47 PHĒ. **Formīdō** et **fovea** **facta** **est** nōbīs,
 
-vastātiō et contrītiō ”.
+vastātiō et contrītiō”.
 
 48 PHĒ. Rīvōs aquārum dēdūcit oculus meus
 
@@ -746,19 +746,19 @@ et iēcērunt lapidēs super mē.
 
 54 SĀDE. Inundāvērunt aquae super caput meum,
 
-dīxī: “ Periī ”.
+dīxī: ”Periī”.
 
 55 COPH. Invocāvī **nōmen** tuum, Domine,
 
 dē profunditāte **lacūs**.
 
-56 COPH. **Vōcem** meam audīstī: “ Nē āvertās
+56 COPH. **Vōcem** meam audīstī: ”Nē āvertās
 
-aurem tuam ā singultū meō et clāmōribus ”.
+aurem tuam ā singultū meō et clāmōribus”.
 
 57 COPH. Appropinquāstī in **diē**, quandō invocāvī tē,
 
-dīxistī: “ Nē timeās ”.
+dīxistī: ”Nē timeās”.
 
 58 RĒS. Iūdicāstī, Domine, causam animae meae,
 
@@ -908,13 +908,13 @@ pollūtī sunt in sanguine,
 
 laciniās eōrum.
 
-15 SAMECH. “ Recēdite! Pollūtus **est** ”, clāmāvērunt eīs;
+15 SAMECH. ”Recēdite! Pollūtus **est**”, clāmāvērunt eīs;
 
-“ Recēdite, ābīte, nōlīte **tangere**! ”.
+”Recēdite, ābīte, nōlīte **tangere**!”.
 
 Cum fugerent et errārent, dīxērunt inter gentēs:
 
-“ Nōn addent **ultrā** ut incolant ”.
+”Nōn addent **ultrā** ut incolant”.
 
 16 PHĒ. Faciēs Dominī dispersit eōs,
 
@@ -936,9 +936,9 @@ ad gentem, quae salvāre nōn potest.
 
 nē īrēmus per **platēās** nostrās.
 
-“ Appropinquāvit **fīnis** noster, complētī sunt diēs nostrī,
+”Appropinquāvit **fīnis** noster, complētī sunt diēs nostrī,
 
-quia **venit** **fīnis** noster ”.
+quia **venit** **fīnis** noster”.
 
 19 COPH. Vēlōciōrēs fuērunt persecūtōrēs nostrī
 
@@ -952,9 +952,9 @@ in dēsertō īnsidiātī sunt nōbīs.
 
 **captus** **est** in foveīs eōrum,
 
-dē quō dīcēbāmus: “ Sub **umbrā** **suā**
+dē quō dīcēbāmus: ”Sub **umbrā** **suā**
 
-vīvēmus in gentibus ”.
+vīvēmus in gentibus”.
 
 21 SĪN. Gaudē et laetāre, **fīlia** Edom,
 

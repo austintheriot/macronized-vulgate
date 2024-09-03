@@ -14,25 +14,25 @@
 
 5 Cui enim dīxit aliquandō angelōrum:
 
-“ Fīlius meus **es** tū;
+”Fīlius meus **es** tū;
 
-ego hodiē genuī tē ”
+ego hodiē genuī tē”
 
-et rūrsum: “ Ego **erō** illī in patrem, et ipse erit mihi in fīlium ”?
+et rūrsum: ”Ego **erō** illī in patrem, et ipse erit mihi in fīlium”?
 
 6 Cum autem iterum intrōdūcit prīmōgenitum in orbem terrae, dīcit:
 
-“ Et adōrent eum omnēs angelī Deī ”.
+”Et adōrent eum omnēs angelī Deī”.
 
 7 Et ad angelōs quidem dīcit:
 
-“ Quī facit angelōs suōs **spīritūs**
+”Quī facit angelōs suōs **spīritūs**
 
-et ministrōs suōs flammam **ignis** ”;
+et ministrōs suōs flammam **ignis**”;
 
 8 ad Fīlium autem:
 
-“ Thronus tuus, Deus, in saeculum saeculī,
+”Thronus tuus, Deus, in saeculum saeculī,
 
 et **virga** aequitātis **virga** rēgnī tuī.
 
@@ -40,11 +40,11 @@ et **virga** aequitātis **virga** rēgnī tuī.
 
 proptereā ūnxit tē Deus, Deus tuus,
 
-oleō exsultātiōnis prae participibus tuīs ”
+oleō exsultātiōnis prae participibus tuīs”
 
 10 et:
 
-“ Tū in prīncipiō, Domine, terram fundāstī;
+”Tū in prīncipiō, Domine, terram fundāstī;
 
 et **opera** manuum tuārum sunt caelī.
 
@@ -56,13 +56,13 @@ et omnēs ut vestīmentum veterāscent,
 
 sīcut vestīmentum et mūtābuntur.
 
-Tū autem **īdem** **es**, et annī tuī nōn dēficient ”.
+Tū autem **īdem** **es**, et annī tuī nōn dēficient”.
 
 13 Ad quem autem angelōrum dīxit aliquandō:
 
-“ **Sēde** ā dextrīs meīs,
+”**Sēde** ā dextrīs meīs,
 
-dōnec pōnam inimīcōs tuōs scabellum pedum tuōrum ”?
+dōnec pōnam inimīcōs tuōs scabellum pedum tuōrum”?
 
 14 **Nōnne** omnēs sunt administrātōriī **spīritūs**, quī in ministerium mittuntur propter eōs, quī hērēditātem capient **salūtis**?
 
@@ -80,7 +80,7 @@ dōnec pōnam inimīcōs tuōs scabellum pedum tuōrum ”?
 
 6 Testātus **est** autem in quōdam locō **quis** dīcēns:
 
-“ Quid **est** homō, quod memor **es** eius,
+”Quid **est** homō, quod memor **es** eius,
 
 aut fīlius hominis, quoniam vīsitās eum?
 
@@ -88,7 +88,7 @@ aut fīlius hominis, quoniam vīsitās eum?
 
 **glōriā** et **honōre** corōnāstī eum,
 
-8 omnia subiēcistī sub pedibus eius ”.
+8 omnia subiēcistī sub pedibus eius”.
 
 In eō enim quod **eī** omnia subiēcit, nihil dīmīsit nōn subiectibile **eī**. Nunc autem necdum vidēmus omnia **subiecta** **eī**;
 
@@ -100,13 +100,13 @@ In eō enim quod **eī** omnia subiēcit, nihil dīmīsit nōn subiectibile **e�
 
 12 dīcēns:
 
-“ Nūntiābō **nōmen** tuum frātribus meīs,
+”Nūntiābō **nōmen** tuum frātribus meīs,
 
 in **mediō** ecclēsiae laudābō tē”;
 
-13 et iterum: “ Ego **erō** fīdēns in eum ”;
+13 et iterum: ”Ego **erō** fīdēns in eum”;
 
-et iterum: “ Ecce ego et puerī, quōs mihi **dedit** Deus ”.
+et iterum: ”Ecce ego et puerī, quōs mihi **dedit** Deus”.
 
 14 Quia ergō puerī commūnicāvērunt sanguinī et carnī, et ipse similiter participāvit iīsdem, ut per mortem dēstrueret eum, quī habēbat **mortis** imperium, id **est** Diabolum,
 
@@ -138,7 +138,7 @@ quae sunt ad Deum, ut repropitiāret **dēlicta** **populī**;
 
 7 Quāpropter, sīcut dīcit **Spīritus** Sānctus:
 
-“ Hodiē, sī **vōcem** eius **audierītis**,
+”Hodiē, sī **vōcem** eius **audierītis**,
 
 8 nōlīte obdūrāre **corda** **vestra** sīcut in exacerbātiōne,
 
@@ -154,19 +154,19 @@ Ipsī autem nōn cognōvērunt viās meās;
 
 11 sīcut icut iūrāvī in **īrā** **meā**:
 
-Nōn introībunt in requiem meam ”.
+Nōn introībunt in requiem meam”.
 
 12 Vidēte, frātrēs, nē forte sit in aliquō vestrum cor **malum** incrēdulitātis discēdendī ā Deō vīvō,
 
-13 sed adhortāminī vōsmetipsōs per singulōs diēs, dōnec illud “ hodiē ” vocātur, ut nōn obdūrētur **quis** ex vōbīs **fallāciā** peccātī;
+13 sed adhortāminī vōsmetipsōs per singulōs diēs, dōnec illud ”hodiē” vocātur, ut nōn obdūrētur **quis** ex vōbīs **fallāciā** peccātī;
 
 14 participēs enim Chrīstī effectī sumus, sī tamen initium substantiae usque ad fīnem firmum retineāmus,
 
 15 dum dīcitur:
 
-“ Hodiē, sī **vōcem** eius **audierītis**,
+”Hodiē, sī **vōcem** eius **audierītis**,
 
-nōlīte obdūrāre **corda** **vestra** quemadmodum in **illā** exacerbātiōne ”.
+nōlīte obdūrāre **corda** **vestra** quemadmodum in **illā** exacerbātiōne”.
 
 16 Quī sunt enim quī audientēs exacerbāvērunt? **Nōnne** ūniversī, quī **profectī** sunt ab Aegyptō per Moysēn?
 
@@ -184,23 +184,23 @@ nōlīte obdūrāre **corda** **vestra** quemadmodum in **illā** exacerbātiōn
 
 3 Ingredimur enim in requiem, quī crēdidimus, quemadmodum dīxit:
 
-“ Sīcut iūrāvī in **īrā** **meā**:
+”Sīcut iūrāvī in **īrā** **meā**:
 
-Nōn introībunt in requiem meam ”,
+Nōn introībunt in requiem meam”,
 
 et quidem operibus ab īnstitūtiōne mundī factīs.
 
-4 Dīxit enim quōdam locō dē **diē** **septimā** sīc: “Et requiēvit Deus **diē** **septimā** ab omnibus operibus **suīs** ”;
+4 Dīxit enim quōdam locō dē **diē** **septimā** sīc: “Et requiēvit Deus **diē** **septimā** ab omnibus operibus **suīs**”;
 
-5 et in istō rūrsum: “ Nōn introībunt in requiem meam ”.
+5 et in istō rūrsum: ”Nōn introībunt in requiem meam”.
 
 6 Quoniam ergō superest quōsdam introīre in illam, et hī, quibus priōribus ēvangelīzātum **est**, nōn introiērunt propter inoboedientiam,
 
-7 iterum terminat diem quendam, “ Hodiē ”, in Dāvīd dīcendō post tantum temporis, sīcut suprā dictum **est**:
+7 iterum terminat diem quendam, ”Hodiē”, in Dāvīd dīcendō post tantum temporis, sīcut suprā dictum **est**:
 
-“ Hodiē, sī **vōcem** eius **audierītis**,
+”Hodiē, sī **vōcem** eius **audierītis**,
 
-nōlīte obdūrāre **corda** **vestra** ”.
+nōlīte obdūrāre **corda** **vestra**”.
 
 8 Nam, sī eīs **Iēsus** requiem praestitisset, nōn dē aliō loquerētur posthāc **diē**.
 
@@ -232,13 +232,13 @@ nōlīte obdūrāre **corda** **vestra** ”.
 
 5 Sīc et Chrīstus nōn sēmetipsum glōrificāvit, ut pontifex fieret, sed quī **locūtus** **est** ad eum:
 
-“ Fīlius meus **es** tū;
+”Fīlius meus **es** tū;
 
-ego hodiē genuī tē ”;
+ego hodiē genuī tē”;
 
 6 quemadmodum et in aliō dīcit:
 
-“ Tū **es** sacerdōs in aeternum secundum ōrdinem Melchisedech ”.
+”Tū **es** sacerdōs in aeternum secundum ōrdinem Melchisedech”.
 
 7 Quī in diēbus **carnis** suae, precēs supplicātiōnēsque ad eum, quī possit salvum illum ā morte facere, cum clāmōre validō et lacrimīs offerēns et exaudītus prō **suā** **reverentiā**,
 
@@ -284,7 +284,7 @@ ego hodiē genuī tē ”;
 
 13 Abrahae namque prōmittēns Deus, quoniam nēminem habuit, per quem iūrāret maiōrem, iūrāvit per sēmetipsum
 
-14 dīcēns: “ Utique benedīcēns **benedicam** tē et multiplicāns multiplicābō tē ”;
+14 dīcēns: ”Utique benedīcēns **benedicam** tē et multiplicāns multiplicābō tē”;
 
 15 et sīc longanimiter ferēns adeptus **est** reprōmissiōnem.
 
@@ -334,7 +334,7 @@ ego hodiē genuī tē ”;
 
 17 testimōnium enim accipit:
 
-“ Tū **es** sacerdōs in aeternum secundum ōrdinem Melchisedech ”.
+”Tū **es** sacerdōs in aeternum secundum ōrdinem Melchisedech”.
 
 18 Reprobātiō quidem fit **praecēdentis** mandātī propter īnfirmitātem eius et inūtilitātem,
 
@@ -344,7 +344,7 @@ ego hodiē genuī tē ”;
 
 21 **hic** autem cum iūre iūrandō per eum, quī dīcit ad illum:
 
-“ Iūrāvit Dominus et nōn paenitēbit eum: Tū **es** sacerdōs in aeternum ”,
+”Iūrāvit Dominus et nōn paenitēbit eum: Tū **es** sacerdōs in aeternum”,
 
 22 in tantum et meliōris testāmentī spōnsor **factus** **est** **Iēsus**.
 
@@ -370,13 +370,13 @@ ego hodiē genuī tē ”;
 
 4 Sī ergō **esset** super terram, nec **esset** sacerdōs, cum sint quī offerant secundum lēgem **mūnera**;
 
-5 quī figūrae et umbrae dēserviunt caelestium, sīcut respōnsum **est** Moȳsī, cum cōnsummātūrus **esset** tabernāculum: “ Vidē enim, inquit, omnia faciēs secundum exemplar, quod tibi ostēnsum **est** in monte ”.
+5 quī figūrae et umbrae dēserviunt caelestium, sīcut respōnsum **est** Moȳsī, cum cōnsummātūrus **esset** tabernāculum: ”Vidē enim, inquit, omnia faciēs secundum exemplar, quod tibi ostēnsum **est** in monte”.
 
 6 Nunc autem differentius **sortītus** **est** ministerium, quantō et meliōris testāmentī mediātor **est**, quod in meliōribus reprōmissiōnibus sancitum **est**.
 
 7 Nam sī illud prius **culpa** vacāsset, nōn secundī locus inquīrerētur;
 
-8 vituperāns enim eōs dīcit: “ Ecce diēs veniunt, dīcit Dominus, et cōnsummābō super domum Isrāēl et super domum Iūdae testāmentum novum;
+8 vituperāns enim eōs dīcit: ”Ecce diēs veniunt, dīcit Dominus, et cōnsummābō super domum Isrāēl et super domum Iūdae testāmentum novum;
 
 9 nōn secundum testāmentum, quod fēcī patribus eōrum in **diē**, **quā** apprehendī **manum** illōrum, ut ēdūcerem illōs dē **terrā** Aegyptī; quoniam ipsī nōn permānsērunt in testāmentō meō, et ego neglēxī eōs, dīcit Dominus.
 
@@ -384,9 +384,9 @@ ego hodiē genuī tē ”;
 
 11 Et nōn docēbit ūnusquisque cīvem suum, et ūnusquisque frātrem suum dīcēns: “Cognōsce Dominum”; quoniam omnēs scient mē, ā minōre usque ad maiōrem eōrum,
 
-12 quia propitius **erō** inīquitātibus eōrum et peccātōrum illōrum iam nōn memorābor ”.
+12 quia propitius **erō** inīquitātibus eōrum et peccātōrum illōrum iam nōn memorābor”.
 
-13 Dīcendō “ novum ” veterāvit prius; quod autem antīquātur et senēscit, prope interitum **est**.
+13 Dīcendō ”novum” veterāvit prius; quod autem antīquātur et senēscit, prope interitum **est**.
 
 ## 9
 
@@ -428,7 +428,7 @@ ego hodiē genuī tē ”;
 
 19 ēnūntiātō enim omnī mandātō secundum lēgem ā Moyse ūniversō **populō**, accipiēns sanguinem vitulōrum et hircōrum cum **aquā** et **lānā** **coccineā** et hyssōpō, ipsum librum et omnem **populum** aspersit
 
-20 dīcēns: “ **Hic** sanguis testāmentī, quod mandāvit ad vōs Deus ”;
+20 dīcēns: ”**Hic** sanguis testāmentī, quod mandāvit ad vōs Deus”;
 
 21 etiam tabernāculum et omnia vāsa ministeriī sanguine similiter aspersit.
 
@@ -458,7 +458,7 @@ ego hodiē genuī tē ”;
 
 5 Ideō ingrediēns mundum dīcit:
 
-“ Hostiam et oblātiōnem nōluistī,
+”Hostiam et oblātiōnem nōluistī,
 
 corpus autem aptāstī mihi;
 
@@ -470,11 +470,11 @@ nōn tibi placuērunt.
 
 in capitulō librī scrīptum **est** dē mē,
 
-ut faciam, Deus, voluntātem tuam ”.
+ut faciam, Deus, voluntātem tuam”.
 
-8 Superius dīcēns: “ **Hostiās** et oblātiōnēs et holocautōmata et sacrificia prō peccātō nōluistī, nec placuērunt tibi ”, quae secundum lēgem offeruntur,
+8 Superius dīcēns: ”**Hostiās** et oblātiōnēs et holocautōmata et sacrificia prō peccātō nōluistī, nec placuērunt tibi”, quae secundum lēgem offeruntur,
 
-9 tunc dīxit: “ Ecce veniō, ut faciam voluntātem tuam ”. Aufert prīmum, ut secundum statuat;
+9 tunc dīxit: ”Ecce veniō, ut faciam voluntātem tuam”. Aufert prīmum, ut secundum statuat;
 
 10 in **quā** voluntāte sānctificātī sumus per oblātiōnem corporis Chrīstī Iēsū in semel.
 
@@ -488,9 +488,9 @@ ut faciam, Deus, voluntātem tuam ”.
 
 15 Testificātur autem nōbīs et **Spīritus** Sānctus; postquam enim dīxit:
 
-16 “ **Hoc** **est** testāmentum, quod testābor ad illōs post diēs illōs, dīcit Dominus, dandō **lēgēs** meās in cordibus eōrum, et in mente eōrum superscrībam eās;
+16 ”**Hoc** **est** testāmentum, quod testābor ad illōs post diēs illōs, dīcit Dominus, dandō **lēgēs** meās in cordibus eōrum, et in mente eōrum superscrībam eās;
 
-17 et peccātōrum eōrum et inīquitātum eōrum iam nōn recordābor amplius ”.
+17 et peccātōrum eōrum et inīquitātum eōrum iam nōn recordābor amplius”.
 
 18 **Ubi** autem hōrum remissiō, iam nōn oblātiō prō peccātō.
 
@@ -516,7 +516,7 @@ ut faciam, Deus, voluntātem tuam ”.
 
 29 quantō **dēteriōra** **putātīs** merēbitur supplicia, quī Fīlium Deī conculcāverit et sanguinem testāmentī commūnem dūxerit, in quō sānctificātus **est**, et Spīrituī grātiae contumēliam fēcerit?
 
-30 Scīmus enim eum, quī dīxit: “ Mihi **vindicta**, ego retribuam ”; et iterum: “ Iūdicābit Dominus **populum** suum ”.
+30 Scīmus enim eum, quī dīxit: ”Mihi **vindicta**, ego retribuam”; et iterum: ”Iūdicābit Dominus **populum** suum”.
 
 31 Horrendum **est** **incīdere** in **manūs** Deī **vīventis**.
 
@@ -578,7 +578,7 @@ nōn sibi **complacet** in eō **animā** **meā**.
 
 17 **Fīdē** obtulit Abraham Isaac, cum tentārētur; et ūnigenitum offerēbat ille, quī suscēperat prōmissiōnēs,
 
-18 ad quem dictum erat: “ In Isaac vocābitur tibi sēmen ”,
+18 ad quem dictum erat: ”In Isaac vocābitur tibi sēmen”,
 
 19 **arbitrātus** quia et ā mortuīs suscitāre potēns **est** Deus; unde eum et in **parabolā** reportāvit.
 
@@ -636,13 +636,13 @@ nōn sibi **complacet** in eō **animā** **meā**.
 
 5 et **oblītī** **estis** exhortātiōnis, quae vōbīs tamquam fīliīs loquitur:
 
-“ Fīlī mī, nōlī **neglegere** disciplīnam Dominī
+”Fīlī mī, nōlī **neglegere** disciplīnam Dominī
 
 neque dēficiās, dum ab eō **arguerīs**:
 
 6 quem enim dīligit, Dominus castīgat,
 
-flagellat autem omnem fīlium, quem recipit ”.
+flagellat autem omnem fīlium, quem recipit”.
 
 7 Ad disciplīnam suffertīs; tamquam fīliōs vōs tractat Deus. **Quis** enim fīlius, quem nōn corripit pater?
 
@@ -670,9 +670,9 @@ flagellat autem omnem fīlium, quem recipit ”.
 
 19 et tubae **sonum** et **vōcem** verbōrum, quam quī audiērunt, recūsāvērunt, nē **ultrā** eīs fieret verbum;
 
-20 nōn enim portābant mandātum: “ Et sī **bēstia** tetigerit montem, lapidābitur”;
+20 nōn enim portābant mandātum: ”Et sī **bēstia** tetigerit montem, lapidābitur”;
 
-21 et **ita** terribile erat, quod vidēbātur, Moȳsēs[\*][moyses] dīxit: “ Exterritus sum et tremebundus ”.
+21 et **ita** terribile erat, quod vidēbātur, Moȳsēs[\*][moyses] dīxit: ”Exterritus sum et tremebundus”.
 
 22 Sed accessistis ad **Sīōn** montem et cīvitātem Deī **vīventis**, Ierusālem caelestem, et **multa** **mīlia** angelōrum, frequentiam
 
@@ -682,9 +682,9 @@ flagellat autem omnem fīlium, quem recipit ”.
 
 25 Vidēte, nē recūsētis loquentem; sī enim illī nōn effūgērunt recūsantēs eum, quī super terram loquēbātur, multō **magis** nōs, quī dē caelīs loquentem āvertimus;
 
-26 cuius vōx mōvit terram tunc, **modo** autem prōnūntiāvit dīcēns: “ Adhūc semel ego movēbō nōn **sōlum** terram sed et caelum ”.
+26 cuius vōx mōvit terram tunc, **modo** autem prōnūntiāvit dīcēns: ”Adhūc semel ego movēbō nōn **sōlum** terram sed et caelum”.
 
-27 **Hoc** autem “ adhūc semel ” dēclārat mōbilium trānslātiōnem tamquam factōrum, ut maneant **ea**, quae sunt immōbilia.
+27 **Hoc** autem ”adhūc semel” dēclārat mōbilium trānslātiōnem tamquam factōrum, ut maneant **ea**, quae sunt immōbilia.
 
 28 Itaque, rēgnum immōbile suscipientēs, habeāmus grātiam, per quam serviāmus placentēs Deō cum **reverentiā** et metū;
 
@@ -700,11 +700,11 @@ flagellat autem omnem fīlium, quem recipit ”.
 
 4 Honōrābile cōnūbium in omnibus, et torus immaculātus; fornicātōrēs enim et adulterōs iūdicābit Deus.
 
-5 Sint mōrēs **sine** **avāritiā**; contentī praesentibus. Ipse enim dīxit: “ Nōn tē dēseram neque dērelinquam ”,
+5 Sint mōrēs **sine** **avāritiā**; contentī praesentibus. Ipse enim dīxit: ”Nōn tē dēseram neque dērelinquam”,
 
 6 **ita** ut cōnfīdenter **dicāmus**:
 
-“ Dominus mihi adiūtor **est**, nōn timēbō; quid faciet mihi homō? ”.
+”Dominus mihi adiūtor **est**, nōn timēbō; quid faciet mihi homō?”.
 
 7 Mementōte praepositōrum vestrōrum, quī vōbīs locūtī sunt verbum Deī; quōrum intuentēs exitum conversātiōnis, imitāminī fidem.
 

@@ -6,11 +6,11 @@
 
 1 Verba Ecclēsiastēs fīliī Dāvīd **rēgis** Ierusālem.”
 
-2 “ Vānitās vānitātum,
+2 ”Vānitās vānitātum,
 
 dīxit Ecclēsiastēs,
 
-vānitās vānitātum et omnia vānitās ”.
+vānitās vānitātum et omnia vānitās”.
 
 3 Quid lucrī **est** hominī
 
@@ -52,7 +52,7 @@ ipsum **est**, quod faciendum **est**:
 
 10 nihil sub **sōle** novum.
 
-Sī dē quādam rē dīcitur: “ Ecce **hoc** novum **est** ”,
+Sī dē quādam rē dīcitur: ”Ecce **hoc** novum **est**”,
 
 iam enim praecessit in saeculīs, quae fuērunt ante nōs.
 
@@ -74,7 +74,7 @@ quī futūrī sunt in novissimō.
 
 et, quod dēficiēns **est**, numerārī nōn potest.
 
-16 **Locūtus** sum ego in **corde** meō dīcēns: “ Ecce ego magnificāvī et apposuī sapientiam super omnēs, quī fuērunt ante mē in Ierusālem; et mēns **mea** **contemplāta** **est** multam sapientiam et scientiam ”.
+16 **Locūtus** sum ego in **corde** meō dīcēns: ”Ecce ego magnificāvī et apposuī sapientiam super omnēs, quī fuērunt ante mē in Ierusālem; et mēns **mea** **contemplāta** **est** multam sapientiam et scientiam”.
 
 17 **Dedī**que cor meum, ut scīrem sapientiam et scientiam, īnsipientiam et stultitiam. Et agnōvī quod in hīs **quoque** **esset** afflīctiō **spīritūs**, eō quod
 
@@ -84,11 +84,11 @@ et, quī addit scientiam, addit et labōrem.
 
 ## 2
 
-1 Dīxī ego in **corde** meō: “ **Vēnī**, tentābō tē gaudiō: **fruere** bonīs ”; et ecce **hoc** **quoque** vānitās.
+1 Dīxī ego in **corde** meō: ”**Vēnī**, tentābō tē gaudiō: **fruere** bonīs”; et ecce **hoc** **quoque** vānitās.
 
-2 Dē rīsū dīxī: “ **Īnsānia** ”
+2 Dē rīsū dīxī: ”**Īnsānia**”
 
-et dē gaudiō: “ Quid prōdest? ”.
+et dē gaudiō: ”Quid prōdest?”.
 
 3 Tractāvī in **corde** meō dētinēre in vīnō carnem meam, cum cor meum dūcerētur in **sapientiā**, et amplectī stultitiam, dōnec vidērem quid **esset** ūtile fīliīs hominum, ut faciant sub **sōle** paucīs diēbus vītae suae.
 
@@ -108,19 +108,19 @@ et dē gaudiō: “ Quid prōdest? ”.
 
 11 Cumque mē convertissem ad **ūniversa** **opera**, quae fēcerant **manūs** meae, et ad labōrēs, in quibus sūdāveram, et ecce in omnibus vānitās et afflīctiō **spīritūs**, et nihil lucrī **esse** sub **sōle**.
 
-12 Vertī mē ad contemplandam sapientiam et īnsipientiam et stultitiam: “ Quid faciet, inquam, homō, quī veniet post rēgem? Id quod anteā fēcērunt ”.
+12 Vertī mē ad contemplandam sapientiam et īnsipientiam et stultitiam: ”Quid faciet, inquam, homō, quī veniet post rēgem? Id quod anteā fēcērunt”.
 
 13 Et vīdī quod tantum praecēderet **sapientia** stultitiam, quantum lūx praecēdit tenebrās.
 
-14 “ **Sapientis** oculī in **capite** eius,
+14 ”**Sapientis** oculī in **capite** eius,
 
-stultus in tenebrīs ambulat ”;
+stultus in tenebrīs ambulat”;
 
 et didicī quod ūnus utriusque
 
 **esset** **interitus**.
 
-15 Et dīxī in **corde** meō: “ Sī ūnus et stultī et meus **occāsus** erit, quid mihi prōdest quod maiōrem sapientiae **dedī** operam? ”. **Locūtus**que cum mente **meā**, animadvertī quod **hoc** **quoque** **esset** vānitās.
+15 Et dīxī in **corde** meō: ”Sī ūnus et stultī et meus **occāsus** erit, quid mihi prōdest quod maiōrem sapientiae **dedī** operam?”. **Locūtus**que cum mente **meā**, animadvertī quod **hoc** **quoque** **esset** vānitās.
 
 16 Nōn enim erit **memoriā** **sapientis** similiter ut stultī in perpetuum; siquidem **futūra** tempora oblīviōne **cūnctā** pariter operient: moritur doctus similiter ut indoctus.
 
@@ -194,7 +194,7 @@ tempus bellī et tempus **pācis**.
 
 16 Et adhūc vīdī sub **sōle**: in locō iūdiciī ibi impietās, et in locō iūstitiae ibi inīquitās;
 
-17 et dīxī in **corde** meō: “ Iūstum et impium iūdicābit Deus, quia tempus omnī reī et omnibus occāsiō ”.
+17 et dīxī in **corde** meō: ”Iūstum et impium iūdicābit Deus, quia tempus omnī reī et omnibus occāsiō”.
 
 18 Dīxī in **corde** meō dē fīliīs hominum, ut probāret eōs Deus et ostenderet eōs in sēmetipsīs similēs **esse** bēstiīs.
 
@@ -230,7 +230,7 @@ quam **plēna** **utrāque** **manus** cum labōre et afflīctiōne **spīritus*
 
 7 Iterum repperī et aliam vānitātem sub **sōle**:
 
-8 ūnus **est** et secundum nōn habet, nōn fīlium, nōn frātrem, et tamen labōrāre nōn cessat, nec satiantur oculī eius dīvitiīs, nec recōgitat dīcēns: “ Cui labōrō et fraudō animam meam bonīs?”. In **hōc** **quoque** vānitās **est** et occupātiō **pessima**.
+8 ūnus **est** et secundum nōn habet, nōn fīlium, nōn frātrem, et tamen labōrāre nōn cessat, nec satiantur oculī eius dīvitiīs, nec recōgitat dīcēns: ”Cui labōrō et fraudō animam meam bonīs?”. In **hōc** **quoque** vānitās **est** et occupātiō **pessima**.
 
 9 **Mēlius** **est** duōs **esse** simul quam ūnum: habent enim ēmolumentum in labōre suō,
 
@@ -264,7 +264,7 @@ et in multīs sermōnibus inveniētur **stultitia**.
 
 4 Multōque melius **est** nōn **vovēre**, quam post vōtum **prōmissa** nōn **reddere**.
 
-5 Nē **dederīs** **os** tuum, ut peccāre faciat carnem tuam, neque **dicās** **cōram** angelō: “ Error fuit ”; nē forte īrātus Deus contrā sermōnēs tuōs dissipet **opera** manuum tuārum.
+5 Nē **dederīs** **os** tuum, ut peccāre faciat carnem tuam, neque **dicās** **cōram** angelō: ”Error fuit”; nē forte īrātus Deus contrā sermōnēs tuōs dissipet **opera** manuum tuārum.
 
 6 **Ubi** **multa** sunt **somnia**, plūrimae sunt vānitātēs et sermōnēs innumerī; tū vērō Deum timē.
 
@@ -314,13 +314,13 @@ nōn sinit eum dormīre.
 
 6 Etiamsī duōbus mīlibus annīs vīxerit et nōn fuerit perfruitus bonīs, **nōnne** ad ūnum locum properant omnēs?
 
-7 “ **Omnis** **labor** hominis **est** ad **os** eius,
+7 ”**Omnis** **labor** hominis **est** ad **os** eius,
 
-sed **anima** eius nōn implēbitur ”.
+sed **anima** eius nōn implēbitur”.
 
 8 Quid habet amplius sapiēns prae stultō? Et quid pauper, quī sciat ambulāre **cōram** **vīvīs**?
 
-9 “ Melior **est** oculōrum **visiō** quam **vāna** persequī dēsīderia ”; sed et **hoc** vānitās **est** et afflīctiō **spīritūs**.
+9 ”Melior **est** oculōrum **visiō** quam **vāna** persequī dēsīderia”; sed et **hoc** vānitās **est** et afflīctiō **spīritūs**.
 
 10 Quidquid **est**, iam vocātum **est** **nōmen** eius; et scītur quod homō sit et nōn possit contrā fortiōrem sē in iūdiciō **contendere**.
 
@@ -364,13 +364,13 @@ Sed et **hoc** vānitās.
 
 et mūnus cor īnsānīre facit.
 
-8 “ Melior **est** **fīnis** negōtiī quam prīncipium,
+8 ”Melior **est** **fīnis** negōtiī quam prīncipium,
 
-melior **est** patiēns arrogante ”.
+melior **est** patiēns arrogante”.
 
 9 Nē sīs vēlōx in animō ad īrāscendum, quia **īra** in sinū stultī requiēscit.
 
-10 Nē **dicās**: “Quid, putās, causae **est** quod priōra tempora **meliōra** fuēre quam nunc sunt? ”. Nōn enim ex **sapientiā** interrogās dē **hōc**.
+10 Nē **dicās**: “Quid, putās, causae **est** quod priōra tempora **meliōra** fuēre quam nunc sunt?”. Nōn enim ex **sapientiā** interrogās dē **hōc**.
 
 11 **Bona** **est** **sapientia** cum dīvitiīs et prōdest videntibus sōlem.
 
@@ -404,7 +404,7 @@ Cūr **morī** dēbeās in tempore nōn tuō?
 
 22 scit enim **cōnscientia** **tua**, quia et tū crēbrō maledīxistī aliīs.
 
-23 **Cūncta** tentāvī in **sapientiā**, dīxī: “ Sapiēns efficiar ”.
+23 **Cūncta** tentāvī in **sapientiā**, dīxī: ”Sapiēns efficiar”.
 
 24 Et **ipsa** longius recessit ā mē. **Longē** **est**, quod fuit; et **alta** **est** profunditās. **Quis** inveniet eam?
 
@@ -440,7 +440,7 @@ et dūritiēs faciēī illīus commūtātur.
 
 3 nē festīnēs **recēdere** ā faciē eius neque permaneās in rē **malā**, quia omne, quod voluerit, faciet.
 
-4 Quia sermō illīus potestāte plēnus **est**, nec **dīcere** **eī** quisquam potest: “ Quārē **ita** **facis**? ”.
+4 Quia sermō illīus potestāte plēnus **est**, nec **dīcere** **eī** quisquam potest: ”Quārē **ita** **facis**?”.
 
 5 Quī cūstōdit praeceptum, nōn experiētur quidquam **malī**; tempus et iūdicium cor **sapientis** intellegit.
 
@@ -574,7 +574,7 @@ et novissimum **ōris** illīus **īnsipientia** **mala**.
 
 14 Stultus verba multiplicat:
 
-“ Ignōrat homō quid futūrum sit;
+”Ignōrat homō quid futūrum sit;
 
 et, quid post sē futūrum sit, **quis** **eī** poterit **indicāre**?”.
 
@@ -678,7 +678,7 @@ antequam veniat tempus afflīctiōnis,
 
 et appropinquent annī, dē quibus **dicās**:
 
-“ Nōn mihi **placent** ”;
+”Nōn mihi **placent**”;
 
 2 antequam tenebrēscat
 

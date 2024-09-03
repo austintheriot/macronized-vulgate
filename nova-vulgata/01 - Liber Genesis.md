@@ -49,7 +49,7 @@
 
 21 Creāvitque Deus cētē grandia et omnem animam vīventem atque mōtābilem, quam pullulant aquae secundum speciēs suās, et omne volātile secundum genus suum. Et vīdit Deus quod esset bonum;
 
-22 benedīxitque eīs Deus dīcēns: “Crēscite et multiplicāminī et replēte aquās maris, avēsque multiplicentur super terram ”.
+22 benedīxitque eīs Deus dīcēns: “Crēscite et multiplicāminī et replēte aquās maris, avēsque multiplicentur super terram”.
 
 23 Et factum est vespere et māne, diēs quīntus.
 
@@ -859,11 +859,11 @@ Et dedit eī decimās ex omnibus.
 
 1 Hīs itaque trānsāctīs, factus est sermō Dominī ad Abram per vīsiōnem dīcēns: “Nōlī timēre, Abram! Ego prōtēctor tuus sum, et mercēs tua magna erit nimis”.
 
-2 Dīxitque Abram: “Domine Deus, quid dabis mihi? Ego vādam absque līberīs, et hērēs domūs meae erit Damascēnus Eliezer ”.
+2 Dīxitque Abram: “Domine Deus, quid dabis mihi? Ego vādam absque līberīs, et hērēs domūs meae erit Damascēnus Eliezer”.
 
 3 Addiditque Abram: “Ēn mihi nōn dedistī sēmen, et ecce vernāculus meus hērēs meus erit”.
 
-4 Sed ecce sermō Dominī factus est ad eum: “Nōn erit hic hērēs tuus, sed quī ēgrediētur dē vīsceribus tuīs, ipsum habēbis hērēdem ”.
+4 Sed ecce sermō Dominī factus est ad eum: “Nōn erit hic hērēs tuus, sed quī ēgrediētur dē vīsceribus tuīs, ipsum habēbis hērēdem”.
 
 5 Ēdūxitque eum forās et ait illī: “Suspice caelum et numerā stēllās, sī potes”. Et dīxit eī: “Sīc erit sēmen tuum”.
 
@@ -915,15 +915,15 @@ Et dedit eī decimās ex omnibus.
 
 7 Cumque invēnisset illam angelus Dominī juxtā fontem aquae in dēsertō, ad fontem in viā Sur,
 
-8 dīxit: “ Agar, ancilla Sarāī, unde venīs et quō vādis? ”. Quae respondit: “ Ā faciē Sarāī dominae meae ego fugiō ”.
+8 dīxit: ”Agar, ancilla Sarāī, unde venīs et quō vādis?”. Quae respondit: ”Ā faciē Sarāī dominae meae ego fugiō”.
 
-9 Dīxitque eī angelus Dominī: “ Revertere ad dominam tuam et humiliāre sub manibus ipsīus ”.
+9 Dīxitque eī angelus Dominī: ”Revertere ad dominam tuam et humiliāre sub manibus ipsīus”.
 
-10 Et dīxit eī angelus Dominī: “ Multiplicāns multiplicābō sēmen tuum, et nōn numerābitur prae multitūdine ”.
+10 Et dīxit eī angelus Dominī: ”Multiplicāns multiplicābō sēmen tuum, et nōn numerābitur prae multitūdine”.
 
 11 Et dīxit eī angelus Dominī:
 
-“ Ecce, concēpistī et pariēs fīlium
+”Ecce, concēpistī et pariēs fīlium
 
 vocābisque nōmen ejus Ismaēl,
 
@@ -935,9 +935,9 @@ manus ejus contrā omnēs,
 
 et manūs omnium contrā eum;
 
-et ē regiōne ūniversōrum frātrum suōrum fīget tabernācula ”.
+et ē regiōne ūniversōrum frātrum suōrum fīget tabernācula”.
 
-13 Vocāvit autem nōmen Dominī, quī loquēbātur ad eam: “ Tū Deus, quī vīdistī mē ”. Dīxit enim: “ Profectō hīc vīdī posteriōra videntis mē ”.
+13 Vocāvit autem nōmen Dominī, quī loquēbātur ad eam: ”Tū Deus, quī vīdistī mē”. Dīxit enim: ”Profectō hīc vīdī posteriōra videntis mē”.
 
 14 Proptereā appellātur puteus ille Lahairoī (id est Vīventis et Videntis mē); ipse est inter Cadēs et Barad.
 
@@ -1027,7 +1027,7 @@ et ē regiōne ūniversōrum frātrum suōrum fīget tabernācula ”.
 
 13 Dīxit autem Dominus ad Abraham: “Quārē rīsit Sarā dīcēns: "Num vērē paritūra sum anus?"”.
 
-14 Numquid Dominō est quidquam difficile? Revertar ad tē hōc eōdem tempore, et habēbit Sarā fīlium ”.
+14 Numquid Dominō est quidquam difficile? Revertar ad tē hōc eōdem tempore, et habēbit Sarā fīlium”.
 
 15 Negāvit Sarā dīcēns: “Nōn rīsī”, timōre perterrita. Ille autem dīxit: “Nōn; sed rīsistī”.
 
@@ -1061,7 +1061,7 @@ et ē regiōne ūniversōrum frātrum suōrum fīget tabernācula ”.
 
 30 “Nē, quaesō, inquit, indignētur Dominus meus, sī loquar. Sī forte ibi inventī fuerint trīgintā?”. Respondit: “Nōn faciam, sī invēnerō ibi trīgintā”.
 
-31 “Ecce, ait, coepī loquī ad Dominum meum. Sī forte inventī fuerint ibi vīgintī? ”. Dīxit: “Nōn interficiam propter vīgintī”.
+31 “Ecce, ait, coepī loquī ad Dominum meum. Sī forte inventī fuerint ibi vīgintī?”. Dīxit: “Nōn interficiam propter vīgintī”.
 
 32 “Obsecrō, inquit, nē īrāscātur Dominus meus, sī loquar adhūc semel. Sī forte inventī fuerint ibi decem?”. Dīxit: “Nōn dēlēbō propter decem”.
 
@@ -1167,11 +1167,11 @@ et ē regiōne ūniversōrum frātrum suōrum fīget tabernācula ”.
 
 10 Rūrsusque ait: “Quid vīdistī, ut hoc facerēs?”.
 
-11 Respondit Abraham: “ Cōgitāvī mēcum: Certē nōn est timor Deī in locō istō, et interficient mē propter uxōrem meam.
+11 Respondit Abraham: ”Cōgitāvī mēcum: Certē nōn est timor Deī in locō istō, et interficient mē propter uxōrem meam.
 
 12 Aliās autem et vērē soror mea est, fīlia patris meī et nōn fīlia mātris meae, et dūxī eam in uxōrem.
 
-13 Cum autem vagārī mē faceret Deus dē domō patris meī, dīxī ad eam: Hanc misericordiam faciēs mēcum: in omnī locō, ad quem ingrediēmur, dīcēs quod frāter tuus sim ”.
+13 Cum autem vagārī mē faceret Deus dē domō patris meī, dīxī ad eam: Hanc misericordiam faciēs mēcum: in omnī locō, ad quem ingrediēmur, dīcēs quod frāter tuus sim”.
 
 14 Tulit igitur Abimelech ovēs et bovēs et servōs et ancillās et dedit Abraham; reddiditque illī Saram uxōrem suam
 
@@ -1617,7 +1617,7 @@ Ob haec invidentēs eī Philisthim
 
 15 omnēs puteōs, quōs fōderant servī patris illīus in diēbus Abraham, obstrūxērunt implentēs humō,
 
-16 in tantum ut ipse Abimelech dīceret ad Isaac: “ Recēde ā nōbīs, quoniam potentior nostrī factus es valdē ”.
+16 in tantum ut ipse Abimelech dīceret ad Isaac: ”Recēde ā nōbīs, quoniam potentior nostrī factus es valdē”.
 
 17 Et ille discēdēns tentōria fīxit ad torrentem Gerarae habitāvitque ibi.
 
@@ -1625,17 +1625,17 @@ Ob haec invidentēs eī Philisthim
 
 19 Fōdērunt servī Isaac in torrente et repperērunt ibi puteum aquae vīvae.
 
-20 Sed et ibi jūrgium fuit pāstōrum Gerarae adversus pāstōrēs Isaac dīcentium: “ Nostra est aqua! ”. Quam ob rem nōmen puteī vocāvit Esec (id est Jūrgium), quia jūrgātī sunt cum eō.
+20 Sed et ibi jūrgium fuit pāstōrum Gerarae adversus pāstōrēs Isaac dīcentium: ”Nostra est aqua!”. Quam ob rem nōmen puteī vocāvit Esec (id est Jūrgium), quia jūrgātī sunt cum eō.
 
 21 Fōdērunt autem et alium puteum, et prō illō quoque rixātī sunt; appellāvitque eum Sitna (id est Inimīcitiās).
 
-22 Prōfectus inde fōdit alium puteum, prō quō nōn contendērunt; itaque vocāvit nōmen ejus Rehoboth (id est Lātitūdinem) dīcēns: “ Nunc dīlātāvit nōs Dominus, et crēscēmus in terrā ”.
+22 Prōfectus inde fōdit alium puteum, prō quō nōn contendērunt; itaque vocāvit nōmen ejus Rehoboth (id est Lātitūdinem) dīcēns: ”Nunc dīlātāvit nōs Dominus, et crēscēmus in terrā”.
 
 23 Ascendit autem ex illō locō in Bersabee,
 
 24 ubi appāruit eī Dominus in ipsā nocte dīcēns:
 
-“ Ego sum Deus Abraham patris tuī.
+”Ego sum Deus Abraham patris tuī.
 
 Nōlī timēre, quia tēcum sum;
 
@@ -1643,23 +1643,23 @@ benedīcam tibi
 
 et multiplicābō sēmen tuum
 
-propter servum meum Abraham ”.
+propter servum meum Abraham”.
 
 25 Itaque aedificāvit ibi altāre et, invocātō nōmine Dominī, extendit tabernāculum, et servī Isaac fōdērunt ibi puteum.
 
 26 Abimelech autem vēnit ad eum dē Gerāris et Ochozath amīcus illīus et Phicol dux mīlitum,
 
-27 et locūtus est eīs Isaac: “ Quid vēnistis ad mē hominem, quem ōdistis et expulistis ā vōbīs? ”.
+27 et locūtus est eīs Isaac: ”Quid vēnistis ad mē hominem, quem ōdistis et expulistis ā vōbīs?”.
 
-28 Quī respondērunt: “ Vīdimus tēcum esse Dominum et idcircō dīximus: Sit jūrāmentum inter nōs et tē, et ineāmus tēcum foedus,
+28 Quī respondērunt: ”Vīdimus tēcum esse Dominum et idcircō dīximus: Sit jūrāmentum inter nōs et tē, et ineāmus tēcum foedus,
 
-29 ut nōn faciās nōbīs quidquam malī, sīcut et nōs nōn attigimus tē et nihil fēcimus tibi nisi bonum et cum pāce dīmīsimus tē. Tū es enim benedictus Dominī ”.
+29 ut nōn faciās nōbīs quidquam malī, sīcut et nōs nōn attigimus tē et nihil fēcimus tibi nisi bonum et cum pāce dīmīsimus tē. Tū es enim benedictus Dominī”.
 
 30 Fēcit ergō eīs convīvium, et comēdērunt et bibērunt.
 
 31 Surgentēsque māne jūrāvērunt sibi mūtuō. Dīmīsitque eōs Isaac, et profectī sunt ab eō cum pāce.
 
-32 Ecce autem vēnērunt in ipsō diē servī Isaac annūntiantēs eī dē puteō, quem fōderant, atque dīcentēs: “ Invēnimus aquam ”.
+32 Ecce autem vēnērunt in ipsō diē servī Isaac annūntiantēs eī dē puteō, quem fōderant, atque dīcentēs: ”Invēnimus aquam”.
 
 33 Unde appellāvit eum Sabee (quod significat Abundantiam); et nōmen urbī impositum est Bersabeē usque in praesentem diem.
 
@@ -1669,17 +1669,17 @@ propter servum meum Abraham ”.
 
 ## 27
 
-1 Senuit autem Isaac, et cālīgāvērunt oculī ejus, et vidēre nōn poterat. Vocāvitque Esau fīlium suum majōrem et dīxit eī: “ Fīlī mī ”. Quī respondit: “ Adsum ”.
+1 Senuit autem Isaac, et cālīgāvērunt oculī ejus, et vidēre nōn poterat. Vocāvitque Esau fīlium suum majōrem et dīxit eī: ”Fīlī mī”. Quī respondit: ”Adsum”.
 
-2 Cui pater: “ Vidēs, inquit, quod senuerim et ignōrem diem mortis meae;
+2 Cui pater: ”Vidēs, inquit, quod senuerim et ignōrem diem mortis meae;
 
 3 sūme arma tua, pharetram et arcum, et ēgredere in agrum. Cumque vēnātū aliquid apprehenderīs,
 
-4 fac mihi inde pulmentum, sīcut velle mē nōstī, et affer, ut comedam; et benedīcat tibi anima mea, antequam moriar ”.
+4 fac mihi inde pulmentum, sīcut velle mē nōstī, et affer, ut comedam; et benedīcat tibi anima mea, antequam moriar”.
 
 5 Rebecca autem audierat Isaac loquentem cum Esau fīliō suō. Esau ergō abiit in agrum, ut vēnātiōnem caperet et offerret eam.
 
-6 Rebecca autem dīxit fīliō suō Jācōb: “ Ecce, audīvī patrem tuum loquentem cum Esau frātre tuō et dīcentem eī:
+6 Rebecca autem dīxit fīliō suō Jācōb: ”Ecce, audīvī patrem tuum loquentem cum Esau frātre tuō et dīcentem eī:
 
 7 "Affer mihi vēnātiōnem tuam et fac cibōs, ut comedam et benedīcam tibi cōram Dominō, antequam moriar".
 
@@ -1687,13 +1687,13 @@ propter servum meum Abraham ”.
 
 9 Pergēns ad gregem affer mihi duōs haedōs optimōs, ut faciam ex eīs escās patrī tuō, quibus libenter vēscitur.
 
-10 Quās cum intuleris patrī tuō, et comēderit, benedīcat tibi, priusquam moriātur ”.
+10 Quās cum intuleris patrī tuō, et comēderit, benedīcat tibi, priusquam moriātur”.
 
-11 Cui ille respondit: “ Nōstī quod Esau frāter meus homō pilōsus sit, et ego lēnis.
+11 Cui ille respondit: ”Nōstī quod Esau frāter meus homō pilōsus sit, et ego lēnis.
 
 12 Sī attrectāverit mē pater meus et sēnserit, timeō, nē putet mē sibi voluisse illūdere; et indūcam super mē maledictiōnem prō benedictiōne”.
 
-13 Ad quem māter: “ In mē sit, ait, ista maledictiō, fīlī mī; tantum audī vōcem meam et perge afferque, quae dīxī ”.
+13 Ad quem māter: ”In mē sit, ait, ista maledictiō, fīlī mī; tantum audī vōcem meam et perge afferque, quae dīxī”.
 
 14 Abiit et attulit deditque mātrī. Parāvit illa cibōs, sīcut nōverat velle patrem illīus.
 
@@ -1703,27 +1703,27 @@ propter servum meum Abraham ”.
 
 17 dedit pulmentum optimum et pānēs, quōs coxerat, in manūs fīliī suī Jācōb.
 
-18 Quī ingressus ad patrem suum dīxit: “ Pater mī ”. At ille respondit: “ Audiō. Quis es tū, fīlī mī? ”.
+18 Quī ingressus ad patrem suum dīxit: ”Pater mī”. At ille respondit: ”Audiō. Quis es tū, fīlī mī?”.
 
-19 Dīxitque Jācōb ad patrem suum: “ Ego sum Esau prīmōgenitus tuus. Fēcī sīcut praecēpistī mihi; surge, sēde et comede dē vēnātiōne meā, ut benedīcat mihi anima tua ”.
+19 Dīxitque Jācōb ad patrem suum: ”Ego sum Esau prīmōgenitus tuus. Fēcī sīcut praecēpistī mihi; surge, sēde et comede dē vēnātiōne meā, ut benedīcat mihi anima tua”.
 
-20 Rūrsum Isaac ad fīlium suum: “ Quōmodo, inquit, tam cito invenīre potuistī, fīlī mī? ”. Quī respondit: “ Voluntās Dominī Deī tuī fuit, ut occurreret mihi ”.
+20 Rūrsum Isaac ad fīlium suum: ”Quōmodo, inquit, tam cito invenīre potuistī, fīlī mī?”. Quī respondit: ”Voluntās Dominī Deī tuī fuit, ut occurreret mihi”.
 
-21 Dīxitque Isaac ad Jācōb: “ Accēde hūc, ut tangam tē, fīlī mī, et probem, utrum tū sīs fīlius meus Esau an nōn ”.
+21 Dīxitque Isaac ad Jācōb: ”Accēde hūc, ut tangam tē, fīlī mī, et probem, utrum tū sīs fīlius meus Esau an nōn”.
 
-22 Accessit ille ad patrem, et, palpātō eō, dīxit Isaac: “ Vōx quidem, vōx Jācōb est, sed manūs, manūs sunt Esau ”.
+22 Accessit ille ad patrem, et, palpātō eō, dīxit Isaac: ”Vōx quidem, vōx Jācōb est, sed manūs, manūs sunt Esau”.
 
 23 Et nōn cognōvit eum, quia pilōsae manūs similitūdinem majōris expresserant. Benedīxit ergō illī.
 
-24 Ait: “ Tū es fīlius meus Esau? ”. Respondit: “ Ego sum ”.
+24 Ait: ”Tū es fīlius meus Esau?”. Respondit: ”Ego sum”.
 
-25 At ille: “ Affer, inquit, mihi, et comedam dē vēnātiōne tuā, fīlī mī, ut benedīcat tibi anima mea ”. Quōs cum oblātōs comēdisset, obtulit eī etiam vīnum. Quō haustō,
+25 At ille: ”Affer, inquit, mihi, et comedam dē vēnātiōne tuā, fīlī mī, ut benedīcat tibi anima mea”. Quōs cum oblātōs comēdisset, obtulit eī etiam vīnum. Quō haustō,
 
-26 dīxit ad eum Isaac pater ejus: “ Accēde ad mē et dā mihi ōsculum, fīlī mī ”.
+26 dīxit ad eum Isaac pater ejus: ”Accēde ad mē et dā mihi ōsculum, fīlī mī”.
 
 27 Accessit et ōsculātus est eum. Statimque, ut sēnsit vestīmentōrum illīus frāgrantiam, benedīcēns illī ait:
 
-“ Ecce odor fīliī meī
+”Ecce odor fīliī meī
 
 sīcut odor agrī plēnī,
 
@@ -1745,31 +1745,31 @@ et incurventur ante tē fīliī mātris tuae.
 
 Quī maledīxerit tibi, sit maledictus;
 
-et, quī benedīxerit tibi, sit benedictus! ”.
+et, quī benedīxerit tibi, sit benedictus!”.
 
 30 Vix Isaac benedictiōnem Jācōb fīnierat, et Jācōb ēgressus erat ā patre suō Isaac, vēnit Esau frāter ejus
 
-31 coctōsque dē vēnātiōne cibōs intulit patrī dīcēns: “ Surge, pater mī, et comede dē vēnātiōne fīliī tuī, ut benedīcat mihi anima tua ”.
+31 coctōsque dē vēnātiōne cibōs intulit patrī dīcēns: ”Surge, pater mī, et comede dē vēnātiōne fīliī tuī, ut benedīcat mihi anima tua”.
 
-32 Dīxitque illī Isaac pater ejus: “ Quis enim es tū? ”. Quī respondit: “ Ego sum fīlius tuus prīmōgenitus Esau ”.
+32 Dīxitque illī Isaac pater ejus: ”Quis enim es tū?”. Quī respondit: ”Ego sum fīlius tuus prīmōgenitus Esau”.
 
-33 Expāvit Isaac stupōre vehementī ultrā modum et ait: “ Quis igitur ille est, quī dūdum captam vēnātiōnem attulit mihi, et comēdī ex omnibus, priusquam tū venīrēs? Benedīxīque eī, et erit benedictus! ”.
+33 Expāvit Isaac stupōre vehementī ultrā modum et ait: ”Quis igitur ille est, quī dūdum captam vēnātiōnem attulit mihi, et comēdī ex omnibus, priusquam tū venīrēs? Benedīxīque eī, et erit benedictus!”.
 
-34 Audītīs Esau sermōnibus patris, irrugiit clāmōre magnō et amārō ultrā modum et ait patrī suō: “ Benedīc etiam mihi, pater mī! ”.
+34 Audītīs Esau sermōnibus patris, irrugiit clāmōre magnō et amārō ultrā modum et ait patrī suō: ”Benedīc etiam mihi, pater mī!”.
 
-35 Quī ait: “ Vēnit germānus tuus fraudulenter et accēpit benedictiōnem tuam ”.
+35 Quī ait: ”Vēnit germānus tuus fraudulenter et accēpit benedictiōnem tuam”.
 
-36 At ille subjūnxit: “ Jūstē vocātum est nōmen ejus Jācōb; supplantāvit enim mē ēn alterā vice: prīmōgenita mea ante tulit et nunc secundō surripuit benedictiōnem meam ”.
+36 At ille subjūnxit: ”Jūstē vocātum est nōmen ejus Jācōb; supplantāvit enim mē ēn alterā vice: prīmōgenita mea ante tulit et nunc secundō surripuit benedictiōnem meam”.
 
-Rūrsumque ait: “ Numquid nōn reservāstī mihi benedictiōnem? ”.
+Rūrsumque ait: ”Numquid nōn reservāstī mihi benedictiōnem?”.
 
-37 Respondit Isaac: “ Ecce, dominum tuum illum cōnstituī et omnēs frātrēs ejus servitūtī illīus subjugāvī; frūmentō et vīnō stabilīvī eum. Et tibi post haec, fīlī mī, ultrā quid faciam? ”.
+37 Respondit Isaac: ”Ecce, dominum tuum illum cōnstituī et omnēs frātrēs ejus servitūtī illīus subjugāvī; frūmentō et vīnō stabilīvī eum. Et tibi post haec, fīlī mī, ultrā quid faciam?”.
 
-38 Dīxitque Esau ad patrem suum: “ Num ūnam tantum benedictiōnem habēs, pater mī? Mihi quoque obsecrō, ut benedīcās! ”. Cumque ejulātū magnō flēret,
+38 Dīxitque Esau ad patrem suum: ”Num ūnam tantum benedictiōnem habēs, pater mī? Mihi quoque obsecrō, ut benedīcās!”. Cumque ejulātū magnō flēret,
 
 39 mōtus Isaac dīxit ad eum:
 
-“ Ecce, procul ā pinguēdine terrae erit habitātiō tua
+”Ecce, procul ā pinguēdine terrae erit habitātiō tua
 
 et procul ā rōre caelī dēsuper.
 
@@ -1779,33 +1779,33 @@ et frātrī tuō serviēs.
 
 Tempusque veniet, cum excutiās
 
-et solvās jugum ejus dē cervīcibus tuīs ”.
+et solvās jugum ejus dē cervīcibus tuīs”.
 
-41 Ōderat ergō Esau Jācōb prō benedictiōne, quā benedīxerat eī pater, dīxitque in corde suō: “ Appropinquābunt diēs lūctūs patris meī, et occīdam Jācōb frātrem meum ”.
+41 Ōderat ergō Esau Jācōb prō benedictiōne, quā benedīxerat eī pater, dīxitque in corde suō: ”Appropinquābunt diēs lūctūs patris meī, et occīdam Jācōb frātrem meum”.
 
-42 Nūntiāta sunt Rebeccae verba Esau fīliī ejus majōris, quae mittēns et vocāns Jācōb fīlium suum minōrem dīxit ad eum: “ Ecce, Esau frāter tuus minātur, ut occīdat tē.
+42 Nūntiāta sunt Rebeccae verba Esau fīliī ejus majōris, quae mittēns et vocāns Jācōb fīlium suum minōrem dīxit ad eum: ”Ecce, Esau frāter tuus minātur, ut occīdat tē.
 
 43 Nunc ergō, fīlī mī, audī vōcem meam et cōnsurgēns fuge ad Labān frātrem meum in Charrān;
 
 44 habitābisque cum eō diēs paucōs, dōnec requiēscat furor frātris tuī,
 
-45 et cesset indignātiō ejus, oblīvīscāturque eōrum, quae fēcistī in eum. Posteā mittam et addūcam tē inde hūc. Cūr utrōque orbābor fīliō in ūnō diē? ”.
+45 et cesset indignātiō ejus, oblīvīscāturque eōrum, quae fēcistī in eum. Posteā mittam et addūcam tē inde hūc. Cūr utrōque orbābor fīliō in ūnō diē?”.
 
-46 Dīxit quoque Rebecca ad Isaac: “ Taedet mē vītae meae propter fīliās Heth; sī accēperit Jācōb uxōrem dē fīliābus Heth sīcut istīs dē fīliābus terrae, nōlō vīvere ”.
+46 Dīxit quoque Rebecca ad Isaac: ”Taedet mē vītae meae propter fīliās Heth; sī accēperit Jācōb uxōrem dē fīliābus Heth sīcut istīs dē fīliābus terrae, nōlō vīvere”.
 
 ## 28
 
-1 Vocāvit itaque Isaac Jācōb et benedīxit eum praecēpit que eī dīcēns: “ Nōlī accipere conjugem dē fīliābus Chanaan;
+1 Vocāvit itaque Isaac Jācōb et benedīxit eum praecēpit que eī dīcēns: ”Nōlī accipere conjugem dē fīliābus Chanaan;
 
 2 surge, vāde in Paddanaram ad domum Bathuel patris mātris tuae et accipe tibi inde uxōrem dē fīliābus Labān avunculī tuī.
 
 3 Deus autem omnipotēns benedīcat tibi et crēscere tē faciat atque multiplicet, ut sīs in multitūdinem populōrum;
 
-4 et det tibi benedictiōnēs Abraham tibi et sēminī tuō tēcum, ut possideās terram peregrīnātiōnis tuae, quam pollicitus est Deus avō tuō ”.
+4 et det tibi benedictiōnēs Abraham tibi et sēminī tuō tēcum, ut possideās terram peregrīnātiōnis tuae, quam pollicitus est Deus avō tuō”.
 
 5 Cumque dīmīsisset eum Isaac, profectus est in Paddanaram ad Labān fīlium Bathuel Aramaēī frātrem Rebeccae mātris Jācōb et Esau.
 
-6 Vidēns autem Esau quod benedīxisset pater suus Jācōb et mīsisset eum in Paddanaram, ut inde uxōrem dūceret, et quod post benedictiōnem praecēpisset eī dīcēns: “ Nōn accipiēs uxōrem dē fīliābus Chanaan ”,
+6 Vidēns autem Esau quod benedīxisset pater suus Jācōb et mīsisset eum in Paddanaram, ut inde uxōrem dūceret, et quod post benedictiōnem praecēpisset eī dīcēns: ”Nōn accipiēs uxōrem dē fīliābus Chanaan”,
 
 7 quodque oboediēns Jācōb parentibus suīs īsset in Paddanaram;
 
@@ -1819,25 +1819,25 @@ et solvās jugum ejus dē cervīcibus tuīs ”.
 
 12 Vīditque in somniō scālam stantem super terram et cacūmen illīus tangēns caelum, angelōs quoque Deī ascendentēs et dēscendentēs per eam
 
-13 et Dominum innīxum scālae dīcentem sibi: “ Ego sum Dominus, Deus Abraham patris tuī et Deus Isaac. Terram, in quā dormīs, tibi dabō et sēminī tuō.
+13 et Dominum innīxum scālae dīcentem sibi: ”Ego sum Dominus, Deus Abraham patris tuī et Deus Isaac. Terram, in quā dormīs, tibi dabō et sēminī tuō.
 
 14 Eritque sēmen tuum quasi pulvis terrae; dīlātāberis ad occidentem et orientem et septentriōnem et merīdiem; et benedīcentur in tē et in sēmine tuō cūnctae tribūs terrae.
 
-15 Et ecce, ego tēcum sum et cūstōdiam tē, quōcumque perrēxerīs, et redūcam tē in terram hanc; nec dīmittam tē, nisi complēverō quae dīxī tibi ”.
+15 Et ecce, ego tēcum sum et cūstōdiam tē, quōcumque perrēxerīs, et redūcam tē in terram hanc; nec dīmittam tē, nisi complēverō quae dīxī tibi”.
 
-16 Cumque ēvigilāsset Jācōb dē somnō, ait: “ Vērē Dominus est in locō istō, et ego nesciēbam ”.
+16 Cumque ēvigilāsset Jācōb dē somnō, ait: ”Vērē Dominus est in locō istō, et ego nesciēbam”.
 
-17 Pavēnsque: “ Quam terribilis est, inquit, locus iste! Nōn est hic aliud nisi domus Deī et porta caelī ”.
+17 Pavēnsque: ”Quam terribilis est, inquit, locus iste! Nōn est hic aliud nisi domus Deī et porta caelī”.
 
 18 Surgēns ergō Jācōb māne tulit lapidem, quem supposuerat capitī suō, et ērēxit in titulum fundēns oleum dēsuper.
 
 19 Appellāvitque nōmen locī illīus Bethel; prius autem urbs vocābātur Luza.
 
-20 Vōvit Jācōb etiam vōtum dīcēns: “ Sī fuerit Deus mēcum et cūstōdierit mē in viā hāc, per quam ambulō, et dederit mihi pānem ad vēscendum et vestīmentum ad induendum,
+20 Vōvit Jācōb etiam vōtum dīcēns: ”Sī fuerit Deus mēcum et cūstōdierit mē in viā hāc, per quam ambulō, et dederit mihi pānem ad vēscendum et vestīmentum ad induendum,
 
 21 reversusque fuerō prōsperē ad domum patris meī, erit mihi Dominus in Deum,
 
-22 et lapis iste, quem ērēxī in titulum, erit domus Deī; cūnctōrumque, quae dederis mihi, decimās offeram tibi ”.
+22 et lapis iste, quem ērēxī in titulum, erit domus Deī; cūnctōrumque, quae dederis mihi, decimās offeram tibi”.
 
 ## 29
 
@@ -1847,15 +1847,15 @@ et solvās jugum ejus dē cervīcibus tuīs ”.
 
 3 Mōrisque erat, ut, cūnctīs ovibus congregātīs, dēvolverent lapidem et, refectīs gregibus, rūrsum super ōs puteī pōnerent.
 
-4 Dīxitque ad pāstōrēs: “ Frātrēs, unde estis? ”. Quī respondērunt: “ Dē Charrān ”.
+4 Dīxitque ad pāstōrēs: ”Frātrēs, unde estis?”. Quī respondērunt: ”Dē Charrān”.
 
-5 Quōs interrogāns: “ Numquid, ait, nōstis Labān fīlium Nachor? ”. Dīxērunt: “ Nōvimus ”.
+5 Quōs interrogāns: ”Numquid, ait, nōstis Labān fīlium Nachor?”. Dīxērunt: ”Nōvimus”.
 
-6 “ Sānusne est? ”, inquit. “ Valet, inquiunt, et ecce Rachel fīlia ejus venit cum grege ”.
+6 ”Sānusne est?”, inquit. ”Valet, inquiunt, et ecce Rachel fīlia ejus venit cum grege”.
 
-7 Dīxitque: “ Adhūc multum diēī superest, nec est tempus, ut congregentur gregēs; date pōtum ovibus et sīc ad pāstum eās redūcite ”.
+7 Dīxitque: ”Adhūc multum diēī superest, nec est tempus, ut congregentur gregēs; date pōtum ovibus et sīc ad pāstum eās redūcite”.
 
-8 Quī respondērunt: “ Nōn possumus, dōnec omnia pecora congregentur et āmoveāmus lapidem dē ōre puteī, ut adaquēmus gregēs ”.
+8 Quī respondērunt: ”Nōn possumus, dōnec omnia pecora congregentur et āmoveāmus lapidem dē ōre puteī, ut adaquēmus gregēs”.
 
 9 Adhūc loquēbātur cum eīs, et ecce Rachēl veniēbat cum ovibus patris suī; nam gregem ipsa pāscēbat.
 
@@ -1867,23 +1867,23 @@ et solvās jugum ejus dē cervīcibus tuīs ”.
 
 13 Quī cum audīsset vēnisse Jācōb fīlium sorōris suae, cucurrit obviam eī; complexusque eum et in ōscula ruēns dūxit in domum suam. Audītīs autem omnibus, quae ēvēnerant,
 
-14 respondit: “ Vērē os meum es et carō mea! ”.
+14 respondit: ”Vērē os meum es et carō mea!”.
 
 Et, postquam Jācōb habitāvit apud eum per diēs mēnsis ūnīus,
 
-15 dīxit eī Labān: “ Num, quia frāter meus es, grātīs serviēs mihi? Dīc quid mercēdis accipiās ”.
+15 dīxit eī Labān: ”Num, quia frāter meus es, grātīs serviēs mihi? Dīc quid mercēdis accipiās”.
 
 16 Habēbat vērō fīliās duās: nōmen majōris Līā, minor vērō appellābātur Rachēl;
 
 17 sed Līā lippīs erat oculīs, Rachel decōra et venustō aspectū.
 
-18 Quam dīligēns Jācōb ait: “ Serviam tibi prō Rachel fīliā tuā minōre septem annīs ”.
+18 Quam dīligēns Jācōb ait: ”Serviam tibi prō Rachel fīliā tuā minōre septem annīs”.
 
-19 Respondit Labān: “ Melius est, ut tibi eam dem quam alterī virō; manē apud mē ”.
+19 Respondit Labān: ”Melius est, ut tibi eam dem quam alterī virō; manē apud mē”.
 
 20 Servīvit igitur Jācōb prō Rachel septem annīs, et vidēbantur illī paucī diēs prae amōris magnitūdine.
 
-21 Dīxitque ad Labān: “ Dā mihi uxōrem meam, quia jam tempus explētum est, ut ingrediar ad eam ”.
+21 Dīxitque ad Labān: ”Dā mihi uxōrem meam, quia jam tempus explētum est, ut ingrediar ad eam”.
 
 22 Quī, vocātīs omnibus virīs locī ad convīvium, fēcit nūptiās.
 
@@ -1893,11 +1893,11 @@ Et, postquam Jācōb habitāvit apud eum per diēs mēnsis ūnīus,
 
 Factō māne, vīdit, et ecce erat Līā.
 
-25 Et dīxit ad socerum suum: “ Quid hoc fēcistī mihi? Nōnne prō Rachel servīvī tibi? Quārē imposuistī mihi? ”.
+25 Et dīxit ad socerum suum: ”Quid hoc fēcistī mihi? Nōnne prō Rachel servīvī tibi? Quārē imposuistī mihi?”.
 
-26 Respondit Labān: “ Nōn est in locō nostrō cōnsuētūdinis, ut minōrem ante majōrem trādāmus ad nūptiās.
+26 Respondit Labān: ”Nōn est in locō nostrō cōnsuētūdinis, ut minōrem ante majōrem trādāmus ad nūptiās.
 
-27 Implē hebdomadam hanc, et alteram quoque dabō tibi prō opere, quō servītūrus es mihi septem annīs aliīs ”.
+27 Implē hebdomadam hanc, et alteram quoque dabō tibi prō opere, quō servītūrus es mihi septem annīs aliīs”.
 
 28 Acquiēvit placitō et, hebdomada trānsācta, dedit eī Labān fīliam suam Rachel uxōrem,
 
@@ -1907,83 +1907,83 @@ Factō māne, vīdit, et ecce erat Līā.
 
 31 Vidēns autem Dominus quod dēspiceret Liam, aperuit vulvam ejus, Rachel sterilī permanente.
 
-32 Et concēpit Līā et genuit fīlium vocāvitque nōmen ejus Ruben dīcēns: “ Vīdit Dominus humilitātem meam; nunc amābit mē vir meus ”.
+32 Et concēpit Līā et genuit fīlium vocāvitque nōmen ejus Ruben dīcēns: ”Vīdit Dominus humilitātem meam; nunc amābit mē vir meus”.
 
-33 Rūrsumque concēpit et peperit fīlium et ait: “ Quoniam audīvit mē Dominus habērī contemptuī, dedit etiam istum mihi ”; vocāvitque nōmen illīus Simeon.
+33 Rūrsumque concēpit et peperit fīlium et ait: ”Quoniam audīvit mē Dominus habērī contemptuī, dedit etiam istum mihi”; vocāvitque nōmen illīus Simeon.
 
-34 Concēpit tertiō et genuit alium fīlium dīxitque: “ Nunc quoque cōpulābitur mihi marītus meus, eō quod pepererim eī trēs fīliōs ”; et idcircō appellāvit nōmen ejus Levī.
+34 Concēpit tertiō et genuit alium fīlium dīxitque: ”Nunc quoque cōpulābitur mihi marītus meus, eō quod pepererim eī trēs fīliōs”; et idcircō appellāvit nōmen ejus Levī.
 
-35 Quārtō concēpit et peperit fīlium et ait: “ Modo cōnfitēbor Dominō ”; et ob hoc vocāvit eum Jūdam. Cessāvitque parere.
+35 Quārtō concēpit et peperit fīlium et ait: ”Modo cōnfitēbor Dominō”; et ob hoc vocāvit eum Jūdam. Cessāvitque parere.
 
 ## 30
 
-1 Cernēns autem Rachel quod īnfēcunda esset, invīdit sorōrī et ait marītō suō: “ Dā mihi līberōs, aliōquīn moriar ”.
+1 Cernēns autem Rachel quod īnfēcunda esset, invīdit sorōrī et ait marītō suō: ”Dā mihi līberōs, aliōquīn moriar”.
 
-2 Cui īrātus respondit Jācōb: “ Num prō Deō ego sum, quī prīvāvit tē frūctū ventris? ”.
+2 Cui īrātus respondit Jācōb: ”Num prō Deō ego sum, quī prīvāvit tē frūctū ventris?”.
 
-3 At illa: “ Ecce, inquit, famula mea Bilha; ingredere ad illam, ut pariat super genua mea, et habeam ex illā et ego fīliōs ”.
+3 At illa: ”Ecce, inquit, famula mea Bilha; ingredere ad illam, ut pariat super genua mea, et habeam ex illā et ego fīliōs”.
 
 4 deditque illī Bilham famulam suam in conjugium. Quae,
 
 5 ingressō ad sē Jācōb, concēpit et peperit fīlium.
 
-6 Dīxitque Rachēl: “ Jūdicāvit mihi Deus et exaudīvit vōcem quoque meam dāns mihi fīlium ”; et idcircō appellāvit nōmen illīus Dān.
+6 Dīxitque Rachēl: ”Jūdicāvit mihi Deus et exaudīvit vōcem quoque meam dāns mihi fīlium”; et idcircō appellāvit nōmen illīus Dān.
 
 7 Rūrsumque Bilha famula Rachel concēpit et peperit Jācōb alterum fīlium, et
 
-8 ait Rachel: “ Certāmina Deī certāvī cum sorōre meā et invaluī ”; vocāvitque eum Nephthālī.
+8 ait Rachel: ”Certāmina Deī certāvī cum sorōre meā et invaluī”; vocāvitque eum Nephthālī.
 
 9 Sentiēns Līā quod parere dēsīsset, sūmpsit Zelpham ancillam suam et trādidit eam Jācōb in uxōrem.
 
 10 Quae peperit Jācōb fīlium.
 
-11 Dīxitque Līā: “ Fēlīciter! ”; et idcircō vocāvit nōmen ejus Gad.
+11 Dīxitque Līā: ”Fēlīciter!”; et idcircō vocāvit nōmen ejus Gad.
 
 12 Peperit quoque Zelpha ancilla Liae Jācōb alterum fīlium.
 
-13 Dīxitque Līā: “ Prō beātitūdine meā! Beātam quippe mē dīcent mulierēs ”; proptereā appellāvit eum Aser.
+13 Dīxitque Līā: ”Prō beātitūdine meā! Beātam quippe mē dīcent mulierēs”; proptereā appellāvit eum Aser.
 
-14 Ēgressus autem Ruben tempore messis trīticeae, repperit in agrō mandragorās, quās Liae mātrī suae dētulit. Dīxitque Rachēl: “ Dā mihi partem dē mandragorīs fīliī tuī ”.
+14 Ēgressus autem Ruben tempore messis trīticeae, repperit in agrō mandragorās, quās Liae mātrī suae dētulit. Dīxitque Rachēl: ”Dā mihi partem dē mandragorīs fīliī tuī”.
 
-15 Illa respondit: “ Parumne tibi vidētur, quod praeripuerīs marītum mihi, ut etiam mandragorās fīliī meī auferās? ”. Ait Rachēl: “ Dormiat ergō tēcum hāc nocte prō mandragorīs fīliī tuī ”.
+15 Illa respondit: ”Parumne tibi vidētur, quod praeripuerīs marītum mihi, ut etiam mandragorās fīliī meī auferās?”. Ait Rachēl: ”Dormiat ergō tēcum hāc nocte prō mandragorīs fīliī tuī”.
 
-16 Redeuntīque ad vesperam Jācōb dē agrō ēgressa est in occursum ejus Līā et: “ Ad mē, inquit, intrābis, quia mercēde condūxī tē prō mandragorīs fīliī meī ”. Dormīvitque cum eā nocte illā.
+16 Redeuntīque ad vesperam Jācōb dē agrō ēgressa est in occursum ejus Līā et: ”Ad mē, inquit, intrābis, quia mercēde condūxī tē prō mandragorīs fīliī meī”. Dormīvitque cum eā nocte illā.
 
 17 Et exaudīvit Deus Liam, concēpitque et peperit Jācōb fīlium quīntum
 
-18 et ait: “ dedit Deus mercēdem mihi, quia dedī ancillam meam virō meō ”; appellāvitque nōmen illīus Issachar.
+18 et ait: ”dedit Deus mercēdem mihi, quia dedī ancillam meam virō meō”; appellāvitque nōmen illīus Issachar.
 
 19 Rūrsum Līā concēpit et peperit Jācōb sextum fīlium
 
-20 et ait: “ Dōnāvit mē Deus dōnō bonō; hāc vice honōrābit mē marītus meus, eō quod genuerim eī sex fīliōs ”; et idcircō appellāvit nōmen ejus Zabulōn.
+20 et ait: ”Dōnāvit mē Deus dōnō bonō; hāc vice honōrābit mē marītus meus, eō quod genuerim eī sex fīliōs”; et idcircō appellāvit nōmen ejus Zabulōn.
 
 21 Post quem peperit fīliam nōmine Dīnam.
 
 22 Recordātus quoque Deus Rachēlis exaudīvit eam Deus et aperuit vulvam illīus.
 
-23 Quae concēpit et peperit fīlium dīcēns: “ Abstulit Deus opprobrium meum ”;
+23 Quae concēpit et peperit fīlium dīcēns: ”Abstulit Deus opprobrium meum”;
 
-24 et vocāvit nōmen illīus Joseph dīcēns: “ Addat mihi Dominus fīlium alterum! ”.
+24 et vocāvit nōmen illīus Joseph dīcēns: ”Addat mihi Dominus fīlium alterum!”.
 
-25 Nātō autem Joseph, dīxit Jācōb ad Labān: “ Dīmitte mē, ut revertar in patriam et ad terram meam.
+25 Nātō autem Joseph, dīxit Jācōb ad Labān: ”Dīmitte mē, ut revertar in patriam et ad terram meam.
 
-26 Dā mihi uxōrēs et līberōs meōs, prō quibus servīvī tibi, ut abeam; tū nōstī servitūtem, quā servīvī tibi ”.
+26 Dā mihi uxōrēs et līberōs meōs, prō quibus servīvī tibi, ut abeam; tū nōstī servitūtem, quā servīvī tibi”.
 
-27 Ait illī Labān: “ Inveniam grātiam in cōnspectū tuō; auguriō didicī, quia benedīxerit mihi Deus propter tē.
+27 Ait illī Labān: ”Inveniam grātiam in cōnspectū tuō; auguriō didicī, quia benedīxerit mihi Deus propter tē.
 
-28 Cōnstitue mercēdem tuam, quam dem tibi ”.
+28 Cōnstitue mercēdem tuam, quam dem tibi”.
 
-29 At ille respondit: “ Tū nōstī quōmodo servierim tibi et quantī in manibus meīs factī sint gregēs tuī.
+29 At ille respondit: ”Tū nōstī quōmodo servierim tibi et quantī in manibus meīs factī sint gregēs tuī.
 
-30 Modicum habuistī, antequam venīrem ad tē, et nunc multiplicātum est vehementer, benedīxitque tibi Dominus ad introitum meum. Nunc autem quandō prōvidēbō etiam domuī meae? ”.
+30 Modicum habuistī, antequam venīrem ad tē, et nunc multiplicātum est vehementer, benedīxitque tibi Dominus ad introitum meum. Nunc autem quandō prōvidēbō etiam domuī meae?”.
 
-31 Dīxitque Labān: “ Quid tibi dabō? ”. At ille ait: “ Nihil mihi dabis; sī fēcerīs, quod postulō, iterum pāscam et cūstōdiam pecora tua.
+31 Dīxitque Labān: ”Quid tibi dabō?”. At ille ait: ”Nihil mihi dabis; sī fēcerīs, quod postulō, iterum pāscam et cūstōdiam pecora tua.
 
 32 Gȳrābō omnēs gregēs tuōs hodiē; sēparā cūncta pecora varia et maculōsa et, quodcumque furvum in ovibus et maculōsum variumque in caprīs fuerit, erit mercēs mea.
 
-33 Respondēbitque mihi crās jūstitia mea; quandō vēneris, ut īnspiciās mercēdem meam, omnia, quae nōn fuerint varia et maculōsa in caprīs et furva in ovibus, fūrtī mē arguent ”.
+33 Respondēbitque mihi crās jūstitia mea; quandō vēneris, ut īnspiciās mercēdem meam, omnia, quae nōn fuerint varia et maculōsa in caprīs et furva in ovibus, fūrtī mē arguent”.
 
-34 Dīxit Labān: “ Grātum habeō, quod petis! ”.
+34 Dīxit Labān: ”Grātum habeō, quod petis!”.
 
 35 Et sēparāvit in diē illō hircōs striātōs atque maculōsōs et omnēs caprās variās et maculōsās, omne, in quō album erat, et omne furvum in ovibus, et trādidit in manū fīliōrum suōrum.
 
@@ -2005,15 +2005,15 @@ Factō māne, vīdit, et ecce erat Līā.
 
 ## 31
 
-1 Postquam autem audīvit verba fīliōrum Labān dīcentium: “ Tulit Jācōb omnia, quae fuērunt patris nostrī, et dē patris nostrī facultāte acquīsīvit hās dīvitiās ”,
+1 Postquam autem audīvit verba fīliōrum Labān dīcentium: ”Tulit Jācōb omnia, quae fuērunt patris nostrī, et dē patris nostrī facultāte acquīsīvit hās dīvitiās”,
 
 2 animadvertit quoque faciem Labān quod nōn esset ergā sē sīcut heri et nūdiustertius.
 
-3 Et dīxit Dominus ad Jācōb: “ Revertere in terram patrum tuōrum et ad cognātiōnem tuam, erōque tēcum ”.
+3 Et dīxit Dominus ad Jācōb: ”Revertere in terram patrum tuōrum et ad cognātiōnem tuam, erōque tēcum”.
 
 4 Mīsit Jācōb et vocāvit Rachel et Liam in agrum, ubi pāscēbat gregēs,
 
-5 dīxitque eīs: “ Videō faciem patris vestrī quod nōn sit ergā mē sīcut heri et nūdiustertius; Deus autem patris meī fuit mēcum,
+5 dīxitque eīs: ”Videō faciem patris vestrī quod nōn sit ergā mē sīcut heri et nūdiustertius; Deus autem patris meī fuit mēcum,
 
 6 et ipsae nōstis quod tōtīs vīribus meīs servierim patrī vestrō.
 
@@ -2029,13 +2029,13 @@ Factō māne, vīdit, et ecce erat Līā.
 
 12 Quī ait: "Levā oculōs tuōs et vidē ūniversōs masculōs ascendentēs super fēminās, striātōs et variōs atque respersōs. Vīdī enim omnia, quae fēcit tibi Labān.
 
-13 Ego sum Deus Bethel, ubi ūnxistī lapidem et vōtum vōvistī mihi. Nunc ergō surge et ēgredere dē terrā hāc revertēns in terram nātīvitātis tuae" ”.
+13 Ego sum Deus Bethel, ubi ūnxistī lapidem et vōtum vōvistī mihi. Nunc ergō surge et ēgredere dē terrā hāc revertēns in terram nātīvitātis tuae"”.
 
-14 Respondērunt eī Rachēl et Līā: “ Numquid habēmus adhūc partem et hērēditātem in domō patris nostrī?
+14 Respondērunt eī Rachēl et Līā: ”Numquid habēmus adhūc partem et hērēditātem in domō patris nostrī?
 
 15 Nōnne quasi aliēnās reputāvit nōs et vēndidit nōs comēditque pretium nostrum?
 
-16 Sed omnēs opēs, quās tulit Deus patrī nostrō, nōbīs abstulit ac fīliīs nostrīs; unde omnia, quae praecēpit tibi Deus, fac ”.
+16 Sed omnēs opēs, quās tulit Deus patrī nostrō, nōbīs abstulit ac fīliīs nostrīs; unde omnia, quae praecēpit tibi Deus, fac”.
 
 17 Surrēxit itaque Jācōb et imposuit līberōs suōs ac conjugēs suās super camēlōs.
 
@@ -2055,7 +2055,7 @@ Factō māne, vīdit, et ecce erat Līā.
 
 25 Jamque Jācōb extenderat in monte tabernāculum, cum Labān, cōnsecūtus eum cum frātribus suīs, in eōdem monte Galaad fīxit tentōrium.
 
-26 Et dīxit ad Jācōb: “ Quārē ita ēgistī et dēcēpistī cor meum, abigēns fīliās meās quasi captīvās gladiō?
+26 Et dīxit ad Jācōb: ”Quārē ita ēgistī et dēcēpistī cor meum, abigēns fīliās meās quasi captīvās gladiō?
 
 27 Cūr clam fūgistī et dēcēpistī mē, nōn indicāns mihi, ut prōsequerer tē cum gaudiō et canticīs et tympanīs et citharīs?
 
@@ -2063,19 +2063,19 @@ Factō māne, vīdit, et ecce erat Līā.
 
 29 valet quidem manus mea reddere tibi malum, sed Deus patris vestrī heri dīxit mihi: “Cave, nē loquāris contrā Jācōb quidquam!”.
 
-30 Estō, profectus es, quia dēsīderiō tibi erat domus patris tuī; cūr fūrātus es deōs meōs? ”.
+30 Estō, profectus es, quia dēsīderiō tibi erat domus patris tuī; cūr fūrātus es deōs meōs?”.
 
-31 Respondit Jācōb: “ Quia timuī. Dīxī enim, nē forte violenter auferrēs fīliās tuās ā mē.
+31 Respondit Jācōb: ”Quia timuī. Dīxī enim, nē forte violenter auferrēs fīliās tuās ā mē.
 
-32 Apud quemcumque invēneris deōs tuōs, nōn vīvat! Cōram frātribus nostrīs scrūtāre, quidquid tuōrum apud mē invēnerīs, et aufer ”. Ignōrābat enim Jācōb quod Rachel fūrāta esset theraphim.
+32 Apud quemcumque invēneris deōs tuōs, nōn vīvat! Cōram frātribus nostrīs scrūtāre, quidquid tuōrum apud mē invēnerīs, et aufer”. Ignōrābat enim Jācōb quod Rachel fūrāta esset theraphim.
 
 33 Ingressus itaque Labān tabernācula Jācōb et Liae et utrīusque famulae, nōn invēnit. Ēgressus dē tentōriō Liae, intrāvit tentōrium Rachēlis.
 
 34 Illa autem absconderat theraphim in strāmentō camēlī et sēdit dēsuper. Scrūtantīque omne tentōrium et nihil invenientī
 
-35 ait: “ Nē īrāscātur dominus meus, quod cōram tē assurgere nequeō, quia juxtā cōnsuētūdinem fēminārum nunc accidit mihi ”. Quaesīvit ergō et nōn invēnit theraphim.
+35 ait: ”Nē īrāscātur dominus meus, quod cōram tē assurgere nequeō, quia juxtā cōnsuētūdinem fēminārum nunc accidit mihi”. Quaesīvit ergō et nōn invēnit theraphim.
 
-36 Tumēnsque Jācōb cum jūrgiō ait: “ Quam ob culpam meam et ob quod peccātum meum sīc persecūtus es mē,
+36 Tumēnsque Jācōb cum jūrgiō ait: ”Quam ob culpam meam et ob quod peccātum meum sīc persecūtus es mē,
 
 37 quia scrūtātus es omnem supellectilem meam? Quid invēnistī dē cūnctā substantiā domūs tuae? Pōne hīc cōram frātribus meīs et frātribus tuīs, et jūdicent inter mē et tē.
 
@@ -2087,29 +2087,29 @@ Factō māne, vīdit, et ecce erat Līā.
 
 41 Sīc per vīgintī annōs in domō tuā servīvī tibi: quattuordecim prō fīliābus et sex prō gregibus tuīs; immūtāstī quoque mercēdem meam decem vicibus.
 
-42 Nisi Deus patris meī, Deus Abraham et Timor Isaac, affuisset mihi, certemodō nūdum mē dīmīsissēs; afflīctiōnem meam et labōrem manuum meārum respexit Deus et jūdicāvit heri ”.
+42 Nisi Deus patris meī, Deus Abraham et Timor Isaac, affuisset mihi, certemodō nūdum mē dīmīsissēs; afflīctiōnem meam et labōrem manuum meārum respexit Deus et jūdicāvit heri”.
 
-43 Respondit eī Labān: “ Fīliae fīliae meae et fīliī fīliī meī et gregēs gregēs meī et omnia, quae cernis, mea sunt; et fīliābus meīs quid possum facere illīs hodiē et fīliīs eārum, quōs genuērunt?
+43 Respondit eī Labān: ”Fīliae fīliae meae et fīliī fīliī meī et gregēs gregēs meī et omnia, quae cernis, mea sunt; et fīliābus meīs quid possum facere illīs hodiē et fīliīs eārum, quōs genuērunt?
 
-44 Venī ergō, et ineāmus foedus ego et tū, ut sit in testimōnium inter mē et tē ”.
+44 Venī ergō, et ineāmus foedus ego et tū, ut sit in testimōnium inter mē et tē”.
 
 45 Tulit itaque Jācōb lapidem et ērēxit illum in titulum;
 
-46 dīxitque frātribus suīs: “ Afferte lapidēs ”. Quī congregantēs fēcērunt tumulum comēdēruntque ibi super eum.
+46 dīxitque frātribus suīs: ”Afferte lapidēs”. Quī congregantēs fēcērunt tumulum comēdēruntque ibi super eum.
 
 47 Quem vocāvit Labān Iegarsahadutha (id est Tumulus testimōniī), et Jācōb Galed (uterque juxtā proprietātem linguae suae).
 
-48 Dīxitque Labān: “ Tumulus iste testis erit inter mē et tē hodiē ”; et idcircō appellātum est nōmen ejus Galed (id est Tumulus testis)
+48 Dīxitque Labān: ”Tumulus iste testis erit inter mē et tē hodiē”; et idcircō appellātum est nōmen ejus Galed (id est Tumulus testis)
 
-49 et etiam Maspha (id est Specula), quia dīxit: “ Speculētur Dominus inter mē et tē, quandō absconditī erimus ab invicem.
+49 et etiam Maspha (id est Specula), quia dīxit: ”Speculētur Dominus inter mē et tē, quandō absconditī erimus ab invicem.
 
-50 Sī afflīxeris fīliās meās et sī intrōdūxeris uxōrēs aliās super eās, cum nēmō nōbīscum sit, vidē, Deus est testis inter mē et tē ”.
+50 Sī afflīxeris fīliās meās et sī intrōdūxeris uxōrēs aliās super eās, cum nēmō nōbīscum sit, vidē, Deus est testis inter mē et tē”.
 
-51 Dīxitque Labān ad Jācōb: “ Ēn tumulus hic et lapis, quem ērēxī inter mē et tē.
+51 Dīxitque Labān ad Jācōb: ”Ēn tumulus hic et lapis, quem ērēxī inter mē et tē.
 
 52 Testis erit tumulus iste et lapis quod ego nōn trānsībō tumulum hunc pergēns ad tē, neque tū trānsībis tumulum hunc et lapidem hunc ad malum.
 
-53 Deus Abraham et Deus Nachor jūdicent inter nōs ”.
+53 Deus Abraham et Deus Nachor jūdicent inter nōs”.
 
 Jūrāvit Jācōb per Timōrem patris suī Isaac;
 
@@ -2121,27 +2121,27 @@ Jūrāvit Jācōb per Timōrem patris suī Isaac;
 
 1 Jācōb quoque abiit itinere, quō coeperat, fuēruntque eī obviam angelī Deī.
 
-2 Quōs cum vīdisset, ait: “ Castra Deī sunt haec ”; et appellāvit nōmen locī illīus Mahanaim (id est Castra).
+2 Quōs cum vīdisset, ait: ”Castra Deī sunt haec”; et appellāvit nōmen locī illīus Mahanaim (id est Castra).
 
 3 Mīsit autem nūntiōs ante sē ad Esau frātrem suum in terram Seir, in regiōnem Edom.
 
-4 Praecēpitque eīs dīcēns: “ Sīc loquiminī dominō meō Esau: Haec dīcit servus tuus Jācōb: Apud Labān peregrīnātus sum et fuī usque in praesentem diem.
+4 Praecēpitque eīs dīcēns: ”Sīc loquiminī dominō meō Esau: Haec dīcit servus tuus Jācōb: Apud Labān peregrīnātus sum et fuī usque in praesentem diem.
 
-5 Habeō bovēs et asinōs, ovēs et servōs atque ancillās; mittōque nunc lēgātiōnem ad dominum meum, ut inveniam grātiam in cōnspectū tuō ”.
+5 Habeō bovēs et asinōs, ovēs et servōs atque ancillās; mittōque nunc lēgātiōnem ad dominum meum, ut inveniam grātiam in cōnspectū tuō”.
 
-6 Reversīque sunt nūntiī ad Jācōb dīcentēs: “ Vēnimus ad Esau frātrem tuum, et ecce properat in occursum tibi cum quadringentīs virīs ”.
+6 Reversīque sunt nūntiī ad Jācōb dīcentēs: ”Vēnimus ad Esau frātrem tuum, et ecce properat in occursum tibi cum quadringentīs virīs”.
 
 7 Timuit Jācōb valdē et perterritus dīvīsit populum, quī sēcum erat, gregēs quoque et ovēs et bovēs et camēlōs in duās turmās
 
-8 dīcēns: “ Sī vēnerit Esau ad ūnam turmam et percusserit eam, alia turma, quae reliqua est, salvābitur ”.
+8 dīcēns: ”Sī vēnerit Esau ad ūnam turmam et percusserit eam, alia turma, quae reliqua est, salvābitur”.
 
-9 Dīxitque Jācōb: “ Deus patris meī Abraham et Deus patris meī Isaac, Domine, quī dīxistī mihi: "Revertere in terram tuam et in locum nātīvitātis tuae, et benefaciam tibi",
+9 Dīxitque Jācōb: ”Deus patris meī Abraham et Deus patris meī Isaac, Domine, quī dīxistī mihi: "Revertere in terram tuam et in locum nātīvitātis tuae, et benefaciam tibi",
 
 10 minor sum cūnctīs miserātiōnibus et cūnctā vēritāte, quam explēstī servō tuō. In baculō meō trānsīvī Jordānem istum et nunc cum duābus turmīs regredior.
 
 11 Ērue mē dē manū frātris meī, dē manū Esau, quia valdē eum timeō; nē forte veniēns percutiat mātrem cum fīliīs.
 
-12 Tū locūtus es quod bene mihi facerēs et dīlātārēs sēmen meum sīcut arēnam maris, quae prae multitūdine numerārī nōn potest ”.
+12 Tū locūtus es quod bene mihi facerēs et dīlātārēs sēmen meum sīcut arēnam maris, quae prae multitūdine numerārī nōn potest”.
 
 13 Mānsit ibi nocte illā et sūmpsit dē hīs, quae habēbat, mūnera Esau frātrī suō:
 
@@ -2149,15 +2149,15 @@ Jūrāvit Jācōb per Timōrem patris suī Isaac;
 
 15 camēlōs fētās cum pullīs suīs trīgintā, vaccās quadrāgintā et taurōs decem, asinās vīgintī et pullōs eārum decem.
 
-16 Et mīsit per manūs servōrum suōrum singulōs seorsum gregēs dīxitque puerīs suīs: “ Antecēdite mē, et sit spatium inter gregem et gregem ”.
+16 Et mīsit per manūs servōrum suōrum singulōs seorsum gregēs dīxitque puerīs suīs: ”Antecēdite mē, et sit spatium inter gregem et gregem”.
 
-17 Et praecēpit priōrī dīcēns: “ Sī obvium habueris Esau frātrem meum, et interrogāverit tē: "Cujus es?" et "Quō vādis?" et "Cujus sunt ista, quae sequeris?",
+17 Et praecēpit priōrī dīcēns: ”Sī obvium habueris Esau frātrem meum, et interrogāverit tē: "Cujus es?" et "Quō vādis?" et "Cujus sunt ista, quae sequeris?",
 
-18 respondēbis: Servī tuī Jācōb; mūnera mīsit dominō meō Esau. Ipse quoque post nōs venit ”.
+18 respondēbis: Servī tuī Jācōb; mūnera mīsit dominō meō Esau. Ipse quoque post nōs venit”.
 
-19 Similiter mandāta dedit secundō ac tertiō et cūnctīs, quī sequēbantur gregēs, dīcēns: “ Iīsdem verbīs loquiminī ad Esau, cum invēnerītis eum,
+19 Similiter mandāta dedit secundō ac tertiō et cūnctīs, quī sequēbantur gregēs, dīcēns: ”Iīsdem verbīs loquiminī ad Esau, cum invēnerītis eum,
 
-20 et addētis: Ipse quoque servus tuus Jācōb iter nostrum īnsequitur. Dīxit enim: Plācābō illum mūneribus, quae praecēdunt, et posteā vidēbō faciem ejus: forsitan propitiābitur mihi ”.
+20 et addētis: Ipse quoque servus tuus Jācōb iter nostrum īnsequitur. Dīxit enim: Plācābō illum mūneribus, quae praecēdunt, et posteā vidēbō faciem ejus: forsitan propitiābitur mihi”.
 
 21 Praecessērunt itaque mūnera ante eum, ipse vērō mānsit nocte illa in castrīs.
 
@@ -2171,15 +2171,15 @@ Et ecce vir luctābātur cum eō usque māne.
 
 25 Quī cum vidēret quod eum superāre nōn posset, tetigit acētābulum femoris ejus, et statim luxātum est acētābulum femoris Jācōb, cum luctārētur cum illō.
 
-26 Dīxitque: “ Dīmitte mē, jam enim ascendit aurōra ”. Respondit: “ Nōn dīmittam tē, nisi benedīxeris mihi ”.
+26 Dīxitque: ”Dīmitte mē, jam enim ascendit aurōra”. Respondit: ”Nōn dīmittam tē, nisi benedīxeris mihi”.
 
-27 Ait ad eum: “ Quod nōmen est tibi? ”. Respondit: “ Jācōb ”.
+27 Ait ad eum: ”Quod nōmen est tibi?”. Respondit: ”Jācōb”.
 
-28 At ille: “ Nēquāquam, inquit, Jācōb amplius appellābitur nōmen tuum, sed Isrāēl: quoniam certāstī cum Deō et cum hominibus et praevaluistī! ”.
+28 At ille: ”Nēquāquam, inquit, Jācōb amplius appellābitur nōmen tuum, sed Isrāēl: quoniam certāstī cum Deō et cum hominibus et praevaluistī!”.
 
-29 Interrogāvit eum Jācōb: “ Dīc mihi, quō appellāris nōmine? ”. Respondit: “ Cūr quaeris nōmen meum? ”. Et benedīxit eī in eōdem locō.
+29 Interrogāvit eum Jācōb: ”Dīc mihi, quō appellāris nōmine?”. Respondit: ”Cūr quaeris nōmen meum?”. Et benedīxit eī in eōdem locō.
 
-30 Vocāvitque Jācōb nōmen locī illīus Phanuēl dīcēns: “ Vīdī Deum faciē ad faciem, et salva facta est anima mea ”.
+30 Vocāvitque Jācōb nōmen locī illīus Phanuēl dīcēns: ”Vīdī Deum faciē ad faciem, et salva facta est anima mea”.
 
 31 Ortusque est eī sōl, cum trānsgrederētur Phanuēl; ipse vērō claudicābat propter femur.
 
@@ -2195,29 +2195,29 @@ Et ecce vir luctābātur cum eō usque māne.
 
 4 Currēns itaque Esau obviam frātrī suō amplexātus est eum; stringēnsque collum ejus ōsculātus est eum, et flēvērunt.
 
-5 Levātīsque oculīs, vīdit mulierēs et līberōs eārum et ait: “ Quī sunt istī tibi? ”. Respondit: “ Līberī sunt, quōs dōnāvit mihi Deus servō tuō ”.
+5 Levātīsque oculīs, vīdit mulierēs et līberōs eārum et ait: ”Quī sunt istī tibi?”. Respondit: ”Līberī sunt, quōs dōnāvit mihi Deus servō tuō”.
 
 6 Et appropinquantēs ancillae et fīliī eārum incurvātī sunt.
 
 7 Accessit quoque Līā cum līberīs suīs et, cum similiter adōrāssent, extrēmī Joseph et Rachel adōrāvērunt.
 
-8 “ Quaenam sunt, inquit, istae turmae, quās obviās habuī? ”. Respondit: “ Ut invenīrem grātiam cōram dominō meō ”.
+8 ”Quaenam sunt, inquit, istae turmae, quās obviās habuī?”. Respondit: ”Ut invenīrem grātiam cōram dominō meō”.
 
-9 At ille: “ Habeō, ait, plūrima, frāter mī; sint tua tibi ”.
+9 At ille: ”Habeō, ait, plūrima, frāter mī; sint tua tibi”.
 
-10 Dīxit Jācōb: “ Nōlī ita, obsecrō; sed, sī invēnī grātiam in oculīs tuīs, accipe mūnusculum dē manibus meīs; sīc enim vīdī faciem tuam quasi vīderim vultum Deī, et mihi propitius fuistī.
+10 Dīxit Jācōb: ”Nōlī ita, obsecrō; sed, sī invēnī grātiam in oculīs tuīs, accipe mūnusculum dē manibus meīs; sīc enim vīdī faciem tuam quasi vīderim vultum Deī, et mihi propitius fuistī.
 
-11 Suscipe, quaesō, benedictiōnem, quae allāta est tibi; quia Deus misertus est mihi, et habeō omnia ”.
+11 Suscipe, quaesō, benedictiōnem, quae allāta est tibi; quia Deus misertus est mihi, et habeō omnia”.
 
 Et, cum compelleret illum, suscēpit
 
-12 et ait: “ Gradiāmur simul, erōque socius itineris tuī ”.
+12 et ait: ”Gradiāmur simul, erōque socius itineris tuī”.
 
-13 Dīxit Jācōb: “ Nōstī, domine mī, quod parvulōs habeam tenerōs et ovēs et bovēs fētās mēcum; quās sī plūs in ambulandō fēcerō labōrāre vel ūnā diē, morientur cūnctī gregēs.
+13 Dīxit Jācōb: ”Nōstī, domine mī, quod parvulōs habeam tenerōs et ovēs et bovēs fētās mēcum; quās sī plūs in ambulandō fēcerō labōrāre vel ūnā diē, morientur cūnctī gregēs.
 
-14 Praecēdat dominus meus ante servum suum; et ego sequar paulātim secundum gressum pecorum ante mē et secundum gressum parvulōrum, dōnec veniam ad dominum meum in Seir ”.
+14 Praecēdat dominus meus ante servum suum; et ego sequar paulātim secundum gressum pecorum ante mē et secundum gressum parvulōrum, dōnec veniam ad dominum meum in Seir”.
 
-15 Respondit Esau: “ Ōrō tē, ut dē populō, quī mēcum est, saltem sociī remaneant viae tuae”. “ Nōn est, inquit, necesse; hōc ūnō indigeō, ut inveniam grātiam in cōnspectū dominī meī ”.
+15 Respondit Esau: ”Ōrō tē, ut dē populō, quī mēcum est, saltem sociī remaneant viae tuae”. ”Nōn est, inquit, necesse; hōc ūnō indigeō, ut inveniam grātiam in cōnspectū dominī meī”.
 
 16 Reversus est itaque illō diē Esau itinere suō in Seir.
 
@@ -2227,7 +2227,7 @@ Et, cum compelleret illum, suscēpit
 
 19 Ēmitque partem agrī, in quā fīxerat tabernāculum suum, ā fīliīs Hemmor patris Sichem centum argenteīs.
 
-20 Et ērēxit ibi altāre et vocāvit illud: “ Deus est Deus Isrāēl ”.
+20 Et ērēxit ibi altāre et vocāvit illud: ”Deus est Deus Isrāēl”.
 
 ## 34
 
@@ -2237,7 +2237,7 @@ Et, cum compelleret illum, suscēpit
 
 3 Et conglūtināta est anima ejus cum eā, et amāvit puellam et locūtus est ad cor ejus.
 
-4 Dīxitque ad Hemmor patrem suum: “ Accipe mihi puellam hanc conjugem ”.
+4 Dīxitque ad Hemmor patrem suum: ”Accipe mihi puellam hanc conjugem”.
 
 5 Cum audīsset Jācōb quod violāsset Dīnam fīliam suam, absentibus fīliīs et in pāstū pecorum occupātīs, siluit, dōnec redīrent.
 
@@ -2245,25 +2245,25 @@ Et, cum compelleret illum, suscēpit
 
 7 ecce fīliī Jācōb veniēbant dē agrō, audītōque, quod acciderat, contrīstātī et īrātī sunt valdē, eō quod foedam rem esset operātus in Isrāēl et, violātā fīliā Jācōb, rem illicitam perpetrāsset.
 
-8 Locūtus est itaque Hemmor ad eōs: “ Sichem fīliī meī adhaesit anima fīliae vestrae; date eam illī uxōrem,
+8 Locūtus est itaque Hemmor ad eōs: ”Sichem fīliī meī adhaesit anima fīliae vestrae; date eam illī uxōrem,
 
 9 et jungāmus vicissim cōnūbia: fīliās vestrās trādite nōbīs et fīliās nostrās accipite vōbīs.
 
-10 Et habitāte nōbīscum; terra in potestāte vestrā est: manēte, perambulāte et possidēte eam ”.
+10 Et habitāte nōbīscum; terra in potestāte vestrā est: manēte, perambulāte et possidēte eam”.
 
-11 Sed et Sichem ad patrem et ad frātrēs ejus ait: “ Inveniam grātiam cōram vōbīs et, quaecumque statueritis, dabō.
+11 Sed et Sichem ad patrem et ad frātrēs ejus ait: ”Inveniam grātiam cōram vōbīs et, quaecumque statueritis, dabō.
 
-12 Augēte mihi valdē dōtem et mūnera; libēns tribuam, quod petieritis. Tantum date mihi puellam hanc uxōrem ”.
+12 Augēte mihi valdē dōtem et mūnera; libēns tribuam, quod petieritis. Tantum date mihi puellam hanc uxōrem”.
 
 13 Respondērunt fīliī Jācōb Sichem et Hemmor patrī ejus in dolō ob stuprum sorōris:
 
-14 “ Nōn possumus facere, quod petitis, dare sorōrem nostram hominī incircumcīsō, opprobrium enim esset nōbīs.
+14 ”Nōn possumus facere, quod petitis, dare sorōrem nostram hominī incircumcīsō, opprobrium enim esset nōbīs.
 
 15 In hōc tantum valēbimus acquiēscere vōbīs: sī esse volueritis similēs nostrī, circumcīdātur in vōbīs omne masculīnī sexūs;
 
 16 tunc dabimus et accipiēmus mūtuō fīliās nostrās ac vestrās et habitābimus vōbīscum erimusque ūnus populus.
 
-17 Sī autem circumcīdī nōlueritis, tollēmus fīliam nostram et recēdēmus ”.
+17 Sī autem circumcīdī nōlueritis, tollēmus fīliam nostram et recēdēmus”.
 
 18 Placuit oblātiō eōrum Hemmor et Sichem fīliō ejus,
 
@@ -2271,11 +2271,11 @@ Et, cum compelleret illum, suscēpit
 
 20 Ingressīque portam urbis, Hemmor et Sichem fīlius ejus locūtī sunt ad virōs cīvitātis suae:
 
-21 “ Virī istī pācificī sunt ergā nōs; maneant in terrā et perambulent eam, quae spatiōsa et lāta est eīs; fīliās eōrum accipiēmus uxōrēs et nostrās illīs dabimus.
+21 ”Virī istī pācificī sunt ergā nōs; maneant in terrā et perambulent eam, quae spatiōsa et lāta est eīs; fīliās eōrum accipiēmus uxōrēs et nostrās illīs dabimus.
 
 22 Tantum in hōc valēbunt virī acquiēscere nōbīs, ut maneant nōbīscum et efficiāmur ūnus populus, sī circumcīdāmus masculōs nostrōs rītum gentis imitantēs;
 
-23 et pecora et substantia et armenta eōrum nostra erunt. Tantum in hōc acquiēscāmus, et habitābunt nōbīscum ”.
+23 et pecora et substantia et armenta eōrum nostra erunt. Tantum in hōc acquiēscāmus, et habitābunt nōbīscum”.
 
 24 Assēnsīque sunt omnēs, circumcīsīs cūnctīs maribus, quī ēgrediēbantur ē portā cīvitātis suae.
 
@@ -2289,17 +2289,17 @@ Et, cum compelleret illum, suscēpit
 
 29 Omnēs opēs eōrum, parvulōs quoque et uxōrēs dūxērunt captīvās et dīripuērunt omnia, quae in domibus erant.
 
-30 Jācōb autem dīxit ad Simeon et Levī: “ Turbāstis mē et odiōsum fēcistis mē Chananaēīs et Pherezaēīs habitātōribus terrae hujus. Nōs paucī sumus; illī congregātī percutient mē, et dēlēbor ego et domus mea ”.
+30 Jācōb autem dīxit ad Simeon et Levī: ”Turbāstis mē et odiōsum fēcistis mē Chananaēīs et Pherezaēīs habitātōribus terrae hujus. Nōs paucī sumus; illī congregātī percutient mē, et dēlēbor ego et domus mea”.
 
-31 Respondērunt: “ Numquid ut scortō abūtī dēbuēre sorōre nostrā? ”.
+31 Respondērunt: ”Numquid ut scortō abūtī dēbuēre sorōre nostrā?”.
 
 ## 35
 
-1 Locūtus est Deus ad Jācōb: “ Surge et ascende Bethel et habitā ibi; facque altāre Deō, quī appāruit tibi, quandō fugiēbās Esau frātrem tuum ”.
+1 Locūtus est Deus ad Jācōb: ”Surge et ascende Bethel et habitā ibi; facque altāre Deō, quī appāruit tibi, quandō fugiēbās Esau frātrem tuum”.
 
-2 Jācōb vērō, convocātā omnī domō suā, ait: “ Abigite deōs aliēnōs, quī in mediō vestrī sunt, et mundāminī ac mūtāte vestīmenta vestra.
+2 Jācōb vērō, convocātā omnī domō suā, ait: ”Abigite deōs aliēnōs, quī in mediō vestrī sunt, et mundāminī ac mūtāte vestīmenta vestra.
 
-3 Surgāmus et ascendāmus in Bethel, ut faciāmus ibi altāre Deō, quī exaudīvit mē in diē trībulātiōnis meae et socius fuit itineris meī ”.
+3 Surgāmus et ascendāmus in Bethel, ut faciāmus ibi altāre Deō, quī exaudīvit mē in diē trībulātiōnis meae et socius fuit itineris meī”.
 
 4 Dedērunt ergō eī omnēs deōs aliēnōs, quōs habēbant, et inaurēs, quae erant in auribus eōrum; at ille īnfōdit ea subter Quercum, quae est prope urbem Sichem.
 
@@ -2313,11 +2313,11 @@ Et, cum compelleret illum, suscēpit
 
 9 Appāruit iterum Deus Jācōb, postquam reversus est dē Paddanaram, benedīxitque eī
 
-10 dīcēns: “ Nōn vocāberis ultrā Jācōb, sed Isrāēl erit nōmen tuum ”, et appellāvit eum Isrāēl.
+10 dīcēns: ”Nōn vocāberis ultrā Jācōb, sed Isrāēl erit nōmen tuum”, et appellāvit eum Isrāēl.
 
-11 Dīxitque eī: “ Ego Deus omnipotēns. Crēsce et multiplicāre; gēns et congregātiō nātiōnum erunt ex tē, rēgēs dē lumbīs tuīs ēgredientur.
+11 Dīxitque eī: ”Ego Deus omnipotēns. Crēsce et multiplicāre; gēns et congregātiō nātiōnum erunt ex tē, rēgēs dē lumbīs tuīs ēgredientur.
 
-12 Terramque, quam dedī Abraham et Isaac, dabō tibi; et sēminī tuō post tē dabō terram hanc ”.
+12 Terramque, quam dedī Abraham et Isaac, dabō tibi; et sēminī tuō post tē dabō terram hanc”.
 
 13 Et ascendit ab eō Deus.
 
@@ -2327,7 +2327,7 @@ Et, cum compelleret illum, suscēpit
 
 16 Ēgressī sunt dē Bethel. Et adhūc spatium quoddam erat usque ad Ephratham, cum parturīret Rachēl;
 
-17 ob difficultātem partūs perīclitārī coepit, dīxitque eī obstetrīx: “ Nōlī timēre, quia et hāc vice habēs fīlium ”.
+17 ob difficultātem partūs perīclitārī coepit, dīxitque eī obstetrīx: ”Nōlī timēre, quia et hāc vice habēs fīlium”.
 
 18 Ēgrediente autem animā et imminente jam morte, vocāvit nōmen fīliī suī Benōnī (id est Fīlius dolōris meī); pater vērō appellāvit eum Beniamin (id est Fīlius dextrae).
 
@@ -2461,39 +2461,39 @@ Joseph, cum decem et septem esset annōrum, pāscēbat gregem cum frātribus su�
 
 5 Accidit quoque ut vīsum somnium referret frātribus suīs; quae causa majōris odiī sēminārium fuit.
 
-6 Dīxitque ad eōs: “ Audīte somnium meum, quod vīdī.
+6 Dīxitque ad eōs: ”Audīte somnium meum, quod vīdī.
 
-7 Putābam ligāre nōs manipulōs in agrō, et quasi cōnsurgere manipulum meum et stāre, vestrōsque manipulōs circumstantēs adōrāre manipulum meum ”.
+7 Putābam ligāre nōs manipulōs in agrō, et quasi cōnsurgere manipulum meum et stāre, vestrōsque manipulōs circumstantēs adōrāre manipulum meum”.
 
-8 Respondērunt frātrēs ejus: “ Numquid rēx noster eris? Aut subiciēmur diciōnī tuae? ”. Haec ergō causa somniōrum atque sermōnum, invidiae et odiī fōmitem ministrāvit.
+8 Respondērunt frātrēs ejus: ”Numquid rēx noster eris? Aut subiciēmur diciōnī tuae?”. Haec ergō causa somniōrum atque sermōnum, invidiae et odiī fōmitem ministrāvit.
 
-9 Aliud quoque vīdit somnium, quod nārrāns frātribus ait: “ Vīdī per somnium quasi sōlem et lūnam et stēllās ūndecim adōrāre mē ”.
+9 Aliud quoque vīdit somnium, quod nārrāns frātribus ait: ”Vīdī per somnium quasi sōlem et lūnam et stēllās ūndecim adōrāre mē”.
 
-10 Quod cum patrī suō et frātribus retulisset, increpāvit eum pater suus et dīxit: “ Quid sibi vult hoc somnium, quod vīdistī? Num ego et māter tua et frātrēs tuī adōrābimus tē prōnī in terram? ”.
+10 Quod cum patrī suō et frātribus retulisset, increpāvit eum pater suus et dīxit: ”Quid sibi vult hoc somnium, quod vīdistī? Num ego et māter tua et frātrēs tuī adōrābimus tē prōnī in terram?”.
 
 11 Invidēbant igitur eī frātrēs suī; pater vērō rem tacitus cōnsīderābat.
 
 12 Cumque frātrēs illīus in pāscendīs gregibus patris morārentur in Sichem,
 
-13 dīxit Isrāēl ad Joseph: “ Frātrēs tuī pāscunt ovēs in Sichimīs; venī, mittam tē ad eōs ”. Quō respondente:
+13 dīxit Isrāēl ad Joseph: ”Frātrēs tuī pāscunt ovēs in Sichimīs; venī, mittam tē ad eōs”. Quō respondente:
 
-14 “ Praestō sum ”, ait eī: “ Vāde et vidē, sī cūncta prōspera sint ergā frātrēs tuōs et pecora, et renūntiā mihi quid agātur ”. Missus dē valle Hebrōn vēnit in Sichem;
+14 ”Praestō sum”, ait eī: ”Vāde et vidē, sī cūncta prōspera sint ergā frātrēs tuōs et pecora, et renūntiā mihi quid agātur”. Missus dē valle Hebrōn vēnit in Sichem;
 
 15 invēnitque eum vir errantem in agrō et interrogāvit quid quaereret.
 
-16 At ille respondit: “ Frātrēs meōs quaerō; indicā mihi, ubi pāscant gregēs ”.
+16 At ille respondit: ”Frātrēs meōs quaerō; indicā mihi, ubi pāscant gregēs”.
 
-17 Dīxitque eī vir: “ Recessērunt dē locō istō; audīvī autem eōs dīcentēs: "Eāmus in Dothain" ”. Perrēxit ergō Joseph post frātrēs suōs et invēnit eōs in Dothain.
+17 Dīxitque eī vir: ”Recessērunt dē locō istō; audīvī autem eōs dīcentēs: "Eāmus in Dothain"”. Perrēxit ergō Joseph post frātrēs suōs et invēnit eōs in Dothain.
 
 18 Quī cum vīdissent eum procul, antequam accēderet ad eōs, cōgitāvērunt illum occīdere.
 
-19 Et mūtuō loquēbantur: “ Ecce somniātor venit;
+19 Et mūtuō loquēbantur: ”Ecce somniātor venit;
 
-20 venīte, occīdāmus eum et mittāmus in ūnam cisternārum dīcēmusque: Fera pessima dēvorāvit eum. Et tunc appārēbit quid illī prōsint somnia sua ”.
+20 venīte, occīdāmus eum et mittāmus in ūnam cisternārum dīcēmusque: Fera pessima dēvorāvit eum. Et tunc appārēbit quid illī prōsint somnia sua”.
 
 21 Audiēns autem hoc Ruben nītēbātur līberāre eum dē manibus eōrum et dīxit:
 
-22 “ Nōn interficiāmus animam ejus ”. Et dīxit ad eōs: “ Nōn effundātis sanguinem; sed prōicite eum in cisternam hanc, quae est in sōlitūdine, manūsque vestrās servāte innoxiās ”. Hoc autem dīcēbat volēns ēripere eum dē manibus eōrum et reddere patrī suō.
+22 ”Nōn interficiāmus animam ejus”. Et dīxit ad eōs: ”Nōn effundātis sanguinem; sed prōicite eum in cisternam hanc, quae est in sōlitūdine, manūsque vestrās servāte innoxiās”. Hoc autem dīcēbat volēns ēripere eum dē manibus eōrum et reddere patrī suō.
 
 23 Cōnfestim igitur, ut pervēnit ad frātrēs suōs, nūdāvērunt eum tunicā tālārī
 
@@ -2501,25 +2501,25 @@ Joseph, cum decem et septem esset annōrum, pāscēbat gregem cum frātribus su�
 
 25 Et sēdērunt, ut comederent pānem. Attollentēs autem oculōs vīdērunt Ismaēlītās viātōrēs venīre dē Galaad et camēlōs eōrum portantēs tragacanthum et masticem et lādanum in Aegyptum.
 
-26 Dīxit ergō Jūdās frātribus suīs: “ Quid nōbīs prōdest, sī occīderimus frātrem nostrum et cēlāverimus sanguinem ipsīus?
+26 Dīxit ergō Jūdās frātribus suīs: ”Quid nōbīs prōdest, sī occīderimus frātrem nostrum et cēlāverimus sanguinem ipsīus?
 
-27 Melius est ut vēndātur Ismaēlītīs, et manūs nostrae nōn polluantur; frāter enim et carō nostra est ”. Acquiēvērunt frātrēs sermōnibus illīus.
+27 Melius est ut vēndātur Ismaēlītīs, et manūs nostrae nōn polluantur; frāter enim et carō nostra est”. Acquiēvērunt frātrēs sermōnibus illīus.
 
 28 Et praetereuntibus Madianītīs negōtiātōribus, extrahentēs Joseph dē cisternā, vēndidērunt eum Ismaēlītīs vīgintī argenteīs. Quī dūxērunt eum in Aegyptum.
 
 29 Reversusque Ruben ad cisternam nōn invēnit puerum
 
-30 et, scissīs vestibus, pergēns ad frātrēs suōs ait: “ Puer nōn compāret, et ego quō ībō? ”.
+30 et, scissīs vestibus, pergēns ad frātrēs suōs ait: ”Puer nōn compāret, et ego quō ībō?”.
 
 31 Tulērunt autem tunicam ejus et in sanguinem haedī, quem occīderant, tīnxērunt
 
-32 mittentēs, quī ferrent ad patrem et dīcerent: “Hanc invēnimus; vidē, utrum tunica tālāris fīliī tuī sit an nōn? ”.
+32 mittentēs, quī ferrent ad patrem et dīcerent: “Hanc invēnimus; vidē, utrum tunica tālāris fīliī tuī sit an nōn?”.
 
-33 Quam cum agnōvisset pater, ait: “ Tunica fīliī meī est; fera pessima comēdit eum, bēstia dēvorāvit Joseph ”.
+33 Quam cum agnōvisset pater, ait: ”Tunica fīliī meī est; fera pessima comēdit eum, bēstia dēvorāvit Joseph”.
 
 34 Scissīsque vestibus, indūtus est ciliciō lūgēns fīlium suum multō tempore.
 
-35 Congregātīs autem cūnctīs līberīs ejus, ut lēnīrent dolōrem patris, nōluit cōnsōlātiōnem accipere et ait: “ Dēscendam ad fīlium meum lūgēns in īnfernum ”. Et flēvit super eō pater ejus.
+35 Congregātīs autem cūnctīs līberīs ejus, ut lēnīrent dolōrem patris, nōluit cōnsōlātiōnem accipere et ait: ”Dēscendam ad fīlium meum lūgēns in īnfernum”. Et flēvit super eō pater ejus.
 
 36 Madianītae autem vēndidērunt Joseph in Aegyptō Putiphārī eunūchō pharaōnis, magistrō satellitum.
 
@@ -2539,13 +2539,13 @@ Joseph, cum decem et septem esset annōrum, pāscēbat gregem cum frātribus su�
 
 7 Fuit quoque Her prīmōgenitus Jūdae nēquam in cōnspectū Dominī, et ab eō occīsus est.
 
-8 Dīxit ergō Jūdās ad Onān: “ Ingredere ad uxōrem frātris tuī et sociāre illī, ut suscitēs sēmen frātrī tuō ”.
+8 Dīxit ergō Jūdās ad Onān: ”Ingredere ad uxōrem frātris tuī et sociāre illī, ut suscitēs sēmen frātrī tuō”.
 
 9 Ille, sciēns nōn sibi nāscī hunc fīlium, introiēns ad uxōrem frātris suī sēmen fundēbat in terram, nē prōlēs frātris nōmine nāscerētur.
 
 10 Et idcircō occīdit et eum Dominus, quod rem dētestābilem fēcerat.
 
-11 Quam ob rem dīxit Jūdās Thamār nuruī suae: “ Estō vidua in domō patris tuī, dōnec crēscat Sela fīlius meus ”. Timēbat, enim, nē et ipse morerētur sīcut frātrēs ejus. Quae abiit et habitāvit in domō patris suī.
+11 Quam ob rem dīxit Jūdās Thamār nuruī suae: ”Estō vidua in domō patris tuī, dōnec crēscat Sela fīlius meus”. Timēbat, enim, nē et ipse morerētur sīcut frātrēs ejus. Quae abiit et habitāvit in domō patris suī.
 
 12 Ēvolūtīs autem multīs diēbus, mortua est fīlia Suē uxor Jūdae. Quī, post lūctum cōnsōlātiōne susceptā, ascendēbat ad tōnsōrēs ovium suārum ipse et Hīrās amīcus suus Odollamītēs in Thamnam.
 
@@ -2555,33 +2555,33 @@ Joseph, cum decem et septem esset annōrum, pāscēbat gregem cum frātribus su�
 
 15 Quam cum vīdisset Jūdās, suspicātus est esse meretrīcem; operuerat enim vultum suum.
 
-16 Dēclīnānsque ad eam in viā ait: “ Venī, coeam tēcum ”; nesciēbat enim quod nurus sua esset. Quā respondente: “ Quid mihi dabis, ut fruāris concubitū meō? ”,
+16 Dēclīnānsque ad eam in viā ait: ”Venī, coeam tēcum”; nesciēbat enim quod nurus sua esset. Quā respondente: ”Quid mihi dabis, ut fruāris concubitū meō?”,
 
-17 dīxit: “ Mittam tibi haedum dē gregibus ”. Rūrsum illā dīcente: “ Sī dederis mihi arrabōnem, dōnec mittās illum ”,
+17 dīxit: ”Mittam tibi haedum dē gregibus”. Rūrsum illā dīcente: ”Sī dederis mihi arrabōnem, dōnec mittās illum”,
 
-18 ait Jūdās: “ Quid vīs tibi prō arrabōne darī? ”. Respondit: “ Sigillum tuum et fūniculum et baculum, quem manū tenēs ”. Et dedit eī. In coitū cum eō mulier concēpit
+18 ait Jūdās: ”Quid vīs tibi prō arrabōne darī?”. Respondit: ”Sigillum tuum et fūniculum et baculum, quem manū tenēs”. Et dedit eī. In coitū cum eō mulier concēpit
 
 19 et surgēns abiit; dēpositōque vēlō, indūta est viduitātis vestibus.
 
 20 Mīsit autem Jūdās haedum per amīcum suum Odollamītem, ut reciperet pignus, quod dederat mulierī. Quī cum nōn invēnisset eam,
 
-21 interrogāvit hominēs locī illīus: “ Ubi est meretrīx, quae sedēbat in Enaim in viā? ”. Respondentibus cūnctīs: “ Nōn fuit in locō istō meretrīx ”,
+21 interrogāvit hominēs locī illīus: ”Ubi est meretrīx, quae sedēbat in Enaim in viā?”. Respondentibus cūnctīs: ”Nōn fuit in locō istō meretrīx”,
 
-22 reversus est ad Jūdam et dīxit eī: “ Nōn invēnī eam; sed et hominēs locī illīus dīxērunt mihi numquam ibi sēdisse scortum ”.
+22 reversus est ad Jūdam et dīxit eī: ”Nōn invēnī eam; sed et hominēs locī illīus dīxērunt mihi numquam ibi sēdisse scortum”.
 
-23 Ait Jūdās: “ Habeat sibi; nē sīmus in lūdibrium. Ego mīsī haedum, quem prōmīseram, et tū nōn invēnistī eam ”.
+23 Ait Jūdās: ”Habeat sibi; nē sīmus in lūdibrium. Ego mīsī haedum, quem prōmīseram, et tū nōn invēnistī eam”.
 
-24 Ecce autem post trēs mēnsēs nūntiāvērunt Jūdae dīcentēs: “ Fornicāta est Thamar nurus tua et gravida est ex fornicātiōne ”. Dīxitque Jūdās: “ Prōdūcite eam, ut combūrātur ”.
+24 Ecce autem post trēs mēnsēs nūntiāvērunt Jūdae dīcentēs: ”Fornicāta est Thamar nurus tua et gravida est ex fornicātiōne”. Dīxitque Jūdās: ”Prōdūcite eam, ut combūrātur”.
 
-25 Quae cum ēdūcerētur ad poenam, mīsit ad socerum suum dīcēns: “ Dē virō, cujus haec sunt, concēpī; cognōsce cujus sit sigillum et fūniculus et baculus ”.
+25 Quae cum ēdūcerētur ad poenam, mīsit ad socerum suum dīcēns: ”Dē virō, cujus haec sunt, concēpī; cognōsce cujus sit sigillum et fūniculus et baculus”.
 
-26 Quī, agnitīs pignoribus, ait: “ Jūstior mē est, quia nōn trādidī eam Sēla fīliō meō ”. Attamen ultrā nōn cognōvit illam.
+26 Quī, agnitīs pignoribus, ait: ”Jūstior mē est, quia nōn trādidī eam Sēla fīliō meō”. Attamen ultrā nōn cognōvit illam.
 
 27 Īnstante autem partū, appāruērunt geminī in uterō; atque in ipsā effūsiōne īnfantium ūnus prōtulit manum, in quā obstetrīx ligāvit coccinum dīcēns:
 
-28 “ Iste ēgressus est prior ”.
+28 ”Iste ēgressus est prior”.
 
-29 Illō vērō retrahente manum, ēgressus est frāter ejus; dīxitque mulier: “ Quālem rūpistī tibi ruptūram? ”. Et ob hanc causam vocātum est nōmen ejus Phārēs (id est Ruptūra).
+29 Illō vērō retrahente manum, ēgressus est frāter ejus; dīxitque mulier: ”Quālem rūpistī tibi ruptūram?”. Et ob hanc causam vocātum est nōmen ejus Phārēs (id est Ruptūra).
 
 30 Posteā ēgressus est frāter ejus, in cujus manū erat coccinum; quī appellātus est Zara (id est Ortus sōlis).
 
@@ -2599,29 +2599,29 @@ Joseph, cum decem et septem esset annōrum, pāscēbat gregem cum frātribus su�
 
 6 Et relīquit omnia, quae possidēbat, in manū Joseph nec cum eō quidquam aliud nōverat nisi pānem, quō vēscēbātur. Erat autem Joseph pulchrā faciē et decōrus aspectū.
 
-7 Post haec ergō injēcit uxor dominī ejus oculōs suōs in Joseph et ait: “ Dormī mēcum ”.
+7 Post haec ergō injēcit uxor dominī ejus oculōs suōs in Joseph et ait: ”Dormī mēcum”.
 
-8 Quī nēquāquam acquiēscēns dīxit ad eam: “ Ecce dominus meus, omnibus mihi trāditīs, nōn cūrat dē ūllā rē in domō suā,
+8 Quī nēquāquam acquiēscēns dīxit ad eam: ”Ecce dominus meus, omnibus mihi trāditīs, nōn cūrat dē ūllā rē in domō suā,
 
-9 nec quisquam major est in domō hāc quam ego, et nihil mihi subtrāxit praeter tē, quae uxor ejus es. Quōmodo ergō possum malum hoc magnum facere et peccāre in Deum? ”.
+9 nec quisquam major est in domō hāc quam ego, et nihil mihi subtrāxit praeter tē, quae uxor ejus es. Quōmodo ergō possum malum hoc magnum facere et peccāre in Deum?”.
 
 10 Hujuscemodī verbīs per singulōs diēs et mulier molesta erat adulēscentī, et ille recūsābat stuprum.
 
 11 Accidit autem quādam diē, ut intrāret Joseph domum et opus suum absque arbitrīs faceret;
 
-12 illa, apprehēnsā laciniā vestīmentī ejus, dīxit: “ Dormī mēcum ”. Quī, relictō in manū illīus palliō, fūgit et ēgressus est forās.
+12 illa, apprehēnsā laciniā vestīmentī ejus, dīxit: ”Dormī mēcum”. Quī, relictō in manū illīus palliō, fūgit et ēgressus est forās.
 
 13 Cumque vīdisset illum mulier vestem relīquisse in manibus suīs et fūgisse forās,
 
-14 vocāvit hominēs domūs suae et ait ad eōs: “ Ēn intrōdūxit virum Hebraeum, ut illūderet nōbīs; ingressus est ad mē, ut coīret mēcum. Cumque ego succlāmāssem,
+14 vocāvit hominēs domūs suae et ait ad eōs: ”Ēn intrōdūxit virum Hebraeum, ut illūderet nōbīs; ingressus est ad mē, ut coīret mēcum. Cumque ego succlāmāssem,
 
-15 et audīsset vōcem meam, relīquit pallium, quod tenēbam, et fūgit forās ”.
+15 et audīsset vōcem meam, relīquit pallium, quod tenēbam, et fūgit forās”.
 
 16 Retentum pallium ostendit marītō revertentī domum
 
-17 et secundum verba haec locūta est: “ Ingressus est ad mē servus Hebraeus, quem addūxistī, ut illūderet mihi;
+17 et secundum verba haec locūta est: ”Ingressus est ad mē servus Hebraeus, quem addūxistī, ut illūderet mihi;
 
-18 cumque audīsset mē clāmāre, relīquit pallium, quod tenēbam, et fūgit forās ”.
+18 cumque audīsset mē clāmāre, relīquit pallium, quod tenēbam, et fūgit forās”.
 
 19 Dominus, audītīs hīs verbīs conjugis, īrātus est valdē;
 
@@ -2647,31 +2647,31 @@ Joseph, cum decem et septem esset annōrum, pāscēbat gregem cum frātribus su�
 
 6 Ad quōs cum introīsset Joseph māne et vīdisset eōs trīstēs,
 
-7 scīscitātus est eōs dīcēns: “ Cūr trīstior est hodiē solitō faciēs vestra? ”.
+7 scīscitātus est eōs dīcēns: ”Cūr trīstior est hodiē solitō faciēs vestra?”.
 
-8 Quī respondērunt: “ Somnium vīdimus, et nōn est quī interpretētur nōbīs ”. Dīxitque ad eōs Joseph: “ Numquid nōn Deī est interpretātiō? Referte mihi quid vīderītis ”.
+8 Quī respondērunt: ”Somnium vīdimus, et nōn est quī interpretētur nōbīs”. Dīxitque ad eōs Joseph: ”Numquid nōn Deī est interpretātiō? Referte mihi quid vīderītis”.
 
-9 Nārrāvit praepositus pincernārum somnium suum: “ Vidēbam cōram mē vītem,
+9 Nārrāvit praepositus pincernārum somnium suum: ”Vidēbam cōram mē vītem,
 
 10 in quā erant trēs propāginēs, crēscere paulātim in gemmās et post flōrēs ūvās mātūrēscere;
 
-11 calicemque pharaōnis in manū meā. Tulī ergō ūvās et expressī in calicem, quem tenēbam, et trādidī pōculum pharaōnī ”.
+11 calicemque pharaōnis in manū meā. Tulī ergō ūvās et expressī in calicem, quem tenēbam, et trādidī pōculum pharaōnī”.
 
-12 Respondit Joseph: “ Haec est interpretātiō somniī: trēs propāginēs, trēs adhūc diēs sunt,
+12 Respondit Joseph: ”Haec est interpretātiō somniī: trēs propāginēs, trēs adhūc diēs sunt,
 
 13 post quōs ēlevābit pharaō caput tuum et restituet tē in gradum prīstinum; dabisque eī calicem juxtā officium tuum, sīcut facere ante cōnsuēverās.
 
 14 Tantum mementō meī, cum tibi bene fuerit, et faciās mēcum misericordiam, ut suggerās pharaōnī, ut ēducat mē dē istō carcere;
 
-15 quia fūrtō sublātus sum dē terrā Hebraeōrum et hīc innocēns in lacum missus sum ”.
+15 quia fūrtō sublātus sum dē terrā Hebraeōrum et hīc innocēns in lacum missus sum”.
 
-16 Vidēns pistōrum magister quod somnium in bonum dissolvisset, ait: “ Et ego vīdī somnium, quod tria canistra farīnae habērem super caput meum;
+16 Vidēns pistōrum magister quod somnium in bonum dissolvisset, ait: ”Et ego vīdī somnium, quod tria canistra farīnae habērem super caput meum;
 
-17 et in ūnō canistrō, quod erat excelsius, portāre mē ex omnibus cibīs pharaōnis, quī fīunt arte pistōriā, avēsque comedere eōs ”.
+17 et in ūnō canistrō, quod erat excelsius, portāre mē ex omnibus cibīs pharaōnis, quī fīunt arte pistōriā, avēsque comedere eōs”.
 
-18 Respondit Joseph: “ Haec est interpretātiō somniī: tria canistra, trēs adhūc diēs sunt,
+18 Respondit Joseph: ”Haec est interpretātiō somniī: tria canistra, trēs adhūc diēs sunt,
 
-19 post quōs auferet pharaō caput tuum ac suspendet tē in patibulō, et comedent volucrēs carnēs tuās ”.
+19 post quōs auferet pharaō caput tuum ac suspendet tē in patibulō, et comedent volucrēs carnēs tuās”.
 
 20 Exinde diēs tertius nātālicius pharaōnis erat; quī faciēns grande convīvium puerīs suīs ēlevāvit caput magistrī pincernārum et caput pistōrum prīncipis in mediō puerōrum suōrum;
 
@@ -2699,7 +2699,7 @@ Joseph, cum decem et septem esset annōrum, pāscēbat gregem cum frātribus su�
 
 8 Et, factō māne, pavōre perterritus mīsit ad omnēs conjectōrēs Aegyptī cūnctōsque sapientēs suōs; et accersītīs nārrāvit somnium, nec erat quī interpretārētur.
 
-9 Tunc dēmum reminīscēns pincernārum magister ait: “ Cōnfiteor peccātum meum.
+9 Tunc dēmum reminīscēns pincernārum magister ait: ”Cōnfiteor peccātum meum.
 
 10 Īrātus rēx servīs suīs mē et magistrum pistōrum retrūdī jussit in carcerem prīncipis satellitum,
 
@@ -2707,15 +2707,15 @@ Joseph, cum decem et septem esset annōrum, pāscēbat gregem cum frātribus su�
 
 12 Erat ibi puer Hebraeus ejusdem ducis satellitum famulus, cui nārrantēs somnia
 
-13 audīvimus quidquid posteā reī probāvit ēventus. Ego enim redditus sum officiō meō, et ille suspēnsus est in patibulō ”.
+13 audīvimus quidquid posteā reī probāvit ēventus. Ego enim redditus sum officiō meō, et ille suspēnsus est in patibulō”.
 
 14 Prōtinus ad rēgis imperium ēductum dē carcere Joseph totondērunt ac, veste mūtātā, obtulērunt eī.
 
-15 Cui ille ait: “ Vīdī somnia, nec est quī ēdisserat; quae audīvī tē sapientissimē conicere ”.
+15 Cui ille ait: ”Vīdī somnia, nec est quī ēdisserat; quae audīvī tē sapientissimē conicere”.
 
-16 Respondit Joseph: “ Absque mē Deus respondēbit prōspera pharaōnī! ”.
+16 Respondit Joseph: ”Absque mē Deus respondēbit prōspera pharaōnī!”.
 
-17 Nārrāvit ergō pharaō, quod vīderat: “ Putābam mē stāre super rīpam flūminis
+17 Nārrāvit ergō pharaō, quod vīderat: ”Putābam mē stāre super rīpam flūminis
 
 18 et septem bovēs dē amne cōnscendere pulchrās nimis et obēsīs carnibus, quae in pāstū palūdis virēcta carpēbant.
 
@@ -2729,9 +2729,9 @@ Joseph, cum decem et septem esset annōrum, pāscēbat gregem cum frātribus su�
 
 23 Aliae quoque septem tenuēs et percussae ventō ūrente oriēbantur ē stipulā;
 
-24 quae priōrum pulchritūdinem dēvorāvērunt. Nārrāvī conjectōribus somnium, et nēmō est quī ēdisserat ”.
+24 quae priōrum pulchritūdinem dēvorāvērunt. Nārrāvī conjectōribus somnium, et nēmō est quī ēdisserat”.
 
-25 Respondit Joseph: “ Somnium rēgis ūnum est: quae factūrus est, Deus ostendit pharaōnī.
+25 Respondit Joseph: ”Somnium rēgis ūnum est: quae factūrus est, Deus ostendit pharaōnī.
 
 26 Septem bovēs pulchrae et septem spīcae plēnae septem ūbertātis annī sunt; eandemque vim somniī comprehendunt.
 
@@ -2753,23 +2753,23 @@ Joseph, cum decem et septem esset annōrum, pāscēbat gregem cum frātribus su�
 
 35 quī jam nunc futūrī sunt, congreget in horrea; et omne frūmentum sub pharaōnis potestāte condātur servēturque in urbibus;
 
-36 et parētur futūrae septem annōrum famī, quae pressūra est Aegyptum, et nōn cōnsūmētur terra inopiā ”.
+36 et parētur futūrae septem annōrum famī, quae pressūra est Aegyptum, et nōn cōnsūmētur terra inopiā”.
 
 37 Placuit pharaōnī cōnsilium et cūnctīs ministrīs ejus.
 
-38 Locūtusque est ad eōs: “ Num invenīre poterimus tālem virum, quī spīritū Deī plēnus sit? ”.
+38 Locūtusque est ad eōs: ”Num invenīre poterimus tālem virum, quī spīritū Deī plēnus sit?”.
 
-39 Dīxit ergō ad Joseph: “ Quia ostendit tibi Deus omnia, quae locūtus es, numquid sapientiōrem et cōnsimilem tuī invenīre poterō?
+39 Dīxit ergō ad Joseph: ”Quia ostendit tibi Deus omnia, quae locūtus es, numquid sapientiōrem et cōnsimilem tuī invenīre poterō?
 
-40 Tū eris super domum meam, et ad tuī ōris imperium cūnctus populus meus oboediet; ūnō tantum rēgnī soliō tē praecēdam ”.
+40 Tū eris super domum meam, et ad tuī ōris imperium cūnctus populus meus oboediet; ūnō tantum rēgnī soliō tē praecēdam”.
 
-41 Dīxitque rūrsus pharaō ad Joseph: “ Ecce, cōnstituī tē super ūniversam terram Aegyptī ”.
+41 Dīxitque rūrsus pharaō ad Joseph: ”Ecce, cōnstituī tē super ūniversam terram Aegyptī”.
 
 42 Tulitque ānulum dē manū suā et dedit eum in manū ejus; vestīvitque eum stolā byssinā et collō torquem auream circumposuit.
 
-43 Fēcitque eum ascendere super currum suum secundum, clāmante praecōne: “ Abrech! ”, ut omnēs cōram eō genūflecterent et praepositum esse scīrent ūniversae terrae Aegyptī.
+43 Fēcitque eum ascendere super currum suum secundum, clāmante praecōne: ”Abrech!”, ut omnēs cōram eō genūflecterent et praepositum esse scīrent ūniversae terrae Aegyptī.
 
-44 Dīxit quoque rēx ad Joseph: “ Ego sum pharaō; absque tuō imperiō nōn movēbit quisquam manum aut pedem in omnī terrā Aegyptī ”.
+44 Dīxit quoque rēx ad Joseph: ”Ego sum pharaō; absque tuō imperiō nōn movēbit quisquam manum aut pedem in omnī terrā Aegyptī”.
 
 45 Vertitque nōmen ejus et vocāvit eum linguā Aegyptiacā Saphaneth Phanec (quod interpretātur Salvātor mundī) deditque illī uxōrem Aseneth fīliam Putiphāre sacerdōtis Hēliopoleos.
 
@@ -2785,15 +2785,15 @@ Joseph, cum decem et septem esset annōrum, pāscēbat gregem cum frātribus su�
 
 50 Nātī sunt autem Joseph fīliī duo, antequam venīret famēs, quōs eī peperit Aseneth fīlia Putiphāre sacerdōtis Hēliopoleos.
 
-51 Vocāvitque nōmen prīmōgenitī Mānāssēs dīcēns: “ Oblīvīscī mē fēcit Deus omnium labōrum meōrum et domūs patris meī ”.
+51 Vocāvitque nōmen prīmōgenitī Mānāssēs dīcēns: ”Oblīvīscī mē fēcit Deus omnium labōrum meōrum et domūs patris meī”.
 
-52 Nōmen quoque secundī appellāvit Ephraim dīcēns: “ Crēscere mē fēcit Deus in terrā paupertātis meae ”.
+52 Nōmen quoque secundī appellāvit Ephraim dīcēns: ”Crēscere mē fēcit Deus in terrā paupertātis meae”.
 
 53 Igitur, trānsāctīs septem annīs ūbertātis, quī fuerant in Aegyptō,
 
 54 coepērunt venīre septem annī inopiae, quōs praedīxerat Joseph, et in ūniversō orbe famēs praevaluit; in cūnctā autem terrā Aegyptī erat pānis.
 
-55 Quā ēsuriente, clāmāvit populus ad pharaōnem alimenta petēns. Quibus ille respondit: “ Īte ad Joseph et, quidquid vōbīs dīxerit, facite ”.
+55 Quā ēsuriente, clāmāvit populus ad pharaōnem alimenta petēns. Quibus ille respondit: ”Īte ad Joseph et, quidquid vōbīs dīxerit, facite”.
 
 56 Et invaluit famēs in omnī terrā Aegyptī; aperuitque Joseph ūniversa horrea et vēndēbat Aegyptiīs; nam et illōs oppresserat famēs.
 
@@ -2801,51 +2801,51 @@ Joseph, cum decem et septem esset annōrum, pāscēbat gregem cum frātribus su�
 
 ## 42
 
-1 Audiēns autem Jācōb quod alimenta vēnderentur in Aegyptō, dīxit fīliīs suīs: “ Quārē aspicitis vōs invicem?
+1 Audiēns autem Jācōb quod alimenta vēnderentur in Aegyptō, dīxit fīliīs suīs: ”Quārē aspicitis vōs invicem?
 
-2 Audīvī quod trīticum vēnumdētur in Aegyptō; dēscendite et emite nōbīs necessāria, ut possīmus vīvere et nōn cōnsūmāmur inopiā ”.
+2 Audīvī quod trīticum vēnumdētur in Aegyptō; dēscendite et emite nōbīs necessāria, ut possīmus vīvere et nōn cōnsūmāmur inopiā”.
 
 3 Dēscendērunt igitur frātrēs Joseph decem, ut emerent frūmenta in Aegyptō,
 
-4 Beniamin frātre Joseph domī retentō ā Jācōb, quī dīxerat frātribus ejus: “ Nē forte in itinere quidquam patiātur malī ”.
+4 Beniamin frātre Joseph domī retentō ā Jācōb, quī dīxerat frātribus ejus: ”Nē forte in itinere quidquam patiātur malī”.
 
 5 Et ingressī sunt fīliī Isrāēl terram Aegyptī cum aliīs, quī pergēbant ad emendum. Erat autem famēs in terrā Chanaan.
 
 6 Et Joseph erat prīnceps in terrā Aegyptī, atque ad ejus nūtum frūmenta populīs vēndēbantur. Cumque vēnissent et adōrāssent eum frātrēs suī prōnī in terram,
 
-7 et agnōvisset eōs, quasi ad aliēnōs dūrius loquēbātur interrogāns eōs: “ Unde vēnistis? ”. Quī respondērunt: “ Dē terrā Chanaan, ut emāmus vīctuī necessāria ”.
+7 et agnōvisset eōs, quasi ad aliēnōs dūrius loquēbātur interrogāns eōs: ”Unde vēnistis?”. Quī respondērunt: ”Dē terrā Chanaan, ut emāmus vīctuī necessāria”.
 
 8 Et tamen frātrēs ipse cognōscēns nōn est cognitus ab eīs.
 
-9 Recordātusque somniōrum, quae aliquandō vīderat, ait ad eōs: “ Explōrātōrēs estis; ut videātis īnfirmiōra terrae, vēnistis! ”.
+9 Recordātusque somniōrum, quae aliquandō vīderat, ait ad eōs: ”Explōrātōrēs estis; ut videātis īnfirmiōra terrae, vēnistis!”.
 
-10 Quī dīxērunt: “ Nōn est ita, domine; sed servī tuī vēnērunt, ut emerent cibōs.
+10 Quī dīxērunt: ”Nōn est ita, domine; sed servī tuī vēnērunt, ut emerent cibōs.
 
-11 Omnēs fīliī ūnīus virī sumus; sincērī sumus, nec quidquam famulī tuī māchinantur malī ”.
+11 Omnēs fīliī ūnīus virī sumus; sincērī sumus, nec quidquam famulī tuī māchinantur malī”.
 
-12 Quibus ille respondit: “ Aliter est; immūnīta terrae hujus cōnsīderāre vēnistis! ”.
+12 Quibus ille respondit: ”Aliter est; immūnīta terrae hujus cōnsīderāre vēnistis!”.
 
-13 At illī: “ Duodecim, inquiunt, servī tuī frātrēs sumus fīliī virī ūnīus in terrā Chanaan; minimus cum patre nostrō est, alius nōn est super ”.
+13 At illī: ”Duodecim, inquiunt, servī tuī frātrēs sumus fīliī virī ūnīus in terrā Chanaan; minimus cum patre nostrō est, alius nōn est super”.
 
-14 “ Hoc est, ait, quod locūtus sum: explōrātōrēs estis!
+14 ”Hoc est, ait, quod locūtus sum: explōrātōrēs estis!
 
 15 Jam nunc experīmentum vestrī capiam: per salūtem pharaōnis, nōn ēgrediēminī hinc, dōnec veniat frāter vester minimus!
 
-16 Mittite ex vōbīs ūnum, et addūcat eum; vōs autem eritis in vinculīs, dōnec probentur, quae dīxistis, utrum vēra an falsa sint. Aliōquīn, per salūtem pharaōnis, explōrātōrēs estis! ”.
+16 Mittite ex vōbīs ūnum, et addūcat eum; vōs autem eritis in vinculīs, dōnec probentur, quae dīxistis, utrum vēra an falsa sint. Aliōquīn, per salūtem pharaōnis, explōrātōrēs estis!”.
 
 17 Trādidit ergō illōs cūstōdiae tribus diēbus.
 
-18 Diē autem tertiō ēductīs dē carcere, ait: “ Facite, quae dīxī, et vīvētis; Deum enim timeō.
+18 Diē autem tertiō ēductīs dē carcere, ait: ”Facite, quae dīxī, et vīvētis; Deum enim timeō.
 
 19 Sī sincērī estis, frāter vester ūnus ligētur in carcere; vōs autem abīte et ferte frūmenta, quae ēmistis, in domōs vestrās,
 
-20 et frātrem vestrum minimum ad mē addūcite, ut possim vestrōs probāre sermōnēs, et nōn moriāminī ”.
+20 et frātrem vestrum minimum ad mē addūcite, ut possim vestrōs probāre sermōnēs, et nōn moriāminī”.
 
 Fēcērunt, ut dīxerat,
 
-21 et locūtī sunt ad invicem: “ Meritō haec patimur, quia peccāvimus in frātrem nostrum videntēs angustiam animae illīus, cum dēprecārētur nōs, et nōn audīvimus. Idcircō venit super nōs ista trībulātiō ”.
+21 et locūtī sunt ad invicem: ”Meritō haec patimur, quia peccāvimus in frātrem nostrum videntēs angustiam animae illīus, cum dēprecārētur nōs, et nōn audīvimus. Idcircō venit super nōs ista trībulātiō”.
 
-22 Et Ruben ait: “ Numquid nōn dīxī vōbīs: Nōlīte peccāre in puerum? Et nōn audīstis mē. Ēn sanguis ejus exquīritur ”.
+22 Et Ruben ait: ”Numquid nōn dīxī vōbīs: Nōlīte peccāre in puerum? Et nōn audīstis mē. Ēn sanguis ejus exquīritur”.
 
 23 Nesciēbant autem quod intellegeret Joseph, eō quod per interpretem loquēbātur ad eōs.
 
@@ -2857,75 +2857,75 @@ Fēcērunt, ut dīxerat,
 
 27 Apertōque ūnus saccō, ut daret jūmentō pābulum in dēversōriō, contemplātus pecūniam in ōre sacculī
 
-28 dīxit frātribus suīs: “ Reddita est mihi pecūnia: ēn habētur in saccō! ”. Et obstupefactī turbātīque mūtuō dīxērunt: “ Quidnam est hoc, quod fēcit nōbīs Deus? ”.
+28 dīxit frātribus suīs: ”Reddita est mihi pecūnia: ēn habētur in saccō!”. Et obstupefactī turbātīque mūtuō dīxērunt: ”Quidnam est hoc, quod fēcit nōbīs Deus?”.
 
 29 Vēnēruntque ad Jācōb patrem suum in terram Chanaan; et nārrāvērunt eī omnia, quae accidissent sibi, dīcentēs:
 
-30 “ Locūtus est nōbīs dominus terrae dūrē et putāvit nōs explōrātōrēs esse prōvinciae ”.
+30 ”Locūtus est nōbīs dominus terrae dūrē et putāvit nōs explōrātōrēs esse prōvinciae”.
 
-31 Cui respondimus: “ Sincērī sumus, nec ūllās mōlīmur īnsidiās;
+31 Cui respondimus: ”Sincērī sumus, nec ūllās mōlīmur īnsidiās;
 
 32 duodecim frātrēs ūnō patre genitī sumus, ūnus nōn est super, minimus cum patre nostrō est in terrā Chanaan.
 
 33 Et dīxit nōbīs vir, dominus terrae: "Sīc probābō quod sincērī sītis: frātrem vestrum ūnum dīmittite apud mē et cibāria domibus vestrīs necessāria sūmite et abīte;
 
-34 frātremque vestrum minimum addūcite ad mē, ut sciam quod nōn sītis explōrātōrēs et istum, quī tenētur in vinculīs, recipere possītis ac deinceps peragrandī terram habeātis licentiam" ”.
+34 frātremque vestrum minimum addūcite ad mē, ut sciam quod nōn sītis explōrātōrēs et istum, quī tenētur in vinculīs, recipere possītis ac deinceps peragrandī terram habeātis licentiam"”.
 
 35 Hīs dictīs, cum frūmenta effunderent, singulī repperērunt in ōre saccōrum ligātās pecūniās; exterritīsque simul omnibus,
 
-36 dīxit pater Jācōb: “ Absque līberīs mē esse fēcistis: Joseph nōn est super, Simeōn tenētur in vinculīs, et Beniamin auferētis. In mē haec omnia mala recidērunt ”.
+36 dīxit pater Jācōb: ”Absque līberīs mē esse fēcistis: Joseph nōn est super, Simeōn tenētur in vinculīs, et Beniamin auferētis. In mē haec omnia mala recidērunt”.
 
-37 Cui respondit Ruben: “ Duōs fīliōs meōs interfice, sī nōn redūxerō illum tibi; trāde illum in manū meā, et ego eum tibi restituam ”.
+37 Cui respondit Ruben: ”Duōs fīliōs meōs interfice, sī nōn redūxerō illum tibi; trāde illum in manū meā, et ego eum tibi restituam”.
 
-38 At ille: “ Nōn dēscendet, inquit, fīlius meus vōbīscum. Frāter mortuus est, et ipse sōlus remānsit; sī quid eī adversī acciderit in viā, dēdūcētis cānōs meōs cum dolōre ad īnferōs ”.
+38 At ille: ”Nōn dēscendet, inquit, fīlius meus vōbīscum. Frāter mortuus est, et ipse sōlus remānsit; sī quid eī adversī acciderit in viā, dēdūcētis cānōs meōs cum dolōre ad īnferōs”.
 
 ## 43
 
 1 Interim famēs omnem terram vehementer premēbat;
 
-2 cōnsūmptīsque cibīs, quōs ex Aegyptō dētulerant, dīxit Jācōb ad fīliōs suōs: “ Revertiminī et emite nōbīs pauxillum ēscārum ”.
+2 cōnsūmptīsque cibīs, quōs ex Aegyptō dētulerant, dīxit Jācōb ad fīliōs suōs: ”Revertiminī et emite nōbīs pauxillum ēscārum”.
 
-3 Respondit Jūdās: “ Dēnūntiāvit nōbīs vir ille sub attestātiōne jūrisjūrandī dīcēns: "Nōn vidēbitis faciem meam, nisi frātrem vestrum minimum addūxeritis vōbīscum".
+3 Respondit Jūdās: ”Dēnūntiāvit nōbīs vir ille sub attestātiōne jūrisjūrandī dīcēns: "Nōn vidēbitis faciem meam, nisi frātrem vestrum minimum addūxeritis vōbīscum".
 
 4 Sī ergō vīs eum mittere nōbīscum, pergēmus pariter et emēmus tibi necessāria;
 
-5 sīn autem nōn vīs, nōn ībimus. Vir enim, ut saepe dīximus, dēnūntiāvit nōbīs dīcēns: "Nōn vidēbitis faciem meam absque frātre vestrō minimō" ”.
+5 sīn autem nōn vīs, nōn ībimus. Vir enim, ut saepe dīximus, dēnūntiāvit nōbīs dīcēns: "Nōn vidēbitis faciem meam absque frātre vestrō minimō"”.
 
-6 Dīxit eīs Isrāēl: “ Cūr in meam hoc fēcistis miseriam, ut indicārētis eī et alium habēre vōs frātrem? ”.
+6 Dīxit eīs Isrāēl: ”Cūr in meam hoc fēcistis miseriam, ut indicārētis eī et alium habēre vōs frātrem?”.
 
-7 At illī respondērunt: “ Interrogāvit nōs homō per ōrdinem nostram prōgeniem: sī pater vīveret, sī habērēmus frātrem; et nōs respondimus eī cōnsequenter juxtā id, quod fuerat scīscitātus. Numquid scīre poterāmus quod dictūrus esset: "Addūcite frātrem vestrum vōbīscum?" ”.
+7 At illī respondērunt: ”Interrogāvit nōs homō per ōrdinem nostram prōgeniem: sī pater vīveret, sī habērēmus frātrem; et nōs respondimus eī cōnsequenter juxtā id, quod fuerat scīscitātus. Numquid scīre poterāmus quod dictūrus esset: "Addūcite frātrem vestrum vōbīscum?"”.
 
-8 Jūdās quoque dīxit patrī suō Isrāēl: “ Mitte puerum mēcum, ut proficīscāmur et possīmus vīvere, nē moriāmur nōs et tū et parvulī nostrī.
+8 Jūdās quoque dīxit patrī suō Isrāēl: ”Mitte puerum mēcum, ut proficīscāmur et possīmus vīvere, nē moriāmur nōs et tū et parvulī nostrī.
 
 9 Ego spondeō prō puerō; dē manū meā requīre illum. Nisi redūxerō et reddiderō eum tibi, erō peccātī reus in tē omnī tempore.
 
-10 Sī nōn intercessisset dīlātiō, jam vice alterā vēnissēmus ”.
+10 Sī nōn intercessisset dīlātiō, jam vice alterā vēnissēmus”.
 
-11 Igitur Isrāēl pater eōrum dīxit ad eōs: “ Sī sīc necesse est, facite, quod vultis; sūmite dē optimīs terrae frūctibus in vāsīs vestrīs et dēferte virō mūnera: modicum rēsīnae et mellis et tragacanthum et lādanum, pistāciās terebinthī et amygdalās.
+11 Igitur Isrāēl pater eōrum dīxit ad eōs: ”Sī sīc necesse est, facite, quod vultis; sūmite dē optimīs terrae frūctibus in vāsīs vestrīs et dēferte virō mūnera: modicum rēsīnae et mellis et tragacanthum et lādanum, pistāciās terebinthī et amygdalās.
 
 12 Pecūniam quoque duplicem ferte vōbīscum et illam, quam invēnistis in sacculīs, reportāte, nē forte errōre factum sit;
 
 13 sed et frātrem vestrum tollite et īte ad virum.
 
-14 Deus autem meus omnipotēns faciat vōbīs eum plācābilem, et remittat vōbīscum frātrem vestrum, quem tenet, et hunc Beniamin. Ego autem quasi orbātus absque līberīs erō ”.
+14 Deus autem meus omnipotēns faciat vōbīs eum plācābilem, et remittat vōbīscum frātrem vestrum, quem tenet, et hunc Beniamin. Ego autem quasi orbātus absque līberīs erō”.
 
 15 Tulērunt ergō virī mūnera et pecūniam duplicem et Beniamin dēscendēruntque in Aegyptum; et stetērunt cōram Joseph.
 
-16 Quōs cum ille vīdisset et Beniamin simul, praecēpit dispēnsātōrī domūs suae dīcēns: “ Introdūc virōs domum et occīde victimās et īnstrue convīvium, quoniam mēcum sunt comestūrī merīdiē ”.
+16 Quōs cum ille vīdisset et Beniamin simul, praecēpit dispēnsātōrī domūs suae dīcēns: ”Introdūc virōs domum et occīde victimās et īnstrue convīvium, quoniam mēcum sunt comestūrī merīdiē”.
 
 17 Fēcit ille, quod sibi fuerat imperātum, et intrōdūxit virōs in domum Joseph.
 
-18 Ibique exterritī dīxērunt mūtuō: “ Propter pecūniam, quam rettulimus prius in saccīs nostrīs, intrōductī sumus, ut irruant in nōs et violenter subiciant servitūtī et nōs et asinōs nostrōs ”.
+18 Ibique exterritī dīxērunt mūtuō: ”Propter pecūniam, quam rettulimus prius in saccīs nostrīs, intrōductī sumus, ut irruant in nōs et violenter subiciant servitūtī et nōs et asinōs nostrōs”.
 
 19 Quam ob rem in ipsīs foribus accēdentēs ad dispēnsātōrem domūs
 
-20 locūtī sunt: “ Ōrāmus, domine, ut audiās nōs. Jam ante dēscendimus, ut emerēmus ēscās;
+20 locūtī sunt: ”Ōrāmus, domine, ut audiās nōs. Jam ante dēscendimus, ut emerēmus ēscās;
 
 21 quibus ēmptīs, cum vēnissēmus ad dēversōrium, aperuimus saccōs nostrōs et invēnimus pecūniam in ōre saccōrum; quam nunc eōdem pondere reportāvimus.
 
-22 Sed et aliud attulimus argentum, ut emāmus, quae nōbīs necessāria sunt. Nōn est in nostrā cōnscientiā, quis posuerit argentum in marsūpiīs nostrīs ”.
+22 Sed et aliud attulimus argentum, ut emāmus, quae nōbīs necessāria sunt. Nōn est in nostrā cōnscientiā, quis posuerit argentum in marsūpiīs nostrīs”.
 
-23 At ille respondit: “ Pāx vōbīscum, nōlīte timēre. Deus vester et Deus patris vestrī dedit vōbīs thēsaurōs in saccīs vestrīs; nam pecūniam, quam dedistis mihi, probātam ego habeō ”. Ēdūxitque ad eōs Simeōn.
+23 At ille respondit: ”Pāx vōbīscum, nōlīte timēre. Deus vester et Deus patris vestrī dedit vōbīs thēsaurōs in saccīs vestrīs; nam pecūniam, quam dedistis mihi, probātam ego habeō”. Ēdūxitque ad eōs Simeōn.
 
 24 Et intrōductīs domum attulit aquam, et lāvērunt pedēs suōs; deditque pābulum asinīs eōrum.
 
@@ -2933,15 +2933,15 @@ Fēcērunt, ut dīxerat,
 
 26 Igitur ingressus est Joseph domum suam, obtulēruntque eī mūnera tenentēs in manibus suīs; et adōrāvērunt prōnī in terram.
 
-27 At ille, clēmenter resalūtātīs eīs, interrogāvit eōs dīcēns: “ Salvusne est pater vester senex, dē quō dīxerātis mihi? Adhūc vīvit? ”.
+27 At ille, clēmenter resalūtātīs eīs, interrogāvit eōs dīcēns: ”Salvusne est pater vester senex, dē quō dīxerātis mihi? Adhūc vīvit?”.
 
-28 Quī respondērunt: “ Sospes est servus tuus pater noster, adhūc vīvit ”. Et incurvātī adōrāvērunt eum.
+28 Quī respondērunt: ”Sospes est servus tuus pater noster, adhūc vīvit”. Et incurvātī adōrāvērunt eum.
 
-29 Attollēns autem Joseph oculōs vīdit Beniamin frātrem suum uterīnum et ait: “ Iste est frāter vester parvulus, dē quō dīxerātis mihi? ”. Et rūrsum: “ Deus, inquit, misereātur tuī, fīlī mī ”.
+29 Attollēns autem Joseph oculōs vīdit Beniamin frātrem suum uterīnum et ait: ”Iste est frāter vester parvulus, dē quō dīxerātis mihi?”. Et rūrsum: ”Deus, inquit, misereātur tuī, fīlī mī”.
 
 30 Festīnāvitque, quia commōta fuerant vīscera ejus super frātre suō, et ērumpēbant lacrimae; et introiēns cubiculum flēvit.
 
-31 Rūrsumque, lōtā faciē, ēgressus continuit sē et ait: “ Pōnite pānēs ”.
+31 Rūrsumque, lōtā faciē, ēgressus continuit sē et ait: ”Pōnite pānēs”.
 
 32 Quibus appositīs, seorsum Joseph et seorsum frātribus, Aegyptiīs quoque, quī vēscēbantur simul, seorsum,­ (illicitum est enim Aegyptiīs comedere cum Hebraeīs, et profānum putant hujuscemodī convīvium) ­
 
@@ -2951,25 +2951,25 @@ Fēcērunt, ut dīxerat,
 
 ## 44
 
-1 Praecēpit autem Joseph dispēnsātōrī domūs suae dīcēns: “ Implē saccōs eōrum frūmentō, quantum possunt capere, et pōne pecūniam singulōrum in summitāte saccī.
+1 Praecēpit autem Joseph dispēnsātōrī domūs suae dīcēns: ”Implē saccōs eōrum frūmentō, quantum possunt capere, et pōne pecūniam singulōrum in summitāte saccī.
 
-2 Scyphum autem meum argenteum et pretium, quod dedit trīticī, pōne in ōre saccī jūniōris ”. Factumque est ita.
+2 Scyphum autem meum argenteum et pretium, quod dedit trīticī, pōne in ōre saccī jūniōris”. Factumque est ita.
 
 3 Et, ortō māne, dīmissī sunt cum asinīs suīs.
 
-4 Jamque urbem exierant et prōcesserant paululum, tunc Joseph, arcessītō dispēnsātōre domūs: “ Surge, inquit, et persequere virōs; et apprehēnsīs dīcitō: "Quārē reddidistis malum prō bonō? Cūr fūrātī estis mihi scyphum argenteum?
+4 Jamque urbem exierant et prōcesserant paululum, tunc Joseph, arcessītō dispēnsātōre domūs: ”Surge, inquit, et persequere virōs; et apprehēnsīs dīcitō: "Quārē reddidistis malum prō bonō? Cūr fūrātī estis mihi scyphum argenteum?
 
-5 Nōnne ipse est, in quō bibit dominus meus et in quō augurārī solet? Pessimam rem fēcistis!" ”.
+5 Nōnne ipse est, in quō bibit dominus meus et in quō augurārī solet? Pessimam rem fēcistis!"”.
 
 6 Fēcit ille, ut jusserat, et apprehēnsīs per ōrdinem locūtus est.
 
-7 Quī respondērunt: “ Quārē sīc loquitur dominus noster? Absit ā servīs tuīs, ut tantum flāgitiī commīserīmus.
+7 Quī respondērunt: ”Quārē sīc loquitur dominus noster? Absit ā servīs tuīs, ut tantum flāgitiī commīserīmus.
 
 8 Pecūniam, quam invēnimus in summitāte saccōrum, reportāvimus ad tē dē terrā Chanaan; et quōmodo cōnsequēns est, ut fūrātī sīmus dē domō dominī tuī aurum vel argentum?
 
-9 Apud quemcumque fuerit inventum servōrum tuōrum, quod quaeris, moriātur; et nōs erimus servī dominī nostrī ”.
+9 Apud quemcumque fuerit inventum servōrum tuōrum, quod quaeris, moriātur; et nōs erimus servī dominī nostrī”.
 
-10 Quī dīxit eīs: “ Fīat juxtā vestram sententiam: apud quemcumque fuerit inventum, ipse sit servus meus; vōs autem eritis innoxiī ”.
+10 Quī dīxit eīs: ”Fīat juxtā vestram sententiam: apud quemcumque fuerit inventum, ipse sit servus meus; vōs autem eritis innoxiī”.
 
 11 Itaque festīnātō dēpōnentēs in terram saccōs aperuērunt singulī.
 
@@ -2979,17 +2979,17 @@ Fēcērunt, ut dīxerat,
 
 14 Et Jūdās cum frātribus ingressus est ad Joseph necdum enim dē locō abierat omnēsque ante eum pariter in terram corruērunt.
 
-15 Quibus ille ait: “ Cūr sīc agere voluistis? An ignōrātis quod nōn sit similis meī in augurandī scientiā? ”.
+15 Quibus ille ait: ”Cūr sīc agere voluistis? An ignōrātis quod nōn sit similis meī in augurandī scientiā?”.
 
-16 Cui Jūdās: “ Quid respondēbimus, inquit, dominō meō? Vel quid loquēmur aut jūstē poterimus obtendere? Deus invēnit inīquitātem servōrum tuōrum; ēn omnēs servī sumus dominī meī, et nōs et apud quem inventus est scyphus ”.
+16 Cui Jūdās: ”Quid respondēbimus, inquit, dominō meō? Vel quid loquēmur aut jūstē poterimus obtendere? Deus invēnit inīquitātem servōrum tuōrum; ēn omnēs servī sumus dominī meī, et nōs et apud quem inventus est scyphus”.
 
-17 Respondit Joseph: “ Absit ā mē, ut sīc agam! Quī fūrātus est scyphum, ipse sit servus meus; vōs autem abīte līberī ad patrem vestrum ”.
+17 Respondit Joseph: ”Absit ā mē, ut sīc agam! Quī fūrātus est scyphum, ipse sit servus meus; vōs autem abīte līberī ad patrem vestrum”.
 
-18 Accēdēns autem propius Jūdās cōnfīdenter ait: “ Ōrō, domine mī, loquātur servus tuus verbum in auribus tuīs, et nē īrāscāris famulō tuō; tū es enim sīcut pharaō!
+18 Accēdēns autem propius Jūdās cōnfīdenter ait: ”Ōrō, domine mī, loquātur servus tuus verbum in auribus tuīs, et nē īrāscāris famulō tuō; tū es enim sīcut pharaō!
 
 19 Dominus meus interrogāvit prius servōs suōs: "Habētis patrem aut frātrem?".
 
-20 Et nōs respondimus dominō meō: "Est nōbīs pater senex et puer parvulus, quī in senectūte illīus nātus est, cujus uterīnus frāter mortuus est; et ipse sōlus superest ā mātre suā, pater vērō tenerē dīligit eum" ”.
+20 Et nōs respondimus dominō meō: "Est nōbīs pater senex et puer parvulus, quī in senectūte illīus nātus est, cujus uterīnus frāter mortuus est; et ipse sōlus superest ā mātre suā, pater vērō tenerē dīligit eum"”.
 
 21 Dīxistīque servīs tuīs: "Addūcite eum ad mē, et pōnam oculōs meōs super illum".
 
@@ -3017,17 +3017,17 @@ Fēcērunt, ut dīxerat,
 
 33 Manēbō itaque servus tuus prō puerō in ministeriō dominī meī, et puer ascendat cum frātribus suīs.
 
-34 Nōn enim possum redīre ad patrem meum, absente puerō, nē calamitātis, quae oppressūra est patrem meum, testis assistam ”.
+34 Nōn enim possum redīre ad patrem meum, absente puerō, nē calamitātis, quae oppressūra est patrem meum, testis assistam”.
 
 ## 45
 
-1 Nōn sē poterat ultrā cohibēre Joseph omnibus cōram astantibus, unde clāmāvit: “ Ēgrediminī, cūnctī, forās! ”. Et nēmō aderat cum eō, quandō manifestāvit sē frātribus suīs.
+1 Nōn sē poterat ultrā cohibēre Joseph omnibus cōram astantibus, unde clāmāvit: ”Ēgrediminī, cūnctī, forās!”. Et nēmō aderat cum eō, quandō manifestāvit sē frātribus suīs.
 
 2 Ēlevāvitque vōcem cum flētū, quam audiērunt Aegyptiī omnisque domus pharaōnis.
 
-3 Et dīxit Joseph frātribus suīs: “ Ego sum Joseph! Adhūc pater meus vīvit? ”. Nec poterant respondēre frātrēs nimiō terrōre perterritī.
+3 Et dīxit Joseph frātribus suīs: ”Ego sum Joseph! Adhūc pater meus vīvit?”. Nec poterant respondēre frātrēs nimiō terrōre perterritī.
 
-4 Ad quōs ille clēmenter: “ Accēdite, inquit, ad mē ”. Et cum accessissent prope: “ Ego sum, ait, Joseph frāter vester, quem vēndidistis in Aegyptum.
+4 Ad quōs ille clēmenter: ”Accēdite, inquit, ad mē”. Et cum accessissent prope: ”Ego sum, ait, Joseph frāter vester, quem vēndidistis in Aegyptum.
 
 5 Nōlīte contrīstārī, neque vōbīs dūrum esse videātur quod vēndidistis mē in hīs regiōnibus. Prō salūte enim vestrā mīsit mē Deus ante vōs in Aegyptum.
 
@@ -3045,21 +3045,21 @@ Fēcērunt, ut dīxerat,
 
 12 Ēn oculī vestrī et oculī frātris meī Beniamin vident quia ōs meum est, quod loquitur ad vōs.
 
-13 Nūntiāte patrī meō ūniversam glōriam meam in Aegyptō et cūncta, quae vīdistis. Festīnāte et addūcite eum ad mē ”.
+13 Nūntiāte patrī meō ūniversam glōriam meam in Aegyptō et cūncta, quae vīdistis. Festīnāte et addūcite eum ad mē”.
 
 14 Cumque amplexātus recidisset in collum Beniamin frātris suī, flēvit, illō quoque similiter flente, super collum ejus.
 
 15 Ōsculātusque est Joseph omnēs frātrēs suōs et plōrāvit super singulōs. Post quae ausī sunt loquī ad eum.
 
-16 Audītumque est et celebrī sermōne vulgātum in aulā rēgis: “Vēnērunt frātrēs Joseph! ”. Et gāvīsus est pharaō atque omnis familia ejus.
+16 Audītumque est et celebrī sermōne vulgātum in aulā rēgis: “Vēnērunt frātrēs Joseph!”. Et gāvīsus est pharaō atque omnis familia ejus.
 
-17 Dīxitque ad Joseph, ut imperāret frātribus suīs dīcēns: “ Onerantēs jūmenta īte in terram Chanaan
+17 Dīxitque ad Joseph, ut imperāret frātribus suīs dīcēns: ”Onerantēs jūmenta īte in terram Chanaan
 
 18 et tollite inde patrem vestrum et cognātiōnem et venīte ad mē; et ego dabō vōbīs omnia bona Aegyptī, ut comedātis medullam terrae.
 
 19 Praecipe etiam: tollite plaustra dē terrā Aegyptī ad subvectiōnem parvulōrum vestrōrum ac conjugum et tollite patrem vestrum et properāte quantōcius venientēs.
 
-20 Nec doleātis super supellectilem vestram, quia omnēs opēs Aegyptī vestrae erunt ”.
+20 Nec doleātis super supellectilem vestram, quia omnēs opēs Aegyptī vestrae erunt”.
 
 21 Fēcēruntque fīliī Isrāēl, ut eīs mandātum fuerat. Quibus dedit Joseph plaustra secundum pharaōnis imperium et cibāria in itinere.
 
@@ -3067,25 +3067,25 @@ Fēcērunt, ut dīxerat,
 
 23 vestīmentīs mūtātōriīs. Patrī suō mīsit similiter asinōs decem, quī subveherent ex omnibus dīvitiīs Aegyptī, et totidem asinās trīticum et pānem et cibum prō itinere portantēs.
 
-24 Dīmīsit ergō frātrēs suōs et proficīscentibus ait: “ Nē īrāscāminī in viā! ”.
+24 Dīmīsit ergō frātrēs suōs et proficīscentibus ait: ”Nē īrāscāminī in viā!”.
 
 25 Quī ascendentēs ex Aegyptō vēnērunt in terram Chanaan ad patrem suum Jācōb
 
-26 et nūntiāvērunt eī dīcentēs: “ Joseph vīvit et ipse dominātur in omnī terrā Aegyptī! ”. At cor ejus frīgidum mānsit; nōn enim crēdēbat eīs.
+26 et nūntiāvērunt eī dīcentēs: ”Joseph vīvit et ipse dominātur in omnī terrā Aegyptī!”. At cor ejus frīgidum mānsit; nōn enim crēdēbat eīs.
 
 27 Tunc referēbant omnia verba Joseph, quae dīxerat eīs. Cumque vīdisset plaustra et ūniversa, quae mīserat ad addūcendum eum, revīxit spīritus ejus,
 
-28 et ait: “ Sufficit mihi, sī adhūc Joseph fīlius meus vīvit. Vādam et vidēbō illum, antequam moriar ”.
+28 et ait: ”Sufficit mihi, sī adhūc Joseph fīlius meus vīvit. Vādam et vidēbō illum, antequam moriar”.
 
 ## 46
 
 1 Profectusque Isrāēl cum omnibus, quae habēbat, vēnit Bersabeē et, mactātīs ibi victimīs Deō patris suī Isaac,
 
-2 audīvit eum per vīsiōnem noctis vocantem sē: “ Jācōb, Jācōb! ”. Cui respondit: “ Ecce adsum! ”.
+2 audīvit eum per vīsiōnem noctis vocantem sē: ”Jācōb, Jācōb!”. Cui respondit: ”Ecce adsum!”.
 
-3 Ait illī: “ Ego sum Deus, Deus patris tuī. Nōlī timēre dēscendere in Aegyptum, quia in gentem magnam faciam tē ibi.
+3 Ait illī: ”Ego sum Deus, Deus patris tuī. Nōlī timēre dēscendere in Aegyptum, quia in gentem magnam faciam tē ibi.
 
-4 Ego dēscendam tēcum illūc et ego inde addūcam tē revertentem; Joseph quoque pōnet manūs suās super oculōs tuōs ”.
+4 Ego dēscendam tēcum illūc et ego inde addūcam tē revertentem; Joseph quoque pōnet manūs suās super oculōs tuōs”.
 
 5 Surrēxit igitur Jācōb ā Bersabee, tulēruntque eum fīliī cum parvulīs et uxōribus suīs in plaustrīs, quae mīserat pharaō ad portandum senem,
 
@@ -3139,35 +3139,35 @@ Prīmōgenitus Ruben.
 
 29 Et vēnērunt in terram Gessen. Jūnctōque Joseph currū suō, ascendit obviam patrī suō in Gessēn; vidēnsque eum irruit super collum ejus et inter amplexūs diū flēvit.
 
-30 Dīxitque Isrāēl ad Joseph: “ Jam laetus moriar, quia vīdī faciem tuam et superstitem tē relinquō ”.
+30 Dīxitque Isrāēl ad Joseph: ”Jam laetus moriar, quia vīdī faciem tuam et superstitem tē relinquō”.
 
-31 Et ille locūtus est ad frātrēs suōs et ad omnem domum patris suī: “ Ascendam et nūntiābō pharaōnī dīcamque eī: Frātrēs meī et domus patris meī, quī erant in terrā Chanaan, vēnērunt ad mē.
+31 Et ille locūtus est ad frātrēs suōs et ad omnem domum patris suī: ”Ascendam et nūntiābō pharaōnī dīcamque eī: Frātrēs meī et domus patris meī, quī erant in terrā Chanaan, vēnērunt ad mē.
 
 32 Et sunt virī pāstōrēs ovium cūramque habent alendōrum gregum; pecora sua et armenta et omnia, quae habēre potuērunt, addūxērunt sēcum.
 
 33 Cumque vocāverit vōs et dīxerit: "Quod est opus vestrum?".
 
-34 Respondēbitis: "Virī pāstōrēs sumus servī tuī ab īnfantiā nostrā usque in praesēns et nōs et patrēs nostrī". Haec autem dīcētis, ut habitāre possītis in terrā Gessen, quia dētestantur Aegyptiī omnēs pāstōrēs ovium ”.
+34 Respondēbitis: "Virī pāstōrēs sumus servī tuī ab īnfantiā nostrā usque in praesēns et nōs et patrēs nostrī". Haec autem dīcētis, ut habitāre possītis in terrā Gessen, quia dētestantur Aegyptiī omnēs pāstōrēs ovium”.
 
 ## 47
 
-1 Ingressus ergō Joseph nūntiāvit pharaōnī dīcēns: “ Pater meus et frātrēs, ovēs eōrum et armenta et cūncta, quae possident, vēnērunt dē terrā Chanaan; et ecce cōnsistunt in terrā Gessen ”.
+1 Ingressus ergō Joseph nūntiāvit pharaōnī dīcēns: ”Pater meus et frātrēs, ovēs eōrum et armenta et cūncta, quae possident, vēnērunt dē terrā Chanaan; et ecce cōnsistunt in terrā Gessen”.
 
 2 Ex omnibus frātribus suīs quīnque virōs statuit cōram rēge,
 
-3 quōs ille interrogāvit: “ Quid habētis operis? ”. Respondērunt: “ Pāstōrēs ovium sumus servī tuī et nōs et patrēs nostrī ”.
+3 quōs ille interrogāvit: ”Quid habētis operis?”. Respondērunt: ”Pāstōrēs ovium sumus servī tuī et nōs et patrēs nostrī”.
 
-4 Dīxēruntque ad pharaōnem: “ Ad peregrīnandum in terrā vēnimus, quoniam nōn est herba gregibus servōrum tuōrum, ingravēscente famē, in terrā Chanaan petimusque, ut esse nōs jubeās servōs tuōs in terrā Gessen ”.
+4 Dīxēruntque ad pharaōnem: ”Ad peregrīnandum in terrā vēnimus, quoniam nōn est herba gregibus servōrum tuōrum, ingravēscente famē, in terrā Chanaan petimusque, ut esse nōs jubeās servōs tuōs in terrā Gessen”.
 
-5 Dīxit itaque rēx ad Joseph: “ Pater tuus et frātrēs tuī vēnērunt ad tē.
+5 Dīxit itaque rēx ad Joseph: ”Pater tuus et frātrēs tuī vēnērunt ad tē.
 
-6 Terra Aegyptī in cōnspectū tuō est; in optimō locō fac eōs habitāre et trāde eīs terram Gessen. Quod sī nōstī in eīs esse virōs industriōs, cōnstitue illōs magistrōs pecorum meōrum ”.
+6 Terra Aegyptī in cōnspectū tuō est; in optimō locō fac eōs habitāre et trāde eīs terram Gessen. Quod sī nōstī in eīs esse virōs industriōs, cōnstitue illōs magistrōs pecorum meōrum”.
 
 7 Post haec intrōdūxit Joseph patrem suum ad rēgem et statuit eum cōram eō, quī benedīcēns illī
 
-8 et interrogātus ab eō: “ Quot sunt diēs annōrum vītae tuae? ”,
+8 et interrogātus ab eō: ”Quot sunt diēs annōrum vītae tuae?”,
 
-9 respondit: “ Diēs peregrīnātiōnis meae centum trīgintā annōrum sunt, parvī et malī; et nōn pervēnērunt usque ad diēs patrum meōrum, quibus peregrīnātī sunt ”.
+9 respondit: ”Diēs peregrīnātiōnis meae centum trīgintā annōrum sunt, parvī et malī; et nōn pervēnērunt usque ad diēs patrum meōrum, quibus peregrīnātī sunt”.
 
 10 Et benedictō rēge, ēgressus est forās.
 
@@ -3179,15 +3179,15 @@ Prīmōgenitus Ruben.
 
 14 Ē quibus omnem pecūniam congregāvit prō vēnditiōne frūmentī et intulit eam in aerārium rēgis.
 
-15 Cumque dēfēcisset ēmptōribus pretium, vēnit cūncta Aegyptus ad Joseph dīcēns: “ Dā nōbīs pānēs! Quārē morimur cōram tē, dēficiente pecūniā? ”.
+15 Cumque dēfēcisset ēmptōribus pretium, vēnit cūncta Aegyptus ad Joseph dīcēns: ”Dā nōbīs pānēs! Quārē morimur cōram tē, dēficiente pecūniā?”.
 
-16 Quibus ille respondit: “ Addūcite pecora vestra, et dabō vōbīs prō eīs cibōs, sī pretium nōn habētis ”.
+16 Quibus ille respondit: ”Addūcite pecora vestra, et dabō vōbīs prō eīs cibōs, sī pretium nōn habētis”.
 
 17 Quae cum addūxissent, dedit eīs alimenta prō equīs et ovibus et bōbus et asinīs; sustentāvitque eōs illō annō prō commūtātiōne pecorum.
 
-18 Vēnērunt quoque annō secundō et dīxērunt eī: “ Nōn cēlāmus dominum nostrum quod, dēficiente pecūniā, pecora trānsiērunt ad dominum nostrum; nec clam tē est quod absque corporibus et terrā nihil habeāmus.
+18 Vēnērunt quoque annō secundō et dīxērunt eī: ”Nōn cēlāmus dominum nostrum quod, dēficiente pecūniā, pecora trānsiērunt ad dominum nostrum; nec clam tē est quod absque corporibus et terrā nihil habeāmus.
 
-19 Cūr ergō moriēmur, tē vidente, et nōs et terra nostra? Eme nōs et terram nostram in servitūtem rēgiam et praebē sēmina, nē, pereunte cultōre, redigātur terra in sōlitūdinem ”.
+19 Cūr ergō moriēmur, tē vidente, et nōs et terra nostra? Eme nōs et terram nostram in servitūtem rēgiam et praebē sēmina, nē, pereunte cultōre, redigātur terra in sōlitūdinem”.
 
 20 Ēmit igitur Joseph omnem terram Aegyptī, vēndentibus singulīs possessiōnēs suās prae magnitūdine famis. Subjēcitque eam pharaōnī
 
@@ -3195,11 +3195,11 @@ Prīmōgenitus Ruben.
 
 22 Terram autem sacerdōtum nōn ēmit, quī cibāriīs ā rēge statūtīs fruēbantur, et idcircō nōn sunt compulsī vēndere possessiōnēs suās.
 
-23 Dīxit ergō Joseph ad populōs: “ Ēn, ut cernitis, et vōs et terram vestram pharaō possidet; accipite sēmina et serite agrōs,
+23 Dīxit ergō Joseph ad populōs: ”Ēn, ut cernitis, et vōs et terram vestram pharaō possidet; accipite sēmina et serite agrōs,
 
-24 ut frūgēs habēre possītis. Quīntam partem rēgī dabitis; quattuor reliquās permittō vōbīs in sēmentem et in cibum familiīs et līberīs vestrīs ”.
+24 ut frūgēs habēre possītis. Quīntam partem rēgī dabitis; quattuor reliquās permittō vōbīs in sēmentem et in cibum familiīs et līberīs vestrīs”.
 
-25 Quī respondērunt: “ Tū salvāstī nōs! Respiciat nōs tantum dominus noster, et laetī serviēmus rēgī ”.
+25 Quī respondērunt: ”Tū salvāstī nōs! Respiciat nōs tantum dominus noster, et laetī serviēmus rēgī”.
 
 26 Ex eō tempore usque in praesentem diem in ūniversā terrā Aegyptī rēgibus quīnta pars solvitur; et factum est ā Joseph in lēgem absque terrā sacerdōtālī, quae lībera ab hāc condiciōne est.
 
@@ -3207,19 +3207,19 @@ Prīmōgenitus Ruben.
 
 28 Et vīxit Jācōb in terrā Aegyptī decem et septem annīs; factīque sunt omnēs diēs vītae illīus centum quadrāgintā septem annōrum.
 
-29 Cumque appropinquāre cerneret diem mortis suae, vocāvit fīlium suum Joseph et dīxit ad eum: “ Sī invēnī grātiam in cōnspectū tuō, pōne manum tuam sub femore meō et faciēs mihi misericordiam et vēritātem, ut nōn sepeliās mē in Aegyptō,
+29 Cumque appropinquāre cerneret diem mortis suae, vocāvit fīlium suum Joseph et dīxit ad eum: ”Sī invēnī grātiam in cōnspectū tuō, pōne manum tuam sub femore meō et faciēs mihi misericordiam et vēritātem, ut nōn sepeliās mē in Aegyptō,
 
-30 sed dormiam cum patribus meīs, et auferās mē dē terrā hāc condāsque in sepulcrō majōrum meōrum ”. Cui respondit Joseph: “ Ego faciam, quod jussistī ”.
+30 sed dormiam cum patribus meīs, et auferās mē dē terrā hāc condāsque in sepulcrō majōrum meōrum”. Cui respondit Joseph: ”Ego faciam, quod jussistī”.
 
-31 Et ille: “ Jūrā ergō, inquit, mihi! ”. Quō jūrante, adōrāvit Isrāēl conversus ad lectulī caput.
+31 Et ille: ”Jūrā ergō, inquit, mihi!”. Quō jūrante, adōrāvit Isrāēl conversus ad lectulī caput.
 
 ## 48
 
 1 Hīs ita trānsāctīs, nūntiātum est Joseph quod aegrōtāret pater suus. Et assūmpsit sēcum duōs fīliōs Mānāsse et Ephraim.
 
-2 Dictumque est senī: “ Ecce fīlius tuus Joseph venit ad tē ”. Quī cōnfortātus sēdit in lectulō
+2 Dictumque est senī: ”Ecce fīlius tuus Joseph venit ad tē”. Quī cōnfortātus sēdit in lectulō
 
-3 et ingressō ad sē ait: “ Deus omnipotēns appāruit mihi in Luzā, quae est in terrā Chanaan, benedīxitque mihi
+3 et ingressō ad sē ait: ”Deus omnipotēns appāruit mihi in Luzā, quae est in terrā Chanaan, benedīxitque mihi
 
 4 et ait: "Ego tē augēbō et multiplicābō et faciam tē in multitūdinem populōrum; dabōque tibi terram hanc et sēminī tuō post tē in possessiōnem sempiternam".
 
@@ -3227,15 +3227,15 @@ Prīmōgenitus Ruben.
 
 6 Reliquōs autem, quōs genueris post eōs, tuī erunt et nōmine frātrum suōrum vocābuntur in possessiōnibus suīs.
 
-7 Mihi enim, quandō veniēbam dē Paddanaram, mortua est Rachel māter tua in terrā Chanaan in ipsō itinere, cum adhūc esset spatium aliquod usque ad Ephratham, et sepelīvī eam juxtā viam Ephrathae, quae aliō nōmine appellātur Bethlehem ”.
+7 Mihi enim, quandō veniēbam dē Paddanaram, mortua est Rachel māter tua in terrā Chanaan in ipsō itinere, cum adhūc esset spatium aliquod usque ad Ephratham, et sepelīvī eam juxtā viam Ephrathae, quae aliō nōmine appellātur Bethlehem”.
 
-8 Vidēns autem fīliōs ejus dīxit ad eum: “ Quī sunt istī? ”.
+8 Vidēns autem fīliōs ejus dīxit ad eum: ”Quī sunt istī?”.
 
-9 Respondit: “ Fīliī meī sunt, quōs dōnāvit mihi Deus in hōc locō ”. “ Addūc, inquit, eōs ad mē, ut benedīcam illīs! ”.
+9 Respondit: ”Fīliī meī sunt, quōs dōnāvit mihi Deus in hōc locō”. ”Addūc, inquit, eōs ad mē, ut benedīcam illīs!”.
 
 10 Oculī enim Isrāēl cālīgābant prae nimiā senectūte, et clārē vidēre nōn poterat. Applicitōsque ad sē deōsculātus et circumplexus eōs
 
-11 dīxit ad fīlium suum: “ Nōn sum fraudātus aspectū tuō; īnsuper ostendit mihi Deus sēmen tuum ”.
+11 dīxit ad fīlium suum: ”Nōn sum fraudātus aspectū tuō; īnsuper ostendit mihi Deus sēmen tuum”.
 
 12 Cumque tulisset eōs Joseph dē gremiō patris, adōrāvit prōnus in terram.
 
@@ -3245,7 +3245,7 @@ Prīmōgenitus Ruben.
 
 15 Benedīxitque Jācōb Joseph et ait:
 
-“ Deus, in cujus cōnspectū ambulāvērunt
+”Deus, in cujus cōnspectū ambulāvērunt
 
 patrēs meī Abraham et Isaac,
 
@@ -3263,27 +3263,27 @@ nōmina quoque patrum meōrum Abraham et Isaac,
 
 et crēscant in multitūdinem
 
-super terram! ”.
+super terram!”.
 
 17 Vidēns autem Joseph quod posuisset pater suus dexteram manum super caput Ephraim, graviter accēpit et apprehēnsam manum patris levāre cōnātus est dē capite Ephraim et trānsferre super caput Mānāsse.
 
-18 Dīxitque ad patrem: “ Nōn ita convenit, pater, quia hic est prīmōgenitus; pōne dexteram tuam super caput ejus! ”.
+18 Dīxitque ad patrem: ”Nōn ita convenit, pater, quia hic est prīmōgenitus; pōne dexteram tuam super caput ejus!”.
 
-19 Quī renuēns ait: “ Sciō, fīlī mī, sciō; et iste quidem erit in populōs et multiplicābitur, sed frāter ejus minor major erit illō, et sēmen illīus crēscet in plēnitūdinem gentium ”.
+19 Quī renuēns ait: ”Sciō, fīlī mī, sciō; et iste quidem erit in populōs et multiplicābitur, sed frāter ejus minor major erit illō, et sēmen illīus crēscet in plēnitūdinem gentium”.
 
 20 Benedīxitque eīs in diē illō dīcēns:
 
-“ In tē benedīcet Isrāēl atque dīcet: "Faciat tē Deus sīcut Ephraim et sīcut Mānāsse!" ”.
+”In tē benedīcet Isrāēl atque dīcet: "Faciat tē Deus sīcut Ephraim et sīcut Mānāsse!"”.
 
 Cōnstituitque Ephraim ante Mānāssen.
 
-21 Et ait ad Joseph fīlium suum: “ Ēn ego morior, et erit Deus vōbīscum redūcetque vōs ad terram patrum vestrōrum.
+21 Et ait ad Joseph fīlium suum: ”Ēn ego morior, et erit Deus vōbīscum redūcetque vōs ad terram patrum vestrōrum.
 
-22 Dō tibi partem ūnam extrā frātrēs tuōs, quam tulī dē manū Amorraeī in gladiō et arcū meō ”.
+22 Dō tibi partem ūnam extrā frātrēs tuōs, quam tulī dē manū Amorraeī in gladiō et arcū meō”.
 
 ## 49
 
-1 Vocāvit autem Jācōb fīliōs suōs et ait eīs: “ Congregāminī, ut annūntiem, quae ventūra sunt vōbīs in diēbus novissimīs.
+1 Vocāvit autem Jācōb fīliōs suōs et ait eīs: ”Congregāminī, ut annūntiem, quae ventūra sunt vōbīs in diēbus novissimīs.
 
 2 Congregāminī et audīte, fīliī Jācōb,
 
@@ -3443,15 +3443,15 @@ et in vertice nazaraeī inter frātrēs suōs.
 
 māne comedet praedam
 
-et vespere dīvidet spolia ”.
+et vespere dīvidet spolia”.
 
 28 Omnēs hī in tribubus Isrāēl duodecim. Haec locūtus est eīs pater suus benedīxitque singulīs benedictiōnibus propriīs.
 
-29 Et praecēpit eīs dīcēns: “ Ego congregor ad populum meum; sepelīte mē cum patribus meīs in spēluncā Machpela, quae est in agrō Ephron Hetthaēī
+29 Et praecēpit eīs dīcēns: ”Ego congregor ad populum meum; sepelīte mē cum patribus meīs in spēluncā Machpela, quae est in agrō Ephron Hetthaēī
 
 30 contrā Mambre in terrā Chanaan, quam ēmit Abraham cum agrō ab Ephron Hetthaeō in possessiōnem sepulcrī;
 
-31 ibi sepeliērunt eum et Saram uxōrem ejus, ibi sepultus est Isaac cum Rebeccā conjuge suā, ibi et Līa condita jacet ”.
+31 ibi sepeliērunt eum et Saram uxōrem ejus, ibi sepultus est Isaac cum Rebeccā conjuge suā, ibi et Līa condita jacet”.
 
 32 Fīnītīsque mandātīs, quibus fīliōs īnstruēbat, collēgit pedēs suōs super lectulum et obiit; appositusque est ad populum suum.
 
@@ -3463,11 +3463,11 @@ et vespere dīvidet spolia ”.
 
 3 Quibus jussa explentibus, trānsiērunt quadrāgintā diēs; iste quippe mōs erat cadāverum conditōrum. Flēvitque eum Aegyptus septuāgintā diēbus.
 
-4 Et, explētō plānctūs tempore, locūtus est Joseph ad familiam pharaōnis: “ Sī invēnī grātiam in cōnspectū vestrō, loquiminī in auribus pharaōnis,
+4 Et, explētō plānctūs tempore, locūtus est Joseph ad familiam pharaōnis: ”Sī invēnī grātiam in cōnspectū vestrō, loquiminī in auribus pharaōnis,
 
-5 eō quod pater meus adjūrāverit mē dīcēns: "Ēn morior; in sepulcrō meō, quod fōdī mihi in terrā Chanaan, sepeliēs mē"; ascendam nunc et sepeliam patrem meum ac revertar ”.
+5 eō quod pater meus adjūrāverit mē dīcēns: "Ēn morior; in sepulcrō meō, quod fōdī mihi in terrā Chanaan, sepeliēs mē"; ascendam nunc et sepeliam patrem meum ac revertar”.
 
-6 Dīxitque eī pharaō: “ Ascende et sepelī patrem tuum, sīcut adjūrātus es ”.
+6 Dīxitque eī pharaō: ”Ascende et sepelī patrem tuum, sīcut adjūrātus es”.
 
 7 Quō ascendente, iērunt cum eō omnēs servī pharaōnis, senēs domūs ejus cūnctīque majōrēs nātū terrae Aegyptī,
 
@@ -3477,7 +3477,7 @@ et vespere dīvidet spolia ”.
 
 10 Vēnēruntque ad Gorenatad (id est Arēam rhamnī), quae sita est trāns Jordānem; ubi celebrantēs exsequiās plānctū magnō atque vehementī implēvērunt septem diēs.
 
-11 Quod cum vīdissent habitātōrēs terrae Chanaan, dīxērunt: “ Plānctus magnus est iste Aegyptiīs ”; et idcircō vocātum est nōmen locī illīus Abelmesraim (id est Plānctus Aegyptī).
+11 Quod cum vīdissent habitātōrēs terrae Chanaan, dīxērunt: ”Plānctus magnus est iste Aegyptiīs”; et idcircō vocātum est nōmen locī illīus Abelmesraim (id est Plānctus Aegyptī).
 
 12 Fēcērunt ergō fīliī Jācōb, sīcut praecēperat eīs;
 
@@ -3485,27 +3485,27 @@ et vespere dīvidet spolia ”.
 
 14 Reversusque est Joseph in Aegyptum cum frātribus suīs et omnī comitātū, sepultō patre.
 
-15 Quō mortuō, timentēs frātrēs ejus et mūtuō colloquentēs: “ Nē forte memor sit injūriae, quam passus est, et reddat nōbīs omne malum, quod fēcimus ”,
+15 Quō mortuō, timentēs frātrēs ejus et mūtuō colloquentēs: ”Nē forte memor sit injūriae, quam passus est, et reddat nōbīs omne malum, quod fēcimus”,
 
-16 mandāvērunt eī dīcentēs: “ Pater tuus praecēpit nōbīs, antequam morerētur,
+16 mandāvērunt eī dīcentēs: ”Pater tuus praecēpit nōbīs, antequam morerētur,
 
-17 ut haec tibi verbīs illīus dīcerēmus: "Obsecrō, ut oblīvīscāris sceleris frātrum tuōrum et peccātī atque malitiae, quam exercuērunt in tē". Nōs quoque ōrāmus, ut servīs Deī patris tuī dīmittās inīquitātem hanc ”. Quibus audītīs, flēvit Joseph.
+17 ut haec tibi verbīs illīus dīcerēmus: "Obsecrō, ut oblīvīscāris sceleris frātrum tuōrum et peccātī atque malitiae, quam exercuērunt in tē". Nōs quoque ōrāmus, ut servīs Deī patris tuī dīmittās inīquitātem hanc”. Quibus audītīs, flēvit Joseph.
 
-18 Vēnēruntque ad eum frātrēs suī et prōnī cōram eō dīxērunt: “ Servī tuī sumus ”.
+18 Vēnēruntque ad eum frātrēs suī et prōnī cōram eō dīxērunt: ”Servī tuī sumus”.
 
-19 Quibus ille respondit: “ Nōlīte timēre. Num Deī possumus resistere voluntātī?
+19 Quibus ille respondit: ”Nōlīte timēre. Num Deī possumus resistere voluntātī?
 
 20 Vōs cōgitāstis dē mē malum; sed Deus vertit illud in bonum, ut exaltāret mē, sīcut in praesentiārum cernitis, et salvōs faceret multōs populōs.
 
-21 Nōlīte timēre: ego pāscam vōs et parvulōs vestrōs ”. Cōnsōlātusque est eōs et blandē ac lēniter est locūtus.
+21 Nōlīte timēre: ego pāscam vōs et parvulōs vestrōs”. Cōnsōlātusque est eōs et blandē ac lēniter est locūtus.
 
 22 Et habitāvit in Aegyptō cum omnī domō patris suī; vīxitque centum decem annīs
 
 23 et vīdit Ephraim fīliōs usque ad tertiam generātiōnem; fīliī quoque Machir fīliī Mānāsse nātī sunt in genibus Joseph.
 
-24 Quibus trānsāctīs, locūtus est frātribus suīs: “ Post mortem meam Deus vīsitābit vōs et ascendere vōs faciet dē terrā istā ad terram, quam jūrāvit Abraham, Isaac et Jācōb ”.
+24 Quibus trānsāctīs, locūtus est frātribus suīs: ”Post mortem meam Deus vīsitābit vōs et ascendere vōs faciet dē terrā istā ad terram, quam jūrāvit Abraham, Isaac et Jācōb”.
 
-25 Cumque adjūrāsset eōs atque dīxisset: “ Deus vīsitābit vōs; asportāte ossa mea vōbīscum dē locō istō ”,
+25 Cumque adjūrāsset eōs atque dīxisset: ”Deus vīsitābit vōs; asportāte ossa mea vōbīscum dē locō istō”,
 
 26 mortuus est, explētīs centum decem vītae suae annīs. Et conditus arōmatibus repositus est in loculō in Aegyptō.
 
