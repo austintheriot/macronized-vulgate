@@ -4,9 +4,9 @@
 
 ## 1
 
-1 Paulus et Silvānus et Tīmotheus ecclēsiae Thessalonīcēnsium in Deō Patre nostrō et Dominō **Iēsu** Chrīstō:
+1 Paulus et Silvānus et Tīmotheus ecclēsiae Thessalonīcēnsium in Deō Patre nostrō et Dominō Iēsū Chrīstō:
 
-2 **grātia** vōbīs et pāx ā Deō Patre nostrō et Dominō **Iēsu** Chrīstō.
+2 **grātia** vōbīs et pāx ā Deō Patre nostrō et Dominō Iēsū Chrīstō.
 
 3 **Grātiās** **agere** dēbēmus Deō semper prō vōbīs, frātrēs, sīcut dignum **est**, quoniam supercrēscit **fidēs** **vestra**, et abundat **cāritās** ūnīuscuiusque omnium vestrum in invicem,
 
@@ -16,9 +16,9 @@
 
 6 sī quidem iūstum **est** apud Deum **retribuere** trībulātiōnem hīs, quī vōs trībulant,
 
-7 et vōbīs, quī trībulāminī, requiem nōbīscum in revēlātiōne Dominī **Iēsu** dē caelō cum angelīs **virtūtis** eius,
+7 et vōbīs, quī trībulāminī, requiem nōbīscum in revēlātiōne Dominī Iēsū dē caelō cum angelīs **virtūtis** eius,
 
-8 in igne flammae, **dantīs** vindictam hīs, quī nōn nōvērunt Deum et quī nōn oboediunt ēvangeliō Dominī nostrī **Iēsu**;
+8 in igne flammae, **dantīs** vindictam hīs, quī nōn nōvērunt Deum et quī nōn oboediunt ēvangeliō Dominī nostrī Iēsū;
 
 9 quī poenās dabunt interitū aeternō ā faciē Dominī et ā **glōriā** **virtūtis** eius,
 
@@ -26,11 +26,11 @@
 
 11 Ad quod etiam ōrāmus semper prō vōbīs, ut dignētur vōs vocātiōne **suā** Deus noster et impleat omnem voluntātem bonitātis et opus fideī in virtūte;
 
-12 ut glōrificētur **nōmen** Dominī nostrī **Iēsu** Chrīstī in vōbīs, et vōs in illō, secundum grātiam Deī nostrī et Dominī **Iēsu** Chrīstī.
+12 ut glōrificētur **nōmen** Dominī nostrī Iēsū Chrīstī in vōbīs, et vōs in illō, secundum grātiam Deī nostrī et Dominī Iēsū Chrīstī.
 
 ## 2
 
-1 Rogāmus autem vōs, frātrēs, circā adventum Dominī nostrī **Iēsu** Chrīstī et nostram congregātiōnem in ipsum,
+1 Rogāmus autem vōs, frātrēs, circā adventum Dominī nostrī Iēsū Chrīstī et nostram congregātiōnem in ipsum,
 
 2 ut nōn **cito** moveāminī ā sēnsū neque terreāminī, neque per spīritum neque per verbum neque per epistulam tamquam per nōs, quasi īnstet diēs Dominī.
 
@@ -56,7 +56,7 @@
 
 13 Nōs autem dēbēmus grātiās **agere** Deō semper prō vōbīs, frātrēs, dīlēctī ā Dominō, quod ēlēgerit vōs Deus prīmitiās in salūtem, in sānctificātiōne **Spīritus** et **fide** vēritātis;
 
-14 ad quod et vocāvit vōs per ēvangelium nostrum in acquīsītiōnem glōriae Dominī nostrī **Iēsu** Chrīstī.
+14 ad quod et vocāvit vōs per ēvangelium nostrum in acquīsītiōnem glōriae Dominī nostrī Iēsū Chrīstī.
 
 15 Itaque, frātrēs, **stāte** et tenēte trāditiōnēs, quās didicistis sīve per sermōnem sīve per epistulam nostram.
 
@@ -76,7 +76,7 @@
 
 5 Dominus autem dīrigat **corda** **vestra** in cāritātem Deī et patientiam Chrīstī.
 
-6 Praecipimus autem vōbīs, frātrēs, in nōmine Dominī nostrī **Iēsu** Chrīstī, ut subtrahātis vōs ab omnī frātre ambulante **inōrdinātē** et nōn secundum trāditiōnem, quam accēpērunt ā nōbīs.
+6 Praecipimus autem vōbīs, frātrēs, in nōmine Dominī nostrī Iēsū Chrīstī, ut subtrahātis vōs ab omnī frātre ambulante **inōrdinātē** et nōn secundum trāditiōnem, quam accēpērunt ā nōbīs.
 
 7 Ipsī enim **scītis** quemadmodum oporteat imitārī nōs, quoniam nōn inōrdinātī fuimus inter vōs
 
@@ -88,7 +88,7 @@
 
 11 Audīmus enim inter vōs quōsdam ambulāre **inōrdinātē**, nihil operantēs sed **cūriōsē** agentēs;
 
-12 hīs autem, quī eiusmodī sunt, praecipimus et obsecrāmus in Dominō **Iēsu** Chrīstō, ut cum **quiētē** operantēs suum pānem mandūcent.
+12 hīs autem, quī eiusmodī sunt, praecipimus et obsecrāmus in Dominō Iēsū Chrīstō, ut cum **quiētē** operantēs suum pānem mandūcent.
 
 13 Vōs autem, frātrēs, nōlīte dēficere benefacientēs.
 
@@ -100,6 +100,6 @@
 
 17 Salūtātiō **mea** manū Paulī, quod **est** signum in omnī **epistulā**; **ita** scrībō.
 
-18 **Grātia** Dominī nostrī **Iēsu** Chrīstī cum omnibus vōbīs.
+18 **Grātia** Dominī nostrī Iēsū Chrīstī cum omnibus vōbīs.
 
 

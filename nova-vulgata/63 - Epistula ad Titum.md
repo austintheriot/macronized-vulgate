@@ -4,13 +4,13 @@
 
 ## 1
 
-1 Paulus servus Deī, apostolus autem **Iēsu** Chrīstī secundum fidem **ēlēctōrum** Deī et agnitiōnem vēritātis, quae secundum pietātem **est**
+1 Paulus servus Deī, apostolus autem Iēsū Chrīstī secundum fidem **ēlēctōrum** Deī et agnitiōnem vēritātis, quae secundum pietātem **est**
 
 2 in spem vītae aeternae, quam prōmīsit, quī nōn mentītur, Deus ante tempora saeculāria;
 
 3 manifestāvit autem temporibus **suīs** verbum suum in praedicātiōne, quae **crēdita** **est** mihi secundum praeceptum salvātōris nostrī Deī,
 
-4 Titō germānō fīliō secundum commūnem fidem: **grātia** et pāx ā Deō Patre et Chrīstō **Iēsu** salvātōre nostrō.
+4 Titō germānō fīliō secundum commūnem fidem: **grātia** et pāx ā Deō Patre et Chrīstō Iēsū salvātōre nostrō.
 
 5 Huius reī **grātia** **reliquī** tē Crētae, ut **ea**, quae dēsunt, corrigās et cōnstituās per cīvitātēs presbyterōs, sīcut ego tibi disposuī,
 
@@ -64,7 +64,7 @@
 
 12 ērudiēns nōs, ut abnegantēs impietātem et saeculāria dēsīderia **sōbriē** et **iūstē** et **piē** vīvāmus in **hōc** saeculō,
 
-13 exspectantēs beātam spem et adventum glōriae magnī Deī et salvātōris nostrī **Iēsu** Chrīstī;
+13 exspectantēs beātam spem et adventum glōriae magnī Deī et salvātōris nostrī Iēsū Chrīstī;
 
 14 quī **dēdit** sēmetipsum prō nōbīs, ut nōs redimeret ab omnī inīquitāte et mundāret sibi **populum** pecūliārem, sectātōrem bonōrum operum.
 

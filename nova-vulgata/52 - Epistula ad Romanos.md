@@ -4,19 +4,19 @@
 
 ## 1
 
-1 Paulus servus Chrīstī **Iēsu**, **vocātūs** apostolus, sēgregātus in ēvangelium Deī,
+1 Paulus servus Chrīstī Iēsū, **vocātūs** apostolus, sēgregātus in ēvangelium Deī,
 
 2 quod ante prōmīserat per prophētās suōs in Scrīptūrīs sānctīs
 
 3 dē Fīliō suō, quī **factus** **est** ex sēmine Dāvīd secundum carnem,
 
-4 quī cōnstitūtus **est** Fīlius Deī in virtūte secundum Spīritum sānctificātiōnis ex resurrēctiōne mortuōrum, **Iēsu** Chrīstō Dominō nostrō,
+4 quī cōnstitūtus **est** Fīlius Deī in virtūte secundum Spīritum sānctificātiōnis ex resurrēctiōne mortuōrum, Iēsū Chrīstō Dominō nostrō,
 
 5 per quem accēpimus grātiam et apostolātum ad oboedītiōnem fideī in omnibus gentibus prō nōmine eius,
 
-6 in quibus **estis** et vōs vocātī **Iēsu** Chrīstī,
+6 in quibus **estis** et vōs vocātī Iēsū Chrīstī,
 
-7 omnibus, quī sunt Rōmae dīlēctīs Deī, **vocātīs** sānctīs: **grātia** vōbīs et pāx ā Deō Patre nostrō et Dominō **Iēsu** Chrīstō.
+7 omnibus, quī sunt Rōmae dīlēctīs Deī, **vocātīs** sānctīs: **grātia** vōbīs et pāx ā Deō Patre nostrō et Dominō Iēsū Chrīstō.
 
 8 Prīmum quidem grātiās agō Deō meō per **Iēsum** Chrīstum prō omnibus vōbīs, quia **fidēs** **vestra** annūntiātur in ūniversō mundō;
 
@@ -180,15 +180,15 @@ venēnum aspidum sub labiīs eōrum,
 
 21 Nunc autem **sine** **lēge** **iūstitiā** Deī **manifestāta** **est**, **testificāta** ā **Lēge** et **Prophētīs**,
 
-22 **iūstitiā** autem Deī per fidem **Iēsu** Chrīstī, in omnēs, quī crēdunt. Nōn enim **est** distīnctiō:
+22 **iūstitiā** autem Deī per fidem Iēsū Chrīstī, in omnēs, quī crēdunt. Nōn enim **est** distīnctiō:
 
 23 omnēs enim peccāvērunt et egent **glōria** Deī,
 
-24 **iustificātī** grātīs per grātiam ipsīus per redēmptiōnem, quae **est** in Chrīstō **Iēsu**;
+24 **iustificātī** grātīs per grātiam ipsīus per redēmptiōnem, quae **est** in Chrīstō Iēsū;
 
 25 quem prōposuit Deus propitiātōrium per fidem in sanguine ipsīus ad ostēnsiōnem iūstitiae suae, cum praetermīsisset praecēdentia **dēlicta**
 
-26 in sustentātiōne Deī, ad ostēnsiōnem iūstitiae eius in **hōc** tempore, ut sit ipse iūstus et iustificāns eum, quī ex **fide** **est** **Iēsu**.
+26 in sustentātiōne Deī, ad ostēnsiōnem iūstitiae eius in **hōc** tempore, ut sit ipse iūstus et iustificāns eum, quī ex **fide** **est** Iēsū.
 
 27 **Ubi** **est** ergō glōriātiō? **Exclūsa** **est**. Per quam lēgem? Operum? Nōn, sed per lēgem fideī.
 
@@ -284,7 +284,7 @@ et quōrum **tēcta** sunt **peccāta**.
 
 14 sed rēgnāvit mors ab Adam usque ad Moysēn etiam in eōs, quī nōn peccāvērunt in similitūdine praevāricātiōnis Adae, quī **est** **figūrā** futūrī.
 
-15 Sed nōn sīcut dēlictum, **ita** et dōnum; sī enim ūnīus dēlictō multī mortuī sunt, multō **magis** **grātia** Deī et dōnum in **grātiā** ūnīus hominis **Iēsu** Chrīstī in multōs abundāvit.
+15 Sed nōn sīcut dēlictum, **ita** et dōnum; sī enim ūnīus dēlictō multī mortuī sunt, multō **magis** **grātia** Deī et dōnum in **grātiā** ūnīus hominis Iēsū Chrīstī in multōs abundāvit.
 
 16 Et nōn sīcut per ūnum, quī peccāvit, **ita** et dōnum; nam iūdicium ex ūnō in condemnātiōnem, **grātiā** autem ex multīs dēlictīs in iūstificātiōnem.
 
@@ -320,7 +320,7 @@ et quōrum **tēcta** sunt **peccāta**.
 
 10 Quod enim mortuus **est**, peccātō mortuus **est** semel; quod autem vīvit, vīvit Deō.
 
-11 **Ita** et vōs **exīstimātē** vōs mortuōs quidem **esse** peccātō, vīventēs autem Deō in Chrīstō **Iēsu**.
+11 **Ita** et vōs **exīstimātē** vōs mortuōs quidem **esse** peccātō, vīventēs autem Deō in Chrīstō Iēsū.
 
 12 Nōn ergō rēgnet peccātum in vestrō mortālī corpore, ut oboediātis concupiscentiīs eius,
 
@@ -344,7 +344,7 @@ et quōrum **tēcta** sunt **peccāta**.
 
 22 Nunc vērō līberātī ā peccātō, servī autem factī Deō, habētis frūctum vestrum in sānctificātiōnem, fīnem vērō vītam aeternam!
 
-23 **Stīpendia** enim peccātī mors, dōnum autem Deī **vītā** **aeternā** in Chrīstō **Iēsu** Dominō nostrō.
+23 **Stīpendia** enim peccātī mors, dōnum autem Deī **vītā** **aeternā** in Chrīstō Iēsū Dominō nostrō.
 
 ## 7
 
@@ -400,9 +400,9 @@ et quōrum **tēcta** sunt **peccāta**.
 
 ## 8
 
-1 Nihil ergō nunc damnātiōnis **est** hīs, quī sunt in Chrīstō **Iēsu**;
+1 Nihil ergō nunc damnātiōnis **est** hīs, quī sunt in Chrīstō Iēsū;
 
-2 lēx enim **Spīritus** vītae in Chrīstō **Iēsu** līberāvit tē ā **lēge** peccātī et **mortis**.
+2 lēx enim **Spīritus** vītae in Chrīstō Iēsū līberāvit tē ā **lēge** peccātī et **mortis**.
 
 3 Nam, quod impossibile erat **lēgī**, in quō īnfirmābātur per carnem, Deus Fīlium suum mittēns in similitūdine **carnis** peccātī et prō peccātō, damnāvit peccātum in carne,
 
@@ -480,7 +480,7 @@ aestimātī sumus ut ovēs occīsiōnis ”.
 
 38 Certus sum enim quia neque mors neque **vīta** neque angelī neque **prīncipātus** neque **īnstantia** neque **futūra** neque virtūtēs
 
-39 neque altitūdō neque profundum neque **alia** quaelibet **creātūra** poterit nōs sēparāre ā cāritāte Deī, quae **est** in Chrīstō **Iēsu** Dominō nostrō.
+39 neque altitūdō neque profundum neque **alia** quaelibet **creātūra** poterit nōs sēparāre ā cāritāte Deī, quae **est** in Chrīstō Iēsū Dominō nostrō.
 
 ## 9
 
@@ -830,7 +830,7 @@ et **omnis** **lingua** cōnfitēbitur Deō ”.
 
 13 Nōn ergō amplius invicem iūdicēmus, sed **hoc** **iūdicāte** **magis**, nē pōnātis offendiculum frātrī vel scandalum.
 
-14 Sciō et certus sum in Dominō **Iēsu**, quia nihil commūne per sēipsum, **nisi** **eī**, quī exīstimat quid commūne **esse**, illī commūne **est**.
+14 Sciō et certus sum in Dominō Iēsū, quia nihil commūne per sēipsum, **nisi** **eī**, quī exīstimat quid commūne **esse**, illī commūne **est**.
 
 15 Sī enim propter cibum frāter tuus contrīstātur, iam nōn secundum cāritātem ambulās. Nōlī cibō tuō illum **perdere**, prō quō Chrīstus mortuus **est**!
 
@@ -862,7 +862,7 @@ et **omnis** **lingua** cōnfitēbitur Deō ”.
 
 5 Deus autem patientiae et sōlāciī det vōbīs idipsum sapere in alterutrum secundum Chrīstum **Iēsum**,
 
-6 ut ūnanimēs ūnō ōre glōrificētis Deum et Patrem Dominī nostrī **Iēsu** Chrīstī.
+6 ut ūnanimēs ūnō ōre glōrificētis Deum et Patrem Dominī nostrī Iēsū Chrīstī.
 
 7 Propter quod suscipite invicem, sīcut et Chrīstus suscēpit vōs, in glōriam Deī.
 
@@ -894,9 +894,9 @@ in eō gentēs spērābunt ”.
 
 15 Audācius autem scrīpsī vōbīs ex **parte**, tamquam in memoriam vōs redūcēns propter grātiam, quae **data** **est** mihi ā Deō,
 
-16 ut sim minister Chrīstī **Iēsu** ad gentēs, cōnsecrāns ēvangelium Deī, ut fīat oblātiō gentium **accepta**, **sānctificāta** in Spīritū Sānctō.
+16 ut sim minister Chrīstī Iēsū ad gentēs, cōnsecrāns ēvangelium Deī, ut fīat oblātiō gentium **accepta**, **sānctificāta** in Spīritū Sānctō.
 
-17 Habeō igitur glōriātiōnem in Chrīstō **Iēsu** ad Deum;
+17 Habeō igitur glōriātiōnem in Chrīstō Iēsū ad Deum;
 
 18 nōn enim audēbō aliquid loquī eōrum, quae per mē nōn effēcit Chrīstus in oboedientiam gentium, verbō et factīs,
 
@@ -940,7 +940,7 @@ et, quī nōn audiērunt, intellegent ”.
 
 2 ut eam suscipiātis in Dominō **dignē** sānctīs et assistātis **eī** in quōcumque negōtiō vestrī indiguerit; etenim **ipsa** astitit multīs et mihi ipsī.
 
-3 **Salūtāte** Prīscam et Aquilam adiūtōrēs meōs in Chrīstō **Iēsu**,
+3 **Salūtāte** Prīscam et Aquilam adiūtōrēs meōs in Chrīstō Iēsū,
 
 4 quī prō **animā** **meā** suās cervīcēs supposuērunt, quibus nōn **sōlus** ego grātiās agō sed et cūnctae ecclēsiae gentium;
 
@@ -978,7 +978,7 @@ et, quī nōn audiērunt, intellegent ”.
 
 20 Deus autem **pācis** conteret Satānam sub pedibus vestrīs vēlōciter.
 
-**Grātia** Dominī nostrī **Iēsu** vōbīscum.
+**Grātia** Dominī nostrī Iēsū vōbīscum.
 
 21 Salūtat vōs Tīmotheus adiūtor meus et Lūcius et **Iāsōn** et Sosipater cognātī meī.
 
@@ -986,7 +986,7 @@ et, quī nōn audiērunt, intellegent ”.
 
 23 Salūtat vōs Gāius hospes meus et ūniversae ecclēsiae. Salūtat vōs Erastus arcārius cīvitātis et Quārtus frāter.
 
-(24) 25 **Ēī** autem, quī potēns **est** vōs cōnfirmāre iuxtā ēvangelium meum et praedicātiōnem **Iēsu** Chrīstī secundum revēlātiōnem mystēriī temporibus aeternīs tacitī,
+(24) 25 **Ēī** autem, quī potēns **est** vōs cōnfirmāre iuxtā ēvangelium meum et praedicātiōnem Iēsū Chrīstī secundum revēlātiōnem mystēriī temporibus aeternīs tacitī,
 
 26 manifestātī autem nunc, et per scrīptūrās Prophētārum secundum praeceptum aeternī Deī ad oboedītiōnem fideī in cūnctīs gentibus patefactī,
 

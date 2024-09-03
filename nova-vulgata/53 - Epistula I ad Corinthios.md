@@ -4,25 +4,25 @@
 
 ## 1
 
-1 Paulus, **vocātus** apostolus Chrīstī **Iēsu** per voluntātem Deī, et Sosthēnēs frāter
+1 Paulus, **vocātus** apostolus Chrīstī Iēsū per voluntātem Deī, et Sosthēnēs frāter
 
-2 ecclēsiae Deī, quae **est** Corinthī, **sānctificātis** in Chrīstō **Iēsu**, **vocātīs** sānctīs cum omnibus, quī invocant **nōmen** Dominī nostrī **Iēsu** Chrīstī in omnī locō ipsōrum et nostrō:
+2 ecclēsiae Deī, quae **est** Corinthī, **sānctificātis** in Chrīstō Iēsū, **vocātīs** sānctīs cum omnibus, quī invocant **nōmen** Dominī nostrī Iēsū Chrīstī in omnī locō ipsōrum et nostrō:
 
-3 **grātia** vōbīs et pāx ā Deō Patre nostrō et Dominō **Iēsu** Chrīstō.
+3 **grātia** vōbīs et pāx ā Deō Patre nostrō et Dominō Iēsū Chrīstō.
 
-4 **Grātiās** agō Deō meō semper prō vōbīs in **grātiā** Deī, quae **data** **est** vōbīs in Chrīstō **Iēsu**,
+4 **Grātiās** agō Deō meō semper prō vōbīs in **grātiā** Deī, quae **data** **est** vōbīs in Chrīstō Iēsū,
 
 5 quia in omnibus dīvitēs factī **estis** in illō, in omnī verbō et in omnī **scientiā**,
 
 6 sīcut testimōnium Chrīstī cōnfirmātum **est** in vōbīs,
 
-7 **ita** ut nihil vōbīs dēsit in **ūllā** dōnātiōne, exspectantibus revēlātiōnem Dominī nostrī **Iēsu** Chrīstī;
+7 **ita** ut nihil vōbīs dēsit in **ūllā** dōnātiōne, exspectantibus revēlātiōnem Dominī nostrī Iēsū Chrīstī;
 
-8 quī et cōnfirmābit vōs usque ad fīnem **sine** crīmine in **diē** Dominī nostrī **Iēsu** Chrīstī.
+8 quī et cōnfirmābit vōs usque ad fīnem **sine** crīmine in **diē** Dominī nostrī Iēsū Chrīstī.
 
-9 **Fidēlis** Deus, per quem vocātī **estis** in commūniōnem Fīliī eius **Iēsu** Chrīstī Dominī nostrī.
+9 **Fidēlis** Deus, per quem vocātī **estis** in commūniōnem Fīliī eius Iēsū Chrīstī Dominī nostrī.
 
-10 Obsecrō autem vōs, frātrēs, per **nōmen** Dominī nostrī **Iēsu** Chrīstī, ut idipsum **dicātis** omnēs, et nōn sint in vōbīs schismata, **sītis** autem perfectī in eōdem sēnsū et in **eādem** **sententia**.
+10 Obsecrō autem vōs, frātrēs, per **nōmen** Dominī nostrī Iēsū Chrīstī, ut idipsum **dicātis** omnēs, et nōn sint in vōbīs schismata, **sītis** autem perfectī in eōdem sēnsū et in **eādem** **sententia**.
 
 11 Significātum **est** enim mihi dē vōbīs, frātrēs meī, ab hīs, quī sunt Chloēs, quia contentiōnēs inter vōs sunt.
 
@@ -66,7 +66,7 @@ et prūdentiam prūdentium reprobābō ”.
 
 29 ut nōn glōriētur **omnis** **carō** in cōnspectū Deī.
 
-30 Ex ipsō autem vōs **estis** in Chrīstō **Iēsu**, quī **factus** **est** **sapientiā** nōbīs ā Deō et **iūstitiā** et sānctificātiō et redēmptiō,
+30 Ex ipsō autem vōs **estis** in Chrīstō Iēsū, quī **factus** **est** **sapientiā** nōbīs ā Deō et **iūstitiā** et sānctificātiō et redēmptiō,
 
 31 ut quemadmodum scrīptum **est**:
 
@@ -196,7 +196,7 @@ quoniam vānae sunt ”.
 
 14 Nōn ut cōnfundam vōs, haec scrībō, sed ut quasi fīliōs meōs cārissimōs moneam;
 
-15 nam sī decem **mīlia** paedagōgōrum habeātis in Chrīstō, sed nōn multōs patrēs, nam in Chrīstō **Iēsu** per ēvangelium ego vōs genuī.
+15 nam sī decem **mīlia** paedagōgōrum habeātis in Chrīstō, sed nōn multōs patrēs, nam in Chrīstō Iēsū per ēvangelium ego vōs genuī.
 
 16 Rogō ergō vōs: imitatorcs meī **ēstote**!
 
@@ -218,7 +218,7 @@ quoniam vānae sunt ”.
 
 3 Ego quidem absēns corpore, praesēns autem spīritū, iam iūdicāvī ut praesēns eum, quī sīc operātus **est**,
 
-4 in nōmine Dominī nostrī **Iēsu**, **congregātīs** vōbīs et meō spīritū cum virtūte Dominī nostrī **Iēsu**,
+4 in nōmine Dominī nostrī Iēsū, **congregātīs** vōbīs et meō spīritū cum virtūte Dominī nostrī Iēsū,
 
 5 **trādere** huiusmodī Satānae in interitum **carnis**, ut **spīritus** salvus sit in **diē** Dominī.
 
@@ -260,7 +260,7 @@ quoniam vānae sunt ”.
 
 10 neque **fūrēs** neque avārī, nōn ēbriōsī, nōn **maledīcī**, nōn rapācēs rēgnum Deī possidēbunt.
 
-11 Et haec quīdam fuistis. Sed ablūtī **estis**, sed sānctificātī **estis**, sed **iustificātī** **estis** in nōmine Dominī **Iēsu** Chrīstī et in Spīritū Deī nostrī!
+11 Et haec quīdam fuistis. Sed ablūtī **estis**, sed sānctificātī **estis**, sed **iustificātī** **estis** in nōmine Dominī Iēsū Chrīstī et in Spīritū Deī nostrī!
 
 12 “ Omnia mihi licent! ”. Sed nōn omnia expediunt. “ Omnia mihi licent! ”. Sed ego sub **nūllīus** redigar potestāte.
 
@@ -828,7 +828,7 @@ Sīcut in omnibus ecclēsiīs sānctōrum,
 
 30 Ut quid et nōs perīclitāmur omnī **hōrā**?
 
-31 Cotīdiē **morior**, utique per vestram glōriātiōnem, frātrēs, quam habeō in Chrīstō **Iēsu** Dominō nostrō!
+31 Cotīdiē **morior**, utique per vestram glōriātiōnem, frātrēs, quam habeō in Chrīstō Iēsū Dominō nostrō!
 
 32 Sī secundum hominem ad bēstiās pugnāvī Ephesī, quid mihi prōdest? Sī mortuī nōn resurgunt, mandūcēmus et bibāmus, crās enim moriēmur.
 
@@ -934,8 +934,8 @@ Sī **est** corpus animāle, **est** et spīritāle.
 
 22 Sī **quis** nōn amat Dominum, sit **anathēma**. Marāna tha!
 
-23 **Grātia** Dominī **Iēsu** vōbīscum.
+23 **Grātia** Dominī Iēsū vōbīscum.
 
-24 **Cāritās** **mea** cum omnibus vōbīs in Chrīstō **Iēsu**.
+24 **Cāritās** **mea** cum omnibus vōbīs in Chrīstō Iēsū.
 
 

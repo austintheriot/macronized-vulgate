@@ -6,7 +6,7 @@
 
 ## 1
 
-1 **Liber** generātiōnis **Iēsu** Chrīstī fīliī Dāvīd fīliī Abraham.
+1 **Liber** generātiōnis Iēsū Chrīstī fīliī Dāvīd fīliī Abraham.
 
 2 Abraham genuit Isaac, Isaac autem genuit Iācōb, Iācōb autem genuit Iūdam et frātrēs eius,
 
@@ -42,7 +42,7 @@ Dāvīd autem genuit Salomōnem ex **eā**, quae fuit Uriae,
 
 17 Omnēs ergō generātiōnēs ab Abraham usque ad Dāvīd generātiōnēs quattuordecim; et ā Dāvīd usque ad trānsmigrātiōnem Babylōnis generātiōnēs quattuordecim; et ā trānsmigrātiōne Babylōnis usque ad Chrīstum generātiōnēs quattuordecim.
 
-18 **Iēsu** Chrīstī autem generātiō sīc erat.
+18 Iēsū Chrīstī autem generātiō sīc erat.
 
 Cum **esset** **dēspōnsāta** māter eius **Maria** Ioseph, antequam convenīrent **inventa** **est** in uterō habēns dē Spīritū Sānctō.
 
@@ -558,7 +558,7 @@ et aegrōtātiōnēs portāvit ”.
 
 33 Pāstōrēs autem fūgērunt et venientēs in cīvitātem nūntiāvērunt omnia et dē hīs, quī daemonia habuerant.
 
-34 Et ecce **tōta** cīvitās exiit obviam **Iēsu**, et vīsō eō rogābant, ut trānsīret ā fīnibus eōrum.
+34 Et ecce **tōta** cīvitās exiit obviam Iēsū, et vīsō eō rogābant, ut trānsīret ā fīnibus eōrum.
 
 ## 9
 
@@ -580,7 +580,7 @@ et aegrōtātiōnēs portāvit ”.
 
 9 Et cum trānsīret inde **Iēsus**, vīdit hominem sedentem in telonēō, Matthaeum nōmine, et ait illī: “**Sequēre** mē”. Et surgēns secūtus **est** eum.
 
-10 Et factum **est**, discumbente eō in domō, ecce multī pūblicānī et peccātōrēs venientēs simul discumbēbant cum **Iēsu** et discipulīs eius.
+10 Et factum **est**, discumbente eō in domō, ecce multī pūblicānī et peccātōrēs venientēs simul discumbēbant cum Iēsū et discipulīs eius.
 
 11 Et videntēs **pharisaeī** dīcēbant discipulīs eius: “ Quārē cum pūblicānīs et peccātōribus mandūcat magister vester? ”.
 
@@ -614,7 +614,7 @@ et aegrōtātiōnēs portāvit ”.
 
 26 Et exiit **fāma** haec in ūniversam terram illam.
 
-27 Et trānseunte inde **Iēsu**, secūtī sunt eum duo caecī clāmantēs et dīcentēs: “ Miserēre nostrī, fīlī Dāvīd! ”.
+27 Et trānseunte inde Iēsū, secūtī sunt eum duo caecī clāmantēs et dīcentēs: “ Miserēre nostrī, fīlī Dāvīd! ”.
 
 28 Cum autem vēnisset domum, accessērunt ad eum caecī, et dīcit eīs **Iēsus**: “ **Crēditīs** quia possum **hoc** facere? ”. Dīcunt **eī**: “Utique, Domine”.
 
@@ -1054,7 +1054,7 @@ et sānem eōs".
 
 ## 14
 
-1 In illō tempore audīvit Hērōdēs **tetrarcha** fāmam **Iēsu**
+1 In illō tempore audīvit Hērōdēs **tetrarcha** fāmam Iēsū
 
 2 et ait puerīs **suīs**: “ **Hic** **est** Iōannēs **Baptista**; ipse surrēxit ā mortuīs, et ideō virtūtēs operantur in eō ”.
 
@@ -1076,7 +1076,7 @@ et sānem eōs".
 
 11 et allātum **est** caput eius in discō et datum **est** puellae, et tulit mātrī suae.
 
-12 Et accēdentēs discipulī eius tulērunt corpus et sepeliērunt illud et venientēs nūntiāvērunt **Iēsu**.
+12 Et accēdentēs discipulī eius tulērunt corpus et sepeliērunt illud et venientēs nūntiāvērunt Iēsū.
 
 13 Quod cum audīsset **Iēsus**, sēcessit inde in **nāviculā** in locum dēsertum seorsum; et cum audīssent, turbae secūtae sunt eum pedestrēs dē cīvitātibus.
 
@@ -1590,7 +1590,7 @@ et super pullum fīlium **subiugālīs** ”.
 
 26 sī autem **dīxerīmus**: “Ex hominibus”, timēmus turbam; omnēs enim habent Iōannem sīcut prophētam ”.
 
-27 Et respondentēs **Iēsu** dīxērunt: “ Nescīmus ”. Ait illīs et ipse: “ Nec ego **dīcō** vōbīs in **quā** potestāte haec faciō ”.
+27 Et respondentēs Iēsū dīxērunt: “ Nescīmus ”. Ait illīs et ipse: “ Nec ego **dīcō** vōbīs in **quā** potestāte haec faciō ”.
 
 28 “ Quid autem vōbīs vidētur? Homō quīdam habēbat duōs fīliōs. Et accēdēns ad prīmum dīxit: “Fīlī, **vāde** hodiē, operāre in **vīneā**”.
 
@@ -2114,7 +2114,7 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 50 **Iēsus** autem dīxit illī: “ **Amīcē**, ad quod vēnistī! ”. Tunc accessērunt et **manūs** iniēcērunt in **Iēsum** et tenuērunt eum.
 
-51 Et ecce ūnus ex hīs, quī erant cum **Iēsu**, extendēns **manum** exēmit gladium suum et percutiēns servum prīncipis sacerdōtum amputāvit auriculam eius.
+51 Et ecce ūnus ex hīs, quī erant cum Iēsū, extendēns **manum** exēmit gladium suum et percutiēns servum prīncipis sacerdōtum amputāvit auriculam eius.
 
 52 Tunc ait illī **Iēsus**: “ Converte gladium tuum in locum suum. Omnēs enim, quī accēperint gladium, gladiō perībunt.
 
@@ -2150,11 +2150,11 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 68 dīcentēs: “ Prophētīzā nōbīs, Chrīste: **Quis** **est**, quī tē percussit? ”.
 
-69 Petrus vērō sedēbat **foris** in ātriō; et accessit ad eum **ūnā** **ancillā** dīcēns: “ Et tū cum **Iēsu** Galilaeō erās! ”.
+69 Petrus vērō sedēbat **foris** in ātriō; et accessit ad eum **ūnā** **ancillā** dīcēns: “ Et tū cum Iēsū Galilaeō erās! ”.
 
 70 At ille negāvit **cōram** omnibus dīcēns: “ Nesciō quid **dīcis**! ”.
 
-71 Exeunte autem illō ad iānuam, vīdit eum **alia** et ait hīs, quī erant ibi: “ **Hic** erat cum **Iēsu** Nazarēnō! ”.
+71 Exeunte autem illō ad iānuam, vīdit eum **alia** et ait hīs, quī erant ibi: “ **Hic** erat cum Iēsū Nazarēnō! ”.
 
 72 Et iterum negāvit cum iūrāmentō: “ Nōn **nōvī** hominem! ”.
 
@@ -2162,7 +2162,7 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 74 Tunc coepit dētestārī et iūrāre: “ Nōn **nōvī** hominem! ”. Et continuō gallus cantāvit;
 
-75 et **recordātus** **est** Petrus verbī **Iēsu**, quod dīxerat: “ Priusquam gallus cantet, ter mē negābis ”. Et **ēgressus** forās plōrāvit **amāre**.
+75 et **recordātus** **est** Petrus verbī Iēsū, quod dīxerat: “ Priusquam gallus cantet, ter mē negābis ”. Et **ēgressus** forās plōrāvit **amāre**.
 
 ## 27
 
@@ -2208,7 +2208,7 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 21 Respondēns autem praeses ait illīs: “ Quem vultis vōbīs dē duōbus dīmittam? ”. At illī dīxērunt: “ Barabbam! ”.
 
-22 Dīcit illīs Pīlātus: “ Quid igitur faciam dē **Iēsu**, quī dīcitur Chrīstus? ”. Dīcunt omnēs: “ Crucifīgātur! ”.
+22 Dīcit illīs Pīlātus: “ Quid igitur faciam dē Iēsū, quī dīcitur Chrīstus? ”. Dīcunt omnēs: “ Crucifīgātur! ”.
 
 23 Ait autem: “ Quid enim **malī** fēcit? ”. At illī **magis** clāmābant dīcentēs: “ Crucifīgātur! ”.
 
@@ -2278,9 +2278,9 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 56 inter quās erat **Maria** Magdalēne et **Maria** Iacobī et Ioseph māter et māter fīliōrum Zebedaēī.
 
-57 Cum **sērō** autem factum **esset**, **venit** homō dīves ab Arimathaēā nōmine Ioseph, quī et ipse discipulus erat **Iēsu**.
+57 Cum **sērō** autem factum **esset**, **venit** homō dīves ab Arimathaēā nōmine Ioseph, quī et ipse discipulus erat Iēsū.
 
-58 **Hic** accessit ad Pīlātum et petiit corpus **Iēsu**. Tunc Pīlātus iussit reddī.
+58 **Hic** accessit ad Pīlātum et petiit corpus Iēsū. Tunc Pīlātus iussit reddī.
 
 59 Et acceptō corpore, Ioseph involvit illud in sindone **mundā**
 

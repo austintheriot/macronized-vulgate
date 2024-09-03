@@ -1,10 +1,10 @@
 # AD PHILEMŌNEM **EPISTULĀ** SĀNCTĪ PAULĪ APOSTOLĪ
 
-1 Paulus **vīnctus** Chrīstī **Iēsu** et Tīmotheus frāter Philemōnī dīlēctō et adiūtōrī nostrō
+1 Paulus **vīnctus** Chrīstī Iēsū et Tīmotheus frāter Philemōnī dīlēctō et adiūtōrī nostrō
 
 2 et Apphiae sorōrī et Archippō commīlitōnī nostrō et ecclēsiae, quae in domō **tuā** **est**:
 
-3 **grātia** vōbīs et pāx ā Deō Patre nostrō et Dominō **Iēsu** Chrīstō.
+3 **grātia** vōbīs et pāx ā Deō Patre nostrō et Dominō Iēsū Chrīstō.
 
 4 **Grātiās** agō Deō meō semper memoriam tuī faciēns in ōrātiōnibus meīs,
 
@@ -16,7 +16,7 @@
 
 8 Propter quod multam fīdūciam habēns in Chrīstō imperandī tibi, quod ad rem pertinet,
 
-9 propter cāritātem **magis** obsecrō, cum sim **tālis** ut Paulus senex, nunc autem et **vīnctus** Chrīstī **Iēsu**;
+9 propter cāritātem **magis** obsecrō, cum sim **tālis** ut Paulus senex, nunc autem et **vīnctus** Chrīstī Iēsū;
 
 10 obsecrō tē dē meō fīliō, quem genuī in vinculīs, Onēsimō,
 
@@ -44,10 +44,10 @@
 
 22 Simul autem et **parā** mihi hospitium, nam spērō per ōrātiōnēs vestrās dōnārī mē vōbīs.
 
-23 Salūtat tē Epaphrās, concaptīvus meus in Chrīstō **Iēsu**,
+23 Salūtat tē Epaphrās, concaptīvus meus in Chrīstō Iēsū,
 
 24 Mārcus, Aristarchus, Dēmās, Lūcās, adiūtōrēs meī.
 
-25 **Grātia** Dominī **Iēsu** Chrīstī cum spīritū vestrō.
+25 **Grātia** Dominī Iēsū Chrīstī cum spīritū vestrō.
 
 

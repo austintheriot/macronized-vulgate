@@ -4,11 +4,11 @@
 
 ## 1
 
-1 Paulus, apostolus Chrīstī **Iēsu** per voluntātem Deī, sānctīs, quī sunt Ephesī, et fidēlibus in Chrīstō **Iēsu**:
+1 Paulus, apostolus Chrīstī Iēsū per voluntātem Deī, sānctīs, quī sunt Ephesī, et fidēlibus in Chrīstō Iēsū:
 
-2 **grātia** vōbīs et pāx ā Deō Patre nostrō et Dominō **Iēsu** Chrīstō.
+2 **grātia** vōbīs et pāx ā Deō Patre nostrō et Dominō Iēsū Chrīstō.
 
-3 Benedictus Deus et Pater Dominī nostrī **Iēsu** Chrīstī,
+3 Benedictus Deus et Pater Dominī nostrī Iēsū Chrīstī,
 
 quī benedīxit nōs in omnī benedictiōne spīritālī in caelestibus in Chrīstō,
 
@@ -54,11 +54,11 @@ quae in caelīs et quae in **terrā**, in ipsō;
 
 14 quī **est** arrabō **hērēditātis** nostrae in redēmptiōnem acquīsītiōnis, in laudem glōriae ipsīus.
 
-15 Proptereā et ego audiēns fidem vestram, quae **est** in Dominō **Iēsu**, et dīlēctiōnem in omnēs sānctōs,
+15 Proptereā et ego audiēns fidem vestram, quae **est** in Dominō Iēsū, et dīlēctiōnem in omnēs sānctōs,
 
 16 nōn cessō grātiās agēns prō vōbīs memoriam faciēns in ōrātiōnibus meīs,
 
-17 ut Deus Dominī nostrī **Iēsu** Chrīstī, Pater glōriae, det vōbīs Spīritum sapientiae et revēlātiōnis in agnitiōne eius,
+17 ut Deus Dominī nostrī Iēsū Chrīstī, Pater glōriae, det vōbīs Spīritum sapientiae et revēlātiōnis in agnitiōne eius,
 
 18 illūminātōs oculōs **cordis** vestrī, ut sciātis quae sit spēs vocātiōnis eius, quae dīvitiae glōriae **hērēditātis** eius in sānctīs,
 
@@ -84,21 +84,21 @@ quae in caelīs et quae in **terrā**, in ipsō;
 
 5 et cum **essēmus** mortuī **peccātīs**, convīvificāvit nōs Chrīstō — **grātiā** **estis** salvātī —
 
-6 et conresuscitāvit et cōnsēdēre fēcit in caelestibus in Chrīstō **Iēsu**,
+6 et conresuscitāvit et cōnsēdēre fēcit in caelestibus in Chrīstō Iēsū,
 
-7 ut ostenderet in saeculīs supervenientibus abundantēs dīvitiās grātiae suae in bonitāte super nōs in Chrīstō **Iēsu**.
+7 ut ostenderet in saeculīs supervenientibus abundantēs dīvitiās grātiae suae in bonitāte super nōs in Chrīstō Iēsū.
 
 8 **Grātia** enim **estis** salvātī per fidem; et **hoc** nōn ex vōbīs, Deī dōnum **est**:
 
 9 nōn ex operibus, ut nē **quis** glōriētur.
 
-10 Ipsīus enim sumus **factūrā**, creātī in Chrīstō **Iēsu** in **opera** **bona**, quae praeparāvit Deus, ut in illīs ambulēmus.
+10 Ipsīus enim sumus **factūrā**, creātī in Chrīstō Iēsū in **opera** **bona**, quae praeparāvit Deus, ut in illīs ambulēmus.
 
 11 Propter quod memorēs **ēstote**, quod aliquandō vōs gentēs in carne, quī dīciminī praepūtium ab **eā**, quae dīcitur circumcīsiō in carne manufāctā,
 
 12 quia erātis illō in tempore **sine** Chrīstō, aliēnātī ā conversātiōne Isrāēl et extrāneī testāmentōrum prōmissiōnis, spem nōn habentēs et **sine** Deō in mundō.
 
-13 Nunc autem in Chrīstō **Iēsu** vōs, quī aliquandō erātis **longē**, factī **estis** prope in sanguine Chrīstī.
+13 Nunc autem in Chrīstō Iēsū vōs, quī aliquandō erātis **longē**, factī **estis** prope in sanguine Chrīstī.
 
 14 Ipse **est** enim pāx **nostra**, quī fēcit **utraque** ūnum et **medium** parietem māceriae solvit, inimīcitiam, in carne **suā**,
 
@@ -112,7 +112,7 @@ quae in caelīs et quae in **terrā**, in ipsō;
 
 19 Ergō iam nōn **estis** extrāneī et advenae, sed **estis** concīvēs sānctōrum et domesticī Deī,
 
-20 superaedificātī super fundāmentum apostolōrum et prophētārum, ipsō summō angulārī lapide Chrīstō **Iēsu**,
+20 superaedificātī super fundāmentum apostolōrum et prophētārum, ipsō summō angulārī lapide Chrīstō Iēsū,
 
 21 in quō **omnis** aedificātiō **compacta** crēscit in templum sānctum in Dominō,
 
@@ -120,7 +120,7 @@ quae in caelīs et quae in **terrā**, in ipsō;
 
 ## 3
 
-1 Huius reī **grātia**, ego Paulus, **vīnctus** Chrīstī **Iēsu** prō vōbīs gentibus —
+1 Huius reī **grātia**, ego Paulus, **vīnctus** Chrīstī Iēsū prō vōbīs gentibus —
 
 2 sī tamen audīstis dispēnsātiōnem grātiae Deī, quae **data** **est** mihi prō vōbīs,
 
@@ -130,7 +130,7 @@ quae in caelīs et quae in **terrā**, in ipsō;
 
 5 quod aliīs generātiōnibus nōn innōtuit fīliīs hominum, sīcuti nunc revēlātum **est** sānctīs apostolīs eius et **prophētīs** in Spīritū,
 
-6 **esse** gentēs cohērēdēs et concorporālēs et comparticipēs prōmissiōnis in Chrīstō **Iēsu** per ēvangelium,
+6 **esse** gentēs cohērēdēs et concorporālēs et comparticipēs prōmissiōnis in Chrīstō Iēsū per ēvangelium,
 
 7 cuius **factus** sum minister secundum dōnum grātiae Deī, quae **data** **est** mihi secundum operātiōnem **virtūtis** eius.
 
@@ -140,7 +140,7 @@ quae in caelīs et quae in **terrā**, in ipsō;
 
 10 ut innōtēscat nunc prīncipātibus et potestātibus in caelestibus per ecclēsiam **multifōrmis** **sapientia** Deī,
 
-11 secundum prōpositum saeculōrum, quod fēcit in Chrīstō **Iēsu** Dominō nostrō,
+11 secundum prōpositum saeculōrum, quod fēcit in Chrīstō Iēsū Dominō nostrō,
 
 12 in quō habēmus fīdūciam et accessum in **cōnfīdentiā** per fidem eius.
 
@@ -160,7 +160,7 @@ quae in caelīs et quae in **terrā**, in ipsō;
 
 20 **Ēī** autem, quī potēns **est** suprā omnia facere superabundanter quam petimus aut intellegimus, secundum virtūtem, quae operātur in nōbīs,
 
-21 ipsī **glōria** in **ecclēsiā** et in Chrīstō **Iēsu** in omnēs generātiōnēs saeculī saeculōrum. Āmēn.
+21 ipsī **glōria** in **ecclēsiā** et in Chrīstō Iēsū in omnēs generātiōnēs saeculī saeculōrum. Āmēn.
 
 ## 4
 
@@ -206,7 +206,7 @@ quae in caelīs et quae in **terrā**, in ipsō;
 
 20 Vōs autem nōn **ita** didicistis Chrīstum,
 
-21 sī tamen illum audīstis et in ipsō ēdoctī **estis**, sīcut **est** **vēritās** in **Iēsu**:
+21 sī tamen illum audīstis et in ipsō ēdoctī **estis**, sīcut **est** **vēritās** in Iēsū:
 
 22 **dēpōnere** vōs secundum **prīstinam** conversātiōnem veterem hominem, quī corrumpitur secundum dēsīderia errōris,
 
@@ -270,7 +270,7 @@ quae in caelīs et quae in **terrā**, in ipsō;
 
 19 loquentēs vobismetipsīs in psalmīs et hymnīs et canticīs spīritālibus, cantantēs et psallentēs in cordibus vestrīs Dominō.
 
-20 **Grātiās** agentēs semper prō omnibus in nōmine Dominī nostrī **Iēsu** Chrīstī Deō et Patrī,
+20 **Grātiās** agentēs semper prō omnibus in nōmine Dominī nostrī Iēsū Chrīstī Deō et Patrī,
 
 21 subiectī invicem in timōre Chrīstī.
 
@@ -344,7 +344,7 @@ quae in caelīs et quae in **terrā**, in ipsō;
 
 22 quem mīsī ad vōs in **hōc** ipsum, ut cognōscātis, quae circā nōs sunt, et cōnsōlētur **corda** **vestra**.
 
-23 Pāx frātribus et **cāritās** cum **fide** ā Deō Patre et Dominō **Iēsu** Chrīstō.
+23 Pāx frātribus et **cāritās** cum **fide** ā Deō Patre et Dominō Iēsū Chrīstō.
 
 24 **Grātia** cum omnibus, quī dīligunt Dominum nostrum **Iēsum** Chrīstum in incorruptiōne.
 

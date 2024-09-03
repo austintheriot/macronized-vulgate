@@ -1,6 +1,6 @@
 # **EPISTULA** IŪDAE
 
-1 Iūdās **Iēsu** Chrīstī servus, frāter autem Iacobī, hīs quī sunt vocātī, in Deō Patre dīlēctī et Chrīstō **Iēsu** cōnservātī:
+1 Iūdās Iēsū Chrīstī servus, frāter autem Iacobī, hīs quī sunt vocātī, in Deō Patre dīlēctī et Chrīstō Iēsū cōnservātī:
 
 2 **misericordia** vōbīs et pāx et **cāritās** adimpleātur.
 
@@ -32,7 +32,7 @@
 
 16 Hī sunt murmurātōrēs, querēlōsī, secundum concupiscentiās suās ambulantēs, et **os** illōrum loquitur **superba**, mīrantēs **persōnās** **quaestūs** **causā**.
 
-17 Vōs autem, cārissimī, memorēs **ēstote** verbōrum, quae **praedicta** sunt ab apostolīs Dominī nostrī **Iēsu** Chrīstī,
+17 Vōs autem, cārissimī, memorēs **ēstote** verbōrum, quae **praedicta** sunt ab apostolīs Dominī nostrī Iēsū Chrīstī,
 
 18 quoniam dīcēbant vōbīs: “ In novissimō tempore venient illūsōrēs, secundum suās concupiscentiās ambulantēs impietātum”.
 
@@ -40,7 +40,7 @@
 
 20 Vōs autem, cārissimī, superaedificantēs vōsmetipsōs sānctissimae vestrae fideī, in Spīritū Sānctō ōrantēs,
 
-21 ipsōs vōs in dīlēctiōne Deī **servāte**, exspectantēs misericordiam Dominī nostrī **Iēsu** Chrīstī in vītam aeternam.
+21 ipsōs vōs in dīlēctiōne Deī **servāte**, exspectantēs misericordiam Dominī nostrī Iēsū Chrīstī in vītam aeternam.
 
 22 Et hīs quidem miserēminī disputantibus;
 

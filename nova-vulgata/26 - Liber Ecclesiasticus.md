@@ -6902,7 +6902,7 @@ quia timor Dominī vestīgium eius **est**.
 
 ## 51
 
-1 Ōrātiō **Iēsu** fīliī Sirach.
+1 Ōrātiō Iēsū fīliī Sirach.
 
 “ Cōnfitēbor tibi, Domine rēx; et collaudābō tē Deum salvātōrem meum.
 

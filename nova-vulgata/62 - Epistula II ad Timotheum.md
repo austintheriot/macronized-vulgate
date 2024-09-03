@@ -4,9 +4,9 @@
 
 ## 1
 
-1 Paulus, apostolus Chrīstī **Iēsu** per voluntātem Deī secundum prōmissiōnem vītae, quae **est** in Chrīstō **Iēsu**,
+1 Paulus, apostolus Chrīstī Iēsū per voluntātem Deī secundum prōmissiōnem vītae, quae **est** in Chrīstō Iēsū,
 
-2 Tīmotheō cārissimō fīliō: **grātia**, **misericordia**, pāx ā Deō Patre et Chrīstō **Iēsu** Dominō nostrō.
+2 Tīmotheō cārissimō fīliō: **grātia**, **misericordia**, pāx ā Deō Patre et Chrīstō Iēsū Dominō nostrō.
 
 3 **Grātiās** agō Deō, cui serviō ā prōgenitōribus in **cōnscientiā** **pūrā**, quod **sine** intermissiōne habeō tuī memoriam in ōrātiōnibus meīs nocte ac **diē**
 
@@ -20,15 +20,15 @@
 
 8 Nōlī itaque **ērubēscere** testimōnium Dominī nostrī neque mē vīnctum eius, sed collabōrā ēvangeliō secundum virtūtem Deī,
 
-9 quī nōs salvōs fēcit et vocāvit vocātiōne **sānctā**, nōn secundum **opera** **nostra** sed secundum prōpositum suum et grātiam, quae **data** **est** nōbīs in Chrīstō **Iēsu** ante tempora saeculāria;
+9 quī nōs salvōs fēcit et vocāvit vocātiōne **sānctā**, nōn secundum **opera** **nostra** sed secundum prōpositum suum et grātiam, quae **data** **est** nōbīs in Chrīstō Iēsū ante tempora saeculāria;
 
-10 **manifestāta** autem nunc per illūstrātiōnem salvātōris nostrī **Iēsu** Chrīstī, quī dēstrūxit quidem mortem, illūmināvit autem vītam et incorruptiōnem per ēvangelium,
+10 **manifestāta** autem nunc per illūstrātiōnem salvātōris nostrī Iēsū Chrīstī, quī dēstrūxit quidem mortem, illūmināvit autem vītam et incorruptiōnem per ēvangelium,
 
 11 in quō **positus** sum ego praedicātor et apostolus et doctor.
 
 12 Ob quam causam etiam haec patior, sed nōn cōnfundor; sciō enim, cui crēdidī, et certus sum quia potēns **est** dēpositum meum servāre in illum diem.
 
-13 Fōrmam habē sānōrum verbōrum, quae ā mē audīstī, in **fide** et dīlēctiōne, quae sunt in Chrīstō **Iēsu**;
+13 Fōrmam habē sānōrum verbōrum, quae ā mē audīstī, in **fide** et dīlēctiōne, quae sunt in Chrīstō Iēsū;
 
 14 bonum dēpositum cūstōdī per Spīritum Sānctum, quī habitat in nōbīs.
 
@@ -42,11 +42,11 @@
 
 ## 2
 
-1 Tū ergō, fīlī mī, cōnfortāre in **grātiā**, quae **est** in Chrīstō **Iēsu**;
+1 Tū ergō, fīlī mī, cōnfortāre in **grātiā**, quae **est** in Chrīstō Iēsū;
 
 2 et quae audīstī ā mē per multōs testēs, haec commendā fidēlibus hominibus, quī idōneī erunt et aliōs docēre.
 
-3 Collabōrā sīcut bonus **mīles** Chrīstī **Iēsu**.
+3 Collabōrā sīcut bonus **mīles** Chrīstī Iēsū.
 
 4 Nēmō mīlitāns implicat sē saeculī negōtiīs, ut **eī** placeat, quī eum ēlēgit;
 
@@ -60,7 +60,7 @@
 
 9 in quō labōrō usque ad **vincula** quasi **male** operāns; sed verbum Deī nōn **est** alligātum!
 
-10 Ideō omnia sustineō propter ēlēctōs, ut et ipsī salūtem cōnsequantur, quae **est** in Chrīstō **Iēsu** cum **glōriā** **aeternā**.
+10 Ideō omnia sustineō propter ēlēctōs, ut et ipsī salūtem cōnsequantur, quae **est** in Chrīstō Iēsū cum **glōriā** **aeternā**.
 
 11 **Fidēlis** sermō, Nam, sī commortuī sumus, et convīvēmus;
 
@@ -118,13 +118,13 @@
 
 11 persecūtiōnēs, passiōnēs, quālia mihi **facta** sunt Antiochīae, Īconiī, Lystrīs, quālēs persecūtiōnēs sustinuī; et ex omnibus mē ēripuit Dominus.
 
-12 Et omnēs, quī volunt **piē** **vīvere** in Chrīstō **Iēsu**, persecūtiōnem patientur;
+12 Et omnēs, quī volunt **piē** **vīvere** in Chrīstō Iēsū, persecūtiōnem patientur;
 
 13 **malī** autem hominēs et sēductōrēs prōficient in peius, in errōrem mittentēs et errantēs.
 
 14 Tū vērō permanē in hīs, quae didicistī et **crēdita** sunt tibi, sciēns ā quibus **didicerīs**,
 
-15 et quia ab **īnfantiā** Sacrās Litterās nōstī, quae tē possunt **īnstruere** ad salūtem per fidem, quae **est** in Chrīstō **Iēsu**.
+15 et quia ab **īnfantiā** Sacrās Litterās nōstī, quae tē possunt **īnstruere** ad salūtem per fidem, quae **est** in Chrīstō Iēsū.
 
 16 **Omnis** **Scrīptūra** dīvīnitus **īnspīrāta** **est** et **ūtilis** ad docendum, ad arguendum, ad corrigendum, ad ērudiendum in **iūstitiā**,
 
@@ -132,7 +132,7 @@
 
 ## 4
 
-1 Testificor **cōram** Deō et Chrīstō **Iēsu**, quī iūdicātūrus **est** vīvōs ac mortuōs, per adventum ipsīus et rēgnum eius:
+1 Testificor **cōram** Deō et Chrīstō Iēsū, quī iūdicātūrus **est** vīvōs ac mortuōs, per adventum ipsīus et rēgnum eius:
 
 2 praedicā verbum, īnstā **opportūnē**, **importūnē**, argue, increpā, obsecrā in omnī longanimitāte et **doctrīnā**.
 

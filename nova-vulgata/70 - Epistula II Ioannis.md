@@ -4,7 +4,7 @@
 
 2 propter vēritātem, quae **permanet** in nōbīs et nōbīscum erit in sempiternum.
 
-3 Erit nōbīscum **grātia**, **misericordia**, pāx ā Deō Patre et ā **Iēsu** Chrīstō, Fīliō Patrīs, in vēritāte et cāritāte.
+3 Erit nōbīscum **grātia**, **misericordia**, pāx ā Deō Patre et ā Iēsū Chrīstō, Fīliō Patrīs, in vēritāte et cāritāte.
 
 4 Gāvīsus sum valdē, quoniam **invēnī** dē fīliīs tuīs ambulantēs in vēritāte, sīcut mandātum accēpimus ā Patre.
 

@@ -4,11 +4,11 @@
 
 ## 1
 
-1 Paulus et Silvānus et Tīmotheus ecclēsiae Thessalonīcēnsium in Deō Patre et Dominō **Iēsu** Chrīstō: **grātia** vōbīs et pāx.
+1 Paulus et Silvānus et Tīmotheus ecclēsiae Thessalonīcēnsium in Deō Patre et Dominō Iēsū Chrīstō: **grātia** vōbīs et pāx.
 
 2 **Grātiās** agimus Deō semper prō omnibus vōbīs, memoriam facientēs in ōrātiōnibus nostrīs, **sine** intermissiōne;
 
-3 memorēs **operis** fideī vestrae et labōris cāritātis et sustinentiae speī Dominī nostrī **Iēsu** Chrīstī ante Deum et Patrem nostrum;
+3 memorēs **operis** fideī vestrae et labōris cāritātis et sustinentiae speī Dominī nostrī Iēsū Chrīstī ante Deum et Patrem nostrum;
 
 4 scientēs, frātrēs, dīlēctī ā Deō, ēlēctiōnem vestram,
 
@@ -52,7 +52,7 @@
 
 13 Ideō et nōs grātiās agimus Deō **sine** intermissiōne, quoniam cum accēpissētis ā nōbīs verbum **audītūs** Deī, accēpistis nōn ut verbum hominum sed, sīcut **est** **vērē**, verbum Deī, quod et operātur in vōbīs, quī **crēditis**.
 
-14 Vōs enim imitātōrēs factī **estis**, frātrēs, ecclēsiārum Deī, quae sunt in **Iūdaeā** in Chrīstō **Iēsu**; quia **eadem** passī **estis** et vōs ā contribūlibus vestrīs, sīcut et ipsī ā Iūdaeīs,
+14 Vōs enim imitātōrēs factī **estis**, frātrēs, ecclēsiārum Deī, quae sunt in **Iūdaeā** in Chrīstō Iēsū; quia **eadem** passī **estis** et vōs ā contribūlibus vestrīs, sīcut et ipsī ā Iūdaeīs,
 
 15 quī et Dominum **occīdērunt** **Iēsum** et prophētās et nōs persecūtī sunt et Deō nōn **placent** et omnibus hominibus adversantur,
 
@@ -92,11 +92,11 @@
 
 12 vōs autem Dominus abundāre et superabundāre faciat cāritāte in invicem et in omnēs, quemadmodum et nōs in vōs;
 
-13 ad **cōnfirmanda** **corda** **vestra** **sine** **querēlā** in sānctitāte ante Deum et Patrem nostrum, in adventū Dominī nostrī **Iēsu** cum omnibus sānctīs eius. Āmēn.
+13 ad **cōnfirmanda** **corda** **vestra** **sine** **querēlā** in sānctitāte ante Deum et Patrem nostrum, in adventū Dominī nostrī Iēsū cum omnibus sānctīs eius. Āmēn.
 
 ## 4
 
-1 Dē cēterō ergō, frātrēs, rogāmus vōs et obsecrāmus in Dominō **Iēsu**, ut — quemadmodum accēpistis ā nōbīs quōmodo vōs oporteat ambulāre et **placēre** Deō, sīcut et **ambulātis** — ut abundētis **magis**.
+1 Dē cēterō ergō, frātrēs, rogāmus vōs et obsecrāmus in Dominō Iēsū, ut — quemadmodum accēpistis ā nōbīs quōmodo vōs oporteat ambulāre et **placēre** Deō, sīcut et **ambulātis** — ut abundētis **magis**.
 
 2 **Scītis** enim, quae **praecepta** **dederimus** vōbīs per Dominum **Iēsum**.
 
@@ -168,7 +168,7 @@
 
 17 **sine** intermissiōne **ōrāte**,
 
-18 in omnibus grātiās agite; haec enim voluntās Deī **est** in Chrīstō **Iēsu** ergā vōs.
+18 in omnibus grātiās agite; haec enim voluntās Deī **est** in Chrīstō Iēsū ergā vōs.
 
 19 **Spīritum** nōlīte **exstinguere**,
 
@@ -178,7 +178,7 @@
 
 22 ab omnī speciē **mala** abstinēte vōs.
 
-23 Ipse autem Deus **pācis** sānctificet vōs per omnia, et integer **spīritus** vester et **anima** et corpus **sine** **querēlā** in adventū Dominī nostrī **Iēsu** Chrīstī servētur.
+23 Ipse autem Deus **pācis** sānctificet vōs per omnia, et integer **spīritus** vester et **anima** et corpus **sine** **querēlā** in adventū Dominī nostrī Iēsū Chrīstī servētur.
 
 24 **Fidēlis** **est**, quī vocat vōs, quī etiam faciet.
 
@@ -188,6 +188,6 @@
 
 27 Adiūrō vōs per Dominum, ut **lēgātur** **epistula** omnibus frātribus.
 
-28 **Grātia** Dominī nostrī **Iēsu** Chrīstī vōbīscum.
+28 **Grātia** Dominī nostrī Iēsū Chrīstī vōbīscum.
 
 

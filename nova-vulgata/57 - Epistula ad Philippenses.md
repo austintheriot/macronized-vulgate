@@ -4,9 +4,9 @@
 
 ## 1
 
-1 Paulus et Tīmotheus servī Chrīstī **Iēsu** omnibus sānctīs in Chrīstō **Iēsu**, quī sunt Philippīs, cum epīscopīs et diāconīs:
+1 Paulus et Tīmotheus servī Chrīstī Iēsū omnibus sānctīs in Chrīstō Iēsū, quī sunt Philippīs, cum epīscopīs et diāconīs:
 
-2 **grātia** vōbīs et pāx ā Deō Patre nostrō et Dominō **Iēsu** Chrīstō.
+2 **grātia** vōbīs et pāx ā Deō Patre nostrō et Dominō Iēsū Chrīstō.
 
 3 **Grātiās** agō Deō meō in omnī **memoriā** vestrī,
 
@@ -14,11 +14,11 @@
 
 5 super commūniōne **vestrā** in ēvangeliō ā **prīmā** **diē** usque nunc;
 
-6 cōnfīdēns **hōc** ipsum, quia, quī coepit in vōbīs opus bonum, perficiet usque in diem Chrīstī **Iēsu**;
+6 cōnfīdēns **hōc** ipsum, quia, quī coepit in vōbīs opus bonum, perficiet usque in diem Chrīstī Iēsū;
 
 7 sīcut **est** mihi iūstum **hoc** sentīre prō omnibus vōbīs, eō quod habeam in **corde** vōs et in vinculīs meīs et in dēfēnsiōne et cōnfirmātiōne ēvangeliī sociōs grātiae meae omnēs vōs **esse**.
 
-8 **Testīs** enim mihi Deus, quōmodo cupiam omnēs vōs in vīsceribus Chrīstī **Iēsu**.
+8 **Testīs** enim mihi Deus, quōmodo cupiam omnēs vōs in vīsceribus Chrīstī Iēsū.
 
 9 Et **hoc** ōrō, ut **cāritās** **vestra** **magis** ac **magis** abundet in **scientiā** et omnī sēnsū,
 
@@ -40,7 +40,7 @@
 
 18 Quid enim? Dum omnī **modō**, sīve sub obtentū sīve in vēritāte, Chrīstus annūntiētur, et in **hōc** gaudeō; sed et gaudēbō,
 
-19 sciō enim quia **hoc** mihi prōveniet in salūtem per vestram ōrātiōnem et subministrātiōnem **Spīritus** **Iēsu** Chrīstī,
+19 sciō enim quia **hoc** mihi prōveniet in salūtem per vestram ōrātiōnem et subministrātiōnem **Spīritus** Iēsū Chrīstī,
 
 20 secundum exspectātiōnem et spem meam quia in nūllō cōnfundar, sed in omnī **fīdūciā**, sīcut semper et nunc, magnificābitur Chrīstus in corpore meō, sīve per vītam sīve per mortem.
 
@@ -54,7 +54,7 @@
 
 25 Et **hoc** cōnfīdēns, sciō quia manēbō et permanēbō omnibus vōbīs ad **prōfectum** vestrum et gaudium fideī,
 
-26 ut glōriātiō **vestra** abundet in Chrīstō **Iēsu** in mē, per meum adventum iterum ad vōs.
+26 ut glōriātiō **vestra** abundet in Chrīstō Iēsū in mē, per meum adventum iterum ad vōs.
 
 27 Tantum **dignē** ēvangeliō Chrīstī conversāminī, ut sīve cum vēnerō et vīderō vōs, sīve absēns audiam dē vōbīs quia **statīs** in ūnō Spīritū ūnanimēs, concertantēs **fide** ēvangeliī;
 
@@ -74,7 +74,7 @@
 
 4 nōn, quae **sua** sunt, singulī cōnsīderantēs, sed et **ea**, quae aliōrum.
 
-5 **Hoc** sentīte in vōbīs, quod et in Chrīstō **Iēsu**:
+5 **Hoc** sentīte in vōbīs, quod et in Chrīstō Iēsū:
 
 6 quī cum in **fōrmā** Deī **esset**,
 
@@ -96,7 +96,7 @@ et dōnāvit illī **nōmen**,
 
 quod **est** super omne **nōmen**,
 
-10 ut in nōmine **Iēsu** omne **genu** flectātur
+10 ut in nōmine Iēsū omne **genu** flectātur
 
 caelestium et terrestrium et īnfernōrum,
 
@@ -120,11 +120,11 @@ in glōriam Deī Patrīs.
 
 18 idipsum autem et vōs gaudēte et congaudēte mihi.
 
-19 Spērō autem in Dominō **Iēsu** Tīmotheum **cito** mē **mittere** ad vōs, ut et ego bonō animō sim, cognitīs, quae circā vōs sunt.
+19 Spērō autem in Dominō Iēsū Tīmotheum **cito** mē **mittere** ad vōs, ut et ego bonō animō sim, cognitīs, quae circā vōs sunt.
 
 20 Nēminem enim habeō tam ūnanimem, quī **sincērē** prō vōbīs sollicitus sit;
 
-21 omnēs enim **sua** quaerunt, nōn quae sunt **Iēsu** Chrīstī.
+21 omnēs enim **sua** quaerunt, nōn quae sunt Iēsū Chrīstī.
 
 22 Probātiōnem autem eius cognōscitis, quoniam sīcut patrī fīlius mēcum servīvit in ēvangelium.
 
@@ -150,7 +150,7 @@ in glōriam Deī Patrīs.
 
 2 Vidēte **canēs**, vidēte **mālōs** operāriōs, vidēte concīsiōnem!
 
-3 Nōs enim sumus circumcīsiō, quī Spīritū Deī servīmus et glōriāmur in Chrīstō **Iēsu** et nōn in carne fīdūciam habentēs,
+3 Nōs enim sumus circumcīsiō, quī Spīritū Deī servīmus et glōriāmur in Chrīstō Iēsū et nōn in carne fīdūciam habentēs,
 
 4 quamquam ego habeam cōnfīdentiam et in carne. Sī **quis** **alius** vidētur **cōnfīdere** in carne, ego **magis**:
 
@@ -160,7 +160,7 @@ in glōriam Deī Patrīs.
 
 7 Sed, quae mihi erant lucra, haec **arbitrātus** sum propter Chrīstum dētrīmentum.
 
-8 Vērumtamen exīstimō omnia dētrīmentum **esse** propter ēminentiam scientiae Chrīstī **Iēsu** Dominī meī, propter quem omnia dētrīmentum fēcī et arbitror ut **stercora**, ut Chrīstum lucrīfaciam
+8 Vērumtamen exīstimō omnia dētrīmentum **esse** propter ēminentiam scientiae Chrīstī Iēsū Dominī meī, propter quem omnia dētrīmentum fēcī et arbitror ut **stercora**, ut Chrīstum lucrīfaciam
 
 9 et inveniar in illō nōn habēns meam iūstitiam, quae ex **lēge** **est**, sed illam, quae per fidem **est** Chrīstī, quae ex Deō **est** **iūstitiā** in **fide**;
 
@@ -168,11 +168,11 @@ in glōriam Deī Patrīs.
 
 11 sī quō **modo** occurram ad resurrēctiōnem, quae **est** ex mortuīs.
 
-12 Nōn quod iam accēperim aut iam **perfectus** sim; persequor autem sī umquam comprehendam, sīcut et comprehēnsus sum ā Chrīstō **Iēsu**.
+12 Nōn quod iam accēperim aut iam **perfectus** sim; persequor autem sī umquam comprehendam, sīcut et comprehēnsus sum ā Chrīstō Iēsū.
 
 13 Frātrēs, ego mē nōn arbitror comprehendisse; ūnum autem: quae quidem retrō sunt, oblīvīscēns, ad **eā** vērō, quae ante sunt, extendēns mē
 
-14 ad dēstinātum persequor, ad bravium supernae vocātiōnis Deī in Chrīstō **Iēsu**.
+14 ad dēstinātum persequor, ad bravium supernae vocātiōnis Deī in Chrīstō Iēsū.
 
 15 Quīcumque ergō perfectī, **hoc** sentiāmus; et sī quid aliter sapitis, et **hoc** vōbīs Deus revēlābit;
 
@@ -202,7 +202,7 @@ in glōriam Deī Patrīs.
 
 6 Nihil sollicitī **sītis**, sed in omnibus ōrātiōne et obsecrātiōne cum grātiārum āctiōne petītiōnēs vestrae innōtēscant apud Deum.
 
-7 Et pāx Deī, quae exsuperat omnem sēnsum, cūstōdiet **corda** **vestra** et intellegentiās vestrās in Chrīstō **Iēsu**.
+7 Et pāx Deī, quae exsuperat omnem sēnsum, cūstōdiet **corda** **vestra** et intellegentiās vestrās in Chrīstō Iēsū.
 
 8 Dē cēterō, frātrēs, quaecumque sunt **vēra**, quaecumque **pudīca**, quaecumque **iūsta**, quaecumque **casta**, quaecumque amābilia, quaecumque bonae fāmae, sī **quā** virtūs et sī **quā** laus, haec **cōgitātē**;
 
@@ -226,14 +226,14 @@ in glōriam Deī Patrīs.
 
 18 Accēpī autem omnia et abundō; replētus sum acceptīs ab Epaphrodītō, quae mīsistis odōrem suāvitātis, hostiam acceptam, placentem Deō.
 
-19 Deus autem meus implēbit omne dēsīderium vestrum secundum dīvitiās suās in **glōriā** in Chrīstō **Iēsu**.
+19 Deus autem meus implēbit omne dēsīderium vestrum secundum dīvitiās suās in **glōriā** in Chrīstō Iēsū.
 
 20 Deō autem et Patrī nostrō **glōria** in saecula saeculōrum. Āmēn.
 
-21 **Salūtātē** omnem sānctum in Chrīstō **Iēsu**. Salūtant vōs, quī mēcum sunt, frātrēs.
+21 **Salūtātē** omnem sānctum in Chrīstō Iēsū. Salūtant vōs, quī mēcum sunt, frātrēs.
 
 22 Salūtant vōs omnēs sānctī, **maximē** autem, quī dē Caesaris domō sunt.
 
-23 **Grātia** Dominī **Iēsu** Chrīstī cum spīritū vestrō. Āmēn.
+23 **Grātia** Dominī Iēsū Chrīstī cum spīritū vestrō. Āmēn.
 
 

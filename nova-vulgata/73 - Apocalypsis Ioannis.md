@@ -4,15 +4,15 @@
 
 ## 1
 
-1 **Apocalypsis** **Iēsu** Chrīstī, quam **dedit** illī Deus **palam** facere servīs **suīs**, quae oportet fierī **cito**, et significāvit mittēns per angelum suum servō suō Iōannī,
+1 **Apocalypsis** Iēsū Chrīstī, quam **dedit** illī Deus **palam** facere servīs **suīs**, quae oportet fierī **cito**, et significāvit mittēns per angelum suum servō suō Iōannī,
 
-2 quī testificātus **est** verbum Deī et testimōnium **Iēsu** Chrīstī, quaecumque vīdit.
+2 quī testificātus **est** verbum Deī et testimōnium Iēsū Chrīstī, quaecumque vīdit.
 
 3 Beātus, quī **legit** et quī audiunt verba prophētīae et servant **ea**, quae in **eā** **scrīpta** sunt; tempus enim prope **est**.
 
 4 Iōannēs septem ecclēsiīs, quae sunt in **Asiā**: **Grātia** vōbīs et pāx ab eō, quī **est** et quī erat et quī ventūrus **est**, et ā septem spīritibus, quī in cōnspectū thronī eius sunt,
 
-5 et ab **Iēsu** Chrīstō, quī **est** **testis** **fidēlis**, prīmōgenitus mortuōrum et prīnceps rēgum terrae.
+5 et ab Iēsū Chrīstō, quī **est** **testis** **fidēlis**, prīmōgenitus mortuōrum et prīnceps rēgum terrae.
 
 **Eī**, quī dīligit nōs et solvit nōs ā **peccātīs** nostrīs in sanguine suō
 
@@ -22,7 +22,7 @@
 
 8 Ego sum Alpha et Omēga, dīcit Dominus Deus, quī **est** et quī erat et quī ventūrus **est**, Omnipotēns.
 
-9 Ego Iōannēs, frāter vester et particeps in trībulātiōne et rēgnō et **patientiā** in **Iēsu**, fuī in **īnsulā**, quae appellātur **Patmos**, propter verbum Deī et testimōnium **Iēsu**.
+9 Ego Iōannēs, frāter vester et particeps in trībulātiōne et rēgnō et **patientiā** in Iēsū, fuī in **īnsulā**, quae appellātur **Patmos**, propter verbum Deī et testimōnium Iēsū.
 
 10 Fuī in spīritū in **dominicā** **diē** et audīvī post mē **vōcem** magnam tamquam tubae
 
@@ -518,7 +518,7 @@ Vae terrae et marī, quia dēscendit Diabolus ad vōs habēns īram magnam, sci�
 
 16 Et adiūvit **terra** mulierem, et aperuit **terra** **os** suum et absorbuit flūmen, quod mīsit dracō dē ōre suō.
 
-17 Et īrātus **est** dracō in mulierem et abiit facere proelium cum reliquīs dē sēmine eius, quī cūstōdiunt **mandāta** Deī et habent testimōnium **Iēsu**.
+17 Et īrātus **est** dracō in mulierem et abiit facere proelium cum reliquīs dē sēmine eius, quī cūstōdiunt **mandāta** Deī et habent testimōnium Iēsū.
 
 18 Et stetit super arēnam **maris**.
 
@@ -594,7 +594,7 @@ oportet eum in gladiō **occīdī**.
 
 11 Et fūmus tormentōrum eōrum in saecula saeculōrum ascendit, nec habent requiem **diē** ac nocte, quī adōrāvērunt bēstiam et imāginem eius, et sī **quis** accēperit characterem nōminis eius ”.
 
-12 **Hic** **patientia** sānctōrum **est**, quī cūstōdiunt **mandāta** Deī et fidem **Iēsu**.
+12 **Hic** **patientia** sānctōrum **est**, quī cūstōdiunt **mandāta** Deī et fidem Iēsū.
 
 13 Et audīvī **vōcem** dē caelō dīcentem: “ Scrībe: Beātī mortuī, quī in Dominō moriuntur āmodo. Etiam, dīcit **Spīritus**, ut requiēscant ā labōribus **suīs**; **opera** enim illōrum sequuntur illōs ”.
 
@@ -704,7 +704,7 @@ quoniam iūdicia **tua** **manifestāta** sunt ”.
 
 5 et in fronte eius **nōmen** scrīptum, mystērium: “ Babylōn **magna**, māter fornicātiōnum et abōminātiōnum terrae ”.
 
-6 Et vīdī mulierem ēbriam dē sanguine sānctōrum et dē sanguine martyrum **Iēsu**. Et mīrātus sum, cum vīdissem illam, admīrātiōne **magnā**.
+6 Et vīdī mulierem ēbriam dē sanguine sānctōrum et dē sanguine martyrum Iēsū. Et mīrātus sum, cum vīdissem illam, admīrātiōne **magnā**.
 
 7 Et dīxit mihi angelus. “ Quārē **mīrāris**? Ego tibi **dīcam** mystērium mulieris et bēstiae, quae portat eam, quae habet **capita** septem et decem cornua:
 
@@ -820,7 +820,7 @@ et uxor eius praeparāvit sē.
 
 9 Et dīcit mihi: “ Scrībe: Beātī, quī ad cēnam nūptiārum Agnī vocātī sunt! ”. Et dīcit mihi: “ Haec verba Deī **vēra** sunt ”.
 
-10 Et **cecidī** ante **pedēs** eius, ut adōrārem eum. Et dīcit mihi: “ Vidē, nē **fēcerīs**! Cōnservus tuus sum et frātrum tuōrum habentium testimōnium **Iēsu**. Deum **adōrā**. Testimōnium enim **Iēsu** **est** **spīritus** prophētīae ”.
+10 Et **cecidī** ante **pedēs** eius, ut adōrārem eum. Et dīcit mihi: “ Vidē, nē **fēcerīs**! Cōnservus tuus sum et frātrum tuōrum habentium testimōnium Iēsū. Deum **adōrā**. Testimōnium enim Iēsū **est** **spīritus** prophētīae ”.
 
 11 Et vīdī caelum apertum: et ecce equus albus; et, quī sedēbat super eum, vocābātur **Fidēlis** et Vērāx, et in **iūstitiā** iūdicat et pugnat.
 
@@ -852,7 +852,7 @@ et uxor eius praeparāvit sē.
 
 3 et mīsit eum in abyssum et clausit et signāvit super illum, ut nōn sēdūcat amplius gentēs, dōnec cōnsummentur mīlle annī; post haec oportet illum solvī modicō tempore.
 
-4 Et vīdī thronōs, et sēdērunt super eōs, et iūdicium datum **est** illīs; et animās dēcollātōrum propter testimōnium **Iēsu** et propter verbum Deī, et quī nōn adōrāvērunt bēstiam neque imāginem eius nec accēpērunt characterem in frontibus et in manibus **suīs**; et vīxērunt et rēgnāvērunt cum Chrīstō mīlle annīs.
+4 Et vīdī thronōs, et sēdērunt super eōs, et iūdicium datum **est** illīs; et animās dēcollātōrum propter testimōnium Iēsū et propter verbum Deī, et quī nōn adōrāvērunt bēstiam neque imāginem eius nec accēpērunt characterem in frontibus et in manibus **suīs**; et vīxērunt et rēgnāvērunt cum Chrīstō mīlle annīs.
 
 5 Cēterī mortuōrum nōn vīxērunt, dōnec cōnsummentur mīlle annī. Haec **est** resurrēctiō **prīma**.
 
@@ -974,8 +974,8 @@ et uxor eius praeparāvit sē.
 
 20 Dīcit, quī testimōnium perhibet istōrum: “ Etiam, veniō **cito** ”.
 
-“ Āmēn. **Venī**, Domine **Iēsu**! ”.
+“ Āmēn. **Venī**, Domine Iēsū! ”.
 
-21 **Grātia** Dominī **Iēsu** cum omnibus.
+21 **Grātia** Dominī Iēsū cum omnibus.
 
 

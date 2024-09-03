@@ -8,7 +8,7 @@
 
 2 et, quī mēcum sunt, omnēs frātrēs ecclēsiīs Galatiae:
 
-3 **grātia** vōbīs et pāx ā Deō Patre nostrō et Dominō **Iēsu** Chrīstō,
+3 **grātia** vōbīs et pāx ā Deō Patre nostrō et Dominō Iēsū Chrīstō,
 
 4 quī **dedit** sēmetipsum prō **peccātīs** nostrīs, ut ēriperet nōs dē praesentī saeculō nēquam secundum voluntātem Deī et Patrīs nostrī,
 
@@ -26,7 +26,7 @@
 
 11 **Notum** enim vōbīs faciō, frātrēs, ēvangelium, quod ēvangelīzātum **est** ā mē, quia nōn **est** secundum hominem;
 
-12 neque enim ego ab homine accēpī illud neque didicī sed per revēlātiōnem **Iēsu** Chrīstī.
+12 neque enim ego ab homine accēpī illud neque didicī sed per revēlātiōnem Iēsū Chrīstī.
 
 13 Audīstis enim conversātiōnem meam aliquandō in Iūdaismō, quoniam suprā modum persequēbar ecclēsiam Deī et expugnābam illam;
 
@@ -60,7 +60,7 @@
 
 3 Sed neque Titus, quī mēcum erat, cum **esset** Graecus, compulsus **est** circumcīdī.
 
-4 Sed propter subintrōductōs falsōs frātrēs, quī subintroiērunt explōrāre lībertātem nostram, quam habēmus in Chrīstō **Iēsu**, ut nōs in servitūtem redigerent;
+4 Sed propter subintrōductōs falsōs frātrēs, quī subintroiērunt explōrāre lībertātem nostram, quam habēmus in Chrīstō Iēsū, ut nōs in servitūtem redigerent;
 
 5 quibus neque ad hōram cessimus subicientēs nōs, ut **vēritās** ēvangeliī permaneat apud vōs.
 
@@ -84,7 +84,7 @@
 
 15 Nōs **nātūrā** Iūdaeī et nōn ex gentibus peccātōrēs,
 
-16 scientēs autem quod nōn iustificātur homō ex operibus **lēgis**, **nisi** per fidem **Iēsu** Chrīstī, et nōs in Chrīstum **Iēsum** crēdidimus, ut iustificēmur ex **fide** Chrīstī et nōn ex operibus **lēgis**, quoniam ex operibus **lēgis** nōn iustificābitur **omnis** **carō**.
+16 scientēs autem quod nōn iustificātur homō ex operibus **lēgis**, **nisi** per fidem Iēsū Chrīstī, et nōs in Chrīstum **Iēsum** crēdidimus, ut iustificēmur ex **fide** Chrīstī et nōn ex operibus **lēgis**, quoniam ex operibus **lēgis** nōn iustificābitur **omnis** **carō**.
 
 17 Quodsī quaerentēs iustificārī in Chrīstō, inventī sumus et ipsī peccātōrēs, numquid Chrīstus peccātī minister **est**? Absit!
 
@@ -124,7 +124,7 @@
 
 13 Chrīstus nōs redēmit dē maledictō **lēgis** **factus** prō nōbīs maledictum, quia scrīptum **est**: “ Maledictus **omnis**, quī pendet in lignō ”,
 
-14 ut in gentēs benedictiō Abrahae fieret in Chrīstō **Iēsu**, ut prōmissiōnem **Spīritūs** accipiāmus per fidem.
+14 ut in gentēs benedictiō Abrahae fieret in Chrīstō Iēsū, ut prōmissiōnem **Spīritūs** accipiāmus per fidem.
 
 15 Frātrēs, secundum hominem **dīcō**, tamen hominis cōnfirmātum testāmentum nēmō irritum facit aut superōrdinat.
 
@@ -140,7 +140,7 @@
 
 21 Lēx ergō adversus **prōmissa** Deī? Absit. Sī enim **data** **esset** lēx, quae posset vīvificāre, **vērē** ex **lēge** **esset** **iūstitiā**.
 
-22 Sed conclūsit **Scrīptūra** omnia sub peccātō, ut prōmissiō ex **fide** **Iēsu** Chrīstī darētur crēdentibus.
+22 Sed conclūsit **Scrīptūra** omnia sub peccātō, ut prōmissiō ex **fide** Iēsū Chrīstī darētur crēdentibus.
 
 23 Prius autem quam venīret **fidēs**, sub **lēge** cūstōdiēbāmur conclūsī in eam fidem, quae **revēlanda** erat.
 
@@ -148,11 +148,11 @@
 
 25 at ubi **venit** **fidēs**, iam nōn sumus sub paedagōgō.
 
-26 Omnēs enim fīliī Deī **estis** per fidem in Chrīstō **Iēsu**.
+26 Omnēs enim fīliī Deī **estis** per fidem in Chrīstō Iēsū.
 
 27 Quīcumque enim in Chrīstum baptīzātī **estis**, Chrīstum induistis:
 
-28 nōn **est** Iūdaeus neque Graecus, nōn **est** servus neque **liber**, nōn **est** masculus et **fēmina**; omnēs enim vōs ūnus **estis** in Chrīstō **Iēsu**.
+28 nōn **est** Iūdaeus neque Graecus, nōn **est** servus neque **liber**, nōn **est** masculus et **fēmina**; omnēs enim vōs ūnus **estis** in Chrīstō Iēsū.
 
 29 Sī autem vōs Chrīstī, ergō Abrahae sēmen **estis**, secundum prōmissiōnem hērēdēs.
 
@@ -240,7 +240,7 @@ quia multī fīliī dēsertae
 
 5 Nōs enim Spīritū ex **fide** spem iūstitiae exspectāmus.
 
-6 Nam in Chrīstō **Iēsu** neque circumcīsiō aliquid valet neque praepūtium, sed **fidēs**, quae per cāritātem operātur.
+6 Nam in Chrīstō Iēsū neque circumcīsiō aliquid valet neque praepūtium, sed **fidēs**, quae per cāritātem operātur.
 
 7 Currēbātis **bene**; **quis** vōs impedīvit vēritātī nōn oboedīre?
 
@@ -276,7 +276,7 @@ quia multī fīliī dēsertae
 
 23 mānsuētūdō, **continentia**; adversus huiusmodī nōn **est** lēx.
 
-24 Quī autem sunt Chrīstī **Iēsu**, carnem crucifīxērunt cum vitiīs et concupiscentiīs.
+24 Quī autem sunt Chrīstī Iēsū, carnem crucifīxērunt cum vitiīs et concupiscentiīs.
 
 25 Sī vīvimus Spīritū, Spīritū et ambulēmus.
 
@@ -310,14 +310,14 @@ quia multī fīliī dēsertae
 
 13 neque enim, quī circumcīduntur, lēgem cūstōdiunt, sed volunt vōs circumcīdī, ut in carne **vestrā** glōrientur.
 
-14 Mihi autem absit glōriārī, **nisi** in cruce Dominī nostrī **Iēsu** Chrīstī, per quem mihi mundus crucifīxus **est**, et ego mundō.
+14 Mihi autem absit glōriārī, **nisi** in cruce Dominī nostrī Iēsū Chrīstī, per quem mihi mundus crucifīxus **est**, et ego mundō.
 
 15 Neque enim circumcīsiō aliquid **est** neque praepūtium sed **nova** **creātūra**.
 
 16 Et quīcumque hanc rēgulam secūtī fuerint, pāx super illōs et **misericordiā** et super Isrāēl Deī.
 
-17 Dē cēterō nēmō mihi molestus sit; ego enim **stigmata** **Iēsu** in super corpore meō portō.
+17 Dē cēterō nēmō mihi molestus sit; ego enim **stigmata** Iēsū in super corpore meō portō.
 
-18 **Grātia** Dominī nostrī **Iēsu** Chrīstī cum spīritū vestrō, frātrēs. Āmēn.
+18 **Grātia** Dominī nostrī Iēsū Chrīstī cum spīritū vestrō, frātrēs. Āmēn.
 
 

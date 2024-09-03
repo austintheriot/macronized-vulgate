@@ -4,11 +4,11 @@
 
 ## 1
 
-1 Paulus, apostolus Chrīstī **Iēsu** per voluntātem Deī, et Tīmotheus frāter ecclēsiae Deī, quae **est** Corinthī, cum sānctīs omnibus, quī sunt in **ūniversā** **Achāiā**:
+1 Paulus, apostolus Chrīstī Iēsū per voluntātem Deī, et Tīmotheus frāter ecclēsiae Deī, quae **est** Corinthī, cum sānctīs omnibus, quī sunt in **ūniversā** **Achāiā**:
 
-2 **grātia** vōbīs et pāx ā Deō Patre nostrō et Dominō **Iēsu** Chrīstō.
+2 **grātia** vōbīs et pāx ā Deō Patre nostrō et Dominō Iēsū Chrīstō.
 
-3 Benedictus Deus et Pater Dominī nostrī **Iēsu** Chrīstī, Pater misericordiārum et Deus tōtīus cōnsōlātiōnis,
+3 Benedictus Deus et Pater Dominī nostrī Iēsū Chrīstī, Pater misericordiārum et Deus tōtīus cōnsōlātiōnis,
 
 4 quī cōnsōlātur nōs in omnī trībulātiōne **nostrā**, ut possīmus et ipsī cōnsōlārī eōs, quī in omnī **pressūrā** sunt, per exhortātiōnem, **quā** exhortāmur et ipsī ā Deō;
 
@@ -30,7 +30,7 @@
 
 13 Nōn enim **alia** scrībimus vōbīs quam quae legitis aut etiam cognōscitis; spērō autem quod usque in fīnem cognōscētis,
 
-14 sīcut et cognōvistis nōs ex **parte**, quia **glōria** **vestra** sumus, sīcut et vōs **nostrā** in **diē** Dominī nostrī **Iēsu**.
+14 sīcut et cognōvistis nōs ex **parte**, quia **glōria** **vestra** sumus, sīcut et vōs **nostrā** in **diē** Dominī nostrī Iēsū.
 
 15 Et hāc **cōnfīdentiā** voluī prius venīre ad vōs, ut secundam grātiam habērētis,
 
@@ -140,7 +140,7 @@
 
 5 Nōn enim nosmetipsōs **praedicāmus** sed **Iēsum** Chrīstum Dominum; nōs autem servōs vestrōs per **Iēsum**.
 
-6 Quoniam Deus, quī dīxit: “ Dē tenebrīs lūx splendescat ”, ipse illūxit in cordibus nostrīs ad illūminātiōnem scientiae clāritātis Deī in faciē **Iēsu** Chrīstī.
+6 Quoniam Deus, quī dīxit: “ Dē tenebrīs lūx splendescat ”, ipse illūxit in cordibus nostrīs ad illūminātiōnem scientiae clāritātis Deī in faciē Iēsū Chrīstī.
 
 7 Habēmus autem thēsaurum istum in **vāsīs** fictilibus, ut sublīmitās sit **virtūtis** Deī et nōn ex nōbīs.
 
@@ -148,15 +148,15 @@
 
 9 persecūtiōnem patimur, sed nōn dērelinquimur; dēicimur, sed nōn **perīmus**;
 
-10 semper mortificātiōnem **Iēsu** in corpore circumferentēs, ut et **vīta** **Iēsu** in corpore nostrō manifestētur.
+10 semper mortificātiōnem Iēsū in corpore circumferentēs, ut et **vīta** Iēsū in corpore nostrō manifestētur.
 
-11 Semper enim nōs, quī vīvimus, in mortem trādimur propter **Iēsum**, ut et **vīta** **Iēsu** manifestētur in carne **nostrā** mortālī.
+11 Semper enim nōs, quī vīvimus, in mortem trādimur propter **Iēsum**, ut et **vīta** Iēsū manifestētur in carne **nostrā** mortālī.
 
 12 Ergō mors in nōbīs operātur, **vīta** autem in vōbīs.
 
 13 Habentēs autem eundem spīritum fideī, sīcut scrīptum **est**: “ Crēdidī, propter quod **locūtus** sum ”, et nōs crēdimus, propter quod et loquimur,
 
-14 scientēs quoniam, quī suscitāvit Dominum **Iēsum**, et nōs cum **Iēsu** suscitābit et cōnstituet vōbīscum.
+14 scientēs quoniam, quī suscitāvit Dominum **Iēsum**, et nōs cum Iēsū suscitābit et cōnstituet vōbīscum.
 
 15 Omnia enim propter vōs, ut **grātia** abundāns per multōs grātiārum āctiōnem abundāre faciat in glōriam Deī.
 
@@ -324,7 +324,7 @@ In cōnsōlātiōne autem **nostrā** abundantius **magis** gāvīsī sumus supe
 
 8 Nōn quasi imperāns **dīcō**, sed per aliōrum sollicitūdinem etiam vestrae cāritātis ingenitum bonum comprobāns;
 
-9 **scītis** enim grātiam Dominī nostrī **Iēsu** Chrīstī, quoniam propter vōs egēnus **factus** **est**, cum **esset** dīves, ut illīus **inopia** vōs dīvitēs **essētis**.
+9 **scītis** enim grātiam Dominī nostrī Iēsū Chrīstī, quoniam propter vōs egēnus **factus** **est**, cum **esset** dīves, ut illīus **inopia** vōs dīvitēs **essētis**.
 
 10 Et cōnsilium in **hoc** dō. **Hoc** enim vōbīs ūtile **est**, quī nōn **sōlum** facere, sed et velle coepistis ab annō priōre;
 
@@ -492,7 +492,7 @@ In cōnsōlātiōne autem **nostrā** abundantius **magis** gāvīsī sumus supe
 
 30 Sī glōriārī oportet, quae īnfirmitātis meae sunt, glōriābor.
 
-31 Deus et Pater Dominī **Iēsu** scit, quī **est** benedictus in saecula, quod nōn mentior.
+31 Deus et Pater Dominī Iēsū scit, quī **est** benedictus in saecula, quod nōn mentior.
 
 32 Damascī praepositus **gentis** Ārētae **rēgis** cūstōdiēbat cīvitātem Damascēnōrum, ut mē comprehenderet;
 
@@ -568,6 +568,6 @@ In cōnsōlātiōne autem **nostrā** abundantius **magis** gāvīsī sumus supe
 
 12 **Salūtātē** invicem in ōsculō sānctō. Salūtant vōs sānctī omnēs.
 
-13 **Grātia** Dominī **Iēsu** Chrīstī et **cāritās** Deī et commūnicātiō Sānctī **Spīritus** cum omnibus vōbīs.
+13 **Grātia** Dominī Iēsū Chrīstī et **cāritās** Deī et commūnicātiō Sānctī **Spīritus** cum omnibus vōbīs.
 
 

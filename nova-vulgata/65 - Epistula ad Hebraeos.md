@@ -476,7 +476,7 @@ ut faciam, Deus, voluntātem tuam ”.
 
 9 tunc dīxit: “ Ecce veniō, ut faciam voluntātem tuam ”. Aufert prīmum, ut secundum statuat;
 
-10 in **quā** voluntāte sānctificātī sumus per oblātiōnem corporis Chrīstī **Iēsu** in semel.
+10 in **quā** voluntāte sānctificātī sumus per oblātiōnem corporis Chrīstī Iēsū in semel.
 
 11 Et **omnis** quidem sacerdōs stat cotīdiē ministrāns et eāsdem saepe offerēns hostiās, quae numquam possunt auferre **peccāta**.
 
@@ -494,7 +494,7 @@ ut faciam, Deus, voluntātem tuam ”.
 
 18 **Ubi** autem hōrum remissiō, iam nōn oblātiō prō peccātō.
 
-19 Habentēs itaque, frātrēs, fīdūciam in introitum Sānctōrum in sanguine **Iēsu**,
+19 Habentēs itaque, frātrēs, fīdūciam in introitum Sānctōrum in sanguine Iēsū,
 
 20 quam initiāvit nōbīs viam novam et vīventem per vēlāmen, id **est** carnem suam,
 

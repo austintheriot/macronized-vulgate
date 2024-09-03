@@ -4,13 +4,13 @@
 
 ## 1
 
-1 Paulus, apostolus Chrīstī **Iēsu** per voluntātem Deī, et Tīmotheus frāter
+1 Paulus, apostolus Chrīstī Iēsū per voluntātem Deī, et Tīmotheus frāter
 
 2 hīs, quī sunt Colossīs, sānctīs et fidēlibus frātribus in Chrīstō: **grātia** vōbīs et pāx ā Deō Patre nostrō.
 
-3 **Grātiās** agimus Deō Patrī Dominī nostrī **Iēsu** Chrīstī semper prō vōbīs ōrantēs,
+3 **Grātiās** agimus Deō Patrī Dominī nostrī Iēsū Chrīstī semper prō vōbīs ōrantēs,
 
-4 audientēs fidem vestram in Chrīstō **Iēsu** et dīlēctiōnem, quam habētis in sānctōs omnēs,
+4 audientēs fidem vestram in Chrīstō Iēsū et dīlēctiōnem, quam habētis in sānctōs omnēs,
 
 5 propter spem, quae **reposita** **est** vōbīs in caelīs, quam ante audīstis in verbō vēritātis ēvangeliī,
 
@@ -170,7 +170,7 @@ sīve quae in terrīs sīve quae in caelīs sunt.
 
 16 Verbum Chrīstī habitet in vōbīs abundanter, in omnī **sapientiā** docentēs et commonentēs vōsmetipsōs psalmīs, hymnīs, canticīs spīritālibus, in **grātiā** cantantēs in cordibus vestrīs Deō;
 
-17 et omne, quodcumque facitis in verbō aut in opere, omnia in nōmine Dominī **Iēsu** grātiās agentēs Deō Patrī per ipsum.
+17 et omne, quodcumque facitis in verbō aut in opere, omnia in nōmine Dominī Iēsū grātiās agentēs Deō Patrī per ipsum.
 
 18 Mulierēs, subditae **ēstote** **vīrīs**, sīcut oportet in Dominō.
 
@@ -212,7 +212,7 @@ sīve quae in terrīs sīve quae in caelīs sunt.
 
 11 et **Iēsus**, quī dīcitur Iūstus, quī sunt ex circumcīsiōne; hī **sōlī** adiūtōrēs in rēgnō Deī, quī mihi fuērunt sōlāciō.
 
-12 Salūtat vōs Epaphrās, quī ex vōbīs **est**, servus Chrīstī **Iēsu**, semper certāns prō vōbīs in ōrātiōnibus, ut stētis perfectī et implētī in omnī voluntāte Deī.
+12 Salūtat vōs Epaphrās, quī ex vōbīs **est**, servus Chrīstī Iēsū, semper certāns prō vōbīs in ōrātiōnibus, ut stētis perfectī et implētī in omnī voluntāte Deī.
 
 13 Testimōnium enim illī perhibeō, quod habet multum labōrem prō vōbīs et prō hīs, quī sunt Laodiciae et quī Hierāpolī.
 

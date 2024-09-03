@@ -4,9 +4,9 @@
 
 ## 1
 
-1 Paulus, apostolus Chrīstī **Iēsu** secundum praeceptum Deī salvātōris nostrī et Chrīstī **Iēsu** speī nostrae,
+1 Paulus, apostolus Chrīstī Iēsū secundum praeceptum Deī salvātōris nostrī et Chrīstī Iēsū speī nostrae,
 
-2 Tīmotheō germānō fīliō in **fide**: **grātia**, **misericordia**, pāx ā Deō Patre et Chrīstō **Iēsu** Dominō nostrō.
+2 Tīmotheō germānō fīliō in **fide**: **grātia**, **misericordia**, pāx ā Deō Patre et Chrīstō Iēsū Dominō nostrō.
 
 3 Sīcut rogāvī tē, ut remanērēs Ephesī, cum īrem in **Macedoniam**, ut praeciperēs quibusdam, nē aliter docērent
 
@@ -26,11 +26,11 @@
 
 11 secundum ēvangelium glōriae beātī Deī, quod crēditum **est** mihi.
 
-12 **Grātiam** habeō **eī**, quī mē cōnfortāvit, Chrīstō **Iēsu** Dominō nostrō, quia fidēlem mē exīstimāvit pōnēns in ministeriō,
+12 **Grātiam** habeō **eī**, quī mē cōnfortāvit, Chrīstō Iēsū Dominō nostrō, quia fidēlem mē exīstimāvit pōnēns in ministeriō,
 
 13 quī prius fuī blasphēmus et persecūtor et contumēliōsus; sed misericordiam cōnsecūtus sum, quia ignōrāns fēcī in incrēdulitāte;
 
-14 superabundāvit autem **grātia** Dominī nostrī cum **fide** et dīlēctiōne, quae sunt in Chrīstō **Iēsu**.
+14 superabundāvit autem **grātia** Dominī nostrī cum **fide** et dīlēctiōne, quae sunt in Chrīstō Iēsū.
 
 15 **Fidēlis** sermō et omnī acceptiōne dignus: Chrīstus **Iēsus** **venit** in mundum peccātōrēs salvōs facere; quōrum prīmus ego sum,
 
@@ -102,7 +102,7 @@
 
 12 Diāconī sint ūnīus uxōris **virī**, quī fīliīs **suīs** **bene** praesint et **suīs** domibus;
 
-13 quī enim **bene** ministrāverint, gradum sibi bonum acquīrent et multam fīdūciam in **fide**, quae **est** in Chrīstō **Iēsu**.
+13 quī enim **bene** ministrāverint, gradum sibi bonum acquīrent et multam fīdūciam in **fide**, quae **est** in Chrīstō Iēsū.
 
 14 Haec tibi scrībō spērāns venīre ad tē **cito**;
 
@@ -134,7 +134,7 @@ assūmptus **est** in **glōriā**.
 
 5 sānctificātur enim per verbum Deī et ōrātiōnem.
 
-6 Haec prōpōnēns frātribus bonus **eris** minister Chrīstī **Iēsu**, ēnūtrītus verbīs fideī et bonae doctrīnae, quam assecūtus **es**;
+6 Haec prōpōnēns frātribus bonus **eris** minister Chrīstī Iēsū, ēnūtrītus verbīs fideī et bonae doctrīnae, quam assecūtus **es**;
 
 7 **prōfānās** autem et anīlēs fābulās dēvītā.
 
@@ -200,7 +200,7 @@ Exercē tēipsum ad pietātem;
 
 20 Peccantēs **cōram** omnibus argue, ut et cēterī timōrem habeant.
 
-21 Testificor **cōram** Deō et Chrīstō **Iēsu** et ēlēctīs angelīs, ut haec cūstōdiās **sine** praeiūdiciō nihil faciēns in aliquam partem dēclīnandō.
+21 Testificor **cōram** Deō et Chrīstō Iēsū et ēlēctīs angelīs, ut haec cūstōdiās **sine** praeiūdiciō nihil faciēns in aliquam partem dēclīnandō.
 
 22 **Manus** **cito** nēminī **imposuerīs** neque **commūnicāverīs** **peccātīs** aliēnīs; tēipsum castum cūstōdī.
 
@@ -216,7 +216,7 @@ Exercē tēipsum ad pietātem;
 
 2 Quī autem fidēlēs habent dominōs, nōn contemnant, quia frātrēs sunt, sed **magis** serviant, quia fidēlēs sunt et dīlēctī, quī beneficiī participēs sunt. Haec docē et exhortāre.
 
-3 Sī **quis** aliter docet et nōn accēdit sānīs sermōnibus Dominī nostrī **Iēsu** Chrīstī et **eī**, quae secundum pietātem **est**, doctrīnae,
+3 Sī **quis** aliter docet et nōn accēdit sānīs sermōnibus Dominī nostrī Iēsū Chrīstī et **eī**, quae secundum pietātem **est**, doctrīnae,
 
 4 superbus **est**, nihil sciēns, sed languēns circā quaestiōnēs et pugnās verbōrum, ex quibus oriuntur invidiae, contentiōnēs, blasphēmiae, suspīciōnēs **malae**,
 
@@ -236,9 +236,9 @@ Exercē tēipsum ad pietātem;
 
 12 **Certa** bonum certāmen fideī, apprehende vītam aeternam, ad quam **vocātus** **es**, et cōnfessus **es** bonam cōnfessiōnem **cōram** multīs testibus.
 
-13 Praecipiō tibi **cōram** Deō, quī vīvificat omnia, et Chrīstō **Iēsu**, quī testimōnium reddidit sub Pontiō Pīlātō bonam cōnfessiōnem,
+13 Praecipiō tibi **cōram** Deō, quī vīvificat omnia, et Chrīstō Iēsū, quī testimōnium reddidit sub Pontiō Pīlātō bonam cōnfessiōnem,
 
-14 ut servēs mandātum **sine** **maculā** irreprehēnsibile usque in adventum Dominī nostrī **Iēsu** Chrīstī,
+14 ut servēs mandātum **sine** **maculā** irreprehēnsibile usque in adventum Dominī nostrī Iēsū Chrīstī,
 
 15 quem **suīs** temporibus ostendet beātus et **sōlus** potēns, Rēx rēgnantium et Dominus dominantium,
 

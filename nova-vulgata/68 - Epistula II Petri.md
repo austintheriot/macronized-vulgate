@@ -4,9 +4,9 @@
 
 ## 1
 
-1 Simōn Petrus servus et apostolus **Iēsu** Chrīstī hīs, quī **cōae** quālem nōbīs sortītī sunt fidem in **iūstitiā** Deī nostrī et salvātōris **Iēsu** Chrīstī:
+1 Simōn Petrus servus et apostolus Iēsū Chrīstī hīs, quī **cōae** quālem nōbīs sortītī sunt fidem in **iūstitiā** Deī nostrī et salvātōris Iēsū Chrīstī:
 
-2 **grātia** vōbīs et pāx multiplicētur in cognitiōne Deī et **Iēsu** Dominī nostrī.
+2 **grātia** vōbīs et pāx multiplicētur in cognitiōne Deī et Iēsū Dominī nostrī.
 
 3 Quōmodo omnia nōbīs dīvīnae **virtūtis** suae ad vītam et pietātem dōnātae per cognitiōnem eius, quī vocāvit nōs **propriā** **glōriā** et virtūte,
 
@@ -18,13 +18,13 @@
 
 7 in pietāte autem amōrem frāternitātis, in amōre autem frāternitātis cāritātem.
 
-8 Haec enim vōbīs, cum adsint et abundent, nōn vacuōs nec **sine** frūctū vōs cōnstituunt in Dominī nostrī **Iēsu** Chrīstī cognitiōnem;
+8 Haec enim vōbīs, cum adsint et abundent, nōn vacuōs nec **sine** frūctū vōs cōnstituunt in Dominī nostrī Iēsū Chrīstī cognitiōnem;
 
 9 cui enim nōn praestō sunt haec, caecus **est** et nihil procul cernēns, oblīviōnem accipiēns pūrgātiōnis veterum suōrum dēlictōrum.
 
 10 Quāpropter, frātrēs, **magis** satagite, ut firmam vestram vocātiōnem et ēlēctiōnem faciātis. Haec enim facientēs nōn offendētis aliquandō;
 
-11 sīc enim abundanter ministrābitur vōbīs **introitus** in aeternum rēgnum Dominī nostrī et salvātōris **Iēsu** Chrīstī.
+11 sīc enim abundanter ministrābitur vōbīs **introitus** in aeternum rēgnum Dominī nostrī et salvātōris Iēsū Chrīstī.
 
 12 Propter quod incipiam vōs semper commonēre dē hīs, et quidem scientēs et cōnfirmātōs in praesentī vēritāte.
 
@@ -34,7 +34,7 @@
 
 15 dabō autem operam et frequenter habēre vōs post obitum meum, ut hōrum memoriam faciātis.
 
-16 Nōn enim captiōsās fābulās secūtī **notam** fēcimus vōbīs Dominī nostrī **Iēsu** Chrīstī virtūtem et adventum, sed speculātōrēs factī illīus magnitūdinis.
+16 Nōn enim captiōsās fābulās secūtī **notam** fēcimus vōbīs Dominī nostrī Iēsū Chrīstī virtūtem et adventum, sed speculātōrēs factī illīus magnitūdinis.
 
 17 Accipiēns enim ā Deō Patre honōrem et glōriam, vōce prōlātā ad eum huiuscemodī ā **magnificā** **glōriā**: “ Fīlius meus, **dīlēctus** meus **hic** **est**, in quō ego mihi complacuī ”;
 
@@ -88,7 +88,7 @@ Audācēs, superbī, glōriās nōn metuunt blasphēmantēs,
 
 19 lībertātem illīs prōmittentēs, cum ipsī servī sint corruptiōnis; ā quō enim **quis** superātus **est**, huius servus **est**.
 
-20 Sī enim refugientēs coinquinātiōnēs mundī in cognitiōne Dominī nostrī et Salvātōris **Iēsu** Chrīstī hīs rūrsus implicātī superantur, **facta** sunt eīs posteriōra **dēteriōra** priōribus.
+20 Sī enim refugientēs coinquinātiōnēs mundī in cognitiōne Dominī nostrī et Salvātōris Iēsū Chrīstī hīs rūrsus implicātī superantur, **facta** sunt eīs posteriōra **dēteriōra** priōribus.
 
 21 **Mēlius** enim erat illīs nōn **cognōscere** viam iūstitiae, quam post agnitiōnem retrōrsum convertī ab eō, quod illīs trāditum **est**, sānctō mandātō.
 
@@ -134,6 +134,6 @@ et “ Sūs lōta in volūtābrō **lutī** ”.
 
 17 Vōs igitur, dīlēctī, praescientēs **cūstōdītē**, nē inīquōrum errōre simul abductī **excidātis** ā **propriā** firmitāte;
 
-18 crēscite vērō in **grātiā** et in cognitiōne Dominī nostrī et Salvātōris **Iēsu** Chrīstī. Ipsī **glōria** et nunc et in diem aeternitātis. Āmēn.
+18 crēscite vērō in **grātiā** et in cognitiōne Dominī nostrī et Salvātōris Iēsū Chrīstī. Ipsī **glōria** et nunc et in diem aeternitātis. Āmēn.
 
 

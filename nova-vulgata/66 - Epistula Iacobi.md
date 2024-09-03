@@ -4,7 +4,7 @@
 
 ## 1
 
-1 Iacobus, Deī et Dominī **Iēsu** Chrīstī servus, duodecim tribubus, quae sunt in dispersiōne, salūtem.
+1 Iacobus, Deī et Dominī Iēsū Chrīstī servus, duodecim tribubus, quae sunt in dispersiōne, salūtem.
 
 2 Omne gaudium **exīstimāte**, frātrēs meī, cum in tentātiōnibus variīs **incīderītis**,
 
@@ -60,7 +60,7 @@
 
 ## 2
 
-1 Frātrēs meī, nōlīte in **persōnā** rum acceptiōne habēre fidem Dominī nostrī **Iēsu** Chrīstī glōriae.
+1 Frātrēs meī, nōlīte in **persōnā** rum acceptiōne habēre fidem Dominī nostrī Iēsū Chrīstī glōriae.
 
 2 Etenim, sī introierit in synagōgam vestram vir aureum ānulum habēns in veste **candidā**, introierit autem et pauper in sordidō habitū,
 

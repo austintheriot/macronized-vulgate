@@ -114,11 +114,11 @@ sīcut dīxit Īsaiās **prophēta** ”.
 
 ## 2
 
-1 Et **diē** tertiō nūptiae factae sunt in **Cānā** Galilaeae, et erat māter **Iēsu** ibi;
+1 Et **diē** tertiō nūptiae factae sunt in **Cānā** Galilaeae, et erat māter Iēsū ibi;
 
 2 **vocātus** **est** autem et **Iēsus** et discipulī eius ad nūptiās.
 
-3 Et dēficiente vīnō, dīcit māter **Iēsu** ad eum: “ Vīnum nōn habent ”.
+3 Et dēficiente vīnō, dīcit māter Iēsū ad eum: “ Vīnum nōn habent ”.
 
 4 Et dīcit **eī** **Iēsus**: “ Quid mihi et tibi, mulier? Nōndum **venit** **hōra** **mea** ”.
 
@@ -1110,7 +1110,7 @@ Erat autem sabbatum in illō **diē**.
 
 2 Fēcērunt ergō **eī** cēnam ibi, et Martha ministrābat, Lazarus vērō ūnus erat ex discumbentibus cum eō.
 
-3 **Maria** ergō accēpit lībram unguentī nardī pūrī, pretiōsī, et ūnxit **pedēs** **Iēsu** et extersit capillīs **suīs** **pedēs** eius; **domus** autem **implēta** **est** ex **odōre** unguentī.
+3 **Maria** ergō accēpit lībram unguentī nardī pūrī, pretiōsī, et ūnxit **pedēs** Iēsū et extersit capillīs **suīs** **pedēs** eius; **domus** autem **implēta** **est** ex **odōre** unguentī.
 
 4 Dīcit autem Iūdās Iscariōtēs, ūnus ex discipulīs eius, quī erat eum trāditūrus:
 
@@ -1156,7 +1156,7 @@ sedēns super pullum asinae ”.
 
 21 hī ergō accessērunt ad Philippum, quī erat ā Bethsaīdā Galilaeae, et rogābant eum dīcentēs: “ Domine, volumus **Iēsum** **vidēre** ”.
 
-22 **Venit** Philippus et dīcit Andreae; **venit** Andreās et Philippus et dīcunt **Iēsu**.
+22 **Venit** Philippus et dīcit Andreae; **venit** Andreās et Philippus et dīcunt Iēsū.
 
 23 **Iēsus** autem respondet eīs dīcēns: “ **Venit** **hōra**, ut glōrificētur Fīlius hominis.
 
@@ -1272,11 +1272,11 @@ et sānem eōs ”.
 
 22 Aspiciēbant ad invicem discipulī, haesitantēs dē quō dīceret.
 
-23 Erat recumbēns ūnus ex discipulīs eius in sinū **Iēsu**, quem dīligēbat **Iēsus**.
+23 Erat recumbēns ūnus ex discipulīs eius in sinū Iēsū, quem dīligēbat **Iēsus**.
 
 24 Innuit ergō huic Simōn Petrus, ut interrogāret: “ **Quis** **est**, dē quō dīcit? ”.
 
-25 Cum ergō recumberet ille **ita** suprā pectus **Iēsu**, dīcit **eī**: “ Domine, **quis** **est**? ”.
+25 Cum ergō recumberet ille **ita** suprā pectus Iēsū, dīcit **eī**: “ Domine, **quis** **est**? ”.
 
 26 Respondet **Iēsus**: “ Ille **est**, cui ego intīnctam buccellam porrēxerō ”. Cum ergō intīnxisset buccellam, dat Iūdae Simōnis Iscariōtis.
 
@@ -1580,7 +1580,7 @@ Pater **sānctē**, **servā** eōs in nōmine tuō, quod dedistī mihi, ut sint
 
 14 Erat autem Caiphās, quī cōnsilium dederat Iūdaeīs: “ Expedit ūnum hominem **morī** prō **populō** ”.
 
-15 Sequēbātur autem **Iēsum** Simōn Petrus et **alius** discipulus. Discipulus autem ille erat nōtus pontificī et introīvit cum **Iēsu** in ātrium pontificis;
+15 Sequēbātur autem **Iēsum** Simōn Petrus et **alius** discipulus. Discipulus autem ille erat nōtus pontificī et introīvit cum Iēsū in ātrium pontificis;
 
 16 Petrus autem stābat ad ōstium **foris**. Exīvit ergō discipulus **alius**, quī erat nōtus pontificī, et dīxit ōstiāriae et intrōdūxit Petrum.
 
@@ -1594,7 +1594,7 @@ Pater **sānctē**, **servā** eōs in nōmine tuō, quod dedistī mihi, ut sint
 
 21 Quid mē interrogās? Interrogā eōs, quī audiērunt quid **locūtus** sum ipsīs; ecce hī sciunt, quae dīxerim ego ”.
 
-22 Haec autem cum dīxisset, ūnus assistēns ministrōrum **dedit** alapam **Iēsu** dīcēns: “ Sīc respondēs pontificī? ”.
+22 Haec autem cum dīxisset, ūnus assistēns ministrōrum **dedit** alapam Iēsū dīcēns: “ Sīc respondēs pontificī? ”.
 
 23 Respondit **eī** **Iēsus**: “ Sī **male** **locūtus** sum, testimōnium perhibē dē **mālō**; sī autem **bene**, quid mē **caedis**? ”.
 
@@ -1614,7 +1614,7 @@ Pater **sānctē**, **servā** eōs in nōmine tuō, quod dedistī mihi, ut sint
 
 31 Dīxit ergō eīs Pīlātus: “ Accipite eum vōs et secundum lēgem vestram **iūdicātē** eum! ”. Dīxērunt **eī** Iūdaeī: “ Nōbīs nōn licet interficere quemquam ”,
 
-32 ut sermō **Iēsu** implērētur, quem dīxit, significāns **quā** **esset** morte moritūrus.
+32 ut sermō Iēsū implērētur, quem dīxit, significāns **quā** **esset** morte moritūrus.
 
 33 Introīvit ergō iterum in praetōrium Pīlātus et vocāvit **Iēsum** et dīxit **eī**: “ Tū **es** rēx Iūdaeōrum? ”.
 
@@ -1688,7 +1688,7 @@ et in vestem meam mīsērunt sortem ”.
 
 Et mīlitēs quidem haec fēcērunt.
 
-25 Stābant autem iuxtā crucem **Iēsu** māter eius et soror mātris eius, **Maria** Cleopae, et **Maria** Magdalēne.
+25 Stābant autem iuxtā crucem Iēsū māter eius et soror mātris eius, **Maria** Cleopae, et **Maria** Magdalēne.
 
 26 Cum vīdisset ergō **Iēsus** mātrem et discipulum stantem, quem dīligēbat, dīcit mātrī: “ Mulier, ecce fīlius tuus ”.
 
@@ -1714,11 +1714,11 @@ Et mīlitēs quidem haec fēcērunt.
 
 37 et iterum **alia** **Scrīptūra** dīcit: “ Vidēbunt in quem trānsfīxērunt ”.
 
-38 Post haec autem rogāvit Pīlātum Ioseph ab Arimathaea, quī erat discipulus **Iēsu**, occultus autem propter metum Iūdaeōrum, ut tolleret corpus **Iēsu**; et permīsit Pīlātus. **Venit** ergō et tulit corpus eius.
+38 Post haec autem rogāvit Pīlātum Ioseph ab Arimathaea, quī erat discipulus Iēsū, occultus autem propter metum Iūdaeōrum, ut tolleret corpus Iēsū; et permīsit Pīlātus. **Venit** ergō et tulit corpus eius.
 
 39 **Venit** autem et Nicodēmus, quī vēnerat ad eum nocte prīmum, ferēns mixtūram myrrhae et aloēs quasi lībrās centum.
 
-40 Accēpērunt ergō corpus **Iēsu** et ligāvērunt illud linteīs cum arōmatibus, sīcut mōs Iūdaeīs **est** sepelīre.
+40 Accēpērunt ergō corpus Iēsū et ligāvērunt illud linteīs cum arōmatibus, sīcut mōs Iūdaeīs **est** sepelīre.
 
 41 Erat autem in locō, ubi crucifīxus **est**, hortus, et in hortō monumentum novum, in quō nōndum quisquam **positus** erat.
 
@@ -1748,7 +1748,7 @@ Et mīlitēs quidem haec fēcērunt.
 
 11 **Maria** autem stābat ad monumentum **foris** plōrāns. Dum ergō flēret, inclīnāvit sē in monumentum
 
-12 et videt duōs angelōs in albīs sedentēs, ūnum ad caput et ūnum ad **pedēs**, ubi positum fuerat corpus **Iēsu**.
+12 et videt duōs angelōs in albīs sedentēs, ūnum ad caput et ūnum ad **pedēs**, ubi positum fuerat corpus Iēsū.
 
 13 Et dīcunt **eī** illī: “ Mulier, quid plōrās? ”. Dīcit eīs: “ Tulērunt Dominum meum, et nesciō, ubi posuērunt eum ”.
 
@@ -1830,7 +1830,7 @@ Et mīlitēs quidem haec fēcērunt.
 
 20 Conversus Petrus videt illum discipulum, quem dīligēbat **Iēsus**, sequentem, quī et recubuit in **cēnā** super pectus eius et dīxit: “ Domine, **quis** **est** quī trādit tē? ”.
 
-21 Hunc ergō cum vīdisset Petrus, dīcit **Iēsu**: “ Domine, **hic** autem quid? ”.
+21 Hunc ergō cum vīdisset Petrus, dīcit Iēsū: “ Domine, **hic** autem quid? ”.
 
 22 Dīcit **eī** **Iēsus**: “ Sī eum volō **manēre** dōnec veniam, quid ad tē? Tū mē **sequēre** ”.
 

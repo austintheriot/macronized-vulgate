@@ -8,7 +8,7 @@
 
 2 — et **vīta** appāruit, et vīdimus et testāmur et annūntiāmus vōbīs vītam aeternam, quae erat **cōram** Patre et appāruit nōbīs —
 
-3 quod vīdimus et audīvimus, annūntiāmus et vōbīs, ut et vōs commūniōnem habeātis nōbīscum. Commūniō autem **nostra** **est** cum Patre et cum Fīliō eius **Iēsu** Chrīstō.
+3 quod vīdimus et audīvimus, annūntiāmus et vōbīs, ut et vōs commūniōnem habeātis nōbīscum. Commūniō autem **nostra** **est** cum Patre et cum Fīliō eius Iēsū Chrīstō.
 
 4 Et haec scrībimus nōs, ut gaudium nostrum sit plēnum.
 
@@ -16,7 +16,7 @@
 
 6 Sī **dīxerīmus** quoniam commūniōnem habēmus cum eō, et in tenebrīs ambulāmus, mentīmur et nōn facimus vēritātem;
 
-7 sī autem in **lūce** ambulēmus, sīcut ipse **est** in **lūce**, commūniōnem habēmus ad invicem, et sanguis **Iēsu** Fīliī eius mundat nōs ab omnī peccātō.
+7 sī autem in **lūce** ambulēmus, sīcut ipse **est** in **lūce**, commūniōnem habēmus ad invicem, et sanguis Iēsū Fīliī eius mundat nōs ab omnī peccātō.
 
 8 Sī **dīxerīmus** quoniam peccātum nōn habēmus, nosmetipsōs sēdūcimus, et **vēritās** in nōbīs nōn **est**.
 
@@ -130,7 +130,7 @@
 
 22 et, quodcumque **petierimus**, accipimus ab eō, quoniam **mandāta** eius cūstōdīmus et **ea**, quae sunt **placita** **cōram** eō, facimus.
 
-23 Et **hoc** **est** mandātum eius, ut crēdāmus nōminī Fīliī eius **Iēsu** Chrīstī et dīligāmus alterutrum, sīcut **dedit** mandātum nōbīs.
+23 Et **hoc** **est** mandātum eius, ut crēdāmus nōminī Fīliī eius Iēsū Chrīstī et dīligāmus alterutrum, sīcut **dedit** mandātum nōbīs.
 
 24 Et, quī servat **mandāta** eius, in ipsō **manet**, et ipse in eō; et in **hōc** cognōscimus quoniam **manet** in nōbīs, ex Spīritū, quem nōbīs **dedit**.
 
@@ -218,7 +218,7 @@
 
 19 Scīmus quoniam ex Deō sumus, et mundus **tōtus** in Malignō **positus** **est**.
 
-20 Et scīmus quoniam Fīlius Deī **venit** et **dēdit** nōbīs sēnsum, ut cognōscāmus eum, quī vērus **est**; et sumus in eō, quī vērus **est**, in Fīliō eius **Iēsu** Chrīstō. **Hic** **est** quī vērus **est**, Deus et **vīta** **aeterna**.
+20 Et scīmus quoniam Fīlius Deī **venit** et **dēdit** nōbīs sēnsum, ut cognōscāmus eum, quī vērus **est**; et sumus in eō, quī vērus **est**, in Fīliō eius Iēsū Chrīstō. **Hic** **est** quī vērus **est**, Deus et **vīta** **aeterna**.
 
 21 Fīliolī, **cūstōdīte** vōs ā simulācrīs!
 

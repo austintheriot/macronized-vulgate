@@ -4,11 +4,11 @@
 
 ## 1
 
-1 Petrus apostolus **Iēsu** Chrīstī ēlēctīs advenīs dispersiōnis Pontī, Galatiae, Cappadociae, Asiae et Bīthȳniae,
+1 Petrus apostolus Iēsū Chrīstī ēlēctīs advenīs dispersiōnis Pontī, Galatiae, Cappadociae, Asiae et Bīthȳniae,
 
-2 secundum praescientiam Deī Patrīs, in sānctificātiōne **Spīritus**, in oboedientiam et aspersiōnem sanguinis **Iēsu** Chrīstī: **grātia** vōbīs et pāx multiplicētur.
+2 secundum praescientiam Deī Patrīs, in sānctificātiōne **Spīritus**, in oboedientiam et aspersiōnem sanguinis Iēsū Chrīstī: **grātia** vōbīs et pāx multiplicētur.
 
-3 Benedictus Deus et Pater Dominī nostrī **Iēsu** Chrīstī, quī secundum magnam misericordiam suam regenerāvit nōs in spem vīvam per resurrēctiōnem **Iēsu** Chrīstī ex mortuīs,
+3 Benedictus Deus et Pater Dominī nostrī Iēsū Chrīstī, quī secundum magnam misericordiam suam regenerāvit nōs in spem vīvam per resurrēctiōnem Iēsū Chrīstī ex mortuīs,
 
 4 in hērēditātem incorruptibilem et incontāminātam et immarcescibilem, cōnservātam in caelīs propter vōs,
 
@@ -16,7 +16,7 @@
 
 6 In quō **exsultātis**, modicum nunc sī oportet contrīstātī in variīs tentātiōnibus,
 
-7 ut **probātiō** vestrae fideī multō pretiōsior aurō, quod perit, per ignem quidem probātō, inveniātur in laudem et glōriam et honōrem in revēlātiōne **Iēsu** Chrīstī.
+7 ut **probātiō** vestrae fideī multō pretiōsior aurō, quod perit, per ignem quidem probātō, inveniātur in laudem et glōriam et honōrem in revēlātiōne Iēsū Chrīstī.
 
 8 Quem cum nōn **vīderītis**, dīligitis; in quem nunc nōn videntēs, crēdentēs autem, **exsultātīs** **laetitiā** inēnārrābilī et **glōrificāta**,
 
@@ -28,7 +28,7 @@
 
 12 quibus revēlātum **est** quia nōn sibi ipsīs, vōbīs autem ministrābant **ea**, quae nunc **nūntiāta** sunt vōbīs per eōs, quī ēvangelīzāvērunt vōs, Spīritū Sānctō missō dē caelō, in quae dēsīderant angelī prōspicere.
 
-13 Propter quod succīnctī lumbōs **mentis** vestrae, sōbriī, **perfectē** **spērātē** in eam, quae offertur vōbīs, grātiam in revēlātiōne **Iēsu** Chrīstī.
+13 Propter quod succīnctī lumbōs **mentis** vestrae, sōbriī, **perfectē** **spērātē** in eam, quae offertur vōbīs, grātiam in revēlātiōne Iēsū Chrīstī.
 
 14 Quasi fīliī oboedientiae, nōn cōnfigūrātī priōribus in **ignōrantiā** **vestra** dēsīderiīs,
 
@@ -194,7 +194,7 @@ et aurēs eius in precēs eōrum;
 
 20 quī incrēdulī fuerant aliquandō, quandō exspectābat Deī **patientia** in diēbus Noe, cum fabricārētur **arca**, in **quā** paucī, id **est** octo animae, salvae factae sunt per aquam.
 
-21 Cuius antitypum, baptisma, et vōs nunc salvōs facit, nōn **carnis** dēpositiō sordium sed cōnscientiae bonae rogātiō in Deum, per resurrēctiōnem **Iēsu** Chrīstī,
+21 Cuius antitypum, baptisma, et vōs nunc salvōs facit, nōn **carnis** dēpositiō sordium sed cōnscientiae bonae rogātiō in Deum, per resurrēctiōnem Iēsū Chrīstī,
 
 22 quī **est** in **dexterā** Deī, **profectus** in caelum, subiectīs sibi angelīs et potestātibus et virtūtibus.
 
@@ -264,7 +264,7 @@ humilibus autem dat grātiam.
 
 9 Cui resistite fortēs **fide**, scientēs **eadem** passiōnum **eī**, quae in mundō **est**, vestrae frāternitātī fierī.
 
-10 Deus autem **omnis** grātiae, quī vocāvit vōs in aeternam suam glōriam in Chrīstō **Iēsu**, modicum passōs ipse perficiet, cōnfirmābit, solidābit, fundābit.
+10 Deus autem **omnis** grātiae, quī vocāvit vōs in aeternam suam glōriam in Chrīstō Iēsū, modicum passōs ipse perficiet, cōnfirmābit, solidābit, fundābit.
 
 11 Ipsī imperium in saecula saeculōrum. Āmēn.
 
