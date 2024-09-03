@@ -194,7 +194,7 @@ replēbis mē iūcunditāte cum faciē tuā”.
 
 ## 3
 
-1 Petrus autem et Iōannēs ascen dēbant in templum ad hōram ōrātiōnis nōnam.
+1 Petrus autem et Iōannēs ascendēbant in templum ad hōram ōrātiōnis nōnam.
 
 2 Et quīdam vir, quī erat claudus ex uterō mātris suae, baiulābātur; quem pōnēbant cotīdiē ad portam templī, quae dīcitur **Speciōsa**, ut peteret eleēmosynam ab introeuntibus in templum;
 
