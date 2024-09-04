@@ -248,7 +248,7 @@ replēbis mē iūcunditāte cum faciē tuā”.
 
 ## 4
 
-1 Loquentibus autem illīs ad populum, supervēnērunt eīs sacerdōtēs et magistrātūs templī et saddūcaeī,
+1 Loquentibus autem illīs ad populum, supervēnērunt eīs sacerdōtēs et magistrātus templī et saddūcaeī,
 
 2 dolentēs quod docērent populum et annūntiārent in Iēsū resurrēctiōnem ex mortuīs;
 
