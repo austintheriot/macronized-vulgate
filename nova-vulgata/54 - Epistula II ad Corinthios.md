@@ -40,7 +40,7 @@
 
 18 **Fidēlis** autem Deus, quia sermō noster, quī fit apud vōs, nōn **est** ”**Est**” et ”Nōn”!
 
-19 Deī enim Fīlius **Iēsus** Chrīstus, quī in vōbīs per nōs praedicātus **est**, per mē et Silvānum et Tīmotheum, nōn fuit ”**Est**” et ”Nōn”, sed ”**Est**” in illō fuit.
+19 Deī enim Fīlius Iēsūs Chrīstus, quī in vōbīs per nōs praedicātus **est**, per mē et Silvānum et Tīmotheum, nōn fuit ”**Est**” et ”Nōn”, sed ”**Est**” in illō fuit.
 
 20 Quotquot enim prōmissiōnēs Deī sunt, in illō ”**Est**”; ideō et per ipsum ”Āmēn” Deō ad glōriam per nōs.
 
@@ -138,7 +138,7 @@
 
 4 in quibus deus huius saeculī excaecāvit mentēs īnfidēlium, ut nōn fulgeat illūminātiō ēvangeliī glōriae Chrīstī, quī **est** imāgō Deī.
 
-5 Nōn enim nosmetipsōs **praedicāmus** sed **Iēsum** Chrīstum Dominum; nōs autem servōs vestrōs per **Iēsum**.
+5 Nōn enim nosmetipsōs **praedicāmus** sed Iēsum Chrīstum Dominum; nōs autem servōs vestrōs per Iēsum.
 
 6 Quoniam Deus, quī dīxit: ”Dē tenebrīs lūx splendescat”, ipse illūxit in cordibus nostrīs ad illūminātiōnem scientiae clāritātis Deī in faciē Iēsū Chrīstī.
 
@@ -150,13 +150,13 @@
 
 10 semper mortificātiōnem Iēsū in corpore circumferentēs, ut et **vīta** Iēsū in corpore nostrō manifestētur.
 
-11 Semper enim nōs, quī vīvimus, in mortem trādimur propter **Iēsum**, ut et **vīta** Iēsū manifestētur in carne **nostrā** mortālī.
+11 Semper enim nōs, quī vīvimus, in mortem trādimur propter Iēsum, ut et **vīta** Iēsū manifestētur in carne **nostrā** mortālī.
 
 12 Ergō mors in nōbīs operātur, **vīta** autem in vōbīs.
 
 13 Habentēs autem eundem spīritum fideī, sīcut scrīptum **est**: ”Crēdidī, propter quod **locūtus** sum”, et nōs crēdimus, propter quod et loquimur,
 
-14 scientēs quoniam, quī suscitāvit Dominum **Iēsum**, et nōs cum Iēsū suscitābit et cōnstituet vōbīscum.
+14 scientēs quoniam, quī suscitāvit Dominum Iēsum, et nōs cum Iēsū suscitābit et cōnstituet vōbīscum.
 
 15 Omnia enim propter vōs, ut **grātia** abundāns per multōs grātiārum āctiōnem abundāre faciat in glōriam Deī.
 
@@ -552,7 +552,7 @@ In cōnsōlātiōne autem **nostrā** abundantius **magis** gāvīsī sumus supe
 
 4 Nam etsī crucifīxus **est** ex īnfirmitāte, sed vīvit ex virtūte Deī. Nam et nōs īnfirmī sumus in illō, sed vīvēmus cum eō ex virtūte Deī in vōs.
 
-5 Vōsmetipsōs **tentāte**, sī **estis** in **fide**; ipsī vōs **probātē**. An nōn cognōscitis vōs ipsōs, quia **Iēsus** Chrīstus in vōbīs **est**? **Nisi** forte reprobī **estis**.
+5 Vōsmetipsōs **tentāte**, sī **estis** in **fide**; ipsī vōs **probātē**. An nōn cognōscitis vōs ipsōs, quia Iēsūs Chrīstus in vōbīs **est**? **Nisi** forte reprobī **estis**.
 
 6 Spērō autem quod cognōscētis quia nōs nōn sumus reprobī.
 

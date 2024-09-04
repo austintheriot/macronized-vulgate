@@ -44,7 +44,7 @@
 
 7 Nam mystērium iam operātur inīquitātis; tantum quī tenet nunc, dōnec dē **mediō** fīat.
 
-8 Et tunc revēlābitur ille inīquus, quem Dominus **Iēsus** interficiet spīritū **ōris** **suī** et dēstruet illūstrātiōne **adventūs** **suī**,
+8 Et tunc revēlābitur ille inīquus, quem Dominus Iēsūs interficiet spīritū **ōris** **suī** et dēstruet illūstrātiōne **adventūs** **suī**,
 
 9 eum, cuius **est** **adventus** secundum operātiōnem Satānae in omnī virtūte et signīs et prōdigiīs mendācibus
 
@@ -60,7 +60,7 @@
 
 15 Itaque, frātrēs, **stāte** et tenēte trāditiōnēs, quās didicistis sīve per sermōnem sīve per epistulam nostram.
 
-16 Ipse autem Dominus noster **Iēsus** Chrīstus et Deus Pater noster, quī dīlēxit nōs et **dedit** cōnsōlātiōnem aeternam et spem bonam in **grātiā**,
+16 Ipse autem Dominus noster Iēsūs Chrīstus et Deus Pater noster, quī dīlēxit nōs et **dedit** cōnsōlātiōnem aeternam et spem bonam in **grātiā**,
 
 17 cōnsōlētur **corda** **vestra** et cōnfirmet in omnī opere et sermōne bonō.
 

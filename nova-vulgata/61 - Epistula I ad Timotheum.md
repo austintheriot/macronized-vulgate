@@ -32,9 +32,9 @@
 
 14 superabundāvit autem **grātia** Dominī nostrī cum **fide** et dīlēctiōne, quae sunt in Chrīstō Iēsū.
 
-15 **Fidēlis** sermō et omnī acceptiōne dignus: Chrīstus **Iēsus** **venit** in mundum peccātōrēs salvōs facere; quōrum prīmus ego sum,
+15 **Fidēlis** sermō et omnī acceptiōne dignus: Chrīstus Iēsūs **venit** in mundum peccātōrēs salvōs facere; quōrum prīmus ego sum,
 
-16 sed ideō misericordiam cōnsecūtus sum, ut in mē prīmō ostenderet Chrīstus **Iēsus** omnem longanimitātem, ad īnfōrmātiōnem eōrum, quī crēditūrī sunt illī in vītam aeternam.
+16 sed ideō misericordiam cōnsecūtus sum, ut in mē prīmō ostenderet Chrīstus Iēsūs omnem longanimitātem, ad īnfōrmātiōnem eōrum, quī crēditūrī sunt illī in vītam aeternam.
 
 17 **Rēgī** autem saeculōrum, incorruptibilī, invīsibilī, **sōlī** Deō honor et **glōria** in saecula saeculōrum. Āmēn.
 
@@ -42,7 +42,7 @@
 
 19 habēns fidem et bonam cōnscientiam, quam quīdam repellentēs circā fidem naufragāvērunt;
 
-20 ex quibus **est** **Hymenaeus** et **Alexander**, quōs trādidī Satānae, ut discant nōn blasphēmāre.
+20 ex quibus **est** **Hymenaeus** et Alexander, quōs trādidī Satānae, ut discant nōn blasphēmāre.
 
 ## 2
 
@@ -54,7 +54,7 @@
 
 4 quī omnēs hominēs vult salvōs fierī et ad agnitiōnem vēritātis venīre.
 
-5 Ūnus enim Deus, ūnus et mediātor Deī et hominum, homō Chrīstus **Iēsus**,
+5 Ūnus enim Deus, ūnus et mediātor Deī et hominum, homō Chrīstus Iēsūs,
 
 6 quī **dedit** redēmptiōnem sēmetipsum prō omnibus, testimōnium temporibus **suīs**;
 

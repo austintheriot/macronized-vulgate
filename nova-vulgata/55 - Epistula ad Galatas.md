@@ -4,7 +4,7 @@
 
 ## 1
 
-1 Paulus apostolus, nōn ab hominibus neque per hominem, sed per **Iēsum** Chrīstum et Deum Patrem, quī suscitāvit eum ā mortuīs,
+1 Paulus apostolus, nōn ab hominibus neque per hominem, sed per Iēsum Chrīstum et Deum Patrem, quī suscitāvit eum ā mortuīs,
 
 2 et, quī mēcum sunt, omnēs frātrēs ecclēsiīs Galatiae:
 
@@ -84,7 +84,7 @@
 
 15 Nōs **nātūrā** Iūdaeī et nōn ex gentibus peccātōrēs,
 
-16 scientēs autem quod nōn iustificātur homō ex operibus **lēgis**, **nisi** per fidem Iēsū Chrīstī, et nōs in Chrīstum **Iēsum** crēdidimus, ut iustificēmur ex **fide** Chrīstī et nōn ex operibus **lēgis**, quoniam ex operibus **lēgis** nōn iustificābitur **omnis** **carō**.
+16 scientēs autem quod nōn iustificātur homō ex operibus **lēgis**, **nisi** per fidem Iēsū Chrīstī, et nōs in Chrīstum Iēsum crēdidimus, ut iustificēmur ex **fide** Chrīstī et nōn ex operibus **lēgis**, quoniam ex operibus **lēgis** nōn iustificābitur **omnis** **carō**.
 
 17 Quodsī quaerentēs iustificārī in Chrīstō, inventī sumus et ipsī peccātōrēs, numquid Chrīstus peccātī minister **est**? Absit!
 
@@ -98,7 +98,7 @@
 
 ## 3
 
-1 Ō īnsēnsātī Galatae, **quis** vōs fascināvit, ante quōrum oculōs **Iēsus** Chrīstus dēscrīptus **est** crucifīxus?
+1 Ō īnsēnsātī Galatae, **quis** vōs fascināvit, ante quōrum oculōs Iēsūs Chrīstus dēscrīptus **est** crucifīxus?
 
 2 **Hoc** **sōlum** volō ā vōbīs **discere**: Ex operibus **lēgis** Spīritum accēpistis an ex audītū fideī?
 
@@ -184,7 +184,7 @@
 
 13 **scītis** autem quia per īnfirmitātem **carnis** prīdem vōbīs ēvangelīzāvī,
 
-14 et tentātiōnem vestram in carne **meā** nōn sprēvistis neque respuistis, sed sīcut angelum Deī excēpistis mē, sīcut Chrīstum **Iēsum**.
+14 et tentātiōnem vestram in carne **meā** nōn sprēvistis neque respuistis, sed sīcut angelum Deī excēpistis mē, sīcut Chrīstum Iēsum.
 
 15 **Ubi** **est** ergō beātitūdō **vestra**? Testimōnium enim perhibeō vōbīs, quia, sī fierī posset, oculōs vestrōs ēruissētis et dedissētis mihi.
 

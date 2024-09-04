@@ -6,7 +6,7 @@
 
 ## PROLOGUS
 
-Cum **multa** nōbīs et **magna** per Lēgem et Prophētās aliōsque, quī secūtī sunt illōs, **data** sint, in quibus oportet laudāre Isrāēl doctrīnae et sapientiae **causā**, cumque nōn **sōlum** ipsōs legentēs necesse sit fierī perītōs, sed etiam extrāneīs posse sapientiae studiōsōs et dīcentēs et scrībentēs ūtilēs fierī, avus meus **Iēsus**, postquam sē amplius **dedit** ad dīligentiam lēctiōnis **Lēgis** et Prophētārum et aliōrum librōrum, quī nōbīs ā **parentibus** nostrīs trāditī sunt, atque in hīs sufficientem ūsum acquīsīvit, voluit et ipse **scrībere** aliquid hōrum, quae ad doctrīnam et sapientiam pertinent, ut dēsīderantēs **discere** et illōrum perītī factī **magis** **magis**que attendant animō et cōnfirmentur per lēgitimam vītam.
+Cum **multa** nōbīs et **magna** per Lēgem et Prophētās aliōsque, quī secūtī sunt illōs, **data** sint, in quibus oportet laudāre Isrāēl doctrīnae et sapientiae **causā**, cumque nōn **sōlum** ipsōs legentēs necesse sit fierī perītōs, sed etiam extrāneīs posse sapientiae studiōsōs et dīcentēs et scrībentēs ūtilēs fierī, avus meus Iēsūs, postquam sē amplius **dedit** ad dīligentiam lēctiōnis **Lēgis** et Prophētārum et aliōrum librōrum, quī nōbīs ā **parentibus** nostrīs trāditī sunt, atque in hīs sufficientem ūsum acquīsīvit, voluit et ipse **scrībere** aliquid hōrum, quae ad doctrīnam et sapientiam pertinent, ut dēsīderantēs **discere** et illōrum perītī factī **magis** **magis**que attendant animō et cōnfirmentur per lēgitimam vītam.
 
 Hortor itaque venīre vōs cum **benevolentiā** et attentiōre studiō lēctiōnem facere et veniam habēre in illīs, in quibus interpretātiōnī adlabōrantēs videāmur quibusdam verbīs dēficere. Nam dēficiunt verba Hebraica, quandō fuerint **trānslāta** ad alteram linguam; nōn autem **sōlum** haec, sed et **ipsa** Lēx et Prophētae **cētera**que aliōrum librōrum nōn parvam habent differentiam, quandō **ipsa** per sē leguntur.
 
@@ -6228,7 +6228,7 @@ et **glōria** ipsōrum in generātiōnēs aeternās.
 
 ## 46
 
-1 **Fortis** in bellō **Iēsus** fīlius Nun,
+1 **Fortis** in bellō Iēsūs fīlius Nun,
 
 successor Moȳsī in **prophētīs**,
 
@@ -6888,7 +6888,7 @@ et stultus **populus**, quī habitat in Sichimīs.
 
 29 Doctrīnam sapientiae et disciplīnae
 
-scrīpsit in cōdice istō **Iēsus** fīlius Sirach, Ierosolymīta,
+scrīpsit in cōdice istō Iēsūs fīlius Sirach, Ierosolymīta,
 
 quī effūdit sapientiam dē **corde** suō.
 

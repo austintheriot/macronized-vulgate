@@ -30,7 +30,7 @@
 
 13 Iūstum autem arbitror, quamdiū sum in **hōc** tabernāculō, suscitāre vōs in commonitiōne,
 
-14 certus quod vēlōx **est** dēpositiō tabernāculī meī, secundum quod et Dominus noster **Iēsus** Chrīstus significāvit mihi;
+14 certus quod vēlōx **est** dēpositiō tabernāculī meī, secundum quod et Dominus noster Iēsūs Chrīstus significāvit mihi;
 
 15 dabō autem operam et frequenter habēre vōs post obitum meum, ut hōrum memoriam faciātis.
 

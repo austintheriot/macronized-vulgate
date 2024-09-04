@@ -78,7 +78,7 @@ et prūdentiam prūdentium reprobābō”.
 
 1 Et ego, cum vēnissem ad vōs, frātrēs, **venī** nōn per sublīmitā tem sermōnis aut sapientiae annūntiāns vōbīs mystērium Deī.
 
-2 Nōn enim iūdicāvī scīre mē aliquid inter vōs **nisi** **Iēsum** Chrīstum et hunc crucifīxum.
+2 Nōn enim iūdicāvī scīre mē aliquid inter vōs **nisi** Iēsum Chrīstum et hunc crucifīxum.
 
 3 Et ego in īnfirmitāte et timōre et tremōre multō fuī apud vōs,
 
@@ -134,7 +134,7 @@ Nōs autem sēnsum Chrīstī habēmus.
 
 10 Secundum grātiam Deī, quae **data** **est** mihi, ut sapiēns architectus fundāmentum posuī; **alius** autem superaedificat. Ūnusquisque autem videat quōmodo superaedificet;
 
-11 fundāmentum enim aliud nēmō potest **pōnere** praeter id, quod positum **est**, quī **est** **Iēsus** Chrīstus.
+11 fundāmentum enim aliud nēmō potest **pōnere** praeter id, quod positum **est**, quī **est** Iēsūs Chrīstus.
 
 12 Sī **quis** autem superaedificat suprā fundāmentum aurum, argentum, lapidēs pretiōsōs, ligna, fēnum, stipulam,
 
@@ -374,7 +374,7 @@ quoniam vānae sunt”.
 
 5 Nam et sī sunt, quī **dicantur** dīī sīve in caelō sīve in **terrā**, sī quidem sunt dīī multī et dominī multī,
 
-6 nōbīs tamen ūnus Deus Pater, ex quō omnia et nōs in illum, et ūnus Dominus **Iēsus** Chrīstus, per quem omnia et nōs per ipsum.
+6 nōbīs tamen ūnus Deus Pater, ex quō omnia et nōs in illum, et ūnus Dominus Iēsūs Chrīstus, per quem omnia et nōs per ipsum.
 
 7 Sed nōn in omnibus **est** **scientiā**; quīdam autem cōnsuētūdine usque nunc īdōlī quasi īdōlothytum mandūcant, et **cōnscientia** ipsōrum, cum sit **īnfirma**, polluitur.
 
@@ -392,7 +392,7 @@ quoniam vānae sunt”.
 
 ## 9
 
-1 Nōn sum **līber**? Nōn sum apō stolus? **Nōnne** **Iēsum** Dominum nostrum vīdī? Nōn opus meum vōs **estis** in Dominō?
+1 Nōn sum **līber**? Nōn sum apō stolus? **Nōnne** Iēsum Dominum nostrum vīdī? Nōn opus meum vōs **estis** in Dominō?
 
 2 Sī aliīs nōn sum apostolus, sed tamen vōbīs sum; nam signāculum **apostolātūs** meī vōs **estis** in Dominō.
 
@@ -560,7 +560,7 @@ quoniam vānae sunt”.
 
 22 Numquid domōs nōn habētis ad mandūcandum et bibendum? Aut ecclēsiam Deī contemnitis et cōnfunditis eōs, quī nōn habent? Quid **dīcam** vōbīs? Laudābō vōs? In **hōc** nōn laudō!
 
-23 Ego enim accēpī ā Dominō, quod et trādidī vōbīs, quoniam Dominus **Iēsus**, in **quā** nocte trādēbātur, accēpit pānem
+23 Ego enim accēpī ā Dominō, quod et trādidī vōbīs, quoniam Dominus Iēsūs, in **quā** nocte trādēbātur, accēpit pānem
 
 24 et grātiās agēns frēgit et dīxit: ”**Hoc** **est** corpus meum, quod prō vōbīs **est**; **hoc** facite in meam commemorātiōnem”;
 
@@ -590,7 +590,7 @@ quoniam vānae sunt”.
 
 2 **Scītis** quoniam, cum gentēs **essētis**, ad simulācra **mūta**, prout dūcēbāminī, euntēs.
 
-3 Ideō nōtum vōbīs faciō quod nēmō in Spīritū Deī loquēns dīcit: ”**Anathēma** **Iēsus**!”; et nēmō potest **dīcere**: ”Dominus **Iēsus**”, **nisi** in Spīritū Sānctō.
+3 Ideō nōtum vōbīs faciō quod nēmō in Spīritū Deī loquēns dīcit: ”**Anathēma** Iēsūs!”; et nēmō potest **dīcere**: ”Dominus Iēsūs”, **nisi** in Spīritū Sānctō.
 
 4 Dīvīsiōnēs vērō grātiārum sunt, **īdem** autem **Spīritus**;
 
@@ -884,7 +884,7 @@ Sī **est** corpus animāle, **est** et spīritāle.
 
 56 Stimulus autem **mortis** peccātum **est**, virtūs vērō peccātī lēx.
 
-57 Deō autem grātiās, quī **dēdit** nōbīs victōriam per Dominum nostrum **Iēsum** Chrīstum.
+57 Deō autem grātiās, quī **dēdit** nōbīs victōriam per Dominum nostrum Iēsum Chrīstum.
 
 58 Itaque, frātrēs meī dīlēctī, stabilēs **ēstote**, immōbilēs, abundantēs in opere Dominī semper, scientēs quod **labor** vester nōn **est** **inānis** in Dominō.
 

@@ -964,7 +964,7 @@ et uxor eius praeparāvit sē.
 
 15 **Foris** **canēs** et venēficī et impudīcī et homicīdae et īdōlīs servientēs et **omnis**, quī amat et facit mendācium!
 
-16 Ego **Iēsus** mīsī angelum meum testificārī vōbīs haec super ecclēsiīs. Ego sum rādīx et **genus** Dāvīd, **stēlla** **splendida** **mātūtīna**”.
+16 Ego Iēsūs mīsī angelum meum testificārī vōbīs haec super ecclēsiīs. Ego sum rādīx et **genus** Dāvīd, **stēlla** **splendida** **mātūtīna**”.
 
 17 Et **Spīritus** et **spōnsa** dīcunt: ”**Vēnī**!”. Et, quī audit, **dīcat**: ”**Vēnī**!”. Et, quī sitit, veniat; quī vult, accipiat aquam vītae grātīs.
 

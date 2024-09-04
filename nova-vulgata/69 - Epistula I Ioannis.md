@@ -26,7 +26,7 @@
 
 ## 2
 
-1 Fīliolī meī, haec scrībō vōbīs, ut nōn peccētis. Sed sī **quis** peccā verit, advocātum habēmus ad Patrem, **Iēsum** Chrīstum iūstum;
+1 Fīliolī meī, haec scrībō vōbīs, ut nōn peccētis. Sed sī **quis** peccā verit, advocātum habēmus ad Patrem, Iēsum Chrīstum iūstum;
 
 2 et ipse **est** propitiātiō prō **peccātīs** nostrīs, nōn prō nostrīs autem tantum sed etiam prō tōtīus mundī.
 
@@ -68,7 +68,7 @@
 
 21 Nōn scrīpsī vōbīs quasi nescientibus vēritātem sed quasi scientibus eam, et quoniam omne mendācium ex vēritāte nōn **est**.
 
-22 **Quis** **est** mendāx, **nisi** **is** quī negat quoniam **Iēsus** **est** Chrīstus? **Hic** **est** antichristus, quī negat Patrem et Fīlium.
+22 **Quis** **est** mendāx, **nisi** **is** quī negat quoniam Iēsūs **est** Chrīstus? **Hic** **est** antichristus, quī negat Patrem et Fīlium.
 
 23 **Omnis**, quī negat Fīlium, nec Patrem habet; quī cōnfitētur Fīlium, et Patrem habet.
 
@@ -138,9 +138,9 @@
 
 1 Cārissimī, nōlīte omnī spīrituī **crēdere**, sed **probātē** **spīritus** sī ex Deō sint, quoniam multī pseudoprophētae prōdiērunt in mundum.
 
-2 In **hoc** cognōscitis Spīritum Deī: **omnis** **spīritus**, quī cōnfitētur **Iēsum** Chrīstum in carne vēnisse, ex Deō **est**.
+2 In **hoc** cognōscitis Spīritum Deī: **omnis** **spīritus**, quī cōnfitētur Iēsum Chrīstum in carne vēnisse, ex Deō **est**.
 
-3 Et **omnis** **spīritus**, quī nōn cōnfitētur **Iēsum**, ex Deō nōn **est**; et **hoc** **est** antichristī, quod audīstis quoniam **venit**, et nunc iam in mundō **est**.
+3 Et **omnis** **spīritus**, quī nōn cōnfitētur Iēsum, ex Deō nōn **est**; et **hoc** **est** antichristī, quod audīstis quoniam **venit**, et nunc iam in mundō **est**.
 
 4 Vōs ex Deō **estis**, fīliolī, et vīcistis eōs, quoniam maior **est**, quī in vōbīs **est**, quam quī in mundō.
 
@@ -164,7 +164,7 @@
 
 14 Et nōs vīdimus et testificāmur quoniam Pater mīsit Fīlium salvātōrem mundī.
 
-15 Quisque cōnfessus fuerit: ”**Iēsus** **est** Fīlius Deī”, Deus in ipsō **manet**, et ipse in Deō.
+15 Quisque cōnfessus fuerit: ”Iēsūs **est** Fīlius Deī”, Deus in ipsō **manet**, et ipse in Deō.
 
 16 Et nōs, quī crēdidimus, nōvimus cāritātem, quam habet Deus in nōbīs. Deus **cāritās** **est**; et, quī **manet** in cāritāte, in Deō **manet**, et Deus in eō **manet**.
 
@@ -180,7 +180,7 @@
 
 ## 5
 
-1 **Omnis**, quī crēdit quoniam **Iēsus** **est** Chrīstus, ex Deō **nātus** **est**; et **omnis**, quī dīligit Deum, quī genuit, dīligit et eum, quī **nātus** **est** ex eō.
+1 **Omnis**, quī crēdit quoniam Iēsūs **est** Chrīstus, ex Deō **nātus** **est**; et **omnis**, quī dīligit Deum, quī genuit, dīligit et eum, quī **nātus** **est** ex eō.
 
 2 In **hōc** cognōscimus quoniam dīligimus nātōs Deī, cum Deum dīligāmus et **mandāta** eius faciāmus.
 
@@ -188,9 +188,9 @@
 
 4 quoniam omne, quod nātum **est** ex Deō, vincit mundum; et haec **est** **victōria**, quae vīcit mundum: **fidēs** **nostra**.
 
-5 **Quis** **est** quī vincit mundum, **nisi** quī crēdit quoniam **Iēsus** **est** Fīlius Deī?
+5 **Quis** **est** quī vincit mundum, **nisi** quī crēdit quoniam Iēsūs **est** Fīlius Deī?
 
-6 **Hic** **est**, quī **venit** per aquam et sanguinem, **Iēsus** Chrīstus; nōn in **aquā** **sōlum** sed in **aquā** et in sanguine. Et **Spīritus** **est**, quī testificātur, quoniam **Spīritus** **est** **vēritās**.
+6 **Hic** **est**, quī **venit** per aquam et sanguinem, Iēsūs Chrīstus; nōn in **aquā** **sōlum** sed in **aquā** et in sanguine. Et **Spīritus** **est**, quī testificātur, quoniam **Spīritus** **est** **vēritās**.
 
 7 Quia trēs sunt, quī testificantur:
 

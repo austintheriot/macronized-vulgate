@@ -92,7 +92,7 @@ aut fīlius hominis, quoniam vīsitās eum?
 
 In eō enim quod **eī** omnia subiēcit, nihil dīmīsit nōn subiectibile **eī**. Nunc autem necdum vidēmus omnia **subiecta** **eī**;
 
-9 eum autem, quī paulō minus ab angelīs minōrātus **est**, vidēmus **Iēsum** propter passiōnem **mortis** **glōriā** et **honōre** corōnātum, ut **grātia** Deī prō omnibus gustāverit mortem.
+9 eum autem, quī paulō minus ab angelīs minōrātus **est**, vidēmus Iēsum propter passiōnem **mortis** **glōriā** et **honōre** corōnātum, ut **grātia** Deī prō omnibus gustāverit mortem.
 
 10 Decēbat enim eum, propter quem omnia et per quem omnia, quī multōs fīliōs in glōriam addūxit, ducem **salūtis** eōrum per passiōnēs cōnsummāre.
 
@@ -124,7 +124,7 @@ quae sunt ad Deum, ut repropitiāret **dēlicta** **populī**;
 
 ## 3
 
-1 Unde, frātrēs sānctī, vocātiōnis **caelestīs** participēs, **cōnsīderātē** apostolum et pontificem cōnfessiōnis nostrae **Iēsum**,
+1 Unde, frātrēs sānctī, vocātiōnis **caelestīs** participēs, **cōnsīderātē** apostolum et pontificem cōnfessiōnis nostrae Iēsum,
 
 2 quī **fidēlis** **est** **eī**, quī fēcit illum, sīcut et Moȳsēs[\*][moyses] in **tōtā** domō illīus.
 
@@ -202,7 +202,7 @@ et quidem operibus ab īnstitūtiōne mundī factīs.
 
 nōlīte obdūrāre **corda** **vestra**”.
 
-8 Nam, sī eīs **Iēsus** requiem praestitisset, nōn dē aliō loquerētur posthāc **diē**.
+8 Nam, sī eīs Iēsūs requiem praestitisset, nōn dē aliō loquerētur posthāc **diē**.
 
 9 Itaque relinquitur sabbatismus **populō** Deī;
 
@@ -214,7 +214,7 @@ nōlīte obdūrāre **corda** **vestra**”.
 
 13 et nōn **est** **creātūra** **invīsibilis** in cōnspectū eius, omnia autem **nūda** et **aperta** sunt oculīs eius, ad quem nōbīs sermō.
 
-14 Habentēs ergō pontificem magnum, quī penetrāvit caelōs, **Iēsum** Fīlium Deī, teneāmus cōnfessiōnem.
+14 Habentēs ergō pontificem magnum, quī penetrāvit caelōs, Iēsum Fīlium Deī, teneāmus cōnfessiōnem.
 
 15 Nōn enim habēmus pontificem, quī nōn possit compatī īnfirmitātibus nostrīs, tentātum autem per omnia secundum similitūdinem absque peccātō;
 
@@ -296,7 +296,7 @@ ego hodiē genuī tē”;
 
 19 quam sīcut ancoram habēmus animae, tūtam ac firmam et incēdentem usque in interiōra vēlāminis,
 
-20 ubi praecursor prō nōbīs introīvit **Iēsus**, secundum ōrdinem Melchisedech pontifex **factus** in aeternum.
+20 ubi praecursor prō nōbīs introīvit Iēsūs, secundum ōrdinem Melchisedech pontifex **factus** in aeternum.
 
 ## 7
 
@@ -346,7 +346,7 @@ ego hodiē genuī tē”;
 
 ”Iūrāvit Dominus et nōn paenitēbit eum: Tū **es** sacerdōs in aeternum”,
 
-22 in tantum et meliōris testāmentī spōnsor **factus** **est** **Iēsus**.
+22 in tantum et meliōris testāmentī spōnsor **factus** **est** Iēsūs.
 
 23 Et illī quidem plūrēs factī sunt sacerdōtēs, idcircō quod morte prohibēbantur **permanēre**;
 
@@ -628,7 +628,7 @@ nōn sibi **complacet** in eō **animā** **meā**.
 
 1 Ideōque et nōs tantam ha bentēs circumpositam nōbīs nūbem testium, dēpōnentēs omne pondus et circumstāns nōs peccātum, per patientiam currāmus prōpositum nōbīs certāmen,
 
-2 aspicientēs in ducem fideī et cōnsummātōrem **Iēsum**, quī prō gaudiō sibi prōpositō sustinuit crucem, cōnfūsiōne **contemptā**, atque in **dexterā** thronī Deī **sedet**.
+2 aspicientēs in ducem fideī et cōnsummātōrem Iēsum, quī prō gaudiō sibi prōpositō sustinuit crucem, cōnfūsiōne **contemptā**, atque in **dexterā** thronī Deī **sedet**.
 
 3 **Recōgitātē** enim eum, quī tālem sustinuit ā peccātōribus adversum sēmetipsum contrādictiōnem, ut nē fatīgēminī animīs vestrīs dēficientēs.
 
@@ -678,7 +678,7 @@ flagellat autem omnem fīlium, quem recipit”.
 
 23 et ecclēsiam prīmōgenitōrum, quī cōnscrīptī sunt in caelīs, et iūdicem Deum omnium et **spīritūs** iūstōrum, quī cōnsummātī sunt,
 
-24 et testāmentī **novī** mediātōrem **Iēsum** et sanguinem aspersiōnis, melius loquentem quam Abēl.
+24 et testāmentī **novī** mediātōrem Iēsum et sanguinem aspersiōnis, melius loquentem quam Abēl.
 
 25 Vidēte, nē recūsētis loquentem; sī enim illī nōn effūgērunt recūsantēs eum, quī super terram loquēbātur, multō **magis** nōs, quī dē caelīs loquentem āvertimus;
 
@@ -708,7 +708,7 @@ flagellat autem omnem fīlium, quem recipit”.
 
 7 Mementōte praepositōrum vestrōrum, quī vōbīs locūtī sunt verbum Deī; quōrum intuentēs exitum conversātiōnis, imitāminī fidem.
 
-8 **Iēsus** Chrīstus **heri** et hodiē **īdem**, et in saecula!
+8 Iēsūs Chrīstus **heri** et hodiē **īdem**, et in saecula!
 
 9 Doctrīnīs variīs et peregrīnīs nōlīte abdūcī; optimum enim **est** **grātia** stabilīrī cor, nōn ēscīs, quae nōn prōfuērunt ambulantibus in eīs.
 
@@ -716,7 +716,7 @@ flagellat autem omnem fīlium, quem recipit”.
 
 11 Quōrum enim animālium īnfertur sanguis prō peccātō in **Sāncta** per pontificem, hōrum **corpora** cremantur extrā **castra**.
 
-12 Propter quod et **Iēsus**, ut sānctificāret per suum sanguinem **populum**, extrā portam **passus** **est**.
+12 Propter quod et Iēsūs, ut sānctificāret per suum sanguinem **populum**, extrā portam **passus** **est**.
 
 13 Exeāmus igitur ad eum extrā **castra**, improperium eius portantēs;
 
@@ -732,9 +732,9 @@ flagellat autem omnem fīlium, quem recipit”.
 
 19 Amplius autem dēprecor vōs **hoc** facere, ut quō celerius restituar vōbīs.
 
-20 Deus autem **pācis**, quī ēdūxit dē mortuīs pāstōrem magnum ovium in sanguine testāmentī aeternī, Dominum nostrum **Iēsum**,
+20 Deus autem **pācis**, quī ēdūxit dē mortuīs pāstōrem magnum ovium in sanguine testāmentī aeternī, Dominum nostrum Iēsum,
 
-21 aptet vōs in omnī bonō, ut faciātis voluntātem eius, faciēns in nōbīs, quod placeat **cōram** sē per **Iēsum** Chrīstum, cui **glōria** in saecula saeculōrum. Āmēn.
+21 aptet vōs in omnī bonō, ut faciātis voluntātem eius, faciēns in nōbīs, quod placeat **cōram** sē per Iēsum Chrīstum, cui **glōria** in saecula saeculōrum. Āmēn.
 
 22 Rogō autem vōs, frātrēs, **suffertē** sermōnem exhortātiōnis; etenim perpaucīs scrīpsī vōbīs.
 

@@ -100,7 +100,7 @@ sīve quae in terrīs sīve quae in caelīs sunt.
 
 5 Nam etsī corpore absēns sum, sed spīritū vōbīscum sum, gaudēns et vidēns ōrdinem vestrum et firmāmentum eius, quae in Chrīstum **est**, fideī vestrae.
 
-6 Sīcut ergō accēpistis Chrīstum **Iēsum** Dominum, in ipsō **ambulātē**,
+6 Sīcut ergō accēpistis Chrīstum Iēsum Dominum, in ipsō **ambulātē**,
 
 7 rādīcātī et superaedificātī in ipsō et cōnfirmātī **fide**, sīcut didicistis, abundantēs in grātiārum āctiōne.
 
@@ -210,7 +210,7 @@ sīve quae in terrīs sīve quae in caelīs sunt.
 
 10 Salūtat vōs Aristarchus concaptīvus meus et Mārcus cōnsōbrīnus Barnabae, dē quō accēpistis **mandāta** — sī vēnerit ad vōs, excipite illum —
 
-11 et **Iēsus**, quī dīcitur Iūstus, quī sunt ex circumcīsiōne; hī **sōlī** adiūtōrēs in rēgnō Deī, quī mihi fuērunt sōlāciō.
+11 et Iēsūs, quī dīcitur Iūstus, quī sunt ex circumcīsiōne; hī **sōlī** adiūtōrēs in rēgnō Deī, quī mihi fuērunt sōlāciō.
 
 12 Salūtat vōs Epaphrās, quī ex vōbīs **est**, servus Chrīstī Iēsū, semper certāns prō vōbīs in ōrātiōnibus, ut stētis perfectī et implētī in omnī voluntāte Deī.
 

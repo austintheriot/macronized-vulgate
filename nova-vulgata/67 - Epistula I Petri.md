@@ -72,7 +72,7 @@ Exāruit fēnum, et flōs **dēcidit**;
 
 4 Ad quem accēdentēs, lapidem vīvum, ab hominibus quidem reprobātum, **cōram** Deō autem ēlēctum, pretiōsum,
 
-5 et ipsī tamquam lapidēs vīvī aedificāminī **domūs** **spīritālis** in sacerdōtium sānctum offerre spīritālēs hostiās acceptābilēs Deō per **Iēsum** Chrīstum.
+5 et ipsī tamquam lapidēs vīvī aedificāminī **domūs** **spīritālis** in sacerdōtium sānctum offerre spīritālēs hostiās acceptābilēs Deō per Iēsum Chrīstum.
 
 6 Propter quod continet **Scrīptūra**:
 
@@ -220,7 +220,7 @@ et aurēs eius in precēs eōrum;
 
 10 ūnusquisque, sīcut accēpit dōnātiōnem, in alterutrum illam administrantēs, sīcut bonī dispēnsātōrēs **multifōrmīs** grātiae Deī.
 
-11 Sī **quis** loquitur, quasi sermōnēs Deī; sī **quis** ministrat, tamquam ex virtūte, quam largītur Deus, ut in omnibus glōrificētur Deus per **Iēsum** Chrīstum: cui **est** **glōria** et imperium in saecula saeculōrum. Āmēn.
+11 Sī **quis** loquitur, quasi sermōnēs Deī; sī **quis** ministrat, tamquam ex virtūte, quam largītur Deus, ut in omnibus glōrificētur Deus per Iēsum Chrīstum: cui **est** **glōria** et imperium in saecula saeculōrum. Āmēn.
 
 12 Cārissimī, nōlīte mīrārī in fervōre, quī ad tentātiōnem vōbīs fit, quasi **novī** aliquid vōbīs contingat,
 

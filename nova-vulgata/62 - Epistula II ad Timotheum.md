@@ -56,7 +56,7 @@
 
 7 Intellege, quae **dīcō**; dabit enim tibi Dominus in omnibus intellēctum.
 
-8 Memor **estō** **Iēsum** Chrīstum resuscitātum **esse** ā mortuīs, ex sēmine Dāvīd, secundum ēvangelium meum,
+8 Memor **estō** Iēsum Chrīstum resuscitātum **esse** ā mortuīs, ex sēmine Dāvīd, secundum ēvangelium meum,
 
 9 in quō labōrō usque ad **vincula** quasi **male** operāns; sed verbum Deī nōn **est** alligātum!
 
@@ -158,7 +158,7 @@
 
 13 Paenulam, quam **reliquī** Troade apud Carpum, veniēns affer, et librōs, **maximē** autem membrānās.
 
-14 **Alexander** aerārius **multa** **mala** mihi ostendit. Reddet **eī** Dominus secundum **opera** eius;
+14 Alexander aerārius **multa** **mala** mihi ostendit. Reddet **eī** Dominus secundum **opera** eius;
 
 15 quem et tū dēvītā, valdē enim restitit verbīs nostrīs.
 

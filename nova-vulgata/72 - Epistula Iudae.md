@@ -6,7 +6,7 @@
 
 3 Cārissimī, omnem sollicitūdinem faciēns scrībendī vōbīs dē commūnī **nostra** salūte, necesse habuī **scrībere** vōbīs, dēprecāns certāre prō semel **trāditā** sānctīs **fide**.
 
-4 Subintroiērunt enim quīdam hominēs, quī ōlim praescrīptī sunt in **hoc** iūdicium, impiī, Deī nostrī grātiam trānsferentēs in luxuriam, et **solum** Dominātōrem et Dominum nostrum **Iēsum** Chrīstum negantēs.
+4 Subintroiērunt enim quīdam hominēs, quī ōlim praescrīptī sunt in **hoc** iūdicium, impiī, Deī nostrī grātiam trānsferentēs in luxuriam, et **solum** Dominātōrem et Dominum nostrum Iēsum Chrīstum negantēs.
 
 5 Commonēre autem vōs volō, scientēs vōs omnia, quoniam Dominus semel **populum** dē **terrā** Aegyptī salvāns, secundō eōs, quī nōn crēdidērunt, perdidit;
 
@@ -48,6 +48,6 @@
 
 24 **Ēī** autem, quī potest vōs cōnservāre **sine** peccātō et **cōnstituere** ante cōnspectum glōriae suae immaculātōs in exsultātiōne,
 
-25 **sōlī** Deō salvātōrī nostrō per **Iēsum** Chrīstum Dominum nostrum **glōria**, **magnificentia**, imperium et potestās ante omne saeculum et nunc et in omnia saecula. Āmēn.
+25 **sōlī** Deō salvātōrī nostrō per Iēsum Chrīstum Dominum nostrum **glōria**, **magnificentia**, imperium et potestās ante omne saeculum et nunc et in omnia saecula. Āmēn.
 
 

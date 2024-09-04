@@ -258,41 +258,41 @@ replēbis mē iūcunditāte cum faciē tuā”.
 
 5 Factum est autem in crāstinum, ut congregārentur prīncipēs eōrum et seniōrēs et scrībae in Ierūsalēm,
 
-6 et **Annās** prīnceps sacerdōtum et **Caiphās** et Iōannēs et **Alexander** et quotquot erant dē genere sacerdōtālī,
+6 et Annas prīnceps sacerdōtum et Caīphās et Iōannēs et Alexander et quotquot erant dē genere sacerdōtālī,
 
-7 et statuentēs eōs in **mediō** interrogābant: “In **quā** virtūte aut in quō nōmine fēcistis **hoc** vōs?”.
+7 et statuentēs eōs in mediō interrogābant: “In quā virtūte aut in quō nōmine fēcistis hoc vōs?”.
 
-8 Tunc Petrus replētus Spīritū Sānctō dīxit ad eōs: “Prīncipēs **populī** et seniōrēs,
+8 Tunc Petrus replētus Spīritū Sānctō dīxit ad eōs: “Prīncipēs populī et seniōrēs,
 
-9 sī nōs hodiē dīiūdicāmur in benefactō hominis īnfirmī, in quō iste salvus **factus** **est**,
+9 sī nōs hodiē dīiūdicāmur in benefactō hominis īnfirmī, in quō iste salvus factus est,
 
-10 nōtum sit omnibus vōbīs et omnī plēbī Isrāēl quia in nōmine Iēsū Chrīstī Nazarēnī, quem vōs crucifīxistis, quem Deus suscitāvit ā mortuīs, in **hōc** iste astat **cōram** vōbīs sānus.
+10 nōtum sit omnibus vōbīs et omnī plēbī Isrāēl quia in nōmine Iēsū Chrīstī Nazarēnī, quem vōs crucifīxistis, quem Deus suscitāvit ā mortuīs, in hōc iste astat cōram vōbīs sānus.
 
-11 **Hic** **est**
+11 Hic est
 
-**lapis**, quī reprobātus **est** ā vōbīs aedificātōribus,
+lapis, quī reprobātus est ā vōbīs aedificātōribus,
 
-quī **factus** **est** in caput angulī.
+quī factus est in caput angulī.
 
-12 Et nōn **est** in aliō aliquō salūs, nec enim **nōmen** aliud **est** sub caelō datum in hominibus, in quō oportet nōs salvōs fierī”.
+12 Et nōn est in aliō aliquō salūs, nec enim nōmen aliud est sub caelō datum in hominibus, in quō oportet nōs salvōs fierī”.
 
-13 Videntēs autem Petrī fīdūciam et **Iōannīs**, et compertō quod hominēs **essent** **sine** litterīs et idiōtae, admīrābantur et cognōscēbant eōs quoniam cum Iēsū fuerant;
+13 Videntēs autem Petrī fīdūciam et Iōannis, et compertō quod hominēs essent sine litterīs et idiōtae, admīrābantur et cognōscēbant eōs quoniam cum Iēsū fuerant;
 
-14 hominem **quoque** videntēs stantem cum eīs, quī cūrātus fuerat, nihil poterant **contrādīcere**.
+14 hominem quoque videntēs stantem cum eīs, quī cūrātus fuerat, nihil poterant contrādīcere.
 
-15 Iubentēs autem eōs forās extrā concilium **sēcēdere**, cōnferēbant ad invicem
+15 Iubentēs autem eōs forās extrā concilium sēcēdere, cōnferēbant ad invicem
 
-16 dīcentēs: “Quid faciēmus hominibus istīs? Quoniam quidem nōtum signum factum **est** per eōs omnibus habitantibus in Ierūsalēm manifēstum, et nōn possumus negāre;
+16 dīcentēs: “Quid faciēmus hominibus istīs? Quoniam quidem nōtum signum factum est per eōs omnibus habitantibus in Ierūsalēm manifēstum, et nōn possumus negāre;
 
-17 sed nē amplius dīvulgētur in **populum**, comminēmur eīs, nē **ultrā** loquantur in nōmine **hoc** ūllī hominum”.
+17 sed nē amplius dīvulgētur in populum, comminēmur eīs, nē ultrā loquantur in nōmine hōc ūllī hominum”.
 
 18 Et vocantēs eōs dēnūntiāvērunt, nē omnīnō loquerentur neque docērent in nōmine Iēsū.
 
-19 Petrus vērō et Iōannēs respondentēs dīxērunt ad eōs: “Sī iūstum **est** in cōnspectū Deī vōs potius audīre quam Deum, **iūdicātē**;
+19 Petrus vērō et Iōannēs respondentēs dīxērunt ad eōs: “Sī iūstum est in cōnspectū Deī vōs potius audīre quam Deum, iūdicāte;
 
 20 nōn enim possumus nōs, quae vīdimus et audīvimus, nōn loquī”.
 
-21 At illī **ultrā** comminantēs dīmīsērunt eōs, nēquāquam invenientēs, quōmodo pūnīrent eōs, propter **populum**, quia omnēs glōrificābant Deum in eō, quod **acciderat**;
+21 At illī **ultrā** comminantēs dīmīsērunt eōs, nēquāquam invenientēs, quōmodo pūnīrent eōs, propter populum, quia omnēs glōrificābant Deum in eō, quod **acciderat**;
 
 22 annōrum enim erat amplius quadrāgintā homō, in quō factum erat signum istud sānitātis.
 
@@ -1104,7 +1104,7 @@ ut sīs in salūtem usque ad extrēmum terrae””.
 
 51 At illī, excussō pulvere pedum in eōs, vēnērunt Īconium;
 
-52 discipulī **quoque** replēbantur gaudiō et Spīritū Sānctō.
+52 discipulī **quoque** replēbantur gaudi�� et Spīritū Sānctō.
 
 ## 14
 
@@ -1530,7 +1530,7 @@ dīcit Dominus faciēns haec 18 **nota** ā saeculō”.
 
 32 **Aliī** autem aliud clāmābant; erat enim **ecclēsia** **cōnfūsa**, et plūrēs nesciēbant **quā** ex **causā** convēnissent.
 
-33 Dē **turbā** autem īnstrūxērunt Alexandrum, prōpellentibus eum Iūdaeīs; **Alexander** ergō, manū silentiō postulātō, volēbat ratiōnem **reddere** **populō**.
+33 Dē **turbā** autem īnstrūxērunt Alexandrum, prōpellentibus eum Iūdaeīs; Alexander ergō, manū silentiō postulātō, volēbat ratiōnem **reddere** **populō**.
 
 34 Quem ut cognōvērunt Iūdaeum **esse**, vōx **facta** **est** **ūna** omnium quasi per hōrās duās clāmantium: “**Magna** **Diāna** Ephesiōrum”.
 
@@ -2088,7 +2088,7 @@ dīcit Dominus faciēns haec 18 **nota** ā saeculō”.
 
 36 Animaequiōrēs autem factī omnēs et ipsī assūmpsērunt cibum.
 
-37 Erāmus vērō ūniversae animae in nāvī ducentae septuāgintā sex.
+37 Erāmus v��rō ūniversae animae in nāvī ducentae septuāgintā sex.
 
 38 Et satiātī cibō alleviābant nāvem iactantēs trīticum in mare.
 

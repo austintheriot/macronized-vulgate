@@ -8,7 +8,7 @@
 
 4 **Grātiās** agō Deō meō semper memoriam tuī faciēns in ōrātiōnibus meīs,
 
-5 audiēns cāritātem tuam et fidem, quam habēs in Dominum **Iēsum** et in omnēs sānctōs,
+5 audiēns cāritātem tuam et fidem, quam habēs in Dominum Iēsum et in omnēs sānctōs,
 
 6 ut commūniō fideī tuae ēvidēns fīat in agnitiōne **omnis** bonī, quod **est** in nōbīs in Chrīstum;
 

@@ -82,7 +82,7 @@
 
 5 nōn ex operibus iūstitiae, quae fēcimus nōs, sed secundum suam misericordiam salvōs nōs fēcit per lavācrum regenerātiōnis et renovātiōnis **Spīritus** Sānctī,
 
-6 quem effūdit super nōs **abundē** per **Iēsum** Chrīstum salvātōrem nostrum,
+6 quem effūdit super nōs **abundē** per Iēsum Chrīstum salvātōrem nostrum,
 
 7 ut **iūstificātī** **grātia** ipsīus hērēdēs sīmus secundum spem vītae aeternae.
 

@@ -18,7 +18,7 @@ ut **essēmus** sānctī et immaculātī in cōnspectū eius in cāritāte;
 
 5 quī praedēstināvit nōs in adoptiōnem fīliōrum
 
-per **Iēsum** Chrīstum in ipsum,
+per Iēsum Chrīstum in ipsum,
 
 secundum benēplacitum voluntātis suae,
 
@@ -346,6 +346,6 @@ quae in caelīs et quae in **terrā**, in ipsō;
 
 23 Pāx frātribus et **cāritās** cum **fide** ā Deō Patre et Dominō Iēsū Chrīstō.
 
-24 **Grātia** cum omnibus, quī dīligunt Dominum nostrum **Iēsum** Chrīstum in incorruptiōne.
+24 **Grātia** cum omnibus, quī dīligunt Dominum nostrum Iēsum Chrīstum in incorruptiōne.
 
 

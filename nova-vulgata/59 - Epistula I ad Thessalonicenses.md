@@ -22,7 +22,7 @@
 
 9 ipsī enim dē nōbīs annūntiant quālem introitum **habuerīmus** ad vōs, et quōmodo conversī **estis** ad Deum ā simulācrīs, servīre Deō vīvō et vērō
 
-10 et exspectāre Fīlium eius dē caelīs, quem suscitāvit ex mortuīs, **Iēsum**, quī ēripit nōs ab **īrā** **ventūra**.
+10 et exspectāre Fīlium eius dē caelīs, quem suscitāvit ex mortuīs, Iēsum, quī ēripit nōs ab **īrā** **ventūra**.
 
 ## 2
 
@@ -54,7 +54,7 @@
 
 14 Vōs enim imitātōrēs factī **estis**, frātrēs, ecclēsiārum Deī, quae sunt in **Iūdaeā** in Chrīstō Iēsū; quia **eadem** passī **estis** et vōs ā contribūlibus vestrīs, sīcut et ipsī ā Iūdaeīs,
 
-15 quī et Dominum **occīdērunt** **Iēsum** et prophētās et nōs persecūtī sunt et Deō nōn **placent** et omnibus hominibus adversantur,
+15 quī et Dominum **occīdērunt** Iēsum et prophētās et nōs persecūtī sunt et Deō nōn **placent** et omnibus hominibus adversantur,
 
 16 prohibentēs nōs gentibus loquī, ut salvae fīant, ut impleant **peccāta** **sua** semper. **Pervēnit** autem **īra** Deī super illōs usque in fīnem.
 
@@ -62,7 +62,7 @@
 
 18 Propter quod voluimus venīre ad vōs, ego quidem Paulus et semel et iterum; et impedīvit nōs Satanās.
 
-19 Quae **est** enim **nostra** spēs aut gaudium aut **corōna** glōriae — **nōnne** et vōs — ante Dominum nostrum **Iēsum** in adventū eius?
+19 Quae **est** enim **nostra** spēs aut gaudium aut **corōna** glōriae — **nōnne** et vōs — ante Dominum nostrum Iēsum in adventū eius?
 
 20 Vōs enim **estis** **glōriā** **nostrā** et gaudium.
 
@@ -88,7 +88,7 @@
 
 10 nocte et **diē** abundantius ōrantēs, ut videāmus faciem vestram et compleāmus **ea**, quae dēsunt fideī vestrae?
 
-11 Ipse autem Deus et Pater noster et Dominus noster **Iēsus** dīrigat viam nostram ad vōs;
+11 Ipse autem Deus et Pater noster et Dominus noster Iēsūs dīrigat viam nostram ad vōs;
 
 12 vōs autem Dominus abundāre et superabundāre faciat cāritāte in invicem et in omnēs, quemadmodum et nōs in vōs;
 
@@ -98,7 +98,7 @@
 
 1 Dē cēterō ergō, frātrēs, rogāmus vōs et obsecrāmus in Dominō Iēsū, ut — quemadmodum accēpistis ā nōbīs quōmodo vōs oporteat ambulāre et **placēre** Deō, sīcut et **ambulātis** — ut abundētis **magis**.
 
-2 **Scītis** enim, quae **praecepta** **dederimus** vōbīs per Dominum **Iēsum**.
+2 **Scītis** enim, quae **praecepta** **dederimus** vōbīs per Dominum Iēsum.
 
 3 Haec **est** enim voluntās Deī, sānctificātiō **vestra**,
 
@@ -122,7 +122,7 @@
 
 13 Nōlumus autem vōs ignōrāre, frātrēs, dē dormientibus, ut nōn contrīstēminī sīcut et cēterī, quī spem nōn habent.
 
-14 Sī enim crēdimus quod **Iēsus** mortuus **est** et resurrēxit, **ita** et Deus eōs, quī dormiērunt, per **Iēsum** addūcet cum eō.
+14 Sī enim crēdimus quod Iēsūs mortuus **est** et resurrēxit, **ita** et Deus eōs, quī dormiērunt, per Iēsum addūcet cum eō.
 
 15 **Hoc** enim vōbīs dīcimus in verbō Dominī, quia nōs, quī vīvimus, quī relinquimur in adventum Dominī, nōn praeveniēmus eōs, quī dormiērunt;
 
@@ -150,7 +150,7 @@
 
 8 Nōs autem, quī diēī sumus, sōbriī sīmus, indūtī lōrīcam fideī et cāritātis et galeam spem **salūtis**;
 
-9 quoniam nōn posuit nōs Deus in īram sed in acquīsītiōnem **salūtis** per Dominum nostrum **Iēsum** Chrīstum,
+9 quoniam nōn posuit nōs Deus in īram sed in acquīsītiōnem **salūtis** per Dominum nostrum Iēsum Chrīstum,
 
 10 quī mortuus **est** prō nōbīs, ut sīve vigilēmus sīve dormiāmus, simul cum illō vīvāmus.
 

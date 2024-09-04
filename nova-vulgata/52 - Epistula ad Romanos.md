@@ -18,7 +18,7 @@
 
 7 omnibus, quī sunt Rōmae dīlēctīs Deī, **vocātīs** sānctīs: **grātia** vōbīs et pāx ā Deō Patre nostrō et Dominō Iēsū Chrīstō.
 
-8 Prīmum quidem grātiās agō Deō meō per **Iēsum** Chrīstum prō omnibus vōbīs, quia **fidēs** **vestra** annūntiātur in ūniversō mundō;
+8 Prīmum quidem grātiās agō Deō meō per Iēsum Chrīstum prō omnibus vōbīs, quia **fidēs** **vestra** annūntiātur in ūniversō mundō;
 
 9 **testis** enim mihi **est** Deus, cui serviō in spīritū meō in ēvangeliō Fīliī eius, quōmodo **sine** intermissiōne memoriam vestrī faciam
 
@@ -100,7 +100,7 @@
 
 15 quī ostendunt opus **lēgis** scrīptum in cordibus **suīs**, testimōnium simul reddente illīs **cōnscientiā** ipsōrum, et inter sē invicem cōgitātiōnibus accūsantibus aut etiam dēfendentibus,
 
-16 in **diē**, cum iūdicābit Deus **occulta** hominum secundum ēvangelium meum per Chrīstum **Iēsum**.
+16 in **diē**, cum iūdicābit Deus **occulta** hominum secundum ēvangelium meum per Chrīstum Iēsum.
 
 17 Sī autem tū Iūdaeus **cognōmināris** et requiēscis in **lēge** et **glōriārīs** in Deō,
 
@@ -250,13 +250,13 @@ et quōrum **tēcta** sunt **peccāta**.
 
 23 Nōn **est** autem scrīptum tantum propter ipsum: reputātum **est** illī,
 
-24 sed et propter nōs, quibus reputābitur, crēdentibus in eum, quī suscitāvit **Iēsum** Dominum nostrum ā mortuīs,
+24 sed et propter nōs, quibus reputābitur, crēdentibus in eum, quī suscitāvit Iēsum Dominum nostrum ā mortuīs,
 
 25 quī **trāditus** **est** propter **dēlicta** **nostra** et suscitātus **est** propter iūstificātiōnem nostram.
 
 ## 5
 
-1 **Iūstificātī** igitur ex **fide**, pācem habēmus ad Deum per Domī num nostrum **Iēsum** Chrīstum,
+1 **Iūstificātī** igitur ex **fide**, pācem habēmus ad Deum per Domī num nostrum Iēsum Chrīstum,
 
 2 per quem et accessum habēmus **fide** in grātiam istam, in **quā** stāmus et glōriāmur in spē glōriae Deī.
 
@@ -276,7 +276,7 @@ et quōrum **tēcta** sunt **peccāta**.
 
 10 Sī enim, cum inimīcī **essēmus**, reconciliātī sumus Deō per mortem Fīliī eius, multō **magis** reconciliātī salvī erimus in **vītā** ipsīus;
 
-11 nōn **sōlum** autem, sed et glōriāmur in Deō per Dominum nostrum **Iēsum** Chrīstum, per quem nunc reconciliātiōnem accēpimus.
+11 nōn **sōlum** autem, sed et glōriāmur in Deō per Dominum nostrum Iēsum Chrīstum, per quem nunc reconciliātiōnem accēpimus.
 
 12 Proptereā, sīcut per ūnum hominem peccātum in hunc mundum intrāvit, et per peccātum mors, et **ita** in omnēs hominēs mors pertransiit, eō quod omnēs peccāvērunt.
 
@@ -288,7 +288,7 @@ et quōrum **tēcta** sunt **peccāta**.
 
 16 Et nōn sīcut per ūnum, quī peccāvit, **ita** et dōnum; nam iūdicium ex ūnō in condemnātiōnem, **grātiā** autem ex multīs dēlictīs in iūstificātiōnem.
 
-17 Sī enim ūnīus dēlictō mors rēgnāvit per ūnum, multō **magis**, quī abundantiam grātiae et dōnātiōnis iūstitiae accipiunt, in **vītā** rēgnābunt per ūnum **Iēsum** Chrīstum.
+17 Sī enim ūnīus dēlictō mors rēgnāvit per ūnum, multō **magis**, quī abundantiam grātiae et dōnātiōnis iūstitiae accipiunt, in **vītā** rēgnābunt per ūnum Iēsum Chrīstum.
 
 18 Igitur sīcut per ūnīus dēlictum in omnēs hominēs in condemnātiōnem, sīc et per ūnīus iūstitiam in omnēs hominēs in iūstificātiōnem vītae;
 
@@ -296,7 +296,7 @@ et quōrum **tēcta** sunt **peccāta**.
 
 20 Lēx autem subintrāvit, ut abundāret dēlictum; ubi autem abundāvit peccātum, superabundāvit **grātia**,
 
-21 ut sīcut rēgnāvit peccātum in morte, **ita** et **grātia** rēgnet per iūstitiam in vītam aeternam per **Iēsum** Chrīstum Dominum nostrum.
+21 ut sīcut rēgnāvit peccātum in morte, **ita** et **grātia** rēgnet per iūstitiam in vītam aeternam per Iēsum Chrīstum Dominum nostrum.
 
 ## 6
 
@@ -304,7 +304,7 @@ et quōrum **tēcta** sunt **peccāta**.
 
 2 Absit! Quī enim mortuī sumus peccātō, quōmodo adhūc vīvēmus in illō?
 
-3 An **ignōrātis** quia, quīcumque baptīzātī sumus in Chrīstum **Iēsum**, in mortem ipsīus baptīzātī sumus?
+3 An **ignōrātis** quia, quīcumque baptīzātī sumus in Chrīstum Iēsum, in mortem ipsīus baptīzātī sumus?
 
 4 Cōnsepultī ergō sumus cum illō per baptismum in mortem, ut quemadmodum suscitātus **est** Chrīstus ā mortuīs per glōriam Patrīs, **ita** et nōs in novitāte vītae ambulēmus.
 
@@ -396,7 +396,7 @@ et quōrum **tēcta** sunt **peccāta**.
 
 24 Īnfēlīx ego homō! **Quis** mē līberābit dē corpore **mortis** huius?
 
-25 **Grātiās** autem Deō per **Iēsum** Chrīstum Dominum nostrum! Igitur ego ipse mente serviō **legī** Deī, carne autem **lēgī** peccātī.
+25 **Grātiās** autem Deō per Iēsum Chrīstum Dominum nostrum! Igitur ego ipse mente serviō **legī** Deī, carne autem **lēgī** peccātī.
 
 ## 8
 
@@ -420,7 +420,7 @@ et quōrum **tēcta** sunt **peccāta**.
 
 10 Sī autem Chrīstus in vōbīs **est**, corpus quidem mortuum **est** propter peccātum, **Spīritus** vērō **vīta** propter iūstitiam.
 
-11 Quod sī **Spīritus** eius, quī suscitāvit **Iēsum** ā mortuīs, habitat in vōbīs, quī suscitāvit Chrīstum ā mortuīs vīvificābit et mortālia **corpora** **vestra** per inhabitantem Spīritum suum in vōbīs.
+11 Quod sī **Spīritus** eius, quī suscitāvit Iēsum ā mortuīs, habitat in vōbīs, quī suscitāvit Chrīstum ā mortuīs vīvificābit et mortālia **corpora** **vestra** per inhabitantem Spīritum suum in vōbīs.
 
 12 Ergō, frātrēs, dēbitōrēs sumus nōn carnī, ut secundum carnem vīvāmus.
 
@@ -466,7 +466,7 @@ et quōrum **tēcta** sunt **peccāta**.
 
 33 **Quis** accūsābit adversus ēlēctōs Deī? Deus, quī iustificat?
 
-34 **Quis** **est** quī condemnet? Chrīstus **Iēsus**, quī mortuus **est**, immō quī suscitātus **est**, quī et **est** ad dexteram Deī, quī etiam interpellat prō nōbīs?
+34 **Quis** **est** quī condemnet? Chrīstus Iēsūs, quī mortuus **est**, immō quī suscitātus **est**, quī et **est** ad dexteram Deī, quī etiam interpellat prō nōbīs?
 
 35 **Quis** nōs sēparābit ā cāritāte Chrīstī? Trībulātiō an **angustia** an persecūtiō an famēs an nūditās an perīculum an gladius?
 
@@ -586,7 +586,7 @@ et, quī crēdit in eō, nōn cōnfundētur”.
 
 8 Sed quid dīcit? ”Prope tē **est** verbum, in ōre tuō et in **corde** tuō”; **hoc** **est** verbum fideī, quod **praedicāmus**.
 
-9 Quia sī cōnfiteāris in ōre tuō: ”Dominum **Iēsum**!”, et in **corde** tuō **crēdiderīs** quod Deus illum excitāvit ex mortuīs, salvus **eris**.
+9 Quia sī cōnfiteāris in ōre tuō: ”Dominum Iēsum!”, et in **corde** tuō **crēdiderīs** quod Deus illum excitāvit ex mortuīs, salvus **eris**.
 
 10 **Cordē** enim crēditur ad iūstitiam, ōre autem cōnfessiō fit in salūtem.
 
@@ -796,7 +796,7 @@ et retribuētur **eī**?
 
 13 Sīcut in **diē** **honestē** ambulēmus: nōn in cōmissātiōnibus et ēbrietātibus, nōn in cubīlibus et impudīcitiīs, nōn in contentiōne et aemulātiōne;
 
-14 sed induite Dominum **Iēsum** Chrīstum et **carnīs** cūram nē **fēcerītis** in concupiscentiīs.
+14 sed induite Dominum Iēsum Chrīstum et **carnīs** cūram nē **fēcerītis** in concupiscentiīs.
 
 ## 14
 
@@ -860,7 +860,7 @@ et **omnis** **lingua** cōnfitēbitur Deō”.
 
 4 Quaecumque enim anteā **scrīpta** sunt, ad nostram doctrīnam **scrīpta** sunt, ut per patientiam et cōnsōlātiōnem Scrīptūrārum spem habeāmus.
 
-5 Deus autem patientiae et sōlāciī det vōbīs idipsum sapere in alterutrum secundum Chrīstum **Iēsum**,
+5 Deus autem patientiae et sōlāciī det vōbīs idipsum sapere in alterutrum secundum Chrīstum Iēsum,
 
 6 ut ūnanimēs ūnō ōre glōrificētis Deum et Patrem Dominī nostrī Iēsū Chrīstī.
 
@@ -926,7 +926,7 @@ et, quī nōn audiērunt, intellegent”.
 
 29 sciō autem quoniam veniēns ad vōs, in **abundantiā** benedictiōnis Chrīstī veniam.
 
-30 Obsecrō autem vōs, frātrēs, per Dominum nostrum **Iēsum** Chrīstum et per cāritātem **Spīritus**, ut concertēminī mēcum in ōrātiōnibus prō mē ad Deum,
+30 Obsecrō autem vōs, frātrēs, per Dominum nostrum Iēsum Chrīstum et per cāritātem **Spīritus**, ut concertēminī mēcum in ōrātiōnibus prō mē ad Deum,
 
 31 ut **līberer** ab īnfidēlibus, quī sunt in **Iūdaeā**, et ministerium meum prō Ierusālem acceptum sit sānctīs,
 
@@ -990,6 +990,6 @@ et, quī nōn audiērunt, intellegent”.
 
 26 manifestātī autem nunc, et per scrīptūrās Prophētārum secundum praeceptum aeternī Deī ad oboedītiōnem fideī in cūnctīs gentibus patefactī,
 
-27 **sōlī** sapientī Deō per **Iēsum** Chrīstum, cui **glōria** in saecula. Āmēn.
+27 **sōlī** sapientī Deō per Iēsum Chrīstum, cui **glōria** in saecula. Āmēn.
 
 [moyses]: <Ambiguous Forms.md#moyses>

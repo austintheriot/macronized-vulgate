@@ -24,7 +24,7 @@
 
 10 ut probētis potiōra, ut **sītis** sincērī et **sine** **offēnsā** in diem Chrīstī,
 
-11 replētī frūctū iūstitiae, quī **est** per **Iēsum** Chrīstum, in glōriam et laudem Deī.
+11 replētī frūctū iūstitiae, quī **est** per Iēsum Chrīstum, in glōriam et laudem Deī.
 
 12 Scīre autem vōs volō, frātrēs, quia, quae circā mē sunt, **magis** ad **prōfectum** vēnērunt ēvangeliī,
 
@@ -102,7 +102,7 @@ caelestium et terrestrium et īnfernōrum,
 
 11 et **omnis** **lingua** cōnfiteātur
 
-”Dominus **Iēsus** Chrīstus!”,
+”Dominus Iēsūs Chrīstus!”,
 
 in glōriam Deī Patrīs.
 
@@ -184,7 +184,7 @@ in glōriam Deī Patrīs.
 
 19 quōrum **fīnis** **interitus**, quōrum deus venter et **glōria** in cōnfūsiōne ipsōrum, quī **terrēna** sapiunt.
 
-20 Noster enim **mūnicipātus** in caelīs **est**, unde etiam salvātōrem exspectāmus Dominum **Iēsum** Chrīstum,
+20 Noster enim **mūnicipātus** in caelīs **est**, unde etiam salvātōrem exspectāmus Dominum Iēsum Chrīstum,
 
 21 quī trānsfigūrābit corpus **humilitātis** nostrae, ut illud cōnfōrme faciat corporī glōriae suae secundum operātiōnem, **quā** possit etiam subicere sibi omnia.
 

@@ -12,7 +12,7 @@
 
 6 Et haec **est** **cāritās**, ut ambulēmus secundum **mandāta** eius; **hoc** mandātum **est**, quemadmodum audīstis ab initiō, ut in eō ambulētis.
 
-7 Quoniam multī sēductōrēs prōdiērunt in mundum, quī nōn cōnfitentur **Iēsum** Chrīstum venientem in carne; **hic** **est** sēductor et antichristus.
+7 Quoniam multī sēductōrēs prōdiērunt in mundum, quī nōn cōnfitentur Iēsum Chrīstum venientem in carne; **hic** **est** sēductor et antichristus.
 
 8 Vidēte vōsmetipsōs, nē perdātis, quae operātī **estis**, sed ut mercēdem plēnam accipiātis.
 
