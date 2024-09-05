@@ -152,7 +152,7 @@ neque dabis Sānctum tuum vidēre corruptiōnem.
 
 replēbis mē iūcunditāte cum faciē tuā”.
 
-29 Virī frātrēs, liceat aūdenter dīcere ad vōs dē patriarchā Dāvīd, quoniam et dēfūnctus est et sepultus est, et sepulcrum eius est apud nōs usque in hodiernum diem;
+29 Virī frātrēs, liceat audenter dīcere ad vōs dē patriarchā Dāvīd, quoniam et dēfūnctus est et sepultus est, et sepulcrum eius est apud nōs usque in hodiernum diem;
 
 30 prophēta igitur cum esset et scīret quia iūre iūrandō iūrāsset illī Deus dē frūctū lumbī eius sedēre super sēdem eius,
 
