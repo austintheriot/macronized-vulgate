@@ -58,7 +58,7 @@
 
 27 Abram: iste **est** Abraham.
 
-28 Fīliī autem Abraham: Isaac et Ismaēl.
+28 Fīliī autem Abraham: Isaāc et Ismaēl.
 
 29 Et hae generātiōnēs eōrum: prīmōgenitus Ismaēlis Nabaioth et Cēdar et Adbeel et Mabsam,
 
@@ -70,7 +70,7 @@
 
 33 Fīliī autem Madian: Epha et Opher et Henoch et Abida et Eldaa. Omnēs hī fīliī Cetūrae.
 
-34 Generāvit autem Abraham Isaac, cuius fuērunt fīliī Esau et Isrāēl.
+34 Generāvit autem Abraham Isaāc, cuius fuērunt fīliī Esau et Isrāēl.
 
 35 Fīliī Esau: Eliphaz, Rahuēl, Iehus, Ialam, **Corē**.
 
@@ -1238,7 +1238,7 @@ sermōnis, quem praecēpit in mīlle generātiōnēs,
 
 16 **pactī**, quod pepigit cum Abraham,
 
-et iūrāmentī illīus cum Isaac.
+et iūrāmentī illīus cum Isaāc.
 
 17 Et cōnstituit illud Iācōb in praeceptum
 
@@ -2020,7 +2020,7 @@ et laudāmus **nōmen** tuum inclitum.
 
 17 Sciō, Deus meus, quod probēs **corda** et simplicitātem dīligās; unde et ego in simplicitāte **cordis** meī laetus obtulī **ūniversa** haec et **populum** tuum, quī **hīc** **repertus** **est**, vīdī cum ingentī gaudiō sponte tibi offerre dōnāria.
 
-18 Domine, Deus Abraham et Isaac et Isrāēl patrum nostrōrum, cūstōdī in aeternum hanc voluntātem **cordis** eōrum; et semper in venerātiōnem tuī mēns **ista** permaneat.
+18 Domine, Deus Abraham et Isaāc et Isrāēl patrum nostrōrum, cūstōdī in aeternum hanc voluntātem **cordis** eōrum; et semper in venerātiōnem tuī mēns **ista** permaneat.
 
 19 Salomōnī **quoque** fīliō meō dā cor perfectum, ut cūstōdiat **mandāta** **tua**, testimōnia **tua** et **lēgitima** **tua** et faciat **ūniversa** et aedificet aedem, cuius impēnsās parāvī”.
 

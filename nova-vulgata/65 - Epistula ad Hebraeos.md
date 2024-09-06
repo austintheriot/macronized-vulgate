@@ -560,7 +560,7 @@ nōn sibi **complacet** in eō **animā** **meā**.
 
 8 **Fīdē** **vocātus** Abraham oboedīvit in locum exīre, quem acceptūrus erat in hērēditātem; et exīvit nesciēns quō īret.
 
-9 **Fīdē** peregrīnātus **est** in **terrā** prōmissiōnis tamquam in **aliēna**, in casulīs habitandō cum Isaac et Iācōb, cohērēdibus prōmissiōnis eiusdem;
+9 **Fīdē** peregrīnātus **est** in **terrā** prōmissiōnis tamquam in **aliēna**, in casulīs habitandō cum Isaāc et Iācōb, cohērēdibus prōmissiōnis eiusdem;
 
 10 exspectābat enim fundāmenta habentem cīvitātem, cuius artifex et **conditor** Deus.
 
@@ -576,13 +576,13 @@ nōn sibi **complacet** in eō **animā** **meā**.
 
 16 nunc autem meliōrem appetunt, id **est** caelestem. Ideō nōn cōnfunditur Deus vocārī Deus eōrum, parāvit enim illīs cīvitātem.
 
-17 **Fīdē** obtulit Abraham Isaac, cum tentārētur; et ūnigenitum offerēbat ille, quī suscēperat prōmissiōnēs,
+17 **Fīdē** obtulit Abraham Isaāc, cum tentārētur; et ūnigenitum offerēbat ille, quī suscēperat prōmissiōnēs,
 
-18 ad quem dictum erat: ”In Isaac vocābitur tibi sēmen”,
+18 ad quem dictum erat: ”In Isaāc vocābitur tibi sēmen”,
 
 19 **arbitrātus** quia et ā mortuīs suscitāre potēns **est** Deus; unde eum et in **parabolā** reportāvit.
 
-20 **Fīdē** et dē futūrīs benedīxit Isaac Iācōb et Esau.
+20 **Fīdē** et dē futūrīs benedīxit Isaāc Iācōb et Esau.
 
 21 **Fīdē** Iācōb moriēns singulīs fīliōrum Ioseph benedīxit et adōrāvit super fastīgium virgae suae.
 

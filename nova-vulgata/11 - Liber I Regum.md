@@ -1380,7 +1380,7 @@ Erat autem famēs vehemēns in **Samarīā**.
 
 35 et currēbant aquae circum altāre, et **fossa** **aquaeductūs** **replēta** **est**.
 
-36 Cumque iam tempus **esset**, ut offerrētur sacrificium, accēdēns **Eliās** **prophēta** ait: ”Domine, Deus Abraham, Isaac et Isrāēl, hodiē ostende quia tū **es** Deus in Isrāēl, et ego servus tuus et iuxtā praeceptum tuum fēcī omnia haec.
+36 Cumque iam tempus **esset**, ut offerrētur sacrificium, accēdēns **Eliās** **prophēta** ait: ”Domine, Deus Abraham, Isaāc et Isrāēl, hodiē ostende quia tū **es** Deus in Isrāēl, et ego servus tuus et iuxtā praeceptum tuum fēcī omnia haec.
 
 37 Exaudī mē, Domine, exaudī mē, ut discat **populus** iste quia tū, Domine, **es** Deus et tū convertistī cor eōrum iterum!”.
 

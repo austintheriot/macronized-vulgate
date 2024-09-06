@@ -748,7 +748,7 @@ Et posuit sacerdōs cūstōdiās in domō Dominī
 
 22 Igitur Hazael rēx **Syriae** afflīxit Isrāēl cūnctīs diēbus Ioachaz.
 
-23 Et misertus **est** Dominus eōrum et reversus **est** ad eōs propter **pactum** suum, quod habēbat cum Abraham, Isaac et Iācōb, et nōluit **disperdere** eōs neque prōicere **penitus** usque in praesēns tempus.
+23 Et misertus **est** Dominus eōrum et reversus **est** ad eōs propter **pactum** suum, quod habēbat cum Abraham, Isaāc et Iācōb, et nōluit **disperdere** eōs neque prōicere **penitus** usque in praesēns tempus.
 
 24 Mortuus **est** autem Hazael rēx **Syriae**; et rēgnāvit Benadad fīlius eius prō eō.
 

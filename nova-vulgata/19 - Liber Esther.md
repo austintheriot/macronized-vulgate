@@ -238,7 +238,7 @@ ut hostēs dominentur nostrī”.
 
 17b et dīxit:
 
-”Deus Abraham et Deus Isaac et Deus Iācōb, benedictus **es**.
+”Deus Abraham et Deus Isaāc et Deus Iācōb, benedictus **es**.
 
 17c Domine, Domine, rēx omnipotēns,
 
@@ -272,7 +272,7 @@ neque in glōriae cupiditāte, Domine.
 
 **Appārē**, Domine; manifestāre, Domine!
 
-17ī Et nunc, Domine rēx, Deus Abraham et Deus Isaac et Deus Iācōb,
+17ī Et nunc, Domine rēx, Deus Abraham et Deus Isaāc et Deus Iācōb,
 
 **parcē** **populō** tuō,
 
@@ -302,7 +302,7 @@ et nē claudās **ōra** tē **canentium**”.
 
 17p Et **cecidit** super terram cum ancillīs **suīs** ā **māne** usque ad vesperam et dīxit:
 
-17q ”Deus Abraham et Deus Isaac et Deus Iācōb, benedictus **es**.
+17q ”Deus Abraham et Deus Isaāc et Deus Iācōb, benedictus **es**.
 
 Suffrāgā mihi **sōlī**
 

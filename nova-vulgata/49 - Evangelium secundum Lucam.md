@@ -402,7 +402,7 @@ et **aspera** in viās plānās:
 
 33 quī fuit Aminadab, quī fuit Admin, quī fuit Arnī, quī fuit Esrom, quī fuit Phārēs, quī fuit Iūdae,
 
-34 quī fuit Iācōb, quī fuit Isaac, quī fuit Abrahae, quī fuit Thāre, quī fuit Nachor,
+34 quī fuit Iācōb, quī fuit Isaāc, quī fuit Abrahae, quī fuit Thāre, quī fuit Nachor,
 
 35 quī fuit Seruch, quī fuit Ragau, quī fuit Phaleg, quī fuit Heber, quī fuit Sala,
 
@@ -1436,7 +1436,7 @@ et nē nōs indūcās in tentātiōnem”.
 
 27 et **dīcet** loquēns vōbīs: “Nesciō vōs unde **sītis**; discēdite ā mē, omnēs operāriī inīquitātis”.
 
-28 Ibi erit **flētus** et strīdor dentium, cum **vīderītis** Abraham et Isaac et Iācōb et omnēs prophētās in rēgnō Deī, vōs autem expellī forās.
+28 Ibi erit **flētus** et strīdor dentium, cum **vīderītis** Abraham et Isaāc et Iācōb et omnēs prophētās in rēgnō Deī, vōs autem expellī forās.
 
 29 Et venient ab oriente et **occidente** et aquilōne et austrō et accumbent in rēgnō Deī.
 
@@ -2002,7 +2002,7 @@ Quō audītō, dīxērunt: ”Absit!”.
 
 36 Neque enim **ultrā** **morī** possunt: aequālēs enim angelīs sunt et fīliī sunt Deī, cum sint fīliī resurrēctiōnis.
 
-37 Quia vērō resurgant mortuī, et Moȳsēs[\*][moyses] ostendit secus rubum, sīcut dīcit: “Dominum Deum Abraham et Deum Isaac et Deum Iācōb”.
+37 Quia vērō resurgant mortuī, et Moȳsēs[\*][moyses] ostendit secus rubum, sīcut dīcit: “Dominum Deum Abraham et Deum Isaāc et Deum Iācōb”.
 
 38 Deus autem nōn **est** mortuōrum sed vīvōrum: omnēs enim vīvunt **eī**”.
 

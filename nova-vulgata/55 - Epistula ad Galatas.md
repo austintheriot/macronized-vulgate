@@ -220,7 +220,7 @@ quia multī fīliī dēsertae
 
 **magis** quam eius, quae habet **virum**”.
 
-28 Vōs autem, frātrēs, secundum Isaac prōmissiōnis fīliī **estis**.
+28 Vōs autem, frātrēs, secundum Isaāc prōmissiōnis fīliī **estis**.
 
 29 Sed quōmodo tunc, quī secundum carnem **nātus** fuerat, persequēbātur eum, quī secundum spīritum, **ita** et nunc.
 

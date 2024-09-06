@@ -6,7 +6,7 @@
 
 1 Frātribus, quī sunt per Aegyptum, Iūdaeīs salūtem dīcunt frātrēs, quī sunt in Hierosolymīs Iūdaeī et quī in regiōne Iūdaeae, pācem bonam.
 
-2 Et benefaciat vōbīs Deus et meminerit testāmentī **suī**, quod **locūtus** **est** ad Abraham et Isaac et Iācōb servōrum suōrum fidēlium;
+2 Et benefaciat vōbīs Deus et meminerit testāmentī **suī**, quod **locūtus** **est** ad Abraham et Isaāc et Iācōb servōrum suōrum fidēlium;
 
 3 et det vōbīs cor omnibus, ut **colātis** eum et faciātis eius voluntātem **corde** magnō et animō volentī;
 

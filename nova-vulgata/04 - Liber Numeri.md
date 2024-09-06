@@ -2451,7 +2451,7 @@ Fīliōrum Isrāēl, quī ēgressī sunt dē **terrā** Aegyptī, iste **est** n
 
 10 Quī īrātus iūrāvit dīcēns:
 
-11 "Nōn vidēbunt hominēs istī, quī ascendērunt ex Aegyptō, ā vīgintī annīs et suprā, terram, quam sub iūrāmentō pollicitus sum Abraham, Isaac et Iācōb; nam nōluērunt sequī mē,
+11 "Nōn vidēbunt hominēs istī, quī ascendērunt ex Aegyptō, ā vīgintī annīs et suprā, terram, quam sub iūrāmentō pollicitus sum Abraham, Isaāc et Iācōb; nam nōluērunt sequī mē,
 
 12 praeter Chaleb fīlium Iephonne Cenezaeum et **Ios**ue fīlium Nun: istī secūtī sunt Dominum!".
 

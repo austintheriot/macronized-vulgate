@@ -6024,7 +6024,7 @@ et hērēditāre illōs ā marī usque ad mare
 
 et ā Flūmine usque ad terminōs terrae.
 
-24 Et in Isaac eōdem **modo** statuit
+24 Et in Isaāc eōdem **modo** statuit
 
 propter Abraham patrem eius.
 

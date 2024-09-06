@@ -362,7 +362,7 @@ Deum Isrāēl in adiūtōrium per **tōtam** noctem illam.
 
 25 Praeter haec omnia grātiās **agamus** Dominō Deō nostrō, quī tentat nōs sīcut et patrēs nostrōs.
 
-26 **Memorēs** **ēstote** **quanta** fēcerit cum Abraham et Isaac, et **quanta** **facta** sint Iācōb in **Mesopotamiā** **Syriae** pāscentī ovēs **Labān** frātris mātris suae.
+26 **Memorēs** **ēstote** **quanta** fēcerit cum Abraham et Isaāc, et **quanta** **facta** sint Iācōb in **Mesopotamiā** **Syriae** pāscentī ovēs **Labān** frātris mātris suae.
 
 27 Quia nōn sīcut illōs combussit in inquīsītiōnem **cordis** illōrum et in nōs nōn ultus **est**, sed in monitiōnem flagellat Dominus appropinquantēs sibi”.
 

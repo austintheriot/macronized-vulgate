@@ -4362,7 +4362,7 @@ et portantium **vōta** in domum Dominī; redūcam enim sortem terrae sīcut ā 
 
 25 Haec dīcit Dominus: Sī **pactum** meum inter diem et noctem et **lēgēs** caelō et terrae nōn posuī,
 
-26 equidem et sēmen Iācōb et Dāvīd servī meī prōiciam, ut nōn assūmam dē sēmine eius prīncipēs sēminis Abraham et Isaac et Iācōb; redūcam enim sortem eōrum et miserēbor eīs”.
+26 equidem et sēmen Iācōb et Dāvīd servī meī prōiciam, ut nōn assūmam dē sēmine eius prīncipēs sēminis Abraham et Isaāc et Iācōb; redūcam enim sortem eōrum et miserēbor eīs”.
 
 ## 34
 

@@ -282,7 +282,7 @@ et nē dissipēs testāmentum tuum
 
 propter Abraham dīlēctum tuum
 
-et Isaac servum tuum
+et Isaāc servum tuum
 
 et Isrāēl sānctum tuum,
 

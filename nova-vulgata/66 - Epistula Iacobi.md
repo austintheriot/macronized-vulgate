@@ -100,7 +100,7 @@
 
 20 Vīs autem scīre, ō homō **inānis**, quoniam **fidēs** **sine** operibus **ōtiōsa** **est**?
 
-21 Abraham, pater noster, **nōnne** ex operibus **iustificātus** **est** offerēns Isaac fīlium suum super altāre?
+21 Abraham, pater noster, **nōnne** ex operibus **iustificātus** **est** offerēns Isaāc fīlium suum super altāre?
 
 22 Vidēs quoniam **fidēs** cooperābātur operibus illīus, et ex operibus **fidēs** **cōnsummāta** **est**;
 

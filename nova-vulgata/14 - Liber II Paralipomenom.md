@@ -1375,7 +1375,7 @@ Restitūtus **est** **ita** **cultūs** **domūs** Dominī.
 
 5 et dēcrēvērunt, ut mitterent nūntiōs in ūniversum Isrāēl dē Bersabee usque **Dān**, ut venīrent et facerent **Pascha** Dominō, Deō Isrāēl, in Ierusālem; in **plūrimā** enim multitūdine nōn fēcerant, sīcut **lēge** praescrīptum **est**.
 
-6 Perrēxēruntque cursōrēs cum epistulīs ex **rēgis** manū et prīncipum eius in ūniversum Isrāēl et Iūdam, iuxtā quod rēx iusserat, praedicantēs: ”Fīliī Isrāēl, revertiminī ad Dominum, Deum Abraham et Isaac et Isrāēl, ut revertātur ad reliquiās, quae effūgērunt **manum** rēgum Assyriōrum.
+6 Perrēxēruntque cursōrēs cum epistulīs ex **rēgis** manū et prīncipum eius in ūniversum Isrāēl et Iūdam, iuxtā quod rēx iusserat, praedicantēs: ”Fīliī Isrāēl, revertiminī ad Dominum, Deum Abraham et Isaāc et Isrāēl, ut revertātur ad reliquiās, quae effūgērunt **manum** rēgum Assyriōrum.
 
 7 Nōlīte fierī sīcut patrēs vestrī et frātrēs, quī recessērunt ā Dominō, Deō patrum suōrum, et trādidit eōs in interitum, ut ipsī cernitis.
 

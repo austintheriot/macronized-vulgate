@@ -8,7 +8,7 @@
 
 1 **Liber** generātiōnis Iēsū Chrīstī fīliī Dāvīd fīliī Abraham.
 
-2 Abraham genuit Isaac, Isaac autem genuit Iācōb, Iācōb autem genuit Iūdam et frātrēs eius,
+2 Abraham genuit Isaāc, Isaāc autem genuit Iācōb, Iācōb autem genuit Iūdam et frātrēs eius,
 
 3 Iūdās autem genuit Phārēs et Zara dē Thamar, Phārēs autem genuit Esrom, Esrom autem genuit Āram,
 
@@ -508,7 +508,7 @@ sed **līberā** nōs ā **Malō**.
 
 10 Audiēns autem Iēsūs, mīrātus **est** et sequentibus sē dīxit: “Āmēn **dīcō** vōbīs: Apud nūllum **invēnī** tantam fidem in Isrāēl!
 
-11 **Dīcō** autem vōbīs quod multī ab oriente et **occidente** venient et recumbent cum Abraham et Isaac et Iācōb in rēgnō caelōrum;
+11 **Dīcō** autem vōbīs quod multī ab oriente et **occidente** venient et recumbent cum Abraham et Isaāc et Iācōb in rēgnō caelōrum;
 
 12 fīliī autem rēgnī ēicientur in tenebrās exteriōrēs: ibi erit **flētus** et strīdor dentium”.
 
@@ -1702,7 +1702,7 @@ et **est** mīrābile in oculīs nostrīs" ?
 
 31 Dē resurrēctiōne autem mortuōrum nōn lēgistis, quod dictum **est** vōbīs ā Deō dīcente:
 
-32 “Ego sum Deus Abraham et Deus Isaac et Deus Iācōb”? Nōn **est** Deus mortuōrum sed vīventium”.
+32 “Ego sum Deus Abraham et Deus Isaāc et Deus Iācōb”? Nōn **est** Deus mortuōrum sed vīventium”.
 
 33 Et audientēs turbae mīrābantur in **doctrīnā** eius.
 

@@ -496,13 +496,13 @@ aestimātī sumus ut ovēs occīsiōnis”.
 
 6 Nōn autem quod **exciderit** verbum Deī. Nōn enim omnēs, quī ex Isrāēl, hī sunt Isrāēl;
 
-7 neque quia sēmen sunt Abrahae, omnēs fīliī, sed: ”In Isaac vocābitur tibi sēmen”.
+7 neque quia sēmen sunt Abrahae, omnēs fīliī, sed: ”In Isaāc vocābitur tibi sēmen”.
 
 8 Id **est**, nōn quī fīliī **carnis**, hī fīliī Deī, sed quī fīliī sunt prōmissiōnis, aestimantur sēmen;
 
 9 prōmissiōnis enim verbum **hoc** **est**: ”Secundum **hoc** tempus veniam, et erit Sarae fīlius”.
 
-10 Nōn **sōlum** autem, sed et Rebecca ex ūnō concubitum habēns, Isaac patre nostrō;
+10 Nōn **sōlum** autem, sed et Rebecca ex ūnō concubitum habēns, Isaāc patre nostrō;
 
 11 cum enim nōndum **nātī** fuissent aut aliquid ēgissent bonum aut **mālum**, ut secundum ēlēctiōnem prōpositum Deī manēret,
 

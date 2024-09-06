@@ -142,7 +142,7 @@ et omnia **cantica** **vestra** in lāmentātiōnem”.
 
 11 Mūnus enim bonum **est** **eleēmosyna** omnibus, quī faciunt illam **cōram** Excelsō.
 
-12 Attende tibi, fīlī, ab omnī fornicātiōne. Uxōrem prīmum accipe ex sēmine **parentum** tuōrum et nōlī **sūmere** uxōrem aliēnam, quae nōn **est** ex tribū patris tuī, quoniam fīliī prophētārum sumus: Noe et Abraham et Isaac et Iācōb patrēs nostrī ā saeculō. Rememorāre, fīlī, quoniam hī omnēs accēpērunt uxōrēs ex sēmine patrum suōrum et benedictī sunt in fīliīs **suīs**, et sēmen illōrum possidēbit hērēditātem terrae.
+12 Attende tibi, fīlī, ab omnī fornicātiōne. Uxōrem prīmum accipe ex sēmine **parentum** tuōrum et nōlī **sūmere** uxōrem aliēnam, quae nōn **est** ex tribū patris tuī, quoniam fīliī prophētārum sumus: Noe et Abraham et Isaāc et Iācōb patrēs nostrī ā saeculō. Rememorāre, fīlī, quoniam hī omnēs accēpērunt uxōrēs ex sēmine patrum suōrum et benedictī sunt in fīliīs **suīs**, et sēmen illōrum possidēbit hērēditātem terrae.
 
 13 Et tū, fīlī, dīlige frātrēs tuōs et nōlī fastīdīre in **corde** tuō ā frātribus tuīs et ā fīliīs et fīliābus **populī** tuī, ut accipiās uxōrem ex illīs, quoniam in fastīdiō perditiō et **incōnstantia** **magna** **est**, et in nūgācitāte dīminūtiō et exiguitās **magna** **est**. Nūgācitās enim māter **est** **famis**.
 

@@ -1088,7 +1088,7 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 3 Tulī ergō patrem vestrum Abraham dē Mesopotamiae fīnibus et addūxī eum per **tōtam** terram Chanaan multiplicāvīque sēmen eius.
 
-4 Et **dedī** **eī** Isaac illiquē rūrsum **dedī** Iācōb et Esau; ē quibus Esau **dedī** montem Seir ad **possidendum**, Iācōb vērō et fīliī eius dēscendērunt in Aegyptum.
+4 Et **dedī** **eī** Isaāc illiquē rūrsum **dedī** Iācōb et Esau; ē quibus Esau **dedī** montem Seir ad **possidendum**, Iācōb vērō et fīliī eius dēscendērunt in Aegyptum.
 
 5 Mīsīque Moysen et Aarōn et percussī Aegyptum signīs, quae fēcī in **mediō** eius, et posteā ēdūxī vōs.
 

@@ -796,7 +796,7 @@ usque ad torrentem Arabae”.
 
 8 Et dīxit Dominus ad mē: ”Quid tū vidēs, Amos?”. Et dīxī: ”Trullam caementāriī”. Et dīxit Dominus: “Ecce ego pōnam trullam in **mediō** **populī** meī Isrāēl; nōn adiciam **ultrā** **ignōscere** **eī**.
 
-9 Et dēmōlientur **excelsa** Isaac, et sānctuāria Isrāēl dēsōlābuntur, et cōnsurgam super domum Ierobōam in gladiō”.
+9 Et dēmōlientur **excelsa** Isaāc, et sānctuāria Isrāēl dēsōlābuntur, et cōnsurgam super domum Ierobōam in gladiō”.
 
 10 Et mīsit Amasīās sacerdōs Bethel ad Ieroboam rēgem Isrāēl dīcēns: ”Cōnspīrāvit contrā tē Amos in **mediō** **domūs** Isrāēl; nōn poterit **terra** sustinēre ūniversōs sermōnēs eius.
 
@@ -822,7 +822,7 @@ et dīxit Dominus ad mē:
 
 “**Vāde**, **prophēta** ad **populum** meum Isrāēl”.
 
-16 Et nunc audī verbum Dominī. Tū **dīcis**: “Nōn prophetābis super Isrāēl et nōn stillābis verba super domum Isaac”.
+16 Et nunc audī verbum Dominī. Tū **dīcis**: “Nōn prophetābis super Isrāēl et nōn stillābis verba super domum Isaāc”.
 
 17 Propter **hoc** haec dīcit Dominus: “Uxor **tua** in cīvitāte fornicābitur, et fīliī tuī et fīliae tuae in gladiō cadent, et humus **tua** fūniculō mētiētur; et tū in **terrā** **pollūtā** moriēris, et Isrāēl captīvus migrābit dē **terrā** **suā**””.
 

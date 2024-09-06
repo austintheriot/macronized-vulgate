@@ -218,7 +218,7 @@ replēbis mē iūcunditāte cum faciē tuā”.
 
 12 Vidēns autem Petrus respondit ad populum: “Virī Isrāēlītae, quid mīrāminī in hōc aut nōs quid intuēminī, quasi nostrā virtūte aut pietāte fēcerīmus hunc ambulāre?
 
-13 Deus Abraham et Deus Isaac et Deus Iācōb[\*][jacob], Deus patrum nostrōrum, glōrificāvit puerum suum Iēsum, quem vōs quidem trādidistis et negāstis ante faciem Pīlātī, iūdicante illō dīmittī;
+13 Deus Abraham et Deus Isaāc et Deus Iācōb[\*][jacob], Deus patrum nostrōrum, glōrificāvit puerum suum Iēsum, quem vōs quidem trādidistis et negāstis ante faciem Pīlātī, iūdicante illō dīmittī;
 
 14 vōs autem Sānctum et Iūstum negāstis et petīstis virum homicīdam dōnārī vōbīs,
 
@@ -470,7 +470,7 @@ Cōnsēnsērunt autem illī
 
 7 et gentem, cui servierint, iūdicābō ego, dīxit Deus; et post haec exībunt et dēservient mihi in locō istō”.
 
-8 Et **dedit** illī testāmentum circumcīsiōnis; et sīc genuit Isaac et circumcīdit eum **diē** **octāva**, et Isaac Iācōb[\*][jacob], et Iācōb[\*][jacob] duodecim patriarchās.
+8 Et **dedit** illī testāmentum circumcīsiōnis; et sīc genuit Isaāc et circumcīdit eum **diē** **octāva**, et Isaāc Iācōb[\*][jacob], et Iācōb[\*][jacob] duodecim patriarchās.
 
 9 Et patriarchae aemulantēs Iōsēph vēndidērunt in Aegyptum; et erat Deus cum eō
 
@@ -518,7 +518,7 @@ Cōnsēnsērunt autem illī
 
 31 Moȳsēs[\*][moyses] autem vidēns admīrābātur vīsum; accēdente autem illō, ut cōnsīderāret, **facta** **est** vōx Dominī:
 
-32 “Ego Deus patrum tuōrum, Deus Abraham et Isaac et Iācōb[\*][jacob]”. Tremefactus autem Moȳsēs[\*][moyses] nōn audēbat cōnsīderāre.
+32 “Ego Deus patrum tuōrum, Deus Abraham et Isaāc et Iācōb[\*][jacob]”. Tremefactus autem Moȳsēs[\*][moyses] nōn audēbat cōnsīderāre.
 
 33 Dīxit autem illī Dominus: “Solve calceāmentum pedum tuōrum; locus enim, in quō stās, **terrā** **sānctā** **est**.
 

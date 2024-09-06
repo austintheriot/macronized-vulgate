@@ -981,11 +981,11 @@ et ē regiōne ūniversōrum frātrum suōrum fīget tabernācula”.
 
 18 Dīxitque ad Deum: “Utinam Ismaēl vīvat cōram tē”.
 
-19 Et ait Deus: “Sarā uxor tua pariet tibi fīlium, vocābisque nōmen ejus Isaac; et cōnstituam pactum meum illī in foedus sempiternum et sēminī ejus post eum.
+19 Et ait Deus: “Sarā uxor tua pariet tibi fīlium, vocābisque nōmen ejus Isaāc; et cōnstituam pactum meum illī in foedus sempiternum et sēminī ejus post eum.
 
 20 Super Ismaēl quoque exaudīvī tē: ecce benedīcam eī et crēscere faciam et multiplicābō eum vehementissimē; duodecim ducēs generābit, et faciam illum in gentem magnam.
 
-21 Pactum vērō meum statuam ad Isaac, quem pariet tibi Sarā tempore istō in annō alterō”.
+21 Pactum vērō meum statuam ad Isaāc, quem pariet tibi Sarā tempore istō in annō alterō”.
 
 22 Cumque cessāsset loquī cum eō, ascendit Deus ab Abraham.
 
@@ -1189,11 +1189,11 @@ et ē regiōne ūniversōrum frātrum suōrum fīget tabernācula”.
 
 2 concēpitque et peperit Abrahae fīlium in senectūte ejus tempore, quō praedīxerat eī Deus.
 
-3 Vocāvitque Abraham nōmen fīliī suī, quem genuit eī Sarā, Isaac
+3 Vocāvitque Abraham nōmen fīliī suī, quem genuit eī Sarā, Isaāc
 
 4 et circumcīdit eum octāvō diē, sīcut praecēperat eī Deus.
 
-5 Cum Abraham centum esset annōrum, nātus est eī Isaac fīlius ejus.
+5 Cum Abraham centum esset annōrum, nātus est eī Isaāc fīlius ejus.
 
 6 Dīxitque Sarā:
 
@@ -1213,13 +1213,13 @@ jam senī?”.
 
 8 Crēvit igitur puer et ablactātus est. Fēcitque Abraham grande convīvium in diē ablactātiōnis ejus.
 
-9 Cumque vīdisset Sarā fīlium Agar Aegyptiae jocantem cum Isaac fīliō suō, dīxit ad Abraham:
+9 Cumque vīdisset Sarā fīlium Agar Aegyptiae jocantem cum Isaāc fīliō suō, dīxit ad Abraham:
 
-10 “Ēice ancillam hanc et fīlium ejus; nōn enim erit hērēs fīlius ancillae cum fīliō meō Isaac”.
+10 “Ēice ancillam hanc et fīlium ejus; nōn enim erit hērēs fīlius ancillae cum fīliō meō Isaāc”.
 
 11 Dūrē accēpit hoc Abraham propter fīlium suum.
 
-12 Cui dīxit Deus: “Nōn tibi videātur asperum super puerō et super ancillā tuā; omnia, quae dīxerit tibi Sarā, audī vōcem ejus, quia in Isaac vocābitur tibi sēmen.
+12 Cui dīxit Deus: “Nōn tibi videātur asperum super puerō et super ancillā tuā; omnia, quae dīxerit tibi Sarā, audī vōcem ejus, quia in Isaāc vocābitur tibi sēmen.
 
 13 Sed et fīlium ancillae faciam in gentem magnam, quia sēmen tuum est”.
 
@@ -1267,23 +1267,23 @@ jam senī?”.
 
 1 Quae postquam gesta sunt, tentāvit Deus Abraham et dīxit ad eum: “Abraham”. Ille respondit: “Adsum”.
 
-2 Ait: “Tolle fīlium tuum ūnigenitum, quem dīligis, Isaac et vāde in terram Mōria; atque offer eum ibi in holocaustum super ūnum montium, quem mōnstrāverō tibi”.
+2 Ait: “Tolle fīlium tuum ūnigenitum, quem dīligis, Isaāc et vāde in terram Mōria; atque offer eum ibi in holocaustum super ūnum montium, quem mōnstrāverō tibi”.
 
-3 Igitur Abraham dē nocte cōnsurgēns strāvit asinum suum dūcēns sēcum duōs juvenēs suōs et Isaac fīlium suum. Cumque concīdisset ligna in holocaustum, surrēxit et abiit ad locum, quem praecēperat eī Deus.
+3 Igitur Abraham dē nocte cōnsurgēns strāvit asinum suum dūcēns sēcum duōs juvenēs suōs et Isaāc fīlium suum. Cumque concīdisset ligna in holocaustum, surrēxit et abiit ad locum, quem praecēperat eī Deus.
 
 4 Diē autem tertiō, ēlevātīs oculīs, vīdit locum procul
 
 5 dīxitque ad puerōs suōs: “Exspectāte hīc cum asinō. Ego et puer illūc usque properantēs, postquam adōrāverimus, revertēmur ad vōs”.
 
-6 Tulit quoque ligna holocaustī et imposuit super Isaac fīlium suum; ipse vērō portābat in manibus ignem et cultrum. Cumque duo pergerent simul,
+6 Tulit quoque ligna holocaustī et imposuit super Isaāc fīlium suum; ipse vērō portābat in manibus ignem et cultrum. Cumque duo pergerent simul,
 
-7 dīxit Isaac Abrahae patrī suō: “Pater mī”. Ille respondit: “Quid vīs, fīlī?”. “Ecce, inquit, ignis et ligna; ubi est victima holocaustī?”.
+7 dīxit Isaāc Abrahae patrī suō: “Pater mī”. Ille respondit: “Quid vīs, fīlī?”. “Ecce, inquit, ignis et ligna; ubi est victima holocaustī?”.
 
 8 Dīxit Abraham: “Deus prōvidēbit sibi victimam holocaustī, fīlī mī”.
 
 Pergēbant ambō pariter;
 
-9 et vēnērunt ad locum, quem ostenderat eī Deus, in quō aedificāvit Abraham altāre et dēsuper ligna composuit. Cumque colligāsset Isaac fīlium suum, posuit eum in altārī super struem lignōrum
+9 et vēnērunt ad locum, quem ostenderat eī Deus, in quō aedificāvit Abraham altāre et dēsuper ligna composuit. Cumque colligāsset Isaāc fīlium suum, posuit eum in altārī super struem lignōrum
 
 10 extenditque Abraham manum et arripuit cultrum, ut immolāret fīlium suum.
 
@@ -1365,7 +1365,7 @@ Pergēbant ambō pariter;
 
 3 ut adjūrem tē per Dominum, Deum caelī et Deum terrae, ut nōn accipiās uxōrem fīliō meō dē fīliābus Chananaēōrum, inter quōs habitō;
 
-4 sed ad terram et cognātiōnem meam proficīscāris et inde accipiās uxōrem fīliō meō Isaac”.
+4 sed ad terram et cognātiōnem meam proficīscāris et inde accipiās uxōrem fīliō meō Isaāc”.
 
 5 Respondit servus: “Sī nōluerit mulier venīre mēcum in terram hanc, num redūcere dēbeō fīlium tuum ad terram, ā quō tū ēgressus es?”.
 
@@ -1385,7 +1385,7 @@ Pergēbant ambō pariter;
 
 13 Ecce ego stō prope fontem aquae, et fīliae habitātōrum hujus cīvitātis ēgredientur ad hauriendam aquam.
 
-14 Igitur puella, cui ego dīxerō: "Inclīnā hydriam tuam, ut bibam", et illa responderit: "Bibe, quīn et camēlīs tuīs dabō pōtum", ipsa est, quam praeparāstī servō tuō Isaac, et per hoc intellegam quod fēceris misericordiam cum dominō meō”.
+14 Igitur puella, cui ego dīxerō: "Inclīnā hydriam tuam, ut bibam", et illa responderit: "Bibe, quīn et camēlīs tuīs dabō pōtum", ipsa est, quam praeparāstī servō tuō Isaāc, et per hoc intellegam quod fēceris misericordiam cum dominō meō”.
 
 15 Necdum intrā sē verba complēverat, et ecce Rebecca ēgrediēbātur fīlia Bathuel fīliī Melchae uxōris Nachor frātris Abraham habēns hydriam in scapulā:
 
@@ -1493,15 +1493,15 @@ portās inimīcōrum suōrum!”.
 
 61 Igitur surrēxit Rebecca et puellae illīus et, ascēnsīs camēlīs, secūtae sunt virum; sūmpsitque servus Rebeccam et abiit.
 
-62 Isaac autem vēnerat ā regiōne puteī Lahairōī et habitābat in terrā Nageb.
+62 Isaāc autem vēnerat ā regiōne puteī Lahairōī et habitābat in terrā Nageb.
 
-63 Et ēgressus est Isaac ad lāmentandum in agrō, inclīnātā jam diē. Cumque levāsset oculōs, vīdit camēlōs venientēs.
+63 Et ēgressus est Isaāc ad lāmentandum in agrō, inclīnātā jam diē. Cumque levāsset oculōs, vīdit camēlōs venientēs.
 
-64 Rebecca quoque levāvit oculōs et vīdit Isaac; dēscenditque dē camēlō
+64 Rebecca quoque levāvit oculōs et vīdit Isaāc; dēscenditque dē camēlō
 
 65 et ait ad puerum: “Quis est ille homō, quī venit per agrum in occursum nōbīs?”. Dīxitque eī: “Ipse est dominus meus”. At illa tollēns cito vēlum operuit sē.
 
-66 Servus autem cūncta, quae gesserat, nārrāvit Isaac;
+66 Servus autem cūncta, quae gesserat, nārrāvit Isaāc;
 
 67 quī intrōdūxit eam in tabernāculum Sarae mātris suae et accēpit Rebeccam uxōrem; et dīlēxit eam et cōnsōlātus est ā morte mātris suae.
 
@@ -1515,19 +1515,19 @@ portās inimīcōrum suōrum!”.
 
 4 At vērō ex Madiān ortus est Epha et Opher et Henoch et Abida et Eldaa. Omnēs hī fīliī Cetūrae.
 
-5 deditque Abraham cūncta, quae possēderat, Isaac;
+5 deditque Abraham cūncta, quae possēderat, Isaāc;
 
-6 fīliīs autem concubīnārum suārum largītus est mūnera et sēparāvit eōs ab Isaac fīliō suō, dum adhūc ipse vīveret, ad plagam orientālem.
+6 fīliīs autem concubīnārum suārum largītus est mūnera et sēparāvit eōs ab Isaāc fīliō suō, dum adhūc ipse vīveret, ad plagam orientālem.
 
 7 Fuērunt autem diēs vītae Abrahae centum septuāgintā quīnque annī.
 
 8 Et dēficiēns mortuus est Abraham in senectūte bonā prōvectaeque aetātis et plēnus diērum congregātusque est ad populum suum.
 
-9 Et sepeliērunt eum Isaac et Ismaēl fīliī suī in spēluncā Machpēla, quae sita est in agrō Ephron fīliī Seor Hetthaēī ē regiōne Mambre,
+9 Et sepeliērunt eum Isaāc et Ismaēl fīliī suī in spēluncā Machpēla, quae sita est in agrō Ephron fīliī Seor Hetthaēī ē regiōne Mambre,
 
 10 quem ēmerat ā fīliīs Heth. Ibi sepultus est ipse et Sarā uxor ejus.
 
-11 Et post obitum illīus benedīxit Deus Isaac fīliō ejus, quī habitābat juxtā puteum Lahairoī.
+11 Et post obitum illīus benedīxit Deus Isaāc fīliō ejus, quī habitābat juxtā puteum Lahairoī.
 
 12 Hae sunt generātiōnēs Ismaēl fīliī Abrahae, quem peperit eī Agar Aegyptiā famulā Sarae.
 
@@ -1543,11 +1543,11 @@ portās inimīcōrum suōrum!”.
 
 18 Habitāvērunt autem ab Hevila usque Sur, quae respicit Aegyptum introeuntibus Assyriam. In faciem cūnctōrum frātrum suōrum obiit.
 
-19 Hae sunt generātiōnēs Isaac fīliī Abraham: Abraham genuit Isaac;
+19 Hae sunt generātiōnēs Isaāc fīliī Abraham: Abraham genuit Isaāc;
 
 20 quī, cum quadrāgintā esset annōrum, dūxit uxōrem Rebeccam fīliam Bathuēlis Aramaēī dē Paddanaram, sorōrem Labān Aramaēī.
 
-21 Dēprecātusque est Isaac Dominum prō uxōre suā, eō quod esset sterilis. Quī exaudīvit eum et dedit conceptum Rebeccae.
+21 Dēprecātusque est Isaāc Dominum prō uxōre suā, eō quod esset sterilis. Quī exaudīvit eum et dedit conceptum Rebeccae.
 
 22 Sed collīdēbantur in uterō ejus parvulī. Quae ait: “Sī sīc est, cūr mihi?”. Perrēxitque, ut cōnsuleret Dominum.
 
@@ -1565,11 +1565,11 @@ et major serviet minōrī”.
 
 25 Quī prīmus ēgressus est rūfus erat et tōtus quasi pallium pilōsum; vocātumque est nōmen ejus Esau. Posteā frāter ejus ēgrediēns plantam Esau tenēbat manū, et idcircō appellātum est nōmen ejus Jācōb.
 
-26 Sexāgēnārius erat Isaac, quandō nātī sunt parvulī.
+26 Sexāgēnārius erat Isaāc, quandō nātī sunt parvulī.
 
 27 Quibus adultīs, factus est Esau vir gnārus vēnandī et homō agrestis; Jācōb autem vir compositus et habitāns in tabernāculīs.
 
-28 Isaac amābat Esau, eō quod dē vēnātiōnibus illīus libenter vēscerētur; et Rebecca dīligēbat Jācōb.
+28 Isaāc amābat Esau, eō quod dē vēnātiōnibus illīus libenter vēscerētur; et Rebecca dīligēbat Jācōb.
 
 29 Coxit autem Jācōb pulmentum; ad quem, cum vēnisset Esau dē agrō lassus,
 
@@ -1585,7 +1585,7 @@ et major serviet minōrī”.
 
 ## 26
 
-1 Ortā autem famē super terram post eam sterilitātem, quae acciderat in diēbus Abraham, abiit Isaac ad Abimelech rēgem Philisthim in Gerarā.
+1 Ortā autem famē super terram post eam sterilitātem, quae acciderat in diēbus Abraham, abiit Isaāc ad Abimelech rēgem Philisthim in Gerarā.
 
 2 Appāruitque eī Dominus et ait: “Nē dēscendās in Aegyptum, sed habitā in terrā, quam dīxerō tibi,
 
@@ -1595,7 +1595,7 @@ et major serviet minōrī”.
 
 5 eō quod oboedierit Abraham vōcī meae et cūstōdierit praecepta et mandāta mea et jūstificātiōnēs lēgēsque servāverit”.
 
-6 Mānsit itaque Isaac in Gerāris.
+6 Mānsit itaque Isaāc in Gerāris.
 
 7 Quī, cum interrogārētur ā virīs locī illīus super uxōre suā, respondit: “Soror mea est”. Timuerat enim cōnfitērī quod sibi esset sociāta conjugiō, reputāns nē forte interficerent eum propter illīus pulchritūdinem.
 
@@ -1607,7 +1607,7 @@ et major serviet minōrī”.
 
 11 “Quī tetigerit hominem hunc et uxōrem ejus, morte moriētur”.
 
-12 Sēvit autem Isaac in terrā illā et invēnit in ipsō annō centuplum; benedīxitque eī Dominus.
+12 Sēvit autem Isaāc in terrā illā et invēnit in ipsō annō centuplum; benedīxitque eī Dominus.
 
 13 Et locuplētātus est homō et ībat prōficiēns atque succrēscēns, dōnec magnus vehementer effectus est;
 
@@ -1617,15 +1617,15 @@ Ob haec invidentēs eī Philisthim
 
 15 omnēs puteōs, quōs fōderant servī patris illīus in diēbus Abraham, obstrūxērunt implentēs humō,
 
-16 in tantum ut ipse Abimelech dīceret ad Isaac: ”Recēde ā nōbīs, quoniam potentior nostrī factus es valdē”.
+16 in tantum ut ipse Abimelech dīceret ad Isaāc: ”Recēde ā nōbīs, quoniam potentior nostrī factus es valdē”.
 
 17 Et ille discēdēns tentōria fīxit ad torrentem Gerarae habitāvitque ibi.
 
 18 Rūrsum fōdit puteōs, quōs fōderant in diēbus patris suī Abraham et quōs, illō mortuō, obstrūxerant Philisthim. Appellāvitque eōs eīsdem nōminibus, quibus ante pater vocāverat.
 
-19 Fōdērunt servī Isaac in torrente et repperērunt ibi puteum aquae vīvae.
+19 Fōdērunt servī Isaāc in torrente et repperērunt ibi puteum aquae vīvae.
 
-20 Sed et ibi jūrgium fuit pāstōrum Gerarae adversus pāstōrēs Isaac dīcentium: ”Nostra est aqua!”. Quam ob rem nōmen puteī vocāvit Esec (id est Jūrgium), quia jūrgātī sunt cum eō.
+20 Sed et ibi jūrgium fuit pāstōrum Gerarae adversus pāstōrēs Isaāc dīcentium: ”Nostra est aqua!”. Quam ob rem nōmen puteī vocāvit Esec (id est Jūrgium), quia jūrgātī sunt cum eō.
 
 21 Fōdērunt autem et alium puteum, et prō illō quoque rixātī sunt; appellāvitque eum Sitna (id est Inimīcitiās).
 
@@ -1645,11 +1645,11 @@ et multiplicābō sēmen tuum
 
 propter servum meum Abraham”.
 
-25 Itaque aedificāvit ibi altāre et, invocātō nōmine Dominī, extendit tabernāculum, et servī Isaac fōdērunt ibi puteum.
+25 Itaque aedificāvit ibi altāre et, invocātō nōmine Dominī, extendit tabernāculum, et servī Isaāc fōdērunt ibi puteum.
 
 26 Abimelech autem vēnit ad eum dē Gerāris et Ochozath amīcus illīus et Phicol dux mīlitum,
 
-27 et locūtus est eīs Isaac: ”Quid vēnistis ad mē hominem, quem ōdistis et expulistis ā vōbīs?”.
+27 et locūtus est eīs Isaāc: ”Quid vēnistis ad mē hominem, quem ōdistis et expulistis ā vōbīs?”.
 
 28 Quī respondērunt: ”Vīdimus tēcum esse Dominum et idcircō dīximus: Sit jūrāmentum inter nōs et tē, et ineāmus tēcum foedus,
 
@@ -1657,19 +1657,19 @@ propter servum meum Abraham”.
 
 30 Fēcit ergō eīs convīvium, et comēdērunt et bibērunt.
 
-31 Surgentēsque māne jūrāvērunt sibi mūtuō. Dīmīsitque eōs Isaac, et profectī sunt ab eō cum pāce.
+31 Surgentēsque māne jūrāvērunt sibi mūtuō. Dīmīsitque eōs Isaāc, et profectī sunt ab eō cum pāce.
 
-32 Ecce autem vēnērunt in ipsō diē servī Isaac annūntiantēs eī dē puteō, quem fōderant, atque dīcentēs: ”Invēnimus aquam”.
+32 Ecce autem vēnērunt in ipsō diē servī Isaāc annūntiantēs eī dē puteō, quem fōderant, atque dīcentēs: ”Invēnimus aquam”.
 
 33 Unde appellāvit eum Sabee (quod significat Abundantiam); et nōmen urbī impositum est Bersabeē usque in praesentem diem.
 
 34 Esau vērō quadrāgēnārius dūxit uxōrēs Iudith fīliam Beērī Hetthaēī et Basemath fīliam Elon Hetthaēī.
 
-35 Quae ambae offenderant animum Isaac et Rebeccae.
+35 Quae ambae offenderant animum Isaāc et Rebeccae.
 
 ## 27
 
-1 Senuit autem Isaac, et cālīgāvērunt oculī ejus, et vidēre nōn poterat. Vocāvitque Esau fīlium suum majōrem et dīxit eī: ”Fīlī mī”. Quī respondit: ”Adsum”.
+1 Senuit autem Isaāc, et cālīgāvērunt oculī ejus, et vidēre nōn poterat. Vocāvitque Esau fīlium suum majōrem et dīxit eī: ”Fīlī mī”. Quī respondit: ”Adsum”.
 
 2 Cui pater: ”Vidēs, inquit, quod senuerim et ignōrem diem mortis meae;
 
@@ -1677,7 +1677,7 @@ propter servum meum Abraham”.
 
 4 fac mihi inde pulmentum, sīcut velle mē nōstī, et affer, ut comedam; et benedīcat tibi anima mea, antequam moriar”.
 
-5 Rebecca autem audierat Isaac loquentem cum Esau fīliō suō. Esau ergō abiit in agrum, ut vēnātiōnem caperet et offerret eam.
+5 Rebecca autem audierat Isaāc loquentem cum Esau fīliō suō. Esau ergō abiit in agrum, ut vēnātiōnem caperet et offerret eam.
 
 6 Rebecca autem dīxit fīliō suō Jācōb: ”Ecce, audīvī patrem tuum loquentem cum Esau frātre tuō et dīcentem eī:
 
@@ -1707,11 +1707,11 @@ propter servum meum Abraham”.
 
 19 Dīxitque Jācōb ad patrem suum: ”Ego sum Esau prīmōgenitus tuus. Fēcī sīcut praecēpistī mihi; surge, sēde et comede dē vēnātiōne meā, ut benedīcat mihi anima tua”.
 
-20 Rūrsum Isaac ad fīlium suum: ”Quōmodo, inquit, tam cito invenīre potuistī, fīlī mī?”. Quī respondit: ”Voluntās Dominī Deī tuī fuit, ut occurreret mihi”.
+20 Rūrsum Isaāc ad fīlium suum: ”Quōmodo, inquit, tam cito invenīre potuistī, fīlī mī?”. Quī respondit: ”Voluntās Dominī Deī tuī fuit, ut occurreret mihi”.
 
-21 Dīxitque Isaac ad Jācōb: ”Accēde hūc, ut tangam tē, fīlī mī, et probem, utrum tū sīs fīlius meus Esau an nōn”.
+21 Dīxitque Isaāc ad Jācōb: ”Accēde hūc, ut tangam tē, fīlī mī, et probem, utrum tū sīs fīlius meus Esau an nōn”.
 
-22 Accessit ille ad patrem, et, palpātō eō, dīxit Isaac: ”Vōx quidem, vōx Jācōb est, sed manūs, manūs sunt Esau”.
+22 Accessit ille ad patrem, et, palpātō eō, dīxit Isaāc: ”Vōx quidem, vōx Jācōb est, sed manūs, manūs sunt Esau”.
 
 23 Et nōn cognōvit eum, quia pilōsae manūs similitūdinem majōris expresserant. Benedīxit ergō illī.
 
@@ -1719,7 +1719,7 @@ propter servum meum Abraham”.
 
 25 At ille: ”Affer, inquit, mihi, et comedam dē vēnātiōne tuā, fīlī mī, ut benedīcat tibi anima mea”. Quōs cum oblātōs comēdisset, obtulit eī etiam vīnum. Quō haustō,
 
-26 dīxit ad eum Isaac pater ejus: ”Accēde ad mē et dā mihi ōsculum, fīlī mī”.
+26 dīxit ad eum Isaāc pater ejus: ”Accēde ad mē et dā mihi ōsculum, fīlī mī”.
 
 27 Accessit et ōsculātus est eum. Statimque, ut sēnsit vestīmentōrum illīus frāgrantiam, benedīcēns illī ait:
 
@@ -1747,13 +1747,13 @@ Quī maledīxerit tibi, sit maledictus;
 
 et, quī benedīxerit tibi, sit benedictus!”.
 
-30 Vix Isaac benedictiōnem Jācōb fīnierat, et Jācōb ēgressus erat ā patre suō Isaac, vēnit Esau frāter ejus
+30 Vix Isaāc benedictiōnem Jācōb fīnierat, et Jācōb ēgressus erat ā patre suō Isaāc, vēnit Esau frāter ejus
 
 31 coctōsque dē vēnātiōne cibōs intulit patrī dīcēns: ”Surge, pater mī, et comede dē vēnātiōne fīliī tuī, ut benedīcat mihi anima tua”.
 
-32 Dīxitque illī Isaac pater ejus: ”Quis enim es tū?”. Quī respondit: ”Ego sum fīlius tuus prīmōgenitus Esau”.
+32 Dīxitque illī Isaāc pater ejus: ”Quis enim es tū?”. Quī respondit: ”Ego sum fīlius tuus prīmōgenitus Esau”.
 
-33 Expāvit Isaac stupōre vehementī ultrā modum et ait: ”Quis igitur ille est, quī dūdum captam vēnātiōnem attulit mihi, et comēdī ex omnibus, priusquam tū venīrēs? Benedīxīque eī, et erit benedictus!”.
+33 Expāvit Isaāc stupōre vehementī ultrā modum et ait: ”Quis igitur ille est, quī dūdum captam vēnātiōnem attulit mihi, et comēdī ex omnibus, priusquam tū venīrēs? Benedīxīque eī, et erit benedictus!”.
 
 34 Audītīs Esau sermōnibus patris, irrugiit clāmōre magnō et amārō ultrā modum et ait patrī suō: ”Benedīc etiam mihi, pater mī!”.
 
@@ -1763,11 +1763,11 @@ et, quī benedīxerit tibi, sit benedictus!”.
 
 Rūrsumque ait: ”Numquid nōn reservāstī mihi benedictiōnem?”.
 
-37 Respondit Isaac: ”Ecce, dominum tuum illum cōnstituī et omnēs frātrēs ejus servitūtī illīus subjugāvī; frūmentō et vīnō stabilīvī eum. Et tibi post haec, fīlī mī, ultrā quid faciam?”.
+37 Respondit Isaāc: ”Ecce, dominum tuum illum cōnstituī et omnēs frātrēs ejus servitūtī illīus subjugāvī; frūmentō et vīnō stabilīvī eum. Et tibi post haec, fīlī mī, ultrā quid faciam?”.
 
 38 Dīxitque Esau ad patrem suum: ”Num ūnam tantum benedictiōnem habēs, pater mī? Mihi quoque obsecrō, ut benedīcās!”. Cumque ejulātū magnō flēret,
 
-39 mōtus Isaac dīxit ad eum:
+39 mōtus Isaāc dīxit ad eum:
 
 ”Ecce, procul ā pinguēdine terrae erit habitātiō tua
 
@@ -1791,11 +1791,11 @@ et solvās jugum ejus dē cervīcibus tuīs”.
 
 45 et cesset indignātiō ejus, oblīvīscāturque eōrum, quae fēcistī in eum. Posteā mittam et addūcam tē inde hūc. Cūr utrōque orbābor fīliō in ūnō diē?”.
 
-46 Dīxit quoque Rebecca ad Isaac: ”Taedet mē vītae meae propter fīliās Heth; sī accēperit Jācōb uxōrem dē fīliābus Heth sīcut istīs dē fīliābus terrae, nōlō vīvere”.
+46 Dīxit quoque Rebecca ad Isaāc: ”Taedet mē vītae meae propter fīliās Heth; sī accēperit Jācōb uxōrem dē fīliābus Heth sīcut istīs dē fīliābus terrae, nōlō vīvere”.
 
 ## 28
 
-1 Vocāvit itaque Isaac Jācōb et benedīxit eum praecēpit que eī dīcēns: ”Nōlī accipere conjugem dē fīliābus Chanaan;
+1 Vocāvit itaque Isaāc Jācōb et benedīxit eum praecēpit que eī dīcēns: ”Nōlī accipere conjugem dē fīliābus Chanaan;
 
 2 surge, vāde in Paddanaram ad domum Bathuel patris mātris tuae et accipe tibi inde uxōrem dē fīliābus Labān avunculī tuī.
 
@@ -1803,7 +1803,7 @@ et solvās jugum ejus dē cervīcibus tuīs”.
 
 4 et det tibi benedictiōnēs Abraham tibi et sēminī tuō tēcum, ut possideās terram peregrīnātiōnis tuae, quam pollicitus est Deus avō tuō”.
 
-5 Cumque dīmīsisset eum Isaac, profectus est in Paddanaram ad Labān fīlium Bathuel Aramaēī frātrem Rebeccae mātris Jācōb et Esau.
+5 Cumque dīmīsisset eum Isaāc, profectus est in Paddanaram ad Labān fīlium Bathuel Aramaēī frātrem Rebeccae mātris Jācōb et Esau.
 
 6 Vidēns autem Esau quod benedīxisset pater suus Jācōb et mīsisset eum in Paddanaram, ut inde uxōrem dūceret, et quod post benedictiōnem praecēpisset eī dīcēns: ”Nōn accipiēs uxōrem dē fīliābus Chanaan”,
 
@@ -1819,7 +1819,7 @@ et solvās jugum ejus dē cervīcibus tuīs”.
 
 12 Vīditque in somniō scālam stantem super terram et cacūmen illīus tangēns caelum, angelōs quoque Deī ascendentēs et dēscendentēs per eam
 
-13 et Dominum innīxum scālae dīcentem sibi: ”Ego sum Dominus, Deus Abraham patris tuī et Deus Isaac. Terram, in quā dormīs, tibi dabō et sēminī tuō.
+13 et Dominum innīxum scālae dīcentem sibi: ”Ego sum Dominus, Deus Abraham patris tuī et Deus Isaāc. Terram, in quā dormīs, tibi dabō et sēminī tuō.
 
 14 Eritque sēmen tuum quasi pulvis terrae; dīlātāberis ad occidentem et orientem et septentriōnem et merīdiem; et benedīcentur in tē et in sēmine tuō cūnctae tribūs terrae.
 
@@ -2039,7 +2039,7 @@ Factō māne, vīdit, et ecce erat Līā.
 
 17 Surrēxit itaque Jācōb et imposuit līberōs suōs ac conjugēs suās super camēlōs.
 
-18 Tulitque omnēs gregēs suōs et omnem substantiam suam, quidquid in Paddanaram acquīsierat, ut īret ad Isaac patrem suum in terram Chanaan.
+18 Tulitque omnēs gregēs suōs et omnem substantiam suam, quidquid in Paddanaram acquīsierat, ut īret ad Isaāc patrem suum in terram Chanaan.
 
 19 Eō tempore Labān ierat ad tondendās ovēs, et Rachel fūrāta est theraphim patris suī.
 
@@ -2087,7 +2087,7 @@ Factō māne, vīdit, et ecce erat Līā.
 
 41 Sīc per vīgintī annōs in domō tuā servīvī tibi: quattuordecim prō fīliābus et sex prō gregibus tuīs; immūtāstī quoque mercēdem meam decem vicibus.
 
-42 Nisi Deus patris meī, Deus Abraham et Timor Isaac, affuisset mihi, certemodō nūdum mē dīmīsissēs; afflīctiōnem meam et labōrem manuum meārum respexit Deus et jūdicāvit heri”.
+42 Nisi Deus patris meī, Deus Abraham et Timor Isaāc, affuisset mihi, certemodō nūdum mē dīmīsissēs; afflīctiōnem meam et labōrem manuum meārum respexit Deus et jūdicāvit heri”.
 
 43 Respondit eī Labān: ”Fīliae fīliae meae et fīliī fīliī meī et gregēs gregēs meī et omnia, quae cernis, mea sunt; et fīliābus meīs quid possum facere illīs hodiē et fīliīs eārum, quōs genuērunt?
 
@@ -2111,7 +2111,7 @@ Factō māne, vīdit, et ecce erat Līā.
 
 53 Deus Abraham et Deus Nachor jūdicent inter nōs”.
 
-Jūrāvit Jācōb per Timōrem patris suī Isaac;
+Jūrāvit Jācōb per Timōrem patris suī Isaāc;
 
 54 immolātīsque victimīs in monte, vocāvit frātrēs suōs, ut ederent pānem. Quī cum comēdissent, pernoctāvērunt in monte.
 
@@ -2135,7 +2135,7 @@ Jūrāvit Jācōb per Timōrem patris suī Isaac;
 
 8 dīcēns: ”Sī vēnerit Esau ad ūnam turmam et percusserit eam, alia turma, quae reliqua est, salvābitur”.
 
-9 Dīxitque Jācōb: ”Deus patris meī Abraham et Deus patris meī Isaac, Domine, quī dīxistī mihi: "Revertere in terram tuam et in locum nātīvitātis tuae, et benefaciam tibi",
+9 Dīxitque Jācōb: ”Deus patris meī Abraham et Deus patris meī Isaāc, Domine, quī dīxistī mihi: "Revertere in terram tuam et in locum nātīvitātis tuae, et benefaciam tibi",
 
 10 minor sum cūnctīs miserātiōnibus et cūnctā vēritāte, quam explēstī servō tuō. In baculō meō trānsīvī Jordānem istum et nunc cum duābus turmīs regredior.
 
@@ -2317,7 +2317,7 @@ Et, cum compelleret illum, suscēpit
 
 11 Dīxitque eī: ”Ego Deus omnipotēns. Crēsce et multiplicāre; gēns et congregātiō nātiōnum erunt ex tē, rēgēs dē lumbīs tuīs ēgredientur.
 
-12 Terramque, quam dedī Abraham et Isaac, dabō tibi; et sēminī tuō post tē dabō terram hanc”.
+12 Terramque, quam dedī Abraham et Isaāc, dabō tibi; et sēminī tuō post tē dabō terram hanc”.
 
 13 Et ascendit ab eō Deus.
 
@@ -2349,9 +2349,9 @@ Erant autem fīliī Jācōb duodecim.
 
 26 Fīliī Zelphae ancillae Liae: Gad et Aser. Hī sunt fīliī Jācōb, quī nātī sunt eī in Paddanaram.
 
-27 Vēnit Jācōb ad Isaac patrem suum in Mambre Cariatharbe, id est Hebrōn, ubi peregrīnātus est Abraham et Isaac.
+27 Vēnit Jācōb ad Isaāc patrem suum in Mambre Cariatharbe, id est Hebrōn, ubi peregrīnātus est Abraham et Isaāc.
 
-28 Et complētī sunt diēs Isaac centum octōgintā annōrum;
+28 Et complētī sunt diēs Isaāc centum octōgintā annōrum;
 
 29 cōnsūmptusque aetāte mortuus est et appositus est populō suō senex et plēnus diērum. Et sepeliērunt eum Esau et Jācōb fīliī suī.
 
@@ -3079,7 +3079,7 @@ Fēcērunt, ut dīxerat,
 
 ## 46
 
-1 Profectusque Isrāēl cum omnibus, quae habēbat, vēnit Bersabeē et, mactātīs ibi victimīs Deō patris suī Isaac,
+1 Profectusque Isrāēl cum omnibus, quae habēbat, vēnit Bersabeē et, mactātīs ibi victimīs Deō patris suī Isaāc,
 
 2 audīvit eum per vīsiōnem noctis vocantem sē: ”Jācōb, Jācōb!”. Cui respondit: ”Ecce adsum!”.
 
@@ -3247,7 +3247,7 @@ Prīmōgenitus Ruben.
 
 ”Deus, in cujus cōnspectū ambulāvērunt
 
-patrēs meī Abraham et Isaac,
+patrēs meī Abraham et Isaāc,
 
 Deus, quī pāscit mē ab adulēscentiā meā
 
@@ -3259,7 +3259,7 @@ benedīcat puerīs istīs!
 
 Et invocētur super eōs nōmen meum,
 
-nōmina quoque patrum meōrum Abraham et Isaac,
+nōmina quoque patrum meōrum Abraham et Isaāc,
 
 et crēscant in multitūdinem
 
@@ -3451,7 +3451,7 @@ et vespere dīvidet spolia”.
 
 30 contrā Mambre in terrā Chanaan, quam ēmit Abraham cum agrō ab Ephron Hetthaeō in possessiōnem sepulcrī;
 
-31 ibi sepeliērunt eum et Saram uxōrem ejus, ibi sepultus est Isaac cum Rebeccā conjuge suā, ibi et Līa condita jacet”.
+31 ibi sepeliērunt eum et Saram uxōrem ejus, ibi sepultus est Isaāc cum Rebeccā conjuge suā, ibi et Līa condita jacet”.
 
 32 Fīnītīsque mandātīs, quibus fīliōs īnstruēbat, collēgit pedēs suōs super lectulum et obiit; appositusque est ad populum suum.
 
@@ -3503,7 +3503,7 @@ et vespere dīvidet spolia”.
 
 23 et vīdit Ephraim fīliōs usque ad tertiam generātiōnem; fīliī quoque Machir fīliī Mānāsse nātī sunt in genibus Joseph.
 
-24 Quibus trānsāctīs, locūtus est frātribus suīs: ”Post mortem meam Deus vīsitābit vōs et ascendere vōs faciet dē terrā istā ad terram, quam jūrāvit Abraham, Isaac et Jācōb”.
+24 Quibus trānsāctīs, locūtus est frātribus suīs: ”Post mortem meam Deus vīsitābit vōs et ascendere vōs faciet dē terrā istā ad terram, quam jūrāvit Abraham, Isaāc et Jācōb”.
 
 25 Cumque adjūrāsset eōs atque dīxisset: ”Deus vīsitābit vōs; asportāte ossa mea vōbīscum dē locō istō”,
 

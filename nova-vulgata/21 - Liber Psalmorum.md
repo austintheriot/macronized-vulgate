@@ -8062,7 +8062,7 @@ verbī, quod mandāvit in mīlle generātiōnēs,
 
 9 quod disposuit cum Abraham,
 
-et iūrāmentī **suī** ad Isaac.
+et iūrāmentī **suī** ad Isaāc.
 
 10 Et statuit illud Iācōb[\*][jacob] in praeceptum
 
