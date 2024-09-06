@@ -118,7 +118,7 @@ Dominō Deō nostrō **iūstitiā**, nōbīs autem cōnfūsiō faciēī, sīcut 
 
 33 et āvertent sē ā dorsō suō dūrō et ā nēquissimīs adinventiōnibus **suīs**, quia memorēs erunt viae patrum suōrum, quī peccāvērunt **cōram** Dominō.
 
-34 Et convertam eōs in terram, quam iūrāvī patribus eōrum, Abraham, Isaāc et Iācōb; et possidēbunt eam et multiplicābō eōs, et nōn minōrābuntur;
+34 Et convertam eōs in terram, quam iūrāvī patribus eōrum, Ābrahām[\*][abraham], Isaāc et Iācōb; et possidēbunt eam et multiplicābō eōs, et nōn minōrābuntur;
 
 35 et statuam illīs testāmentum aeternum, ut sim illīs in Deum, et ipsī erunt mihi in **populum**, et **ultrā** iam nōn movēbō **populum** meum Isrāēl ā **terrā**, quam **dedī** illīs”.
 
@@ -674,4 +674,4 @@ Sīcut enim **vās** hominis **cōnfractum** inūtile fit, tālēs sunt dīī e�
 
 72 Melior **est** ergō homō iūstus, quī nōn habet simulācra, nam erit **longē** ab opprobriīs.
 
-
+[abraham]: <Ambiguous Forms.md#abraham>

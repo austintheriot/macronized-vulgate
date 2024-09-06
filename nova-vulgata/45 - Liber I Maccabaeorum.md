@@ -236,7 +236,7 @@
 
 51 Et mementōte operum patrum, quae fēcērunt in generātiōnibus **suīs**, et accipiētis glōriam magnam et **nōmen** aeternum.
 
-52 Abraham, **nōnne** in tentātiōne **inventus** **est** **fidēlis**, et reputātum **est** **eī** ad iūstitiam?
+52 Ābrahām[\*][abraham], **nōnne** in tentātiōne **inventus** **est** **fidēlis**, et reputātum **est** **eī** ad iūstitiam?
 
 53 Ioseph in tempore angustiae suae cūstōdīvit mandātum et **factus** **est** dominus Aegyptī.
 
@@ -1474,7 +1474,7 @@
 
 20 ”Arīus rēx Spartiātārum Ōniae sacerdōtī magnō salūtem.
 
-21 Inventum **est** in **scrīptūrā** dē Spartiātīs et Iūdaeīs quoniam sunt frātrēs et quod sunt dē genere Abraham.
+21 Inventum **est** in **scrīptūrā** dē Spartiātīs et Iūdaeīs quoniam sunt frātrēs et quod sunt dē genere Ābrahām[\*][abraham].
 
 22 Et nunc, ex quō haec cognōvimus, **bene** faciētis scrībentēs nōbīs dē pāce **vestrā**.
 
@@ -1926,4 +1926,4 @@ et multiplicāvit vāsa sānctōrum.
 
 24 ecce haec **scrīpta** sunt in **librō** diērum sacerdōtiī eius, ex quō **factus** **est** prīnceps sacerdōtum post patrem suum.
 
-
+[abraham]: <Ambiguous Forms.md#abraham>

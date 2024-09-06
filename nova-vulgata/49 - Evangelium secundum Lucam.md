@@ -130,7 +130,7 @@ et dīvitēs dīmīsit inānēs.
 
 55 sīcut **locūtus** **est** ad patrēs nostrōs,
 
-Abraham et sēminī eius in saecula”.
+Ābrahām[\*][abraham] et sēminī eius in saecula”.
 
 56 Mānsit autem **Maria** cum **illā** quasi mēnsibus **tribus** et reversā **est** in domum suam.
 
@@ -176,7 +176,7 @@ et dē manū omnium, quī ōdērunt nōs;
 
 et memorārī testāmentī **suī** sānctī,
 
-73 iūsiūrandum, quod iūrāvit ad Abraham patrem nostrum,
+73 iūsiūrandum, quod iūrāvit ad Ābrahām[\*][abraham] patrem nostrum,
 
 datūrum sē nōbīs,
 
@@ -350,7 +350,7 @@ et **aspera** in viās plānās:
 
 7 Dīcēbat ergō ad turbās, quae exībant, ut baptīzārentur ab ipsō: ”Genimina vīperārum, **quis** ostendit vōbīs **fugere** ā **ventūrā** **īrā**?
 
-8 Facite ergō **frūctūs** dignōs paenitentiae et nē **coeperītis** **dīcere** in vōbīs ipsīs: “Patrem habēmus Abraham”; **dīcō** enim vōbīs quia potest Deus dē lapidibus istīs suscitāre Abrahae fīliōs.
+8 Facite ergō **frūctūs** dignōs paenitentiae et nē **coeperītis** **dīcere** in vōbīs ipsīs: “Patrem habēmus Ābrahām[\*][abraham]”; **dīcō** enim vōbīs quia potest Deus dē lapidibus istīs suscitāre Abrahae fīliōs.
 
 9 Iam enim et **secūrīs** ad rādīcem arborum **posita** **est**; **omnis** ergō arbor nōn faciēns frūctum bonum **exciditur** et in ignem mittitur”.
 
@@ -1436,7 +1436,7 @@ et nē nōs indūcās in tentātiōnem”.
 
 27 et **dīcet** loquēns vōbīs: “Nesciō vōs unde **sītis**; discēdite ā mē, omnēs operāriī inīquitātis”.
 
-28 Ibi erit **flētus** et strīdor dentium, cum **vīderītis** Abraham et Isaāc et Iācōb et omnēs prophētās in rēgnō Deī, vōs autem expellī forās.
+28 Ibi erit **flētus** et strīdor dentium, cum **vīderītis** Ābrahām[\*][abraham] et Isaāc et Iācōb et omnēs prophētās in rēgnō Deī, vōs autem expellī forās.
 
 29 Et venient ab oriente et **occidente** et aquilōne et austrō et accumbent in rēgnō Deī.
 
@@ -1638,11 +1638,11 @@ Cum autem adhūc **longē** **esset**, vīdit illum pater ipsīus et **misericor
 
 22 Factum **est** autem ut morerētur pauper et portārētur ab angelīs in **sinum** Abrahae; mortuus **est** autem et dīves et sepultus **est**.
 
-23 Et in īnfernō ēlevāns oculōs suōs, cum **esset** in tormentīs, vidēbat Abraham ā **longē** et Lazārum in sinū eius.
+23 Et in īnfernō ēlevāns oculōs suōs, cum **esset** in tormentīs, vidēbat Ābrahām[\*][abraham] ā **longē** et Lazārum in sinū eius.
 
-24 Et ipse clāmāns dīxit: “Pater Abraham, miserēre meī et mitte Lazārum, ut intingat extrēmum digitī **suī** in aquam, ut refrīgeret linguam meam, quia crucior in hāc **flammā**”.
+24 Et ipse clāmāns dīxit: “Pater Ābrahām[\*][abraham], miserēre meī et mitte Lazārum, ut intingat extrēmum digitī **suī** in aquam, ut refrīgeret linguam meam, quia crucior in hāc **flammā**”.
 
-25 At dīxit Abraham: “Fīlī, recordāre quia recēpistī **bona** **tua** in **vītā** **tuā**, et Lazarus similiter **mala**; nunc autem **hic** cōnsōlātur, tū vērō **cruciārīs**.
+25 At dīxit Ābrahām[\*][abraham]: “Fīlī, recordāre quia recēpistī **bona** **tua** in **vītā** **tuā**, et Lazarus similiter **mala**; nunc autem **hic** cōnsōlātur, tū vērō **cruciārīs**.
 
 26 Et in hīs omnibus inter nōs et vōs chaos magnum firmātum **est**, ut hī, quī volunt hinc trānsīre ad vōs, nōn possint, neque inde ad nōs trānsmeāre”.
 
@@ -1650,9 +1650,9 @@ Cum autem adhūc **longē** **esset**, vīdit illum pater ipsīus et **misericor
 
 28 — habeō enim quīnque frātrēs — ut testētur illīs, nē et ipsī veniant in locum hunc tormentōrum”.
 
-29 Ait autem Abraham: “Habent Moysēn et Prophētās; audiant illōs”.
+29 Ait autem Ābrahām[\*][abraham]: “Habent Moysēn et Prophētās; audiant illōs”.
 
-30 At ille dīxit: “Nōn, pater Abraham, sed sī **quis** ex mortuīs ierit ad eōs, paenitentiam agent”.
+30 At ille dīxit: “Nōn, pater Ābrahām[\*][abraham], sed sī **quis** ex mortuīs ierit ad eōs, paenitentiam agent”.
 
 31 Ait autem illī: “Sī Moysen et Prophētās nōn audiunt, neque sī **quis** ex mortuīs resurrēxerit, crēdent””.
 
@@ -2002,7 +2002,7 @@ Quō audītō, dīxērunt: ”Absit!”.
 
 36 Neque enim **ultrā** **morī** possunt: aequālēs enim angelīs sunt et fīliī sunt Deī, cum sint fīliī resurrēctiōnis.
 
-37 Quia vērō resurgant mortuī, et Moȳsēs[\*][moyses] ostendit secus rubum, sīcut dīcit: “Dominum Deum Abraham et Deum Isaāc et Deum Iācōb”.
+37 Quia vērō resurgant mortuī, et Moȳsēs[\*][moyses] ostendit secus rubum, sīcut dīcit: “Dominum Deum Ābrahām[\*][abraham] et Deum Isaāc et Deum Iācōb”.
 
 38 Deus autem nōn **est** mortuōrum sed vīvōrum: omnēs enim vīvunt **eī**”.
 
@@ -2472,4 +2472,5 @@ Dīvidentēs vērō vestīmenta eius mīsērunt sortēs.
 
 53 et erant semper in templō benedīcentēs Deum.
 
+[abraham]: <Ambiguous Forms.md#abraham>
 [moyses]: <Ambiguous Forms.md#moyses>

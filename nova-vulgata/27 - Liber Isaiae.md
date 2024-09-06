@@ -3572,7 +3572,7 @@ et dēiēcērunt inānibus verbīs iūstum.
 
 22 Propter **hoc** haec dīcit Dominus
 
-ad domum Iācōb, quī redēmit Abraham:
+ad domum Iācōb, quī redēmit Ābrahām[\*][abraham]:
 
 ”Nōn **modo** cōnfundētur Iācōb,
 
@@ -5028,7 +5028,7 @@ ut nōn moveātur.
 
 Iācōb, quem **ēlēgī**,
 
-sēmen Abraham **amīcī** meī,
+sēmen Ābrahām[\*][abraham] **amīcī** meī,
 
 9 quem apprehendī ab extrēmīs terrae,
 
@@ -6632,7 +6632,7 @@ attendite ad petram, unde excīsī **estis**,
 
 et ad cavernam lacī, dē **quā** praecīsī **estis**.
 
-2 Attendite ad Abraham patrem vestrum
+2 Attendite ad Ābrahām[\*][abraham] patrem vestrum
 
 et ad Saram, quae peperit vōs;
 
@@ -8276,7 +8276,7 @@ super mē continuērunt sē.
 
 16 Tū enim pater noster.
 
-Abraham enim nescit nōs,
+Ābrahām[\*][abraham] enim nescit nōs,
 
 et Isrāēl ignōrat nōs;
 
@@ -8794,4 +8794,4 @@ et **ignis** eōrum nōn exstinguētur,
 
 et erunt abōminātiōnī omnī carnī”.
 
-
+[abraham]: <Ambiguous Forms.md#abraham>

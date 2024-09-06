@@ -1610,7 +1610,7 @@ Homō, quī maledīxerit Deō suō, portābit peccātum suum;
 
 41 ut et ego ambulārem contrā eōs et indūcerem illōs in terram hostīlem; vel tunc humiliābitur incircumcīsum cor eōrum, et tunc expiābunt prō impietātibus **suīs**.
 
-42 Et recordābor **foederis** meī, quod pepigī cum Iācōb et Isaāc et Abraham. Terrae **quoque** memor **erō**,
+42 Et recordābor **foederis** meī, quod pepigī cum Iācōb et Isaāc et Ābrahām[\*][abraham]. Terrae **quoque** memor **erō**,
 
 43 quae, cum **relicta** fuerit ab eīs, complacēbit sibi in sabbatīs **suīs** patiēns sōlitūdinem propter illōs. Ipsī vērō expiābunt prō **peccātīs** **suīs**, eō quod abiēcerint iūdicia **mea** et **lēgēs** meās dēspexerint.
 
@@ -1690,4 +1690,5 @@ Homō, quī maledīxerit Deō suō, portābit peccātum suum;
 
 34 Haec sunt **praecepta**, quae mandāvit Dominus Moȳsī ad fīliōs Isrāēl in monte Sināī.
 
+[abraham]: <Ambiguous Forms.md#abraham>
 [moyses]: <Ambiguous Forms.md#moyses>

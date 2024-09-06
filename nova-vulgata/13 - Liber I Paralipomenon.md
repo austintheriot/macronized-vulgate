@@ -56,9 +56,9 @@
 
 26 Seruch, Nachor, Thare,
 
-27 Abram: iste **est** Abraham.
+27 Abram: iste **est** Ābrahām[\*][abraham].
 
-28 Fīliī autem Abraham: Isaāc et Ismaēl.
+28 Fīliī autem Ābrahām[\*][abraham]: Isaāc et Ismaēl.
 
 29 Et hae generātiōnēs eōrum: prīmōgenitus Ismaēlis Nabaioth et Cēdar et Adbeel et Mabsam,
 
@@ -66,11 +66,11 @@
 
 31 Iethur, Naphis, Cedma; hī sunt fīliī Ismaēlis.
 
-32 Fīliī autem Cetūrae concubīnae Abraham, quōs genuit: Zamrān, Iecsān, Madan, Madiān, Iesboc, Suē. Porrō fīliī Iecsān: **Saba** et Dēdān. Fīliī autem Dēdān: Assurim et Latusim et Loommim.
+32 Fīliī autem Cetūrae concubīnae Ābrahām[\*][abraham], quōs genuit: Zamrān, Iecsān, Madan, Madiān, Iesboc, Suē. Porrō fīliī Iecsān: **Saba** et Dēdān. Fīliī autem Dēdān: Assurim et Latusim et Loommim.
 
 33 Fīliī autem Madian: Epha et Opher et Henoch et Abida et Eldaa. Omnēs hī fīliī Cetūrae.
 
-34 Generāvit autem Abraham Isaāc, cuius fuērunt fīliī Esau et Isrāēl.
+34 Generāvit autem Ābrahām[\*][abraham] Isaāc, cuius fuērunt fīliī Esau et Isrāēl.
 
 35 Fīliī Esau: Eliphaz, Rahuēl, Iehus, Ialam, **Corē**.
 
@@ -1236,7 +1236,7 @@ in **ūniversā** **terrā** iūdicia eius.
 
 sermōnis, quem praecēpit in mīlle generātiōnēs,
 
-16 **pactī**, quod pepigit cum Abraham,
+16 **pactī**, quod pepigit cum Ābrahām[\*][abraham],
 
 et iūrāmentī illīus cum Isaāc.
 
@@ -2020,7 +2020,7 @@ et laudāmus **nōmen** tuum inclitum.
 
 17 Sciō, Deus meus, quod probēs **corda** et simplicitātem dīligās; unde et ego in simplicitāte **cordis** meī laetus obtulī **ūniversa** haec et **populum** tuum, quī **hīc** **repertus** **est**, vīdī cum ingentī gaudiō sponte tibi offerre dōnāria.
 
-18 Domine, Deus Abraham et Isaāc et Isrāēl patrum nostrōrum, cūstōdī in aeternum hanc voluntātem **cordis** eōrum; et semper in venerātiōnem tuī mēns **ista** permaneat.
+18 Domine, Deus Ābrahām[\*][abraham] et Isaāc et Isrāēl patrum nostrōrum, cūstōdī in aeternum hanc voluntātem **cordis** eōrum; et semper in venerātiōnem tuī mēns **ista** permaneat.
 
 19 Salomōnī **quoque** fīliō meō dā cor perfectum, ut cūstōdiat **mandāta** **tua**, testimōnia **tua** et **lēgitima** **tua** et faciat **ūniversa** et aedificet aedem, cuius impēnsās parāvī”.
 
@@ -2046,5 +2046,6 @@ et laudāmus **nōmen** tuum inclitum.
 
 30 ūniversīque rēgnī eius et fortitūdinis et temporum, quae trānsiērunt sub eō sīve in Isrāēl sīve in cūnctīs rēgnīs terrārum.
 
+[abraham]: <Ambiguous Forms.md#abraham>
 [moyses]: <Ambiguous Forms.md#moyses>
 [samuel]: <Ambiguous Forms.md#samuel>

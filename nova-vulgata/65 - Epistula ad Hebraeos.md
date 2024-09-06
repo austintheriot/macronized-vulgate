@@ -302,21 +302,21 @@ ego hodiē genuī tē”;
 
 1 **Hic** enim Melchisedech, rēx Salem, sacerdōs Deī summī, quī ob viāvit Abrahae regressō ā caede rēgum et benedīxit **eī**,
 
-2 cui et decimam omnium dīvīsit Abraham, prīmum quidem, quī interpretātur rēx iūstitiae, deinde autem et rēx Salem, quod **est** rēx **Pācis**,
+2 cui et decimam omnium dīvīsit Ābrahām[\*][abraham], prīmum quidem, quī interpretātur rēx iūstitiae, deinde autem et rēx Salem, quod **est** rēx **Pācis**,
 
 3 **sine** patre, **sine** mātre, **sine** **geneālogiā**, neque initium diērum neque fīnem vītae habēns, assimilātus autem Fīliō Deī, **manet** sacerdōs in perpetuum.
 
-4 Intuēminī autem quantus sit **hic**, cui et decimam **dedit** dē praecipuīs Abraham **patriarcha**.
+4 Intuēminī autem quantus sit **hic**, cui et decimam **dedit** dē praecipuīs Ābrahām[\*][abraham] **patriarcha**.
 
 5 Et illī quidem, quī dē fīliīs **Levī** sacerdōtium accipiunt, mandātum habent decimās **sūmere** ā **populō** secundum lēgem, id **est** ā frātribus **suīs**, quamquam et ipsī exiērunt dē lumbīs Abrahae;
 
-6 **hic** autem, cuius generātiō nōn annumerātur in eīs, decimam sūmpsit ab Abraham et eum, quī habēbat reprōmissiōnēs, benedīxit.
+6 **hic** autem, cuius generātiō nōn annumerātur in eīs, decimam sūmpsit ab Ābrahām[\*][abraham] et eum, quī habēbat reprōmissiōnēs, benedīxit.
 
 7 **Sine** **ūllā** autem contrādictiōne, quod minus **est**, ā meliōre benedīcitur.
 
 8 Et **hīc** quidem decimās morientēs hominēs sūmunt; ibi autem testimōnium accipiēns quia vīvit.
 
-9 Et, ut **ita** dictum sit, per Abraham et **Levī**, quī decimās accipit, decimātus **est**;
+9 Et, ut **ita** dictum sit, per Ābrahām[\*][abraham] et **Levī**, quī decimās accipit, decimātus **est**;
 
 10 adhūc enim in lumbīs patris erat, quandō obviāvit **eī** Melchisedech.
 
@@ -558,7 +558,7 @@ nōn sibi **complacet** in eō **animā** **meā**.
 
 7 **Fīde** Noe, respōnsō acceptō dē hīs, quae adhūc nōn vidēbantur, reveritus aptāvit arcam in salūtem **domūs** suae; per quam damnāvit mundum, et iūstitiae, quae secundum fidem **est**, hērēs **est** īnstitūtus.
 
-8 **Fīdē** **vocātus** Abraham oboedīvit in locum exīre, quem acceptūrus erat in hērēditātem; et exīvit nesciēns quō īret.
+8 **Fīdē** **vocātus** Ābrahām[\*][abraham] oboedīvit in locum exīre, quem acceptūrus erat in hērēditātem; et exīvit nesciēns quō īret.
 
 9 **Fīdē** peregrīnātus **est** in **terrā** prōmissiōnis tamquam in **aliēna**, in casulīs habitandō cum Isaāc et Iācōb, cohērēdibus prōmissiōnis eiusdem;
 
@@ -576,7 +576,7 @@ nōn sibi **complacet** in eō **animā** **meā**.
 
 16 nunc autem meliōrem appetunt, id **est** caelestem. Ideō nōn cōnfunditur Deus vocārī Deus eōrum, parāvit enim illīs cīvitātem.
 
-17 **Fīdē** obtulit Abraham Isaāc, cum tentārētur; et ūnigenitum offerēbat ille, quī suscēperat prōmissiōnēs,
+17 **Fīdē** obtulit Ābrahām[\*][abraham] Isaāc, cum tentārētur; et ūnigenitum offerēbat ille, quī suscēperat prōmissiōnēs,
 
 18 ad quem dictum erat: ”In Isaāc vocābitur tibi sēmen”,
 
@@ -744,5 +744,6 @@ flagellat autem omnem fīlium, quem recipit”.
 
 25 **Grātia** cum omnibus vōbīs.
 
+[abraham]: <Ambiguous Forms.md#abraham>
 [moyses]: <Ambiguous Forms.md#moyses>
 [samuel]: <Ambiguous Forms.md#samuel>

@@ -108,13 +108,13 @@
 
 5 Quī ergō tribuit vōbīs Spīritum et operātur virtūtēs in vōbīs, ex operibus **lēgis** an ex audītū fideī?
 
-6 Sīcut Abraham crēdidit Deō, et reputātum **est** **eī** ad iūstitiam.
+6 Sīcut Ābrahām[\*][abraham] crēdidit Deō, et reputātum **est** **eī** ad iūstitiam.
 
 7 Cognōscitis ergō quia quī ex **fide** sunt, hī sunt fīliī Abrahae.
 
 8 Prōvidēns autem **Scrīptūra**, quia ex **fide** iustificat gentēs Deus, praenūntiāvit Abrahae: “Benedīcentur in tē omnēs gentēs”.
 
-9 Igitur, quī ex **fide** sunt, benedī cuntur cum fidēlī Abraham.
+9 Igitur, quī ex **fide** sunt, benedī cuntur cum fidēlī Ābrahām[\*][abraham].
 
 10 Quīcumque enim ex operibus **lēgis** sunt, sub maledictō sunt; scrīptum **est** enim: ”Maledictus **omnis**, quī nōn permānserit in omnibus, quae **scrīpta** sunt in **librō** **lēgis**, ut faciat **ea**”.
 
@@ -200,7 +200,7 @@
 
 21 Dīcite mihi, quī sub **lēge** vultis **esse**: Lēgem nōn **audītis**?
 
-22 Scrīptum **est** enim quoniam Abraham duōs fīliōs habuit, ūnum dē **ancillā** et ūnum dē **lībera**.
+22 Scrīptum **est** enim quoniam Ābrahām[\*][abraham] duōs fīliōs habuit, ūnum dē **ancillā** et ūnum dē **lībera**.
 
 23 Sed quī dē **ancillā**, secundum carnem **nātus** **est**; quī autem dē **līberā**, per prōmissiōnem.
 
@@ -320,4 +320,4 @@ quia multī fīliī dēsertae
 
 18 **Grātia** Dominī nostrī Iēsū Chrīstī cum spīritū vestrō, frātrēs. Āmēn.
 
-
+[abraham]: <Ambiguous Forms.md#abraham>

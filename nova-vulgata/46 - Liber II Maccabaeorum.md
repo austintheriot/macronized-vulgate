@@ -6,7 +6,7 @@
 
 1 Frātribus, quī sunt per Aegyptum, Iūdaeīs salūtem dīcunt frātrēs, quī sunt in Hierosolymīs Iūdaeī et quī in regiōne Iūdaeae, pācem bonam.
 
-2 Et benefaciat vōbīs Deus et meminerit testāmentī **suī**, quod **locūtus** **est** ad Abraham et Isaāc et Iācōb servōrum suōrum fidēlium;
+2 Et benefaciat vōbīs Deus et meminerit testāmentī **suī**, quod **locūtus** **est** ad Ābrahām[\*][abraham] et Isaāc et Iācōb servōrum suōrum fidēlium;
 
 3 et det vōbīs cor omnibus, ut **colātis** eum et faciātis eius voluntātem **corde** magnō et animō volentī;
 
@@ -1144,4 +1144,5 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 39 Sīcut enim vīnum sōlummodo **bibere**, similiter autem rūrsus et aquam, contrārium **est**, quemadmodum autem vīnum aquae contemperātum iam et dēlectābilem grātiam perficit, huiusmodī etiam **strūctūra** sermōnis dēlectat aurēs eōrum, quibus contingat compositiōnem **legere**. **Hic** autem erit **fīnis**.
 
+[abraham]: <Ambiguous Forms.md#abraham>
 [moyses]: <Ambiguous Forms.md#moyses>

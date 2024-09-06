@@ -2451,7 +2451,7 @@ Fīliōrum Isrāēl, quī ēgressī sunt dē **terrā** Aegyptī, iste **est** n
 
 10 Quī īrātus iūrāvit dīcēns:
 
-11 "Nōn vidēbunt hominēs istī, quī ascendērunt ex Aegyptō, ā vīgintī annīs et suprā, terram, quam sub iūrāmentō pollicitus sum Abraham, Isaāc et Iācōb; nam nōluērunt sequī mē,
+11 "Nōn vidēbunt hominēs istī, quī ascendērunt ex Aegyptō, ā vīgintī annīs et suprā, terram, quam sub iūrāmentō pollicitus sum Ābrahām[\*][abraham], Isaāc et Iācōb; nam nōluērunt sequī mē,
 
 12 praeter Chaleb fīlium Iephonne Cenezaeum et **Ios**ue fīlium Nun: istī secūtī sunt Dominum!".
 
@@ -2789,5 +2789,6 @@ Hanc habēbitis terram per fīnēs suōs in circuitū”.
 
 13 Haec sunt **mandāta** atque iūdicia, quae mandāvit Dominus per **manum** Moȳsī ad fīliōs Isrāēl in campestribus Moab suprā Iordānem contrā Ierichō.
 
+[abraham]: <Ambiguous Forms.md#abraham>
 [moyses]: <Ambiguous Forms.md#moyses>
 [samuel]: <Ambiguous Forms.md#samuel>

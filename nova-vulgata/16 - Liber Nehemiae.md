@@ -486,7 +486,7 @@ et **exercitus** caelī tē adōrat.
 
 et ēdūxistī eum dē Ur Chaldaeōrum
 
-et posuistī **nōmen** eius Abraham.
+et posuistī **nōmen** eius Ābrahām[\*][abraham].
 
 8 Et invēnistī cor eius fidēle **cōram** tē
 
@@ -1066,3 +1066,4 @@ Et prō **hōc** ergō mementō meī, Deus meus, et **parce** mihi secundum mult
 
 31 et prō oblātiōne lignōrum in temporibus cōnstitūtīs et prō prīmitiīs. Mementō meī, Deus meus, in bonum.
 
+[abraham]: <Ambiguous Forms.md#abraham>

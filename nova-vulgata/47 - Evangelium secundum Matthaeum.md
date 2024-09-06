@@ -6,9 +6,9 @@
 
 ## 1
 
-1 **Liber** generātiōnis Iēsū Chrīstī fīliī Dāvīd fīliī Abraham.
+1 **Liber** generātiōnis Iēsū Chrīstī fīliī Dāvīd fīliī Ābrahām[\*][abraham].
 
-2 Abraham genuit Isaāc, Isaāc autem genuit Iācōb, Iācōb autem genuit Iūdam et frātrēs eius,
+2 Ābrahām[\*][abraham] genuit Isaāc, Isaāc autem genuit Iācōb, Iācōb autem genuit Iūdam et frātrēs eius,
 
 3 Iūdās autem genuit Phārēs et Zara dē Thamar, Phārēs autem genuit Esrom, Esrom autem genuit Āram,
 
@@ -40,7 +40,7 @@ Dāvīd autem genuit Salomōnem ex **eā**, quae fuit Uriae,
 
 16 Iācōb autem genuit Ioseph **virum** **Mariae**, dē **quā** **nātus** **est** Iēsūs, quī vocātur Chrīstus.
 
-17 Omnēs ergō generātiōnēs ab Abraham usque ad Dāvīd generātiōnēs quattuordecim; et ā Dāvīd usque ad trānsmigrātiōnem Babylōnis generātiōnēs quattuordecim; et ā trānsmigrātiōne Babylōnis usque ad Chrīstum generātiōnēs quattuordecim.
+17 Omnēs ergō generātiōnēs ab Ābrahām[\*][abraham] usque ad Dāvīd generātiōnēs quattuordecim; et ā Dāvīd usque ad trānsmigrātiōnem Babylōnis generātiōnēs quattuordecim; et ā trānsmigrātiōne Babylōnis usque ad Chrīstum generātiōnēs quattuordecim.
 
 18 Iēsū Chrīstī autem generātiō sīc erat.
 
@@ -146,7 +146,7 @@ rēctās facite sēmitās eius!"”.
 
 8 Facite ergō frūctum dignum paenitentiae
 
-9 et nē **vēlitis** **dīcere** intrā vōs: “Patrem habēmus Abraham”; **dīcō** enim vōbīs quoniam potest Deus dē lapidibus istīs suscitāre Abrahae fīliōs.
+9 et nē **vēlitis** **dīcere** intrā vōs: “Patrem habēmus Ābrahām[\*][abraham]”; **dīcō** enim vōbīs quoniam potest Deus dē lapidibus istīs suscitāre Abrahae fīliōs.
 
 10 Iam enim **secūrīs** ad rādīcem arborum **posita** **est**; **omnis** ergō arbor, quae nōn facit frūctum bonum, **exciditur** et in ignem mittitur.
 
@@ -508,7 +508,7 @@ sed **līberā** nōs ā **Malō**.
 
 10 Audiēns autem Iēsūs, mīrātus **est** et sequentibus sē dīxit: “Āmēn **dīcō** vōbīs: Apud nūllum **invēnī** tantam fidem in Isrāēl!
 
-11 **Dīcō** autem vōbīs quod multī ab oriente et **occidente** venient et recumbent cum Abraham et Isaāc et Iācōb in rēgnō caelōrum;
+11 **Dīcō** autem vōbīs quod multī ab oriente et **occidente** venient et recumbent cum Ābrahām[\*][abraham] et Isaāc et Iācōb in rēgnō caelōrum;
 
 12 fīliī autem rēgnī ēicientur in tenebrās exteriōrēs: ibi erit **flētus** et strīdor dentium”.
 
@@ -1702,7 +1702,7 @@ et **est** mīrābile in oculīs nostrīs" ?
 
 31 Dē resurrēctiōne autem mortuōrum nōn lēgistis, quod dictum **est** vōbīs ā Deō dīcente:
 
-32 “Ego sum Deus Abraham et Deus Isaāc et Deus Iācōb”? Nōn **est** Deus mortuōrum sed vīventium”.
+32 “Ego sum Deus Ābrahām[\*][abraham] et Deus Isaāc et Deus Iācōb”? Nōn **est** Deus mortuōrum sed vīventium”.
 
 33 Et audientēs turbae mīrābantur in **doctrīnā** eius.
 
@@ -2340,4 +2340,5 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 20 docentēs eōs servāre omnia, quaecumque mandāvī vōbīs. Et ecce ego vōbīscum sum omnibus diēbus usque ad cōnsummātiōnem saeculī”.
 
+[abraham]: <Ambiguous Forms.md#abraham>
 [moyses]: <Ambiguous Forms.md#moyses>

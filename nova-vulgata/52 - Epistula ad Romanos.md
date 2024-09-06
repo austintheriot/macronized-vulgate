@@ -202,11 +202,11 @@ venēnum aspidum sub labiīs eōrum,
 
 ## 4
 
-1 Quid ergō **dicēmus** invēnisse Abraham prōgenitōrem nō strum secundum carnem?
+1 Quid ergō **dicēmus** invēnisse Ābrahām[\*][abraham] prōgenitōrem nō strum secundum carnem?
 
-2 Sī enim Abraham ex operibus **iustificātus** **est**, habet glōriam sed nōn apud Deum.
+2 Sī enim Ābrahām[\*][abraham] ex operibus **iustificātus** **est**, habet glōriam sed nōn apud Deum.
 
-3 Quid enim **Scrīptūra** dīcit? ”Crēdidit autem Abraham Deō, et reputātum **est** illī ad iūstitiam”.
+3 Quid enim **Scrīptūra** dīcit? ”Crēdidit autem Ābrahām[\*][abraham] Deō, et reputātum **est** illī ad iūstitiam”.
 
 4 **Ēī** autem, quī operātur, mercēs nōn reputātur secundum grātiam sed secundum dēbitum;
 
@@ -628,7 +628,7 @@ per gentem īnsipientem ad īram vōs prōvocābō”.
 
 ## 11
 
-1 **Dīcō** ergō: Numquid repulit Deus **populum** suum? Absit! Nam et ego Israelitā sum, ex sēmine Abraham, tribū Beniamin.
+1 **Dīcō** ergō: Numquid repulit Deus **populum** suum? Absit! Nam et ego Israelitā sum, ex sēmine Ābrahām[\*][abraham], tribū Beniamin.
 
 2 Nōn reppulit Deus plēbem suam, quam praescīvit. An **nescītis** in **Eliā** quid dīcit **Scrīptūra**? Quemadmodum interpellat Deum adversus Isrāēl:
 
@@ -992,4 +992,5 @@ et, quī nōn audiērunt, intellegent”.
 
 27 **sōlī** sapientī Deō per Iēsum Chrīstum, cui **glōria** in saecula. Āmēn.
 
+[abraham]: <Ambiguous Forms.md#abraham>
 [moyses]: <Ambiguous Forms.md#moyses>

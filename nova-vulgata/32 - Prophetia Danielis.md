@@ -280,7 +280,7 @@ et nē dissipēs testāmentum tuum
 
 35 neque auferās misericordiam tuam ā nōbīs
 
-propter Abraham dīlēctum tuum
+propter Ābrahām[\*][abraham] dīlēctum tuum
 
 et Isaāc servum tuum
 
@@ -1472,4 +1472,4 @@ Quī ait: ”Sub prīnō”.
 
 42 Porrō illōs, quī perditiōnis eius **causā** fuerant, intrōmīsit in lacum; et dēvorātī sunt in mōmentō **cōram** eō.
 
-
+[abraham]: <Ambiguous Forms.md#abraham>

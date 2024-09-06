@@ -873,7 +873,7 @@ Et dīxit Dominus:
 
 6 ait: ”Domine, Deus patrum nostrōrum, tū **es** Deus in caelō et **domināris** cūnctīs rēgnīs gentium; in manū **tuā** **est** fortitūdō et **potentia**, nec quisquam tibi potest **resistere**.
 
-7 **Nōnne** tū, Deus noster, expulistī habitātōrēs terrae huius **cōram** **populō** tuō Isrāēl et dedistī eam sēminī Abraham **amīcī** tuī in sempiternum?
+7 **Nōnne** tū, Deus noster, expulistī habitātōrēs terrae huius **cōram** **populō** tuō Isrāēl et dedistī eam sēminī Ābrahām[\*][abraham] **amīcī** tuī in sempiternum?
 
 8 Habitāvēruntque in **eā** et exstrūxērunt in **illa** sānctuārium nōminī tuō dīcentēs:
 
@@ -1375,7 +1375,7 @@ Restitūtus **est** **ita** **cultūs** **domūs** Dominī.
 
 5 et dēcrēvērunt, ut mitterent nūntiōs in ūniversum Isrāēl dē Bersabee usque **Dān**, ut venīrent et facerent **Pascha** Dominō, Deō Isrāēl, in Ierusālem; in **plūrimā** enim multitūdine nōn fēcerant, sīcut **lēge** praescrīptum **est**.
 
-6 Perrēxēruntque cursōrēs cum epistulīs ex **rēgis** manū et prīncipum eius in ūniversum Isrāēl et Iūdam, iuxtā quod rēx iusserat, praedicantēs: ”Fīliī Isrāēl, revertiminī ad Dominum, Deum Abraham et Isaāc et Isrāēl, ut revertātur ad reliquiās, quae effūgērunt **manum** rēgum Assyriōrum.
+6 Perrēxēruntque cursōrēs cum epistulīs ex **rēgis** manū et prīncipum eius in ūniversum Isrāēl et Iūdam, iuxtā quod rēx iusserat, praedicantēs: ”Fīliī Isrāēl, revertiminī ad Dominum, Deum Ābrahām[\*][abraham] et Isaāc et Isrāēl, ut revertātur ad reliquiās, quae effūgērunt **manum** rēgum Assyriōrum.
 
 7 Nōlīte fierī sīcut patrēs vestrī et frātrēs, quī recessērunt ā Dominō, Deō patrum suōrum, et trādidit eōs in interitum, ut ipsī cernitis.
 
@@ -1757,5 +1757,6 @@ Rettulēruntque itaque **rēgī** **cūncta**, quae dīxerat.
 
 23 ”Haec dīcit Cȳrus rēx Persārum: Omnia **rēgna** terrae **dēdit** mihi Dominus, Deus caelī, et ipse praecēpit mihi, ut aedificārem **eī** domum in Ierusālem, quae **est** in **Iūdaeā**. **Quis** ex vōbīs **est** dē omnī **populō** eius? Sit Dominus Deus suus cum eō, et ascendat”.
 
+[abraham]: <Ambiguous Forms.md#abraham>
 [moyses]: <Ambiguous Forms.md#moyses>
 [samuel]: <Ambiguous Forms.md#samuel>

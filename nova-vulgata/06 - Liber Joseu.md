@@ -1084,9 +1084,9 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 1 Congregāvitque **Ios**ue omnēs **tribus** Isrāēl in Sichem et vocāvit maiōrēs nātū ac prīncipēs et iūdicēs et praefectōs, stetēruntque in cōnspectū Deī;
 
-2 et ad **tōtum** **populum** sīc **locūtus** **est**: ”Haec dīcit Dominus, Deus Isrāēl: Trāns fluvium habitāvērunt patrēs vestrī ab initiō, Tharē pater Abraham et Nachor, serviēruntque dīīs aliēnīs.
+2 et ad **tōtum** **populum** sīc **locūtus** **est**: ”Haec dīcit Dominus, Deus Isrāēl: Trāns fluvium habitāvērunt patrēs vestrī ab initiō, Tharē pater Ābrahām[\*][abraham] et Nachor, serviēruntque dīīs aliēnīs.
 
-3 Tulī ergō patrem vestrum Abraham dē Mesopotamiae fīnibus et addūxī eum per **tōtam** terram Chanaan multiplicāvīque sēmen eius.
+3 Tulī ergō patrem vestrum Ābrahām[\*][abraham] dē Mesopotamiae fīnibus et addūxī eum per **tōtam** terram Chanaan multiplicāvīque sēmen eius.
 
 4 Et **dedī** **eī** Isaāc illiquē rūrsum **dedī** Iācōb et Esau; ē quibus Esau **dedī** montem Seir ad **possidendum**, Iācōb vērō et fīliī eius dēscendērunt in Aegyptum.
 
@@ -1148,4 +1148,5 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 33 Eleazar **quoque** fīlius Aarōn mortuus **est**; et sepeliērunt eum in Gabaā Phineēs fīliī eius, quae **data** **est** **eī** in monte Ephraim.
 
+[abraham]: <Ambiguous Forms.md#abraham>
 [moyses]: <Ambiguous Forms.md#moyses>

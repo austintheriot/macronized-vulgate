@@ -3424,7 +3424,7 @@ Deus **sedet** super sēdem sānctam suam.
 
 10 Prīncipēs **populōrum** congregātī sunt
 
-cum **populō** Deī Abraham,
+cum **populō** Deī Ābrahām[\*][abraham],
 
 quoniam Deī sunt **scūta** terrae:
 
@@ -8048,7 +8048,7 @@ quaerite faciem eius semper.
 
 prōdigia eius et iūdicia **ōris** eius,
 
-6 sēmen Abraham, servī eius,
+6 sēmen Ābrahām[\*][abraham], servī eius,
 
 fīliī Iācōb[\*][jacob], ēlēctī eius.
 
@@ -8060,7 +8060,7 @@ in **ūniversā** **terrā** iūdicia eius.
 
 verbī, quod mandāvit in mīlle generātiōnēs,
 
-9 quod disposuit cum Abraham,
+9 quod disposuit cum Ābrahām[\*][abraham],
 
 et iūrāmentī **suī** ad Isaāc.
 
@@ -8194,7 +8194,7 @@ abiērunt in siccō flūmina.
 
 42 Quoniam memor fuit verbī sānctī **suī**
 
-ad Abraham puerum suum.
+ad Ābrahām[\*][abraham] puerum suum.
 
 43 Et ēdūxit **populum** suum in exsultātiōne,
 
@@ -11638,6 +11638,7 @@ omne quod spīrat, laudet Dominum. ALLĒLŪIA
 
 [^1] "Mut labben" - vowel length uncertain
 
+[abraham]: <Ambiguous Forms.md#abraham>
 [jacob]: <Ambiguous Forms.md#jacob>
 [moyses]: <Ambiguous Forms.md#moyses>
 [samuel]: <Ambiguous Forms.md#samuel>

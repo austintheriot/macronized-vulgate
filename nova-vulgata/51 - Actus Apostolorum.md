@@ -218,7 +218,7 @@ replēbis mē iūcunditāte cum faciē tuā”.
 
 12 Vidēns autem Petrus respondit ad populum: “Virī Isrāēlītae, quid mīrāminī in hōc aut nōs quid intuēminī, quasi nostrā virtūte aut pietāte fēcerīmus hunc ambulāre?
 
-13 Deus Abraham et Deus Isaāc et Deus Iācōb[\*][jacob], Deus patrum nostrōrum, glōrificāvit puerum suum Iēsum, quem vōs quidem trādidistis et negāstis ante faciem Pīlātī, iūdicante illō dīmittī;
+13 Deus Ābrahām[\*][abraham] et Deus Isaāc et Deus Iācōb[\*][jacob], Deus patrum nostrōrum, glōrificāvit puerum suum Iēsum, quem vōs quidem trādidistis et negāstis ante faciem Pīlātī, iūdicante illō dīmittī;
 
 14 vōs autem Sānctum et Iūstum negāstis et petīstis virum homicīdam dōnārī vōbīs,
 
@@ -242,7 +242,7 @@ replēbis mē iūcunditāte cum faciē tuā”.
 
 24 Et omnēs prophētae ā Samuēl[\*][samuel] et deinceps quotquot locūtī sunt, etiam annūntiāvērunt diēs istōs.
 
-25 Vōs estis fīliī prophētārum et testāmentī, quod disposuit Deus ad patrēs vestrōs dīcēns ad Abraham: “Et in sēmine tuō benedīcentur omnēs familiae terrae”.
+25 Vōs estis fīliī prophētārum et testāmentī, quod disposuit Deus ad patrēs vestrōs dīcēns ad Ābrahām[\*][abraham]: “Et in sēmine tuō benedīcentur omnēs familiae terrae”.
 
 26 Vōbīs prīmum Deus suscitāns Puerum suum, mīsit eum benedīcentem vōbīs in āvertendō ūnumquemque ā nēquitiīs vestrīs”.
 
@@ -458,7 +458,7 @@ Cōnsēnsērunt autem illī
 
 1 Dīxit autem prīnceps sacerdō tum: “Sī haec **ita** sē habent?”.
 
-2 Quī ait: “**Virī** frātrēs et patrēs, **audīte**. Deus glōriae appāruit patrī nostrō Abraham, cum **esset** in **Mesopotamiā**, priusquam **morārētur** in Charrān,
+2 Quī ait: “**Virī** frātrēs et patrēs, **audīte**. Deus glōriae appāruit patrī nostrō Ābrahām[\*][abraham], cum **esset** in **Mesopotamiā**, priusquam **morārētur** in Charrān,
 
 3 et dīxit ad illum: “Exī dē **terrā** **tuā** et dē cognātiōne **tuā** et **vēnī** in terram, quam tibi mōnstrāverō”.
 
@@ -486,7 +486,7 @@ Cōnsēnsērunt autem illī
 
 15 et dēscendit Iācōb[\*][jacob] in Aegyptum. Et **dēfūnctus** **est** ipse et patrēs nostrī;
 
-16 et trānslātī sunt in Sichem et positī sunt in sepulcrō, quod **emit** Abraham pretiō argentī ā fīliīs Hemmor in Sichem.
+16 et trānslātī sunt in Sichem et positī sunt in sepulcrō, quod **emit** Ābrahām[\*][abraham] pretiō argentī ā fīliīs Hemmor in Sichem.
 
 17 Cum appropinquāret autem tempus reprōmissiōnis, quam cōnfessus erat Deus Abrahae, crēvit **populus** et multiplicātus **est** in Aegyptō,
 
@@ -518,7 +518,7 @@ Cōnsēnsērunt autem illī
 
 31 Moȳsēs[\*][moyses] autem vidēns admīrābātur vīsum; accēdente autem illō, ut cōnsīderāret, **facta** **est** vōx Dominī:
 
-32 “Ego Deus patrum tuōrum, Deus Abraham et Isaāc et Iācōb[\*][jacob]”. Tremefactus autem Moȳsēs[\*][moyses] nōn audēbat cōnsīderāre.
+32 “Ego Deus patrum tuōrum, Deus Ābrahām[\*][abraham] et Isaāc et Iācōb[\*][jacob]”. Tremefactus autem Moȳsēs[\*][moyses] nōn audēbat cōnsīderāre.
 
 33 Dīxit autem illī Dominus: “Solve calceāmentum pedum tuōrum; locus enim, in quō stās, **terrā** **sānctā** **est**.
 
@@ -1038,7 +1038,7 @@ Sequentī autem **diē**, surgēns **profectus** **est** cum eīs, et quīdam ex
 
 25 Cum implēret autem Iōannēs cursum suum, dīcēbat: “Quid mē arbitrāminī **esse**? Nōn sum ego; sed ecce **venit** post mē, cuius nōn sum dignus calceāmenta pedum **solvere**”.
 
-26 **Virī** frātrēs, fīliī **generis** Abraham et quī in vōbīs timent Deum, nōbīs verbum **salūtis** huius missum **est**.
+26 **Virī** frātrēs, fīliī **generis** Ābrahām[\*][abraham] et quī in vōbīs timent Deum, nōbīs verbum **salūtis** huius missum **est**.
 
 27 Quī enim habitābant Ierūsalēm et prīncipēs eōrum, hunc ignōrantēs et **vōcēs** Prophētārum, quae per omne sabbatum leguntur, iūdicantēs implēvērunt;
 
@@ -2186,6 +2186,7 @@ et sānābō illōs”.
 
 [1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27) [28](#28)
 
+[abraham]: <Ambiguous Forms.md#abraham>
 [andreas]: <Ambiguous Forms.md#andreas>
 [fere]: <Ambiguous Forms.md#fere>
 [galilaea]: <Ambiguous Forms.md#galilaea>

@@ -1016,7 +1016,7 @@ et **est** mīrābile in oculīs nostrīs”?”.
 
 25 Cum enim ā mortuīs resurrēxerint, neque nūbent neque nūbentur, sed sunt sīcut angelī in caelīs.
 
-26 Dē mortuīs autem quod resurgant, nōn lēgistis in **librō** Moysis super rubum, quōmodo dīxerit illī Deus inquiēns: “Ego sum Deus Abraham et Deus Isaāc et Deus Iācōb”?
+26 Dē mortuīs autem quod resurgant, nōn lēgistis in **librō** Moysis super rubum, quōmodo dīxerit illī Deus inquiēns: “Ego sum Deus Ābrahām[\*][abraham] et Deus Isaāc et Deus Iācōb”?
 
 27 Nōn **est** Deus mortuōrum sed vīvōrum! Multum **errātis**”.
 
@@ -1418,4 +1418,5 @@ sinistrīs eius.
 
 20 Illī autem **profectī** praedicāvērunt ubīque, Dominō cooperante et sermōnem cōnfirmante, sequentibus signīs.
 
+[abraham]: <Ambiguous Forms.md#abraham>
 [moyses]: <Ambiguous Forms.md#moyses>

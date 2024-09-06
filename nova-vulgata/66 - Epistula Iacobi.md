@@ -100,11 +100,11 @@
 
 20 Vīs autem scīre, ō homō **inānis**, quoniam **fidēs** **sine** operibus **ōtiōsa** **est**?
 
-21 Abraham, pater noster, **nōnne** ex operibus **iustificātus** **est** offerēns Isaāc fīlium suum super altāre?
+21 Ābrahām[\*][abraham], pater noster, **nōnne** ex operibus **iustificātus** **est** offerēns Isaāc fīlium suum super altāre?
 
 22 Vidēs quoniam **fidēs** cooperābātur operibus illīus, et ex operibus **fidēs** **cōnsummāta** **est**;
 
-23 et **supplēta** **est** **Scrīptūra** dīcēns: ”Crēdidit Abraham Deō, et reputātum **est** illī ad iūstitiam”, et amīcus Deī appellātus **est**.
+23 et **supplēta** **est** **Scrīptūra** dīcēns: ”Crēdidit Ābrahām[\*][abraham] Deō, et reputātum **est** illī ad iūstitiam”, et amīcus Deī appellātus **est**.
 
 24 Vidētis quoniam ex operibus iustificātur homō et nōn ex **fide** tantum.
 
@@ -234,4 +234,4 @@ humilibus autem dat grātiam”.
 
 20 scīre dēbet quoniam, quī convertī fēcerit peccātōrem ab errōre viae eius, salvābit animam suam ā morte et operiet multitūdinem peccātōrum.
 
-
+[abraham]: <Ambiguous Forms.md#abraham>

@@ -955,7 +955,7 @@ et ē regiōne ūniversōrum frātrum suōrum fīget tabernācula”.
 
 4 Dīxitque eī Deus: “Ecce pactum meum tēcum. Erisque pater multārum gentium,
 
-5 nec ultrā vocābitur nōmen tuum Abram, sed Abraham erit nōmen tuum, quia patrem multārum gentium cōnstituī tē.
+5 nec ultrā vocābitur nōmen tuum Abram, sed Ābrahām[\*][abraham] erit nōmen tuum, quia patrem multārum gentium cōnstituī tē.
 
 6 Faciamque tē crēscere vehementissimē et pōnam tē in gentēs; rēgēsque ex tē ēgredientur.
 
@@ -963,7 +963,7 @@ et ē regiōne ūniversōrum frātrum suōrum fīget tabernācula”.
 
 8 Dabōque tibi et sēminī tuō post tē terram peregrīnātiōnis tuae, omnem terram Chanaan in possessiōnem aeternam; erōque Deus eōrum”.
 
-9 Dīxit iterum Deus ad Abraham: “Tū autem pactum meum cūstōdiēs, et sēmen tuum post tē in generātiōnibus suīs.
+9 Dīxit iterum Deus ad Ābrahām[\*][abraham]: “Tū autem pactum meum cūstōdiēs, et sēmen tuum post tē in generātiōnibus suīs.
 
 10 Hoc est pactum meum, quod observābitis, inter mē et vōs et sēmen tuum post tē. Circumcīdētur ex vōbīs omne masculīnum,
 
@@ -973,11 +973,11 @@ et ē regiōne ūniversōrum frātrum suōrum fīget tabernācula”.
 
 13 Circumcīdētur vernāculus et ēmptīcius, eritque pactum meum in carne vestrā in foedus aeternum. 14 Masculus, cujus praepūtiī carō circumcīsa nōn fuerit, dēlēbitur anima illa dē populō suō; pactum meum irritum fēcit”.
 
-15 Dīxit quoque Deus ad Abraham: “Sarāī uxōrem tuam nōn vocābis nōmen ejus Sarāī, sed Sarā erit nōmen ejus.
+15 Dīxit quoque Deus ad Ābrahām[\*][abraham]: “Sarāī uxōrem tuam nōn vocābis nōmen ejus Sarāī, sed Sarā erit nōmen ejus.
 
 16 Et benedīcam eī; et ex illā quoque dabō tibi fīlium. Benedictūrus sum eam, eritque in nātiōnēs; rēgēs populōrum orientur ex eā”.
 
-17 Cecidit Abraham in faciem suam et rīsit dīcēns in corde suō: “Putāsne centēnāriō nāscētur fīlius? Et Sarā nōnāgēnāriā pariet?”.
+17 Cecidit Ābrahām[\*][abraham] in faciem suam et rīsit dīcēns in corde suō: “Putāsne centēnāriō nāscētur fīlius? Et Sarā nōnāgēnāriā pariet?”.
 
 18 Dīxitque ad Deum: “Utinam Ismaēl vīvat cōram tē”.
 
@@ -987,15 +987,15 @@ et ē regiōne ūniversōrum frātrum suōrum fīget tabernācula”.
 
 21 Pactum vērō meum statuam ad Isaāc, quem pariet tibi Sarā tempore istō in annō alterō”.
 
-22 Cumque cessāsset loquī cum eō, ascendit Deus ab Abraham.
+22 Cumque cessāsset loquī cum eō, ascendit Deus ab Ābrahām[\*][abraham].
 
-23 Tulit ergō Abraham Ismaēl fīlium suum et omnēs vernāculōs domūs suae ūniversōsque, quōs ēmerat: cūnctōs marēs ex omnibus virīs domūs suae; et circumcīdit carnem praepūtiī eōrum statim in ipsā diē, sīcut praecēperat eī Deus.
+23 Tulit ergō Ābrahām[\*][abraham] Ismaēl fīlium suum et omnēs vernāculōs domūs suae ūniversōsque, quōs ēmerat: cūnctōs marēs ex omnibus virīs domūs suae; et circumcīdit carnem praepūtiī eōrum statim in ipsā diē, sīcut praecēperat eī Deus.
 
-24 Abraham nōnāgintā novem erat annōrum, quandō circumcīsus est in carne praepūtiī suī;
+24 Ābrahām[\*][abraham] nōnāgintā novem erat annōrum, quandō circumcīsus est in carne praepūtiī suī;
 
 25 et Ismaēl fīlius ejus tredecim annōs implēverat tempore circumcīsiōnis suae.
 
-26 Eādem diē circumcīsus est Abraham et Ismaēl fīlius ejus;
+26 Eādem diē circumcīsus est Ābrahām[\*][abraham] et Ismaēl fīlius ejus;
 
 27 et omnēs virī domūs illīus, tam vernāculī quam ēmptīciī ex aliēnigenīs, circumcīsī sunt cum eō.
 
@@ -1011,7 +1011,7 @@ et ē regiōne ūniversōrum frātrum suōrum fīget tabernācula”.
 
 5 Pōnamque buccellam pānis, et cōnfortāte cor vestrum, posteā trānsībitis; idcircō enim dēclīnāstis ad servum vestrum”. Quī dīxērunt: “Fac ut locūtus es”.
 
-6 Festīnāvit Abraham in tabernāculum ad Saram dīxitque: “Accelerā, tria sata similae commiscē et fac subcinerīciōs pānēs”.
+6 Festīnāvit Ābrahām[\*][abraham] in tabernāculum ad Saram dīxitque: “Accelerā, tria sata similae commiscē et fac subcinerīciōs pānēs”.
 
 7 Ipse vērō ad armentum cucurrit et tulit inde vitulum tenerrimum et optimum deditque puerō; quī festīnāvit et coxit illum.
 
@@ -1025,25 +1025,25 @@ et ē regiōne ūniversōrum frātrum suōrum fīget tabernācula”.
 
 12 Quae rīsit occultē dīcēns: “Postquam cōnsenuī, et dominus meus vetulus est, voluptās mihi erit?”.
 
-13 Dīxit autem Dominus ad Abraham: “Quārē rīsit Sarā dīcēns: "Num vērē paritūra sum anus?"”.
+13 Dīxit autem Dominus ad Ābrahām[\*][abraham]: “Quārē rīsit Sarā dīcēns: "Num vērē paritūra sum anus?"”.
 
 14 Numquid Dominō est quidquam difficile? Revertar ad tē hōc eōdem tempore, et habēbit Sarā fīlium”.
 
 15 Negāvit Sarā dīcēns: “Nōn rīsī”, timōre perterrita. Ille autem dīxit: “Nōn; sed rīsistī”.
 
-16 Cum ergō surrēxissent inde virī, dīrēxērunt oculōs contrā Sodomam; et Abraham simul gradiēbātur dēdūcēns eōs.
+16 Cum ergō surrēxissent inde virī, dīrēxērunt oculōs contrā Sodomam; et Ābrahām[\*][abraham] simul gradiēbātur dēdūcēns eōs.
 
-17 Dīxitque Dominus: “Num cēlāre poterō Abraham, quae gestūrus sum,
+17 Dīxitque Dominus: “Num cēlāre poterō Ābrahām[\*][abraham], quae gestūrus sum,
 
 18 cum futūrus sit in gentem magnam ac rōbustissimam, et benedīcendae sint in illō omnēs nātiōnēs terrae?
 
-19 Nam ēlēgī eum, ut praecipiat fīliīs suīs et domuī suae post sē, ut cūstōdiant viam Dominī et faciant jūstitiam et jūdicium, ut addūcat Dominus super Abraham omnia, quae locūtus est ad eum”.
+19 Nam ēlēgī eum, ut praecipiat fīliīs suīs et domuī suae post sē, ut cūstōdiant viam Dominī et faciant jūstitiam et jūdicium, ut addūcat Dominus super Ābrahām[\*][abraham] omnia, quae locūtus est ad eum”.
 
 20 Dīxit itaque Dominus: “Clāmor contrā Sodomam et Gomorram multiplicātus est, et peccātum eōrum aggravātum est nimis.
 
 21 Dēscendam et vidēbō utrum clāmōrem, quī venit ad mē, opere complēverint an nōn; sciam”.
 
-22 Convertēruntque sē inde virī et abiērunt Sodomam; Abraham vērō adhūc stābat cōram Dominō.
+22 Convertēruntque sē inde virī et abiērunt Sodomam; Ābrahām[\*][abraham] vērō adhūc stābat cōram Dominō.
 
 23 Et appropinquāns ait: “Numquid vērē perdēs jūstum cum impiō?
 
@@ -1053,7 +1053,7 @@ et ē regiōne ūniversōrum frātrum suōrum fīget tabernācula”.
 
 26 Dīxitque Dominus: “Sī invēnerō Sodomae quīnquāgintā jūstōs in mediō cīvitātis, dīmittam omnī locō propter eōs”.
 
-27 Respondēnsque Abraham ait: “Ecce coepī loquī ad Dominum meum, cum sim pulvis et cinis.
+27 Respondēnsque Ābrahām[\*][abraham] ait: “Ecce coepī loquī ad Dominum meum, cum sim pulvis et cinis.
 
 28 Quid, sī forte minus quīnquāgintā jūstīs quīnque fuerint? Dēlēbis propter quīnque ūniversam urbem?”. Et ait: “Nōn dēlēbō, sī invēnerō ibi quadrāgintā quīnque”.
 
@@ -1065,7 +1065,7 @@ et ē regiōne ūniversōrum frātrum suōrum fīget tabernācula”.
 
 32 “Obsecrō, inquit, nē īrāscātur Dominus meus, sī loquar adhūc semel. Sī forte inventī fuerint ibi decem?”. Dīxit: “Nōn dēlēbō propter decem”.
 
-33 Abiit Dominus, postquam cessāvit loquī ad Abraham; et ille reversus est in locum suum.
+33 Abiit Dominus, postquam cessāvit loquī ad Ābrahām[\*][abraham]; et ille reversus est in locum suum.
 
 ## 19
 
@@ -1121,7 +1121,7 @@ et ē regiōne ūniversōrum frātrum suōrum fīget tabernācula”.
 
 26 Respiciēnsque uxor ejus post sē versa est in statuam salis.
 
-27 Abraham autem cōnsurgēns māne vēnit ad locum, ubi steterat prius cum Dominō,
+27 Ābrahām[\*][abraham] autem cōnsurgēns māne vēnit ad locum, ubi steterat prius cum Dominō,
 
 28 intuitus est Sodomam et Gomorram et ūniversam terram regiōnis illīus; vīditque ascendentem favīllam dē terrā quasi fornācis fūmum.
 
@@ -1147,7 +1147,7 @@ et ē regiōne ūniversōrum frātrum suōrum fīget tabernācula”.
 
 ## 20
 
-1 Prōfectus inde Abraham in terram Nageb, habitāvit inter Cadēs et Sur et peregrīnātus est in Gerāris.
+1 Prōfectus inde Ābrahām[\*][abraham] in terram Nageb, habitāvit inter Cadēs et Sur et peregrīnātus est in Gerāris.
 
 2 Dīxitque dē Sarā uxōre suā: “Soror mea est”. Mīsit ergō Abimelech rēx Gerarae et tulit eam.
 
@@ -1163,25 +1163,25 @@ et ē regiōne ūniversōrum frātrum suōrum fīget tabernācula”.
 
 8 Statimque dē nocte cōnsurgēns Abimelech vocāvit omnēs servōs suōs et locūtus est ūniversa verba haec in auribus eōrum; timuēruntque virī valdē.
 
-9 Vocāvit autem Abimelech etiam Abraham et dīxit eī: “Quid fēcistī nōbīs? Quid peccāvī in tē, quia indūxistī super mē et super rēgnum meum peccātum grande? Quae nōn dēbuistī facere, fēcistī mihi”.
+9 Vocāvit autem Abimelech etiam Ābrahām[\*][abraham] et dīxit eī: “Quid fēcistī nōbīs? Quid peccāvī in tē, quia indūxistī super mē et super rēgnum meum peccātum grande? Quae nōn dēbuistī facere, fēcistī mihi”.
 
 10 Rūrsusque ait: “Quid vīdistī, ut hoc facerēs?”.
 
-11 Respondit Abraham: ”Cōgitāvī mēcum: Certē nōn est timor Deī in locō istō, et interficient mē propter uxōrem meam.
+11 Respondit Ābrahām[\*][abraham]: ”Cōgitāvī mēcum: Certē nōn est timor Deī in locō istō, et interficient mē propter uxōrem meam.
 
 12 Aliās autem et vērē soror mea est, fīlia patris meī et nōn fīlia mātris meae, et dūxī eam in uxōrem.
 
 13 Cum autem vagārī mē faceret Deus dē domō patris meī, dīxī ad eam: Hanc misericordiam faciēs mēcum: in omnī locō, ad quem ingrediēmur, dīcēs quod frāter tuus sim”.
 
-14 Tulit igitur Abimelech ovēs et bovēs et servōs et ancillās et dedit Abraham; reddiditque illī Saram uxōrem suam
+14 Tulit igitur Abimelech ovēs et bovēs et servōs et ancillās et dedit Ābrahām[\*][abraham]; reddiditque illī Saram uxōrem suam
 
 15 et ait: “Ecce terra mea cōram tē; ubicumque tibi placuerit, habitā”.
 
 16 Sarae autem dīxit: “Ecce mīlle argenteōs dedī frātrī tuō; ecce hoc erit tibi in vēlāmen oculōrum ad omnēs, quī tēcum sunt, et apud omnēs justificāberis”.
 
-17 Ōrante autem Abraham, sānāvit Deus Abimelech et uxōrem ancillāsque ejus et peperērunt;
+17 Ōrante autem Ābrahām[\*][abraham], sānāvit Deus Abimelech et uxōrem ancillāsque ejus et peperērunt;
 
-18 conclūserat enim Dominus omnem vulvam domūs Abimelech propter Saram uxōrem Abraham.
+18 conclūserat enim Dominus omnem vulvam domūs Abimelech propter Saram uxōrem Ābrahām[\*][abraham].
 
 ## 21
 
@@ -1189,11 +1189,11 @@ et ē regiōne ūniversōrum frātrum suōrum fīget tabernācula”.
 
 2 concēpitque et peperit Abrahae fīlium in senectūte ejus tempore, quō praedīxerat eī Deus.
 
-3 Vocāvitque Abraham nōmen fīliī suī, quem genuit eī Sarā, Isaāc
+3 Vocāvitque Ābrahām[\*][abraham] nōmen fīliī suī, quem genuit eī Sarā, Isaāc
 
 4 et circumcīdit eum octāvō diē, sīcut praecēperat eī Deus.
 
-5 Cum Abraham centum esset annōrum, nātus est eī Isaāc fīlius ejus.
+5 Cum Ābrahām[\*][abraham] centum esset annōrum, nātus est eī Isaāc fīlius ejus.
 
 6 Dīxitque Sarā:
 
@@ -1203,7 +1203,7 @@ quīcumque audierit, corrīdēbit mihi ?.
 
 7 Rūrsumque ait:
 
-“Quis audītūrum crēderet Abraham
+“Quis audītūrum crēderet Ābrahām[\*][abraham]
 
 quod Sarā lactāret fīliōs,
 
@@ -1211,19 +1211,19 @@ quia peperit eī fīlium
 
 jam senī?”.
 
-8 Crēvit igitur puer et ablactātus est. Fēcitque Abraham grande convīvium in diē ablactātiōnis ejus.
+8 Crēvit igitur puer et ablactātus est. Fēcitque Ābrahām[\*][abraham] grande convīvium in diē ablactātiōnis ejus.
 
-9 Cumque vīdisset Sarā fīlium Agar Aegyptiae jocantem cum Isaāc fīliō suō, dīxit ad Abraham:
+9 Cumque vīdisset Sarā fīlium Agar Aegyptiae jocantem cum Isaāc fīliō suō, dīxit ad Ābrahām[\*][abraham]:
 
 10 “Ēice ancillam hanc et fīlium ejus; nōn enim erit hērēs fīlius ancillae cum fīliō meō Isaāc”.
 
-11 Dūrē accēpit hoc Abraham propter fīlium suum.
+11 Dūrē accēpit hoc Ābrahām[\*][abraham] propter fīlium suum.
 
 12 Cui dīxit Deus: “Nōn tibi videātur asperum super puerō et super ancillā tuā; omnia, quae dīxerit tibi Sarā, audī vōcem ejus, quia in Isaāc vocābitur tibi sēmen.
 
 13 Sed et fīlium ancillae faciam in gentem magnam, quia sēmen tuum est”.
 
-14 Surrēxit itaque Abraham māne et tollēns pānem et utrem aquae imposuit scapulae ejus trādiditque puerum et dīmīsit eam. Quae cum abīsset, errābat in dēsertō Bersabee.
+14 Surrēxit itaque Ābrahām[\*][abraham] māne et tollēns pānem et utrem aquae imposuit scapulae ejus trādiditque puerum et dīmīsit eam. Quae cum abīsset, errābat in dēsertō Bersabee.
 
 15 Cumque cōnsūmpta esset aqua in utre, abjēcit puerum subter ūnum arbustum
 
@@ -1239,19 +1239,19 @@ jam senī?”.
 
 21 Habitāvitque in dēsertō Pharān; et accēpit illī māter sua uxōrem dē terrā Aegyptī.
 
-22 Eōdem tempore dīxit Abimelech et Phicol prīnceps exercitūs ejus ad Abraham: “Deus tēcum est in ūniversīs, quae agis.
+22 Eōdem tempore dīxit Abimelech et Phicol prīnceps exercitūs ejus ad Ābrahām[\*][abraham]: “Deus tēcum est in ūniversīs, quae agis.
 
 23 Jūrā ergō per Deum, nē noceās mihi et posterīs meīs stirpīque meae; sed juxtā fidem, quam fēcī tibi, faciēs mihi et terrae, in quā versātus es advena”.
 
-24 Dīxitque Abraham: “Ego jūrābō”.
+24 Dīxitque Ābrahām[\*][abraham]: “Ego jūrābō”.
 
-25 Et increpāvit Abraham Abimelech propter puteum aquae, quem vī abstulerant servī ejus.
+25 Et increpāvit Ābrahām[\*][abraham] Abimelech propter puteum aquae, quem vī abstulerant servī ejus.
 
 26 Responditque Abimelech: “Nescīvī quis fēcerit hanc rem; sed et tū nōn indicāstī mihi, et ego nōn audīvī praeter hodiē”.
 
-27 Tulit itaque Abraham ovēs et bovēs et dedit Abimelech; percussēruntque ambō foedus.
+27 Tulit itaque Ābrahām[\*][abraham] ovēs et bovēs et dedit Abimelech; percussēruntque ambō foedus.
 
-28 Et statuit Abraham septem agnās gregis seorsum.
+28 Et statuit Ābrahām[\*][abraham] septem agnās gregis seorsum.
 
 29 Cui dīxit Abimelech: “Quid sibi volunt septem agnae istae, quās stāre fēcistī seorsum?”.
 
@@ -1261,15 +1261,15 @@ jam senī?”.
 
 32 Et iniērunt foedus in Bersabee.
 
-33 Surrēxit autem Abimelech et Phicol prīnceps mīlitiae ejus reversīque sunt in terram Philisthim. Abraham vērō plantāvit nemus in Bersabee et invocāvit ibi nōmen Dominī, Deī aeternī. 34 Et fuit colōnus in terrā Philisthim diēbus multīs.
+33 Surrēxit autem Abimelech et Phicol prīnceps mīlitiae ejus reversīque sunt in terram Philisthim. Ābrahām[\*][abraham] vērō plantāvit nemus in Bersabee et invocāvit ibi nōmen Dominī, Deī aeternī. 34 Et fuit colōnus in terrā Philisthim diēbus multīs.
 
 ## 22
 
-1 Quae postquam gesta sunt, tentāvit Deus Abraham et dīxit ad eum: “Abraham”. Ille respondit: “Adsum”.
+1 Quae postquam gesta sunt, tentāvit Deus Ābrahām[\*][abraham] et dīxit ad eum: “Ābrahām[\*][abraham]”. Ille respondit: “Adsum”.
 
 2 Ait: “Tolle fīlium tuum ūnigenitum, quem dīligis, Isaāc et vāde in terram Mōria; atque offer eum ibi in holocaustum super ūnum montium, quem mōnstrāverō tibi”.
 
-3 Igitur Abraham dē nocte cōnsurgēns strāvit asinum suum dūcēns sēcum duōs juvenēs suōs et Isaāc fīlium suum. Cumque concīdisset ligna in holocaustum, surrēxit et abiit ad locum, quem praecēperat eī Deus.
+3 Igitur Ābrahām[\*][abraham] dē nocte cōnsurgēns strāvit asinum suum dūcēns sēcum duōs juvenēs suōs et Isaāc fīlium suum. Cumque concīdisset ligna in holocaustum, surrēxit et abiit ad locum, quem praecēperat eī Deus.
 
 4 Diē autem tertiō, ēlevātīs oculīs, vīdit locum procul
 
@@ -1279,23 +1279,23 @@ jam senī?”.
 
 7 dīxit Isaāc Abrahae patrī suō: “Pater mī”. Ille respondit: “Quid vīs, fīlī?”. “Ecce, inquit, ignis et ligna; ubi est victima holocaustī?”.
 
-8 Dīxit Abraham: “Deus prōvidēbit sibi victimam holocaustī, fīlī mī”.
+8 Dīxit Ābrahām[\*][abraham]: “Deus prōvidēbit sibi victimam holocaustī, fīlī mī”.
 
 Pergēbant ambō pariter;
 
-9 et vēnērunt ad locum, quem ostenderat eī Deus, in quō aedificāvit Abraham altāre et dēsuper ligna composuit. Cumque colligāsset Isaāc fīlium suum, posuit eum in altārī super struem lignōrum
+9 et vēnērunt ad locum, quem ostenderat eī Deus, in quō aedificāvit Ābrahām[\*][abraham] altāre et dēsuper ligna composuit. Cumque colligāsset Isaāc fīlium suum, posuit eum in altārī super struem lignōrum
 
-10 extenditque Abraham manum et arripuit cultrum, ut immolāret fīlium suum.
+10 extenditque Ābrahām[\*][abraham] manum et arripuit cultrum, ut immolāret fīlium suum.
 
-11 Et ecce angelus Dominī dē caelō clāmāvit: “Abraham, Abraham”. Quī respondit: “Adsum”.
+11 Et ecce angelus Dominī dē caelō clāmāvit: “Ābrahām[\*][abraham], Ābrahām[\*][abraham]”. Quī respondit: “Adsum”.
 
 12 Dīxitque: “Nōn extendās manum tuam super puerum neque faciās illī quidquam. Nunc cognōvī quod timēs Deum et nōn pepercistī fīliō tuō ūnigenitō propter mē”.
 
-13 Levāvit Abraham oculōs suōs vīditque arietem ūnum inter veprēs haerentem cornibus; quem assūmēns obtulit holocaustum prō fīliō.
+13 Levāvit Ābrahām[\*][abraham] oculōs suōs vīditque arietem ūnum inter veprēs haerentem cornibus; quem assūmēns obtulit holocaustum prō fīliō.
 
 14 Appellāvitque nōmen locī illīus: “Dominus videt”. Unde usque hodiē dīcitur: “In monte Dominus vidētur”.
 
-15 Vocāvit autem angelus Dominī Abraham secundō dē caelō et dīxit:
+15 Vocāvit autem angelus Dominī Ābrahām[\*][abraham] secundō dē caelō et dīxit:
 
 16 “Per mēmetipsum jūrāvī, dīcit Dominus: quia fēcistī hanc rem et nōn pepercistī fīliō tuō ūnigenitō,
 
@@ -1303,7 +1303,7 @@ Pergēbant ambō pariter;
 
 18 et benedīcentur in sēmine tuō omnēs gentēs terrae, quia oboedīstī vōcī meae”.
 
-19 Reversus est Abraham ad puerōs suōs, et surrēxērunt abiēruntque Bersabeē simul, et habitāvit Abraham in Bersabee.
+19 Reversus est Ābrahām[\*][abraham] ad puerōs suōs, et surrēxērunt abiēruntque Bersabeē simul, et habitāvit Ābrahām[\*][abraham] in Bersabee.
 
 20 Hīs ita gestīs, nūntiātum est Abrahae quod Melcha quoque genuisset fīliōs Nachor frātrī suō:
 
@@ -1319,7 +1319,7 @@ Pergēbant ambō pariter;
 
 1 Vīxit autem Sarā centum vīgintī septem annīs
 
-2 et mortua est in Cariatharbe, quae est Hebrōn, in terrā Chanaan; vēnitque Abraham, ut plangeret et flēret eam.
+2 et mortua est in Cariatharbe, quae est Hebrōn, in terrā Chanaan; vēnitque Ābrahām[\*][abraham], ut plangeret et flēret eam.
 
 3 Cumque surrēxisset ab officiō fūneris, locūtus est ad fīliōs Heth dīcēns:
 
@@ -1329,39 +1329,39 @@ Pergēbant ambō pariter;
 
 6 “Audī nōs, domine, prīnceps Deī es apud nōs: in nōbilissimō sepulcrōrum nostrōrum sepelī mortuum tuum; nūllusque tē prohibēbit, quīn in sepulcrō ejus sepeliās mortuum tuum”.
 
-7 Surrēxit Abraham et adōrāvit populum terrae, fīliōs vidēlicet Heth,
+7 Surrēxit Ābrahām[\*][abraham] et adōrāvit populum terrae, fīliōs vidēlicet Heth,
 
 8 dīxitque ad eōs: “Sī placet animae vestrae, ut sepeliam mortuum meum, audīte mē et intercēdite prō mē apud Ephron fīlium Seor,
 
 9 ut det mihi spēluncam Machpēla, quam habet in extrēmā parte agrī suī. Pecūniā dignā trādat eam mihi cōram vōbīs in possessiōnem sepulcrī”.
 
-10 Sedēbat autem Ephrōn in mediō fīliōrum Heth. Responditque Ephrōn Hetthaeus ad Abraham, fīliīs Heth audientibus cūnctīs, quī ingrediēbantur portam cīvitātis illīus, dīcēns:
+10 Sedēbat autem Ephrōn in mediō fīliōrum Heth. Responditque Ephrōn Hetthaeus ad Ābrahām[\*][abraham], fīliīs Heth audientibus cūnctīs, quī ingrediēbantur portam cīvitātis illīus, dīcēns:
 
 11 “Nēquāquam ita fīat, domine mī, auscultā mē. Agrum dō tibi et spēluncam, quae in eō est, praesentibus fīliīs populī meī; sepelī mortuum tuum”.
 
-12 Adōrāvit Abraham cōram populō terrae
+12 Adōrāvit Ābrahām[\*][abraham] cōram populō terrae
 
 13 et locūtus est ad Ephron, audiente populō terrae: “Quaesō, ut audiās mē. Dabō pecūniam prō agrō; suscipe eam, et sīc sepeliam mortuum meum in eō”.
 
-14 Respondit Ephrōn ad Abraham dīcēns eī:
+14 Respondit Ephrōn ad Ābrahām[\*][abraham] dīcēns eī:
 
 15 “Domine mī, audī mē. Terra quadringentōrum siclōrum argentī inter mē et tē quid est hoc? Sepelī mortuum tuum”.
 
-16 Auscultāvit Abraham Ephron et appendit pecūniam, quam Ephrōn postulāverat, audientibus fīliīs Heth, quadringentōs siclōs argentī, sīcut mōs erat apud negōtiātōrēs.
+16 Auscultāvit Ābrahām[\*][abraham] Ephron et appendit pecūniam, quam Ephrōn postulāverat, audientibus fīliīs Heth, quadringentōs siclōs argentī, sīcut mōs erat apud negōtiātōrēs.
 
 17 Cōnfirmātusque est ager Ephrōnis, quī erat in Machpēlā respiciēns Mambre, tam ipse quam spēlunca in eō et omnēs arborēs ejus in cūnctīs terminīs ejus per circuitum,
 
 18 Abrahae in possessiōnem, videntibus fīliīs Heth cūnctīs, quī intrābant portam cīvitātis illīus.
 
-19 Deinde sepelīvit Abraham Saram uxōrem suam in spēluncā agrī Machpela, quī respiciēbat Mambre ­ haec est Hebrōn ­ in terrā Chanaan.
+19 Deinde sepelīvit Ābrahām[\*][abraham] Saram uxōrem suam in spēluncā agrī Machpela, quī respiciēbat Mambre ­ haec est Hebrōn ­ in terrā Chanaan.
 
 20 Et cōnfirmātus est ager et antrum, quod erat in eō, Abrahae in possessiōnem sepulcrī ā fīliīs Heth.
 
 ## 24
 
-1 Erat autem Abraham senex diērumque multōrum; et Dominus in cūnctīs benedīxerat eī.
+1 Erat autem Ābrahām[\*][abraham] senex diērumque multōrum; et Dominus in cūnctīs benedīxerat eī.
 
-2 Dīxitque Abraham ad servum seniōrem domūs suae, quī praeerat omnibus, quae habēbat: “Pōne manum tuam subter femur meum,
+2 Dīxitque Ābrahām[\*][abraham] ad servum seniōrem domūs suae, quī praeerat omnibus, quae habēbat: “Pōne manum tuam subter femur meum,
 
 3 ut adjūrem tē per Dominum, Deum caelī et Deum terrae, ut nōn accipiās uxōrem fīliō meō dē fīliābus Chananaēōrum, inter quōs habitō;
 
@@ -1369,25 +1369,25 @@ Pergēbant ambō pariter;
 
 5 Respondit servus: “Sī nōluerit mulier venīre mēcum in terram hanc, num redūcere dēbeō fīlium tuum ad terram, ā quō tū ēgressus es?”.
 
-6 Dīxit Abraham: “Cave, nē quandō redūcās illūc fīlium meum.
+6 Dīxit Ābrahām[\*][abraham]: “Cave, nē quandō redūcās illūc fīlium meum.
 
 7 Dominus, Deus caelī, quī tulit mē dē domō patris meī et dē terrā nātīvitātis meae, quī locūtus est mihi et jūrāvit mihi dīcēns: "Sēminī tuō dabō terram hanc", ipse mittet angelum suum cōram tē, et accipiēs inde uxōrem fīliō meō.
 
 8 Sīn autem nōluerit mulier sequī tē, nōn tenēberis jūrāmentō; fīlium tantum meum nē redūcās illūc”.
 
-9 Posuit ergō servus manum sub femore Abraham dominī suī et jūrāvit illī super hāc rē.
+9 Posuit ergō servus manum sub femore Ābrahām[\*][abraham] dominī suī et jūrāvit illī super hāc rē.
 
 10 Tulitque servus decem camēlōs dē grege dominī suī et abiit ex omnibus bonīs ejus portāns sēcum; profectusque perrēxit in Āram Naharaim ad urbem Nachor.
 
 11 Cumque camēlōs fēcisset accumbere extrā oppidum juxtā puteum aquae vespere, tempore quō solent mulierēs ēgredī ad hauriendam aquam, dīxit:
 
-12 “Domine, Deus dominī meī Abraham, occurre obsecrō mihi hodiē et fac misericordiam cum dominō meō Abraham.
+12 “Domine, Deus dominī meī Ābrahām[\*][abraham], occurre obsecrō mihi hodiē et fac misericordiam cum dominō meō Ābrahām[\*][abraham].
 
 13 Ecce ego stō prope fontem aquae, et fīliae habitātōrum hujus cīvitātis ēgredientur ad hauriendam aquam.
 
 14 Igitur puella, cui ego dīxerō: "Inclīnā hydriam tuam, ut bibam", et illa responderit: "Bibe, quīn et camēlīs tuīs dabō pōtum", ipsa est, quam praeparāstī servō tuō Isaāc, et per hoc intellegam quod fēceris misericordiam cum dominō meō”.
 
-15 Necdum intrā sē verba complēverat, et ecce Rebecca ēgrediēbātur fīlia Bathuel fīliī Melchae uxōris Nachor frātris Abraham habēns hydriam in scapulā:
+15 Necdum intrā sē verba complēverat, et ecce Rebecca ēgrediēbātur fīlia Bathuel fīliī Melchae uxōris Nachor frātris Ābrahām[\*][abraham] habēns hydriam in scapulā:
 
 16 puella decōra nimis, virgō et incognita virō. Dēscendit ad fontem et implēvit hydriam ac revertēbātur.
 
@@ -1411,7 +1411,7 @@ Pergēbant ambō pariter;
 
 26 Inclīnāvit sē homō et adōrāvit Dominum
 
-27 dīcēns: “Benedictus Dominus, Deus dominī meī Abraham, quī nōn abstulit misericordiam et vēritātem suam ā dominō meō et rēctō itinere mē perdūxit in domum frātris dominī meī”.
+27 dīcēns: “Benedictus Dominus, Deus dominī meī Ābrahām[\*][abraham], quī nōn abstulit misericordiam et vēritātem suam ā dominō meō et rēctō itinere mē perdūxit in domum frātris dominī meī”.
 
 28 Cucurrit itaque puella et nūntiāvit in domum mātris suae omnia, quae ēvēnerant.
 
@@ -1425,7 +1425,7 @@ Pergēbant ambō pariter;
 
 33 Et apposuit in cōnspectū ejus pānem. Quī ait: “Nōn comedam, dōnec loquar sermōnēs meōs”. Respondit: “Loquere”.
 
-34 At ille: “Servus, inquit, Abraham sum;
+34 At ille: “Servus, inquit, Ābrahām[\*][abraham] sum;
 
 35 et Dominus benedīxit dominō meō valdē, magnificātusque est; et dedit eī ovēs et bovēs, argentum et aurum, servōs et ancillās, camēlōs et asinōs.
 
@@ -1441,7 +1441,7 @@ Pergēbant ambō pariter;
 
 41 Innocēns eris ā maledictiōne meā, cum vēneris ad propinquōs meōs, et nōn dederint tibi; tunc innocēns eris ā maledictiōne meā".
 
-42 Vēnī ergō hodiē ad fontem et dīxī: Domine, Deus dominī meī Abraham, sī dīrēxistī viam meam, in quā nunc ambulō,
+42 Vēnī ergō hodiē ad fontem et dīxī: Domine, Deus dominī meī Ābrahām[\*][abraham], sī dīrēxistī viam meam, in quā nunc ambulō,
 
 43 ecce stō juxtā fontem aquae; et virgō, quae ēgrediētur ad hauriendam aquam, audierit ā mē: "Dā mihi pauxillum aquae ad bibendum ex hydriā tuā";
 
@@ -1455,7 +1455,7 @@ Pergēbant ambō pariter;
 
 Suspendī itaque ānulum in nāribus ejus et armillās posuī in manibus ejus.
 
-48 Prōnusque adōrāvī Dominum benedīcēns Dominō, Deō dominī meī Abraham, quī perdūxit mē rēctō itinere, ut sūmerem fīliam frātris dominī meī fīliō ejus.
+48 Prōnusque adōrāvī Dominum benedīcēns Dominō, Deō dominī meī Ābrahām[\*][abraham], quī perdūxit mē rēctō itinere, ut sūmerem fīliam frātris dominī meī fīliō ejus.
 
 49 Quam ob rem, sī facitis misericordiam et vēritātem cum dominō meō, indicāte mihi; sīn autem aliud placet, et hoc dīcite mihi, ut vādam ad dexteram sīve ad sinistram”.
 
@@ -1463,7 +1463,7 @@ Suspendī itaque ānulum in nāribus ejus et armillās posuī in manibus ejus.
 
 51 Ēn Rebecca cōram tē est; tolle eam et proficīscere, et sit uxor fīliī dominī tuī, sīcut locūtus est Dominus”.
 
-52 Quod cum audīsset puer Abraham, prōcidēns adōrāvit in terram Dominum.
+52 Quod cum audīsset puer Ābrahām[\*][abraham], prōcidēns adōrāvit in terram Dominum.
 
 53 Prōlātīsque vāsīs argenteīs et aureīs ac vestibus, dedit ea Rebeccae; rēs pretiōsās dedit frātrī ejus et mātrī.
 
@@ -1479,7 +1479,7 @@ Surgēns autem māne locūtus est puer: “Dīmittite mē, ut vādam ad dominum 
 
 58 Cumque vocāta vēnisset, scīscitātī sunt: “Vīs īre cum homine istō?”. Quae ait: “Vādam”.
 
-59 Dīmīsērunt ergō Rebeccam sorōrem eōrum et nūtrīcem illīus servumque Abraham et comitēs ejus,
+59 Dīmīsērunt ergō Rebeccam sorōrem eōrum et nūtrīcem illīus servumque Ābrahām[\*][abraham] et comitēs ejus,
 
 60 imprecantēs prōspera sorōrī suae atque dīcentēs:
 
@@ -1507,7 +1507,7 @@ portās inimīcōrum suōrum!”.
 
 ## 25
 
-1 Abraham vērō aliam dūxit uxōrem nōmine Ceturam,
+1 Ābrahām[\*][abraham] vērō aliam dūxit uxōrem nōmine Ceturam,
 
 2 quae peperit eī Zamrān et Iecsān et Madan et Madiān et Iesboc et Suē.
 
@@ -1515,13 +1515,13 @@ portās inimīcōrum suōrum!”.
 
 4 At vērō ex Madiān ortus est Epha et Opher et Henoch et Abida et Eldaa. Omnēs hī fīliī Cetūrae.
 
-5 deditque Abraham cūncta, quae possēderat, Isaāc;
+5 deditque Ābrahām[\*][abraham] cūncta, quae possēderat, Isaāc;
 
 6 fīliīs autem concubīnārum suārum largītus est mūnera et sēparāvit eōs ab Isaāc fīliō suō, dum adhūc ipse vīveret, ad plagam orientālem.
 
 7 Fuērunt autem diēs vītae Abrahae centum septuāgintā quīnque annī.
 
-8 Et dēficiēns mortuus est Abraham in senectūte bonā prōvectaeque aetātis et plēnus diērum congregātusque est ad populum suum.
+8 Et dēficiēns mortuus est Ābrahām[\*][abraham] in senectūte bonā prōvectaeque aetātis et plēnus diērum congregātusque est ad populum suum.
 
 9 Et sepeliērunt eum Isaāc et Ismaēl fīliī suī in spēluncā Machpēla, quae sita est in agrō Ephron fīliī Seor Hetthaēī ē regiōne Mambre,
 
@@ -1543,7 +1543,7 @@ portās inimīcōrum suōrum!”.
 
 18 Habitāvērunt autem ab Hevila usque Sur, quae respicit Aegyptum introeuntibus Assyriam. In faciem cūnctōrum frātrum suōrum obiit.
 
-19 Hae sunt generātiōnēs Isaāc fīliī Abraham: Abraham genuit Isaāc;
+19 Hae sunt generātiōnēs Isaāc fīliī Ābrahām[\*][abraham]: Ābrahām[\*][abraham] genuit Isaāc;
 
 20 quī, cum quadrāgintā esset annōrum, dūxit uxōrem Rebeccam fīliam Bathuēlis Aramaēī dē Paddanaram, sorōrem Labān Aramaēī.
 
@@ -1585,15 +1585,15 @@ et major serviet minōrī”.
 
 ## 26
 
-1 Ortā autem famē super terram post eam sterilitātem, quae acciderat in diēbus Abraham, abiit Isaāc ad Abimelech rēgem Philisthim in Gerarā.
+1 Ortā autem famē super terram post eam sterilitātem, quae acciderat in diēbus Ābrahām[\*][abraham], abiit Isaāc ad Abimelech rēgem Philisthim in Gerarā.
 
 2 Appāruitque eī Dominus et ait: “Nē dēscendās in Aegyptum, sed habitā in terrā, quam dīxerō tibi,
 
-3 et peregrīnāre in eā; erōque tēcum et benedīcam tibi. Tibi enim et sēminī tuō dabō ūniversās regiōnēs hās complēns jūrāmentum, quod spopondī Abraham patrī tuō,
+3 et peregrīnāre in eā; erōque tēcum et benedīcam tibi. Tibi enim et sēminī tuō dabō ūniversās regiōnēs hās complēns jūrāmentum, quod spopondī Ābrahām[\*][abraham] patrī tuō,
 
 4 et multiplicābō sēmen tuum sīcut stēllās caelī dabōque posterīs tuīs ūniversās regiōnēs hās; et benedīcentur in sēmine tuō omnēs gentēs terrae,
 
-5 eō quod oboedierit Abraham vōcī meae et cūstōdierit praecepta et mandāta mea et jūstificātiōnēs lēgēsque servāverit”.
+5 eō quod oboedierit Ābrahām[\*][abraham] vōcī meae et cūstōdierit praecepta et mandāta mea et jūstificātiōnēs lēgēsque servāverit”.
 
 6 Mānsit itaque Isaāc in Gerāris.
 
@@ -1615,13 +1615,13 @@ et major serviet minōrī”.
 
 Ob haec invidentēs eī Philisthim
 
-15 omnēs puteōs, quōs fōderant servī patris illīus in diēbus Abraham, obstrūxērunt implentēs humō,
+15 omnēs puteōs, quōs fōderant servī patris illīus in diēbus Ābrahām[\*][abraham], obstrūxērunt implentēs humō,
 
 16 in tantum ut ipse Abimelech dīceret ad Isaāc: ”Recēde ā nōbīs, quoniam potentior nostrī factus es valdē”.
 
 17 Et ille discēdēns tentōria fīxit ad torrentem Gerarae habitāvitque ibi.
 
-18 Rūrsum fōdit puteōs, quōs fōderant in diēbus patris suī Abraham et quōs, illō mortuō, obstrūxerant Philisthim. Appellāvitque eōs eīsdem nōminibus, quibus ante pater vocāverat.
+18 Rūrsum fōdit puteōs, quōs fōderant in diēbus patris suī Ābrahām[\*][abraham] et quōs, illō mortuō, obstrūxerant Philisthim. Appellāvitque eōs eīsdem nōminibus, quibus ante pater vocāverat.
 
 19 Fōdērunt servī Isaāc in torrente et repperērunt ibi puteum aquae vīvae.
 
@@ -1635,7 +1635,7 @@ Ob haec invidentēs eī Philisthim
 
 24 ubi appāruit eī Dominus in ipsā nocte dīcēns:
 
-”Ego sum Deus Abraham patris tuī.
+”Ego sum Deus Ābrahām[\*][abraham] patris tuī.
 
 Nōlī timēre, quia tēcum sum;
 
@@ -1643,7 +1643,7 @@ benedīcam tibi
 
 et multiplicābō sēmen tuum
 
-propter servum meum Abraham”.
+propter servum meum Ābrahām[\*][abraham]”.
 
 25 Itaque aedificāvit ibi altāre et, invocātō nōmine Dominī, extendit tabernāculum, et servī Isaāc fōdērunt ibi puteum.
 
@@ -1801,7 +1801,7 @@ et solvās jugum ejus dē cervīcibus tuīs”.
 
 3 Deus autem omnipotēns benedīcat tibi et crēscere tē faciat atque multiplicet, ut sīs in multitūdinem populōrum;
 
-4 et det tibi benedictiōnēs Abraham tibi et sēminī tuō tēcum, ut possideās terram peregrīnātiōnis tuae, quam pollicitus est Deus avō tuō”.
+4 et det tibi benedictiōnēs Ābrahām[\*][abraham] tibi et sēminī tuō tēcum, ut possideās terram peregrīnātiōnis tuae, quam pollicitus est Deus avō tuō”.
 
 5 Cumque dīmīsisset eum Isaāc, profectus est in Paddanaram ad Labān fīlium Bathuel Aramaēī frātrem Rebeccae mātris Jācōb et Esau.
 
@@ -1811,7 +1811,7 @@ et solvās jugum ejus dē cervīcibus tuīs”.
 
 8 probāns quoque quod nōn libenter aspiceret fīliās Chanaan pater suus,
 
-9 īvit ad Ismaēlem et dūxit uxōrem, absque iīs, quās habēbat, Mahalath fīliam Ismaēl fīliī Abraham sorōrem Nabaioth.
+9 īvit ad Ismaēlem et dūxit uxōrem, absque iīs, quās habēbat, Mahalath fīliam Ismaēl fīliī Ābrahām[\*][abraham] sorōrem Nabaioth.
 
 10 Igitur ēgressus Jācōb dē Bersabee pergēbat Charran.
 
@@ -1819,7 +1819,7 @@ et solvās jugum ejus dē cervīcibus tuīs”.
 
 12 Vīditque in somniō scālam stantem super terram et cacūmen illīus tangēns caelum, angelōs quoque Deī ascendentēs et dēscendentēs per eam
 
-13 et Dominum innīxum scālae dīcentem sibi: ”Ego sum Dominus, Deus Abraham patris tuī et Deus Isaāc. Terram, in quā dormīs, tibi dabō et sēminī tuō.
+13 et Dominum innīxum scālae dīcentem sibi: ”Ego sum Dominus, Deus Ābrahām[\*][abraham] patris tuī et Deus Isaāc. Terram, in quā dormīs, tibi dabō et sēminī tuō.
 
 14 Eritque sēmen tuum quasi pulvis terrae; dīlātāberis ad occidentem et orientem et septentriōnem et merīdiem; et benedīcentur in tē et in sēmine tuō cūnctae tribūs terrae.
 
@@ -2087,7 +2087,7 @@ Factō māne, vīdit, et ecce erat Līā.
 
 41 Sīc per vīgintī annōs in domō tuā servīvī tibi: quattuordecim prō fīliābus et sex prō gregibus tuīs; immūtāstī quoque mercēdem meam decem vicibus.
 
-42 Nisi Deus patris meī, Deus Abraham et Timor Isaāc, affuisset mihi, certemodō nūdum mē dīmīsissēs; afflīctiōnem meam et labōrem manuum meārum respexit Deus et jūdicāvit heri”.
+42 Nisi Deus patris meī, Deus Ābrahām[\*][abraham] et Timor Isaāc, affuisset mihi, certemodō nūdum mē dīmīsissēs; afflīctiōnem meam et labōrem manuum meārum respexit Deus et jūdicāvit heri”.
 
 43 Respondit eī Labān: ”Fīliae fīliae meae et fīliī fīliī meī et gregēs gregēs meī et omnia, quae cernis, mea sunt; et fīliābus meīs quid possum facere illīs hodiē et fīliīs eārum, quōs genuērunt?
 
@@ -2109,7 +2109,7 @@ Factō māne, vīdit, et ecce erat Līā.
 
 52 Testis erit tumulus iste et lapis quod ego nōn trānsībō tumulum hunc pergēns ad tē, neque tū trānsībis tumulum hunc et lapidem hunc ad malum.
 
-53 Deus Abraham et Deus Nachor jūdicent inter nōs”.
+53 Deus Ābrahām[\*][abraham] et Deus Nachor jūdicent inter nōs”.
 
 Jūrāvit Jācōb per Timōrem patris suī Isaāc;
 
@@ -2135,7 +2135,7 @@ Jūrāvit Jācōb per Timōrem patris suī Isaāc;
 
 8 dīcēns: ”Sī vēnerit Esau ad ūnam turmam et percusserit eam, alia turma, quae reliqua est, salvābitur”.
 
-9 Dīxitque Jācōb: ”Deus patris meī Abraham et Deus patris meī Isaāc, Domine, quī dīxistī mihi: "Revertere in terram tuam et in locum nātīvitātis tuae, et benefaciam tibi",
+9 Dīxitque Jācōb: ”Deus patris meī Ābrahām[\*][abraham] et Deus patris meī Isaāc, Domine, quī dīxistī mihi: "Revertere in terram tuam et in locum nātīvitātis tuae, et benefaciam tibi",
 
 10 minor sum cūnctīs miserātiōnibus et cūnctā vēritāte, quam explēstī servō tuō. In baculō meō trānsīvī Jordānem istum et nunc cum duābus turmīs regredior.
 
@@ -2317,7 +2317,7 @@ Et, cum compelleret illum, suscēpit
 
 11 Dīxitque eī: ”Ego Deus omnipotēns. Crēsce et multiplicāre; gēns et congregātiō nātiōnum erunt ex tē, rēgēs dē lumbīs tuīs ēgredientur.
 
-12 Terramque, quam dedī Abraham et Isaāc, dabō tibi; et sēminī tuō post tē dabō terram hanc”.
+12 Terramque, quam dedī Ābrahām[\*][abraham] et Isaāc, dabō tibi; et sēminī tuō post tē dabō terram hanc”.
 
 13 Et ascendit ab eō Deus.
 
@@ -2349,7 +2349,7 @@ Erant autem fīliī Jācōb duodecim.
 
 26 Fīliī Zelphae ancillae Liae: Gad et Aser. Hī sunt fīliī Jācōb, quī nātī sunt eī in Paddanaram.
 
-27 Vēnit Jācōb ad Isaāc patrem suum in Mambre Cariatharbe, id est Hebrōn, ubi peregrīnātus est Abraham et Isaāc.
+27 Vēnit Jācōb ad Isaāc patrem suum in Mambre Cariatharbe, id est Hebrōn, ubi peregrīnātus est Ābrahām[\*][abraham] et Isaāc.
 
 28 Et complētī sunt diēs Isaāc centum octōgintā annōrum;
 
@@ -3247,7 +3247,7 @@ Prīmōgenitus Ruben.
 
 ”Deus, in cujus cōnspectū ambulāvērunt
 
-patrēs meī Abraham et Isaāc,
+patrēs meī Ābrahām[\*][abraham] et Isaāc,
 
 Deus, quī pāscit mē ab adulēscentiā meā
 
@@ -3259,7 +3259,7 @@ benedīcat puerīs istīs!
 
 Et invocētur super eōs nōmen meum,
 
-nōmina quoque patrum meōrum Abraham et Isaāc,
+nōmina quoque patrum meōrum Ābrahām[\*][abraham] et Isaāc,
 
 et crēscant in multitūdinem
 
@@ -3449,7 +3449,7 @@ et vespere dīvidet spolia”.
 
 29 Et praecēpit eīs dīcēns: ”Ego congregor ad populum meum; sepelīte mē cum patribus meīs in spēluncā Machpela, quae est in agrō Ephron Hetthaēī
 
-30 contrā Mambre in terrā Chanaan, quam ēmit Abraham cum agrō ab Ephron Hetthaeō in possessiōnem sepulcrī;
+30 contrā Mambre in terrā Chanaan, quam ēmit Ābrahām[\*][abraham] cum agrō ab Ephron Hetthaeō in possessiōnem sepulcrī;
 
 31 ibi sepeliērunt eum et Saram uxōrem ejus, ibi sepultus est Isaāc cum Rebeccā conjuge suā, ibi et Līa condita jacet”.
 
@@ -3481,7 +3481,7 @@ et vespere dīvidet spolia”.
 
 12 Fēcērunt ergō fīliī Jācōb, sīcut praecēperat eīs;
 
-13 et portantēs eum in terram Chanaan sepeliērunt eum in spēluncā Machpēla, quam ēmerat Abraham cum agrō in possessiōnem sepulcrī ab Ephron Hetthaeō contrā faciem Mambre.
+13 et portantēs eum in terram Chanaan sepeliērunt eum in spēluncā Machpēla, quam ēmerat Ābrahām[\*][abraham] cum agrō in possessiōnem sepulcrī ab Ephron Hetthaeō contrā faciem Mambre.
 
 14 Reversusque est Joseph in Aegyptum cum frātribus suīs et omnī comitātū, sepultō patre.
 
@@ -3503,9 +3503,10 @@ et vespere dīvidet spolia”.
 
 23 et vīdit Ephraim fīliōs usque ad tertiam generātiōnem; fīliī quoque Machir fīliī Mānāsse nātī sunt in genibus Joseph.
 
-24 Quibus trānsāctīs, locūtus est frātribus suīs: ”Post mortem meam Deus vīsitābit vōs et ascendere vōs faciet dē terrā istā ad terram, quam jūrāvit Abraham, Isaāc et Jācōb”.
+24 Quibus trānsāctīs, locūtus est frātribus suīs: ”Post mortem meam Deus vīsitābit vōs et ascendere vōs faciet dē terrā istā ad terram, quam jūrāvit Ābrahām[\*][abraham], Isaāc et Jācōb”.
 
 25 Cumque adjūrāsset eōs atque dīxisset: ”Deus vīsitābit vōs; asportāte ossa mea vōbīscum dē locō istō”,
 
 26 mortuus est, explētīs centum decem vītae suae annīs. Et conditus arōmatibus repositus est in loculō in Aegyptō.
 
+[abraham]: <Ambiguous Forms.md#abraham>

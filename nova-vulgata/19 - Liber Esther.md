@@ -238,7 +238,7 @@ ut hostēs dominentur nostrī”.
 
 17b et dīxit:
 
-”Deus Abraham et Deus Isaāc et Deus Iācōb, benedictus **es**.
+”Deus Ābrahām[\*][abraham] et Deus Isaāc et Deus Iācōb, benedictus **es**.
 
 17c Domine, Domine, rēx omnipotēns,
 
@@ -272,7 +272,7 @@ neque in glōriae cupiditāte, Domine.
 
 **Appārē**, Domine; manifestāre, Domine!
 
-17ī Et nunc, Domine rēx, Deus Abraham et Deus Isaāc et Deus Iācōb,
+17ī Et nunc, Domine rēx, Deus Ābrahām[\*][abraham] et Deus Isaāc et Deus Iācōb,
 
 **parcē** **populō** tuō,
 
@@ -302,7 +302,7 @@ et nē claudās **ōra** tē **canentium**”.
 
 17p Et **cecidit** super terram cum ancillīs **suīs** ā **māne** usque ad vesperam et dīxit:
 
-17q ”Deus Abraham et Deus Isaāc et Deus Iācōb, benedictus **es**.
+17q ”Deus Ābrahām[\*][abraham] et Deus Isaāc et Deus Iācōb, benedictus **es**.
 
 Suffrāgā mihi **sōlī**
 
@@ -706,3 +706,4 @@ Vēnērunt itaque rēx et **Amān** ad convīvium, quod eīs **rēgīna** parāv
 
 3k Et observābuntur diēs istī in **mēnse** Adar, **quārta** **decima** et **quīnta** **decima** **diē** eiusdem **mēnsis**, diēs congregātiōnis et hilaritātis et gaudiī **cōram** Deō per vestrās deinceps generātiōnēs in **populō** Isrāēl”.
 
+[abraham]: <Ambiguous Forms.md#abraham>

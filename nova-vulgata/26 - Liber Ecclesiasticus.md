@@ -6000,7 +6000,7 @@ cum factum **est** dīluvium:
 
 nē dēlērī posset dīluviō **omnis** **carō**.
 
-20 Abraham magnus pater multitūdinis gentium,
+20 Ābrahām[\*][abraham] magnus pater multitūdinis gentium,
 
 et nōn **est** **inventa** **maculā** in **glōriā** eius;
 
@@ -6026,7 +6026,7 @@ et ā Flūmine usque ad terminōs terrae.
 
 24 Et in Isaāc eōdem **modo** statuit
 
-propter Abraham patrem eius.
+propter Ābrahām[\*][abraham] patrem eius.
 
 25 Benedictiōnem omnium gentium **dēdit** illī Dominus
 
@@ -7064,4 +7064,4 @@ et nōn cōnfundēminī in laude ipsīus.
 
 et dabit vōbīs mercēdem vestram in tempore suō””.
 
-
+[abraham]: <Ambiguous Forms.md#abraham>

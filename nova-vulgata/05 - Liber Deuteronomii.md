@@ -19,7 +19,7 @@
 
 7 convertiminī et proficīsciminī et venīte ad montem Amorraēōrum et ad omnēs vīcīnōs eius: in **Arabā** atque montānīs et in Sephēla et in Nageb et iuxtā **lītus** **maris**, in terram Chananaēōrum et in **Libanum** usque ad flūmen magnum **Euphrāten**.
 
-8 Ēn, inquit, trādidī vōbīs terram: ingrediminī et possidēte eam, super **quā** iūrāvit Dominus patribus vestrīs, Abraham, Isaāc et Iācōb, ut daret illam eīs et sēminī eōrum post eōs”.
+8 Ēn, inquit, trādidī vōbīs terram: ingrediminī et possidēte eam, super **quā** iūrāvit Dominus patribus vestrīs, Ābrahām[\*][abraham], Isaāc et Iācōb, ut daret illam eīs et sēminī eōrum post eōs”.
 
 9 Dīxīque vōbīs illō in tempore: Nōn possum **sōlus** sustinēre vōs;
 
@@ -421,7 +421,7 @@
 
 9 scrībēsque **ea** in postibus **domūs** tuae et in portīs tuīs.
 
-10 Cumque intrōdūxerit tē Dominus Deus tuus in terram, prō **quā** iūrāvit patribus tuīs Abraham, Isaāc et Iācōb, ut daret tibi, cīvitātēs magnās et optimās, quās nōn aedificāstī,
+10 Cumque intrōdūxerit tē Dominus Deus tuus in terram, prō **quā** iūrāvit patribus tuīs Ābrahām[\*][abraham], Isaāc et Iācōb, ut daret tibi, cīvitātēs magnās et optimās, quās nōn aedificāstī,
 
 11 domōs plēnās cūnctārum opum, quās nōn implēvistī, cisternās, quās nōn fōdistī, vīnēta et **olīvēta**, quae nōn plantāstī, et **comēderīs** et saturātus **fuerīs**,
 
@@ -559,7 +559,7 @@
 
 4 Nē **dicās** in **corde** tuō, cum dēlēverit eōs Dominus Deus tuus in cōnspectū tuō: “Propter iūstitiam meam intrōdūxit mē Dominus, ut terram hanc **possidērem**”, cum propter impietātēs nātiōnum istārum expellat eās Dominus ante tē.
 
-5 Neque enim propter iūstitiam tuam et aequitātem **cordis** tuī ingrediēris, ut possideās terrās eārum, sed quia illae **ēgerunt** **impiē**, introeunte tē, Dominus Deus tuus expellet eōs ante tē, et ut compleat verbum suum Dominus, quod sub iūrāmentō pollicitus **est** patribus tuīs, Abraham, Isaāc et Iācōb.
+5 Neque enim propter iūstitiam tuam et aequitātem **cordis** tuī ingrediēris, ut possideās terrās eārum, sed quia illae **ēgerunt** **impiē**, introeunte tē, Dominus Deus tuus expellet eōs ante tē, et ut compleat verbum suum Dominus, quod sub iūrāmentō pollicitus **est** patribus tuīs, Ābrahām[\*][abraham], Isaāc et Iācōb.
 
 6 Scītō igitur quod nōn propter iūstitiam tuam Dominus Deus tuus dederit tibi terram hanc optimam in possessiōnem, cum dūrissimae cervīcis sīs **populus**.
 
@@ -603,7 +603,7 @@
 
 26 Et ōrāns dīxī: Domine Deus, nē disperdās **populum** tuum et hērēditātem tuam, quam redēmistī in magnitūdine **tuā**, quōs ēdūxistī dē Aegyptō in manū fortī.
 
-27 Recordāre servōrum tuōrum Abraham, Isaāc et Iācōb; nē aspiciās dūritiam **populī** huius et impietātem atque peccātum,
+27 Recordāre servōrum tuōrum Ābrahām[\*][abraham], Isaāc et Iācōb; nē aspiciās dūritiam **populī** huius et impietātem atque peccātum,
 
 28 nē forte **dīcant** habitātōrēs terrae, dē **quā** ēdūxistī nōs: “Nōn poterat Dominus **intrōdūcere** eōs in terram, quam pollicitus **est** eīs, et ōderat illōs; idcircō ēdūxit, ut interficeret eōs in sōlitūdine”.
 
@@ -1449,7 +1449,7 @@
 
 11 ut trānseās in **foedere** Dominī Deī tuī et in iūre iūrandō, quod hodiē Dominus Deus tuus percutit tēcum,
 
-12 ut suscitet tē sibi hodiē in **populum**, et ipse sit Deus tuus, sīcut **locūtus** **est** tibi et sīcut iūrāvit patribus tuīs, Abraham, Isaāc et Iācōb.
+12 ut suscitet tē sibi hodiē in **populum**, et ipse sit Deus tuus, sīcut **locūtus** **est** tibi et sīcut iūrāvit patribus tuīs, Ābrahām[\*][abraham], Isaāc et Iācōb.
 
 13 Nec vōbīs **sōlis** ego **hoc** foedus **feriō** et haec iūrāmenta cōnfirmō,
 
@@ -1523,7 +1523,7 @@
 
 19 Testēs invocō hodiē contrā vōs caelum et terram quod prōposuerim vōbīs vītam et mortem, benedictiōnem et maledictiōnem. Ēlige ergō vītam, ut et tū vīvās et sēmen tuum
 
-20 et dīligās Dominum Deum tuum atque oboediās vōcī eius et illī adhaereās — ipse **est** enim **vīta** **tua** et longitūdō diērum tuōrum — ut habitēs in **terrā**, prō **quā** iūrāvit Dominus patribus tuīs, Abraham, Isaāc et Iācōb, ut daret eam illīs”.
+20 et dīligās Dominum Deum tuum atque oboediās vōcī eius et illī adhaereās — ipse **est** enim **vīta** **tua** et longitūdō diērum tuōrum — ut habitēs in **terrā**, prō **quā** iūrāvit Dominus patribus tuīs, Ābrahām[\*][abraham], Isaāc et Iācōb, ut daret eam illīs”.
 
 ## 31
 
@@ -1905,7 +1905,7 @@ et tū eōrum altitūdinēs calcābis”.
 
 3 et Nageb et lātitūdinem campī Ierichō cīvitātis palmārum usque Segor.
 
-4 Dīxitque Dominus ad eum: ”Haec **est** **terra**, prō **quā** iūrāvī Abraham, Isaāc et Iācōb, dīcēns: Sēminī tuō dabō eam. Vīdistī eam oculīs tuīs et nōn trānsībis ad illam”.
+4 Dīxitque Dominus ad eum: ”Haec **est** **terra**, prō **quā** iūrāvī Ābrahām[\*][abraham], Isaāc et Iācōb, dīcēns: Sēminī tuō dabō eam. Vīdistī eam oculīs tuīs et nōn trānsībis ad illam”.
 
 5 Mortuusque **est** ibi Moȳsēs[\*][moyses] servus Dominī in **terrā** Moab, iubente Dominō.
 
@@ -1923,4 +1923,5 @@ et tū eōrum altitūdinēs calcābis”.
 
 12 et in **cūnctā** manū **rōbustā** magnīsque mīrābilibus, quae fēcit Moȳsēs[\*][moyses] **cōram** ūniversō Isrāēl.
 
+[abraham]: <Ambiguous Forms.md#abraham>
 [moyses]: <Ambiguous Forms.md#moyses>

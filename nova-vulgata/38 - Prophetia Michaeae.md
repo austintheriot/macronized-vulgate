@@ -876,10 +876,10 @@ omnia **peccāta** **nostra**.
 
 20 Dabis vēritātem Iācōb,
 
-misericordiam Abraham,
+misericordiam Ābrahām[\*][abraham],
 
 quae iūrāstī patribus nostrīs
 
 ā diēbus antīquīs.
 
-
+[abraham]: <Ambiguous Forms.md#abraham>

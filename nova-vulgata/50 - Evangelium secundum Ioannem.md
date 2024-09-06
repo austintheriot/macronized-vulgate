@@ -776,9 +776,9 @@ Erat autem sabbatum in illō **diē**.
 
 38 Ego, quae vīdī apud Patrem, loquor; et vōs ergō, quae audīvistis ā patre, facitis”.
 
-39 Respondērunt et dīxērunt **eī**: ”Pater noster Abraham **est**”. Dīcit eīs Iēsūs: ”Sī fīliī Abrahae **essētis**, **opera** Abrahae facerētis.
+39 Respondērunt et dīxērunt **eī**: ”Pater noster Ābrahām[\*][abraham] **est**”. Dīcit eīs Iēsūs: ”Sī fīliī Abrahae **essētis**, **opera** Abrahae facerētis.
 
-40 Nunc autem quaeritis mē interficere, hominem, quī vēritātem vōbīs **locūtus** sum, quam audīvī ā Deō; **hoc** Abraham nōn fēcit.
+40 Nunc autem quaeritis mē interficere, hominem, quī vēritātem vōbīs **locūtus** sum, quam audīvī ā Deō; **hoc** Ābrahām[\*][abraham] nōn fēcit.
 
 41 Vōs facitis **opera** patris vestrī”. Dīxērunt itaque **eī**: ”Nōs ex fornicātiōne nōn sumus **nātī**; ūnum patrem habēmus Deum!”.
 
@@ -802,19 +802,19 @@ Erat autem sabbatum in illō **diē**.
 
 51 Āmēn, āmēn **dīcō** vōbīs: Sī **quis** sermōnem meum servāverit, mortem nōn vidēbit in aeternum”.
 
-52 Dīxērunt ergō **eī** Iūdaeī: ”Nunc cognōvimus quia daemonium habēs. Abraham mortuus **est** et prophētae, et tū **dīcis**: “Sī **quis** sermōnem meum servāverit, nōn gustābit mortem in aeternum”.
+52 Dīxērunt ergō **eī** Iūdaeī: ”Nunc cognōvimus quia daemonium habēs. Ābrahām[\*][abraham] mortuus **est** et prophētae, et tū **dīcis**: “Sī **quis** sermōnem meum servāverit, nōn gustābit mortem in aeternum”.
 
-53 Numquid tū maior **es** patre nostrō Abraham, quī mortuus **est**? Et prophētae mortuī sunt! Quem tēipsum **facis**?”.
+53 Numquid tū maior **es** patre nostrō Ābrahām[\*][abraham], quī mortuus **est**? Et prophētae mortuī sunt! Quem tēipsum **facis**?”.
 
 54 Respondit Iēsūs: ”Sī ego glōrificō meipsum, **glōria** **mea** nihil **est**; **est** Pater meus, quī glōrificat mē, quem vōs dīcitis: “Deus noster **est**!”,
 
 55 et nōn cognōvistis eum. Ego autem **nōvī** eum. Et sī dīxerō: Nōn sciō eum, **erō** **similis** vōbīs, mendāx; sed sciō eum et sermōnem eius servō.
 
-56 Abraham pater vester exsultāvit, ut vidēret diem meum; et vīdit et gāvīsus **est**”.
+56 Ābrahām[\*][abraham] pater vester exsultāvit, ut vidēret diem meum; et vīdit et gāvīsus **est**”.
 
-57 Dīxērunt ergō Iūdaeī ad eum: ”Quīnquāgintā annōs nōndum habēs et Abraham vīdistī?”.
+57 Dīxērunt ergō Iūdaeī ad eum: ”Quīnquāgintā annōs nōndum habēs et Ābrahām[\*][abraham] vīdistī?”.
 
-58 Dīxit eīs Iēsūs: ”Āmēn, āmēn **dīcō** vōbīs: Antequam Abraham fieret, ego sum”.
+58 Dīxit eīs Iēsūs: ”Āmēn, āmēn **dīcō** vōbīs: Antequam Ābrahām[\*][abraham] fieret, ego sum”.
 
 59 Tulērunt ergō lapidēs, ut **iacerent** in eum; Iēsūs autem abscondit sē et exīvit dē templō.
 
@@ -1840,4 +1840,5 @@ Et mīlitēs quidem haec fēcērunt.
 
 25 Sunt autem et **alia** **multa**, quae fēcit Iēsūs; quae, sī scrībantur per **singula**, nec ipsum arbitror mundum capere eōs, quī scrībendī sunt, librōs.
 
+[abraham]: <Ambiguous Forms.md#abraham>
 [moyses]: <Ambiguous Forms.md#moyses>

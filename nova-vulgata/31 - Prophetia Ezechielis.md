@@ -2678,7 +2678,7 @@ Dēscende et dormī cum incircumcīsīs.
 
 23 Et factum **est** verbum Dominī ad mē dīcēns:
 
-24 ”Fīlī hominis, quī habitant in ruīnōsīs hīs super humum Isrāēl, loquentēs aiunt: “Ūnus erat Abraham et **hērēditātē** possēdit terram; nōs autem multī, nōbīs **data** **est** **terra** in possessiōnem”.
+24 ”Fīlī hominis, quī habitant in ruīnōsīs hīs super humum Isrāēl, loquentēs aiunt: “Ūnus erat Ābrahām[\*][abraham] et **hērēditātē** possēdit terram; nōs autem multī, nōbīs **data** **est** **terra** in possessiōnem”.
 
 25 Idcircō **dīcēs** ad eōs: Haec dīcit Dominus Deus: Quī in sanguine comeditis et oculōs vestrōs **levātis** ad īdōla **vestra** et sanguinem funditis, numquid terram **hērēditātē** possidēbitis?
 
@@ -3585,3 +3585,5 @@ et sciēs quia ego Dominus.
 34 Et ad **plāgam** occidentālem quīngentōrum et quattuor **mīlium**, portae trēs: **porta** Gad **ūna**, **porta** Aser **ūna**, **porta** Nephthālī **ūna**.
 
 35 Per circuitum decem et octo **mīlia**, et **nōmen** cīvitātis ex **illā** **diē**: Dominus ibīdem”.
+
+[abraham]: <Ambiguous Forms.md#abraham>

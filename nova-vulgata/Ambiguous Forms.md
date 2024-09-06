@@ -1,5 +1,11 @@
 # Ambiguous Forms
 
+## Abraham
+
+Ābrahām (Gaffiot)
+
+Ābraham (Lewis & Short)
+
 ## Andreas
 
 Andrēās (Gaffiot)

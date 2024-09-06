@@ -97,7 +97,7 @@
 
 23 Post multum vērō temporis mortuus **est** rēx Aegyptī; et ingemīscentēs fīliī Isrāēl propter **opera** vōciferātī sunt, ascenditque clāmor eōrum ad Deum ab operibus.
 
-24 Et audīvit gemitum eōrum ac **recordātus** **est** **foederis**, quod pepigit cum Abraham, Isaāc et Iācōb;
+24 Et audīvit gemitum eōrum ac **recordātus** **est** **foederis**, quod pepigit cum Ābrahām[\*][abraham], Isaāc et Iācōb;
 
 25 et respexit Dominus fīliōs Isrāēl et appāruit eīs.
 
@@ -113,7 +113,7 @@
 
 5 At ille: ”Nē appropiēs, inquit, hūc; solve calceāmentum dē pedibus tuīs; locus enim, in quō stās, **terrā** **sānctā** **est**”.
 
-6 Et ait: ”Ego sum Deus patris tuī, Deus Abraham, Deus Isaāc et Deus Iācōb”. Abscondit Moȳsēs[\*][moyses] faciem suam; nōn enim audēbat aspicere contrā Deum.
+6 Et ait: ”Ego sum Deus patris tuī, Deus Ābrahām[\*][abraham], Deus Isaāc et Deus Iācōb”. Abscondit Moȳsēs[\*][moyses] faciem suam; nōn enim audēbat aspicere contrā Deum.
 
 7 Cui ait Dominus: ”Vīdī afflīctiōnem **populī** meī in Aegyptō et clāmōrem eius audīvī propter dūritiam exāctōrum eōrum.
 
@@ -131,9 +131,9 @@
 
 14 Dīxit Deus ad Moysēn: ”Ego sum quī sum”. Ait: ”Sīc **dīcēs** fīliīs Isrāēl: Quī sum mīsit mē ad vōs”.
 
-15 Dīxitque iterum Deus ad Moysēn: ”Haec **dīcēs** fīliīs Isrāēl: Dominus, Deus patrum vestrōrum, Deus Abraham, Deus Isaāc et Deus lacob, mīsit mē ad vōs; **hoc** **nōmen** mihi **est** in aeternum, et **hoc** memoriāle meum in generātiōnem et generātiōnem.
+15 Dīxitque iterum Deus ad Moysēn: ”Haec **dīcēs** fīliīs Isrāēl: Dominus, Deus patrum vestrōrum, Deus Ābrahām[\*][abraham], Deus Isaāc et Deus lacob, mīsit mē ad vōs; **hoc** **nōmen** mihi **est** in aeternum, et **hoc** memoriāle meum in generātiōnem et generātiōnem.
 
-16 **Vāde** et **congregā** seniōrēs Isrāēl et **dīcēs** ad eōs: Dominus, Deus patrum vestrōrum, appāruit mihi, Deus Abraham, Deus Isaāc et Deus Iācōb, dīcēns: Vīsitāns vīsitāvī vōs et vīdī omnia, quae **accidērunt** vōbīs in Aegyptō;
+16 **Vāde** et **congregā** seniōrēs Isrāēl et **dīcēs** ad eōs: Dominus, Deus patrum vestrōrum, appāruit mihi, Deus Ābrahām[\*][abraham], Deus Isaāc et Deus Iācōb, dīcēns: Vīsitāns vīsitāvī vōs et vīdī omnia, quae **accidērunt** vōbīs in Aegyptō;
 
 17 et dīxī: Ēdūcam vōs dē afflīctiōne Aegyptī in terram Chananaēī et Hetthaēī et Amorraēī et Pherezaēī et Hevaēī et Iebusaēī, ad terram fluentem **lacte** et melle.
 
@@ -157,7 +157,7 @@
 
 4 Dīxitque Dominus: ”Extende **manum** tuam et apprehende caudam eius!”. Extendit et tenuit, **versa**que **est** in virgam.
 
-5 ”Ut crēdant, inquit, quod appāruerit tibi Dominus, Deus patrum suōrum, Deus Abraham, Deus Isaāc et Deus Iācōb”.
+5 ”Ut crēdant, inquit, quod appāruerit tibi Dominus, Deus patrum suōrum, Deus Ābrahām[\*][abraham], Deus Isaāc et Deus Iācōb”.
 
 6 Dīxitque Dominus rūrsum: ”Mitte **manum** tuam in **sinum** tuum!”. Quam cum mīsisset in **sinum**, prōtulit leprōsam īnstar **nivis**.
 
@@ -265,7 +265,7 @@
 
 2 **Locūtus**que **est** Dominus ad Moysēn dīcēns: ”Ego Dominus,
 
-3 quī appāruī Abraham, Isaāc et Iācōb ut Deus omnipotēns; et **nōmen** meum Dominum nōn indicāvī eīs.
+3 quī appāruī Ābrahām[\*][abraham], Isaāc et Iācōb ut Deus omnipotēns; et **nōmen** meum Dominum nōn indicāvī eīs.
 
 4 Pepigīque cum eīs foedus, ut darem illīs terram Chanaan, terram peregrīnātiōnis eōrum, in **quā** fuērunt advenae.
 
@@ -275,7 +275,7 @@
 
 7 Et assūmam vōs mihi in **populum** et **erō** vester Deus; et sciētis quod ego sum Dominus Deus vester, quī ēdūxerim vōs dē ergastulō Aegyptiōrum
 
-8 et indūxerim in terram, super quam **levāvī** **manum** meam, ut darem eam Abraham, Isaāc et Iācōb; dabōque illam vōbīs **possidendam**, ego Dominus”.
+8 et indūxerim in terram, super quam **levāvī** **manum** meam, ut darem eam Ābrahām[\*][abraham], Isaāc et Iācōb; dabōque illam vōbīs **possidendam**, ego Dominus”.
 
 9 Nārrāvit ergō Moȳsēs[\*][moyses] omnia fīliīs Isrāēl; quī nōn acquiēvērunt **eī** propter angustiam **spīritus** et opus dūrissimum.
 
@@ -1991,7 +1991,7 @@ Postquam **implēverīs** **manūs** Aarōn et fīliōrum eius,
 
 12 Nē, quaesō, **dīcant** Aegyptiī: "**Callidē** ēdūxit eōs, ut interficeret in montibus et dēlēret ē **terrā**". Quiēscat **īra** **tua**, et **estō** **plācābilis** super **nēquitiā** **populī** tuī.
 
-13 Recordāre Abraham, Isaāc et Isrāēl servōrum tuōrum, quibus iūrāstī per tēmetipsum dīcēns: "Multiplicābō sēmen vestrum sīcut stēllās caelī; et ūniversam terram hanc, dē **quā** **locūtus** sum, dabō sēminī vestrō, et possidēbitis eam semper"”.
+13 Recordāre Ābrahām[\*][abraham], Isaāc et Isrāēl servōrum tuōrum, quibus iūrāstī per tēmetipsum dīcēns: "Multiplicābō sēmen vestrum sīcut stēllās caelī; et ūniversam terram hanc, dē **quā** **locūtus** sum, dabō sēminī vestrō, et possidēbitis eam semper"”.
 
 14 Plācātusque **est** Dominus, nē faceret **malum**, quod **locūtus** fuerat adversus **populum** suum.
 
@@ -2047,7 +2047,7 @@ ego audiō”.
 
 ## 33
 
-1 **Locūtus**que **est** Dominus ad Moysēn: ”**Vade**, ascende dē locō istō, tū et **populus** tuus, quem ēdūxistī dē **terrā** Aegyptī, in terram, quam iūrāvī Abraham, Isaāc et Iācōb dīcēns: Sēminī tuō dabō eam.
+1 **Locūtus**que **est** Dominus ad Moysēn: ”**Vade**, ascende dē locō istō, tū et **populus** tuus, quem ēdūxistī dē **terrā** Aegyptī, in terram, quam iūrāvī Ābrahām[\*][abraham], Isaāc et Iācōb dīcēns: Sēminī tuō dabō eam.
 
 2 Et mittam praecursōrem tuī angelum et ēiciam Chananaeum et Amorraeum et Hetthaeum et Pherezaeum et Hevaeum et Iebusaeum,
 
@@ -2607,4 +2607,5 @@ Nōn coquēs haedum in **lacte** mātris suae”.
 
 38 Nūbēs quippe Dominī incubābat per diem habitāculō, et **ignis** in nocte, ante oculōs ūniversae **domus** Isrāēl per cūnctās mānsiōnēs suās.
 
+[abraham]: <Ambiguous Forms.md#abraham>
 [moyses]: <Ambiguous Forms.md#moyses>
