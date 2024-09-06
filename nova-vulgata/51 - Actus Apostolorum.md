@@ -230,7 +230,7 @@ replēbis mē iūcunditāte cum faciē tuā”.
 
 18 Deus autem, quae praenūntiāvit per ōs omnium Prophētārum patī Chrīstum suum, implēvit sīc.
 
-19 Paenitēminī igitur et convertiminī, ut dēleantur vestra peccāta\*,
+19 Paenitēminī igitur et convertiminī, ut dēleantur vestra peccāta,
 
 20 ut veniant tempora refrīgeriī ā cōnspectū Dominī, et mittat eum, quī praedēstinātus est vōbīs Chrīstus, Iēsum,
 
