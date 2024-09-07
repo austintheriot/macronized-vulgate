@@ -312,29 +312,31 @@ et prīncipēs convēnērunt in ūnum
 
 adversus Dominum et adversus Chrīstum eius”.
 
-27 Convēnērunt enim vērē in cīvitāte istā adversus sānctum puerum tuum Iēsum, quem ūnxistī, Hērōdēs et Pontius Pīlātus cum gentibus et **populīs** Isrāēl
+27 Convēnērunt enim vērē in cīvitāte istā adversus sānctum puerum tuum Iēsum, quem ūnxistī, Hērōdēs et Pontius Pīlātus cum gentibus et populīs Isrāēl
 
-28 facere, quaecumque **manus** **tua** et cōnsilium praedēstināvit fierī.
+28 facere, quaecumque manus tua et cōnsilium praedēstināvit fierī.
 
-29 Et nunc, Domine, respice in minās eōrum et dā servīs tuīs cum omnī **fīdūciā** loquī verbum tuum, 30 in eō quod **manum** tuam extendās ad sānitātem et **signa** et prōdigia **facienda** per **nōmen** sānctī puerī tuī Iēsū”.
+29 Et nunc, Domine, respice in minās eōrum et dā servīs tuīs cum omnī fīdūciā loquī verbum tuum,
 
-31 Et cum ōrāssent, **mōtus** **est** locus, in quō erant congregātī, et replētī sunt omnēs Sānctō Spīritū et loquēbantur verbum Deī cum **fīdūciā**.
+30 in eō quod manum tuam extendās ad sānitātem et signa et prōdigia facienda per nōmen sānctī puerī tuī Iēsū”.
 
-32 Multitūdinis autem crēdentium erat cor et **anima** **ūna**, nec quisquam eōrum, quae **possidēbant**, aliquid suum **esse** dīcēbat, sed erant illīs omnia commūnia.
+31 Et cum ōrāssent, mōtus est locus, in quō erant congregātī, et replētī sunt omnēs Sānctō Spīritū et loquēbantur verbum Deī cum fīdūciā.
 
-33 Et virtūte **magnā** reddēbant apostolī testimōnium resurrēctiōnis Dominī Iēsū, et **grātia** **magna** erat super omnibus illīs.
+32 Multitūdinis autem crēdentium erat cor et anima ūna, nec quisquam eōrum, quae possidēbant, aliquid suum esse dīcēbat, sed erant illīs omnia commūnia.
 
-34 Neque enim quisquam egēns erat inter illōs; quotquot enim possessōrēs agrōrum aut domōrum erant, vēndentēs afferēbant **pretia** eōrum, quae vēndēbant,
+33 Et virtūte magnā reddēbant apostolī testimōnium resurrēctiōnis Dominī Iēsū, et grātia magna erat super omnibus illīs.
 
-35 et pōnēbant ante **pedēs** apostolōrum; dīvidēbātur autem singulīs, prout cuique opus erat.
+34 Neque enim quisquam egēns erat inter illōs; quotquot enim possessōrēs agrōrum aut domōrum erant, vēndentēs afferēbant pretia eōrum, quae vēndēbant,
 
-36 Iōsēph autem, quī cognōminātus **est** Barnabās ab apostolīs — quod **est** interpretātum fīlius Cōnsōlātiōnis — Lēvītēs, Cyprius genere,
+35 et pōnēbant ante pedēs apostolōrum; dīvidēbātur autem singulīs, prout cuique opus erat.
 
-37 cum habēret agrum, vēndidit et attulit pecūniam et posuit ante **pedēs** apostolōrum.
+36 Iōsēph autem, quī cognōminātus est Barnabās ab apostolīs — quod est interpretātum fīlius Cōnsōlātiōnis — Lēvītēs, Cyprius genere,
+
+37 cum habēret agrum, vēndidit et attulit pecūniam et posuit ante pedēs apostolōrum.
 
 ## 5
 
-1 Vir autem quīdam nōmine Ananiās cum Sapphirā uxōre **suā** vēndidit agrum
+1 Vir autem quīdam nōmine **Ananiās** cum **Sapphirā** uxōre **suā** vēndidit agrum
 
 2 et subtrāxit dē pretiō, **cōnsciā** **quoque** uxōre, et afferēns partem quandam ad **pedēs** apostolōrum posuit.
 
@@ -702,13 +704,13 @@ Quoniam tollitur dē **terrā** **vīta** eius”.
 
 9 Et erat **tribus** diēbus nōn vidēns et nōn mandūcāvit neque bibit.
 
-10 Erat autem quīdam discipulus Damascī nōmine Ananiās; et dīxit ad illum in vīsū Dominus: “Anānia”. At ille ait: “Ecce ego, Domine”.
+10 Erat autem quīdam discipulus Damascī nōmine **Ananiās**; et dīxit ad illum in vīsū Dominus: “Anānia”. At ille ait: “Ecce ego, Domine”.
 
 11 Et Dominus ad illum: “Surgēns **vāde** in vīcum, quī vocātur Rēctus, et quaere in domō Iūdae Saulum nōmine Tarsēnsem; ecce enim ōrat
 
 12 et vīdit **virum** Anāniam nōmine introeuntem et impōnentem sibi **manūs**, ut vīsum recipiat”.
 
-13 Respondit autem Ananiās: “Domine, audīvī ā multīs dē **virō** **hoc**, **quanta** **mala** sānctīs tuīs fēcerit in Ierūsalēm;
+13 Respondit autem **Ananiās**: “Domine, audīvī ā multīs dē **virō** **hoc**, **quanta** **mala** sānctīs tuīs fēcerit in Ierūsalēm;
 
 14 et **hic** habet potestātem ā prīncipibus sacerdōtum alligandī omnēs, quī invocant **nōmen** tuum”.
 
@@ -716,7 +718,7 @@ Quoniam tollitur dē **terrā** **vīta** eius”.
 
 16 ego enim ostendam illī **quanta** oporteat eum prō nōmine meō patī”.
 
-17 Et abiit Ananiās; et introīvit in domum et impōnēns **eī** **manūs** dīxit: “Saūl frāter, Dominus mīsit mē, Iēsūs quī appāruit tibi in **viā**, **quā** veniēbās, ut videās et impleāris Spīritū Sānctō”.
+17 Et abiit **Ananiās**; et introīvit in domum et impōnēns **eī** **manūs** dīxit: “Saūl frāter, Dominus mīsit mē, Iēsūs quī appāruit tibi in **viā**, **quā** veniēbās, ut videās et impleāris Spīritū Sānctō”.
 
 18 Et cōnfestim **cecidērunt** ab oculīs eius tamquam squāmae, et vīsum recēpit. Et surgēns baptīzātus **est**
 
@@ -1728,7 +1730,7 @@ dīcit Dominus faciēns haec 18 **nota** ā saeculō”.
 
 11 Et cum nōn vidērem prae clāritāte lūminis illīus, ad **manum** **dēductus** ā comitibus **venī** **Damascum**.
 
-12 Ananiās autem quīdam vir religiōsus secundum lēgem, testimōnium habēns ab omnibus habitantibus Iūdaeīs,
+12 **Ananiās** autem quīdam vir religiōsus secundum lēgem, testimōnium habēns ab omnibus habitantibus Iūdaeīs,
 
 13 veniēns ad mē et astāns dīxit mihi: “Saūl frāter, respice!”. Et ego **eādem** **hōrā** respexī in eum.
 
