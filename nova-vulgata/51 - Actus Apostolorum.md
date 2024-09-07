@@ -312,7 +312,7 @@ et prīncipēs convēnērunt in ūnum
 
 adversus Dominum et adversus Chrīstum eius”.
 
-27 Convēnērunt enim vērē in cīvitāte istā adversus sānctum puerum tuum Iēsum, quem ūnxistī, **Hērōdēs** et **Pontius** **Pīlātus** cum gentibus et **populīs** Isrāēl
+27 Convēnērunt enim vērē in cīvitāte istā adversus sānctum puerum tuum Iēsum, quem ūnxistī, Hērōdēs et **Pontius** **Pīlātus** cum gentibus et **populīs** Isrāēl
 
 28 facere, quaecumque **manus** **tua** et cōnsilium praedēstināvit fierī.
 
@@ -936,7 +936,7 @@ Sequentī autem **diē**, surgēns **profectus** **est** cum eīs, et quīdam ex
 
 ## 12
 
-1 Illō autem tempore, mīsit **Hērōdēs** rēx **manūs**, ut afflī geret quōsdam dē **ecclēsiā**.
+1 Illō autem tempore, mīsit Hērōdēs rēx **manūs**, ut afflī geret quōsdam dē **ecclēsiā**.
 
 2 **Occidit** autem Iacobum frātrem Iōannis gladiō.
 
@@ -946,7 +946,7 @@ Sequentī autem **diē**, surgēns **profectus** **est** cum eīs, et quīdam ex
 
 5 Et Petrus quidem servābātur in carcere; ōrātiō autem fīēbat **sine** intermissiōne ab **ecclēsiā** ad Deum prō eō.
 
-6 Cum autem prōductūrus eum **esset** **Hērōdēs**, in **ipsā** nocte erat Petrus dormiēns inter duōs mīlitēs **vīnctus** catēnīs duābus, et cūstōdēs ante ōstium cūstōdiēbant carcerem.
+6 Cum autem prōductūrus eum **esset** Hērōdēs, in **ipsā** nocte erat Petrus dormiēns inter duōs mīlitēs **vīnctus** catēnīs duābus, et cūstōdēs ante ōstium cūstōdiēbant carcerem.
 
 7 Et ecce angelus Dominī astitit, et lūmen refulsit in habitāculō; percussō autem **latere** Petrī, suscitāvit eum dīcēns: “Surge vēlōciter!”. Et **cecidērunt** catēnae dē manibus eius.
 
@@ -956,7 +956,7 @@ Sequentī autem **diē**, surgēns **profectus** **est** cum eīs, et quīdam ex
 
 10 Trānseuntēs autem prīmam cūstōdiam et secundam vēnērunt ad portam ferream, quae dūcit ad cīvitātem, quae ultrō **aperta** **est** eīs, et exeuntēs prōcessērunt vīcum ūnum, et continuō discessit angelus ab eō.
 
-11 Et Petrus ad sē reversus dīxit: “Nunc sciō **vērē** quia mīsit Dominus angelum suum et ēripuit mē dē manū **Hērōdis** et dē omnī exspectātiōne **plēbis** Iūdaeōrum”.
+11 Et Petrus ad sē reversus dīxit: “Nunc sciō **vērē** quia mīsit Dominus angelum suum et ēripuit mē dē manū Hērōdis et dē omnī exspectātiōne **plēbis** Iūdaeōrum”.
 
 12 Cōnsīderānsque **venit** ad domum **Mariae** mātris Iōannis, quī cognōminātur Mārcus, ubi erant multī congregātī et ōrantēs.
 
@@ -972,11 +972,11 @@ Sequentī autem **diē**, surgēns **profectus** **est** cum eīs, et quīdam ex
 
 18 **Facta** autem **diē**, erat nōn **parva** turbātiō inter mīlitēs, quidnam dē Petrō factum **esset**.
 
-19 **Hērōdēs** autem, cum requīsīsset eum et nōn invēnisset, **interrogātīs** cūstōdibus, iussit eōs abdūcī; dēscendēnsque ā **Iūdaeā** in **Caesarēam** ibi commorābātur.
+19 Hērōdēs autem, cum requīsīsset eum et nōn invēnisset, **interrogātīs** cūstōdibus, iussit eōs abdūcī; dēscendēnsque ā **Iūdaeā** in **Caesarēam** ibi commorābātur.
 
 20 Erat autem īrātus Tyriīs et **Sīdoniīs**; at illī ūnanimēs vēnērunt ad eum et, persuāsō Blastō, quī erat super cubiculum **rēgis**, postulābant pācem, eō quod alerētur **regiō** eōrum ab **annōnā** **rēgis**.
 
-21 Statūtō autem **diē**, **Hērōdēs**, **vestītus** veste **rēgiā**, sedēns prō tribunalicontiōnābātur ad eōs;
+21 Statūtō autem **diē**, Hērōdēs, **vestītus** veste **rēgiā**, sedēns prō tribunalicontiōnābātur ad eōs;
 
 22 **populus** autem acclāmābat: “Deī vōx et nōn hominis!”.
 
@@ -1836,7 +1836,7 @@ dīcit Dominus faciēns haec 18 **nota** ā saeculō”.
 
 34 Cum lēgisset autem et interrogāsset dē **quā** **prōvinciā** **esset**, et cognōscēns quia dē **Ciliciā**:
 
-35 “**Audīam** tē, inquit, cum et accūsātōrēs tuī vēnerint”; iussitque in praetōriō **Hērōdis** cūstōdīrī eum.
+35 “**Audīam** tē, inquit, cum et accūsātōrēs tuī vēnerint”; iussitque in praetōriō Hērōdis cūstōdīrī eum.
 
 ## 24
 

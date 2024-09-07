@@ -62,11 +62,11 @@ Cum **esset** **dēspōnsāta** māter eius **Maria** Ioseph, antequam convenīr
 
 ## 2
 
-1 Cum autem **nātus** **esset** Iēsūs in Bethlehem Iūdaeae in diēbus **Hērōdis** **rēgis**, ecce Magī ab oriente vēnērunt Hierosolymam
+1 Cum autem **nātus** **esset** Iēsūs in Bethlehem Iūdaeae in diēbus Hērōdis **rēgis**, ecce Magī ab oriente vēnērunt Hierosolymam
 
 2 dīcentēs: ”**Ubi** **est**, quī **nātus** **est**, rēx Iūdaeōrum? Vīdimus enim stēllam eius in oriente et **vēnimus** adōrāre eum”.
 
-3 Audiēns autem **Hērōdēs** rēx turbātus **est** et **omnīs** Hierosolyma cum illō;
+3 Audiēns autem Hērōdēs rēx turbātus **est** et **omnīs** Hierosolyma cum illō;
 
 4 et congregāns omnēs prīncipēs sacerdōtum et scrībās **populī**, scīscitābātur ab eīs ubi Chrīstus nāscerētur.
 
@@ -80,7 +80,7 @@ ex tē enim exiet dux,
 
 quī reget **populum** meum Isrāēl"”.
 
-7 Tunc **Hērōdēs**, clam **vocātīs** **Magis**, dīligenter didicit ab eīs tempus stēllae, quae appāruit eīs;
+7 Tunc Hērōdēs, clam **vocātīs** **Magis**, dīligenter didicit ab eīs tempus stēllae, quae appāruit eīs;
 
 8 et mittēns illōs in Bethlehem dīxit: ”**Īte** et **interrogātē** dīligenter dē puerō; et cum **invēnerītis**, **renūntiātē** mihi, ut et ego veniēns adōrem eum”.
 
@@ -92,15 +92,15 @@ quī reget **populum** meum Isrāēl"”.
 
 12 Et respōnsō acceptō in somnīs, nē redīrent ad Hērōdem, per aliam viam reversī sunt in regiōnem suam.
 
-13 Quī cum recessissent, ecce angelus Dominī **appāret** in somnīs Ioseph dīcēns: ”Surge et accipe puerum et mātrem eius et fuge in Aegyptum et **estō** ibi, usque dum **dīcam** tibi; futūrum **est** enim ut **Hērōdēs** quaerat puerum ad perdendum eum”.
+13 Quī cum recessissent, ecce angelus Dominī **appāret** in somnīs Ioseph dīcēns: ”Surge et accipe puerum et mātrem eius et fuge in Aegyptum et **estō** ibi, usque dum **dīcam** tibi; futūrum **est** enim ut Hērōdēs quaerat puerum ad perdendum eum”.
 
 14 Quī cōnsurgēns accēpit puerum et mātrem eius nocte et recessit in Aegyptum
 
-15 et erat ibi usque ad obitum **Hērōdis**, ut adimplērētur, quod dictum **est** ā Dominō per prophētam dīcentem:
+15 et erat ibi usque ad obitum Hērōdis, ut adimplērētur, quod dictum **est** ā Dominō per prophētam dīcentem:
 
 ”Ex Aegyptō vocāvī fīlium meum”.
 
-16 Tunc **Hērōdēs** vidēns quoniam illūsus **esset** ā **Magis**, īrātus **est** valdē et mittēns **occīdit** omnēs puerōs, quī erant in Bethlehem et in omnibus fīnibus eius, ā bīmātū et īnfrā, secundum tempus, quod exquīsierat ā **Magis**.
+16 Tunc Hērōdēs vidēns quoniam illūsus **esset** ā **Magis**, īrātus **est** valdē et mittēns **occīdit** omnēs puerōs, quī erant in Bethlehem et in omnibus fīnibus eius, ā bīmātū et īnfrā, secundum tempus, quod exquīsierat ā **Magis**.
 
 17 Tunc adimplētum **est**, quod dictum **est** per Iēremīam prophētam dīcentem:
 
@@ -1054,17 +1054,17 @@ et sānem eōs".
 
 ## 14
 
-1 In illō tempore audīvit **Hērōdēs** **tetrarcha** fāmam Iēsū
+1 In illō tempore audīvit Hērōdēs **tetrarcha** fāmam Iēsū
 
 2 et ait puerīs **suīs**: ”**Hic** **est** Iōannēs **Baptista**; ipse surrēxit ā mortuīs, et ideō virtūtēs operantur in eō”.
 
-3 **Hērōdēs** enim tenuit Iōannem et alligāvit eum et posuit in carcere propter Herodiadem uxōrem Philippī frātris **suī**.
+3 Hērōdēs enim tenuit Iōannem et alligāvit eum et posuit in carcere propter Herodiadem uxōrem Philippī frātris **suī**.
 
 4 Dīcēbat enim illī Iōannēs: ”Nōn licet tibi habēre eam”.
 
 5 Et volēns illum **occīdere**, timuit **populum**, quia sīcut prophētam eum habēbant.
 
-6 **Diē** autem **nātālis** **Hērōdis** saltāvit **fīlia** Herodiadis in **mediō** et placuit Hērōdī,
+6 **Diē** autem **nātālis** Hērōdis saltāvit **fīlia** Herodiadis in **mediō** et placuit Hērōdī,
 
 7 unde cum iūrāmentō pollicitus **est** **eī** dare, quodcumque postulāsset.
 

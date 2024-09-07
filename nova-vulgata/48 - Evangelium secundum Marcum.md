@@ -438,21 +438,21 @@ Et circumībat castella in circuitū docēns.
 
 13 et daemonia **multa** ēiciēbant et ungēbant oleō multōs aegrōtōs et sānābant.
 
-14 Et audīvit **Hērōdēs** rēx; manifēstum enim factum **est** **nōmen** eius. Et dīcēbant: ”Iōannēs **Baptista** resurrēxit ā mortuīs, et proptereā inoperantur virtūtēs in illō”.
+14 Et audīvit Hērōdēs rēx; manifēstum enim factum **est** **nōmen** eius. Et dīcēbant: ”Iōannēs **Baptista** resurrēxit ā mortuīs, et proptereā inoperantur virtūtēs in illō”.
 
 15 **Aliī** autem dīcēbant: ”**Ēlias** **est**”. **Aliī** vērō dīcēbant: ”**Prophēta** **est**, quasi ūnus ex **prophētīs**”.
 
-16 Quō audītō, **Hērōdēs** aiēbat: ”Quem ego dēcollāvī Iōannem, **hic** resurrēxit!”.
+16 Quō audītō, Hērōdēs aiēbat: ”Quem ego dēcollāvī Iōannem, **hic** resurrēxit!”.
 
-17 Ipse enim **Hērōdēs** mīsit ac tenuit Iōannem et vīnxit eum in carcere propter Herodiadem uxōrem Philippī frātris **suī**, quia dūxerat eam.
+17 Ipse enim Hērōdēs mīsit ac tenuit Iōannem et vīnxit eum in carcere propter Herodiadem uxōrem Philippī frātris **suī**, quia dūxerat eam.
 
 18 Dīcēbat enim Iōannēs Hērōdī: ”Nōn licet tibi habēre uxōrem frātris tuī”.
 
 19 Herodīās autem īnsidiābātur illī et volēbat **occīdere** eum nec poterat:
 
-20 **Hērōdēs** enim metuēbat Iōannem, sciēns eum **virum** iūstum et sānctum, et cūstōdiēbat eum, et, audītō eō, multum haesitābat et libenter eum audiēbat.
+20 Hērōdēs enim metuēbat Iōannem, sciēns eum **virum** iūstum et sānctum, et cūstōdiēbat eum, et, audītō eō, multum haesitābat et libenter eum audiēbat.
 
-21 Et cum diēs opportūnus **accidisset**, quō **Hērōdēs** nātālī suō cēnam fēcit prīncipibus **suīs** et tribūnīs et prīmīs Galilaeae,
+21 Et cum diēs opportūnus **accidisset**, quō Hērōdēs nātālī suō cēnam fēcit prīncipibus **suīs** et tribūnīs et prīmīs Galilaeae,
 
 22 cumque introīsset **fīlia** ipsīus Herodiadis et saltāsset, placuit Hērōdī simulque recumbentibus. Rēx ait puellae: ”Pete ā mē, quod vīs, et dabō tibi”.
 
@@ -636,7 +636,7 @@ eum coinquināre; sed quae dē homine prōcēdunt, **illa** sunt, quae coinquina
 
 14 Et **oblītī** sunt **sūmere** pānēs et **nisi** ūnum pānem nōn habēbant sēcum in nāvī.
 
-15 Et praecipiēbat eīs dīcēns: ”Vidēte, cavēte ā fermentō **pharisaeōrum** et fermentō **Hērōdis**!”.
+15 Et praecipiēbat eīs dīcēns: ”Vidēte, cavēte ā fermentō **pharisaeōrum** et fermentō Hērōdis!”.
 
 16 Et disputābant ad invicem, quia pānēs nōn habērent.
 
