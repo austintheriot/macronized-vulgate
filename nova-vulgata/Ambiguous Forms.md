@@ -22,6 +22,10 @@ ferē (Classical)
 
 fere (Late Latin)
 
+## Gamaliel
+
+Gamaliēl (uncertain vowel length, following the Greek Γαμαλιήλ)
+
 ## Galilaea
 
 Galilaea (Gaffiot)

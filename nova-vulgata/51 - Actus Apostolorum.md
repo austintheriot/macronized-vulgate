@@ -382,29 +382,29 @@ Adveniēns autem prīnceps sacerdōtum et, quī cum eō erant, convocāvērunt c
 
 22 Cum vēnissent autem ministrī, nōn invēnērunt illōs in carcere; reversī autem nūntiāvērunt
 
-23 dīcentēs: “Carcerem **invenīmus** clausum cum omnī **dīligentiā** et cūstōdēs stantēs ad iānuās; aperientēs autem intus nēminem **invenīmus**!”.
+23 dīcentēs: “Carcerem invēnimus clausum cum omnī dīligentiā et cūstōdēs stantēs ad iānuās; aperientēs autem intus nēminem invēnimus!”.
 
-24 Ut audiērunt autem hōs sermōnēs, **magistrātūs** templī et prīncipēs sacerdōtum ambigēbant dē illīs quidnam fieret illud.
+24 Ut audiērunt autem hōs sermōnēs, magistrātus templī et prīncipēs sacerdōtum ambigēbant dē illīs quidnam fieret illud.
 
-25 Adveniēns autem quīdam nūntiāvit eīs: “Ecce **virī**, quōs posuistis in carcere, sunt in templō stantēs et docentēs **populum**”.
+25 Adveniēns autem quīdam nūntiāvit eīs: “Ecce virī, quōs posuistis in carcere, sunt in templō stantēs et docentēs populum”.
 
-26 Tunc abiēns **magistrātūs** cum ministrīs addūcēbat illōs, nōn per vim; timēbant enim **populum**, nē lapidārentur.
+26 Tunc abiēns magistrātus cum ministrīs addūcēbat illōs, nōn per vim; timēbant enim populum, nē lapidārentur.
 
 27 Et cum addūxissent illōs, statuērunt in conciliō. Et interrogāvit eōs prīnceps sacerdōtum
 
-28 dīcēns: “**Nōnne** praecipiendō praecēpimus vōbīs, nē docērētis in nōmine istō? Et ecce replēvistis Ierūsalēm **doctrīnā** **vestrā** et vultis **indūcere** super nōs sanguinem hominis istīus”.
+28 dīcēns: “Nōnne praecipiendō praecēpimus vōbīs, nē docērētis in nōmine istō? Et ecce replēvistis Ierūsalēm doctrīnā vestrā et vultis indūcere super nōs sanguinem hominis istīus”.
 
-29 Respondēns autem Petrus et apostolī dīxērunt: “Oboedīre oportet Deō **magis** quam hominibus.
+29 Respondēns autem Petrus et apostolī dīxērunt: “Oboedīre oportet Deō magis quam hominibus.
 
 30 Deus patrum nostrōrum suscitāvit Iēsum, quem vōs interēmistis suspendentēs in lignō;
 
-31 hunc Deus Ducem et Salvātōrem exaltāvit **dexterā** **suā** ad dandam paenitentiam Isrāēl et remissiōnem peccātōrum.
+31 hunc Deus Ducem et Salvātōrem exaltāvit dexterā suā ad dandam paenitentiam Isrāēl et remissiōnem peccātōrum.
 
-32 Et nōs sumus testēs hōrum verbōrum, et **Spīritus** Sānctus, quem **dedit** Deus oboedientibus sibi”.
+32 Et nōs sumus testēs hōrum verbōrum, et Spīritus Sānctus, quem dedit Deus oboedientibus sibi”.
 
 33 Haec cum audīssent, dissecābantur et volēbant interficere illōs.
 
-34 Surgēns autem quīdam in conciliō pharisaeus nōmine Gamaliel, **lēgis** doctor **honōrābilis** ūniversae plēbī, iussit forās ad breve hominēs fierī
+34 Surgēns autem quīdam in conciliō pharisaeus nōmine Gamaliēl[\*][gamaliel], **lēgis** doctor **honōrābilis** ūniversae plēbī, iussit forās ad breve hominēs fierī
 
 35 dīxitque ad illōs: “**Virī** Isrāēlītae, attendite vōbīs super hominibus istīs quid āctūrī **sītis**.
 
@@ -1712,7 +1712,7 @@ dīcit Dominus faciēns haec 18 **nota** ā saeculō”.
 
 1 “**Virī** frātrēs et patrēs, audī tē ā mē, quam ad vōs nunc reddō, ratiōnem”. 2 Cum audīssent autem quia Hebraea **lingua** loquēbātur ad illōs, **magis** praestitērunt silentium. Et dīxit:
 
-3 “Ego sum vir Iūdaeus, **nātus** Tarsō Ciliciae, ēnūtrītus autem in **istā** cīvitāte, secus **pedēs** Gamaliēl **ērudītus** iuxtā vēritātem paternae **lēgis**, aemulātor Deī, sīcut et vōs omnēs **estis** hodiē.
+3 “Ego sum vir Iūdaeus, **nātus** Tarsō Ciliciae, ēnūtrītus autem in **istā** cīvitāte, secus **pedēs** Gamaliēl[\*][gamaliel] **ērudītus** iuxtā vēritātem paternae **lēgis**, aemulātor Deī, sīcut et vōs omnēs **estis** hodiē.
 
 4 Quī hanc viam persecūtus sum usque ad mortem, alligāns et trādēns in cūstōdiās virōs ac mulierēs,
 
@@ -2192,6 +2192,7 @@ et sānābō illōs”.
 [ananias]: <Ambiguous Forms.md#ananias>
 [andreas]: <Ambiguous Forms.md#andreas>
 [fere]: <Ambiguous Forms.md#fere>
+[gamaliel]: <Ambiguous Forms.md#gamaliel>
 [galilaea]: <Ambiguous Forms.md#galilaea>
 [jacob]: <Ambiguous Forms.md#jacob>
 [matthias]: <Ambiguous Forms.md#matthias>

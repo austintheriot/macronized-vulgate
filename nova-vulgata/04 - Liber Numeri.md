@@ -23,7 +23,7 @@
 
 9 dē **Zabulōn** Eliab fīlius Helōn.
 
-10 Fīliōrum autem Ioseph: dē Ephraim Elisāmā fīlius Ammiud; dē Mānāsse Gamaliel fīlius Phadassur.
+10 Fīliōrum autem Ioseph: dē Ephraim Elisāmā fīlius Ammiud; dē Mānāsse Gamaliēl[\*][gamaliel] fīlius Phadassur.
 
 11 Dē Beniamin Abidān fīlius Gedeōnis;
 
@@ -151,7 +151,7 @@
 
 19 cūnctus **exercitus** pugnātōrum eius, quī numerātī sunt, quadrāgintā **mīlia** quīngentī.
 
-20 Et cum eīs **tribus** fīliōrum Mānāsse, quōrum prīnceps fuit Gamaliel fīlius Phadassur;
+20 Et cum eīs **tribus** fīliōrum Mānāsse, quōrum prīnceps fuit Gamaliēl[\*][gamaliel] fīlius Phadassur;
 
 21 cūnctusque **exercitus** pugnātōrum eius, quī numerātī sunt, trīgintā duo **mīlia** **ducentī**.
 
@@ -609,7 +609,7 @@
 
 53 et in hostiās pācificōrum bovēs duōs, arietēs quīnque, hircōs quīnque, **agnōs** anniculōs quīnque: haec fuit oblātiō Elisama fīliī Ammiud.
 
-54 **Diē** octāvō prīnceps fīliōrum Mānāsse Gamaliel fīlius Phadassur
+54 **Diē** octāvō prīnceps fīliōrum Mānāsse Gamaliēl[\*][gamaliel] fīlius Phadassur
 
 55 obtulit scutulam argenteam appendentem centum trīgintā siclōs, phialam argenteam habentem septuāgintā siclōs ad pondus sānctuāriī, utramque plēnam **simila** **cōnspersa** oleō in sacrificium,
 
@@ -619,7 +619,7 @@
 
 58 hircumque prō peccātō;
 
-59 et in hostiās pācificōrum bovēs duōs, arietēs quīnque, hircōs quīnque, **agnōs** anniculōs quīnque: haec fuit oblātiō Gamaliel fīliī Phadassur.
+59 et in hostiās pācificōrum bovēs duōs, arietēs quīnque, hircōs quīnque, **agnōs** anniculōs quīnque: haec fuit oblātiō Gamaliēl[\*][gamaliel] fīliī Phadassur.
 
 60 **Diē** nōnō prīnceps fīliōrum Beniamin Abidan fīlius Gedeōnis
 
@@ -831,7 +831,7 @@ Sīcque pūrificābis et agitābis eōs,
 
 22 Ēlevātum **est** vēxillum castrōrum fīliōrum Ephraim per turmās suās, in quōrum **exercitū** prīnceps erat Elisama fīlius Ammiud.
 
-23 Et super turmam **tribus** fīliōrum Mānāsse prīnceps fuit Gamaliel fīlius Phadassur;
+23 Et super turmam **tribus** fīliōrum Mānāsse prīnceps fuit Gamaliēl[\*][gamaliel] fīlius Phadassur;
 
 24 et super turmam **tribus** fīliōrum Beniamin erat dux Abidan fīlius Gedeōnis.
 
@@ -2790,5 +2790,6 @@ Hanc habēbitis terram per fīnēs suōs in circuitū”.
 13 Haec sunt **mandāta** atque iūdicia, quae mandāvit Dominus per **manum** Moȳsī ad fīliōs Isrāēl in campestribus Moab suprā Iordānem contrā Ierichō.
 
 [abraham]: <Ambiguous Forms.md#abraham>
+[gamaliel]: <Ambiguous Forms.md#gamaliel>
 [moyses]: <Ambiguous Forms.md#moyses>
 [samuel]: <Ambiguous Forms.md#samuel>
