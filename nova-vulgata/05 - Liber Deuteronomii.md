@@ -1553,11 +1553,11 @@
 
 13 fīliī **quoque** eōrum, quī nunc ignōrant, audiant et discant timēre Dominum Deum vestrum cūnctīs diēbus, quibus versāminī in **terrā**, ad quam vōs, Iordāne trānsmissō, pergitis obtinendam”.
 
-14 Et ait Dominus ad Moysēn: ”Ecce prope sunt diēs **mortis** tuae; vocā **Ios**ue, et **statē** in tabernāculō **conventūs**, ut praecipiam **eī**”. Abiērunt ergō Moȳsēs[\*][moyses] et **Iōs**ue et stetērunt in tabernāculō **conventūs**;
+14 Et ait Dominus ad Moȳsēn[\*][moyses]: ”Ecce prope sunt diēs **mortis** tuae; vocā **Ios**ue, et **statē** in tabernāculō **conventūs**, ut praecipiam **eī**”. Abiērunt ergō Moȳsēs[\*][moyses] et **Iōs**ue et stetērunt in tabernāculō **conventūs**;
 
 15 appāruitque Dominus ibi in **columnā** **nūbis**, quae stetit in introitū tabernāculī.
 
-16 Dīxitque Dominus ad Moysēn: ”Ecce tū dormiēs cum patribus tuīs, et **populus** iste cōnsurgēns fornicābitur post deōs aliēnōs terrae, ad quam ingrediētur; ibi dērelinquet mē et irritum faciet foedus, quod pepigī cum eō.
+16 Dīxitque Dominus ad Moȳsēn[\*][moyses]: ”Ecce tū dormiēs cum patribus tuīs, et **populus** iste cōnsurgēns fornicābitur post deōs aliēnōs terrae, ad quam ingrediētur; ibi dērelinquet mē et irritum faciet foedus, quod pepigī cum eō.
 
 17 Et īrāscētur **furor** meus contrā eum in **diē** illō, et dērelinquam eōs et abscondam faciem meam ab eīs, et erit in dēvorātiōnem; invenient eum **mala** **multa** et afflīctiōnēs, **ita** ut **dīcat** in illō **diē**: “**Vērē**, quia nōn **est** Deus mēcum, invēnērunt mē haec **mala**”.
 
@@ -1663,7 +1663,7 @@ et propitius erit terrae **populī** **suī**”.
 
 47 quia verbum nōn incassum vōbīs, sed **est** **vīta** **vestra**: et in verbō **hoc** longō persevērābitis tempore in **terrā**, ad quam, Iordāne trānsmissō, ingrediminī **possidendam**”.
 
-48 **Locūtus**que **est** Dominus ad Moysēn in **eādem** **diē** dīcēns:
+48 **Locūtus**que **est** Dominus ad Moȳsēn[\*][moyses] in **eādem** **diē** dīcēns:
 
 49 ”Ascende in montem istum Abarim, in montem Nābō, quī **est** in **terrā** Moab contrā Ierichō, et vidē terram Chanaan, quam ego trādam fīliīs Isrāēl obtinendam.
 
@@ -1913,7 +1913,7 @@ et tū eōrum altitūdinēs calcābis”.
 
 7 Moȳsēs[\*][moyses] centum et vīgintī annōrum erat, quandō mortuus **est**; nōn cālīgāvit oculus eius, nec rōbur illīus dēfēcit.
 
-8 Flēvēruntque eum fīliī Isrāēl in campestribus Moab trīgintā diēbus; et complētī sunt diēs **plānctūs** lūgentium Moysēn.
+8 Flēvēruntque eum fīliī Isrāēl in campestribus Moab trīgintā diēbus; et complētī sunt diēs **plānctūs** lūgentium Moȳsēn[\*][moyses].
 
 9 **Ios**ue vērō fīlius Nun replētus **est** spīritū sapientiae, quia Moȳsēs[\*][moyses] posuit super eum **manūs** suās; et oboediērunt **eī** fīliī Isrāēl fēcēruntque, sīcut praecēpit Dominus Moȳsī.
 

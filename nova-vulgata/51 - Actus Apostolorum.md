@@ -446,7 +446,7 @@ Cōnsēnsērunt autem illī
 
 10 et nōn poterant **resistere** sapientiae et Spīrituī, quō loquēbātur.
 
-11 Tunc submīsērunt virōs, quī dīcerent: “Audīvimus eum dīcentem verba **blasphēma** in Moysēn et Deum”;
+11 Tunc submīsērunt virōs, quī dīcerent: “Audīvimus eum dīcentem verba **blasphēma** in Moȳsēn[\*][moyses] et Deum”;
 
 12 et commōvērunt plēbem et seniōrēs et scrībās, et concurrentēs rapuērunt eum et addūxērunt in concilium
 
@@ -554,7 +554,7 @@ figūrās, quās fēcistis ad adōrandum eās.
 
 Et trānsferam vōs trāns Babylōnem”.
 
-44 Tabernāculum testimōniī erat patribus nostrīs in dēsertō, sīcut disposuit, quī loquēbātur ad Moysēn, ut faceret illud secundum fōrmam, quam vīderat;
+44 Tabernāculum testimōniī erat patribus nostrīs in dēsertō, sīcut disposuit, quī loquēbātur ad Moȳsēn[\*][moyses], ut faceret illud secundum fōrmam, quam vīderat;
 
 45 quod et indūxērunt suscipientēs patrēs nostrī cum Iēsū in possessiōnem gentium, quās expulit Deus ā faciē patrum nostrōrum, usque in diēbus Dāvīd,
 

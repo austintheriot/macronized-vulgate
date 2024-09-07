@@ -1650,7 +1650,7 @@ Cum autem adhūc **longē** **esset**, vīdit illum pater ipsīus et **misericor
 
 28 — habeō enim quīnque frātrēs — ut testētur illīs, nē et ipsī veniant in locum hunc tormentōrum”.
 
-29 Ait autem Ābrahām[\*][abraham]: “Habent Moysēn et Prophētās; audiant illōs”.
+29 Ait autem Ābrahām[\*][abraham]: “Habent Moȳsēn[\*][moyses] et Prophētās; audiant illōs”.
 
 30 At ille dīxit: “Nōn, pater Ābrahām[\*][abraham], sed sī **quis** ex mortuīs ierit ad eōs, paenitentiam agent”.
 

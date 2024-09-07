@@ -8278,7 +8278,7 @@ et tentāvērunt Deum in inaquōsō.
 
 et mīsit saturitātem in animās eōrum.
 
-16 Et zēlātī sunt Moysēn in castrīs,
+16 Et zēlātī sunt Moȳsēn[\*][moyses] in castrīs,
 
 Aarōn sānctum Dominī.
 

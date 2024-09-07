@@ -36,7 +36,7 @@
 
 16 Et dē plēnitūdine eius nōs omnēs accēpimus, et grātiam prō **grātiā**;
 
-17 quia lēx per Moysēn **data** **est**, **grātia** et **vēritās** per Iēsum Chrīstum **facta** **est**.
+17 quia lēx per Moȳsēn[\*][moyses] **data** **est**, **grātia** et **vēritās** per Iēsum Chrīstum **facta** **est**.
 
 18 Deum nēmō vīdit umquam; ūnigenitus Deus, quī **est** in **sinum** Patrīs, ipse ēnārrāvit.
 

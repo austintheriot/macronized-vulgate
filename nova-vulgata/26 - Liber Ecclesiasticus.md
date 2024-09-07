@@ -7065,3 +7065,4 @@ et nōn cōnfundēminī in laude ipsīus.
 et dabit vōbīs mercēdem vestram in tempore suō””.
 
 [abraham]: <Ambiguous Forms.md#abraham>
+[moyses]: <Ambiguous Forms.md#moyses>

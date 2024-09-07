@@ -168,7 +168,7 @@ Nōn introībunt in requiem meam”.
 
 nōlīte obdūrāre **corda** **vestra** quemadmodum in **illā** exacerbātiōne”.
 
-16 Quī sunt enim quī audientēs exacerbāvērunt? **Nōnne** ūniversī, quī **profectī** sunt ab Aegyptō per Moysēn?
+16 Quī sunt enim quī audientēs exacerbāvērunt? **Nōnne** ūniversī, quī **profectī** sunt ab Aegyptō per Moȳsēn[\*][moyses]?
 
 17 Quibus autem īnfēnsus fuit quadrāgintā annōs? **Nōnne** illīs, quī peccāvērunt, quōrum **membra** **cecidērunt** in dēsertō?
 

@@ -662,13 +662,13 @@ firmissimum solium tuum in sempiternum”.
 
 52 ut sint oculī tuī apertī ad dēprecātiōnem servī tuī et **populī** tuī Isrāēl, et exaudiās eōs in ūniversīs, prō quibus invocāverint tē.
 
-53 Tū enim sēparāstī eōs tibi in hērēditātem dē ūniversīs **populīs** terrae, sīcut **locūtus** **es** per Moysēn servum tuum, quandō ēdūxistī patrēs nostrōs dē Aegyptō, Domine Deus”.
+53 Tū enim sēparāstī eōs tibi in hērēditātem dē ūniversīs **populīs** terrae, sīcut **locūtus** **es** per Moȳsēn[\*][moyses] servum tuum, quandō ēdūxistī patrēs nostrōs dē Aegyptō, Domine Deus”.
 
 54 Factum **est** autem cum complēsset Salomōn ōrāns Dominum omnem ōrātiōnem et dēprecātiōnem hanc, surrēxit dē cōnspectū **altāris** Dominī; utrumque enim **genu** in terram fīxerat et **manus** expanderat in caelum.
 
 55 Stetit ergō et benedīxit omnī ecclēsiae Isrāēl vōce **magnā** dīcēns:
 
-56 ”Benedictus Dominus, quī **dēdit** requiem **populō** suō Isrāēl iuxtā omnia, quae **locūtus** **est**; nōn **cecidit** nē ūnus quidem sermō ex omnibus bonīs, quae **locūtus** **est** per Moysēn servum suum.
+56 ”Benedictus Dominus, quī **dēdit** requiem **populō** suō Isrāēl iuxtā omnia, quae **locūtus** **est**; nōn **cecidit** nē ūnus quidem sermō ex omnibus bonīs, quae **locūtus** **est** per Moȳsēn[\*][moyses] servum suum.
 
 57 Sit Dominus Deus noster nōbīscum, sīcut fuit cum patribus nostrīs, nōn dērelinquēns nōs neque prōiciēns,
 

@@ -154,7 +154,7 @@
 
 13 quadrāgintā **ferē** **mīlia** expedītōrum ad pugnam incēdēbant **cōram** Dominō in campestria Ierichō.
 
-14 In illō **diē** magnificāvit Dominus **Ios**ue **cōram** omnī Isrāēl, ut timērent eum, sīcut timuerant Moysēn, omnibus diēbus vītae suae.
+14 In illō **diē** magnificāvit Dominus **Ios**ue **cōram** omnī Isrāēl, ut timērent eum, sīcut timuerant Moȳsēn[\*][moyses], omnibus diēbus vītae suae.
 
 15 Dīxitque ad eum:
 
@@ -596,7 +596,7 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 22 Nōn relīquit ūllum dē stirpe Enacim in **terrā** fīliōrum Isrāēl, absque cīvitātibus **Gāzā** et Geth et Azōtō, in quibus **solīs** relictī sunt.
 
-23 Cēpit ergō **Ios**ue omnem terram, sīcut **locūtus** **est** Dominus ad Moysēn, et trādidit eam in possessiōnem fīliīs Isrāēl secundum partēs et **tribūs** suās; quiēvitque **terra** ā proeliīs.
+23 Cēpit ergō **Ios**ue omnem terram, sīcut **locūtus** **est** Dominus ad Moȳsēn[\*][moyses], et trādidit eam in possessiōnem fīliīs Isrāēl secundum partēs et **tribūs** suās; quiēvitque **terra** ā proeliīs.
 
 ## 12
 
@@ -728,7 +728,7 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 5 Sīcut praecēperat Dominus Moȳsī, **ita** fēcērunt fīliī Isrāēl et dīvīsērunt terram.
 
-6 Accessērunt itaque fīliī Iūdae ad **Iōs**ue in Galgala, **locūtus**que **est** ad eum Chaleb fīlius Iephōnne Cenezaeus: ”**Nōstī** quid **locūtus** sit Dominus ad Moysēn hominem Deī dē mē et tē in Cadesbarne.
+6 Accessērunt itaque fīliī Iūdae ad **Iōs**ue in Galgala, **locūtus**que **est** ad eum Chaleb fīlius Iephōnne Cenezaeus: ”**Nōstī** quid **locūtus** sit Dominus ad Moȳsēn[\*][moyses] hominem Deī dē mē et tē in Cadesbarne.
 
 7 Quadrāgintā annōrum eram, quandō mē mīsit Moȳsēs[\*][moyses] famulus Dominī dē Cadesbarne, ut cōnsīderārem terram; nūntiāvīque **eī** quod mihi vērum vidēbātur.
 
@@ -736,7 +736,7 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 9 Iūrāvitque Moȳsēs[\*][moyses] in **diē** illō dīcēns: “**Terra**, quam calcāvit pēs tuus, erit possessiō **tua** et fīliōrum tuōrum in aeternum, quia adimplēvistī, ut sequerēris Dominum Deum meum”.
 
-10 Concessit ergō Dominus vītam mihi, sīcut pollicitus **est**, usque in praesentem diem. Quadrāgintā et quīnque annī sunt ex quō **locūtus** **est** Dominus verbum istud ad Moysēn, quandō ambulābat Isrāēl per sōlitūdinem; hodiē octōgintā quīnque annōrum sum,
+10 Concessit ergō Dominus vītam mihi, sīcut pollicitus **est**, usque in praesentem diem. Quadrāgintā et quīnque annī sunt ex quō **locūtus** **est** Dominus verbum istud ad Moȳsēn[\*][moyses], quandō ambulābat Isrāēl per sōlitūdinem; hodiē octōgintā quīnque annōrum sum,
 
 11 sīc valēns ut eō valēbam tempore, quandō ad explōrandum **missus** sum; illīus in mē temporis fortitūdō usque hodiē **persevērat** tam ad bellandum quam ad gradiendum.
 

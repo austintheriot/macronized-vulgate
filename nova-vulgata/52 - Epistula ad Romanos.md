@@ -282,7 +282,7 @@ et quōrum **tēcta** sunt **peccāta**.
 
 13 Usque ad lēgem enim peccātum erat in mundō; peccātum autem nōn imputātur, cum lēx nōn **est**,
 
-14 sed rēgnāvit mors ab Adam usque ad Moysēn etiam in eōs, quī nōn peccāvērunt in similitūdine praevāricātiōnis Adae, quī **est** **figūrā** futūrī.
+14 sed rēgnāvit mors ab Adam usque ad Moȳsēn[\*][moyses] etiam in eōs, quī nōn peccāvērunt in similitūdine praevāricātiōnis Adae, quī **est** **figūrā** futūrī.
 
 15 Sed nōn sīcut dēlictum, **ita** et dōnum; sī enim ūnīus dēlictō multī mortuī sunt, multō **magis** **grātia** Deī et dōnum in **grātiā** ūnīus hominis Iēsū Chrīstī in multōs abundāvit.
 

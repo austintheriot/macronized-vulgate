@@ -440,7 +440,7 @@ Et vēnerat **mēnsis** septimus; fīliī autem Isrāēl erant in cīvitātibus 
 
 13 Et in **diē** secundō congregātī sunt prīncipēs familiārum ūniversī **populī**, sacerdōtēs et Lēvītae ad Esdram scrībam, ut intellegerent verba **lēgis**.
 
-14 Et invēnērunt scrīptum in **lēge**, quam praecēpit Dominus per Moysēn, ut habitent fīliī Isrāēl in tabernāculīs in **diē** sollemnī **mēnse** septimō
+14 Et invēnērunt scrīptum in **lēge**, quam praecēpit Dominus per Moȳsēn[\*][moyses], ut habitent fīliī Isrāēl in tabernāculīs in **diē** sollemnī **mēnse** septimō
 
 15 et ut **praedīcent** et dīvulgent **vōcem** in ūniversīs urbibus **suīs** et in Ierusālem dīcentēs: ”Ēgrediminī in montem et afferte frondēs olīvae et frondēs oleastrī, frondēs myrtī et rāmōs palmārum et frondēs lignī nemorōsī, ut fīant tabernācula, sīcut scrīptum **est**”.
 
@@ -1067,3 +1067,4 @@ Et prō **hōc** ergō mementō meī, Deus meus, et **parce** mihi secundum mult
 31 et prō oblātiōne lignōrum in temporibus cōnstitūtīs et prō prīmitiīs. Mementō meī, Deus meus, in bonum.
 
 [abraham]: <Ambiguous Forms.md#abraham>
+[moyses]: <Ambiguous Forms.md#moyses>

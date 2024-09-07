@@ -624,7 +624,7 @@ Respondē mihi.
 
 et dē domō servientium līberāvī tē
 
-et mīsī ante faciem tuam Moysēn
+et mīsī ante faciem tuam Moȳsēn[\*][moyses]
 
 et Aarōn et **Mariam**.
 
@@ -883,3 +883,4 @@ quae iūrāstī patribus nostrīs
 ā diēbus antīquīs.
 
 [abraham]: <Ambiguous Forms.md#abraham>
+[moyses]: <Ambiguous Forms.md#moyses>

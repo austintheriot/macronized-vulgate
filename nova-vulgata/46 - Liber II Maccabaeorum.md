@@ -508,7 +508,7 @@ Quī sunt Hierosolymīs et in **Iūdaeā**, **senātus**que et Iūdās Aristobul
 
 29 Nē timeās carnificem istum, sed dignus frātribus tuīs **effectūs** suscipe mortem, ut in **illā** miserātiōne cum frātribus tuīs tē recipiam”.
 
-30 Cum haec **illa** adhūc dīceret, ait adulēscēns: ”Quem sustinētis? Nōn oboediō praeceptō **rēgis**, sed obtemperō praeceptō **lēgis**, quae **data** **est** patribus nostrīs per Moysēn.
+30 Cum haec **illa** adhūc dīceret, ait adulēscēns: ”Quem sustinētis? Nōn oboediō praeceptō **rēgis**, sed obtemperō praeceptō **lēgis**, quae **data** **est** patribus nostrīs per Moȳsēn[\*][moyses].
 
 31 Tū vērō, quī inventor **omnis** malitiae **factus** **es** in Hebraeōs, nōn effugiēs **manūs** Deī.
 
