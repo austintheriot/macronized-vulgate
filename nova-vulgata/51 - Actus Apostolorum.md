@@ -360,21 +360,21 @@ adversus Dominum et adversus Chrīstum eius”.
 
 12 Per manūs autem apostolōrum fīēbant signa et prōdigia multa in plēbe; et erant ūnanimiter omnēs in porticū Salomōnis.
 
-13 Cēterōrum autem nēmō audēbat **coniungere** sē illīs, sed magnificābat eōs **populus**;
+13 Cēterōrum autem nēmō audēbat coniungere sē illīs, sed magnificābat eōs populus;
 
-14 **magis** autem addēbantur crēdentēs Dominō multitūdinēs **virōrum** ac mulierum,
+14 magis autem addēbantur crēdentēs Dominō multitūdinēs virōrum ac mulierum,
 
-15 **ita** ut et in **platēās** efferrent īnfirmōs et pōnerent in lectulīs et grabātīs, ut, veniente Petrō, saltem **umbra** illīus obumbrāret quemquam eōrum.
+15 ita ut et in platēās efferrent īnfirmōs et pōnerent in lectulīs et grabātīs, ut, veniente Petrō, saltem umbra illīus obumbrāret quemquam eōrum.
 
 16 Concurrēbat autem et multitūdō vīcīnārum cīvitātum Ierūsalēm, afferentēs aegrōs et vexātōs ab spīritibus immundīs, quī cūrābantur omnēs.
 
-17 Exsurgēns autem prīnceps sacerdōtum et omnēs, quī cum illō erant, quae **est** **haeresis** saddūcaeōrum, replētī sunt zēlō
+17 Exsurgēns autem prīnceps sacerdōtum et omnēs, quī cum illō erant, quae est haeresis saddūcaeōrum, replētī sunt zēlō
 
-18 et iniēcērunt **manūs** in apostolōs et posuērunt illōs in **cūstōdiā** **pūblicā**.
+18 et iniēcērunt manūs in apostolōs et posuērunt illōs in cūstōdiā pūblicā.
 
 19 Angelus autem Dominī per noctem aperuit iānuās carceris et ēdūcēns eōs dīxit:
 
-20 “**Īte** et stantēs loquiminī in templō plēbī omnia verba vītae huius”.
+20 “Īte et stantēs loquiminī in templō plēbī omnia verba vītae huius”.
 
 21 Quī cum audīssent, intrāvērunt dīlūculō in templum et docēbant.
 
