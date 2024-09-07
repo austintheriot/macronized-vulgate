@@ -14,7 +14,7 @@
 
 5 Et cōnstituit eīs rēx annōnam per singulōs diēs dē cibīs **suīs** et dē vīnō, unde bibēbat ipse, ut ēnūtrītī **tribus** annīs posteā stārent in cōnspectū **rēgis**.
 
-6 Fuērunt ergō inter eōs dē fīliīs Iūdae Daniēl, Ananīās, Misael et Azāriās.
+6 Fuērunt ergō inter eōs dē fīliīs Iūdae Daniēl, Ananīās[\*][ananias], Misael et Azāriās.
 
 7 Et imposuit eīs praepositus eunūchōrum **nōmina**: Daniēlī Baltassar et Anāniae Sedrac, Misaēlī Misac et Azāriae Abdenāgō.
 
@@ -40,7 +40,7 @@
 
 18 **Complētīs** itaque diēbus, post quōs dīxerat rēx, ut intrōdūcerentur, intrōdūxit eōs praepositus eunūchōrum in cōnspectū Nabuchodonosor.
 
-19 Cumque **locūtus** eīs fuisset rēx, nōn sunt inventī dē ūniversīs tālēs ut Daniēl, Ananīās, Misael et Azāriās; et stetērunt in cōnspectū **rēgis**.
+19 Cumque **locūtus** eīs fuisset rēx, nōn sunt inventī dē ūniversīs tālēs ut Daniēl, Ananīās[\*][ananias], Misael et Azāriās; et stetērunt in cōnspectū **rēgis**.
 
 20 Et omne verbum sapientiae et **intellēctūs**, quod **scīscitātus** **est** ab eīs, rēx **invenit** in eīs decuplum super cūnctōs hariolōs et magōs, quī erant in ūniversō rēgnō eius.
 
@@ -1473,3 +1473,4 @@ Quī ait: ”Sub prīnō”.
 42 Porrō illōs, quī perditiōnis eius **causā** fuerant, intrōmīsit in lacum; et dēvorātī sunt in mōmentō **cōram** eō.
 
 [abraham]: <Ambiguous Forms.md#abraham>
+[ananias]: <Ambiguous Forms.md#ananias>

@@ -336,15 +336,15 @@ adversus Dominum et adversus Chrīstum eius”.
 
 ## 5
 
-1 Vir autem quīdam nōmine Ananīās cum Sapphīrā uxōre suā vēndidit agrum
+1 Vir autem quīdam nōmine Ananīās[\*][ananias] cum Sapphīrā[\*][sapphira] uxōre suā vēndidit agrum
 
-2 et subtrāxit dē pretiō, **cōnsciā** quoque uxōre, et afferēns partem quandam ad pedēs apostolōrum posuit.
+2 et subtrāxit dē pretiō, cōnsciā quoque uxōre, et afferēns partem quandam ad pedēs apostolōrum posuit.
 
-3 Dīxit autem Petrus: “Anānīā, cūr implēvit Satanās cor tuum mentīrī tē Spīrituī Sānctō et **subtrahere** dē pretiō agrī?
+3 Dīxit autem Petrus: “Anānīā[\*][ananias], cūr implēvit Satanās cor tuum mentīrī tē Spīrituī Sānctō et **subtrahere** dē pretiō agrī?
 
 4 Nōnne manēns tibi manēbat et vēnumdatum in **tuā** erat potestāte? Quārē posuistī in corde tuō hanc rem? Nōn es mentītus hominibus sed Deō!”.
 
-5 Audiēns autem Ananīās haec verba cecidit et exspīrāvit; et factus est timor magnus in omnēs audientēs.
+5 Audiēns autem Ananīās[\*][ananias] haec verba cecidit et exspīrāvit; et factus est timor magnus in omnēs audientēs.
 
 6 Surgentēs autem iuvenēs involvērunt eum et efferentēs sepeliērunt.
 
@@ -704,13 +704,13 @@ Quoniam tollitur dē **terrā** **vīta** eius”.
 
 9 Et erat **tribus** diēbus nōn vidēns et nōn mandūcāvit neque bibit.
 
-10 Erat autem quīdam discipulus Damascī nōmine Ananīās; et dīxit ad illum in vīsū Dominus: “Anānia”. At ille ait: “Ecce ego, Domine”.
+10 Erat autem quīdam discipulus Damascī nōmine Ananīās[\*][ananias]; et dīxit ad illum in vīsū Dominus: “Anānia”. At ille ait: “Ecce ego, Domine”.
 
 11 Et Dominus ad illum: “Surgēns **vāde** in vīcum, quī vocātur Rēctus, et quaere in domō Iūdae Saulum nōmine Tarsēnsem; ecce enim ōrat
 
 12 et vīdit **virum** Anāniam nōmine introeuntem et impōnentem sibi **manūs**, ut vīsum recipiat”.
 
-13 Respondit autem Ananīās: “Domine, audīvī ā multīs dē **virō** **hoc**, **quanta** **mala** sānctīs tuīs fēcerit in Ierūsalēm;
+13 Respondit autem Ananīās[\*][ananias]: “Domine, audīvī ā multīs dē **virō** **hoc**, **quanta** **mala** sānctīs tuīs fēcerit in Ierūsalēm;
 
 14 et **hic** habet potestātem ā prīncipibus sacerdōtum alligandī omnēs, quī invocant **nōmen** tuum”.
 
@@ -718,7 +718,7 @@ Quoniam tollitur dē **terrā** **vīta** eius”.
 
 16 ego enim ostendam illī **quanta** oporteat eum prō nōmine meō patī”.
 
-17 Et abiit Ananīās; et introīvit in domum et impōnēns **eī** **manūs** dīxit: “Saūl frāter, Dominus mīsit mē, Iēsūs quī appāruit tibi in **viā**, **quā** veniēbās, ut videās et impleāris Spīritū Sānctō”.
+17 Et abiit Ananīās[\*][ananias]; et introīvit in domum et impōnēns **eī** **manūs** dīxit: “Saūl frāter, Dominus mīsit mē, Iēsūs quī appāruit tibi in **viā**, **quā** veniēbās, ut videās et impleāris Spīritū Sānctō”.
 
 18 Et cōnfestim **cecidērunt** ab oculīs eius tamquam squāmae, et vīsum recēpit. Et surgēns baptīzātus **est**
 
@@ -1730,7 +1730,7 @@ dīcit Dominus faciēns haec 18 **nota** ā saeculō”.
 
 11 Et cum nōn vidērem prae clāritāte lūminis illīus, ad **manum** **dēductus** ā comitibus **venī** **Damascum**.
 
-12 Ananīās autem quīdam vir religiōsus secundum lēgem, testimōnium habēns ab omnibus habitantibus Iūdaeīs,
+12 Ananīās[\*][ananias] autem quīdam vir religiōsus secundum lēgem, testimōnium habēns ab omnibus habitantibus Iūdaeīs,
 
 13 veniēns ad mē et astāns dīxit mihi: “Saūl frāter, respice!”. Et ego **eādem** **hōrā** respexī in eum.
 
@@ -1842,7 +1842,7 @@ dīcit Dominus faciēns haec 18 **nota** ā saeculō”.
 
 ## 24
 
-1 Post quīnque autem diēs, dēscendit prīnceps sacerdō tum Ananīās cum seniōribus quibusdam et Tertullō quōdam ōrātōre, quī adiērunt praesidem adversus Paulum.
+1 Post quīnque autem diēs, dēscendit prīnceps sacerdō tum Ananīās[\*][ananias] cum seniōribus quibusdam et Tertullō quōdam ōrātōre, quī adiērunt praesidem adversus Paulum.
 
 2 Et citātō eō, coepit accūsāre Tertullus dīcēns: “Cum in **multā** pāce **agamus** per tē, et **multa** corrigantur gentī huic per tuam prōvidentiam,
 
@@ -2189,6 +2189,7 @@ et sānābō illōs”.
 [1](#1) [2](#2) [3](#3) [4](#4) [5](#5) [6](#6) [7](#7) [8](#8) [9](#9) [10](#10) [11](#11) [12](#12) [13](#13) [14](#14) [15](#15) [16](#16) [17](#17) [18](#18) [19](#19) [20](#20) [21](#21) [22](#22) [23](#23) [24](#24) [25](#25) [26](#26) [27](#27) [28](#28)
 
 [abraham]: <Ambiguous Forms.md#abraham>
+[ananias]: <Ambiguous Forms.md#ananias>
 [andreas]: <Ambiguous Forms.md#andreas>
 [fere]: <Ambiguous Forms.md#fere>
 [galilaea]: <Ambiguous Forms.md#galilaea>
@@ -2196,3 +2197,4 @@ et sānābō illōs”.
 [matthias]: <Ambiguous Forms.md#matthias>
 [moyses]: <Ambiguous Forms.md#moyses>
 [samuel]: <Ambiguous Forms.md#samuel>
+[sapphira]: <Ambiguous Forms.md#sapphira>

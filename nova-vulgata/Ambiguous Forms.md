@@ -2,9 +2,13 @@
 
 ## Abraham
 
-Ābrahām (Gaffiot)
+Abrahām (Gaffiot)
 
 Ābraham (Lewis & Short)
+
+## Ananias
+
+Ananīās (uncertain vowel length, following the Greek Ἀνανίᾱς)
 
 ## Andreas
 
@@ -49,3 +53,7 @@ Mōȳsēs (Woordenboek Latijn/Nederlands (LaNe))
 Samuēl[\*][samuel] (Gaffiot)
 
 Samūēl (Greek length, Wiktionary)
+
+## Sapphira
+
+Sapphīrā (uncertain vowel length, following the Greek, Σαπφείρῃ)
