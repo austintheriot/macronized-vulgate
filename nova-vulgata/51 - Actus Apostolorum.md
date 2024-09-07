@@ -404,13 +404,13 @@ Adveniēns autem prīnceps sacerdōtum et, quī cum eō erant, convocāvērunt c
 
 33 Haec cum audīssent, dissecābantur et volēbant interficere illōs.
 
-34 Surgēns autem quīdam in conciliō pharisaeus nōmine Gamaliēl[\*][gamaliel], **lēgis** doctor **honōrābilis** ūniversae plēbī, iussit forās ad breve hominēs fierī
+34 Surgēns autem quīdam in conciliō pharisaeus nōmine Gamaliēl[\*][gamaliel], lēgis doctor honōrābilis ūniversae plēbī, iussit forās ad breve hominēs fierī
 
-35 dīxitque ad illōs: “**Virī** Isrāēlītae, attendite vōbīs super hominibus istīs quid āctūrī **sītis**.
+35 dīxitque ad illōs: “Virī Isrāēlītae, attendite vōbīs super hominibus istīs quid āctūrī sītis.
 
-36 Ante hōs enim diēs exstitit Theudās dīcēns **esse** sē aliquem, cui cōnsēnsit **virōrum** numerus circiter quadringentōrum; quī occīsus **est**, et omnēs, quīcumque crēdēbant **eī**, dissipātī sunt et redāctī sunt ad nihilum.
+36 Ante hōs enim diēs exstitit Theudās dīcēns esse sē aliquem, cui cōnsēnsit virōrum numerus circiter quadringentōrum; quī occīsus est, et omnēs, quīcumque crēdēbant eī, dissipātī sunt et redāctī sunt ad nihilum.
 
-37 Post hunc exstitit Iūdās Galilaeus[\*][galilaea] in diēbus **cēnsūs** et āvertit **populum** post sē; et ipse periit, et omnēs, quotquot cōnsentiēbant **eī**, dispersī sunt.
+37 Post hunc exstitit Iūdās Galilaeus[\*][galilaea] in diēbus cēnsūs et āvertit populum post sē; et ipse periit, et omnēs, quotquot cōnsentiēbant eī, dispersī sunt.
 
 38 Et nunc dīcō vōbīs: Discēdite ab hominibus istīs et sinite illōs. Quoniam sī est ex hominibus cōnsilium hoc aut opus hoc, dissolvētur;
 
