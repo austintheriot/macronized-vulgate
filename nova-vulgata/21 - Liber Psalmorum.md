@@ -924,19 +924,19 @@ praeoccupāvērunt mē laqueī mortis.
 
 et ad Deum meum clāmāvī;
 
-exaudīvit dē templō suō **vōcem** meam,
+exaudīvit dē templō suō vōcem meam,
 
 et clāmor meus in cōnspectū eius introīvit in aurēs eius.
 
-8 **Commōta** **est** et contremuit **terra**;
+8 Commōta est et contremuit terra;
 
-fundāmenta montium **concussa** sunt
+fundāmenta montium concussa sunt
 
-et **commōta** sunt, quoniam īrātus **est**.
+et commōta sunt, quoniam īrātus est.
 
 9 Ascendit fūmus dē nāribus eius,
 
-et **ignis** dē ōre eius dēvorāns;
+et ignis dē ōre eius dēvorāns;
 
 carbōnēs succēnsī prōcessērunt ab eō.
 
@@ -952,29 +952,29 @@ ferēbātur super pennās ventōrum.
 
 in circuitū eius tabernāculum eius,
 
-**tenebrōsa** **aqua**, nūbēs **āeris**.
+**tenebrōsa** **aqua**, nūbēs āeris.
 
 13 Prae fulgōre in cōnspectū eius nūbēs trānsiērunt,
 
-grandō et carbōnēs **ignis**.
+grandō et carbōnēs ignis.
 
 14 Et intonuit dē caelō Dominus,
 
-et Altissimus **dedit** **vōcem** suam:
+et Altissimus dedit vōcem suam:
 
-grandō et carbōnēs **ignis**.
+grandō et carbōnēs ignis.
 
 15 Et mīsit sagittās suās et dissipāvit eōs,
 
-**fulgura** iēcit et conturbāvit eōs.
+fulgura iēcit et conturbāvit eōs.
 
 16 Et appāruērunt fontēs aquārum,
 
-et **revēlāta** sunt fundāmenta **orbis** terrārum
+et revēlāta sunt fundāmenta orbis terrārum
 
-ab increpātiōne **tuā**, Domine,
+ab increpātiōne tuā, Domine,
 
-ab īnspīrātiōne **spīritūs** īrae tuae.
+ab īnspīrātiōne spīritūs īrae tuae.
 
 17 Mīsit dē summō et accēpit mē
 
@@ -986,9 +986,9 @@ et ab hīs, quī ōdērunt mē,
 
 quoniam cōnfortātī sunt super mē.
 
-19 Oppugnāvērunt mē in **diē** afflīctiōnis meae,
+19 Oppugnāvērunt mē in diē afflīctiōnis meae,
 
-et **factus** **est** Dominus fulcīmentum meum;
+et factus est Dominus fulcīmentum meum;
 
 20 et ēdūxit mē in lātitūdinem,
 
@@ -1000,7 +1000,7 @@ et secundum pūritātem manuum meārum reddet mihi,
 
 22 quia cūstōdīvī viās Dominī
 
-nec **impiē** recessī ā Deō meō.
+nec impiē recessī ā Deō meō.
 
 23 Quoniam omnia iūdicia eius in cōnspectū meō,
 
@@ -1016,15 +1016,15 @@ et secundum pūritātem manuum meārum
 
 in cōnspectū oculōrum eius.
 
-26 Cum sānctō sānctus **eris**
+26 Cum sānctō sānctus eris
 
-et cum **virō** innocente innocēns **eris**
+et cum virō innocente innocēns eris
 
-27 et cum **ēlēctō** **ēlēctūs** **eris**
+27 et cum ēlēctō ēlēctus eris
 
-et cum perversō callidus **eris**.
+et cum perversō callidus eris.
 
-28 Quoniam tū **populum** humilem salvum faciēs
+28 Quoniam tū populum humilem salvum faciēs
 
 et oculōs superbōrum humiliābis.
 
@@ -1036,13 +1036,13 @@ Deus meus illūminat tenebrās meās.
 
 et in Deō meō trānsiliam mūrum.
 
-31 Deus, **impollūta** **via** eius,
+31 Deus, impollūta via eius,
 
-ēloquia Dominī igne **exāmināta**;
+ēloquia Dominī igne exāmināta;
 
-prōtēctor **est** omnium spērantium in sē.
+prōtēctor est omnium spērantium in sē.
 
-32 Quoniam **quis** Deus praeter Dominum?
+32 Quoniam quis Deus praeter Dominum?
 
 Aut quae mūnītiō praeter Deum nostrum?
 
@@ -1050,23 +1050,23 @@ Aut quae mūnītiō praeter Deum nostrum?
 
 et posuit immaculātam viam meam;
 
-34 quī perfēcit **pedēs** meōs tamquam cervōrum
+34 quī perfēcit pedēs meōs tamquam cervōrum
 
-et super **excelsa** statuit mē;
+et super excelsa statuit mē;
 
-35 quī docet **manūs** meās ad proelium,
+35 quī docet manūs meās ad proelium,
 
-et tendunt arcum aereum brāchia **mea**.
+et tendunt arcum aereum brāchia mea.
 
-36 Et dedistī mihi scūtum **salūtis** tuae,
+36 Et dedistī mihi scūtum salūtis tuae,
 
-et **dextera** **tua** suscēpit mē,
+et dextera tua suscēpit mē,
 
-et exaudītiō **tua** magnificāvit mē.
+et exaudītiō tua magnificāvit mē.
 
-37 Dīlātāstī **gressūs** meōs subtus mē,
+37 Dīlātāstī gressūs meōs subtus mē,
 
-et nōn sunt **īnfirmāta** vestīgia **mea**.
+et nōn sunt īnfirmāta vestīgia mea.
 
 38 Persequēbar inimīcōs meōs et comprehendēbam illōs
 
@@ -1074,7 +1074,7 @@ et nōn convertēbar, dōnec dēficerent.
 
 39 Cōnfringēbam illōs, nec poterant stāre,
 
-cadēbant subtus **pedēs** meōs.
+cadēbant subtus pedēs meōs.
 
 40 Et praecīnxistī mē virtūte ad bellum
 
@@ -1090,41 +1090,41 @@ ad Dominum, nec exaudīvit eōs.
 
 43 Et comminuī eōs ut pulverem ante faciem ventī,
 
-ut **lutum** **platēārum** contrīvī eōs.
+ut lutum platēārum contrīvī eōs.
 
-44 Ēripuistī mē dē contrādictiōnibus **populī**,
+44 Ēripuistī mē dē contrādictiōnibus populī,
 
 cōnstituistī mē in caput gentium.
 
-**Populus**, quem nōn cognōvī, servīvit mihi,
+Populus, quem nōn cognōvī, servīvit mihi,
 
-45 in audītū **aurīs** oboedīvit mihi.
+45 in audītū auris oboedīvit mihi.
 
 Fīliī aliēnī blandītī sunt mihi,
 
 46 fīliī aliēnī inveterātī sunt,
 
-contremuērunt in **abditīs** **suīs**.
+contremuērunt in abditīs suīs.
 
 47 Vīvit Dominus, et benedictus Adiūtor meus,
 
-et exaltētur Deus **salūtis** meae.
+et exaltētur Deus salūtis meae.
 
 48 Deus, quī dās vindictās mihi
 
-et subdis **populōs** sub mē,
+et subdis populōs sub mē,
 
 līberātor meus dē inimīcīs meīs īrācundīs;
 
 49 et ab īnsurgentibus in mē exaltās mē,
 
-ā **virō** inīquō ēripis mē.
+ā virō inīquō ēripis mē.
 
 50 Proptereā cōnfitēbor tibi in nātiōnibus, Domine,
 
-et nōminī tuō psalmum **dīcam**,
+et nōminī tuō psalmum dīcam,
 
-51 magnificāns salūtēs **rēgis** **suī**
+51 magnificāns salūtēs rēgis suī
 
 et faciēns misericordiam chrīstō suō
 
