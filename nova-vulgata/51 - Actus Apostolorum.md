@@ -312,7 +312,7 @@ et prīncipēs convēnērunt in ūnum
 
 adversus Dominum et adversus Chrīstum eius”.
 
-27 Convēnērunt enim vērē in cīvitāte istā adversus sānctum puerum tuum Iēsum, quem ūnxistī, Hērōdēs et **Pontius** **Pīlātus** cum gentibus et **populīs** Isrāēl
+27 Convēnērunt enim vērē in cīvitāte istā adversus sānctum puerum tuum Iēsum, quem ūnxistī, Hērōdēs et Pontius Pīlātus cum gentibus et **populīs** Isrāēl
 
 28 facere, quaecumque **manus** **tua** et cōnsilium praedēstināvit fierī.
 

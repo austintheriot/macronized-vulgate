@@ -2190,7 +2190,7 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 12 Et cum accūsārētur ā prīncipibus sacerdōtum et seniōribus, nihil respondit.
 
-13 Tunc dīcit illī **Pīlātus**: ”Nōn audīs **quanta** adversum tē **dīcant** testimōnia?”.
+13 Tunc dīcit illī Pīlātus: ”Nōn audīs **quanta** adversum tē **dīcant** testimōnia?”.
 
 14 Et nōn respondit **eī** ad ūllum verbum, **ita** ut mīrārētur praeses vehementer.
 
@@ -2198,7 +2198,7 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 16 Habēbant autem tunc vīnctum īnsignem, quī dīcēbātur Barabbās.
 
-17 **Congregātis** ergō illīs dīxit **Pīlātus**: ”Quem vultis dīmittam vōbīs: Barabbam an Iēsum, quī dīcitur Chrīstus?”.
+17 **Congregātis** ergō illīs dīxit Pīlātus: ”Quem vultis dīmittam vōbīs: Barabbam an Iēsum, quī dīcitur Chrīstus?”.
 
 18 Sciēbat enim quod per invidiam trādidissent eum.
 
@@ -2208,11 +2208,11 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 21 Respondēns autem praeses ait illīs: ”Quem vultis vōbīs dē duōbus dīmittam?”. At illī dīxērunt: ”Barabbam!”.
 
-22 Dīcit illīs **Pīlātus**: ”Quid igitur faciam dē Iēsū, quī dīcitur Chrīstus?”. Dīcunt omnēs: ”Crucifīgātur!”.
+22 Dīcit illīs Pīlātus: ”Quid igitur faciam dē Iēsū, quī dīcitur Chrīstus?”. Dīcunt omnēs: ”Crucifīgātur!”.
 
 23 Ait autem: ”Quid enim **malī** fēcit?”. At illī **magis** clāmābant dīcentēs: ”Crucifīgātur!”.
 
-24 Vidēns autem **Pīlātus** quia nihil prōficeret, sed **magis** **tumultus** fieret, **acceptā** **aquā**, **lāvit** **manūs** **cōram** **turbā** dīcēns: ”Innocēns ego sum ā sanguine **hoc**; vōs **vīderītis**!”.
+24 Vidēns autem Pīlātus quia nihil prōficeret, sed **magis** **tumultus** fieret, **acceptā** **aquā**, **lāvit** **manūs** **cōram** **turbā** dīcēns: ”Innocēns ego sum ā sanguine **hoc**; vōs **vīderītis**!”.
 
 25 Et respondēns ūniversus **populus** dīxit: ”Sanguis eius super nōs et super fīliōs nostrōs”.
 
@@ -2280,7 +2280,7 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 57 Cum **sērō** autem factum **esset**, **venit** homō dīves ab Arimathaēā nōmine Ioseph, quī et ipse discipulus erat Iēsū.
 
-58 **Hic** accessit ad Pīlātum et petiit corpus Iēsū. Tunc **Pīlātus** iussit reddī.
+58 **Hic** accessit ad Pīlātum et petiit corpus Iēsū. Tunc Pīlātus iussit reddī.
 
 59 Et acceptō corpore, Ioseph involvit illud in sindone **mundā**
 
@@ -2294,7 +2294,7 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 64 Iubē ergō cūstōdīrī sepulcrum usque in diem tertium, nē forte veniant discipulī eius et **fūrentur** eum et **dīcant** plēbī: “Surrēxit ā mortuīs”, et erit novissimus error peior priōre”.
 
-65 Ait illīs **Pīlātus**: ”Habētis cūstōdiam; **īte**, **cūstōdītē**, sīcut **scītis**”.
+65 Ait illīs Pīlātus: ”Habētis cūstōdiam; **īte**, **cūstōdītē**, sīcut **scītis**”.
 
 66 Illī autem abeuntēs mūniērunt sepulcrum, signantēs lapidem, cum **cūstōdiā**.
 

@@ -1284,13 +1284,13 @@ dōnec pōnam inimīcōs tuōs sub pedibus tuīs”.
 
 1 Et cōnfestim **māne** cōnsilium facientēs summī sacerdōtēs cum seniōribus et **scrībīs**, id **est** ūniversum concilium, vincientēs Iēsum dūxērunt et trādidērunt Pīlātō.
 
-2 Et interrogāvit eum **Pīlātus**: ”Tū **es** rēx Iūdaeōrum?”. At ille respondēns ait illī: ”Tū **dīcis**”.
+2 Et interrogāvit eum Pīlātus: ”Tū **es** rēx Iūdaeōrum?”. At ille respondēns ait illī: ”Tū **dīcis**”.
 
 3 Et accūsābant eum summī sacerdōtēs in multīs.
 
-4 ****Pīlātus**** autem rūrsum interrogābat eum dīcēns: ”Nōn respondēs quidquam? Vidē in quantīs tē accūsant”.
+4 Pīlātus autem rūrsum interrogābat eum dīcēns: ”Nōn respondēs quidquam? Vidē in quantīs tē accūsant”.
 
-5 Iēsūs autem amplius nihil respondit, **ita** ut mīrārētur **Pīlātus**.
+5 Iēsūs autem amplius nihil respondit, **ita** ut mīrārētur Pīlātus.
 
 6 Per diem autem fēstum **dīmittere** solēbat illīs ūnum ex vīnctīs, quem peterent.
 
@@ -1298,19 +1298,19 @@ dōnec pōnam inimīcōs tuōs sub pedibus tuīs”.
 
 8 Et cum ascendisset **turbā**, coepit rogāre, sīcut faciēbat illīs.
 
-9 ****Pīlātus**** autem respondit eīs et dīxit: ”Vultis dīmittam vōbīs rēgem Iūdaeōrum?”.
+9 Pīlātus autem respondit eīs et dīxit: ”Vultis dīmittam vōbīs rēgem Iūdaeōrum?”.
 
 10 Sciēbat enim quod per invidiam trādidissent eum summī sacerdōtēs.
 
 11 Pontificēs autem concitāvērunt turbam, ut **magis** Barabbam dīmitteret eīs.
 
-12 ****Pīlātus**** autem iterum respondēns aiēbat illīs: ”Quid ergō vultis faciam **rēgī** Iūdaeōrum?”.
+12 Pīlātus autem iterum respondēns aiēbat illīs: ”Quid ergō vultis faciam **rēgī** Iūdaeōrum?”.
 
 13 At illī iterum clāmāvērunt: ”Crucifīge eum!”.
 
-14 ****Pīlātus**** vērō dīcēbat eīs: ”Quid enim **malī** fēcit?”. At illī **magis** clāmāvērunt: ”Crucifīge eum!”.
+14 Pīlātus vērō dīcēbat eīs: ”Quid enim **malī** fēcit?”. At illī **magis** clāmāvērunt: ”Crucifīge eum!”.
 
-15 ****Pīlātus**** autem, volēns **populō** satisfacere, dīmīsit illīs Barabbam et trādidit Iēsum flagellīs caesum, ut crucifīgerētur.
+15 Pīlātus autem, volēns **populō** satisfacere, dīmīsit illīs Barabbam et trādidit Iēsum flagellīs caesum, ut crucifīgerētur.
 
 16 Mīlitēs autem dūxērunt eum intrō in ātrium, quod **est** praetōrium, et convocant **tōtam** cohortem.
 
@@ -1368,7 +1368,7 @@ sinistrīs eius.
 
 43 **venit** Ioseph ab Arimathaea **nōbilis** decuriō, quī et ipse erat exspectāns rēgnum Deī, et audācter introīvit ad Pīlātum et petiit corpus Iēsū.
 
-44 ****Pīlātus**** autem mīrātus **est** sī iam obīsset, et, accersītō centuriōne, interrogāvit eum sī iam mortuus **esset**,
+44 Pīlātus autem mīrātus **est** sī iam obīsset, et, accersītō centuriōne, interrogāvit eum sī iam mortuus **esset**,
 
 45 et, cum cognōvisset ā centuriōne, dōnāvit corpus Ioseph.
 

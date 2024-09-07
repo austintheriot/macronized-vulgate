@@ -1382,7 +1382,7 @@ et nē nōs indūcās in tentātiōnem”.
 
 ## 13
 
-1 Aderant autem quīdam ipsō in tempore nūntiantēs illī dē **Galilaeīs**, quōrum sanguinem **Pīlātus** miscuit cum sacrificiīs eōrum.
+1 Aderant autem quīdam ipsō in tempore nūntiantēs illī dē **Galilaeīs**, quōrum sanguinem Pīlātus miscuit cum sacrificiīs eōrum.
 
 2 Et respondēns dīxit illīs: ”**Putātis** quod hī **Galilaeī** prae omnibus **Galilaeīs** peccātōrēs fuērunt, quia tālia passī sunt?
 
@@ -2254,13 +2254,13 @@ Quō audītō, dīxērunt: ”Absit!”.
 
 2 Coepērunt autem accūsāre illum dīcentēs: ”Hunc **invēnimus** subvertentem gentem nostram et prohibentem **tribūta** dare Caesarī et dīcentem sē Chrīstum rēgem **esse**”.
 
-3 ****Pīlātus**** autem interrogāvit eum dīcēns: ”Tū **es** rēx Iūdaeōrum?”. At ille respondēns ait: ”Tū **dīcis**”.
+3 Pīlātus autem interrogāvit eum dīcēns: ”Tū **es** rēx Iūdaeōrum?”. At ille respondēns ait: ”Tū **dīcis**”.
 
-4 Ait autem **Pīlātus** ad prīncipēs sacerdōtum et turbās: ”Nihil inveniō causae in **hōc** homine”.
+4 Ait autem Pīlātus ad prīncipēs sacerdōtum et turbās: ”Nihil inveniō causae in **hōc** homine”.
 
 5 At illī invalēscēbant dīcentēs: ”Commovet **populum** docēns per ūniversam Iūdaeam et in cipiēns ā **Galilaeā** usque hūc!”.
 
-6 ****Pīlātus**** autem audiēns interrogāvit sī homō Galilaeus **esset**;
+6 Pīlātus autem audiēns interrogāvit sī homō Galilaeus **esset**;
 
 7 et ut cognōvit quod dē Hērōdis potestāte **esset**, remīsit eum ad Hērōdem, quī et ipse Hierosolymīs erat illīs diēbus.
 
@@ -2272,9 +2272,9 @@ Quō audītō, dīxērunt: ”Absit!”.
 
 11 Sprēvit autem illum Hērōdēs cum **exercitū** suō et illūsit indūtum veste **albā** et remīsit ad Pīlātum.
 
-12 Factī sunt autem **amīcī** inter sē Hērōdēs et **Pīlātus** in **ipsā** **diē**; nam anteā inimīcī erant ad invicem.
+12 Factī sunt autem **amīcī** inter sē Hērōdēs et Pīlātus in **ipsā** **diē**; nam anteā inimīcī erant ad invicem.
 
-13 ****Pīlātus**** autem, **convocātīs** prīncipibus sacerdōtum et magistrātibus et plēbe,
+13 Pīlātus autem, **convocātīs** prīncipibus sacerdōtum et magistrātibus et plēbe,
 
 14 dīxit ad illōs: ”Obtulistis mihi hunc hominem quasi āvertentem **populum**, et ecce ego **cōram** vōbīs interrogāns nūllam causam **invēnī** in homine istō ex hīs, in quibus eum **accūsātis**,
 
@@ -2288,7 +2288,7 @@ neque Hērōdēs; remīsit enim illum ad nōs. Et ecce nihil dignum morte āctum
 
 19 quī erat propter sēditiōnem quandam factam in cīvitāte et homicīdium **missus** in carcerem.
 
-20 Iterum autem **Pīlātus** **locūtus** **est** ad illōs volēns **dīmittere** Iēsum,
+20 Iterum autem Pīlātus **locūtus** **est** ad illōs volēns **dīmittere** Iēsum,
 
 21 at illī succlāmābant dīcentēs: ”Crucifīge, crucifīge illum!”.
 
@@ -2296,7 +2296,7 @@ neque Hērōdēs; remīsit enim illum ad nōs. Et ecce nihil dignum morte āctum
 
 23 At illī īnstābant vōcibus magnīs postulantēs, ut crucifīgerētur, et invalēscēbant **vōcēs** eōrum.
 
-24 Et **Pīlātus** adiūdicāvit fierī petītiōnem eōrum:
+24 Et Pīlātus adiūdicāvit fierī petītiōnem eōrum:
 
 25 dīmīsit autem eum, quī propter sēditiōnem et homicīdium **missus** fuerat in carcerem, quem petēbant; Iēsum vērō trādidit voluntātī eōrum.
 
