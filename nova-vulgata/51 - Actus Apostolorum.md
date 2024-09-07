@@ -340,9 +340,9 @@ adversus Dominum et adversus Chrīstum eius”.
 
 2 et subtrāxit dē pretiō, cōnsciā quoque uxōre, et afferēns partem quandam ad pedēs apostolōrum posuit.
 
-3 Dīxit autem Petrus: “Anānīā[\*][ananias], cūr implēvit Satanās cor tuum mentīrī tē Spīrituī Sānctō et **subtrahere** dē pretiō agrī?
+3 Dīxit autem Petrus: “Ananīā[\*][ananias], cūr implēvit Satanās cor tuum mentīrī tē Spīrituī Sānctō et subtrahere dē pretiō agrī?
 
-4 Nōnne manēns tibi manēbat et vēnumdatum in **tuā** erat potestāte? Quārē posuistī in corde tuō hanc rem? Nōn es mentītus hominibus sed Deō!”.
+4 Nōnne manēns tibi manēbat et vēnumdatum in tuā erat potestāte? Quārē posuistī in corde tuō hanc rem? Nōn es mentītus hominibus sed Deō!”.
 
 5 Audiēns autem Ananīās[\*][ananias] haec verba cecidit et exspīrāvit; et factus est timor magnus in omnēs audientēs.
 
