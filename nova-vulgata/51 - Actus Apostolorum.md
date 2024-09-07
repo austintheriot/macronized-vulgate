@@ -336,29 +336,29 @@ adversus Dominum et adversus Chrīstum eius”.
 
 ## 5
 
-1 Vir autem quīdam nōmine **Ananiās** cum **Sapphirā** uxōre **suā** vēndidit agrum
+1 Vir autem quīdam nōmine Ananīās cum Sapphīrā uxōre suā vēndidit agrum
 
-2 et subtrāxit dē pretiō, **cōnsciā** **quoque** uxōre, et afferēns partem quandam ad **pedēs** apostolōrum posuit.
+2 et subtrāxit dē pretiō, **cōnsciā** quoque uxōre, et afferēns partem quandam ad pedēs apostolōrum posuit.
 
-3 Dīxit autem Petrus: “Anānia, cūr implēvit Satanās cor tuum mentīrī tē Spīrituī Sānctō et **subtrahere** dē pretiō agrī?
+3 Dīxit autem Petrus: “Anānīā, cūr implēvit Satanās cor tuum mentīrī tē Spīrituī Sānctō et **subtrahere** dē pretiō agrī?
 
-4 **Nōnne** manēns tibi manēbat et vēnumdatum in **tuā** erat potestāte? Quārē posuistī in **corde** tuō hanc rem? Nōn **es** mentītus hominibus sed Deō!”.
+4 Nōnne manēns tibi manēbat et vēnumdatum in **tuā** erat potestāte? Quārē posuistī in corde tuō hanc rem? Nōn es mentītus hominibus sed Deō!”.
 
-5 Audiēns autem Ananīās haec verba **cecidit** et exspīrāvit; et **factus** **est** timor magnus in omnēs audientēs.
+5 Audiēns autem Ananīās haec verba cecidit et exspīrāvit; et factus est timor magnus in omnēs audientēs.
 
 6 Surgentēs autem iuvenēs involvērunt eum et efferentēs sepeliērunt.
 
-7 Factum **est** autem quasi hōrārum trium spatium, et uxor ipsīus nesciēns, quod factum fuerat, introīvit.
+7 Factum est autem quasi hōrārum trium spatium, et uxor ipsīus nesciēns, quod factum fuerat, introīvit.
 
-8 Respondit autem **eī** Petrus: “Dīc mihi, sī tantī agrum vēndidistis?”. At **illa** dīxit: “Etiam, tantī”.
+8 Respondit autem eī Petrus: “Dīc mihi, sī tantī agrum vēndidistis?”. At illa dīxit: “Etiam, tantī”.
 
-9 Petrus autem ad eam: “Quid **est** quod **convenit** vōbīs tentāre Spīritum Dominī? Ecce **pedēs** eōrum, quī sepeliērunt **virum** tuum, ad ōstium, et efferent tē”.
+9 Petrus autem ad eam: “Quid est quod convēnit vōbīs tentāre Spīritum Dominī? Ecce pedēs eōrum, quī sepeliērunt virum tuum, ad ōstium, et efferent tē”.
 
-10 Cōnfestim **cecidit** ante **pedēs** eius et exspīrāvit; intrantēs autem iuvenēs invēnērunt illam mortuam et efferentēs sepeliērunt ad **virum** suum.
+10 Cōnfestim cecidit ante pedēs eius et exspīrāvit; intrantēs autem iuvenēs invēnērunt illam mortuam et efferentēs sepeliērunt ad virum suum.
 
-11 Et **factus** **est** timor magnus super ūniversam ecclēsiam et in omnēs, quī audiērunt haec.
+11 Et factus est timor magnus super ūniversam ecclēsiam et in omnēs, quī audiērunt haec.
 
-12 Per **manūs** autem apostolōrum fīēbant **signa** et prōdigia **multa** in plēbe; et erant ūnanimiter omnēs in porticū Salomōnis.
+12 Per manūs autem apostolōrum fīēbant signa et prōdigia multa in plēbe; et erant ūnanimiter omnēs in porticū Salomōnis.
 
 13 Cēterōrum autem nēmō audēbat **coniungere** sē illīs, sed magnificābat eōs **populus**;
 
@@ -412,9 +412,9 @@ Adveniēns autem prīnceps sacerdōtum et, quī cum eō erant, convocāvērunt c
 
 37 Post hunc exstitit Iūdās Galilaeus[\*][galilaea] in diēbus **cēnsūs** et āvertit **populum** post sē; et ipse periit, et omnēs, quotquot cōnsentiēbant **eī**, dispersī sunt.
 
-38 Et nunc **dīcō** vōbīs: Discēdite ab hominibus istīs et sinite illōs. Quoniam sī **est** ex hominibus cōnsilium **hoc** aut opus **hoc**, dissolvētur;
+38 Et nunc dīcō vōbīs: Discēdite ab hominibus istīs et sinite illōs. Quoniam sī est ex hominibus cōnsilium hoc aut opus hoc, dissolvētur;
 
-39 sī vērō ex Deō **est**, nōn poteritis **dissolvere** eōs, nē forte et adversus Deum pugnantēs inveniāminī!”.
+39 sī vērō ex Deō est, nōn poteritis dissolvere eōs, nē forte et adversus Deum pugnantēs inveniāminī!”.
 
 Cōnsēnsērunt autem illī
 
@@ -422,7 +422,7 @@ Cōnsēnsērunt autem illī
 
 41 Et illī quidem ībant gaudentēs ā cōnspectū conciliī, quoniam dignī habitī sunt prō nōmine contumēliam patī;
 
-42 et omnī **diē** in templō et circā domōs nōn cessābant docentēs et ēvangelīzantēs Chrīstum, Iēsum.
+42 et omnī diē in templō et circā domōs nōn cessābant docentēs et ēvangelīzantēs Chrīstum, Iēsum.
 
 ## 6
 
@@ -704,13 +704,13 @@ Quoniam tollitur dē **terrā** **vīta** eius”.
 
 9 Et erat **tribus** diēbus nōn vidēns et nōn mandūcāvit neque bibit.
 
-10 Erat autem quīdam discipulus Damascī nōmine **Ananiās**; et dīxit ad illum in vīsū Dominus: “Anānia”. At ille ait: “Ecce ego, Domine”.
+10 Erat autem quīdam discipulus Damascī nōmine Ananīās; et dīxit ad illum in vīsū Dominus: “Anānia”. At ille ait: “Ecce ego, Domine”.
 
 11 Et Dominus ad illum: “Surgēns **vāde** in vīcum, quī vocātur Rēctus, et quaere in domō Iūdae Saulum nōmine Tarsēnsem; ecce enim ōrat
 
 12 et vīdit **virum** Anāniam nōmine introeuntem et impōnentem sibi **manūs**, ut vīsum recipiat”.
 
-13 Respondit autem **Ananiās**: “Domine, audīvī ā multīs dē **virō** **hoc**, **quanta** **mala** sānctīs tuīs fēcerit in Ierūsalēm;
+13 Respondit autem Ananīās: “Domine, audīvī ā multīs dē **virō** **hoc**, **quanta** **mala** sānctīs tuīs fēcerit in Ierūsalēm;
 
 14 et **hic** habet potestātem ā prīncipibus sacerdōtum alligandī omnēs, quī invocant **nōmen** tuum”.
 
@@ -718,7 +718,7 @@ Quoniam tollitur dē **terrā** **vīta** eius”.
 
 16 ego enim ostendam illī **quanta** oporteat eum prō nōmine meō patī”.
 
-17 Et abiit **Ananiās**; et introīvit in domum et impōnēns **eī** **manūs** dīxit: “Saūl frāter, Dominus mīsit mē, Iēsūs quī appāruit tibi in **viā**, **quā** veniēbās, ut videās et impleāris Spīritū Sānctō”.
+17 Et abiit Ananīās; et introīvit in domum et impōnēns **eī** **manūs** dīxit: “Saūl frāter, Dominus mīsit mē, Iēsūs quī appāruit tibi in **viā**, **quā** veniēbās, ut videās et impleāris Spīritū Sānctō”.
 
 18 Et cōnfestim **cecidērunt** ab oculīs eius tamquam squāmae, et vīsum recēpit. Et surgēns baptīzātus **est**
 
@@ -1730,7 +1730,7 @@ dīcit Dominus faciēns haec 18 **nota** ā saeculō”.
 
 11 Et cum nōn vidērem prae clāritāte lūminis illīus, ad **manum** **dēductus** ā comitibus **venī** **Damascum**.
 
-12 **Ananiās** autem quīdam vir religiōsus secundum lēgem, testimōnium habēns ab omnibus habitantibus Iūdaeīs,
+12 Ananīās autem quīdam vir religiōsus secundum lēgem, testimōnium habēns ab omnibus habitantibus Iūdaeīs,
 
 13 veniēns ad mē et astāns dīxit mihi: “Saūl frāter, respice!”. Et ego **eādem** **hōrā** respexī in eum.
 
