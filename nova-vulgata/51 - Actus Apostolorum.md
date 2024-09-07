@@ -292,27 +292,27 @@ quī factus est in caput angulī.
 
 20 nōn enim possumus nōs, quae vīdimus et audīvimus, nōn loquī”.
 
-21 At illī **ultrā** comminantēs dīmīsērunt eōs, nēquāquam invenientēs, quōmodo pūnīrent eōs, propter populum, quia omnēs glōrificābant Deum in eō, quod **acciderat**;
+21 At illī ultrā comminantēs dīmīsērunt eōs, nēquāquam invenientēs, quōmodo pūnīrent eōs, propter populum, quia omnēs glōrificābant Deum in eō, quod acciderat;
 
 22 annōrum enim erat amplius quadrāgintā homō, in quō factum erat signum istud sānitātis.
 
-23 Dīmissī autem vēnērunt ad suōs et annūntiāvērunt **quanta** ad eōs prīncipēs sacerdōtum et seniōrēs dīxissent.
+23 Dīmissī autem vēnērunt ad suōs et annūntiāvērunt quanta ad eōs prīncipēs sacerdōtum et seniōrēs dīxissent.
 
-24 Quī cum audīssent, ūnanimiter **levāvērunt** **vōcem** ad Deum et dīxērunt: “Domine, tū, quī fēcistī caelum et terram et mare et omnia, quae in eīs sunt,
+24 Quī cum audīssent, ūnanimiter levāvērunt vōcem ad Deum et dīxērunt: “Domine, tū, quī fēcistī caelum et terram et mare et omnia, quae in eīs sunt,
 
-25 quī Spīritū Sānctō per **os** patris nostrī Dāvīd puerī tuī dīxistī:
+25 quī Spīritū Sānctō per ōs patris nostrī Dāvīd puerī tuī dīxistī:
 
 “Quārē fremuērunt gentēs,
 
-et **populī** meditātī sunt inānia?
+et populī meditātī sunt inānia?
 
-26 Astitērunt **rēgēs** terrae,
+26 Astitērunt rēgēs terrae,
 
 et prīncipēs convēnērunt in ūnum
 
 adversus Dominum et adversus Chrīstum eius”.
 
-27 Convēnērunt enim **vērē** in cīvitāte **ista** adversus sānctum puerum tuum Iēsum, quem ūnxistī, **Hērōdēs** et **Pontius** **Pīlātus** cum gentibus et **populīs** Isrāēl
+27 Convēnērunt enim vērē in cīvitāte istā adversus sānctum puerum tuum Iēsum, quem ūnxistī, **Hērōdēs** et **Pontius** **Pīlātus** cum gentibus et **populīs** Isrāēl
 
 28 facere, quaecumque **manus** **tua** et cōnsilium praedēstināvit fierī.
 
