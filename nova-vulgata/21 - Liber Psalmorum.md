@@ -1136,23 +1136,23 @@ Dāvīd et sēminī eius usque in saeculum.
 
 2 Caelī ēnārrant glōriam Deī,
 
-et **opera** manuum eius annūntiat firmāmentum.
+et opera manuum eius annūntiat firmāmentum.
 
 3 Diēs diēī ēructat verbum,
 
-et nox noctī **indicat** scientiam.
+et nox noctī indicat scientiam.
 
 4 Nōn sunt loquēlae neque sermōnēs,
 
-quōrum nōn intellegantur **vōcēs**:
+quōrum nōn intellegantur vōcēs:
 
-5 in omnem terram exīvit **sonus** eōrum,
+5 in omnem terram exīvit sonus eōrum,
 
-et in fīnēs **orbis** terrae verba eōrum.
+et in fīnēs orbis terrae verba eōrum.
 
-6 **Solī** posuit tabernāculum in eīs,
+6 **Sōlī** posuit tabernāculum in eīs,
 
-et ipse, tamquam **spōnsus** prōcēdēns dē thalamō suō,
+et ipse, tamquam spōnsus prōcēdēns dē thalamō suō,
 
 exsultāvit ut gigās ad currendam viam.
 

@@ -61,3 +61,4 @@ Samūēl (Greek length, Wiktionary)
 ## Sapphira
 
 Sapphīrā (uncertain vowel length, following the Greek, Σαπφείρῃ)
+
