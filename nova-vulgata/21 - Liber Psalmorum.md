@@ -1180,23 +1180,23 @@ et dulciōra super mel et favum stīllantem.
 
 12 Etenim servus tuus ērudītur in eīs;
 
-in cūstōdiendīs illīs retribūtiō **multa**.
+in cūstōdiendīs illīs retribūtiō multa.
 
-13 Errōrēs **quis** intellegit?
+13 Errōrēs quis intellegit?
 
-Ab occultīs **mundā** mē
+Ab occultīs mundā mē
 
-14 et ā **superbiā** cūstōdī servum tuum, nē dominētur meī,
+14 et ā superbiā cūstōdī servum tuum, nē dominētur meī,
 
-Tunc immaculātus **erō**
+Tunc immaculātus erō
 
 et ēmundābor ā dēlictō maximō.
 
-15 Sint ut complaceant ēloquia **ōris** meī,
+15 Sint ut complaceant ēloquia ōris meī,
 
-et meditātiō **cordis** meī in cōnspectū tuō.
+et meditātiō cordis meī in cōnspectū tuō.
 
-Domine, adiūtor meus et **redēmptor** meus.
+Domine, adiūtor meus et redēmptor meus.
 
 ### PSALMUS 20
 
