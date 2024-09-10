@@ -1202,15 +1202,15 @@ Domine, adiūtor meus et redēmptor meus.
 
 1 Magistrō chorī. PSALMUS. Dāvīd.
 
-2 Exaudiat tē Dominus in **diē** trībulātiōnis,
+2 Exaudiat tē Dominus in diē trībulātiōnis,
 
-prōtegat tē **nōmen** Deī Iācōb[\*][jacob].
+prōtegat tē nōmen Deī Iācōb[\*][jacob].
 
 3 Mittat tibi auxilium dē sānctō
 
 et dē Sīōn tueātur tē.
 
-4 Memor sit **omnis** sacrificiī tuī
+4 Memor sit omnis sacrificiī tuī
 
 et holocaustum tuum pingue habeat.
 
@@ -1220,7 +1220,7 @@ et omne cōnsilium tuum adimpleat.
 
 6 Laetābimur in salūtārī tuō
 
-et in nōmine Deī nostrī **levābimus** **signa**;
+et in nōmine Deī nostrī levābimus signa;
 
 impleat Dominus omnēs petītiōnēs tuās.
 
@@ -1228,19 +1228,19 @@ impleat Dominus omnēs petītiōnēs tuās.
 
 exaudīvit illum dē caelō sānctō suō,
 
-in virtūtibus **salūtis** dexterae eius.
+in virtūtibus salūtis dexterae eius.
 
 8 Hī in curribus, et hī in equīs,
 
-nōs autem **nōmen** Dominī Deī nostrī invocāvimus.
+nōs autem nōmen Dominī Deī nostrī invocāvimus.
 
-9 Ipsī incurvātī sunt et **cecidērunt**,
+9 Ipsī incurvātī sunt et cecidērunt,
 
 nōs autem surrēximus et ērēctī sumus.
 
 10 Domine, salvum fac rēgem,
 
-et exaudī nōs in **diē**, **quā** **invocāverimus** tē.
+et exaudī nōs in diē, quā invocāverimus tē.
 
 ### PSALMUS 21
 
