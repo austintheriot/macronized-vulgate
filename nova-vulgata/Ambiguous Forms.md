@@ -18,7 +18,7 @@ Andreas (Greek length)
 
 ## Basan
 
-Vowel length uncertain
+Vowel length uncertain. Basān (following the Septuagint Greek Βασάν)
 
 ## fere
 
