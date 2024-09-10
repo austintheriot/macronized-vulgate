@@ -1354,73 +1354,75 @@ quoniam nōn est quī adiuvet.
 
 taurī Basān[\*][basan] obsēdērunt mē.
 
-14 Aperuērunt super mē **os** suum
+14 Aperuērunt super mē ōs suum
 
-sīcut **leō** rapiēns et rugiēns.
+sīcut leō rapiēns et rugiēns.
 
-15 Sīcut **aquā** effūsus sum,
+15 Sīcut aqua effūsus sum,
 
-et **dissolūta** sunt omnia ossa **mea**.
+et dissolūta sunt omnia ossa mea.
 
-Factum **est** cor meum tamquam **cēra**
+Factum est cor meum tamquam cēra
 
-liquēscēns in **mediō** ventris meī.
+liquēscēns in mediō ventris meī.
 
-16 Āruit tamquam **testa** **palātum** meum,
+16 Āruit tamquam testa palātum meum,
 
-et **lingua** **mea** adhaesit faucibus meīs,
+et lingua mea adhaesit faucibus meīs,
 
-et in pulverem **mortis** dēdūxistī mē.
+et in pulverem mortis dēdūxistī mē.
 
-17 Quoniam circumdedērunt mē **canēs** multī,
+17 Quoniam circumdedērunt mē canēs multī,
 
 concilium malignantium obsēdit mē.
 
-Fōdērunt **manūs** meās et **pedēs** meōs,
+Fōdērunt manūs meās et pedēs meōs,
 
-18 et dīnumerāvī omnia ossa **mea**.
+18 et dīnumerāvī omnia ossa mea.
 
 Ipsī vērō cōnsīderāvērunt et īnspexērunt mē;
 
-19 dīvīsērunt sibi vestīmenta **mea**
+19 dīvīsērunt sibi vestīmenta mea
 
 et super vestem meam mīsērunt sortem.
 
-20 Tū autem, Domine, nē **ēlongāverīs**;
+20 Tū autem, Domine, nē ēlongāverīs;
 
-fortitūdō **mea**, ad adiuvandum mē **festīnā**.
+fortitūdō mea, ad adiuvandum mē festīnā.
 
-21 Erue ā **frameā** animam meam
+21 Erue ā frameā animam meam
 
-et dē manū **canis** ūnicam meam.
+et dē manū canis ūnicam meam.
 
-22 **Salvā** mē ex ōre leōnis
+22 Salvā mē ex ōre leōnis
 
 et ā cornibus ūnicornium humilitātem meam.
 
-23 Nārrābō **nōmen** tuum frātribus meīs,
+23 Nārrābō nōmen tuum frātribus meīs,
 
-in **mediō** ecclēsiae laudābō tē.
+in mediō ecclēsiae laudābō tē.
 
-24 Quī timētis Dominum, **laudātē** eum;
+24 Quī timētis Dominum, laudāte eum;
 
-ūniversum sēmen Iācōb[\*][jacob], **glōrificātē** eum.
+ūniversum sēmen Iācōb[\*][jacob], glōrificāte eum.
 
 Metuat eum omne sēmen Isrāēl,
 
-25 quoniam nōn sprēvit neque dēspexit afflīctiōnem **pauperis**
+25 quoniam nōn sprēvit neque dēspexit afflīctiōnem pauperis
 
 nec āvertit faciem suam ab eō
 
 et, cum clāmāret ad eum, exaudīvit.
 
-26 Apud tē laus **mea** in **ecclēsiā** **magnā**; **vōta** **mea** reddam in cōnspectū timentium eum.
+26 Apud tē laus mea in ecclēsiā magnā;
 
-27 **Edent** pauperēs et saturābuntur;
+vōta mea reddam in cōnspectū timentium eum.
+
+27 Edent pauperēs et saturābuntur;
 
 et laudābunt Dominum, quī requīrunt eum:
 
-“Vīvant **corda** eōrum in saeculum saeculī!”.
+“Vīvant corda eōrum in saeculum saeculī!”.
 
 28 Reminīscentur et convertentur ad Dominum
 
@@ -1430,15 +1432,15 @@ et adōrābunt in cōnspectū eius
 
 ūniversae familiae gentium.
 
-29 Quoniam Dominī **est** rēgnum,
+29 Quoniam Dominī est rēgnum,
 
 et ipse dominābitur gentium.
 
-30 Ipsum **sōlum** adōrābunt omnēs, quī dormiunt in **terrā**;
+30 Ipsum sōlum adōrābunt omnēs, quī dormiunt in terrā;
 
 in cōnspectū eius prōcident omnēs, quī dēscendunt in pulverem.
 
-**Anima** autem **mea** illī vīvet,
+Anima autem mea illī vīvet,
 
 31 et sēmen meum serviet ipsī.
 
@@ -1446,7 +1448,7 @@ Nārrābitur dē Dominō generātiōnī ventūrae;
 
 32 et annūntiābunt iūstitiam eius
 
-**populō**, quī nāscētur: “Haec fēcit Dominus!”.
+populō, quī nāscētur: “Haec fēcit Dominus!”.
 
 ### PSALMUS 23
 
