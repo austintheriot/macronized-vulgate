@@ -3200,7 +3200,7 @@ extrā portās Ierusālem”.
 
 20 Ascende **Libanum** et clāmā
 
-et in Basān dā **vōcem** tuam
+et in Basān[\*][basan] dā **vōcem** tuam
 
 et clāmā dē Abarim,
 
@@ -5818,7 +5818,7 @@ Nabuchodonosor rēx Babylōnis.
 
 18 Proptereā haec dīcit Dominus exercituum, Deus Isrāēl: ”Ecce ego vīsitābō rēgem Babylōnis et terram eius, sīcut vīsitāvī rēgem Assyriae;
 
-19 et redūcam Isrāēl ad **pāscuā** **suā**, et pāscētur Carmēlum et Basān, et in monte Ephraim et Galaad saturābitur **anima** eius.
+19 et redūcam Isrāēl ad **pāscuā** **suā**, et pāscētur Carmēlum et Basān[\*][basan], et in monte Ephraim et Galaad saturābitur **anima** eius.
 
 20 In diēbus illīs et in tempore illō, ait Dominus, quaerētur inīquitās Isrāēl et nōn erit, et peccātum Iūdae et nōn inveniētur, quoniam propitius **erō** eīs, quōs relīquerō.
 
@@ -6424,5 +6424,6 @@ Et recessit Sedeciās ā **rēge** Babylōnis.
 
 34 Et **cibāria** eius, **cibāria** **perpetua** dabantur **eī** ā **rēge** Babylōnis **statūta** per singulōs diēs, usque ad diem **mortis** suae, cūnctīs diēbus vītae eius.
 
+[basan]: <Ambiguous Forms.md#basan>
 [moyses]: <Ambiguous Forms.md#moyses>
 [samuel]: <Ambiguous Forms.md#samuel>

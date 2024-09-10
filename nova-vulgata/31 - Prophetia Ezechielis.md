@@ -1856,7 +1856,7 @@ cedrum dē **libanō** tulērunt,
 
 ut facerent tibi **mālum**;
 
-6 **quercus** dē Basān
+6 **quercus** dē Basān[\*][basan]
 
 dolāvērunt in rēmōs tuōs
 
@@ -3024,7 +3024,7 @@ et sciēs quia ego Dominus.
 
 17 Tū ergō, fīlī hominis, haec dīcit Dominus Deus, dīc volucrī, ūniversīs avibus cūnctīsque bēstiīs agrī: Convenīte, **properāte**, concurrite undique ad victimam meam, quam ego immolō vōbīs, victimam grandem super montēs Isrāēl, ut comedātis carnēs et bibātis sanguinem.
 
-18 Carnēs fortium comedētis et sanguinem prīncipum terrae bibētis: arietēs, agnī et hircī taurīque sagīnātī dē Basān sunt omnēs;
+18 Carnēs fortium comedētis et sanguinem prīncipum terrae bibētis: arietēs, agnī et hircī taurīque sagīnātī dē Basān[\*][basan] sunt omnēs;
 
 19 et comedētis adipem in saturitātem et bibētis sanguinem in ēbrietātem dē **victimā**, quam ego immolābō vōbīs.
 
@@ -3587,4 +3587,5 @@ et sciēs quia ego Dominus.
 35 Per circuitum decem et octo **mīlia**, et **nōmen** cīvitātis ex **illā** **diē**: Dominus ibīdem”.
 
 [abraham]: <Ambiguous Forms.md#abraham>
+[basan]: <Ambiguous Forms.md#basan>
 [rugitus]: <Ambiguous Forms.md#rugitus>

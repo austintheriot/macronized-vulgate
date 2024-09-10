@@ -388,9 +388,9 @@ Fīliī Hur prīmōgenitī Ephratha: Sobal pater Cariathiarim,
 
 10 In diēbus autem Saūl proeliātī sunt contrā Agarēnōs et interfēcērunt illōs; habitāvēruntque prō eīs in tabernāculīs eōrum in omnī **plāgā**, quae respicit ad orientem Galaad.
 
-11 Fīliī vērō Gad ē regiōne eōrum habitāvērunt in **terrā** Basān usque Salchā:
+11 Fīliī vērō Gad ē regiōne eōrum habitāvērunt in **terrā** Basān[\*][basan] usque Salchā:
 
-12 Ioēl in **capite** et Sapham secundus, porrō Ianāī et Saphat in Basān;
+12 Ioēl in **capite** et Sapham secundus, porrō Ianāī et Saphat in Basān[\*][basan];
 
 13 frātrēs vērō eōrum secundum familiās suās: Michael et Mosollam et **Sēba** et Iorāī et Iachan et Ziē et Heber, septem.
 
@@ -398,7 +398,7 @@ Fīliī Hur prīmōgenitī Ephratha: Sobal pater Cariathiarim,
 
 15 Ahī fīlius Abdiel fīliī Gūnī prīnceps familiārum eōrum.
 
-16 Et habitāvērunt in Galaad et in Basān et in vīculīs eius et in cūnctīs suburbānīs Sarōn usque ad terminōs.
+16 Et habitāvērunt in Galaad et in Basān[\*][basan] et in vīculīs eius et in cūnctīs suburbānīs Sarōn usque ad terminōs.
 
 17 Omnēs hī numerātī sunt in diēbus Ioatham **rēgis** Iūdae et in diēbus Ieroboam **rēgis** Isrāēl.
 
@@ -412,7 +412,7 @@ Fīliī Hur prīmōgenitī Ephratha: Sobal pater Cariathiarim,
 
 22 vulnerātī autem multī corruērunt; fuit enim bellum Dominī. Habitāvēruntque prō eīs usque ad trānsmigrātiōnem.
 
-23 Fīliī **quoque** dīmidiae **tribūs** Mānāsse possēdērunt terram ā Basān usque Baalhermōn et Sanir et montem **Hermōn**; ingēns quippe numerus erat.
+23 Fīliī **quoque** dīmidiae **tribūs** Mānāsse possēdērunt terram ā Basān[\*][basan] usque Baalhermōn et Sanir et montem **Hermōn**; ingēns quippe numerus erat.
 
 24 Et hī fuērunt prīncipēs familiārum eōrum: Epher et Iesī et Eliel et Azriel et **Iēremīa** et Odovia et Iediel; **virī** bellātōrēs fortissimī et nōminātī, **ducēs** in familiīs **suīs**.
 
@@ -546,7 +546,7 @@ Hae autem cognātiōnēs **Levī** secundum familiās eōrum:
 
 46 Fīliīs autem Caath residuīs dē cognātiōne **suā** dedērunt ex tribū Ephraim et ex tribū **Dān** et ex **dīmidiā** tribū Mānāsse in possessiōnem urbēs decem.
 
-47 Porrō fīliīs Gersōn per cognātiōnēs suās dē tribū Issachar et dē tribū Aser et dē tribū Nephthālī et dē tribū Mānāsse in Basān urbēs tredecim.
+47 Porrō fīliīs Gersōn per cognātiōnēs suās dē tribū Issachar et dē tribū Aser et dē tribū Nephthālī et dē tribū Mānāsse in Basān[\*][basan] urbēs tredecim.
 
 48 Fīliīs autem Merārī per cognātiōnēs suās dē tribū Ruben et dē tribū Gad et dē tribū **Zabulōn** dedērunt sorte cīvitātēs duodecim.
 
@@ -564,7 +564,7 @@ Hae autem cognātiōnēs **Levī** secundum familiās eōrum:
 
 55 Porrō ex **dīmidiā** tribū Mānāsse Thanach et **suburbāna** eius, Ieblaam et **suburbāna** eius, hīs vidēlicet quī dē cognātiōnibus fīliōrum Caath **reliquī** erant.
 
-56 Fīliīs autem Gersōn dē cognātiōnibus dīmidiae **tribūs** Mānāsse: Golan in Basān et **suburbāna** eius et Astharoth cum suburbānīs **suīs**.
+56 Fīliīs autem Gersōn dē cognātiōnibus dīmidiae **tribūs** Mānāsse: Golan in Basān[\*][basan] et **suburbāna** eius et Astharoth cum suburbānīs **suīs**.
 
 57 Dē tribū Issachar Cēdēs et **suburbāna** illīus et Dabereth cum suburbānīs **suīs**,
 
@@ -2047,5 +2047,6 @@ et laudāmus **nōmen** tuum inclitum.
 30 ūniversīque rēgnī eius et fortitūdinis et temporum, quae trānsiērunt sub eō sīve in Isrāēl sīve in cūnctīs rēgnīs terrārum.
 
 [abraham]: <Ambiguous Forms.md#abraham>
+[basan]: <Ambiguous Forms.md#basan>
 [moyses]: <Ambiguous Forms.md#moyses>
 [samuel]: <Ambiguous Forms.md#samuel>

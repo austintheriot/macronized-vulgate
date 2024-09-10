@@ -416,7 +416,7 @@ In tempore illō imprecātus **est** **Ios**ue dīcēns:
 
 9 Respondērunt: ”Dē **terrā** **longinquā** valdē vēnērunt servī tuī in nōmine Dominī Deī tuī; audīvimus enim fāmam potentiae eius, **cūncta**, quae fēcit in Aegyptō
 
-10 et duōbus Amorraēōrum rēgibus trāns Iordānem, Sehon **rēgī** Hesebon et Og **rēgī** Basan, quī erat in Astharoth.
+10 et duōbus Amorraēōrum rēgibus trāns Iordānem, Sehon **rēgī** Hesebon et Og **rēgī** Basān[\*][basan], quī erat in Astharoth.
 
 11 Dīxēruntque nōbīs seniōrēs et omnēs habitātōrēs terrae nostrae: “Tollite in manibus **cibāria** in viam et occurrite eīs ac dīcite: Servī vestrī sumus; foedus **initē** nōbīscum”.
 
@@ -606,9 +606,9 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 3 et in **Arabā** usque ad mare Chenereth in oriente et usque ad mare Arabae, quod **est** mare Salsissimum, ad orientālem **plāgam** in **viā**, quae dūcit Bethiesimoth, et in austrālī **parte**, quae iacet ad rādīcēs Phasga.
 
-4 Terminus Og **rēgis** Basan dē reliquiīs Raphaim, quī habitāvit in Astharoth et in Edrāī,
+4 Terminus Og **rēgis** Basān[\*][basan] dē reliquiīs Raphaim, quī habitāvit in Astharoth et in Edrāī,
 
-5 et **dominātus** **est** in monte **Hermōn** et in Salchā atque in **ūniversa** Basan usque ad terminōs Gesūrī et Maachāthī et in **dīmidiā** **parte** Galaad usque ad terminōs Sehon **rēgis** Hesebon.
+5 et **dominātus** **est** in monte **Hermōn** et in Salchā atque in **ūniversa** Basān[\*][basan] usque ad terminōs Gesūrī et Maachāthī et in **dīmidiā** **parte** Galaad usque ad terminōs Sehon **rēgis** Hesebon.
 
 6 Moȳsēs[\*][moyses] famulus Dominī et fīliī Isrāēl percussērunt eōs; trādiditque terram eōrum Moȳsēs[\*][moyses] in possessiōnem Rubenitis et Gaditis et dīmidiae tribuī Mānāsse.
 
@@ -670,9 +670,9 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 10 et cūnctās cīvitātēs Sehon **rēgis** Amorraēī, quī rēgnāvit in Hesebon, usque ad terminōs fīliōrum Ammōn;
 
-11 et Galaad ac terminōs Gesūrī et Maachāthī omnemque montem **Hermōn** et ūniversam Basān usque Salchā,
+11 et Galaad ac terminōs Gesūrī et Maachāthī omnemque montem **Hermōn** et ūniversam Basān[\*][basan] usque Salchā,
 
-12 omne rēgnum Og in Basān, quī rēgnāvit in Astharoth et Edrāī — ipse fuit dē reliquiīs Raphaim C; percussitque eōs Moȳsēs[\*][moyses] atque dēlēvit.
+12 omne rēgnum Og in Basān[\*][basan], quī rēgnāvit in Astharoth et Edrāī — ipse fuit dē reliquiīs Raphaim C; percussitque eōs Moȳsēs[\*][moyses] atque dēlēvit.
 
 13 Nōn autem disperdidērunt fīliī Isrāēl Gesūrī et Maachathī, et habitāvērunt in **mediō** Isrāēl usque in praesentem diem.
 
@@ -708,9 +708,9 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 29 **Dēdit** Moȳsēs[\*][moyses] et dīmidiae tribuī fīliōrum Mānāsse, iuxtā cognātiōnēs suās possessiōnem:
 
-30 Mānāsse, ā Mahanaim ūniversam Basān, cūnctum rēgnum Og **rēgis** Basān omnēsque vīcōs Iair, quī sunt in Basān, sexāgintā oppida;
+30 Mānāsse, ā Mahanaim ūniversam Basān[\*][basan], cūnctum rēgnum Og **rēgis** Basān[\*][basan] omnēsque vīcōs Iair, quī sunt in Basān[\*][basan], sexāgintā oppida;
 
-31 et dīmidiam partem Galaad et Astharoth et Edrāī, urbēs rēgnī Og in Basān, fīliīs Machir fīliī Mānāsse, dīmidiae partī fīliōrum Machir, iuxtā cognātiōnēs suās.
+31 et dīmidiam partem Galaad et Astharoth et Edrāī, urbēs rēgnī Og in Basān[\*][basan], fīliīs Machir fīliī Mānāsse, dīmidiae partī fīliōrum Machir, iuxtā cognātiōnēs suās.
 
 32 Hanc possessiōnem dīvīsit Moȳsēs[\*][moyses] in campestribus Moab trāns Iordānem contrā Ierichō ad orientālem **plāgam**.
 
@@ -880,7 +880,7 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 7 Dēcrēvēruntque Cēdēs in **Galilaeā** **montis** Nephthālī et Sichem in monte Ephraim et Cariatharbe — **ipsa** **est** **Hebrōn** — in monte Iūdae;
 
-8 et trāns Iordānem contrā orientālem **plāgam** Ierichō statuērunt Bosor, quae **sita** **est** in campestrī sōlitūdine dē tribū Ruben, et Ramoth in Galaad dē tribū Gad et Golan in Basān dē tribū Mānāsse.
+8 et trāns Iordānem contrā orientālem **plāgam** Ierichō statuērunt Bosor, quae **sita** **est** in campestrī sōlitūdine dē tribū Ruben, et Ramoth in Galaad dē tribū Gad et Golan in Basān[\*][basan] dē tribū Mānāsse.
 
 9 Hae cīvitātēs cōnstitūtae sunt cūnctīs fīliīs Isrāēl et advenīs, quī habitant inter eōs, ut fugeret ad eās, quī animam nescius percussisset et nōn morerētur in manū proximī **effūsum** sanguinem vindicāre **cupientīs**, dōnec stāret ante **populum** expositūrus causam suam.
 
@@ -896,7 +896,7 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 5 Et **reliquī** fīliōrum Caath, id **est** Lēvītae, accēpērunt dē tribubus Ephraim et **Dān** et **dīmidiā** tribū Mānāsse cīvitātēs decem.
 
-6 Porrō fīliīs Gersōn **ēgressa** **est** sors, ut acciperent dē tribubus Issachar et Aser et Nephthālī **dīmidiā**que tribū Mānāsse in Basān cīvitātēs numerō tredecim.
+6 Porrō fīliīs Gersōn **ēgressa** **est** sors, ut acciperent dē tribubus Issachar et Aser et Nephthālī **dīmidiā**que tribū Mānāsse in Basān[\*][basan] cīvitātēs numerō tredecim.
 
 7 Et fīliīs Merārī per cognātiōnēs suās dē tribubus Ruben et Gad et **Zabulōn** urbēs duodecim.
 
@@ -938,7 +938,7 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 26 Omnēs cīvitātēs decem et **suburbāna** eārum datae sunt fīliīs Caath īnferiōris **gradus**.
 
-27 Fīliīs **quoque** Gersōn lēvīticī **generis** dedērunt dē **dīmidiā** tribū Mānāsse cōnfugiī cīvitātem Golan in Basān et Astharoth cum suburbānīs **suīs**: cīvitātēs duās.
+27 Fīliīs **quoque** Gersōn lēvīticī **generis** dedērunt dē **dīmidiā** tribū Mānāsse cōnfugiī cīvitātem Golan in Basān[\*][basan] et Astharoth cum suburbānīs **suīs**: cīvitātēs duās.
 
 28 Porrō dē tribū Issachar Cesion et Dabereth
 
@@ -990,7 +990,7 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 
 6 Benedīxitque eīs **Ios**ue et dīmīsit eōs, quī reversī sunt in tabernācula **sua**.
 
-7 Dīmidiae autem tribuī Mānāsse possessiōnem Moȳsēs[\*][moyses] dederat in Basān; et idcircō mediae, quae superfuit, **dedit** **Ios**ue sortem inter cēterōs frātrēs suōs trāns Iordānem ad occidentālem eius **plāgam**. Cumque dīmitteret eōs in tabernācula **sua** et benedīxisset illīs,
+7 Dīmidiae autem tribuī Mānāsse possessiōnem Moȳsēs[\*][moyses] dederat in Basān[\*][basan]; et idcircō mediae, quae superfuit, **dedit** **Ios**ue sortem inter cēterōs frātrēs suōs trāns Iordānem ad occidentālem eius **plāgam**. Cumque dīmitteret eōs in tabernācula **sua** et benedīxisset illīs,
 
 8 dīxit ad eōs: “Cum multīs dīvitiīs revertiminī ad **sēdēs** vestrās, cum argentō et aurō, **aere** ac ferrō et veste multiplicī; dīvidite praedam hostium cum frātribus vestrīs”.
 
@@ -1149,4 +1149,5 @@ dōnec ulcīscerētur sē gēns dē inimīcīs **suīs**.
 33 Eleazar **quoque** fīlius Aarōn mortuus **est**; et sepeliērunt eum in Gabaā Phineēs fīliī eius, quae **data** **est** **eī** in monte Ephraim.
 
 [abraham]: <Ambiguous Forms.md#abraham>
+[basan]: <Ambiguous Forms.md#basan>
 [moyses]: <Ambiguous Forms.md#moyses>

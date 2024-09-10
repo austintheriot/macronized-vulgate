@@ -304,7 +304,7 @@ et super omnem arrogantem, et humiliābitur;
 
 13 et super omnēs cedrōs **Libanī** sublīmēs et ērēctās
 
-et super omnēs **quercūs** Basān
+et super omnēs **quercūs** Basān[\*][basan]
 
 14 et super omnēs montēs excelsōs
 
@@ -4110,7 +4110,7 @@ cōnfūsus **est** **Libanus** et obsorduit,
 
 et **factus** **est** Saron sīcut dēsertum,
 
-et exāruērunt Basān et Carmēlus.
+et exāruērunt Basān[\*][basan] et Carmēlus.
 
 10 ”Nunc cōnsurgam, dīcit Dominus,
 
@@ -8795,3 +8795,5 @@ et **ignis** eōrum nōn exstinguētur,
 et erunt abōminātiōnī omnī carnī”.
 
 [abraham]: <Ambiguous Forms.md#abraham>
+[basan]: <Ambiguous Forms.md#basan>
+

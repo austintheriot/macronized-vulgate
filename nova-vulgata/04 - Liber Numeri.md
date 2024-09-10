@@ -1583,7 +1583,7 @@ et usque Medaba”.
 
 32 Mīsitque Moȳsēs[\*][moyses], quī explōrārent Iazer, cuius cēpērunt vīculōs et expulērunt Amorraēōs, quī erant ibi.
 
-33 Vertēruntque sē et ascendērunt per viam Basān, et occurrit eīs Og rēx Basan cum omnī **populō** suō pugnātūrus in Edrāī.
+33 Vertēruntque sē et ascendērunt per viam Basān[\*][basan], et occurrit eīs Og rēx Basān[\*][basan] cum omnī **populō** suō pugnātūrus in Edrāī.
 
 34 Dīxitque Dominus ad Moȳsēn[\*][moyses]: ”Nē timeās eum, quia in manū **tuā** trādidī illum et omnem **populum** ac terram eius, faciēsque illī, sīcut fēcistī Sehon **rēgī** Amorraēōrum habitātōrī Hesebōn”.
 
@@ -2495,7 +2495,7 @@ Fīliōrum Isrāēl, quī ēgressī sunt dē **terrā** Aegyptī, iste **est** n
 
 32 Ipsī armātī pergēmus **cōram** Dominō in terram Chanaan; et possidēbimus hērēditātem nostram trāns Iordānem”.
 
-33 **Dēdit** itaque Moȳsēs[\*][moyses] fīliīs Gad et Ruben et dīmidiae tribuī Mānāsse fīliī Ioseph rēgnum Sehon **rēgis** Amorraēī et rēgnum Og **rēgis** Basān, terram cum urbibus **suīs** et **terminīs**, urbēs terrae per circuitum.
+33 **Dēdit** itaque Moȳsēs[\*][moyses] fīliīs Gad et Ruben et dīmidiae tribuī Mānāsse fīliī Ioseph rēgnum Sehon **rēgis** Amorraēī et rēgnum Og **rēgis** Basān[\*][basan], terram cum urbibus **suīs** et **terminīs**, urbēs terrae per circuitum.
 
 34 Igitur exstrūxērunt fīliī Gad Dibon et Ataroth et Aroer
 
@@ -2790,6 +2790,7 @@ Hanc habēbitis terram per fīnēs suōs in circuitū”.
 13 Haec sunt **mandāta** atque iūdicia, quae mandāvit Dominus per **manum** Moȳsī ad fīliōs Isrāēl in campestribus Moab suprā Iordānem contrā Ierichō.
 
 [abraham]: <Ambiguous Forms.md#abraham>
+[basan]: <Ambiguous Forms.md#basan>
 [gamaliel]: <Ambiguous Forms.md#gamaliel>
 [moyses]: <Ambiguous Forms.md#moyses>
 [samuel]: <Ambiguous Forms.md#samuel>

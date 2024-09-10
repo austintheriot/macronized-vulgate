@@ -16,6 +16,10 @@ Andrēās (Gaffiot)
 
 Andreas (Greek length)
 
+## Basan
+
+Vowel length uncertain
+
 ## fere
 
 ferē (Classical)

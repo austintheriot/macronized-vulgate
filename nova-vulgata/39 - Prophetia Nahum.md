@@ -26,7 +26,7 @@ et nūbēs pulvis pedum eius.
 
 et omnia flūmina ad dēsertum dēdūcēns.
 
-Ēlanguit Basan et Carmēlus,
+Ēlanguit Basān[\*][basan] et Carmēlus,
 
 et flōs **Libanī** ēlanguit.
 
@@ -381,3 +381,5 @@ plaudent manibus super tē,
 quia super quem nōn trānsiit
 
 **malitia** **tua** semper?”.
+
+[basan]: <Ambiguous Forms.md#basan>

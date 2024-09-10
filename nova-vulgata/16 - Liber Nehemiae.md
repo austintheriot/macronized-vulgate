@@ -608,7 +608,7 @@ et partītus **es** eīs sortēs;
 
 et possēdērunt terram Sehon et terram **rēgis** Hesebon
 
-et terram Og **rēgis** Basān.
+et terram Og **rēgis** Basān[\*][basan].
 
 23 Et multiplicāstī fīliōs eōrum sīcut stēllās caelī;
 
@@ -1067,4 +1067,5 @@ Et prō **hōc** ergō mementō meī, Deus meus, et **parce** mihi secundum mult
 31 et prō oblātiōne lignōrum in temporibus cōnstitūtīs et prō prīmitiīs. Mementō meī, Deus meus, in bonum.
 
 [abraham]: <Ambiguous Forms.md#abraham>
+[basan]: <Ambiguous Forms.md#basan>
 [moyses]: <Ambiguous Forms.md#moyses>

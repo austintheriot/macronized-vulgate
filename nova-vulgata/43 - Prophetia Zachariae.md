@@ -580,7 +580,7 @@ et comedat **ignis** cedrōs tuās.
 
 quoniam magnificī vastātī sunt;
 
-**ululātē**, **quercus** Basān,
+**ululātē**, **quercus** Basān[\*][basan],
 
 quoniam corruit **saltus** impervius.
 
@@ -780,4 +780,5 @@ et ipse **dīcet**: “Dominus **est** Deus meus”.
 
 21 Et erit **omnis** lebēs in Ierusālem et in **Iūdā** sānctificātus Dominō exercituum; et venient omnēs immolantēs et sūment ex eīs et coquent in eīs, et nōn erit mercātor **ultrā** in domō Dominī exercituum in **diē** illō”.
 
+[basan]: <Ambiguous Forms.md#basan>
 [rugitus]: <Ambiguous Forms.md#rugitus>

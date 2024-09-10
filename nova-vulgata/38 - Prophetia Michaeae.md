@@ -830,7 +830,7 @@ habitantēs sōlōs in saltū,
 
 in **mediō** hortōrum;
 
-pāscantur Basan et Galaad
+pāscantur Basān[\*][basan] et Galaad
 
 iuxtā diēs antīquōs.
 
@@ -883,4 +883,5 @@ quae iūrāstī patribus nostrīs
 ā diēbus antīquīs.
 
 [abraham]: <Ambiguous Forms.md#abraham>
+[basan]: <Ambiguous Forms.md#basan>
 [moyses]: <Ambiguous Forms.md#moyses>

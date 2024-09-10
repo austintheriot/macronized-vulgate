@@ -604,7 +604,7 @@
 
 32 In diēbus illīs coepit Dominus **discindere** in Isrāēl; percussitque eōs Hazaēl in ūniversīs fīnibus Isrāēl
 
-33 ā Iordāne contrā orientālem **plāgam** omnem terram Galaad et Gad et Ruben et Mānāsse, ab Aroer, quae **est** super torrentem **Arnōn**, et Galaad et Basān.
+33 ā Iordāne contrā orientālem **plāgam** omnem terram Galaad et Gad et Ruben et Mānāsse, ab Aroer, quae **est** super torrentem **Arnōn**, et Galaad et Basān[\*][basan].
 
 34 **Reliqua** autem gestōrum Iehū et **ūniversa**, quae fēcit, et fortitūdō eius, **nōnne** haec **scrīpta** sunt in **librō** annālium rēgum Isrāēl?
 
@@ -1583,4 +1583,5 @@ Et **trānslātus** **est** **Iūda** dē **terrā** **suā**.
 30 Annōnam **quoque** cōnstituit **eī** absque intermissiōne, quae et dabātur **eī** ā **rēge** per singulōs diēs omnibus diēbus vītae suae.
 
 [abraham]: <Ambiguous Forms.md#abraham>
+[basan]: <Ambiguous Forms.md#basan>
 [moyses]: <Ambiguous Forms.md#moyses>

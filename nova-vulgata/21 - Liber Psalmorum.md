@@ -1306,13 +1306,13 @@ cantābimus et psallēmus virtūtēs tuās.
 
 2 Deus, Deus meus, quārē mē dērelīquistī?
 
-**Longē** ā salūte **mea** verba rūgītūs[\*][rugitus] meī.
+Longē ā salūte meā verba rūgītūs[\*][rugitus] meī.
 
 3 Deus meus, clāmō per diem, et nōn exaudīs,
 
-et nocte, et nōn **est** requiēs mihi.
+et nocte, et nōn est requiēs mihi.
 
-4 Tū autem sānctus **es**,
+4 Tū autem sānctus es,
 
 quī habitās in laudibus Isrāēl.
 
@@ -1324,35 +1324,35 @@ spērāvērunt, et līberāstī eōs;
 
 in tē spērāvērunt et nōn sunt cōnfūsī.
 
-7 Ego autem sum **vermis** et nōn homō,
+7 Ego autem sum vermis et nōn homō,
 
-opprobrium hominum et abiectiō **plēbis**.
+opprobrium hominum et abiectiō plēbis.
 
 8 Omnēs videntēs mē dērīsērunt mē;
 
-torquentēs **labia** mōvērunt caput:
+torquentēs labia mōvērunt caput:
 
 9 “Spērāvit in Dominō: ēripiat eum,
 
 salvum faciat eum, quoniam vult eum”.
 
-10 Quoniam tū **es** quī extrāxistī mē dē ventre,
+10 Quoniam tū es quī extrāxistī mē dē ventre,
 
-spēs **mea** ad **ūbera** mātris meae.
+spēs mea ad ūbera mātris meae.
 
-11 In tē **prōiectus** sum ex uterō,
+11 In tē prōiectus sum ex uterō,
 
-dē ventre mātris meae Deus meus **es** tū.
+dē ventre mātris meae Deus meus es tū.
 
-12 Nē **longē** fīās ā mē,
+12 Nē longē fīās ā mē,
 
-quoniam trībulātiō **proxima** **est**,
+quoniam trībulātiō proxima est,
 
-quoniam nōn **est** quī adiuvet.
+quoniam nōn est quī adiuvet.
 
 13 Circumdedērunt mē vitulī multī,
 
-taurī Basān obsēdērunt mē.
+taurī Basān[\*][basan] obsēdērunt mē.
 
 14 Aperuērunt super mē **os** suum
 
@@ -4826,9 +4826,9 @@ et pennae eius pallōre aurī.
 
 nive dealbātur Selmōn”.
 
-16 Mōns Deī mōns Basan,
+16 Mōns Deī mōns Basān[\*][basan],
 
-mōns cacūminum mōns Basan.
+mōns cacūminum mōns Basān[\*][basan].
 
 17 Ut quid invidētis, montēs cacūminum,
 
@@ -4858,7 +4858,7 @@ et Dominī, Dominī **exitus** **mortis**.
 
 verticem capillātum perambulantium in dēlictīs **suīs**.
 
-23 Dīxit Dominus: “Ex Basān redūcam,
+23 Dīxit Dominus: “Ex Basān[\*][basan] redūcam,
 
 redūcam dē **profundō** **maris**,
 
@@ -5912,7 +5912,7 @@ circā tabernācula eōrum.
 
 et dēsīderium eōrum attulit eīs.
 
-30 Nōndum recesserant ā dēsīderiō suō,
+30 Nōndum recesserant �� dēsīderiō suō,
 
 adhūc ēscae eōrum erant in ōre ipsōrum,
 
@@ -8868,7 +8868,7 @@ HĒTH. misericors et miserātor Dominus.
 
 5 TĒTH. Ēscam **dedit** timentibus sē;
 
-IOD. memor erit in saeculum testāmentī **suī**.
+IOD. memor erit in saeculum testāment�� **suī**.
 
 6 CĀPH. Virtūtem operum suōrum annūntiāvit **populō** suō,
 
@@ -10600,7 +10600,7 @@ et **occīdit** **rēgēs** fortēs:
 
 11 Sehōn rēgem Amorraēōrum
 
-et Og rēgem Basān
+et Og rēgem Basān[\*][basan]
 
 et omnia **rēgna** Chanaan.
 
@@ -10722,7 +10722,7 @@ quoniam in aeternum **misericordiā** eius:
 
 quoniam in aeternum **misericordiā** eius;
 
-20 et Og rēgem Basān,
+20 et Og rēgem Basān[\*][basan],
 
 quoniam in aeternum **misericordiā** eius.
 
@@ -11639,6 +11639,7 @@ omne quod spīrat, laudet Dominum. ALLĒLŪIA
 [^1] "Mut labben"- vowel length uncertain
 
 [abraham]: <Ambiguous Forms.md#abraham>
+[basan]: <Ambiguous Forms.md#basan>
 [jacob]: <Ambiguous Forms.md#jacob>
 [moyses]: <Ambiguous Forms.md#moyses>
 [rugitus]: <Ambiguous Forms.md#rugitus>

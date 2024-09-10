@@ -11,7 +11,7 @@
 
 3 Quadrāgēsimō annō, ūndecimō **mēnse**, **prīmā** **diē** **mēnsis** **locūtus** **est** Moȳsēs[\*][moyses] ad fīliōs Isrāēl omnia, quae praecēperat illī Dominus ut dīceret eīs.
 
-4 Postquam percussit Sehōn rēgem Amorraēōrum, quī habitāvit in Hesebon, et Og rēgem Basān, quī mānsit in Astharoth et in Edrāī,
+4 Postquam percussit Sehōn rēgem Amorraēōrum, quī habitāvit in Hesebon, et Og rēgem Basān[\*][basan], quī mānsit in Astharoth et in Edrāī,
 
 5 trāns Iordānem in **terrā** Moab coepitque Moȳsēs[\*][moyses] explānāre lēgem hanc et **dīcere**:
 
@@ -175,13 +175,13 @@
 
 ## 3
 
-1 Itaque conversī ascendimus per iter Basān; **ēgressus**que **est** Og rēx Basan in occursum nōbīs cum omnī **populō** suō ad bellandum in Edrāī.
+1 Itaque conversī ascendimus per iter Basān[\*][basan]; **ēgressus**que **est** Og rēx Basān[\*][basan] in occursum nōbīs cum omnī **populō** suō ad bellandum in Edrāī.
 
 2 Dīxitque Dominus ad mē: “Nē timeās eum, quia in manū **tuā** trādidī eum cum omnī **pōpulō** ac **terrā** **suā**; faciēsque **eī**, sīcut fēcistī Sehon **rēgī** Amorraēōrum, quī habitāvit in Hesebon”.
 
-3 Trādidit ergō Dominus Deus noster in manibus nostrīs etiam Og rēgem Basān et ūniversum **populum** eius; percussimusque eōs usque ad interneciōnem.
+3 Trādidit ergō Dominus Deus noster in manibus nostrīs etiam Og rēgem Basān[\*][basan] et ūniversum **populum** eius; percussimusque eōs usque ad interneciōnem.
 
-4 Et cēpimus cūnctās cīvitātēs eius in illō tempore. Nōn fuit oppidum, quod nōs effugeret: sexāgintā urbēs, omnem regiōnem Argob, rēgnum Og in Basān.
+4 Et cēpimus cūnctās cīvitātēs eius in illō tempore. Nōn fuit oppidum, quod nōs effugeret: sexāgintā urbēs, omnem regiōnem Argob, rēgnum Og in Basān[\*][basan].
 
 5 Cūnctae urbēs erant mūnītae **mūrīs** altissimīs portīsque et vectibus, absque oppidīs innumerīs, quae nōn habēbant mūrōs.
 
@@ -193,15 +193,15 @@
 
 9 — **Sīdoniī** vocant **Hermōn** Sarion et Amorraēī Sanir —
 
-10 omnēs cīvitātēs, quae sitae sunt in plānitiē, et ūniversam terram Galaad et Basan usque Salcha et Edrāī, cīvitātēs rēgnī Og in Basān.
+10 omnēs cīvitātēs, quae sitae sunt in plānitiē, et ūniversam terram Galaad et Basān[\*][basan] usque Salcha et Edrāī, cīvitātēs rēgnī Og in Basān[\*][basan].
 
-11 — **Solus** quippe Og rēx Basan remānserat dē residuīs Raphaim. Mōnstrātur **lectus** eius ferreus. **Nōnne** **est** in Rabbā fīliōrum Ammōn? Novem cubitōs habet longitūdinis et quattuor lātitūdinis ad mēnsūram cubitī **virīlis** **manus** C.
+11 — **Solus** quippe Og rēx Basān[\*][basan] remānserat dē residuīs Raphaim. Mōnstrātur **lectus** eius ferreus. **Nōnne** **est** in Rabbā fīliōrum Ammōn? Novem cubitōs habet longitūdinis et quattuor lātitūdinis ad mēnsūram cubitī **virīlis** **manus** C.
 
 12 Terramque hanc possēdimus in tempore illō ab Aroer, quae **est** super rīpam **torrentis** **Arnōn**, usque ad mediam partem **montis** Galaad; et cīvitātēs illīus **dedī** Ruben et Gad.
 
-13 Reliquam autem partem Galaad et omnem Basān, rēgnum Og, trādidī mediae tribuī Mānāsse, omnem regiōnem Argob. **Cūncta** Basan vocātur **terra** Raphaim.
+13 Reliquam autem partem Galaad et omnem Basān[\*][basan], rēgnum Og, trādidī mediae tribuī Mānāsse, omnem regiōnem Argob. **Cūncta** Basān[\*][basan] vocātur **terra** Raphaim.
 
-14 Iair fīlius Mānāsse possēdit omnem regiōnem Argob usque ad terminōs Gesūrī et Maachāthī; vocāvitque **ea** ex nōmine suō Basan Havoth Iair (id **est** vīllās Iair) usque in praesentem diem.
+14 Iair fīlius Mānāsse possēdit omnem regiōnem Argob usque ad terminōs Gesūrī et Maachāthī; vocāvitque **ea** ex nōmine suō Basān[\*][basan] Havoth Iair (id **est** vīllās Iair) usque in praesentem diem.
 
 15 Machir **quoque** **dedī** Galaad.
 
@@ -319,7 +319,7 @@
 
 42 ut cōnfugiat ad eās, quī **occīderit** nōlēns proximum suum, nec fuerit inimīcus ante ūnum et alterum diem, et ad hārum aliquam urbium possit **ēvādere** et vīvat:
 
-43 Bosor in sōlitūdine, quae **sita** **est** in **terrā** campestrī, prō tribū Ruben, et Ramoth in Galaad prō tribū Gad et Golan in Basān prō tribū Mānāsse.
+43 Bosor in sōlitūdine, quae **sita** **est** in **terrā** campestrī, prō tribū Ruben, et Ramoth in Galaad prō tribū Gad et Golan in Basān[\*][basan] prō tribū Mānāsse.
 
 44 **Ista** **est** lēx, quam prōposuit Moȳsēs[\*][moyses] **cōram** fīliīs Isrāēl;
 
@@ -327,7 +327,7 @@
 
 46 trāns Iordānem in **valle** contrā Bethphegor, in **terrā** Sehon **rēgis** Amorraēī, quī habitāvit in Hesebon, quem percussit Moȳsēs[\*][moyses] et fīliī Isrāēl ēgressī ex Aegyptō.
 
-47 Et possēdērunt terram eius et terram Og **rēgis** Basān, duōrum rēgum Amorraēōrum, quī erant trāns Iordānem ad **sōlis** ortum,
+47 Et possēdērunt terram eius et terram Og **rēgis** Basān[\*][basan], duōrum rēgum Amorraēōrum, quī erant trāns Iordānem ad **sōlis** ortum,
 
 48 ab Aroer, quae **sita** **est** super rīpam **torrentis** **Arnōn**, usque ad montem **Sīōn**, quī **est** **Hermōn**,
 
@@ -1437,7 +1437,7 @@
 
 5 pānem nōn comēdistis, vīnum et siceram nōn bibistis, ut scīrētis quia ego sum Dominus Deus vester.
 
-6 Et vēnistis ad hunc locum, **ēgressus**que **est** Sehōn rēx Hesebon et Og rēx Basān occurrentēs nōbīs ad pugnam, et percussimus eōs.
+6 Et vēnistis ad hunc locum, **ēgressus**que **est** Sehōn rēx Hesebon et Og rēx Basān[\*][basan] occurrentēs nōbīs ad pugnam, et percussimus eōs.
 
 7 Et tulimus terram eōrum ac trādidimus **possidendam** Ruben et Gad et dīmidiae tribuī Mānāsse.
 
@@ -1841,7 +1841,7 @@ et iūdicia **sua** cum Isrāēl”.
 
 ”**Dān** catulus leōnis
 
-prōsiliet largiter dē Basān”.
+prōsiliet largiter dē Basān[\*][basan]”.
 
 23 Dē Nephthālī dīxit:
 
@@ -1924,4 +1924,5 @@ et tū eōrum altitūdinēs calcābis”.
 12 et in **cūnctā** manū **rōbustā** magnīsque mīrābilibus, quae fēcit Moȳsēs[\*][moyses] **cōram** ūniversō Isrāēl.
 
 [abraham]: <Ambiguous Forms.md#abraham>
+[basan]: <Ambiguous Forms.md#basan>
 [moyses]: <Ambiguous Forms.md#moyses>

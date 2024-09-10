@@ -288,7 +288,7 @@
 
 12 Baāna fīlius Ahilud regēbat Thanach et Mageddō et ūniversam Bethsān, quae **est** iuxtā Sarthan subter Iezrahel, ā Bethsān usque Abelmehula et usque **ultrā** Iecmaam;
 
-13 Bengaber in Ramoth Galaad habēbat vīllās Iair fīliī Mānāsse in Galaad: ipse praeerat in omnī regiōne Argob, quae **est** in Basān, sexāgintā cīvitātibus magnīs atque **mūrātīs**, quae habēbant **serās** aereās;
+13 Bengaber in Ramoth Galaad habēbat vīllās Iair fīliī Mānāsse in Galaad: ipse praeerat in omnī regiōne Argob, quae **est** in Basān[\*][basan], sexāgintā cīvitātibus magnīs atque **mūrātīs**, quae habēbant **serās** aereās;
 
 14 Ahinadab fīlius Addō praeerat in Mahanaim;
 
@@ -300,7 +300,7 @@
 
 18 Semēī fīlius Ela in Beniamin;
 
-19 Gaber fīlius Ūrī in **terrā** Galaad, in **terrā** Sehon **rēgis** Amorraēī et Og **rēgis** Basan, ut praefectus ūnus, quī erat in **terrā**.
+19 Gaber fīlius Ūrī in **terrā** Galaad, in **terrā** Sehon **rēgis** Amorraēī et Og **rēgis** Basān[\*][basan], ut praefectus ūnus, quī erat in **terrā**.
 
 20 **Iūda** et Isrāēl innumerābilēs, sīcut **arēna** **maris** in multitūdine, comedentēs et bibentēs atque laetantēs.
 
@@ -1713,4 +1713,5 @@ quasi ovēs nōn habentēs pāstōrem. Et ait Dominus: “Nōn habent istī domi
 54 servīvit **quoque** Baal et adōrāvit eum et **irrītāvit** Dominum, Deum Isrāēl, iuxtā omnia, quae fēcerat pater eius.
 
 [abraham]: <Ambiguous Forms.md#abraham>
+[basan]: <Ambiguous Forms.md#basan>
 [moyses]: <Ambiguous Forms.md#moyses>

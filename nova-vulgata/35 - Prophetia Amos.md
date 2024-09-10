@@ -358,7 +358,7 @@ dīcit Dominus.
 
 1 **Audīte** verbum **hoc**,
 
-vaccae Basan,
+vaccae Basān[\*][basan],
 
 quae **estis** in monte Samarīae,
 
@@ -1086,4 +1086,4 @@ dē **terrā** **suā**, quam **dedī** eīs”,
 
 dīcit Dominus Deus tuus.
 
-
+[basan]: <Ambiguous Forms.md#basan>
