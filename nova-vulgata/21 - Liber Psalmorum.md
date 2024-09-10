@@ -1150,7 +1150,7 @@ quōrum nōn intellegantur vōcēs:
 
 et in fīnēs orbis terrae verba eōrum.
 
-6 **Sōlī** posuit tabernāculum in eīs,
+6 Sōlī posuit tabernāculum in eīs,
 
 et ipse, tamquam spōnsus prōcēdēns dē thalamō suō,
 
@@ -1158,25 +1158,25 @@ exsultāvit ut gigās ad currendam viam.
 
 7 Ā fīnibus caelōrum ēgressiō eius,
 
-et **occursus** eius usque ad fīnēs eōrum,
+et occursus eius usque ad fīnēs eōrum,
 
-nec **est** quod sē abscondat ā calōre eius.
+nec est quod sē abscondat ā calōre eius.
 
-8 Lēx Dominī **immaculāta**, reficiēns animam,
+8 Lēx Dominī immaculāta, reficiēns animam,
 
 testimōnium Dominī fidēle, sapientiam praestāns parvulīs.
 
-9 Iūstitiae Dominī rēctae, laetificantēs **corda**,
+9 Iūstitiae Dominī rēctae, laetificantēs corda,
 
 praeceptum Dominī lūcidum, illūmināns oculōs.
 
 10 Timor Dominī mundus, permanēns in saeculum saeculī;
 
-iūdicia Dominī **vēra**, **iūsta** omnia simul,
+iūdicia Dominī vēra, iūsta omnia simul,
 
 11 dēsīderābilia super aurum et lapidem pretiōsum multum,
 
-et dulciōra super mel et favum stillantem.
+et dulciōra super mel et favum stīllantem.
 
 12 Etenim servus tuus ērudītur in eīs;
 
@@ -4622,7 +4622,7 @@ imbribus ēmollīs eam, **benedicīs** germinī eius.
 
 12 Corōnāstī annum benignitāte **tuā**,
 
-et vestīgia **tua** stillābunt pinguēdinem.
+et vestīgia **tua** stīllābunt pinguēdinem.
 
 13 Stillābunt **pāscua** dēsertī,
 
