@@ -1240,7 +1240,7 @@ Vir Isrāēl, in tabernācula **tua**!”.
 
 9 et **dedit** eōs in manū Gabaonītārum, quī suspendērunt illōs in monte **cōram** Dominō. Et **cecidērunt** hī septem simul, occīsī in diēbus **messis** prīmīs, incipiente messiōne **hordeī**.
 
-10 Tollēns autem Respha **fīlia** Āia cilicium substrāvit sibi super petram ab initiō **messis**, dōnec stillāret **aqua** super eōs dē caelō, et nōn dīmīsit avēs caelī **cōnsīdere** super eōs per diem neque bēstiās campī per noctem.
+10 Tollēns autem Respha **fīlia** Āia cilicium substrāvit sibi super petram ab initiō **messis**, dōnec stīllāret **aqua** super eōs dē caelō, et nōn dīmīsit avēs caelī **cōnsīdere** super eōs per diem neque bēstiās campī per noctem.
 
 11 Et **nūntiāta** sunt Dāvīd, quae fēcerat Respha **fīlia** Āia **concubīna** Saūl.
 

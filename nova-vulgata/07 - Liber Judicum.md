@@ -260,7 +260,7 @@ psallam Dominō, Deō Isrāēl!
 
 incēderēs dē regiōne Edom,
 
-**terra** **mōta** **est**, caelīque stillāvērunt, ac nūbēs stillāvērunt aquīs;
+**terra** **mōta** **est**, caelīque stīllāvērunt, ac nūbēs stīllāvērunt aquīs;
 
 5 montēs flūxērunt ā faciē Dominī Sināī,
 

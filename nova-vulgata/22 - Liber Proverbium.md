@@ -312,7 +312,7 @@ stabilīvit caelōs **prūdentiā**;
 
 20 **sapientia** illīus ērūpērunt abyssī,
 
-et nūbēs rōrem stillant.
+et nūbēs rōrem stīllant.
 
 21 Fīlī mī, nē effluant haec ab oculīs tuīs;
 
@@ -496,7 +496,7 @@ et prūdentiae meae inclīnā aurem tuam,
 
 et disciplīnam **labia** **tua** cōnservent.
 
-3 Favum enim stillant **labia** meretrīcis,
+3 Favum enim stīllant **labia** meretrīcis,
 
 et nitidius oleō guttur eius;
 
@@ -1690,7 +1690,7 @@ et **īrācundia** **eī**, quī turpiter agit.
 
 sermō dūrus suscitat furōrem.
 
-2 **Lingua** sapientium stillat scientiam,
+2 **Lingua** sapientium stīllat scientiam,
 
 **os** fatuōrum ēbullit stultitiam.
 

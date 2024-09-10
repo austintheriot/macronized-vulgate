@@ -450,7 +450,7 @@ et polluistī terram
 
 in fornicātiōnibus tuīs et in **malitiā** **tuā**.
 
-3 Quam ob rem prohibitae sunt stillae pluviārum,
+3 Quam ob rem prohibitae sunt stīllae pluviārum,
 
 et sērōtinus imber nōn fuit.
 

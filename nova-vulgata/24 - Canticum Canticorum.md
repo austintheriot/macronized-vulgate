@@ -476,7 +476,7 @@ et venter meus īlicō intremuit.
 
 5 Surrēxī, ut aperīrem dīlēctō meō;
 
-**manūs** meae stillāvērunt myrrham,
+**manūs** meae stīllāvērunt myrrham,
 
 et digitī meī plēnī **myrrha** **probātissima**
 

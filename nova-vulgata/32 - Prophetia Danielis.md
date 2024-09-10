@@ -1000,7 +1000,7 @@ et rēgnum eius, quod nōn corrumpētur.
 
 10 Et nōn audīvimus **vōcem** Dominī Deī nostrī, ut ambulārēmus in **lēge** eius, quam posuit nōbīs per servōs suōs prophētās;
 
-11 et **omnīs** Isrāēl praevāricātī sunt lēgem tuam et dēclīnāvērunt, nē audīrent **vōcem** tuam, et stillāvit super nōs maledictiō et dētestātiō, quae **scrīpta** **est** in **librō** Moysis servī Deī, quia peccāvimus **eī**.
+11 et **omnīs** Isrāēl praevāricātī sunt lēgem tuam et dēclīnāvērunt, nē audīrent **vōcem** tuam, et stīllāvit super nōs maledictiō et dētestātiō, quae **scrīpta** **est** in **librō** Moysis servī Deī, quia peccāvimus **eī**.
 
 12 Et statuit sermōnēs suōs, quōs **locūtus** **est** super nōs et super iūdicēs nostrōs, quī iūdicāvērunt nōs, ut superdūcerent in nōs magnum **mālum**, quāle numquam fuit sub omnī caelō, secundum quod factum **est** in Ierusālem.
 

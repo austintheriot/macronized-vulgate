@@ -1589,7 +1589,7 @@ et cōnscius meus in excelsīs.
 
 20 Interpretēs meī sunt cōgitātiōnēs meae:
 
-ad Deum stillat oculus meus.
+ad Deum stīllat oculus meus.
 
 21 Atque utinam sīc iūdicārētur vir cum Deō,
 
@@ -2529,7 +2529,7 @@ et **manūs** eius **cōnfōdit** colubrum fugientem.
 
 14 Ecce haec sunt terminī viārum eius;
 
-et, cum vix parvam stillam sermōnis eius **audierīmus**,
+et, cum vix parvam stīllam sermōnis eius **audierīmus**,
 
 **quis** poterit tonitruum magnitūdinis illīus intuērī?”.
 
@@ -2827,7 +2827,7 @@ et intentī tacēbant ad cōnsilium meum.
 
 22 Verbīs meīs **addere** nihil audēbant,
 
-et super illōs stillābat ēloquium meum.
+et super illōs stīllābat ēloquium meum.
 
 23 Exspectābant mē sīcut pluviam
 
@@ -3709,7 +3709,7 @@ dē quō cecinērunt **virī**.
 
 numerus annōrum eius **inaestimābilis**.
 
-27 Quī aufert stillās pluviae
+27 Quī aufert stīllās pluviae
 
 et effundit imbrēs ad īnstar flūminis,
 
@@ -3951,7 +3951,7 @@ et prōdūceret herbās in **terrā** **āridā**?
 
 28 **Quis** **est** pluviae pater,
 
-vel **quis** genuit stillās rōris?
+vel **quis** genuit stīllās rōris?
 
 29 Dē cuius sinū **ēgressa** **est** glaciēs,
 

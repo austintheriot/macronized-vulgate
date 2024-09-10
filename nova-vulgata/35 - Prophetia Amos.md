@@ -822,7 +822,7 @@ et dīxit Dominus ad mē:
 
 “**Vāde**, **prophēta** ad **populum** meum Isrāēl”.
 
-16 Et nunc audī verbum Dominī. Tū **dīcis**: “Nōn prophetābis super Isrāēl et nōn stillābis verba super domum Isaāc”.
+16 Et nunc audī verbum Dominī. Tū **dīcis**: “Nōn prophetābis super Isrāēl et nōn stīllābis verba super domum Isaāc”.
 
 17 Propter **hoc** haec dīcit Dominus: “Uxor **tua** in cīvitāte fornicābitur, et fīliī tuī et fīliae tuae in gladiō cadent, et humus **tua** fūniculō mētiētur; et tū in **terrā** **pollūtā** moriēris, et Isrāēl captīvus migrābit dē **terrā** **suā**””.
 
@@ -1066,7 +1066,7 @@ dīcit Dominus,
 
 et comprehendet arātor messōrem,
 
-et calcātor ūvae mittentem sēmen; et stillābunt montēs mustum,
+et calcātor ūvae mittentem sēmen; et stīllābunt montēs mustum,
 
 et omnēs collēs liquefient.
 
