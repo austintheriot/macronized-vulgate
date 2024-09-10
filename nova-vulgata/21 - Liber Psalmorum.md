@@ -374,7 +374,7 @@ et psallam nōminī Dominī Altissimī.
 
 ### PSALMUS 8
 
-1 Magistrō chorī. Ad modum canticī " Torculāria... ". PSALMUS. Dāvīd.
+1 Magistrō chorī. Ad modum canticī "Torculāria...". PSALMUS. Dāvīd.
 
 2 Domine, Dominus noster,
 
@@ -1302,11 +1302,11 @@ cantābimus et psallēmus virtūtēs tuās.
 
 ### PSALMUS 22
 
-1 Magistrō chorī. Ad modum canticī " **Cerva** dīlūculō ". PSALMUS. Dāvīd.
+1 Magistrō chorī. Ad modum canticī "Cerva dīlūculō". PSALMUS. Dāvīd.
 
 2 Deus, Deus meus, quārē mē dērelīquistī?
 
-**Longē** ā salūte **mea** verba **rugītūs** meī.
+**Longē** ā salūte **mea** verba rūgītūs[\*][rugitus] meī.
 
 3 Deus meus, clāmō per diem, et nōn exaudīs,
 
@@ -3254,7 +3254,7 @@ et redime nōs propter misericordiam tuam.
 
 ### PSALMUS 45
 
-1 Magistrō chorī. Secundum " Līlia... ". Fīliōrum **Corē**.
+1 Magistrō chorī. Secundum "Līlia...". Fīliōrum **Corē**.
 
 Maskil. Canticum amōris.
 
@@ -3340,7 +3340,7 @@ et in saeculum saeculī.
 
 ### PSALMUS 46
 
-1 Magistrō chorī. Fīliōrum **Corē**. Secundum " Virginēs... ". Canticum.
+1 Magistrō chorī. Fīliōrum **Corē**. Secundum "Virginēs...". Canticum.
 
 2 Deus **est** nōbīs refugium et virtūs,
 
@@ -3796,7 +3796,7 @@ tunc impōnent super altāre tuum vitulōs.
 
 **eī**que nārrāvit dīcēns:
 
-" Dāvīd intrāvit in domum Abimelech ".
+"Dāvīd intrāvit in domum Abimelech".
 
 3 Quid **glōriāris** in **malitiā**,
 
@@ -3842,7 +3842,7 @@ quoniam bonum **est**, in cōnspectū sānctōrum tuōrum.
 
 ### PSALMUS 53
 
-1 Magistrō chorī. Secundum " Mahalat ". Maskil. Dāvīd.
+1 Magistrō chorī. Secundum "Mahalat". Maskil. Dāvīd.
 
 Dīxit īnsipiēns in **corde** suō: “Nōn **est** Deus”.
 
@@ -3882,7 +3882,7 @@ exsultābit Iācōb[\*][jacob], et laetābitur Isrāēl.
 
 2 postquam Ziphaēī ad Saūl vēnērunt dīcentēs:
 
-" Ecce Dāvīd apud nōs abditus latet ".
+"Ecce Dāvīd apud nōs abditus latet".
 
 3 Deus, in nōmine tuō salvum mē fac
 
@@ -4028,7 +4028,7 @@ ego autem spērābō in tē, Domine.
 
 ### PSALMUS 56
 
-1 Magistrō chorī. Secundum " Ionat ēlem rehoqim ".
+1 Magistrō chorī. Secundum "Ionat ēlem rehoqim".
 
 Dāvīd. Miktam. Cum Gath Philistaeī eum tenērent.
 
@@ -4096,7 +4096,7 @@ ut ambulem **cōram** Deō in lūmine vīventium.
 
 ### PSALMUS 57
 
-1 Magistrō chorī. Secundum " Nē **dēstrūxerīs** ". Dāvīd.
+1 Magistrō chorī. Secundum "Nē **dēstrūxerīs**". Dāvīd.
 
 Miktam. Quandō ā Saūl in cavernam **fūgit**.
 
@@ -4164,7 +4164,7 @@ super omnem terram **glōria** **tua**.
 
 ### PSALMUS 58
 
-1 Magistrō chorī. Secundum " Nē **dēstrūxerīs** ".
+1 Magistrō chorī. Secundum "Nē **dēstrūxerīs**".
 
 Dāvīd. Miktam.
 
@@ -4212,7 +4212,7 @@ utique **est** Deus iūdicāns eōs in **terrā**”.
 
 ### PSALMUS 59
 
-1 Magistrō chorī. Secundum " Nē **dēstrūxerīs** ".
+1 Magistrō chorī. Secundum "Nē **dēstrūxerīs**".
 
 Dāvīd. Miktam. Quandō Saūl virōs mīsit,
 
@@ -4302,7 +4302,7 @@ Deus meus **misericordia** **mea**.
 
 ### PSALMUS 60
 
-1 Magistrō chorī. Secundum " Līlium praeceptī ".
+1 Magistrō chorī. Secundum "Līlium praeceptī".
 
 Miktam. Dāvīd. Ad docendum.
 
@@ -4928,7 +4928,7 @@ Benedictus Deus!
 
 ### PSALMUS 69
 
-1 Magistrō chorī. Secundum " Līlia... ". Dāvīd.
+1 Magistrō chorī. Secundum "Līlia...". Dāvīd.
 
 2 Salvum mē fac, Deus,
 
@@ -5574,7 +5574,7 @@ quae ab īnsipiente fīunt **tōtā** **diē**.
 
 ### PSALMUS 75
 
-1 Magistrō chorī. Secundum " Nē **dēstrūxerīs** ".
+1 Magistrō chorī. Secundum "Nē **dēstrūxerīs**".
 
 PSALMUS. Asaph. Canticum.
 
@@ -6170,7 +6170,7 @@ in generātiōnem et generātiōnem annūntiābimus laudem tuam.
 
 ### PSALMUS 80
 
-1 Magistrō chorī. Secundum " Līlium praeceptī ".
+1 Magistrō chorī. Secundum "Līlium praeceptī".
 
 Asaph. PSALMUS.
 
@@ -6256,7 +6256,7 @@ et illūstrā faciem tuam, et salvī erimus.
 
 ### PSALMUS 81
 
-1 Magistrō chorī. Secundum " **Torculāria**... ". Asaph.
+1 Magistrō chorī. Secundum "**Torculāria**...". Asaph.
 
 2 **Exsultātē** Deō adiūtōrī nostrō;
 
@@ -6442,7 +6442,7 @@ tū **sōlus** Altissimus super omnem terram.
 
 ### PSALMUS 84
 
-1 Magistrō chorī. Secundum " **Torculāria** ".
+1 Magistrō chorī. Secundum "**Torculāria**".
 
 Fīliōrum **Corē**. PSALMUS.
 
@@ -6674,7 +6674,7 @@ et ipse firmāvit eam Altissimus”.
 
 1 Canticum. PSALMUS. Fīliōrum **Corē**. Magistrō chorī.
 
-Secundum " Mahalat ". Ad cantandum. Maskil. Heman Ezrahitae.
+Secundum "Mahalat". Ad cantandum. Maskil. Heman Ezrahitae.
 
 2 Domine, Deus **salūtis** meae,
 
@@ -11636,9 +11636,10 @@ et nōbilēs eōrum in manicīs ferreīs,
 
 omne quod spīrat, laudet Dominum. ALLĒLŪIA
 
-[^1] "Mut labben" - vowel length uncertain
+[^1] "Mut labben"- vowel length uncertain
 
 [abraham]: <Ambiguous Forms.md#abraham>
 [jacob]: <Ambiguous Forms.md#jacob>
 [moyses]: <Ambiguous Forms.md#moyses>
+[rugitus]: <Ambiguous Forms.md#rugitus>
 [samuel]: <Ambiguous Forms.md#samuel>
