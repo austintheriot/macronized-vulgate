@@ -54,11 +54,16 @@ Mōȳsēs (Woordenboek Latijn/Nederlands (LaNe))
 
 ## Samuel
 
-Samuēl[\*][samuel] (Gaffiot)
+Samuēl (Gaffiot)
 
 Samūēl (Greek length, Wiktionary)
+
+## rugitus
+
+rugītus (Lewis & Short)
+
+rūgītus (Gaffiot)
 
 ## Sapphira
 
 Sapphīrā (uncertain vowel length, following the Greek, Σαπφείρῃ)
-

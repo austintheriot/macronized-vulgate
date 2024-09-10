@@ -1072,7 +1072,7 @@ et cīvitātēs eōrum vastāvit.
 
 Et obstupuit **terra** et plēnitūdō eius
 
-ā vōce **rugītūs** illīus.
+ā vōce rūgītūs[\*][rugitus] illīus.
 
 8 Et convēnērunt adversum eum gentēs
 
@@ -3587,3 +3587,4 @@ et sciēs quia ego Dominus.
 35 Per circuitum decem et octo **mīlia**, et **nōmen** cīvitātis ex **illā** **diē**: Dominus ibīdem”.
 
 [abraham]: <Ambiguous Forms.md#abraham>
+[rugitus]: <Ambiguous Forms.md#rugitus>

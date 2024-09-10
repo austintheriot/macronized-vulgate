@@ -588,7 +588,7 @@ quoniam corruit **saltus** impervius.
 
 quia **vastāta** **est** **magnificentia** eōrum;
 
-vōx **rugītūs** leōnum,
+vōx rūgītūs[\*][rugitus] leōnum,
 
 quoniam **vastāta** **est** **superbia** **Iordānis**.
 
@@ -780,4 +780,4 @@ et ipse **dīcet**: “Dominus **est** Deus meus”.
 
 21 Et erit **omnis** lebēs in Ierusālem et in **Iūdā** sānctificātus Dominō exercituum; et venient omnēs immolantēs et sūment ex eīs et coquent in eīs, et nōn erit mercātor **ultrā** in domō Dominī exercituum in **diē** illō”.
 
-
+[rugitus]: <Ambiguous Forms.md#rugitus>
