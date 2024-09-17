@@ -11,6 +11,8 @@ If you would like to contribute to this project, please feel free to submit a pu
 ## Books known to be roughly complete
 
 - [Genesis](<./nova-vulgata/01 - Liber Genesis.md>)
+- [2 John](<./nova-vulgata/70 - Epistula II Ioannis.md>)
+- [3 John](<./nova-vulgata/71 - Epistula III Ioannis.md>)
 
 ## Books that are currently being edited
 

@@ -60,7 +60,7 @@
 
 17 Et mundus trānsit, et **concupiscentia** eius; quī autem facit voluntātem Deī, **manet** in aeternum.
 
-18 Fīliolī, **novissima** **hōra** **est**; et sīcut audīstis quia antichristus **venit**, **ita** nunc antichristī multī adsunt, unde cognōscimus quoniam **novissima** **hōra** **est**.
+18 Fīliolī, **novissima** **hōra** **est**; et sīcut audīstis quia antichrīstus **venit**, **ita** nunc antichrīstī multī adsunt, unde cognōscimus quoniam **novissima** **hōra** **est**.
 
 19 Ex nōbīs prōdiērunt, sed nōn erant ex nōbīs, nam sī fuissent ex nōbīs, permānsissent nōbīscum; sed ut manifestārētur quoniam illī omnēs nōn sunt ex nōbīs.
 
@@ -68,7 +68,7 @@
 
 21 Nōn scrīpsī vōbīs quasi nescientibus vēritātem sed quasi scientibus eam, et quoniam omne mendācium ex vēritāte nōn **est**.
 
-22 **Quis** **est** mendāx, **nisi** **is** quī negat quoniam Iēsūs **est** Chrīstus? **Hic** **est** antichristus, quī negat Patrem et Fīlium.
+22 **Quis** **est** mendāx, **nisi** **is** quī negat quoniam Iēsūs **est** Chrīstus? **Hic** **est** antichrīstus, quī negat Patrem et Fīlium.
 
 23 **Omnis**, quī negat Fīlium, nec Patrem habet; quī cōnfitētur Fīlium, et Patrem habet.
 
@@ -140,7 +140,7 @@
 
 2 In **hoc** cognōscitis Spīritum Deī: **omnis** **spīritus**, quī cōnfitētur Iēsum Chrīstum in carne vēnisse, ex Deō **est**.
 
-3 Et **omnis** **spīritus**, quī nōn cōnfitētur Iēsum, ex Deō nōn **est**; et **hoc** **est** antichristī, quod audīstis quoniam **venit**, et nunc iam in mundō **est**.
+3 Et **omnis** **spīritus**, quī nōn cōnfitētur Iēsum, ex Deō nōn **est**; et **hoc** **est** antichrīstī, quod audīstis quoniam **venit**, et nunc iam in mundō **est**.
 
 4 Vōs ex Deō **estis**, fīliolī, et vīcistis eōs, quoniam maior **est**, quī in vōbīs **est**, quam quī in mundō.
 
