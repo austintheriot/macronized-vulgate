@@ -54,7 +54,7 @@
 
 14 Scrīpsī vōbīs, parvulī: **Nōstis** Patrem. Scrīpsī vōbīs, patrēs: **Nōstis** eum, quī ab initiō **est**. Scrīpsī vōbīs, adulēscentēs: Fortēs **estis**, et verbum Deī in vōbīs **manet**, et vīcistis Malignum.
 
-15 Nōlīte **dīligere** mundum neque **ea**, quae in mundō sunt. Sī **quis** dīligit mundum, nōn **est** **cāritās** Patrīs in eō;
+15 Nōlīte **dīligere** mundum neque **ea**, quae in mundō sunt. Sī **quis** dīligit mundum, nōn **est** **cāritās** Patris in eō;
 
 16 quoniam omne, quod **est** in mundō, **concupiscentia** **carnis** et **concupiscentia** oculōrum et **iactantia** dīvitiārum, nōn **est** ex Patre, sed ex mundō **est**.
 

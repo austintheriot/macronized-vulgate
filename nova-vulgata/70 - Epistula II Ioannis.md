@@ -1,6 +1,6 @@
 # EPISTULA II IŌANNĪS
 
-1 Presbyter ēlēctae dominae et fīliīs eius, quōs ego dīligō in vēritāte, et nōn ego sōlus, sed et omnēs, quī nōvērunt vēritātem, 2 propter vēritātem, quae permanet in nōbīs et nōbīscum erit in sempiternum. 3 Erit nōbīscum grātia, misericordia, pāx ā Deō Patre et ā Iēsū Chrīstō, Fīliō Patrīs, in vēritāte et cāritāte.
+1 Presbyter ēlēctae dominae et fīliīs eius, quōs ego dīligō in vēritāte, et nōn ego sōlus, sed et omnēs, quī nōvērunt vēritātem, 2 propter vēritātem, quae permanet in nōbīs et nōbīscum erit in sempiternum. 3 Erit nōbīscum grātia, misericordia, pāx ā Deō Patre et ā Iēsū Chrīstō, Fīliō Patris, in vēritāte et cāritāte.
 
 4 Gāvīsus sum valdē, quoniam invēnī dē fīliīs tuīs ambulantēs in vēritāte, sīcut mandātum accēpimus ā Patre. 5 Et nunc rogō tē, domina, nōn tamquam mandātum novum scrībēns tibi, sed quod habuimus ab initiō, ut dīligāmus alterutrum. 6 Et haec est cāritās, ut ambulēmus secundum mandāta eius; hoc mandātum est quemadmodum audīstis ab initiō, ut in eō ambulētis.
 

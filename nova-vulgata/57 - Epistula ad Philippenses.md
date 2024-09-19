@@ -104,7 +104,7 @@ caelestium et terrestrium et īnfernōrum,
 
 ”Dominus Iēsūs Chrīstus!”,
 
-in glōriam Deī Patrīs.
+in glōriam Deī Patris.
 
 12 Itaque, cārissimī meī, sīcut semper oboedīstis, nōn ut in **praesentiā** meī tantum sed multō **magis** nunc in **absentiā** **meā**, cum metū et tremōre vestram salūtem operāminī;
 

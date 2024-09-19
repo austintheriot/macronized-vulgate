@@ -314,7 +314,7 @@ et glōriam **plēbis** tuae Isrāēl”.
 
 48 Et videntēs eum admīrātī sunt, et dīxit Māter eius ad illum: ”Fīlī, quid fēcistī nōbīs sīc? Ecce pater tuus et ego dolentēs quaerēbāmus tē”.
 
-49 Et ait ad illōs: ”Quid **est** quod mē quaerēbātis? Nesciēbātis quia in hīs, quae Patrīs meī sunt, oportet mē **esse**?”.
+49 Et ait ad illōs: ”Quid **est** quod mē quaerēbātis? Nesciēbātis quia in hīs, quae Patris meī sunt, oportet mē **esse**?”.
 
 50 Et ipsī nōn intellēxērunt verbum, quod **locūtus** **est** ad illōs.
 
@@ -982,7 +982,7 @@ lāmentāvimus, et nōn plōrāstis!”.
 
 25 Quid enim prōficit homō, sī lucrētur ūniversum mundum, sē autem ipsum perdat vel dētrīmentum **suī** faciat?
 
-26 Nam quī mē ērubuerit et meōs sermōnēs, hunc Fīlius hominis ērubēscet, cum vēnerit in **glōriā** **suā** et Patrīs et sānctōrum angelōrum.
+26 Nam quī mē ērubuerit et meōs sermōnēs, hunc Fīlius hominis ērubēscet, cum vēnerit in **glōriā** **suā** et Patris et sānctōrum angelōrum.
 
 27 **Dīcō** autem vōbīs **vērē**: Sunt aliquī **hīc** stantēs, quī nōn gustābunt mortem, dōnec videant rēgnum Deī”.
 
@@ -2462,7 +2462,7 @@ Dīvidentēs vērō vestīmenta eius mīsērunt sortēs.
 
 48 Vōs **estis** testēs hōrum.
 
-49 Et ecce ego mittō prōmissum Patrīs meī in vōs; vōs autem sedēte in cīvitāte, quoadusque induāminī virtūtem ex altō”.
+49 Et ecce ego mittō prōmissum Patris meī in vōs; vōs autem sedēte in cīvitāte, quoadusque induāminī virtūtem ex altō”.
 
 50 Ēdūxit autem eōs forās usque in Bethāniam et, **ēlevātīs** manibus **suīs**, benedīxit eīs.
 

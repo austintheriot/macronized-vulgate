@@ -306,7 +306,7 @@ et quōrum **tēcta** sunt **peccāta**.
 
 3 An **ignōrātis** quia, quīcumque baptīzātī sumus in Chrīstum Iēsum, in mortem ipsīus baptīzātī sumus?
 
-4 Cōnsepultī ergō sumus cum illō per baptismum in mortem, ut quemadmodum suscitātus **est** Chrīstus ā mortuīs per glōriam Patrīs, **ita** et nōs in novitāte vītae ambulēmus.
+4 Cōnsepultī ergō sumus cum illō per baptismum in mortem, ut quemadmodum suscitātus **est** Chrīstus ā mortuīs per glōriam Patris, **ita** et nōs in novitāte vītae ambulēmus.
 
 5 Sī enim complantātī factī sumus similitūdinī **mortis** eius, sed et resurrēctiōnis erimus;
 

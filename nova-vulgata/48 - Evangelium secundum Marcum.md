@@ -682,7 +682,7 @@ eum coinquināre; sed quae dē homine prōcēdunt, **illa** sunt, quae coinquina
 
 37 Quid enim dabit homō commūtātiōnem prō **animā** **suā**?
 
-38 Quī enim mē cōnfūsus fuerit et **mea** verba in generātiōne **ista** **adulterā** et peccātrīce, et Fīlius hominis cōnfundētur eum, cum vēnerit in **glōriā** Patrīs **suī** cum angelīs sānctīs”.
+38 Quī enim mē cōnfūsus fuerit et **mea** verba in generātiōne **ista** **adulterā** et peccātrīce, et Fīlius hominis cōnfundētur eum, cum vēnerit in **glōriā** Patris **suī** cum angelīs sānctīs”.
 
 ## 9
 

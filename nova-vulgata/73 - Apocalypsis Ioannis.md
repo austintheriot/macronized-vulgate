@@ -572,7 +572,7 @@ oportet eum in gladiō **occīdī**.
 
 ## 14
 
-1 Et vīdī: et ecce Agnus stāns suprā montem **Sīōn**, et cum illō centum quadrāgintā quattuor **mīlia**, habentēs **nōmen** eius et **nōmen** Patrīs eius scrīptum in frontibus **suīs**.
+1 Et vīdī: et ecce Agnus stāns suprā montem **Sīōn**, et cum illō centum quadrāgintā quattuor **mīlia**, habentēs **nōmen** eius et **nōmen** Patris eius scrīptum in frontibus **suīs**.
 
 2 Et audīvī **vōcem** dē caelō tamquam **vōcem** aquārum multārum et tamquam **vōcem** tonitruī magnī; et vōx, quam audīvī, sīcut citharoedōrum citharīzantium in citharīs **suīs**.
 

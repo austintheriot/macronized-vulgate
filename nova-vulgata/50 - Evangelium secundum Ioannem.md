@@ -38,7 +38,7 @@
 
 17 quia lēx per Moȳsēn[\*][moyses] **data** **est**, **grātia** et **vēritās** per Iēsum Chrīstum **facta** **est**.
 
-18 Deum nēmō vīdit umquam; ūnigenitus Deus, quī **est** in **sinum** Patrīs, ipse ēnārrāvit.
+18 Deum nēmō vīdit umquam; ūnigenitus Deus, quī **est** in **sinum** Patris, ipse ēnārrāvit.
 
 19 Et **hoc** **est** testimōnium Iōannis, quandō mīsērunt ad eum Iūdaeī ab Hierosolymīs sacerdōtēs et Lēvītās, ut interrogārent eum: ”Tū **quis** **es**?”.
 
@@ -144,7 +144,7 @@ sīcut dīxit Īsaiās **prophēta**”.
 
 15 et cum fēcisset flagellum dē fūniculīs, omnēs ēiēcit dē templō, ovēs **quoque** et bovēs, et nummulāriōrum effūdit aes et mēnsās subvertit;
 
-16 et hīs, quī columbās vēndēbant, dīxit: ”Auferte **ista** hinc! Nōlīte facere domum Patrīs meī domum negōtiātiōnis”.
+16 et hīs, quī columbās vēndēbant, dīxit: ”Auferte **ista** hinc! Nōlīte facere domum Patris meī domum negōtiātiōnis”.
 
 17 Recordātī sunt discipulī eius quia scrīptum **est**: ”Zēlus **domūs** tuae **comedit** mē”.
 
@@ -436,7 +436,7 @@ Erat autem sabbatum in illō **diē**.
 
 42 sed cognōvī vōs, quia dīlēctiōnem Deī nōn habētis in vōbīs.
 
-43 Ego **venī** in nōmine Patrīs meī, et nōn accipitis mē; sī **alius** vēnerit in nōmine suō, illum accipiētis.
+43 Ego **venī** in nōmine Patris meī, et nōn accipitis mē; sī **alius** vēnerit in nōmine suō, illum accipiētis.
 
 44 Quōmodo potestis vōs **crēdere**, quī glōriam ab invicem accipitis, et glōriam, quae ā **solō** **est** Deō, nōn quaeritis?
 
@@ -526,7 +526,7 @@ Erat autem sabbatum in illō **diē**.
 
 39 Haec **est** autem voluntās eius, quī mīsit mē, ut omne, quod **dedit** mihi, nōn perdam ex eō, sed resuscitem illud in novissimō **diē**.
 
-40 Haec **est** enim voluntās Patrīs meī, ut **omnis**, quī videt Fīlium et crēdit in eum, habeat vītam aeternam; et resuscitābō ego eum in novissimō **diē**”.
+40 Haec **est** enim voluntās Patris meī, ut **omnis**, quī videt Fīlium et crēdit in eum, habeat vītam aeternam; et resuscitābō ego eum in novissimō **diē**”.
 
 41 Murmurābant ergō Iūdaeī dē illō, quia dīxisset: ”Ego sum **pānis**, quī dē caelō dēscendī”,
 
@@ -952,7 +952,7 @@ Erat autem sabbatum in illō **diē**.
 
 24 Circumdedērunt ergō eum Iūdaeī et dīcēbant **eī**: ”Quousque animam nostram tollis? Sī tū **es** Chrīstus, dīc nōbīs **palam**!”.
 
-25 Respondit eīs Iēsūs: ”Dīxī vōbīs, et nōn **crēditis**; **opera**, quae ego faciō in nōmine Patrīs meī, haec testimōnium perhibent dē mē.
+25 Respondit eīs Iēsūs: ”Dīxī vōbīs, et nōn **crēditis**; **opera**, quae ego faciō in nōmine Patris meī, haec testimōnium perhibent dē mē.
 
 26 Sed vōs nōn **crēditis**, quia nōn **estis** ex ovibus meīs.
 
@@ -960,7 +960,7 @@ Erat autem sabbatum in illō **diē**.
 
 28 et ego vītam aeternam dō eīs, et nōn perībunt in aeternum, et nōn rapiet eās quisquam dē manū **meā**.
 
-29 Pater meus quod **dedit** mihi, maius omnibus **est**, et nēmō potest rapere dē manū Patrīs.
+29 Pater meus quod **dedit** mihi, maius omnibus **est**, et nēmō potest rapere dē manū Patris.
 
 30 Ego et Pater ūnum sumus”.
 
@@ -976,7 +976,7 @@ Erat autem sabbatum in illō **diē**.
 
 36 quem Pater sānctificāvit et mīsit in mundum, vōs dīcitis: “Blasphēmās!”, quia dīxī: Fīlius Deī sum?
 
-37 Sī nōn faciō **opera** Patrīs meī, nōlīte **crēdere** mihi;
+37 Sī nōn faciō **opera** Patris meī, nōlīte **crēdere** mihi;
 
 38 sī autem faciō, et sī mihi nōn vultis **crēdere**, operibus **crēdite**, ut cognōscātis et sciātis quia in mē **est** Pater, et ego in Patre”.
 
@@ -1308,7 +1308,7 @@ et sānem eōs”.
 
 1 Nōn turbētur cor vestrum. **Crēditis** in Deum et in mē **crēdite**.
 
-2 In domō Patrīs meī mānsiōnēs multae sunt; sī quō minus, dīxissem vōbīs, quia **vādō** parāre vōbīs locum?
+2 In domō Patris meī mānsiōnēs multae sunt; sī quō minus, dīxissem vōbīs, quia **vādō** parāre vōbīs locum?
 
 3 Et sī abierō et praeparāverō vōbīs locum, iterum veniō et accipiam vōs ad meipsum, ut, ubi sum ego, et vōs **sītis**.
 
@@ -1352,7 +1352,7 @@ et sānem eōs”.
 
 23 Respondit Iēsūs et dīxit **eī**: ”Sī **quis** dīligit mē, sermōnem meum servābit, et Pater meus dīliget eum, et ad eum veniēmus et mānsiōnem apud eum faciēmus;
 
-24 quī nōn dīligit mē, sermōnēs meōs nōn servat. Et sermō, quem **audītis**, nōn **est** meus, sed eius quī mīsit mē, Patrīs.
+24 quī nōn dīligit mē, sermōnēs meōs nōn servat. Et sermō, quem **audītis**, nōn **est** meus, sed eius quī mīsit mē, Patris.
 
 25 Haec **locūtus** sum vōbīs apud vōs manēns.
 
@@ -1388,7 +1388,7 @@ et sānem eōs”.
 
 9 Sīcut dīlēxit mē Pater, et ego dīlēxī vōs; manēte in dīlēctiōne **meā**.
 
-10 Sī **praecepta** **mea** **servāveritis**, manēbitis in dīlēctiōne **meā**, sīcut ego Patrīs meī **praecepta** servāvī et maneō in eius dīlēctiōne.
+10 Sī **praecepta** **mea** **servāveritis**, manēbitis in dīlēctiōne **meā**, sīcut ego Patris meī **praecepta** servāvī et maneō in eius dīlēctiōne.
 
 11 Haec **locūtus** sum vōbīs, ut gaudium meum in vōbīs sit, et gaudium vestrum impleātur.
 

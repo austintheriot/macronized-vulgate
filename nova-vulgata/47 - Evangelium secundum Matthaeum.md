@@ -336,7 +336,7 @@ lūx **orta** **est** eīs”.
 
 44 Ego autem **dīcō** vōbīs: Dīligite inimīcōs vestrōs et **ōrāte** prō persequentibus vōs,
 
-45 ut **sītis** fīliī Patrīs vestrī, quī in caelīs **est**, quia sōlem suum orīrī facit super **malōs** et bonōs et pluit super iūstōs et iniūstōs.
+45 ut **sītis** fīliī Patris vestrī, quī in caelīs **est**, quia sōlem suum orīrī facit super **malōs** et bonōs et pluit super iūstōs et iniūstōs.
 
 46 Sī enim **dīlēxeritis** eōs, quī vōs dīligunt, quam mercēdem habētis? **Nōnne** et pūblicānī **hoc** faciunt?
 
@@ -468,7 +468,7 @@ sed **līberā** nōs ā **Malō**.
 
 20 Igitur ex frūctibus eōrum cognōscētis eōs.
 
-21 Nōn **omnis**, quī dīcit mihi: “Domine, Domine”, intrābit in rēgnum caelōrum, sed quī facit voluntātem Patrīs meī, quī in caelīs **est**.
+21 Nōn **omnis**, quī dīcit mihi: “Domine, Domine”, intrābit in rēgnum caelōrum, sed quī facit voluntātem Patris meī, quī in caelīs **est**.
 
 22 Multī **dicent** mihi in **illā** **diē**: “Domine, Domine, **nōnne** in tuō nōmine prophetāvimus, et in tuō nōmine daemonia ēiēcimus, et in tuō nōmine virtūtēs multās fēcimus?”.
 
@@ -678,7 +678,7 @@ et aegrōtātiōnēs portāvit”.
 
 19 Cum autem trādent vōs, nōlīte cōgitāre quōmodo aut quid loquāminī; dabitur enim vōbīs in **illā** **hōrā** quid loquāminī.
 
-20 Nōn enim vōs **estis**, quī loquiminī, sed **Spīritus** Patrīs vestrī, quī loquitur in vōbīs.
+20 Nōn enim vōs **estis**, quī loquiminī, sed **Spīritus** Patris vestrī, quī loquitur in vōbīs.
 
 21 Trādet autem frāter frātrem in mortem, et pater fīlium; et īnsurgent fīliī in **parentēs** et morte eōs afficient.
 
@@ -912,7 +912,7 @@ dōnec ēiciat ad victōriam iūdicium;
 
 49 Et extendēns **manum** suam in discipulōs suōs dīxit: ”Ecce māter **mea** et frātrēs meī.
 
-50 Quīcumque enim fēcerit voluntātem Patrīs meī, quī in caelīs **est**, ipse meus frāter et soror et māter **est**”.
+50 Quīcumque enim fēcerit voluntātem Patris meī, quī in caelīs **est**, ipse meus frāter et soror et māter **est**”.
 
 ## 13
 
@@ -1266,7 +1266,7 @@ Et accēdentēs discipulī eius rogābant eum dīcentēs: ”Dīmitte eam, quia 
 
 26 Quid enim prōdest hominī, sī mundum ūniversum lucrētur, animae vērō suae dētrīmentum patiātur? Aut quam dabit homō commūtātiōnem prō **animā** **suā**?
 
-27 Fīlius enim hominis ventūrus **est** in **glōriā** Patrīs **suī** cum angelīs **suīs**, et tunc reddet ūnīcuique secundum opus eius.
+27 Fīlius enim hominis ventūrus **est** in **glōriā** Patris **suī** cum angelīs **suīs**, et tunc reddet ūnīcuique secundum opus eius.
 
 28 Āmēn **dīcō** vōbīs: Sunt quīdam dē **hīc** stantibus, quī nōn gustābunt mortem, dōnec videant Fīlium hominis venientem in rēgnō suō”.
 
@@ -1348,7 +1348,7 @@ grānum **sināpis**, **dicētis** montī huic: “Trānsī hinc illūc!”, et 
 
 10 Vidēte, nē contemnātis ūnum ex hīs pusillīs; **dīcō** enim vōbīs quia angelī eōrum in caelīs semper
 
-vident faciem Patrīs meī, quī in caelīs **est**.
+vident faciem Patris meī, quī in caelīs **est**.
 
 (11) 12 Quid vōbīs vidētur? Sī fuerint alicui centum ovēs, et errāverit **ūna** ex eīs, **nōnne** relinquet nōnāgintā novem in montibus et vādit **quaerere** eam, quae errāvit?
 
@@ -1986,7 +1986,7 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 33 et statuet ovēs quidem ā dextrīs **suīs**, haedōs autem ā sinistrīs.
 
-34 Tunc **dīcet** Rēx hīs, quī ā dextrīs eius erunt: “Venīte, benedictī Patrīs meī; possidēte parātum vōbīs rēgnum ā cōnstitūtiōne mundī.
+34 Tunc **dīcet** Rēx hīs, quī ā dextrīs eius erunt: “Venīte, benedictī Patris meī; possidēte parātum vōbīs rēgnum ā cōnstitūtiōne mundī.
 
 35 Ēsurīvī enim, et dedistis mihi mandūcāre; sitīvī, et dedistis mihi **bibere**; hospes eram, et collēgistis mē;
 
@@ -2070,7 +2070,7 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 28 **hic** **est** enim sanguis meus **novī** testāmentī, quī prō multīs effunditur in remissiōnem peccātōrum.
 
-29 **Dīcō** autem vōbīs: Nōn bibam āmodo dē **hōc** genimine **vītis** usque in diem illum, cum illud bibam vōbīscum novum in rēgnō Patrīs meī”.
+29 **Dīcō** autem vōbīs: Nōn bibam āmodo dē **hōc** genimine **vītis** usque in diem illum, cum illud bibam vōbīscum novum in rēgnō Patris meī”.
 
 30 Et hymnō dictō, exiērunt in montem Olīvētī.
 
@@ -2336,7 +2336,7 @@ enim nōn **intrātis** nec introeuntēs sinitis intrāre.
 
 18 Et accēdēns Iēsūs **locūtus** **est** eīs dīcēns: ”**Data** **est** mihi **omnis** potestās in caelō et in **terrā**.
 
-19 Euntēs ergō docēte omnēs gentēs, baptīzantēs eōs in nōmine Patrīs et Fīliī et **Spīritus** Sānctī,
+19 Euntēs ergō docēte omnēs gentēs, baptīzantēs eōs in nōmine Patris et Fīliī et **Spīritus** Sānctī,
 
 20 docentēs eōs servāre omnia, quaecumque mandāvī vōbīs. Et ecce ego vōbīscum sum omnibus diēbus usque ad cōnsummātiōnem saeculī”.
 

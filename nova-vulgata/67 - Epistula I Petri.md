@@ -6,7 +6,7 @@
 
 1 Petrus apostolus Iēsū Chrīstī ēlēctīs advenīs dispersiōnis Pontī, Galatiae, Cappadociae, Asiae et Bīthȳniae,
 
-2 secundum praescientiam Deī Patrīs, in sānctificātiōne **Spīritus**, in oboedientiam et aspersiōnem sanguinis Iēsū Chrīstī: **grātia** vōbīs et pāx multiplicētur.
+2 secundum praescientiam Deī Patris, in sānctificātiōne **Spīritus**, in oboedientiam et aspersiōnem sanguinis Iēsū Chrīstī: **grātia** vōbīs et pāx multiplicētur.
 
 3 Benedictus Deus et Pater Dominī nostrī Iēsū Chrīstī, quī secundum magnam misericordiam suam regenerāvit nōs in spem vīvam per resurrēctiōnem Iēsū Chrīstī ex mortuīs,
 

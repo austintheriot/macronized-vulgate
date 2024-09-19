@@ -10,7 +10,7 @@
 
 3 **grātia** vōbīs et pāx ā Deō Patre nostrō et Dominō Iēsū Chrīstō,
 
-4 quī **dedit** sēmetipsum prō **peccātīs** nostrīs, ut ēriperet nōs dē praesentī saeculō nēquam secundum voluntātem Deī et Patrīs nostrī,
+4 quī **dedit** sēmetipsum prō **peccātīs** nostrīs, ut ēriperet nōs dē praesentī saeculō nēquam secundum voluntātem Deī et Patris nostrī,
 
 5 cui **glōria** in saecula saeculōrum. Āmēn.
 
