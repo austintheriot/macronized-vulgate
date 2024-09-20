@@ -550,7 +550,7 @@ nōn sibi **complacet** in eō **animā** **meā**.
 
 3 **Fīdē** intellegimus **aptātā** **esse** saecula verbō Deī, ut ex invīsibilibus vīsibilia **facta** sint.
 
-4 **Fīdē** ampliōrem hostiam Abel quam Cāīn obtulit Deō, per quam testimōnium cōnsecūtus **est** **esse** iūstus, testimōnium perhibente mūneribus eius Deō; et per illam **dēfūnctus** adhūc loquitur.
+4 **Fīdē** ampliōrem hostiam Abel quam Cāīn[\*][cain] obtulit Deō, per quam testimōnium cōnsecūtus **est** **esse** iūstus, testimōnium perhibente mūneribus eius Deō; et per illam **dēfūnctus** adhūc loquitur.
 
 5 **Fīdē** Henoch **trānslātus** **est**, nē vidēret mortem, et nōn inveniēbātur, quia trānstulit illum Deus; ante trānslātiōnem enim testimōnium accēpit placuisse Deō.
 
@@ -745,5 +745,6 @@ flagellat autem omnem fīlium, quem recipit”.
 25 **Grātia** cum omnibus vōbīs.
 
 [abraham]: <Ambiguous Forms.md#abraham>
+[cain]: <Ambiguous Forms.md#cain>
 [moyses]: <Ambiguous Forms.md#moyses>
 [samuel]: <Ambiguous Forms.md#samuel>

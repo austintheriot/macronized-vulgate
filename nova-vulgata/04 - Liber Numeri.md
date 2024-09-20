@@ -1901,7 +1901,7 @@ cuius **extrēma** perdentur”.
 
 et in **petrā** **positus** nīdus tuus.
 
-22 Erit in combustiōnem Cāīn,
+22 Erit in combustiōnem Cāīn[\*][cain],
 
 dōnec Assur capiat tē”.
 
@@ -2791,6 +2791,7 @@ Hanc habēbitis terram per fīnēs suōs in circuitū”.
 
 [abraham]: <Ambiguous Forms.md#abraham>
 [basan]: <Ambiguous Forms.md#basan>
+[cain]: <Ambiguous Forms.md#cain>
 [gamaliel]: <Ambiguous Forms.md#gamaliel>
 [moyses]: <Ambiguous Forms.md#moyses>
 [samuel]: <Ambiguous Forms.md#samuel>

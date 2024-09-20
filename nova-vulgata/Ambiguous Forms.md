@@ -20,6 +20,12 @@ Andreas (Greek length)
 
 Vowel length uncertain. Basān (following the Septuagint Greek Βασάν)
 
+## Cain
+
+Cain (Gaffiot)
+
+Cāīn (following Greek Κάϊν)
+
 ## fere
 
 ferē (Classical)

@@ -20,7 +20,7 @@
 
 10 Hī autem, quaecumque quidem ignōrant, blasphēmant; quaecumque autem nātūrāliter tamquam **mūta** animālia nōrunt, in hīs corrumpuntur.
 
-11 Vae illīs, quia **via** Cāīn abiērunt et errōre Balaam mercēde effūsī sunt et contrādictiōne **Corē** periērunt!
+11 Vae illīs, quia **via** Cāīn[\*][cain] abiērunt et errōre Balaam mercēde effūsī sunt et contrādictiōne **Corē** periērunt!
 
 12 Hī sunt in agapīs vestrīs maculae, convīvantēs **sine** timōre, sēmetipsōs pāscentēs; nūbēs **sine** **aquā**, quae ā ventīs circumferuntur; arborēs autumnālēs īnfrūctuōsae bis mortuae, ērādīcātae;
 
@@ -50,4 +50,4 @@
 
 25 **sōlī** Deō salvātōrī nostrō per Iēsum Chrīstum Dominum nostrum **glōria**, **magnificentia**, imperium et potestās ante omne saeculum et nunc et in omnia saecula. Āmēn.
 
-
+[cain]: <Ambiguous Forms.md#cain>

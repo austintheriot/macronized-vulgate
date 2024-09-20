@@ -227,23 +227,23 @@ quia pulvis es et in pulverem revertēris”.
 
 ## 4
 
-1 Adam vērō cognōvit Ēvam uxōrem suam, quae concēpit et peperit Cāīn dīcēns: “Acquīsīvī virum per Dominum”.
+1 Adam vērō cognōvit Ēvam uxōrem suam, quae concēpit et peperit Cāīn[\*][cain] dīcēns: “Acquīsīvī virum per Dominum”.
 
-2 Rūrsusque peperit frātrem ejus Abel. Et fuit Abel pāstor ovium et Cāīn agricola.
+2 Rūrsusque peperit frātrem ejus Abel. Et fuit Abel pāstor ovium et Cāīn[\*][cain] agricola.
 
-3 Factum est autem post aliquot diēs ut offerret Cāīn dē frūctibus agrī mūnus Dominō.
+3 Factum est autem post aliquot diēs ut offerret Cāīn[\*][cain] dē frūctibus agrī mūnus Dominō.
 
 4 Abel quoque obtulit dē prīmōgenitīs gregis suī et dē adipibus eōrum. Et respexit Dominus ad Abel et ad mūnus ejus,
 
-5 ad Cāīn vērō et ad mūnus illīus nōn respexit. Īrātusque est Cāīn vehementer, et concidit vultus ejus.
+5 ad Cāīn[\*][cain] vērō et ad mūnus illīus nōn respexit. Īrātusque est Cāīn[\*][cain] vehementer, et concidit vultus ejus.
 
 6 Dīxitque Dominus ad eum: “Quārē īrātus es, et cūr concidit faciēs tua?
 
 7 Nōnne sī bene ēgerīs, vultum attollēs? Sīn autem male, in foribus peccātum īnsidiābitur, et ad tē erit appetītus ejus, tū autem domināberis illīus”.
 
-8 Dīxitque Cāīn ad Abel frātrem suum: “Ēgrediāmur forās”. Cumque essent in agrō, cōnsurrēxit Cāīn adversus Abēl frātrem suum et interfēcit eum.
+8 Dīxitque Cāīn[\*][cain] ad Abel frātrem suum: “Ēgrediāmur forās”. Cumque essent in agrō, cōnsurrēxit Cāīn[\*][cain] adversus Abēl frātrem suum et interfēcit eum.
 
-9 Et ait Dominus ad Cāīn: “Ubi est Abēl frāter tuus?”. Quī respondit: “Nesciō. Num cūstōs frātris meī sum ego?”.
+9 Et ait Dominus ad Cāīn[\*][cain]: “Ubi est Abēl frāter tuus?”. Quī respondit: “Nesciō. Num cūstōs frātris meī sum ego?”.
 
 10 Dīxitque ad eum: “Quid fēcistī? Vōx sanguinis frātris tuī clāmat ad mē dē agrō.
 
@@ -251,15 +251,15 @@ quia pulvis es et in pulverem revertēris”.
 
 12 Cum operātus fueris eum, amplius nōn dabit tibi frūctūs suōs; vagus et profugus eris super terram”.
 
-13 Dīxitque Cāīn ad Dominum: “Major est poena mea quam ut portem eam.
+13 Dīxitque Cāīn[\*][cain] ad Dominum: “Major est poena mea quam ut portem eam.
 
 14 Ecce ēicis mē hodiē ā faciē agrī, et ā faciē tuā abscondar et erō vagus et profugus in terrā; omnis igitur, quī invēnerit mē, occīdet mē”.
 
-15 Dīxitque eī Dominus: “Nēquāquam ita fīet, sed omnis quī occīderit Cāīn, septuplum pūniētur!”. Posuitque Dominus Cāīn signum, ut nōn eum interficeret omnis quī invēnisset eum.
+15 Dīxitque eī Dominus: “Nēquāquam ita fīet, sed omnis quī occīderit Cāīn[\*][cain], septuplum pūniētur!”. Posuitque Dominus Cāīn[\*][cain] signum, ut nōn eum interficeret omnis quī invēnisset eum.
 
-16 Ēgressusque Cāīn ā faciē Dominī habitāvit in terrā Nod ad orientālem plāgam Ēden.
+16 Ēgressusque Cāīn[\*][cain] ā faciē Dominī habitāvit in terrā Nod ad orientālem plāgam Ēden.
 
-17 Cognōvit autem Cāīn uxōrem suam, quae concēpit et peperit Henoch. Et aedificāvit cīvitātem vocāvitque nōmen ejus ex nōmine fīliī suī Henoch.
+17 Cognōvit autem Cāīn[\*][cain] uxōrem suam, quae concēpit et peperit Henoch. Et aedificāvit cīvitātem vocāvitque nōmen ejus ex nōmine fīliī suī Henoch.
 
 18 Porrō Henoch genuit Irad, et Irad genuit Maviaēl, et Maviael genuit Mathusaēl, et Mathusaēl genuit Lamech.
 
@@ -279,7 +279,7 @@ occīdī virum prō vulnere meō
 
 et adulēscentulum prō līvōre meō;
 
-24 septuplum ultiō dabitur dē Cāīn, dē Lamech vērō septuāgiēs septiēs”.
+24 septuplum ultiō dabitur dē Cāīn[\*][cain], dē Lamech vērō septuāgiēs septiēs”.
 
 25 Cognōvit quoque Adam uxōrem suam, et peperit fīlium vocāvitque nōmen ejus Seth dīcēns: “Posuit mihi Deus sēmen aliud prō Abel, quem occīdit Cāīn”.
 
@@ -3510,3 +3510,4 @@ et vespere dīvidet spolia”.
 26 mortuus est, explētīs centum decem vītae suae annīs. Et conditus arōmatibus repositus est in loculō in Aegyptō.
 
 [abraham]: <Ambiguous Forms.md#abraham>
+[cain]: <Ambiguous Forms.md#cain>

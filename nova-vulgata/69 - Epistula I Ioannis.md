@@ -34,13 +34,13 @@
 
 1 Vidēte quālem cāritātem dedit nōbīs Pater, ut fīliī Deī nōminēmur, et sumus! Propter hoc mundus nōn cognōscit nōs, quia nōn cognōvit eum. 2 Cārissimī, nunc fīliī Deī sumus, et nōndum manifestātum est quid erimus; scīmus quoniam, cum ipse appāruerit, similēs eī erimus, quoniam vidēbimus eum, sīcutī est.
 
-3 Et omnis, quī habet spem hanc in eō, pūrificat sē, sīcut ille pūrus est. 4 Omnis, quī facit peccātum, et inīquitātem facit, quia peccātum est inīquitās. 5 Et **scītis** quoniam ille appāruit, ut **peccāta** tolleret, et peccātum in eō nōn **est**. 6 **Omnīs**, quī in eō **manet**, nōn peccat; **omnis**, quī peccat, nōn vīdit eum nec nōvit eum.
+3 Et omnis, quī habet spem hanc in eō, pūrificat sē, sīcut ille pūrus est. 4 Omnis, quī facit peccātum, et inīquitātem facit, quia peccātum est inīquitās. 5 Et scītis quoniam ille appāruit, ut peccāta tolleret, et peccātum in eō nōn est. 6 Omnis, quī in eō manet, nōn peccat; rromnis\*\*, quī peccat, nōn vīdit eum nec nōvit eum.
 
-7 Fīliolī, nēmō vōs sēdūcat. Quī facit iūstitiam, iūstus **est**, sīcut ille iūstus **est**; 8 quī facit peccātum, ex Diabolō **est**, quoniam ā prīncipiō Diabolus peccat. Propter **hōc** appāruit Fīlius Deī, ut dissolvat **opera** Diabolī. 9 **Omnīs**, quī **nātus** **est** ex Deō, peccātum nōn facit, quoniam sēmen ipsīus in eō **manet**; et nōn potest peccāre, quoniam ex Deō **nātus** **est**.
+7 Fīliolī, nēmō vōs sēdūcat. Quī facit iūstitiam, iūstus est, sīcut ille iūstus est; 8 quī facit peccātum, ex Diabolō est, quoniam ā prīncipiō Diabolus peccat. Propter hoc appāruit Fīlius Deī, ut dissolvat opera Diabolī. 9 Omnis, quī nātus est ex Deō, peccātum nōn facit, quoniam sēmen ipsīus in eō manet; et nōn potest peccāre, quoniam ex Deō nātus est.
 
-10 In **hōc** manifēstī sunt fīliī Deī et fīliī Diabolī: **omnis**, quī nōn facit iūstitiam, nōn **est** ex Deō, et quī nōn dīligit frātrem suum.
+10 In hōc manifēstī sunt fīliī Deī et fīliī Diabolī: omnis, quī nōn facit iūstitiam, nōn est ex Deō, et quī nōn dīligit frātrem suum.
 
-11 Quoniam haec **est** annūntiātiō, quam audīstis ab initiō, ut dīligāmus alterutrum. 12 Nōn sīcut Cāīn: ex Malignō erat et **occīdit** frātrem suum. Et propter quid **occīdit** eum? Quoniam **opera** eius **maligna** erant, frātris autem eius **iūsta**.
+11 Quoniam haec **est** annūntiātiō, quam audīstis ab initiō, ut dīligāmus alterutrum. 12 Nōn sīcut Cāīn[\*][cain]: ex Malignō erat et **occīdit** frātrem suum. Et propter quid **occīdit** eum? Quoniam **opera** eius **maligna** erant, frātris autem eius **iūsta**.
 
 13 Nōlīte mīrārī, frātrēs, sī ōdit vōs mundus. 14 Nōs scīmus quoniam trānsīvimus dē morte in vītam, quoniam dīligimus frātrēs; quī nōn dīligit, **manet** in morte. 15 **Omnis**, quī ōdit frātrem suum, **homicīda** **est**, et **scītis** quoniam **omnis** **homicīda** nōn habet vītam aeternam in sēmetipsō manentem.
 
@@ -73,3 +73,5 @@
 16 Sī **quis** videt frātrem suum peccāre peccātum nōn ad mortem, petet, et dabit **eī** Deus vītam, peccantibus nōn ad mortem. **Est** peccātum ad mortem; nōn prō illō **dīcō**, ut roget. 17 **Omnis** **iniūstitia** peccātum **est**, et **est** peccātum nōn ad mortem.
 
 18 Scīmus quoniam **omnīs**, quī **nātus** **est** ex Deō, nōn peccat, sed ille, quī **genitus** **est** ex Deō, cōnservat eum, et Malignus nōn tangit eum. 19 Scīmus quoniam ex Deō sumus, et mundus **tōtus** in Malignō **positus** **est**. 20 Et scīmus quoniam Fīlius Deī **venit** et **dēdit** nōbīs sēnsum, ut cognōscāmus eum, quī vērus **est**; et sumus in eō, quī vērus **est**, in Fīliō eius Iēsū Chrīstō. **Hic** **est** quī vērus **est**, Deus et **vīta** **aeterna**. 21 Fīliolī, **cūstōdīte** vōs ā simulācrīs!
+
+[cain]: <Ambiguous Forms.md#cain>

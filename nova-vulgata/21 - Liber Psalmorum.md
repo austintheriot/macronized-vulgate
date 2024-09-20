@@ -1258,7 +1258,7 @@ et voluntātem labiōrum eius nōn dēnegāstī.
 
 posuistī in **capite** eius corōnam dē aurō pūrissimō.
 
-5 Vītam petiit ā tē, et tribuistī **eī**
+5 Vītam petiit ā tē, et tribuistī **eī*
 
 longitūdinem diērum in saeculum et in saeculum saeculī.
 
