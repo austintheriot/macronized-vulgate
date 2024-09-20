@@ -2802,7 +2802,7 @@ et sciēs quia ego Dominus.
 
 14 Haec dīcit Dominus Deus: Laetante **ūniversa** **terra**, in sōlitūdinem tē redigam;
 
-15 sīcuti gāvīsus **es** super hērēditātem **domūs** Isrāēl, eō quod fuerit **dissipāta**, sīc faciam tibi: dissipātus **eris**, mōns Seir, et **Idūmaea** **omnis**, et scient quia ego Dominus.
+15 sīcutī gāvīsus **es** super hērēditātem **domūs** Isrāēl, eō quod fuerit **dissipāta**, sīc faciam tibi: dissipātus **eris**, mōns Seir, et **Idūmaea** **omnis**, et scient quia ego Dominus.
 
 ## 36
 
@@ -3530,7 +3530,7 @@ et sciēs quia ego Dominus.
 
 7 Et iuxtā terminum Ruben ā **plāgā** orientālī usque ad **plāgam** **maris**, Iūdae **ūna**.
 
-8 Et iuxtā terminum Iūdae ā **plāgā** orientālī usque ad **plāgam** **maris** oblātiō, quam sēparābitis vīgintī quīnque mīlibus lātitūdinis et longitūdinis, sīcuti singulae partēs ā **plāgā** orientālī usque ad **plāgam** **maris**; et erit sānctuārium in **mediō** eius.
+8 Et iuxtā terminum Iūdae ā **plāgā** orientālī usque ad **plāgam** **maris** oblātiō, quam sēparābitis vīgintī quīnque mīlibus lātitūdinis et longitūdinis, sīcutī singulae partēs ā **plāgā** orientālī usque ad **plāgam** **maris**; et erit sānctuārium in **mediō** eius.
 
 9 Oblātiō, quam sēparābitis Dominō, longitūdō vīgintī quīnque mīlibus et lātitūdō vīgintī mīlibus.
 

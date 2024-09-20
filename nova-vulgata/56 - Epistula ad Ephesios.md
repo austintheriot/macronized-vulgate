@@ -128,7 +128,7 @@ quae in caelīs et quae in **terrā**, in ipsō;
 
 4 prout potestis legentēs **intellegere** prūdentiam meam in mystēriō Chrīstī,
 
-5 quod aliīs generātiōnibus nōn innōtuit fīliīs hominum, sīcuti nunc revēlātum **est** sānctīs apostolīs eius et **prophētīs** in Spīritū,
+5 quod aliīs generātiōnibus nōn innōtuit fīliīs hominum, sīcutī nunc revēlātum **est** sānctīs apostolīs eius et **prophētīs** in Spīritū,
 
 6 **esse** gentēs cohērēdēs et concorporālēs et comparticipēs prōmissiōnis in Chrīstō Iēsū per ēvangelium,
 

@@ -154,7 +154,7 @@ quia sermōnem **rēgis** aperuistī nōbīs”.
 
 42 Et digitōs pedum ex **parte** ferreōs et ex **parte** fictilēs, ex **parte** rēgnum erit solidum et ex **parte** contrītum.
 
-43 Quod autem vīdistī ferrum mixtum testae ex **lutō**, commiscēbuntur quidem hūmānō sēmine, sed nōn adhaerēbunt sibi, sīcuti ferrum miscērī nōn potest testae.
+43 Quod autem vīdistī ferrum mixtum testae ex **lutō**, commiscēbuntur quidem hūmānō sēmine, sed nōn adhaerēbunt sibi, sīcutī ferrum miscērī nōn potest testae.
 
 44 In diēbus autem rēgnōrum illōrum suscitābit Deus caelī rēgnum, quod in aeternum nōn dissipābitur, et rēgnum **populō** alterī nōn trādētur: comminuet et cōnsūmet **ūniversa** **rēgnā** haec, et ipsum stābit in aeternum.
 

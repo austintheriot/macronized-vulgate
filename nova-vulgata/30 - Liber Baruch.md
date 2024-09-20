@@ -24,7 +24,7 @@
 
 10 Et dīxērunt: “Ecce mīsimus ad vōs pecūniam; emite ex **eā** **pecūniā** holocausta et prō peccātō et tūs et facite oblātiōnem et afferte super altāre Dominī Deī nostrī;
 
-11 et **ōrātē** prō **vītā** Nabuchodonosor **rēgis** Babylōnis et prō **vītā** Balthasar fīliī eius, ut sint diēs eōrum, sīcuti sunt diēs caelī super terram;
+11 et **ōrātē** prō **vītā** Nabuchodonosor **rēgis** Babylōnis et prō **vītā** Balthasar fīliī eius, ut sint diēs eōrum, sīcutī sunt diēs caelī super terram;
 
 12 et dabit Dominus virtūtem nōbīs et illūminābit oculōs nostrōs, et vīvēmus sub **umbrā** Nabuchodonosor **rēgis** Babylōnis et sub **umbrā** Balthasar fīliī eius et serviēmus eīs multīs diēbus et inveniēmus grātiam in cōnspectū eōrum.
 

@@ -2968,7 +2968,7 @@ exsultābimus et laetābimur in salūtārī eius.
 
 Et trītūrābitur Moab in locō suō,
 
-sīcuti teruntur paleae in sterquilīniō;
+sīcutī teruntur paleae in sterquilīniō;
 
 11 et extendet **manūs** suās in **mediō** eius,
 
