@@ -8,14 +8,14 @@ Some words and names, especially Latinized versions of Greek or Hebrew names hav
 
 If you would like to contribute to this project, please feel free to submit a pull request or file an issue with any corrections!
 
-## Books known to be roughly complete
+## Completed books
 
 - [Genesis](<./nova-vulgata/01 - Liber Genesis.md>)
 - [1 John](<./nova-vulgata/69 - Epistula I Ioannis.md>)
 - [2 John](<./nova-vulgata/70 - Epistula II Ioannis.md>)
 - [3 John](<./nova-vulgata/71 - Epistula III Ioannis.md>)
 
-## Books that are currently being edited
+## Books currently being edited
 
 - [Psalms](<./nova-vulgata/01 - Liber Genesis.md>)
 - [Acts](<./nova-vulgata/51 - Actus Apostolorum.md>)
