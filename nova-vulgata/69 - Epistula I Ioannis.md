@@ -40,13 +40,13 @@
 
 10 In hōc manifēstī sunt fīliī Deī et fīliī Diabolī: omnis, quī nōn facit iūstitiam, nōn est ex Deō, et quī nōn dīligit frātrem suum.
 
-11 Quoniam haec **est** annūntiātiō, quam audīstis ab initiō, ut dīligāmus alterutrum. 12 Nōn sīcut Cāīn[\*][cain]: ex Malignō erat et **occīdit** frātrem suum. Et propter quid **occīdit** eum? Quoniam **opera** eius **maligna** erant, frātris autem eius **iūsta**.
+11 Quoniam haec t\*\* annūntiātiō, quam audīstis ab initiō, ut dīligāmus alterutrum. 12 Nōn sīcut Cāīn[\*][cain]: ex Malignō erat et occīdit frātrem suum. Et propter quid occīdit eum? Quoniam opera eius maligna erant, frātris autem eius iūsta.
 
-13 Nōlīte mīrārī, frātrēs, sī ōdit vōs mundus. 14 Nōs scīmus quoniam trānsīvimus dē morte in vītam, quoniam dīligimus frātrēs; quī nōn dīligit, **manet** in morte. 15 **Omnis**, quī ōdit frātrem suum, **homicīda** **est**, et **scītis** quoniam **omnis** **homicīda** nōn habet vītam aeternam in sēmetipsō manentem.
+13 Nōlīte mīrārī, frātrēs, sī ōdit vōs mundus. 14 Nōs scīmus quoniam trānsīvimus dē morte in vītam, quoniam dīligimus frātrēs; quī nōn dīligit, manet in morte. 15 Omnis, quī ōdit frātrem suum, homicīda est, et scītis quoniam omnis homicīda nōn habet vītam aeternam in sēmetipsō manentem.
 
-16 In **hōc** nōvimus cāritātem, quoniam ille prō nōbīs animam suam posuit; et nōs dēbēmus prō frātribus animās **pōnere**. 17 Quī habuerit substantiam mundī et vīderit frātrem suum necesse habēre et clauserit vīscera **sua** ab eō, quōmodo **cāritās** Deī **manet** in eō? 18 Fīliolī, nōn dīligāmus verbō nec **linguā** sed in opere et vēritāte. 19 In **hōc** cognōscēmus quoniam ex vēritāte sumus, et in cōnspectū eius plācābimus **corda** **nostra**, 20 quoniam sī reprehenderit nōs cor, maior **est** Deus **corde** nostrō et cognōscit omnia. 21 Cārissimī, sī cor nostrum nōn reprehenderit nōs, fīdūciam habēmus ad Deum 22 et, quodcumque **petierimus**, accipimus ab eō, quoniam **mandāta** eius cūstōdīmus et **ea**, quae sunt **placita** **cōram** eō, facimus.
+16 In hōc nōvimus cāritātem, quoniam ille prō nōbīs animam suam posuit; et nōs dēbēmus prō frātribus animās pōnere. 17 Quī habuerit substantiam mundī et vīderit frātrem suum necesse habēre et clauserit vīscera sua ab eō, quōmodo cāritās Deī manet in eō? 18 Fīliolī, nōn dīligāmus verbō nec linguā sed in opere et vēritāte. 19 In hōc cognōscēmus quoniam ex vēritāte sumus, et in cōnspectū eius plācābimus corda nostra, 20 quoniam sī reprehenderit nōs cor, maior est Deus corde nostrō et cognōscit omnia. 21 Cārissimī, sī cor nostrum nōn reprehenderit nōs, fīdūciam habēmus ad Deum 22 et, quodcumque petierimus, accipimus ab eō, quoniam mandāta eius cūstōdīmus et ea, quae sunt placita cōram eō, facimus.
 
-23 Et **hoc** **est** mandātum eius, ut crēdāmus nōminī Fīliī eius Iēsū Chrīstī et dīligāmus alterutrum, sīcut **dedit** mandātum nōbīs. 24 Et, quī servat **mandāta** eius, in ipsō **manet**, et ipse in eō; et in **hōc** cognōscimus quoniam **manet** in nōbīs, ex Spīritū, quem nōbīs **dedit**.
+23 Et hoc est mandātum eius, ut crēdāmus nōminī Fīliī eius Iēsū Chrīstī et dīligāmus alterutrum, sīcut dedit mandātum nōbīs. 24 Et, quī servat mandāta eius, in ipsō manet, et ipse in eō; et in hōc cognōscimus quoniam manet in nōbīs, ex Spīritū, quem nōbīs dedit.
 
 ## 4
 
