@@ -1,4 +1,4 @@
-# EPISTULA II IŌANNĪS
+# EPISTULA II IŌANNIS
 
 1 Presbyter ēlēctae dominae et fīliīs eius, quōs ego dīligō in vēritāte, et nōn ego sōlus, sed et omnēs, quī nōvērunt vēritātem, 2 propter vēritātem, quae permanet in nōbīs et nōbīscum erit in sempiternum. 3 Erit nōbīscum grātia, misericordia, pāx ā Deō Patre et ā Iēsū Chrīstō, Fīliō Patris, in vēritāte et cāritāte.
 
