@@ -636,7 +636,7 @@ et in viīs ostendit sē illīs hilariter
 
 et in omnī **prōvidentiā** occurrit illīs.
 
-17 Initium enim illīus **vērissima** **est** disciplīnae **concupiscentia**,
+17 Initium enim illīus **vērissima** **est** disciplīnae **concupīscentia**,
 
 **cūra** vērō disciplīnae dīlēctiō **est**,
 
@@ -646,7 +646,7 @@ cūstōdītiō autem lēgum cōnfirmātiō incorruptiōnis **est**,
 
 19 incorruptiō autem facit **esse** proximum Deō;
 
-20 **concupiscentia** itaque sapientiae dēdūcit ad rēgnum.
+20 **concupīscentia** itaque sapientiae dēdūcit ad rēgnum.
 
 21 Sī ergō dēlectāminī sēdibus et scēptrīs, ō **rēgēs** **populī**,
 
@@ -2338,7 +2338,7 @@ et prō piscibus ēructāvit fluvius multitūdinem rānārum.
 
 11 **Novissimē** autem vīdērunt novam creātūram **avium**,
 
-cum, adductī **concupiscentia**, postulāvērunt **ēscās** epulātiōnis:
+cum, adductī **concupīscentia**, postulāvērunt **ēscās** epulātiōnis:
 
 12 in cōnsōlātiōnem enim dēsīderiī ascendit illīs dē marī **ortygomētra**.
 

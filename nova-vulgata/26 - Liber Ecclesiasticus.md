@@ -808,7 +808,7 @@ et in **mandātīs** illīus **maximē** assiduus **estō**;
 
 et ipse firmābit tibi cor,
 
-et **concupiscentia** sapientiae dabitur tibi.
+et **concupīscentia** sapientiae dabitur tibi.
 
 ## 7
 

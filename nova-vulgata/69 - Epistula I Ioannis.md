@@ -4,85 +4,31 @@
 
 ## 1
 
-1 Quod fuit ab initiō, quod audīvimus, quod vīdimus oculīs nostrīs, quod perspeximus, et manūs nostrae contrectāvērunt dē verbō vītae
+1 Quod fuit ab initiō, quod audīvimus, quod vīdimus oculīs nostrīs, quod perspeximus, et manūs nostrae contrectāvērunt dē verbō vītae 2 — et vīta appāruit, et vīdimus et testāmur et annūntiāmus vōbīs vītam aeternam, quae erat cōram Patre et appāruit nōbīs — 3 quod vīdimus et audīvimus, annūntiāmus et vōbīs, ut et vōs commūniōnem habeātis nōbīscum. Commūniō autem nostra est cum Patre et cum Fīliō eius Iēsū Chrīstō. 4 Et haec scrībimus nōs, ut gaudium nostrum sit plēnum. 5 Et haec est annūntiātiō, quam audīvimus ab eō et annūntiāmus vōbīs, quoniam Deus lūx est, et tenebrae in eō nōn sunt ūllae.
 
-2 — et vīta appāruit, et vīdimus et testāmur et annūntiāmus vōbīs vītam aeternam, quae erat cōram Patre et appāruit nōbīs —
+6 Sī dīxerimus quoniam commūniōnem habēmus cum eō, et in tenebrīs ambulāmus, mentīmur et nōn facimus vēritātem; 7 sī autem in lūce ambulēmus, sīcut ipse est in lūce, commūniōnem habēmus ad invicem, et sanguis Iēsū Fīliī eius mundat nōs ab omnī peccātō.
 
-3 quod vīdimus et audīvimus, annūntiāmus et vōbīs, ut et vōs commūniōnem habeātis nōbīscum. Commūniō autem nostra est cum Patre et cum Fīliō eius Iēsū Chrīstō.
-
-4 Et haec scrībimus nōs, ut gaudium nostrum sit plēnum.
-
-5 Et haec est annūntiātiō, quam audīvimus ab eō et annūntiāmus vōbīs, quoniam Deus lūx est, et tenebrae in eō nōn sunt ūllae.
-
-6 Sī dīxerimus quoniam commūniōnem habēmus cum eō, et in tenebrīs ambulāmus, mentīmur et nōn facimus vēritātem;
-
-7 sī autem in lūce ambulēmus, sīcut ipse est in lūce, commūniōnem habēmus ad invicem, et sanguis Iēsū Fīliī eius mundat nōs ab omnī peccātō.
-
-8 Sī dīxerimus quoniam peccātum nōn habēmus, nosmetipsōs sēdūcimus, et vēritās in nōbīs nōn est.
-
-9 Sī cōnfiteāmur peccāta nostra, fidēlis est et iūstus, ut remittat nōbīs peccāta et ēmundet nōs ab omnī iniūstitiā.
-
-10 Sī dīxerimus quoniam nōn peccāvimus, mendācem facimus eum, et verbum eius nōn est in nōbīs.
+8 Sī dīxerimus quoniam peccātum nōn habēmus, nosmetipsōs sēdūcimus, et vēritās in nōbīs nōn est. 9 Sī cōnfiteāmur peccāta nostra, fidēlis est et iūstus, ut remittat nōbīs peccāta et ēmundet nōs ab omnī iniūstitiā. 10 Sī dīxerimus quoniam nōn peccāvimus, mendācem facimus eum, et verbum eius nōn est in nōbīs.
 
 ## 2
 
-1 Fīliolī meī, haec scrībō vōbīs, ut nōn peccētis. Sed sī **quis** peccā verit, advocātum habēmus ad Patrem, Iēsum Chrīstum iūstum;
+1 Fīliolī meī, haec scrībō vōbīs, ut nōn peccētis. Sed sī quis peccāverit, advocātum habēmus ad Patrem, Iēsum Chrīstum iūstum; 2 et ipse est propitiātiō prō peccātīs nostrīs, nōn prō nostrīs autem tantum sed etiam prō tōtīus mundī.
 
-2 et ipse **est** propitiātiō prō **peccātīs** nostrīs, nōn prō nostrīs autem tantum sed etiam prō tōtīus mundī.
+3 Et in hōc cognōscimus quoniam nōvimus eum: sī mandāta eius servēmus. 4 Quī dīcit: ”Novī eum”, et mandāta eius nōn servat, mendāx est, et in istō vēritās nōn est; 5 quī autem servat verbum eius, vērē in hōc cāritās Deī cōnsummāta est. In hōc cognōscimus quoniam in ipsō sumus. 6 Quī dīcit sē in ipsō manēre, dēbet, sīcut ille ambulāvit, et ipse ambulāre.
 
-3 Et in **hōc** cognōscimus quoniam nōvimus eum: sī **mandāta** eius servēmus.
+7 Cārissimī, nōn mandātum novum scrībō vōbīs sed mandātum vetus, quod habuistis ab initiō: mandātum vetus est verbum, quod audīstis. 8 Vērumtamen mandātum novum scrībō vōbīs, quod est vērum in ipsō et in vōbīs, quoniam tenebrae trānseunt, et lūmen vērum iam lūcet. 9 Quī dīcit sē in lūce esse, et frātrem suum ōdit, in tenebrīs est usque adhūc. 10 Quī dīligit frātrem suum, in lūmine manet, et scandalum eī nōn est; 11 quī autem ōdit frātrem suum, in tenebrīs est et in tenebrīs ambulat et nescit quō vādat, quoniam tenebrae obcaecāvērunt oculōs eius.
 
-4 Quī dīcit: ”**Novī** eum”, et **mandāta** eius nōn servat, mendāx **est**, et in istō **vēritās** nōn **est**;
+12 Scrībō vōbīs, fīliolī: Remissa sunt vōbīs peccāta propter nōmen eius. 13 Scrībō vōbīs, patrēs: Nōstis eum, quī ab initiō est. Scrībō vōbīs, adulēscentēs: Vīcistis Malignum. 14 Scrīpsī vōbīs, parvulī: Nōstis Patrem. Scrīpsī vōbīs, patrēs: Nōstis eum, quī ab initiō est Scrīpsī vōbīs, adulēscentēs: Fortēs estis, et verbum Deī in vōbīs manet, et vīcistis Malignum.
 
-5 quī autem servat verbum eius, **vērē** in **hōc** **cāritās** Deī **cōnsummāta** **est**. In **hōc** cognōscimus quoniam in ipsō sumus.
+15 Nōlīte dīligere mundum neque ea, quae in mundō sunt. Sī quis dīligit mundum, nōn est cāritās Patris in eō; 16 quoniam omne, quod est in mundō, concupīscentia carnis et concupīscentia oculōrum et iactantia dīvitiārum, nōn est ex Patre, sed ex mundō est. 17 Et mundus trānsit, et concupīscentia eius; quī autem facit voluntātem Deī, manet in aeternum.
 
-6 Quī dīcit sē in ipsō **manēre**, dēbet, sīcut ille ambulāvit, et ipse ambulāre.
+18 Fīliolī, novissima hōra est; et sīcut audīstis quia antichrīstus venit, ita nunc antichrīstī multī adsunt, unde cognōscimus quoniam novissima hōra est. 19 Ex nōbīs prōdiērunt, sed nōn erant ex nōbīs, nam sī fuissent ex nōbīs, permānsissent nōbīscum; sed ut manifestārētur quoniam illī omnēs nōn sunt ex nōbīs. 20 Sed vōs ūnctiōnem habētis ā Sānctō et scītis omnēs. 21 Nōn scrīpsī vōbīs quasi nescientibus vēritātem sed quasi scientibus eam, et quoniam omne mendācium ex vēritāte nōn est. 22 Quis est mendāx, nisi is quī negat quoniam Iēsūs est Chrīstus? Hic est antichrīstus, quī negat Patrem et Fīlium. 23 Omnis, quī negat Fīlium, nec Patrem habet; quī cōnfitētur Fīlium, et Patrem habet.
 
-7 Cārissimī, nōn mandātum novum scrībō vōbīs sed mandātum vetus, quod habuistis ab initiō: mandātum vetus **est** verbum, quod audīstis.
+24 Vōs, quod audīstis ab initiō, in vōbīs permaneat; sī in vōbīs permānserit, quod ab initiō audīstis, et vōs in Fīliō et in Patre manēbitis. 25 Et haec est reprōmissiō, quam ipse pollicitus est nōbīs: vītam aeternam.
 
-8 Vērumtamen mandātum novum scrībō vōbīs, quod **est** vērum in ipsō et in vōbīs, quoniam tenebrae trānseunt, et lūmen vērum iam lūcet.
+26 Haec scrīpsī vōbīs dē eīs, quī sēdūcunt vōs. 27 Et vōs, ūnctiōnem, quam accēpistis ab eō, manet in vōbīs, et nōn necesse habētis, ut aliquis doceat vōs; sed sīcut ūnctiō ipsīus docet vōs dē omnibus, et vērum est, et nōn est mendācium, et, sīcut docuit vōs, manētis in eō. 28 Et nunc, fīliolī, manēte in eō, ut, cum appāruerit, habeāmus fīdūciam et nōn cōnfundāmur ab eō in adventū eius.
 
-9 Quī dīcit sē in **lūce** **esse**, et frātrem suum ōdit, in tenebrīs **est** usque adhūc.
-
-10 Quī dīligit frātrem suum, in lūmine **manet**, et scandalum **eī** nōn **est**;
-
-11 quī autem ōdit frātrem suum, in tenebrīs **est** et in tenebrīs ambulat et nescit quō **vadat**, quoniam tenebrae obcaecāvērunt oculōs eius.
-
-12 Scrībō vōbīs, fīliolī: **Remissa** sunt vōbīs **peccāta** propter **nōmen** eius.
-
-13 Scrībō vōbīs, patrēs: **Nōstis** eum, quī ab initiō **est**. Scrībō vōbīs, adulēscentēs: Vīcistis Malignum.
-
-14 Scrīpsī vōbīs, parvulī: **Nōstis** Patrem. Scrīpsī vōbīs, patrēs: **Nōstis** eum, quī ab initiō **est**. Scrīpsī vōbīs, adulēscentēs: Fortēs **estis**, et verbum Deī in vōbīs **manet**, et vīcistis Malignum.
-
-15 Nōlīte **dīligere** mundum neque **ea**, quae in mundō sunt. Sī **quis** dīligit mundum, nōn **est** **cāritās** Patris in eō;
-
-16 quoniam omne, quod **est** in mundō, **concupiscentia** **carnis** et **concupiscentia** oculōrum et **iactantia** dīvitiārum, nōn **est** ex Patre, sed ex mundō **est**.
-
-17 Et mundus trānsit, et **concupiscentia** eius; quī autem facit voluntātem Deī, **manet** in aeternum.
-
-18 Fīliolī, **novissima** **hōra** **est**; et sīcut audīstis quia antichrīstus **venit**, **ita** nunc antichrīstī multī adsunt, unde cognōscimus quoniam **novissima** **hōra** **est**.
-
-19 Ex nōbīs prōdiērunt, sed nōn erant ex nōbīs, nam sī fuissent ex nōbīs, permānsissent nōbīscum; sed ut manifestārētur quoniam illī omnēs nōn sunt ex nōbīs.
-
-20 Sed vōs ūnctiōnem habētis ā Sānctō et **scītis** omnēs.
-
-21 Nōn scrīpsī vōbīs quasi nescientibus vēritātem sed quasi scientibus eam, et quoniam omne mendācium ex vēritāte nōn **est**.
-
-22 **Quis** **est** mendāx, **nisi** **is** quī negat quoniam Iēsūs **est** Chrīstus? **Hic** **est** antichrīstus, quī negat Patrem et Fīlium.
-
-23 **Omnis**, quī negat Fīlium, nec Patrem habet; quī cōnfitētur Fīlium, et Patrem habet.
-
-24 Vōs, quod audīstis ab initiō, in vōbīs permaneat; sī in vōbīs permānserit, quod ab initiō audīstis, et vōs in Fīliō et in Patre manēbitis.
-
-25 Et haec **est** reprōmissiō, quam ipse pollicitus **est** nōbīs: vītam aeternam.
-
-26 Haec scrīpsī vōbīs dē eīs, quī sēdūcunt vōs.
-
-27 Et vōs, ūnctiōnem, quam accēpistis ab eō, **manet** in vōbīs, et nōn necesse habētis, ut aliquis doceat vōs; sed sīcut ūnctiō ipsīus docet vōs dē omnibus, et vērum **est**, et nōn **est** mendācium, et, sīcut docuit vōs, **manētis** in eō.
-
-28 Et nunc, fīliolī, manēte in eō, ut, cum appāruerit, habeāmus fīdūciam et nōn cōnfundāmur ab eō in adventū eius.
-
-29 Sī **scītis** quoniam iūstus **est**, scītōte quoniam et **omnis**, quī facit iūstitiam, ex ipsō **nātus** **est**.
+29 Sī scītis quoniam iūstus est, scītōte quoniam et omnis, quī facit iūstitiam, ex ipsō nātus est.
 
 ## 3
 

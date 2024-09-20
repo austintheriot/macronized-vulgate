@@ -39,7 +39,7 @@ Lectorem ad introductiones peculiares, ad quas res pertinent, remittimus, ut cri
 
 6. Idem verbum seu vocabulum Hebraicum vel Graecum non idem omnino verbum Latinum exposcit nec patitur; eligendum igitur est verbum homologum, quod contextus requirit, vel pressius verborum significationi respondet. Quod dicendum est etiam de notissimis illis hesed (gratia, misericordia, benignitas), qâhâl (coetus, conventus, ecclesia), berît (foedus, testamentum), rûah (ventus, halitus, animus), quae varias significationes habere possunt.
 
-7. Ad morphologiam et ad syntaxin et stilum quod attinet, lingua Latina, qua Nova Vulgata utitur, similis erit linguae christianae antiquae. Ideo omnia vocabula christianae Latinitatis servanda sunt, licet aetate classica aliam significationem habuerint, e. g. confiteri, elevare, iubilare, humiliare, oratio, passio, concupiscentia, gratia, iustitia, salus etc.
+7. Ad morphologiam et ad syntaxin et stilum quod attinet, lingua Latina, qua Nova Vulgata utitur, similis erit linguae christianae antiquae. Ideo omnia vocabula christianae Latinitatis servanda sunt, licet aetate classica aliam significationem habuerint, e. g. confiteri, elevare, iubilare, humiliare, oratio, passio, concupīscentia, gratia, iustitia, salus etc.
 
 Constructiones syntacticae admittuntur, quas auctores aetatis classicae repudiabant, e.g. quod (vel quia, rarissime quoniam) post verba sentiendi et dicendi, loco accusativi cum infinitivo. Regula Latinitatis christianae servanda est etiam in usu particularum (praepositionum et coniunctionum) et pronominum, prae omnibus cauto ut fideliter reddatur sensus textus primigenii.
 

@@ -1366,7 +1366,7 @@ effundantur super vastātōrem”.
 
 55 Dīxit autem Daniēl: ”**Rēctē** mentītus **es** in caput tuum; ecce enim angelus Deī, **acceptā** **sententia** ā Deō, scindet tē **medium**”.
 
-56 Et āmōtō eō, iussit addūcī alium et dīxit **eī**: ”Sēmen Chanaan et nōn Iūdae, speciēs dēcēpit tē, et **concupiscentia** subvertit cor tuum.
+56 Et āmōtō eō, iussit addūcī alium et dīxit **eī**: ”Sēmen Chanaan et nōn Iūdae, speciēs dēcēpit tē, et **concupīscentia** subvertit cor tuum.
 
 57 Sīc faciēbātis fīliābus Isrāēl, et illae timentēs loquēbantur vōbīs, sed nōn **fīlia** Iūdae sustinuit inīquitātem vestram.
 

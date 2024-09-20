@@ -1444,7 +1444,7 @@ ego Dominus **locūtus** sum”.
 
 15 et accīnctōs balteīs **rēnēs**, et tiārās dēfluentēs in capitibus eōrum; **aspectus** **essedariōrum** omnibus, similitūdō fīliōrum Babylōnis, quōrum **patriā** **Chaldaeā**.
 
-16 Et īnsānīvit super eōs **concupiscentia** oculōrum suōrum et mīsit nūntiōs ad eōs in Chaldaeam.
+16 Et īnsānīvit super eōs **concupīscentia** oculōrum suōrum et mīsit nūntiōs ad eōs in Chaldaeam.
 
 17 Cumque vēnissent ad eam fīliī Babylōnis ad cubīle amōris, polluērunt eam stuprīs **suīs**; et, cum **pollūta** **esset** ab eīs, recessit **anima** eius ab illīs.
 

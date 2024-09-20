@@ -32,7 +32,7 @@
 
 14 Ūnusquisque vērō tentātur ā **concupiscentiā** **suā** abstractus et **illēctus**;
 
-15 dein **concupiscentia**, cum concēperit, **parit** peccātum; peccātum vērō, cum cōnsummātum fuerit, generat mortem.
+15 dein **concupīscentia**, cum concēperit, **parit** peccātum; peccātum vērō, cum cōnsummātum fuerit, generat mortem.
 
 16 Nōlīte errāre, frātrēs meī dīlēctissimī.
 
