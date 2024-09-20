@@ -1,28 +1,28 @@
-# **EPISTULA** Ī **IŌANNIS**
+# EPISTULA I IŌANNIS
 
 [1](#1) [2](#2) [3](#3) [4](#4) [5](#5)
 
 ## 1
 
-1 Quod fuit ab initiō, quod audīvimus, quod vīdimus oculīs nostrīs, quod perspeximus, et **manūs** nostrae contrectāvērunt dē verbō vītae
+1 Quod fuit ab initiō, quod audīvimus, quod vīdimus oculīs nostrīs, quod perspeximus, et manūs nostrae contrectāvērunt dē verbō vītae
 
-2 — et **vīta** appāruit, et vīdimus et testāmur et annūntiāmus vōbīs vītam aeternam, quae erat **cōram** Patre et appāruit nōbīs —
+2 — et vīta appāruit, et vīdimus et testāmur et annūntiāmus vōbīs vītam aeternam, quae erat cōram Patre et appāruit nōbīs —
 
-3 quod vīdimus et audīvimus, annūntiāmus et vōbīs, ut et vōs commūniōnem habeātis nōbīscum. Commūniō autem **nostra** **est** cum Patre et cum Fīliō eius Iēsū Chrīstō.
+3 quod vīdimus et audīvimus, annūntiāmus et vōbīs, ut et vōs commūniōnem habeātis nōbīscum. Commūniō autem nostra est cum Patre et cum Fīliō eius Iēsū Chrīstō.
 
 4 Et haec scrībimus nōs, ut gaudium nostrum sit plēnum.
 
-5 Et haec **est** annūntiātiō, quam audīvimus ab eō et annūntiāmus vōbīs, quoniam Deus lūx **est**, et tenebrae in eō nōn sunt ūllae.
+5 Et haec est annūntiātiō, quam audīvimus ab eō et annūntiāmus vōbīs, quoniam Deus lūx est, et tenebrae in eō nōn sunt ūllae.
 
-6 Sī **dīxerīmus** quoniam commūniōnem habēmus cum eō, et in tenebrīs ambulāmus, mentīmur et nōn facimus vēritātem;
+6 Sī dīxerimus quoniam commūniōnem habēmus cum eō, et in tenebrīs ambulāmus, mentīmur et nōn facimus vēritātem;
 
-7 sī autem in **lūce** ambulēmus, sīcut ipse **est** in **lūce**, commūniōnem habēmus ad invicem, et sanguis Iēsū Fīliī eius mundat nōs ab omnī peccātō.
+7 sī autem in lūce ambulēmus, sīcut ipse est in lūce, commūniōnem habēmus ad invicem, et sanguis Iēsū Fīliī eius mundat nōs ab omnī peccātō.
 
-8 Sī **dīxerīmus** quoniam peccātum nōn habēmus, nosmetipsōs sēdūcimus, et **vēritās** in nōbīs nōn **est**.
+8 Sī dīxerimus quoniam peccātum nōn habēmus, nosmetipsōs sēdūcimus, et vēritās in nōbīs nōn est.
 
-9 Sī cōnfiteāmur **peccāta** **nostra**, **fidēlis** **est** et iūstus, ut remittat nōbīs **peccāta** et ēmundet nōs ab omnī **iniūstitiā**.
+9 Sī cōnfiteāmur peccāta nostra, fidēlis est et iūstus, ut remittat nōbīs peccāta et ēmundet nōs ab omnī iniūstitiā.
 
-10 Sī **dīxerīmus** quoniam nōn peccāvimus, mendācem facimus eum, et verbum eius nōn **est** in nōbīs.
+10 Sī dīxerimus quoniam nōn peccāvimus, mendācem facimus eum, et verbum eius nōn est in nōbīs.
 
 ## 2
 
@@ -221,5 +221,3 @@
 20 Et scīmus quoniam Fīlius Deī **venit** et **dēdit** nōbīs sēnsum, ut cognōscāmus eum, quī vērus **est**; et sumus in eō, quī vērus **est**, in Fīliō eius Iēsū Chrīstō. **Hic** **est** quī vērus **est**, Deus et **vīta** **aeterna**.
 
 21 Fīliolī, **cūstōdīte** vōs ā simulācrīs!
-
-
