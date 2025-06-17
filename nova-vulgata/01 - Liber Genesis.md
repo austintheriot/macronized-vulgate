@@ -95,7 +95,9 @@ In diē quō fēcit Dominus Deus terram et caelum ­
 
 9 Prōdūxitque Dominus Deus dē humō omne lignum pulchrum vīsū et ad vēscendum suāve, lignum etiam vītae in mediō paradīsī lignumque scientiae bonī et malī.
 
-10 Et fluvius ēgrediēbātur ex Ēden ad irrigandum paradīsum, quī inde dīviditur in quattuor capita. 11 Nōmen ūnī Phison: ipse est, quī circuit omnem terram Hevila, ubi est aurum;
+10 Et fluvius ēgrediēbātur ex Ēden ad irrigandum paradīsum, quī inde dīviditur in quattuor capita.
+
+11 Nōmen ūnī Phison: ipse est, quī circuit omnem terram Hevila, ubi est aurum;
 
 12 et aurum terrae illīus optimum est; ibi invenītur bdellium et lapis onychinus.
 
